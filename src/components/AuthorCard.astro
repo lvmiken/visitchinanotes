@@ -1,0 +1,52 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getAuthorSlug } from "../lib/authors";
+
+interface Props {
+  author: CollectionEntry<"authors">;
+  articleCount?: number;
+}
+
+const { author, articleCount = 0 } = Astro.props;
+---
+
+<article class="author-card">
+  <p class="eyebrow">{author.data.role}</p>
+  <h3>
+    <a href={`/authors/${getAuthorSlug(author)}/`}>{author.data.name}</a>
+  </h3>
+  <p>{author.data.shortBio}</p>
+  {author.data.expertise.length > 0 && (
+    <p class="meta">Focus: {author.data.expertise.slice(0, 3).join(", ")}</p>
+  )}
+  <p class="meta">{articleCount} published pages in this prototype</p>
+</article>
+
+<style>
+  .author-card {
+    padding: 1.25rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  }
+
+  h3 {
+    margin: 0.45rem 0 0.6rem;
+    font-size: 1.15rem;
+  }
+
+  a {
+    color: #111827;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .meta {
+    margin: 0.45rem 0 0;
+    color: #6b7280;
+    font-size: 0.92rem;
+  }
+</style>

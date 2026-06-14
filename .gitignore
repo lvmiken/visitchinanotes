@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.astro/
+
+.env
+
+*.log
+astro-dev.err.log
+astro-dev.out.log
+npm-install.log

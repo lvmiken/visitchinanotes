@@ -1,0 +1,40 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CityCard from "../../components/CityCard.astro";
+import { destinationGroups } from "../../lib/destinationGroups";
+
+const cities = await getCollection("cities");
+const groupedCities = destinationGroups
+  .map((group) => ({
+    ...group,
+    cities: cities.filter((city) => city.data.homepageGroups.includes(group.id)),
+  }))
+  .filter((group) => group.cities.length > 0);
+---
+
+<BaseLayout
+  title="China Destinations | City Guides for International Visitors"
+  description="Browse city landing pages for major destinations in China, including practical travel planning advice and featured guides."
+>
+  <section class="hero article">
+    <p class="eyebrow">Destination Index</p>
+    <h1>Choose the kind of trip you want first, then pick the city that fits it best.</h1>
+    <p>
+      Some travelers want an easy first stop, some want a deeper inland route, and others want a scenic break from big
+      cities. Start with the trip shape that feels right, then compare destinations within that group.
+    </p>
+  </section>
+
+  <section class="section-block stack">
+    {groupedCities.map((group) => (
+      <section class="card-surface">
+        <h2 class="section-title">{group.title}</h2>
+        <p class="muted">{group.description}</p>
+        <div class="grid three">
+          {group.cities.map((city) => <CityCard city={city} />)}
+        </div>
+      </section>
+    ))}
+  </section>
+</BaseLayout>

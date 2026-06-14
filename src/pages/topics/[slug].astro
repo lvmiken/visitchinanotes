@@ -1,0 +1,27 @@
+---
+import { getCollection } from "astro:content";
+import ArticleLayout from "../../layouts/ArticleLayout.astro";
+
+export async function getStaticPaths() {
+  const topics = await getCollection("topics", ({ data }) => !data.draft);
+
+  return topics.map((entry) => ({
+    params: { slug: entry.slug },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+
+<ArticleLayout
+  entry={entry}
+  breadcrumbs={[
+    { label: "Home", href: "/" },
+    { label: "Topics", href: "/topics/" },
+    { label: entry.data.title },
+  ]}
+>
+  <Content />
+</ArticleLayout>

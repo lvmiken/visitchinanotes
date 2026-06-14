@@ -1,0 +1,361 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import GuideCard from "../../components/GuideCard.astro";
+import TopicCard from "../../components/TopicCard.astro";
+import CityCard from "../../components/CityCard.astro";
+import PlanningHelpCallout from "../../components/PlanningHelpCallout.astro";
+import { guideStages } from "../../lib/guideStages";
+import { findCityEntry, getCitySlug, uniqueCityEntries } from "../../lib/cityEntries";
+
+export async function getStaticPaths() {
+  const cities = await getCollection("cities");
+
+  return cities.map((city) => ({
+    params: { city: getCitySlug(city) },
+    props: { city },
+  }));
+}
+
+const { city } = Astro.props;
+const allCities = await getCollection("cities");
+
+const allGuides = (await getCollection("guides", ({ data }) => !data.draft)).filter(
+  (guide) => guide.data.city.toLowerCase() === getCitySlug(city).toLowerCase(),
+);
+
+const relatedGuides = [
+  ...city.data.featuredGuideSlugs
+    .map((slug) => allGuides.find((guide) => guide.slug === slug))
+    .filter(Boolean),
+  ...allGuides.filter((guide) => !city.data.featuredGuideSlugs.includes(guide.slug)),
+];
+
+const allTopics = await getCollection("topics", ({ data }) => !data.draft);
+const citySlug = getCitySlug(city);
+const relevantTopics = allTopics
+  .map((topic) => {
+    let score = 0;
+
+    if (city.data.featuredTopicSlugs.includes(topic.slug)) {
+      score += 100;
+    }
+
+    if (topic.data.featuredCitySlugs.includes(citySlug)) {
+      score += 70;
+    }
+
+    if (topic.data.affectsCities.includes(city.data.name)) {
+      score += 40;
+    }
+
+    if (topic.data.planningMoment === "solve-basics") {
+      score += 8;
+    }
+
+    if (topic.data.planningMoment === "book-transport") {
+      score += 6;
+    }
+
+    return { topic, score };
+  })
+  .sort((a, b) => {
+    if (b.score !== a.score) {
+      return b.score - a.score;
+    }
+
+    return b.topic.data.publishDate.valueOf() - a.topic.data.publishDate.valueOf();
+  })
+  .map(({ topic }) => topic)
+  .slice(0, 6);
+
+const topicMomentsForCity = [
+  {
+    title: `Before You Finalize ${city.data.name}`,
+    description: "Read these first if you are still deciding whether this city fits the route and how it should be used.",
+    topics: relevantTopics.filter((topic) => topic.data.planningMoment === "choose-route").slice(0, 2),
+  },
+  {
+    title: "Before Arrival",
+    description: "These topics reduce day-one friction around entry, internet, payment, and getting into the city smoothly.",
+    topics: relevantTopics.filter((topic) => topic.data.planningMoment === "solve-basics").slice(0, 2),
+  },
+  {
+    title: "Before You Book Transport",
+    description: "Use these when rail, flights, airport transfers, or intercity timing start to shape the route.",
+    topics: relevantTopics.filter((topic) => topic.data.planningMoment === "book-transport").slice(0, 2),
+  },
+].filter((group) => group.topics.length > 0);
+
+const guidesByStage = guideStages
+  .map((stage) => ({
+    ...stage,
+    guides: relatedGuides.filter((guide) => guide.data.guideStage === stage.id),
+  }))
+  .filter((group) => group.guides.length > 0);
+
+const clusterSteps = [
+  {
+    title: `Decide whether ${city.data.name} fits the trip`,
+    description: `Start with pages that help you judge pace, trip length, and whether ${city.data.name} should be a main stop or an add-on.`,
+    links: [
+      ...relatedGuides
+        .filter((guide) => guide.data.guideStage === "choose-destination")
+        .map((guide) => ({
+          href: `/guides/${guide.slug}/`,
+          label: guide.data.title,
+          kind: "Guide",
+        })),
+      ...relevantTopics
+        .filter((topic) => topic.data.planningMoment === "choose-route")
+        .map((topic) => ({
+          href: `/topics/${topic.slug}/`,
+          label: topic.data.title,
+          kind: "Topic",
+        })),
+    ].slice(0, 3),
+  },
+  {
+    title: `Shape the stay in ${city.data.name}`,
+    description: "Move next into hotel area, trip length, and the city rhythm that will make the stop feel manageable.",
+    links: [
+      ...relatedGuides
+        .filter((guide) => guide.data.guideStage === "plan-stay")
+        .map((guide) => ({
+          href: `/guides/${guide.slug}/`,
+          label: guide.data.title,
+          kind: "Guide",
+        })),
+      ...relatedGuides
+        .filter((guide) => guide.data.guideStage === "build-itinerary")
+        .map((guide) => ({
+          href: `/guides/${guide.slug}/`,
+          label: guide.data.title,
+          kind: "Guide",
+        })),
+    ].slice(0, 3),
+  },
+  {
+    title: "Lock in practical details",
+    description: "Use supporting topic pages once payments, rail timing, and booking assumptions start to shape what is realistic.",
+    links: relevantTopics
+      .filter((topic) =>
+        ["solve-basics", "book-transport"].includes(topic.data.planningMoment),
+      )
+      .map((topic) => ({
+        href: `/topics/${topic.slug}/`,
+        label: topic.data.title,
+        kind: "Topic",
+      }))
+      .slice(0, 3),
+  },
+].filter((step) => step.links.length > 0);
+
+const pairingCities = uniqueCityEntries(
+  city.data.pairWith.map((pairing) => findCityEntry(allCities, pairing)),
+);
+const siteUrl = Astro.site ?? new URL(Astro.url.origin);
+const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const pageSchemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: new URL("/", siteUrl).href,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Destinations",
+        item: new URL("/destinations/", siteUrl).href,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: city.data.name,
+        item: canonical,
+      },
+    ],
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "TravelDestination",
+    name: city.data.name,
+    description: city.data.seoDescription,
+    url: canonical,
+    touristType: city.data.idealFor,
+  },
+];
+---
+
+<BaseLayout
+  title={city.data.seoTitle}
+  description={city.data.seoDescription}
+  image={city.data.heroImage}
+  schema={pageSchemas}
+>
+  <section class="split-hero">
+    <div class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Destinations", href: "/destinations/" }, { label: city.data.name }]} />
+      <p class="eyebrow">Destination Hub</p>
+      <h1>{city.data.name}</h1>
+      <p>{city.data.intro}</p>
+      <div class="button-row">
+        <a class="button-link primary" href="#city-guides">Browse {city.data.name} guides</a>
+        <a class="button-link secondary" href="#trip-basics">Read trip basics</a>
+      </div>
+    </div>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Trip Snapshot</p>
+        <h3>Why this city works</h3>
+      </div>
+      <p><strong>Ideal for:</strong> {city.data.idealFor.join(", ")}</p>
+      <p><strong>Suggested stay:</strong> {city.data.suggestedStay}</p>
+      <p><strong>Pace:</strong> {city.data.tripPace}</p>
+      <p><strong>Pairs well with:</strong> {city.data.pairWith.join(", ")}</p>
+      <p class="muted">Best months: {city.data.bestMonths.join(", ")}</p>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Start Here in {city.data.name}</h2>
+    <div class="feature-grid">
+      {city.data.planningPriorities.map((priority, index) => (
+        <article class="card-surface">
+          <p class="eyebrow">Priority {index + 1}</p>
+          <h3>{priority.title}</h3>
+          <p>{priority.description}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  {clusterSteps.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Plan {city.data.name} In Order</h2>
+      <div class="feature-grid">
+        {clusterSteps.map((step, index) => (
+          <article class="card-surface">
+            <p class="eyebrow">Step {index + 1}</p>
+            <h3>{step.title}</h3>
+            <p>{step.description}</p>
+            <ul class="hub-link-list">
+              {step.links.map((link) => (
+                <li>
+                  <a href={link.href}>{link.label}</a>
+                  <span>{link.kind}</span>
+                </li>
+              ))}
+            </ul>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
+  <section class="section-block">
+    <h2 class="section-title">Why Travelers Choose {city.data.name}</h2>
+    <div class="feature-grid">
+      {city.data.highlights.map((highlight) => (
+        <article class="card-surface">
+          <p>{highlight}</p>
+        </article>
+      ))}
+    </div>
+    <p class="muted" style="margin-top: 1rem;">{city.data.transportNote}</p>
+  </section>
+
+  <section class="section-block" id="city-guides">
+    <h2 class="section-title">{city.data.name} Guide Cluster</h2>
+    {guidesByStage.length > 0 ? (
+      <div class="stack">
+        {guidesByStage.map((group) => (
+          <section class="card-surface">
+            <h3>{group.label}</h3>
+            <p class="muted">{group.description}</p>
+            <div class="grid two">
+              {group.guides.map((guide) => <GuideCard guide={guide} />)}
+            </div>
+          </section>
+        ))}
+      </div>
+    ) : (
+      <p>More city-specific guides are on the way. For now, start with the trip basics below before you lock in plans.</p>
+    )}
+  </section>
+
+  {pairingCities.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Good Pairings With {city.data.name}</h2>
+      <p class="muted">These nearby or complementary stops can turn {city.data.name} into a more balanced wider route.</p>
+      <div class="grid two">
+        {pairingCities.map((pairingCity) => <CityCard city={pairingCity} />)}
+      </div>
+    </section>
+  )}
+
+  <section class="section-block" id="trip-basics">
+    <h2 class="section-title">Trip Basics That Matter For {city.data.name}</h2>
+    <p class="muted">Use these topic pages to solve the practical questions that often decide whether this city feels easy or stressful.</p>
+    <div class="stack">
+      {topicMomentsForCity.map((group) => (
+        <section class="card-surface">
+          <h3>{group.title}</h3>
+          <p class="muted">{group.description}</p>
+          <div class="grid two">
+            {group.topics.map((topic) => <TopicCard topic={topic} />)}
+          </div>
+        </section>
+      ))}
+    </div>
+  </section>
+
+  <PlanningHelpCallout
+    title={`Need help turning ${city.data.name} into a workable route?`}
+    description={`If the city looks right but the stay length, hotel area, or onward pairing still feels uncertain, this is the point where a light planning check can help.`}
+    primaryLabel="Open plan help"
+    primaryHref="/plan-help/"
+    secondaryLabel={`Browse ${city.data.name} guides`}
+    secondaryHref="#city-guides"
+    bullets={[
+      `Check whether ${city.data.name} should be a main stop or an add-on.`,
+      "Get a quick sense-check on hotel area, route pacing, and transfer fit.",
+      "Use a partner introduction only when you want human help with the next step.",
+    ]}
+  />
+</BaseLayout>
+
+<style>
+  .hub-link-list {
+    margin: 1rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .hub-link-list li + li {
+    margin-top: 0.65rem;
+  }
+
+  .hub-link-list a {
+    color: var(--text);
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .hub-link-list a:hover {
+    text-decoration: underline;
+  }
+
+  .hub-link-list span {
+    display: block;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+</style>

@@ -1,0 +1,35 @@
+{
+  "name": "Hangzhou",
+  "country": "China",
+  "intro": "Hangzhou fits travelers who want a scenic break from megacities, with lakeside walks, tea culture, and an easy side trip from Shanghai.",
+  "seoTitle": "Hangzhou Travel Guide for International Visitors",
+  "seoDescription": "Plan a first Hangzhou visit with West Lake-focused itinerary ideas, transport advice, and hotel base suggestions.",
+  "idealFor": ["scenic pacing", "easy Shanghai add-ons"],
+  "suggestedStay": "1 to 2 days",
+  "tripPace": "Best when the itinerary slows down and leaves space for scenery.",
+  "pairWith": ["Shanghai", "Suzhou"],
+  "bestMonths": ["March", "April", "October", "November"],
+  "highlights": [
+    "A strong scenic counterweight to faster megacity travel, especially for travelers who want room to breathe.",
+    "Works as either a soft overnight stop or a carefully shaped extension from Shanghai.",
+    "Best appreciated when scenery, tea culture, and pacing matter more than attraction density."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide day trip or overnight first",
+      "description": "That single choice changes the pace, hotel need, and how much of the lake area can be enjoyed well."
+    },
+    {
+      "title": "Avoid treating the city like a checklist",
+      "description": "Hangzhou is most rewarding when the trip allows for walking, views, and unhurried movement."
+    },
+    {
+      "title": "Fit Hangzhou into the larger route thoughtfully",
+      "description": "This city shines most when used to soften a more intense multi-city trip."
+    }
+  ],
+  "transportNote": "Hangzhou is easiest to use as a softer scenic stop when rail timing and the Shanghai connection are planned before the final itinerary is fixed.",
+  "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "featuredGuideSlugs": ["hangzhou-first-time-guide", "hangzhou-west-lake-planning", "hangzhou-day-trip-or-overnight"],
+  "featuredTopicSlugs": ["where-to-start", "choosing-hotel-location", "plan-your-trip", "train-vs-flight", "high-speed-rail"]
+}

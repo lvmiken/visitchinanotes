@@ -1,0 +1,35 @@
+{
+  "name": "Chongqing",
+  "country": "China",
+  "intro": "Chongqing is a strong pick for travelers who want dramatic urban scenery, bold food culture, and a city experience that feels intense, layered, and visually distinct.",
+  "seoTitle": "Chongqing Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first Chongqing trip with practical advice on pace, neighborhoods, transport assumptions, and how to combine the city with Chengdu or other western China stops.",
+  "idealFor": ["dramatic urban scenery", "spicy food and atmosphere"],
+  "suggestedStay": "2 to 4 days",
+  "tripPace": "Best when travelers expect a more intense city rhythm and accept elevation and scale as part of the experience.",
+  "pairWith": ["Chengdu", "Yangtze-focused routes"],
+  "bestMonths": ["March", "April", "October", "November"],
+  "highlights": [
+    "Feels visually and spatially unlike most other major cities in China, which gives the site a strong differentiator.",
+    "Works for readers drawn to food, river views, and layered urban geography rather than classic landmark tourism.",
+    "Pairs naturally with Chengdu as a contrasting two-city route."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Set expectations around terrain and scale",
+      "description": "Chongqing is more rewarding when readers know that stairs, slopes, and complex movement are part of the city's identity."
+    },
+    {
+      "title": "Treat evenings as part of the experience",
+      "description": "Night views, food streets, and riverside atmosphere should shape the plan, not just daytime sightseeing."
+    },
+    {
+      "title": "Use Chongqing as a contrast city",
+      "description": "It works best when presented as a different urban experience from cities like Shanghai or Beijing, not as a direct substitute."
+    }
+  ],
+  "transportNote": "Chongqing benefits from content that prepares travelers for hilly terrain, layered transport experiences, and strong neighborhood-based planning.",
+  "homepageGroups": ["north-inland-routes"],
+  "featuredGuideSlugs": ["chongqing-first-time-guide", "chongqing-where-to-stay"],
+  "featuredTopicSlugs": ["where-to-start", "esim-and-internet", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail", "plan-your-trip"]
+}

@@ -1,0 +1,439 @@
+---
+import HeadSEO from "../components/HeadSEO.astro";
+import {
+  organizationDescription,
+  organizationName,
+  siteDescription,
+  siteName,
+  siteTagline,
+} from "../lib/site";
+
+interface Props {
+  title: string;
+  description: string;
+  image?: string;
+  type?: "website" | "article";
+  publishedTime?: Date;
+  modifiedTime?: Date;
+  schema?: Record<string, unknown> | Array<Record<string, unknown>>;
+}
+
+const {
+  title,
+  description,
+  image,
+  type = "website",
+  publishedTime,
+  modifiedTime,
+  schema,
+} = Astro.props;
+
+const siteUrl = Astro.site ?? new URL(Astro.url.origin);
+const siteRoot = new URL("/", siteUrl).href;
+const siteSchemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: siteName,
+    url: siteRoot,
+    inLanguage: "en",
+    description: siteDescription,
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    name: organizationName,
+    url: siteRoot,
+    description: organizationDescription,
+  },
+];
+
+const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <HeadSEO
+      title={title}
+      description={description}
+      image={image}
+      type={type}
+      publishedTime={publishedTime}
+      modifiedTime={modifiedTime}
+      schema={[...siteSchemas, ...pageSchemas]}
+    />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell header-inner">
+        <div>
+          <a class="logo" href="/">{siteName}</a>
+          <p class="site-tagline">{siteTagline}</p>
+        </div>
+        <nav>
+          <a href="/destinations/">Destinations</a>
+          <a href="/guides/">Guides</a>
+          <a href="/topics/">Trip Topics</a>
+          <a href="/plan-help/">Plan Help</a>
+          <a href="/contribute/">Contribute</a>
+        </nav>
+      </div>
+    </header>
+    <main class="shell">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div>
+          <p class="footer-title">{siteName}</p>
+          <p>Editorial travel guides for first-time visitors planning a trip to China.</p>
+        </div>
+        <div>
+          <p class="footer-title">Explore</p>
+          <div class="footer-links">
+            <a href="/destinations/">Destinations</a>
+            <a href="/guides/">Guides</a>
+            <a href="/topics/">Trip Topics</a>
+            <a href="/plan-help/">Plan Help</a>
+            <a href="/contribute/">Contribute</a>
+          </div>
+        </div>
+        <div>
+          <p class="footer-title">About This Site</p>
+          <div class="footer-links">
+            <a href="/about/">About</a>
+            <a href="/authors/">Authors</a>
+            <a href="/editorial-policy/">Editorial Policy</a>
+            <a href="/privacy/">Privacy</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    color-scheme: light;
+    --bg: #fffaf2;
+    --surface: #ffffff;
+    --surface-alt: #f8fafc;
+    --text: #111827;
+    --muted: #4b5563;
+    --border: #e5e7eb;
+    --accent: #0f766e;
+    --accent-soft: #dff8f1;
+    --accent-strong: #155e75;
+    --warm: #b45309;
+    --shadow: 0 20px 45px rgba(15, 23, 42, 0.08);
+  }
+
+  * {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Georgia, "Times New Roman", serif;
+    color: var(--text);
+    background:
+      radial-gradient(circle at top left, #fff0cf 0%, transparent 28%),
+      linear-gradient(180deg, #fffdf8 0%, #fffaf2 100%);
+    line-height: 1.65;
+  }
+
+  a {
+    color: var(--accent);
+  }
+
+  img {
+    max-width: 100%;
+    display: block;
+  }
+
+  .shell {
+    width: min(1100px, calc(100% - 2rem));
+    margin: 0 auto;
+  }
+
+  .site-header,
+  .site-footer {
+    background: rgba(255, 255, 255, 0.92);
+    backdrop-filter: blur(10px);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 0;
+  }
+
+  .logo {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 1.3rem;
+    font-weight: 700;
+  }
+
+  .site-tagline {
+    margin: 0.2rem 0 0;
+    color: var(--muted);
+    font-size: 0.92rem;
+  }
+
+  nav {
+    display: flex;
+    gap: 1rem;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: var(--muted);
+  }
+
+  main {
+    padding: 2rem 0 4rem;
+  }
+
+  .site-footer {
+    border-top: 1px solid var(--border);
+    padding: 1rem 0 2rem;
+    color: var(--muted);
+  }
+
+  .footer-grid {
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  }
+
+  .footer-title {
+    margin: 0 0 0.55rem;
+    color: var(--text);
+    font-weight: 700;
+  }
+
+  .footer-links {
+    display: grid;
+    gap: 0.35rem;
+  }
+
+  .footer-links a {
+    color: var(--muted);
+    text-decoration: none;
+  }
+
+  .footer-links a:hover {
+    text-decoration: underline;
+  }
+
+  .section-title {
+    margin: 0 0 1rem;
+    font-size: 1.7rem;
+  }
+
+  .grid {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .grid.two {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  }
+
+  .grid.three {
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  }
+
+  .hero {
+    padding: 2.25rem;
+    border: 1px solid var(--border);
+    border-radius: 1.6rem;
+    background: linear-gradient(135deg, var(--surface) 0%, var(--accent-soft) 100%);
+    box-shadow: var(--shadow);
+  }
+
+  .eyebrow {
+    margin: 0 0 0.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--accent);
+    font-size: 0.85rem;
+    font-weight: 700;
+  }
+
+  .article {
+    max-width: 760px;
+  }
+
+  .section-block {
+    margin-top: 2.5rem;
+  }
+
+  .card-surface {
+    padding: 1.25rem;
+    border-radius: 1rem;
+    border: 1px solid var(--border);
+    background: rgba(255, 255, 255, 0.94);
+  }
+
+  .button-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem;
+    margin-top: 1.25rem;
+  }
+
+  .button-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.8rem 1.1rem;
+    border-radius: 999px;
+    text-decoration: none;
+    font-weight: 700;
+    border: 1px solid transparent;
+  }
+
+  .button-link.primary {
+    background: var(--accent);
+    color: white;
+  }
+
+  .button-link.secondary {
+    background: white;
+    color: var(--accent-strong);
+    border-color: var(--border);
+  }
+
+  .stat-grid {
+    display: grid;
+    gap: 0.9rem;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    margin-top: 1.5rem;
+  }
+
+  .stat-grid strong {
+    display: block;
+    font-size: 1.65rem;
+    line-height: 1;
+    color: var(--accent-strong);
+  }
+
+  .split-hero {
+    display: grid;
+    gap: 1.25rem;
+    grid-template-columns: minmax(0, 1.7fr) minmax(280px, 1fr);
+    align-items: stretch;
+  }
+
+  .stack {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .mini-list {
+    margin: 0;
+    padding-left: 1.1rem;
+  }
+
+  .mini-list li + li {
+    margin-top: 0.45rem;
+  }
+
+  .feature-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  }
+
+  .feature-grid h3,
+  .stack h3 {
+    margin: 0 0 0.5rem;
+  }
+
+  .muted {
+    color: var(--muted);
+  }
+
+  .pill-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    margin-top: 1rem;
+  }
+
+  .pill-row span {
+    padding: 0.35rem 0.75rem;
+    border-radius: 999px;
+    background: #fff7ed;
+    border: 1px solid #fed7aa;
+    color: #9a3412;
+    font-size: 0.9rem;
+  }
+
+  .article h1 {
+    margin: 0.75rem 0 1rem;
+    font-size: clamp(2rem, 5vw, 3.4rem);
+    line-height: 1.1;
+  }
+
+  .article h2,
+  .article h3 {
+    margin-top: 2rem;
+  }
+
+  .article-header {
+    margin-bottom: 2rem;
+  }
+
+  .meta-row {
+    color: var(--muted);
+    font-size: 0.95rem;
+  }
+
+  .tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tag-list li {
+    padding: 0.3rem 0.7rem;
+    border-radius: 999px;
+    background: var(--surface-alt);
+    border: 1px solid var(--border);
+    font-size: 0.9rem;
+  }
+
+  @media (max-width: 720px) {
+    .header-inner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    nav {
+      flex-wrap: wrap;
+    }
+
+    .hero {
+      padding: 1.5rem;
+    }
+
+    .split-hero {
+      grid-template-columns: 1fr;
+    }
+
+    .button-row {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+</style>

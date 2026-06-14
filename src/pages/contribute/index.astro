@@ -1,0 +1,77 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import ContributeForm from "../../components/ContributeForm.astro";
+
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+const contributionIdeas = [
+  {
+    title: "City-specific practical advice",
+    description: "Neighborhood choice, transport patterns, booking friction, and real arrival-day tradeoffs are more useful than generic attraction lists.",
+  },
+  {
+    title: "Topic pages that solve real planning pain",
+    description: "Good pitches usually reduce uncertainty around payments, trains, flights, internet access, or route pacing.",
+  },
+  {
+    title: "First-hand local context",
+    description: "Writers with local knowledge can often explain what a first-time foreign visitor may misunderstand from surface-level guides.",
+  },
+];
+---
+
+<BaseLayout
+  title="Contribute | China Travel Notes"
+  description="Pitch an article idea, city insight, or contributor inquiry for China Travel Notes."
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Contribute" }]} />
+      <p class="eyebrow">Contribute</p>
+      <h1>Send article ideas, local insight, or contributor pitches.</h1>
+      <p>
+        This page is for people who want to contribute a useful travel-planning angle, suggest a missing topic, or ask
+        about writing for the site. The strongest submissions are practical, specific, and clearly aimed at first-time visitors to China.
+      </p>
+      <div class="button-row">
+        <a class="button-link primary" href="#contribute-form">Open submission form</a>
+        {contactEmail && <a class="button-link secondary" href={`mailto:${contactEmail}`}>Email the editor</a>}
+      </div>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Best Fits</p>
+        <h3>Useful contributions solve a planning problem, not just a content gap.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>Clear city angles for first-time foreign visitors.</li>
+        <li>Practical transport, payment, booking, or route advice.</li>
+        <li>Contributor pitches with a clear reason the page should exist.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">What Makes A Strong Pitch</h2>
+    <div class="feature-grid">
+      {contributionIdeas.map((idea) => (
+        <article class="card-surface">
+          <h3>{idea.title}</h3>
+          <p>{idea.description}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">How To Submit</p>
+    <h2 class="section-title">Form first, email if needed.</h2>
+    <p>
+      The cleanest workflow is to use the form so the pitch arrives in a structured format. If you prefer, you can also
+      pitch by email{contactEmail ? ` at ${contactEmail}` : " once a contact email is configured"}.
+    </p>
+  </section>
+
+  <ContributeForm />
+</BaseLayout>

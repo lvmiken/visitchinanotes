@@ -1,0 +1,59 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import AuthorCard from "../../components/AuthorCard.astro";
+import { getAuthorSlug } from "../../lib/authors";
+
+const authors = await getCollection("authors");
+const guides = await getCollection("guides", ({ data }) => !data.draft);
+const topics = await getCollection("topics", ({ data }) => !data.draft);
+
+const authorSummaries = authors.map((author) => {
+  const articleCount =
+    guides.filter((guide) => guide.data.author === author.data.name).length +
+    topics.filter((topic) => topic.data.author === author.data.name).length;
+
+  return {
+    author,
+    articleCount,
+    href: `/authors/${getAuthorSlug(author)}/`,
+  };
+});
+---
+
+<BaseLayout
+  title="Authors | China Travel Notes"
+  description="Meet the editorial authors behind China Travel Notes and browse the travel planning pages they maintain."
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Authors" }]} />
+      <p class="eyebrow">Authors</p>
+      <h1>See who reviews the travel planning advice on this site.</h1>
+      <p>
+        Author pages make it easier to understand who is publishing the advice, what kind of planning expertise they
+        focus on, and how content is reviewed before it goes live.
+      </p>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Why This Matters</p>
+        <h3>Trust grows when editorial responsibility is visible.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>Readers can see who stands behind route and planning advice.</li>
+        <li>Updated content looks more intentional when editorial ownership is clear.</li>
+        <li>Future contributors can be added without changing article templates.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Editorial Authors</h2>
+    <div class="grid two">
+      {authorSummaries.map(({ author, articleCount }) => <AuthorCard author={author} articleCount={articleCount} />)}
+    </div>
+  </section>
+</BaseLayout>

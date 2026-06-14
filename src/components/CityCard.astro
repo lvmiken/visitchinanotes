@@ -1,0 +1,58 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getCitySlug } from "../lib/cityEntries";
+
+interface Props {
+  city: CollectionEntry<"cities">;
+}
+
+const { city } = Astro.props;
+---
+
+<article class="card">
+  {city.data.idealFor.length > 0 && <p class="eyebrow">{city.data.idealFor[0]}</p>}
+  <h3>
+    <a href={`/destinations/${getCitySlug(city)}/`}>{city.data.name}</a>
+  </h3>
+  <p>{city.data.intro}</p>
+  <p class="meta">Suggested stay: {city.data.suggestedStay}</p>
+  <p class="meta">Best months: {city.data.bestMonths.join(", ")}</p>
+</article>
+
+<style>
+  .card {
+    padding: 1.25rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  }
+
+  h3 {
+    margin: 0 0 0.5rem;
+    font-size: 1.2rem;
+  }
+
+  .eyebrow {
+    margin: 0 0 0.4rem;
+    color: #0f766e;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 700;
+  }
+
+  a {
+    color: #111827;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .meta {
+    color: #6b7280;
+    margin: 0.25rem 0 0;
+    font-size: 0.9rem;
+  }
+</style>

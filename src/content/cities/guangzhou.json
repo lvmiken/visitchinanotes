@@ -1,0 +1,35 @@
+{
+  "name": "Guangzhou",
+  "country": "China",
+  "intro": "Guangzhou suits travelers who want Cantonese food culture, a major southern transport hub, and a city that feels practical rather than checklist-heavy.",
+  "seoTitle": "Guangzhou Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Guangzhou with practical advice on food-focused neighborhoods, trip pace, and how to use the city within a larger South China route.",
+  "idealFor": ["Cantonese food travelers", "South China route planning"],
+  "suggestedStay": "2 to 4 days",
+  "tripPace": "Best as a practical food and city-life stop with room for evenings.",
+  "pairWith": ["Hong Kong", "Shenzhen"],
+  "bestMonths": ["October", "November", "December", "March"],
+  "highlights": [
+    "Strong for travelers who care more about food, neighborhoods, and regional culture than about headline landmark collecting.",
+    "Works especially well as a transport-smart stop in a South China itinerary.",
+    "Gives the site a different city archetype from Beijing or Shanghai because it is less about iconic first-postcard sights."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Guangzhou is a main stop or a connector city",
+      "description": "The city can work either as a standalone food-focused destination or as a practical anchor in a broader southern route."
+    },
+    {
+      "title": "Plan around neighborhoods and meals, not just attractions",
+      "description": "Guangzhou becomes much more rewarding when readers think in terms of districts, evening food plans, and transit convenience."
+    },
+    {
+      "title": "Shape nearby pairings early",
+      "description": "If Hong Kong, Shenzhen, or another Pearl River Delta city is part of the trip, transport logic should be decided before the day-by-day plan."
+    }
+  ],
+  "transportNote": "Guangzhou is especially useful in itineraries where rail connections and regional combinations matter as much as the city itself.",
+  "homepageGroups": ["first-time-essentials", "south-east-add-ons"],
+  "featuredGuideSlugs": ["guangzhou-first-time-guide", "guangzhou-where-to-stay"],
+  "featuredTopicSlugs": ["choosing-hotel-location", "airport-to-city", "alipay-wechat-pay", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail"]
+}

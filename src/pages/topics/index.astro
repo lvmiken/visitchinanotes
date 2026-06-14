@@ -1,0 +1,53 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import TopicCard from "../../components/TopicCard.astro";
+import TopicClusterCard from "../../components/TopicClusterCard.astro";
+import { topicMoments } from "../../lib/topicMoments";
+import { topicClusters } from "../../lib/topicClusters";
+
+const topics = (await getCollection("topics", ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
+);
+
+const groupedTopics = topicMoments
+  .map((moment) => ({
+    ...moment,
+    topics: topics.filter((topic) => topic.data.planningMoment === moment.id),
+  }))
+  .filter((group) => group.topics.length > 0);
+---
+
+<BaseLayout
+  title="China Trip Topics | Planning Basics for International Travelers"
+  description="Practical topic pages for payments, transport, trip planning, and other China travel basics."
+>
+  <section class="hero article">
+    <p class="eyebrow">Topic Index</p>
+    <h1>Read these basics at the moment they become useful, not after they turn into trip stress.</h1>
+    <p>
+      These pages cover the practical questions many travelers ask first, from choosing a manageable route to sorting
+      out payments and understanding how transport will actually feel.
+    </p>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Topic Hubs</h2>
+    <p class="muted">Start with these larger topic silos if you want to solve one planning area end to end instead of jumping between isolated articles.</p>
+    <div class="grid two">
+      {topicClusters.map((cluster) => <TopicClusterCard cluster={cluster} />)}
+    </div>
+  </section>
+
+  <section class="section-block stack">
+    {groupedTopics.map((group) => (
+      <section class="card-surface">
+        <h2 class="section-title">{group.label}</h2>
+        <p class="muted">{group.description}</p>
+        <div class="grid two">
+          {group.topics.map((topic) => <TopicCard topic={topic} />)}
+        </div>
+      </section>
+    ))}
+  </section>
+</BaseLayout>

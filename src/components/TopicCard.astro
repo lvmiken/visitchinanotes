@@ -1,0 +1,59 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { topicMomentMap } from "../lib/topicMoments";
+import { slugifyAuthorValue } from "../lib/authors";
+
+interface Props {
+  topic: CollectionEntry<"topics">;
+}
+
+const { topic } = Astro.props;
+const planningMomentLabel = topicMomentMap[topic.data.planningMoment]?.label ?? "Trip Topic";
+const citySummary =
+  topic.data.affectsCities.length > 0 ? topic.data.affectsCities.slice(0, 3).join(", ") : "Useful across many first-time routes";
+const authorSlug = slugifyAuthorValue(topic.data.author);
+---
+
+<article class="topic-card">
+  <p class="eyebrow">{planningMomentLabel}</p>
+  <h3>
+    <a href={`/topics/${topic.slug}/`}>{topic.data.title}</a>
+  </h3>
+  <p>{topic.data.description}</p>
+  <p class="meta">{topic.data.whenToRead}</p>
+  <p class="meta">{citySummary}</p>
+  <p class="meta">By <a class="meta-link" href={`/authors/${authorSlug}/`}>{topic.data.author}</a></p>
+</article>
+
+<style>
+  .topic-card {
+    padding: 1.25rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+  }
+
+  h3 {
+    margin: 0.45rem 0 0.6rem;
+    font-size: 1.15rem;
+  }
+
+  .meta {
+    margin: 0.45rem 0 0;
+    color: #6b7280;
+    font-size: 0.92rem;
+  }
+
+  a {
+    color: #111827;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .meta-link {
+    color: inherit;
+  }
+</style>

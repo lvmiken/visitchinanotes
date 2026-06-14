@@ -1,0 +1,75 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+
+const collected = [
+  "Trip outline, city list, trip length, and planning notes entered into the request form.",
+  "Contact details needed to reply to a planning request.",
+  "Basic referral context when a traveler explicitly asks for partner support.",
+];
+
+const usage = [
+  "To reply to planning requests.",
+  "To decide whether the request is a better fit for editorial guidance or a partner introduction.",
+  "To pass relevant details to a travel partner only when that next step matches the request.",
+];
+---
+
+<BaseLayout
+  title="Privacy | China Travel Notes"
+  description="Understand what information a planning request may collect and how it may be used or shared for follow-up."
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Privacy" }]} />
+      <p class="eyebrow">Privacy</p>
+      <h1>Only collect the details needed to help with the trip.</h1>
+      <p>
+        A travel-planning request should not require more information than necessary. The purpose of collecting details
+        is to understand the route question and respond appropriately.
+      </p>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Short Version</p>
+        <h3>Requests are for follow-up, not for unnecessary data collection.</h3>
+      </div>
+      <p class="muted">
+        If a traveler asks for partner support, only the details relevant to that request should be shared onward.
+      </p>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">What A Planning Request May Include</h2>
+    <div class="feature-grid">
+      {collected.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">How The Information May Be Used</h2>
+    <div class="feature-grid">
+      {usage.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Partner Sharing</p>
+    <h2 class="section-title">When Details May Be Shared</h2>
+    <p>
+      If the traveler asks for booking support or a partner introduction, the request may be shared with a relevant
+      travel partner so they can follow up directly. The purpose of that sharing is to continue the requested service,
+      not to widen distribution of the information.
+    </p>
+  </section>
+</BaseLayout>

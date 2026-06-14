@@ -1,0 +1,35 @@
+{
+  "name": "Shanghai",
+  "country": "China",
+  "intro": "Shanghai is a natural landing page for travelers who want a modern skyline, easy metro navigation, and short urban itineraries that mix food, shopping, and architecture.",
+  "seoTitle": "Shanghai Travel Guide for International Visitors",
+  "seoDescription": "Explore neighborhoods, transport tips, and itinerary planning advice for a first trip to Shanghai.",
+  "idealFor": ["short urban trips", "easy first-time navigation"],
+  "suggestedStay": "2 to 4 days",
+  "tripPace": "Works best as a compact city-break with room for neighborhoods and food.",
+  "pairWith": ["Hangzhou", "Suzhou"],
+  "bestMonths": ["March", "April", "October", "November"],
+  "highlights": [
+    "A comfortable starting city for travelers who want modern transport, manageable navigation, and a softer landing into China.",
+    "Supports short itineraries well because neighborhoods and skyline experiences can be grouped cleanly.",
+    "Easy to combine with nearby scenic or slower-paced extensions like Hangzhou."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Treat Shanghai as an urban rhythm city",
+      "description": "Mix skyline stops with neighborhoods, food streets, and flexible walking time instead of overpacking landmark lists."
+    },
+    {
+      "title": "Choose the right neighborhood base",
+      "description": "The right hotel area matters more than chasing one famous address because Shanghai is best experienced by district."
+    },
+    {
+      "title": "Plan nearby extensions early",
+      "description": "If Hangzhou or another nearby city is part of the trip, shape the rail timing before finalizing the city days."
+    }
+  ],
+  "transportNote": "Shanghai is one of the easiest first cities in China for international travelers because metro use and airport transfers are comparatively straightforward.",
+  "homepageGroups": ["first-time-essentials", "south-east-add-ons"],
+  "featuredGuideSlugs": ["shanghai-first-time-guide", "shanghai-where-to-stay", "shanghai-3-day-itinerary"],
+  "featuredTopicSlugs": ["choosing-hotel-location", "where-to-start", "airport-to-city", "esim-and-internet", "alipay-wechat-pay", "metro-taxi-ridehailing"]
+}

@@ -1,0 +1,360 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import CityCard from "../components/CityCard.astro";
+import GuideCard from "../components/GuideCard.astro";
+import TopicCard from "../components/TopicCard.astro";
+import TopicClusterCard from "../components/TopicClusterCard.astro";
+import PlanningHelpCallout from "../components/PlanningHelpCallout.astro";
+import { guideStageMap } from "../lib/guideStages";
+import { topicMomentMap } from "../lib/topicMoments";
+import { findCityEntry, getCitySlug, uniqueCityEntries } from "../lib/cityEntries";
+import { getTopicClusterForTopicSlug, getTopicsForCluster } from "../lib/topicClusters";
+import { findAuthorEntry, getAuthorSlug } from "../lib/authors";
+import { organizationName } from "../lib/site";
+
+interface Props {
+  entry: CollectionEntry<"guides"> | CollectionEntry<"topics">;
+  breadcrumbs: { label: string; href?: string }[];
+}
+
+const { entry, breadcrumbs } = Astro.props;
+const isGuide = entry.collection === "guides";
+const allCities = await getCollection("cities");
+const allAuthors = await getCollection("authors");
+const allTopics = await getCollection("topics", ({ data }) => !data.draft);
+const allGuides = await getCollection("guides", ({ data }) => !data.draft);
+const cityHub = isGuide ? findCityEntry(allCities, entry.data.city) : undefined;
+const authorEntry = findAuthorEntry(allAuthors, entry.data.author);
+const relatedTopics = isGuide
+  ? [
+      ...entry.data.relatedTopicSlugs
+        .map((slug) => allTopics.find((topic) => topic.slug === slug))
+        .filter(Boolean),
+      ...allTopics.filter((topic) => !entry.data.relatedTopicSlugs.includes(topic.slug)),
+    ].slice(0, 2)
+  : [
+      ...allTopics.filter(
+        (topic) => topic.slug !== entry.slug && topic.data.planningMoment === entry.data.planningMoment,
+      ),
+      ...allTopics.filter((topic) => topic.slug !== entry.slug),
+    ].slice(0, 2);
+const relatedGuides = isGuide
+  ? allGuides
+      .filter(
+        (guide) =>
+          guide.slug !== entry.slug &&
+          guide.data.city.toLowerCase() === entry.data.city.toLowerCase(),
+      )
+      .slice(0, 2)
+  : [
+      ...entry.data.relatedGuideSlugs
+        .map((slug) => allGuides.find((guide) => guide.slug === slug))
+        .filter(Boolean),
+      ...allGuides.filter((guide) => !entry.data.relatedGuideSlugs.includes(guide.slug)),
+    ].slice(0, 2);
+const stageLabel = isGuide ? guideStageMap[entry.data.guideStage]?.label : undefined;
+const topicMomentLabel = !isGuide ? topicMomentMap[entry.data.planningMoment]?.label : undefined;
+const relatedCities = !isGuide
+  ? uniqueCityEntries(entry.data.affectsCities.map((cityName) => findCityEntry(allCities, cityName))).slice(0, 4)
+  : [];
+const topicCluster = !isGuide ? getTopicClusterForTopicSlug(entry.slug) : undefined;
+const moreInCluster =
+  !isGuide && topicCluster
+    ? getTopicsForCluster(topicCluster, allTopics).filter((topic) => topic.slug !== entry.slug).slice(0, 3)
+    : [];
+const siteUrl = Astro.site ?? new URL(Astro.url.origin);
+const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: breadcrumbs.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: item.label,
+    ...(item.href ? { item: new URL(item.href, siteUrl).href } : { item: canonical }),
+  })),
+};
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: entry.data.title,
+  description: entry.data.description,
+  datePublished: entry.data.publishDate.toISOString(),
+  dateModified: (entry.data.updatedDate ?? entry.data.publishDate).toISOString(),
+  author: authorEntry
+    ? {
+        "@type": authorEntry.data.entityType === "organization" ? "Organization" : "Person",
+        name: authorEntry.data.name,
+        url: new URL(`/authors/${getAuthorSlug(authorEntry)}/`, siteUrl).href,
+        description: authorEntry.data.shortBio,
+      }
+    : {
+        "@type": "Person",
+        name: entry.data.author,
+      },
+  publisher: {
+    "@type": "Organization",
+    name: organizationName,
+  },
+  mainEntityOfPage: canonical,
+  articleSection: isGuide ? stageLabel : topicMomentLabel,
+  keywords: entry.data.tags.join(", "),
+};
+const faqSchema =
+  entry.data.faq.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: entry.data.faq.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer,
+          },
+        })),
+      }
+    : undefined;
+const pageSchemas = faqSchema ? [breadcrumbSchema, articleSchema, faqSchema] : [breadcrumbSchema, articleSchema];
+---
+
+<BaseLayout
+  title={entry.data.title}
+  description={entry.data.description}
+  image={entry.data.heroImage}
+  type="article"
+  publishedTime={entry.data.publishDate}
+  modifiedTime={entry.data.updatedDate}
+  schema={pageSchemas}
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <div class="article-header">
+        <Breadcrumbs items={breadcrumbs} />
+        <p class="eyebrow">{isGuide ? entry.data.city : "Trip Topic"}</p>
+        <h1>{entry.data.title}</h1>
+        <p>{entry.data.description}</p>
+        <p class="meta-row">
+          By {authorEntry ? <a href={`/authors/${getAuthorSlug(authorEntry)}/`}>{entry.data.author}</a> : entry.data.author}
+          {" · "}Published {entry.data.publishDate.toLocaleDateString("en-US")}
+          {entry.data.updatedDate && ` · Updated ${entry.data.updatedDate.toLocaleDateString("en-US")}`}
+        </p>
+        {entry.data.tags.length > 0 && (
+          <ul class="tag-list">
+            {entry.data.tags.map((tag) => <li>{tag}</li>)}
+          </ul>
+        )}
+      </div>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Why Read This</p>
+        <h3>{isGuide ? "Use this to shape the actual trip plan" : "Use this before one practical question turns into trip friction"}</h3>
+      </div>
+      <p>{isGuide
+        ? "This guide is most useful when you are deciding where to stay, how long to go, and what matters most in the city."
+        : entry.data.whenToRead}</p>
+      <ul class="mini-list">
+        {(isGuide ? entry.data.keyTakeaways : entry.data.beforeYouBookChecklist).slice(0, 3).map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+      {isGuide ? (
+        <div>
+          <p class="eyebrow">Quick Fit</p>
+          <p><strong>Planning stage:</strong> {stageLabel}</p>
+          {entry.data.tripLength && <p><strong>Typical trip length:</strong> {entry.data.tripLength}</p>}
+          {entry.data.whoItsFor.length > 0 && (
+            <p><strong>Best for:</strong> {entry.data.whoItsFor.join(", ")}</p>
+          )}
+          {cityHub && (
+            <p><strong>Destination hub:</strong> <a href={`/destinations/${getCitySlug(cityHub)}/`}>{cityHub.data.name}</a></p>
+          )}
+        </div>
+      ) : (
+        <div>
+          <p class="eyebrow">Quick Fit</p>
+          {topicMomentLabel && <p><strong>Best read when:</strong> {topicMomentLabel}</p>}
+          {entry.data.affectsCities.length > 0 && (
+            <p><strong>Often useful for:</strong> {entry.data.affectsCities.join(", ")}</p>
+          )}
+        </div>
+      )}
+    </aside>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Content Freshness</p>
+    <h2 class="section-title">When this page was last reviewed</h2>
+    <p class="muted">
+      Published {entry.data.publishDate.toLocaleDateString("en-US")}
+      {entry.data.updatedDate
+        ? ` · Last updated ${entry.data.updatedDate.toLocaleDateString("en-US")}`
+        : " · This page has not needed a later update yet in this prototype."}
+    </p>
+    <p>
+      {isGuide
+        ? "Guide pages are reviewed when route logic, stay advice, or city-planning assumptions need to be clarified."
+        : "Topic pages are reviewed when practical booking, payment, arrival, or transport assumptions need to be clarified."}
+    </p>
+    <div class="button-row">
+      <a class="button-link secondary" href="/editorial-policy/">Read editorial policy</a>
+      {authorEntry && <a class="button-link secondary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>View author profile</a>}
+    </div>
+  </section>
+
+  {isGuide && cityHub && (
+    <section class="section-block card-surface">
+      <p class="eyebrow">Part Of The Cluster</p>
+      <h2 class="section-title">Keep planning {cityHub.data.name} from the main destination hub.</h2>
+      <p class="muted">
+        The city hub connects this guide with matching neighborhood, itinerary, and trip-basic pages so the route keeps making sense.
+      </p>
+      <div class="button-row">
+        <a class="button-link primary" href={`/destinations/${getCitySlug(cityHub)}/`}>Open {cityHub.data.name} hub</a>
+        <a class="button-link secondary" href="/destinations/">Browse all destinations</a>
+      </div>
+    </section>
+  )}
+
+  {!isGuide && topicCluster && (
+    <section class="section-block card-surface">
+      <p class="eyebrow">Part Of The Topic Hub</p>
+      <h2 class="section-title">Keep this planning thread together through {topicCluster.title}.</h2>
+      <p class="muted">{topicCluster.description}</p>
+      <div class="button-row">
+        <a class="button-link primary" href={`/topics/${topicCluster.slug}/`}>Open {topicCluster.title}</a>
+        <a class="button-link secondary" href="/topics/">Browse all topics</a>
+      </div>
+    </section>
+  )}
+
+  <article class="article section-block">
+    {entry.data.keyTakeaways.length > 0 && (
+      <section class="section-block card-surface">
+        <h2 class="section-title">Key Takeaways</h2>
+        <ul class="mini-list">
+          {entry.data.keyTakeaways.map((takeaway) => <li>{takeaway}</li>)}
+        </ul>
+      </section>
+    )}
+    <slot />
+    {!isGuide && entry.data.beforeYouBookChecklist.length > 0 && (
+      <section class="section-block card-surface">
+        <h2 class="section-title">Before You Book</h2>
+        <ul class="mini-list">
+          {entry.data.beforeYouBookChecklist.map((item) => <li>{item}</li>)}
+        </ul>
+      </section>
+    )}
+    {entry.data.faq.length > 0 && (
+      <section class="section-block">
+        <h2>FAQ</h2>
+        {entry.data.faq.map((item) => (
+          <>
+            <h3>{item.question}</h3>
+            <p>{item.answer}</p>
+          </>
+        ))}
+      </section>
+    )}
+  </article>
+
+  {!isGuide && relatedCities.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Destination Hubs Connected To This Topic</h2>
+      <div class="grid two">
+        {relatedCities.map((city) => <CityCard city={city} />)}
+      </div>
+    </section>
+  )}
+
+  {!isGuide && topicCluster && (
+    <section class="section-block">
+      <h2 class="section-title">Topic Hub</h2>
+      <div class="grid two">
+        <TopicClusterCard cluster={topicCluster} />
+      </div>
+    </section>
+  )}
+
+  {!isGuide && moreInCluster.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">More In This Topic Hub</h2>
+      <div class="grid two">
+        {moreInCluster.map((topic) => <TopicCard topic={topic} />)}
+      </div>
+    </section>
+  )}
+
+  <PlanningHelpCallout
+    title={isGuide ? `Need help planning ${entry.data.city}?` : "Need help with this part of the trip?"}
+    description={isGuide
+      ? "If the city guide is useful but the route still needs a human check on pace, hotel area, or next steps, this is a good time to ask."
+      : "If this topic solved part of the problem but the route still feels hard to finalize, a light planning handoff can help."}
+    primaryLabel="Open plan help"
+    primaryHref="/plan-help/"
+    secondaryLabel={isGuide ? "Browse destination hubs" : "Browse topic hubs"}
+    secondaryHref={isGuide ? "/destinations/" : "/topics/"}
+    bullets={isGuide
+      ? [
+          "Best for a quick sense-check on pacing and city fit.",
+          "Useful when hotel area or transfer logic still feels unclear.",
+          "A good handoff point before more bookings are locked in.",
+        ]
+      : [
+          "Best when one planning question is still controlling the whole route.",
+          "Useful for turning general advice into city-specific next steps.",
+          "A good point to ask for partner help without overcomplicating the trip.",
+        ]}
+  />
+
+  {authorEntry && (
+    <section class="section-block card-surface">
+      <p class="eyebrow">About The Author</p>
+      <h2 class="section-title">{authorEntry.data.name}</h2>
+      <p><strong>{authorEntry.data.role}</strong></p>
+      <p>{authorEntry.data.fullBio}</p>
+      {authorEntry.data.expertise.length > 0 && (
+        <ul class="tag-list">
+          {authorEntry.data.expertise.map((item) => <li>{item}</li>)}
+        </ul>
+      )}
+      <div class="button-row">
+        <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>Open author page</a>
+        <a class="button-link secondary" href="/authors/">Browse authors</a>
+      </div>
+    </section>
+  )}
+
+  {isGuide && relatedGuides.length > 0 && cityHub && (
+    <section class="section-block">
+      <h2 class="section-title">More For {cityHub.data.name}</h2>
+      <div class="grid two">
+        {relatedGuides.map((guide) => <GuideCard guide={guide} />)}
+      </div>
+    </section>
+  )}
+
+  {!isGuide && relatedGuides.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Related Guides</h2>
+      <div class="grid two">
+        {relatedGuides.map((guide) => <GuideCard guide={guide} />)}
+      </div>
+    </section>
+  )}
+
+  {relatedTopics.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">{isGuide ? "Useful Next Reads" : "Keep Reading"}</h2>
+      <div class="grid two">
+        {relatedTopics.map((topic) => <TopicCard topic={topic} />)}
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,0 +1,103 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import GuideCard from "../../components/GuideCard.astro";
+import TopicCard from "../../components/TopicCard.astro";
+import { getAuthorSlug } from "../../lib/authors";
+
+export async function getStaticPaths() {
+  const authors = await getCollection("authors");
+
+  return authors.map((author) => ({
+    params: { author: getAuthorSlug(author) },
+    props: { author },
+  }));
+}
+
+const { author } = Astro.props;
+const guides = (await getCollection("guides", ({ data }) => !data.draft)).filter(
+  (guide) => guide.data.author === author.data.name,
+);
+const topics = (await getCollection("topics", ({ data }) => !data.draft)).filter(
+  (topic) => topic.data.author === author.data.name,
+);
+const pageSchemas = [
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      {
+        "@type": "ListItem",
+        position: 1,
+        name: "Home",
+        item: new URL("/", Astro.site ?? new URL(Astro.url.origin)).href,
+      },
+      {
+        "@type": "ListItem",
+        position: 2,
+        name: "Authors",
+        item: new URL("/authors/", Astro.site ?? new URL(Astro.url.origin)).href,
+      },
+      {
+        "@type": "ListItem",
+        position: 3,
+        name: author.data.name,
+        item: new URL(Astro.url.pathname, Astro.site ?? new URL(Astro.url.origin)).href,
+      },
+    ],
+  },
+];
+---
+
+<BaseLayout
+  title={author.data.seoTitle}
+  description={author.data.seoDescription}
+  schema={pageSchemas}
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Authors", href: "/authors/" }, { label: author.data.name }]} />
+      <p class="eyebrow">Author Profile</p>
+      <h1>{author.data.name}</h1>
+      <p>{author.data.fullBio}</p>
+      <div class="pill-row">
+        {author.data.expertise.map((item) => <span>{item}</span>)}
+      </div>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Role</p>
+        <h3>{author.data.role}</h3>
+      </div>
+      <p class="muted">{author.data.reviewProcess}</p>
+      <p><strong>Published guides:</strong> {guides.length}</p>
+      <p><strong>Published topics:</strong> {topics.length}</p>
+    </aside>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">How This Author Reviews Content</p>
+    <h2 class="section-title">Editorial Review Note</h2>
+    <p>{author.data.reviewProcess}</p>
+  </section>
+
+  {guides.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Guides By {author.data.name}</h2>
+      <div class="grid two">
+        {guides.map((guide) => <GuideCard guide={guide} />)}
+      </div>
+    </section>
+  )}
+
+  {topics.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Topics By {author.data.name}</h2>
+      <div class="grid two">
+        {topics.map((topic) => <TopicCard topic={topic} />)}
+      </div>
+    </section>
+  )}
+</BaseLayout>

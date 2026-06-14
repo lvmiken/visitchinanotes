@@ -1,0 +1,35 @@
+{
+  "name": "Beijing",
+  "country": "China",
+  "intro": "Beijing is the strongest first-stop city for travelers who want imperial landmarks, museums, hutong neighborhoods, and straightforward high-speed rail connections.",
+  "seoTitle": "Beijing Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Beijing with practical advice on neighborhoods, timing, local transport, and flagship sights.",
+  "idealFor": ["history-first travelers", "landmark-focused first trips"],
+  "suggestedStay": "3 to 5 days",
+  "tripPace": "Best with a structured city plan and one slower cultural day.",
+  "pairWith": ["Xi'an", "Shanghai"],
+  "bestMonths": ["April", "May", "September", "October"],
+  "highlights": [
+    "A strong first-stop city if the traveler wants headline China landmarks and a sense of imperial history.",
+    "District-based planning works especially well because the city is large and major sights are not all close together.",
+    "Pairs naturally with another city that offers a different rhythm, such as Xi'an or Shanghai."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Beijing is the anchor city",
+      "description": "Use Beijing as the main historical stop, not as a city where every day is split between opposite ends of town."
+    },
+    {
+      "title": "Choose a hotel area before polishing the itinerary",
+      "description": "A convenient base can reduce transfers, simplify early departures, and make evenings less tiring."
+    },
+    {
+      "title": "Group major sights by geography",
+      "description": "Plan around central landmarks, one Great Wall day, and one slower local neighborhood day instead of mixing everything together."
+    }
+  ],
+  "transportNote": "Beijing rewards travelers who plan by district and metro access because cross-city travel can take longer than the map suggests.",
+  "homepageGroups": ["first-time-essentials", "north-inland-routes"],
+  "featuredGuideSlugs": ["beijing-first-time-guide", "beijing-where-to-stay"],
+  "featuredTopicSlugs": ["choosing-hotel-location", "china-visa-basics", "airport-to-city", "attraction-reservations", "high-speed-rail", "plan-your-trip"]
+}

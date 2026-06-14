@@ -1,0 +1,85 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+
+const promises = [
+  "Practical route advice before attraction lists.",
+  "Clear English explanations for first-time visitors.",
+  "Editorial independence before any partner introduction.",
+];
+
+const nonPromises = [
+  "This is not a full custom tour agency site.",
+  "This site does not replace visa, airline, rail, or hotel official rules.",
+  "A partner introduction only happens when the traveler asks for human booking support.",
+];
+---
+
+<BaseLayout
+  title="About China Travel Notes | What This Site Is For"
+  description="Learn who China Travel Notes is for, how to use the site, and what kind of trip-planning help it does and does not provide."
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "About" }]} />
+      <p class="eyebrow">About</p>
+      <h1>A practical travel-planning site for people visiting China for the first time.</h1>
+      <p>
+        China Travel Notes is built for travelers who want a smoother first trip to China, especially when the biggest
+        questions are route shape, city fit, transport logic, hotel area choice, and day-one basics.
+      </p>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Best For</p>
+        <h3>Use this site when you want clarity before you start booking too much.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>First-time visitors comparing cities and routes.</li>
+        <li>Travelers who want practical basics in plain English.</li>
+        <li>People who may want human booking help later, but not from the first click.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">What The Site Tries To Do Well</h2>
+    <div class="feature-grid">
+      {promises.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">How To Use It</h2>
+    <div class="feature-grid">
+      <article class="card-surface">
+        <p class="eyebrow">Step 1</p>
+        <h3>Start with destination hubs</h3>
+        <p>Use city pages to judge pace, trip length, and whether a city should be a main stop or a side stop.</p>
+      </article>
+      <article class="card-surface">
+        <p class="eyebrow">Step 2</p>
+        <h3>Move into trip topics</h3>
+        <p>Solve payments, internet, airport arrival, train booking, and neighborhood questions before locking the route.</p>
+      </article>
+      <article class="card-surface">
+        <p class="eyebrow">Step 3</p>
+        <h3>Use guides for the final shape</h3>
+        <p>Open itinerary and where-to-stay guides once the route already feels broadly right.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Scope</p>
+    <h2 class="section-title">What This Site Does Not Pretend To Be</h2>
+    <ul class="mini-list">
+      {nonPromises.map((item) => <li>{item}</li>)}
+    </ul>
+  </section>
+</BaseLayout>

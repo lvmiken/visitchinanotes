@@ -1,0 +1,91 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+
+const workflow = [
+  {
+    title: "Source research comes first",
+    description: "City and planning pages begin with strong Chinese-language travel material, official booking information, and practical traveler questions worth translating clearly into English.",
+  },
+  {
+    title: "AI helps with drafting and translation",
+    description: "AI can speed up translation, restructuring, and first-draft synthesis, but it is not the final publisher on its own.",
+  },
+  {
+    title: "Human review decides what gets published",
+    description: "Pages should be checked for clarity, route logic, and whether advice still sounds practical for a first-time visitor instead of just sounding complete.",
+  },
+];
+
+const standards = [
+  "Prefer route clarity over attraction stuffing.",
+  "Separate editorial advice from partner handoff decisions.",
+  "Update pages when transport logic, payment habits, or booking friction meaningfully changes.",
+  "Avoid implying guaranteed prices, availability, or visa outcomes.",
+];
+---
+
+<BaseLayout
+  title="Editorial Policy | China Travel Notes"
+  description="Read how China Travel Notes approaches sourcing, translation, AI-assisted drafting, human review, and partner disclosures."
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Editorial Policy" }]} />
+      <p class="eyebrow">Editorial Policy</p>
+      <h1>Practical advice first, AI-assisted drafting second, human judgment last.</h1>
+      <p>
+        This site is designed to publish useful English travel planning content without pretending that automation alone
+        is good enough. The goal is not volume for its own sake. The goal is clearer travel decisions.
+      </p>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Core Rule</p>
+        <h3>Useful beats exhaustive.</h3>
+      </div>
+      <p class="muted">
+        If a page answers the right planning question in a clearer way, it is more valuable than a longer page that only looks comprehensive.
+      </p>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">How Content Is Produced</h2>
+    <div class="feature-grid">
+      {workflow.map((item) => (
+        <article class="card-surface">
+          <h3>{item.title}</h3>
+          <p>{item.description}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Editorial Standards</p>
+    <h2 class="section-title">Publishing Rules</h2>
+    <ul class="mini-list">
+      {standards.map((item) => <li>{item}</li>)}
+    </ul>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Partner Disclosure</h2>
+    <div class="grid two">
+      <article class="card-surface">
+        <h3>Editorial pages are not sales pages</h3>
+        <p>
+          Destination hubs, guide pages, and topic pages should stand on their own even if the traveler never asks for outside help.
+        </p>
+      </article>
+      <article class="card-surface">
+        <h3>Partner introductions are a separate step</h3>
+        <p>
+          If a traveler asks for booking support or route help, the request may be reviewed first and then shared with a suitable travel partner.
+        </p>
+      </article>
+    </div>
+  </section>
+</BaseLayout>

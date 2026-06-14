@@ -1,0 +1,35 @@
+{
+  "name": "Chengdu",
+  "country": "China",
+  "intro": "Chengdu is a strong city for travelers who want food culture, a slower urban pace, panda-related attractions, and an easy gateway to Sichuan trips.",
+  "seoTitle": "Chengdu Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Chengdu with advice on where to stay, food-focused neighborhoods, and realistic pacing.",
+  "idealFor": ["food-led trips", "slower city rhythm"],
+  "suggestedStay": "2 to 4 days",
+  "tripPace": "Best when evenings stay open and the itinerary leaves room to slow down.",
+  "pairWith": ["Chongqing", "Sichuan side trips"],
+  "bestMonths": ["March", "April", "October", "November"],
+  "highlights": [
+    "A strong pick for travelers who care more about atmosphere, food, and pace than checking off a huge list of landmarks.",
+    "Works well when the trip includes one signature attraction and several low-pressure neighborhood sessions.",
+    "Can become the base for wider Sichuan planning if the traveler wants to extend beyond the city."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Keep the pace slower than in megacities",
+      "description": "Chengdu usually works better when you leave space for relaxed evenings and unhurried meals."
+    },
+    {
+      "title": "Choose whether the trip is city-only or Sichuan-linked",
+      "description": "Decide early if Chengdu is the whole stop or the start of broader Sichuan travel."
+    },
+    {
+      "title": "Place panda logistics before nightlife plans",
+      "description": "If the panda base matters, anchor that timing first and let the rest of the day remain flexible."
+    }
+  ],
+  "transportNote": "Chengdu is easy to enjoy when your hotel, food neighborhoods, and one or two anchor attractions are kept within a relaxed travel radius.",
+  "homepageGroups": ["north-inland-routes"],
+  "featuredGuideSlugs": ["chengdu-first-time-guide", "chengdu-where-to-stay"],
+  "featuredTopicSlugs": ["choosing-hotel-location", "where-to-start", "esim-and-internet", "alipay-wechat-pay", "metro-taxi-ridehailing", "plan-your-trip"]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "Zhangjiajie",
+  "country": "China",
+  "intro": "Zhangjiajie fits travelers who want natural scenery, iconic mountain landscapes, and a destination built around outdoor planning rather than big-city pacing.",
+  "seoTitle": "Zhangjiajie Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Zhangjiajie with practical advice on trip length, scenic priorities, and how to fit the destination into a wider China itinerary.",
+  "idealFor": ["mountain scenery lovers", "nature-first China itineraries"],
+  "suggestedStay": "2 to 4 days",
+  "tripPace": "Best when travelers accept that transport, weather, and scenic priorities shape each day.",
+  "pairWith": ["Chongqing", "Changsha"],
+  "bestMonths": ["April", "May", "September", "October"],
+  "highlights": [
+    "Adds a scenery-led destination type that is very different from the major city hubs already on the site.",
+    "Useful for travelers who want a signature landscape stop, not only urban and historical destinations.",
+    "Helps the site cover a broader version of China travel beyond megacities and classic city pairings."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether scenery or route convenience comes first",
+      "description": "Zhangjiajie works best when travelers choose it intentionally for landscape value, not only because it seems famous."
+    },
+    {
+      "title": "Plan around weather and energy",
+      "description": "Mountain destinations need more flexible expectations than city breaks, especially when views and walking are central."
+    },
+    {
+      "title": "Match trip length to scenic goals",
+      "description": "Readers should know whether they want one signature experience or a slower multi-day nature stop."
+    }
+  ],
+  "transportNote": "Zhangjiajie benefits from guidance that sets realistic expectations about transfers, park pacing, and how mountain weather can affect the experience.",
+  "homepageGroups": ["scenic-escapes"],
+  "featuredGuideSlugs": ["zhangjiajie-how-many-days", "zhangjiajie-first-time-park-planning"],
+  "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "attraction-reservations", "train-vs-flight"]
+}

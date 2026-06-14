@@ -1,0 +1,47 @@
+---
+import { topicClusters } from "../lib/topicClusters";
+
+interface Props {
+  cluster: (typeof topicClusters)[number];
+}
+
+const { cluster } = Astro.props;
+---
+
+<article class="topic-cluster-card">
+  <p class="eyebrow">Topic Hub</p>
+  <h3>
+    <a href={`/topics/${cluster.slug}/`}>{cluster.title}</a>
+  </h3>
+  <p>{cluster.description}</p>
+  <p class="meta">{cluster.topicSlugs.length} focused reads</p>
+</article>
+
+<style>
+  .topic-cluster-card {
+    padding: 1.25rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    background: #fff;
+  }
+
+  h3 {
+    margin: 0.45rem 0 0.6rem;
+    font-size: 1.15rem;
+  }
+
+  a {
+    color: #111827;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .meta {
+    margin: 0.5rem 0 0;
+    color: #6b7280;
+    font-size: 0.92rem;
+  }
+</style>
