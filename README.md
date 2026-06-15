@@ -1,6 +1,6 @@
 # China Travel Notes MVP
 
-This directory now contains an Astro content-site prototype for a China travel editorial project.
+This directory now contains an Astro content-site prototype for the Visit China Notes editorial project.
 
 ## What is included
 
