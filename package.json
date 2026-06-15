@@ -7,12 +7,18 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview"
+    "preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy",
+    "cf-typegen": "wrangler types"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "12",
     "@astrojs/mdx": "^4.0.0",
     "@astrojs/sitemap": "^3.3.0",
     "astro": "^5.10.0",
     "zod": "3.25.76"
+  },
+  "devDependencies": {
+    "wrangler": "^4.100.0"
   }
 }
