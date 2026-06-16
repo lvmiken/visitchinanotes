@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">China Travel Notes default social share image</title>
+  <desc id="desc">A warm editorial card with the China Travel Notes brand and a travel route motif.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff9ef" />
+      <stop offset="100%" stop-color="#eef8f5" />
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.96" />
+      <stop offset="100%" stop-color="#fff5df" stop-opacity="0.98" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="1010" cy="112" r="164" fill="#dff8f1" opacity="0.95" />
+  <circle cx="136" cy="86" r="122" fill="#fff0cf" opacity="0.95" />
+  <path d="M0 560c126-52 246-66 360-32 96 28 188 30 276-7 115-48 210-53 314-16 94 33 178 38 250 15v110H0Z" fill="#f3e2bf" opacity="0.7" />
+
+  <rect x="84" y="86" width="1032" height="458" rx="34" fill="url(#panel)" stroke="#e5e7eb" />
+
+  <g transform="translate(132 146)">
+    <rect x="0" y="0" width="108" height="108" rx="28" fill="#0f766e" />
+    <circle cx="54" cy="54" r="35" fill="none" stroke="#fff7ed" stroke-width="5" />
+    <path d="M34 69c8-16 17-25 28-25 7 0 13 4 20 12" fill="none" stroke="#fbbf24" stroke-linecap="round" stroke-width="6" />
+    <circle cx="34" cy="69" r="5" fill="#fbbf24" />
+    <circle cx="82" cy="56" r="5" fill="#fff7ed" />
+  </g>
+
+  <text x="276" y="198" fill="#0f766e" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" letter-spacing="4">
+    CHINA TRAVEL NOTES
+  </text>
+  <text x="132" y="302" fill="#111827" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">
+    Practical China trip planning
+  </text>
+  <text x="132" y="372" fill="#111827" font-family="Georgia, 'Times New Roman', serif" font-size="62" font-weight="700">
+    for first-time visitors
+  </text>
+  <text x="132" y="438" fill="#4b5563" font-family="Georgia, 'Times New Roman', serif" font-size="27">
+    City guides, trip basics, and route ideas for travelers who want a smoother visit.
+  </text>
+
+  <g transform="translate(132 474)">
+    <rect width="168" height="44" rx="22" fill="#dff8f1" />
+    <text x="84" y="28" text-anchor="middle" fill="#155e75" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+      Destination hubs
+    </text>
+    <rect x="188" width="148" height="44" rx="22" fill="#fff1dd" />
+    <text x="262" y="28" text-anchor="middle" fill="#9a3412" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+      Trip basics
+    </text>
+    <rect x="356" width="172" height="44" rx="22" fill="#ecfeff" />
+    <text x="442" y="28" text-anchor="middle" fill="#0f766e" font-family="Arial, sans-serif" font-size="20" font-weight="700">
+      Planning guides
+    </text>
+  </g>
+</svg>

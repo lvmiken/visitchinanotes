@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-# Replace the domain below after you launch on your real site.
-Sitemap: https://china-travel.example/sitemap-index.xml
