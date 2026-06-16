@@ -1,0 +1,35 @@
+{
+  "name": "Qingdao",
+  "country": "China",
+  "intro": "Qingdao suits travelers who want a lighter coastal stop, with sea views, walkable districts, and an easier rhythm than a dense megacity route.",
+  "seoTitle": "Qingdao Travel Guide for International Visitors",
+  "seoDescription": "Plan a first Qingdao visit with practical advice on trip length, city pacing, rail connections, and what kind of route Qingdao fits best.",
+  "idealFor": ["coastal pacing", "lighter city breaks"],
+  "suggestedStay": "2 to 3 days",
+  "tripPace": "Best when the route needs a slower coastal stop with room for walking, food, and a more relaxed city rhythm.",
+  "pairWith": ["Beijing", "Shanghai"],
+  "bestMonths": ["May", "June", "September", "October"],
+  "highlights": [
+    "A useful coastal counterweight when the rest of the route is heavy on capitals, inland history, or fast transport days.",
+    "Works well for travelers who want sea air, neighborhood walks, and a less compressed first-China city experience.",
+    "Often feels strongest when treated as a calmer city stay rather than a checklist of isolated sights."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Qingdao is a main stop or a softer route break",
+      "description": "The city works best when its role in the itinerary is clear, either as a relaxed standalone stop or as a pacing reset between bigger cities."
+    },
+    {
+      "title": "Choose the right season and city rhythm",
+      "description": "Qingdao is more rewarding when weather, seaside walking time, and a slower daily pace are part of the plan."
+    },
+    {
+      "title": "Fit rail timing into the wider route early",
+      "description": "Because Qingdao is often an add-on rather than the core anchor, transport timing matters before the city can be judged fairly."
+    }
+  ],
+  "transportNote": "Qingdao is easiest to use well when rail timing, hotel area, and the city’s role in the wider route are decided before the trip gets overloaded elsewhere.",
+  "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "featuredGuideSlugs": [],
+  "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "choosing-hotel-location", "high-speed-rail", "alipay-wechat-pay"]
+}
