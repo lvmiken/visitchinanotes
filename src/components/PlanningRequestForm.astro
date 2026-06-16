@@ -15,8 +15,8 @@ const sourcePage = Astro.url.pathname;
     {isLiveMode
       ? "Live follow-up is enabled. A submitted request can be reviewed and passed to a suitable travel partner."
       : contactEmail
-        ? `This local build is running in preview mode. For now, planning requests can also be sent by email to ${contactEmail}.`
-        : "This local build is running in preview mode. Add a public form endpoint to turn this into a live request flow."}
+        ? `Requests are currently handled by email. Use the form below to prepare a pre-filled message, or write directly to ${contactEmail}.`
+        : "Requests are not available right now. Please check back soon for the next contact option."}
   </p>
 
   <form
@@ -132,7 +132,7 @@ const sourcePage = Astro.url.pathname;
       const contactEmail = form.dataset.contactEmail;
 
       submitButton.disabled = true;
-      submitButton.textContent = isLiveMode ? "Sending request..." : contactEmail ? "Preparing email..." : "Saving preview...";
+      submitButton.textContent = isLiveMode ? "Sending request..." : contactEmail ? "Preparing email..." : "Unavailable";
 
       try {
         if (isLiveMode && form.action && form.action !== "#") {

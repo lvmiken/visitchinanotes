@@ -16,8 +16,8 @@ const sourcePage = Astro.url.pathname;
     {isLiveMode
       ? "Contributor submissions are enabled. Suitable pitches can be reviewed and answered by email."
       : contactEmail
-        ? `This build is in preview mode. For now, contributor pitches can also be sent by email to ${contactEmail}.`
-        : "This build is in preview mode. Add a contribution endpoint or a contact email to receive pitches for real."}
+        ? `Contributor pitches are currently handled by email. Use the form below to prepare a pre-filled message, or send it directly to ${contactEmail}.`
+        : "Contributor submissions are not available right now. Please check back soon for the next contact option."}
   </p>
 
   <form
@@ -148,7 +148,7 @@ const sourcePage = Astro.url.pathname;
       const contactEmail = form.dataset.contactEmail;
 
       submitButton.disabled = true;
-      submitButton.textContent = isLiveMode ? "Sending pitch..." : contactEmail ? "Preparing email..." : "Saving preview...";
+      submitButton.textContent = isLiveMode ? "Sending pitch..." : contactEmail ? "Preparing email..." : "Unavailable";
 
       try {
         if (isLiveMode && form.action && form.action !== "#") {
