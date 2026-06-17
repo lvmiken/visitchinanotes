@@ -36,3 +36,5 @@ The best neighborhood is the one that shortens your most important journeys.
 ## Avoid overvaluing map distance
 
 In a large city, a hotel that looks close on the map can still produce slow door-to-door journeys. Check the nearest metro line and the number of transfers, not just straight-line distance.
+
+If the arrival route is shaping the hotel choice, read [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) next.

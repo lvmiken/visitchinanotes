@@ -7,7 +7,7 @@ export const topicClusters = [
     title: "Route Planning",
     description: "Use this topic hub when you are still shaping the route, deciding how many cities to include, and choosing hotel areas that keep the trip workable.",
     whenToUse: "Best before hotels and intercity moves are fully locked in.",
-    topicSlugs: ["where-to-start", "plan-your-trip", "choosing-hotel-location"],
+    topicSlugs: ["where-to-start", "best-time-to-visit-china", "plan-your-trip", "choosing-hotel-location"],
   },
   {
     id: "arrival-basics",

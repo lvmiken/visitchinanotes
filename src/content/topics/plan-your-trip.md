@@ -56,3 +56,5 @@ Moving between cities is not only about the train or flight itself. It also mean
 ## Reduce uncertainty before you add more sights
 
 The strongest plans usually come from answering a few practical questions clearly before adding more attractions.
+
+One of the cleanest next checks is [Best Time to Visit China for a First Trip](/topics/best-time-to-visit-china/), because season choice can quietly improve or weaken the whole route.

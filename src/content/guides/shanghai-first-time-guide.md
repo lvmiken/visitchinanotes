@@ -39,3 +39,5 @@ The city works especially well if you want:
 ## Keep the route compact
 
 Shanghai is best when it stays true to its strengths. Use it as a polished urban anchor, then decide whether the overall route still has room for one slower scenic extension such as Hangzhou.
+
+If Shanghai is also your landing city, pair this with [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) before you lock in the first hotel.

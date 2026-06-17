@@ -40,3 +40,5 @@ A good first trip usually blends:
 ## Keep side trips realistic
 
 If you want to visit the panda base, check opening hours and travel time before stacking other plans around it.
+
+Once the city feels like the right fit, continue with [Where to Stay in Chengdu for Food, Metro Access, and a Relaxed Pace](/guides/chengdu-where-to-stay/) and [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/).

@@ -31,6 +31,6 @@
   "transportNote": "Beijing rewards travelers who plan by district and metro access because cross-city travel can take longer than the map suggests.",
   "homepageGroups": ["first-time-essentials", "north-inland-routes"],
   "ogImage": "/og/custom/beijing-hub.svg",
-  "featuredGuideSlugs": ["beijing-first-china-stop", "beijing-first-time-guide", "beijing-where-to-stay", "beijing-4-day-itinerary", "beijing-xian-or-shanghai-pairing"],
-  "featuredTopicSlugs": ["choosing-hotel-location", "china-visa-basics", "airport-to-city", "attraction-reservations", "high-speed-rail", "plan-your-trip"]
+  "featuredGuideSlugs": ["beijing-first-china-stop", "beijing-first-time-guide", "beijing-where-to-stay", "beijing-airport-to-city", "beijing-4-day-itinerary", "beijing-xian-or-shanghai-pairing"],
+  "featuredTopicSlugs": ["best-time-to-visit-china", "choosing-hotel-location", "china-visa-basics", "airport-to-city", "attraction-reservations", "high-speed-rail", "plan-your-trip"]
 }

@@ -24,8 +24,8 @@ beforeYouBookChecklist:
   - "Avoid overbuilding the first day after a long international flight."
   - "Choose a first base that still feels manageable with luggage and limited energy."
 relatedGuideSlugs:
-  - "shanghai-where-to-stay"
-  - "beijing-where-to-stay"
+  - "beijing-airport-to-city"
+  - "shanghai-airport-to-city"
 tags:
   - "Airport transfers"
   - "Transport"
@@ -52,4 +52,4 @@ This page works best together with [How to Choose the Right Hotel Location in Ch
 
 A calmer first base can make the first night, the first metro ride, and the first real sightseeing day much smoother.
 
-If Beijing is the first landing city, the most natural next step is [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/).
+If Beijing is the first landing city, the most natural next step is [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/). If Shanghai is the first landing city, go to [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/).

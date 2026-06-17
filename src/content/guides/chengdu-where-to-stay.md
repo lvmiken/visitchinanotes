@@ -35,3 +35,5 @@ In Chengdu, your hotel choice shapes the rhythm of the trip more than the distan
 ## Think about evenings
 
 Some cities are planned around mornings. Chengdu often shines most in the evening, so a base that makes nighttime returns easy is worth paying for.
+
+If you already know the base and need the stay to flow better, the next step is [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/).
