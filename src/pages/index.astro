@@ -16,7 +16,8 @@ const topics = (await getCollection("topics", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
 );
 const highIntentTopicSlugs = [
-  "alipay-wechat-pay",
+  "can-tourists-use-alipay-in-china",
+  "can-tourists-use-wechat-pay-in-china",
   "esim-and-internet",
   "airport-to-city",
   "book-high-speed-train",

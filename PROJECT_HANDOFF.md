@@ -258,11 +258,18 @@ Added recently:
 
 Current state:
 
-- pages without a page-specific hero image use the default OG image
+- destination, guide, and topic pages already get stable auto-generated OG images through:
+  - `src/pages/og/destinations/[city].svg.ts`
+  - `src/pages/og/guides/[slug].svg.ts`
+  - `src/pages/og/topics/[slug].svg.ts`
+- the shared resolver is:
+  - `src/lib/socialImages.ts`
+- if a page has no custom `ogImage`, the site now falls back to a generated page-specific social card before falling back to the global default image
+- use explicit `ogImage` overrides only for pages that deserve a more curated branded asset
 
 Possible future improvement:
 
-- add per-city or per-guide social images later for stronger share previews
+- gradually add custom `ogImage` overrides for the highest-priority city hubs and money pages where a hand-tuned card is worth the effort
 
 ## 11. Current Content Coverage
 
@@ -284,6 +291,8 @@ Recent content additions:
 - `qingdao-where-to-stay`
 - `beijing-4-day-itinerary`
 - `guangzhou-3-day-itinerary`
+- `can-tourists-use-alipay-in-china`
+- `can-tourists-use-wechat-pay-in-china`
 
 Recent content model direction:
 
@@ -351,6 +360,7 @@ These documents exist:
 - `README.md`
 - `LAUNCH_CHECKLIST.md`
 - `FORM_SETUP.md`
+- `CONTENT_TODO.md`
 
 They are useful, but some sections are historical.
 
@@ -358,6 +368,7 @@ Examples:
 
 - `LAUNCH_CHECKLIST.md` was written before Cloudflare Pages became the settled deployment path
 - `FORM_SETUP.md` still describes older preview-mode wording
+- `CONTENT_TODO.md` is the working backlog for future search-intent content and should be updated whenever a new target page is published or re-scoped
 
 Use them as support material, but treat this handoff file as the current source of project state.
 

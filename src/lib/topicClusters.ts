@@ -23,7 +23,12 @@ export const topicClusters = [
     title: "Payments And Daily Use",
     description: "Use this topic hub when you want the everyday side of the trip to feel easier, from paying for things to moving around cities once you are on the ground.",
     whenToUse: "Best before arrival or before choosing city bases that depend on easy local movement.",
-    topicSlugs: ["alipay-wechat-pay", "metro-taxi-ridehailing"],
+    topicSlugs: [
+      "alipay-wechat-pay",
+      "can-tourists-use-alipay-in-china",
+      "can-tourists-use-wechat-pay-in-china",
+      "metro-taxi-ridehailing",
+    ],
   },
   {
     id: "transport-and-reservations",
