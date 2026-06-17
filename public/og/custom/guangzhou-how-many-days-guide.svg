@@ -1,0 +1,27 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">How Many Days Do You Need in Guangzhou for a First Visit?</title>
+  <desc id="desc">Custom social share image for the Guangzhou trip-length guide on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="30" x2="1130" y2="606" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5FFF9" />
+      <stop offset="1" stop-color="#DCF5EB" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FCFEFD" stroke="#D0E8DD" />
+  <circle cx="1034" cy="112" r="94" fill="#0F766E" fill-opacity="0.12" />
+  <circle cx="856" cy="308" r="74" fill="#FFFFFF" stroke="#0F766E" stroke-width="14" />
+  <path d="M856 258V312L896 340" stroke="#0F766E" stroke-width="18" stroke-linecap="round" stroke-linejoin="round" />
+  <circle cx="1008" cy="256" r="46" fill="#C2F0DE" />
+  <circle cx="1086" cy="354" r="58" fill="#9EDFC5" />
+  <circle cx="950" cy="412" r="40" fill="#DDF7EC" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#155E75">PLANNING THE STAY</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="230" font-size="54" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">How Many Days Do You Need</text>
+  <text x="104" y="292" font-size="54" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">in Guangzhou</text>
+  <text x="104" y="354" font-size="54" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">for a First Visit?</text>
+  <text x="104" y="438" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">Two days can work, three days is often best, and longer stays only make</text>
+  <text x="104" y="476" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">sense when Guangzhou is a real anchor instead of just a connector city.</text>
+  <rect x="104" y="512" width="180" height="40" rx="20" fill="#FFFFFF" stroke="#D0E8DD" />
+  <text x="132" y="538" font-size="21" font-weight="700" fill="#0F5E57">2 to 4 days</text>
+</svg>

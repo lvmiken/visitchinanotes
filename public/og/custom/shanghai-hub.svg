@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shanghai Travel Guide for International Visitors</title>
+  <desc id="desc">Custom social share image for the Shanghai destination hub on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" y1="36" x2="1128" y2="604" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFF9FF" />
+      <stop offset="1" stop-color="#D7EBF8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FCFEFF" stroke="#D1E3F1" />
+  <circle cx="1040" cy="112" r="96" fill="#0F6EAE" fill-opacity="0.12" />
+  <path d="M804 230H860V398H804V230ZM878 184H936V398H878V184ZM954 146H1016V398H954V146ZM1032 214H1096V398H1032V214Z" fill="#0F6EAE" fill-opacity="0.94" />
+  <path d="M812 430C876 398 946 392 1022 410C1062 420 1092 434 1112 452" stroke="#77C0E9" stroke-width="18" stroke-linecap="round" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#155E75">DESTINATION HUB</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="246" font-size="66" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Shanghai Travel Guide</text>
+  <text x="104" y="320" font-size="66" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">for International Visitors</text>
+  <text x="104" y="414" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">A smoother first-China landing with skyline, metro ease, neighborhood flow,</text>
+  <text x="104" y="454" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">and easy pairing logic for Hangzhou or another softer nearby extension.</text>
+  <rect x="104" y="504" width="248" height="48" rx="24" fill="#FFFFFF" stroke="#D1E3F1" />
+  <text x="132" y="535" font-size="24" font-weight="700" fill="#155E75">2 to 4 days</text>
+</svg>

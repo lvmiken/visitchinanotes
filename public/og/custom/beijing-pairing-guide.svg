@@ -1,0 +1,31 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Beijing with Xi'an or Shanghai: Which Pairing Fits Better?</title>
+  <desc id="desc">Custom social share image for the Beijing pairing guide on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="66" y1="32" x2="1128" y2="604" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF5EC" />
+      <stop offset="1" stop-color="#F8E4D9" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FFFDFC" stroke="#E8D3C6" />
+  <circle cx="1034" cy="114" r="96" fill="#8F2A21" fill-opacity="0.12" />
+  <path d="M794 242C850 212 904 212 952 244" stroke="#8F2A21" stroke-width="18" stroke-linecap="round" />
+  <path d="M794 386C850 416 904 416 952 384" stroke="#1D4ED8" stroke-width="18" stroke-linecap="round" />
+  <circle cx="794" cy="242" r="24" fill="#8F2A21" />
+  <circle cx="794" cy="386" r="24" fill="#1D4ED8" />
+  <circle cx="954" cy="314" r="22" fill="#D9B28E" />
+  <circle cx="1110" cy="242" r="24" fill="#B5633B" />
+  <circle cx="1110" cy="386" r="24" fill="#6CA7F0" />
+  <path d="M952 314L1090 242" stroke="#B5633B" stroke-width="14" stroke-linecap="round" />
+  <path d="M952 314L1090 386" stroke="#6CA7F0" stroke-width="14" stroke-linecap="round" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#8F2A21">SOLVING LOGISTICS</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="236" font-size="56" font-weight="700" fill="#182334" font-family="Georgia, 'Times New Roman', serif">Beijing with Xi'an or</text>
+  <text x="104" y="300" font-size="56" font-weight="700" fill="#182334" font-family="Georgia, 'Times New Roman', serif">Shanghai:</text>
+  <text x="104" y="364" font-size="56" font-weight="700" fill="#182334" font-family="Georgia, 'Times New Roman', serif">Which Pairing Fits Better?</text>
+  <text x="104" y="446" font-size="28" fill="#223246" font-family="Georgia, 'Times New Roman', serif">Choose historical depth or city-contrast early, then keep the first trip to</text>
+  <text x="104" y="484" font-size="28" fill="#223246" font-family="Georgia, 'Times New Roman', serif">one strong second city instead of trying to force both into a short route.</text>
+  <rect x="104" y="512" width="286" height="40" rx="20" fill="#FFFFFF" stroke="#E8D3C6" />
+  <text x="130" y="538" font-size="21" font-weight="700" fill="#8F2A21">6 to 9 days across 2 cities</text>
+</svg>

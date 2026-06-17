@@ -1,0 +1,24 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Should Beijing Be Your First Stop in China?</title>
+  <desc id="desc">Custom social share image for the Beijing first-stop guide on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="72" y1="36" x2="1124" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF5EA" />
+      <stop offset="1" stop-color="#FCE6D8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FFFDFC" stroke="#E8D2C4" />
+  <circle cx="1030" cy="112" r="94" fill="#8F2A21" fill-opacity="0.12" />
+  <path d="M804 188H1104V226H804V188ZM840 226H1068V404H840V226Z" fill="#8F2A21" fill-opacity="0.96" />
+  <path d="M820 188L954 124L1088 188H820Z" fill="#B24A33" />
+  <path d="M878 248V404M954 248V404M1030 248V404" stroke="#E9C39D" stroke-width="20" stroke-linecap="round" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#8F2A21">CHOOSE DESTINATION</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="248" font-size="64" font-weight="700" fill="#182334" font-family="Georgia, 'Times New Roman', serif">Should Beijing Be</text>
+  <text x="104" y="320" font-size="64" font-weight="700" fill="#182334" font-family="Georgia, 'Times New Roman', serif">Your First Stop in China?</text>
+  <text x="104" y="412" font-size="29" fill="#233246" font-family="Georgia, 'Times New Roman', serif">Best when the trip needs history, flagship landmarks, and a capital-city</text>
+  <text x="104" y="452" font-size="29" fill="#233246" font-family="Georgia, 'Times New Roman', serif">anchor rather than the lightest possible first landing.</text>
+  <rect x="104" y="504" width="236" height="48" rx="24" fill="#FFFFFF" stroke="#E8D2C4" />
+  <text x="132" y="535" font-size="24" font-weight="700" fill="#8F2A21">3 to 5 days</text>
+</svg>

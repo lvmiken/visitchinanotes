@@ -1,0 +1,29 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">A Practical 2-Day Qingdao Itinerary for a First Visit</title>
+  <desc id="desc">Custom social share image for the Qingdao itinerary guide on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="74" y1="34" x2="1128" y2="604" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFF8FF" />
+      <stop offset="1" stop-color="#D9ECF8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FCFEFF" stroke="#CDE2F4" />
+  <circle cx="1034" cy="112" r="94" fill="#0F6EAE" fill-opacity="0.12" />
+  <path d="M804 236C860 212 916 220 970 258C1020 292 1070 304 1120 292" stroke="#0F6EAE" stroke-width="20" stroke-linecap="round" />
+  <path d="M804 364C860 340 916 348 970 386C1020 420 1070 432 1120 420" stroke="#155E75" stroke-width="20" stroke-linecap="round" />
+  <circle cx="808" cy="236" r="22" fill="#0F6EAE" />
+  <circle cx="972" cy="258" r="18" fill="#69B9E4" />
+  <circle cx="1120" cy="292" r="22" fill="#155E75" />
+  <circle cx="808" cy="364" r="22" fill="#0F6EAE" />
+  <circle cx="972" cy="386" r="18" fill="#69B9E4" />
+  <circle cx="1120" cy="420" r="22" fill="#155E75" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#155E75">BUILDING THE ITINERARY</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="242" font-size="60" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">A Practical 2-Day Qingdao</text>
+  <text x="104" y="310" font-size="60" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Itinerary for a First Visit</text>
+  <text x="104" y="412" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">Keep the coastal stop relaxed: one scenic block, one food block, and enough</text>
+  <text x="104" y="452" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">arrival-departure buffer to let Qingdao feel like a real pace reset.</text>
+  <rect x="104" y="504" width="178" height="48" rx="24" fill="#FFFFFF" stroke="#CDE2F4" />
+  <text x="132" y="535" font-size="24" font-weight="700" fill="#155E75">2 days</text>
+</svg>

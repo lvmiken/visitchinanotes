@@ -11,7 +11,7 @@ import {
 interface Props {
   title: string;
   description: string;
-  image?: string;
+  socialImage?: string;
   type?: "website" | "article";
   publishedTime?: Date;
   modifiedTime?: Date;
@@ -21,7 +21,7 @@ interface Props {
 const {
   title,
   description,
-  image,
+  socialImage,
   type = "website",
   publishedTime,
   modifiedTime,
@@ -61,7 +61,7 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
     <HeadSEO
       title={title}
       description={description}
-      image={image}
+      socialImage={socialImage}
       type={type}
       publishedTime={publishedTime}
       modifiedTime={modifiedTime}

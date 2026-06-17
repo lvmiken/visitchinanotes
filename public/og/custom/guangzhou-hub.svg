@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Guangzhou Travel Guide for First-Time Visitors</title>
+  <desc id="desc">Custom social share image for the Guangzhou destination hub on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="84" y1="30" x2="1120" y2="610" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4FFF8" />
+      <stop offset="1" stop-color="#DDF7EC" />
+    </linearGradient>
+    <linearGradient id="river" x1="760" y1="130" x2="1100" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F766E" />
+      <stop offset="1" stop-color="#155E75" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FBFEFD" stroke="#CFE8DC" />
+  <circle cx="1038" cy="120" r="98" fill="#0F766E" fill-opacity="0.13" />
+  <circle cx="936" cy="530" r="182" fill="#155E75" fill-opacity="0.08" />
+  <path d="M772 214C844 192 910 210 964 266C1018 320 1074 338 1120 330" stroke="url(#river)" stroke-width="34" stroke-linecap="round" />
+  <path d="M820 414C888 386 962 392 1038 430" stroke="#77D5BB" stroke-width="18" stroke-linecap="round" />
+  <path d="M836 250V402M904 226V402M972 212V402M1040 236V402" stroke="#0E5B54" stroke-width="22" stroke-linecap="round" />
+  <path d="M808 402H1070" stroke="#0E5B54" stroke-width="24" stroke-linecap="round" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#155E75">DESTINATION HUB</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="248" font-size="66" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">Guangzhou Travel Guide</text>
+  <text x="104" y="322" font-size="66" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">for First-Time Visitors</text>
+  <text x="104" y="416" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">Food-led neighborhoods, South China route logic, and a city that works</text>
+  <text x="104" y="456" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">best when meals, metro convenience, and onward transport are planned together.</text>
+  <rect x="104" y="504" width="254" height="48" rx="24" fill="#FFFFFF" stroke="#CFE8DC" />
+  <text x="132" y="535" font-size="24" font-weight="700" fill="#0F5E57">2 to 4 days</text>
+</svg>

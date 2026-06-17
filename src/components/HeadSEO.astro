@@ -2,7 +2,7 @@
 interface Props {
   title: string;
   description: string;
-  image?: string;
+  socialImage?: string;
   type?: "website" | "article";
   publishedTime?: Date;
   modifiedTime?: Date;
@@ -12,7 +12,7 @@ interface Props {
 const {
   title,
   description,
-  image,
+  socialImage,
   type = "website",
   publishedTime,
   modifiedTime,
@@ -22,7 +22,7 @@ const {
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const canonical = new URL(Astro.url.pathname, siteUrl).href;
 const defaultOgImage = new URL("/og-default.svg", siteUrl).href;
-const ogImage = image ? new URL(image, siteUrl).href : defaultOgImage;
+const ogImage = socialImage ? new URL(socialImage, siteUrl).href : defaultOgImage;
 const schemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
 ---
 

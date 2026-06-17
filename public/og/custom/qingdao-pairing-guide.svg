@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Qingdao with Beijing or Shanghai: Which Route Uses It Better?</title>
+  <desc id="desc">Custom social share image for the Qingdao pairing guide on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="66" y1="32" x2="1128" y2="604" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFF8FF" />
+      <stop offset="1" stop-color="#DAEDF8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FCFEFF" stroke="#D0E3F4" />
+  <circle cx="1038" cy="114" r="96" fill="#0F6EAE" fill-opacity="0.12" />
+  <path d="M796 308C850 268 908 256 970 268C1016 278 1064 306 1116 352" stroke="#0F6EAE" stroke-width="20" stroke-linecap="round" />
+  <path d="M796 380C850 340 908 328 970 340C1016 350 1064 378 1116 424" stroke="#155E75" stroke-width="20" stroke-linecap="round" />
+  <circle cx="796" cy="308" r="24" fill="#8F2A21" />
+  <circle cx="796" cy="380" r="24" fill="#1D4ED8" />
+  <circle cx="974" cy="304" r="20" fill="#6EBFE8" />
+  <circle cx="974" cy="376" r="20" fill="#6EBFE8" />
+  <circle cx="1120" cy="352" r="24" fill="#155E75" />
+  <circle cx="1120" cy="424" r="24" fill="#155E75" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#155E75">SOLVING LOGISTICS</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="232" font-size="54" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Qingdao with Beijing or</text>
+  <text x="104" y="294" font-size="54" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Shanghai:</text>
+  <text x="104" y="356" font-size="54" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Which Route Uses It Better?</text>
+  <text x="104" y="438" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">Use Qingdao where the route needs a true pace reset, not just wherever it can</text>
+  <text x="104" y="476" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">be squeezed in between bigger cities.</text>
+  <rect x="104" y="512" width="288" height="40" rx="20" fill="#FFFFFF" stroke="#D0E3F4" />
+  <text x="130" y="538" font-size="21" font-weight="700" fill="#155E75">4 to 7 days across 2 cities</text>
+</svg>

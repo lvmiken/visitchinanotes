@@ -1,0 +1,28 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Guangzhou with Hong Kong or Shenzhen: How to Shape the Route</title>
+  <desc id="desc">Custom social share image for the Guangzhou pairing guide on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="70" y1="34" x2="1128" y2="602" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4FFFB" />
+      <stop offset="1" stop-color="#DCF5EC" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FCFEFD" stroke="#CFE8DC" />
+  <circle cx="1028" cy="114" r="94" fill="#0F766E" fill-opacity="0.12" />
+  <path d="M790 232C846 204 900 210 948 250C992 286 1044 296 1100 282" stroke="#0F766E" stroke-width="22" stroke-linecap="round" />
+  <path d="M790 356C846 328 900 334 948 374C992 410 1044 420 1100 406" stroke="#155E75" stroke-width="22" stroke-linecap="round" />
+  <circle cx="790" cy="232" r="26" fill="#0F766E" />
+  <circle cx="790" cy="356" r="26" fill="#155E75" />
+  <circle cx="1100" cy="282" r="26" fill="#7DD3AE" />
+  <circle cx="1100" cy="406" r="26" fill="#7BC6E7" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#155E75">SOLVING LOGISTICS</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="242" font-size="58" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">Guangzhou with Hong Kong</text>
+  <text x="104" y="308" font-size="58" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">or Shenzhen:</text>
+  <text x="104" y="374" font-size="58" font-weight="700" fill="#142436" font-family="Georgia, 'Times New Roman', serif">How to Shape the Route</text>
+  <text x="104" y="448" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">Pick contrast or convenience early, then keep the South China route to two</text>
+  <text x="104" y="486" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">strong bases instead of turning the trip into nonstop transfer management.</text>
+  <rect x="104" y="512" width="336" height="40" rx="20" fill="#FFFFFF" stroke="#CFE8DC" />
+  <text x="130" y="538" font-size="21" font-weight="700" fill="#0F5E57">3 to 5 days across 2 South China stops</text>
+</svg>

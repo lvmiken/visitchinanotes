@@ -8,6 +8,7 @@ import CityCard from "../../components/CityCard.astro";
 import PlanningHelpCallout from "../../components/PlanningHelpCallout.astro";
 import { guideStages } from "../../lib/guideStages";
 import { findCityEntry, getCitySlug, uniqueCityEntries } from "../../lib/cityEntries";
+import { getCitySocialImage } from "../../lib/socialImages";
 
 export async function getStaticPaths() {
   const cities = await getCollection("cities");
@@ -191,12 +192,13 @@ const pageSchemas = [
     touristType: city.data.idealFor,
   },
 ];
+const socialImage = getCitySocialImage(city);
 ---
 
 <BaseLayout
   title={city.data.seoTitle}
   description={city.data.seoDescription}
-  image={city.data.heroImage}
+  socialImage={socialImage}
   schema={pageSchemas}
 >
   <section class="split-hero">

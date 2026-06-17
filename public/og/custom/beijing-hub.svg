@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Beijing Travel Guide for First-Time Visitors</title>
+  <desc id="desc">Custom social share image for the Beijing destination hub on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="90" y1="40" x2="1130" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF4E8" />
+      <stop offset="1" stop-color="#F7E3DB" />
+    </linearGradient>
+    <linearGradient id="frame" x1="780" y1="140" x2="1080" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A12828" />
+      <stop offset="1" stop-color="#6E1F1F" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="58" y="54" width="1084" height="522" rx="28" fill="#FFFDFC" stroke="#E6D4CA" />
+  <circle cx="1036" cy="112" r="92" fill="#B63A2E" fill-opacity="0.12" />
+  <circle cx="965" cy="510" r="170" fill="#7D261F" fill-opacity="0.08" />
+  <path d="M810 220L960 120L1100 220V256H1042V366H986V256H924V366H868V256H810V220Z" fill="url(#frame)" fill-opacity="0.96" />
+  <path d="M786 238H1122" stroke="#C48A57" stroke-width="16" stroke-linecap="round" />
+  <path d="M824 392H1090" stroke="#D9B38C" stroke-width="18" stroke-linecap="round" />
+  <path d="M824 428H1090" stroke="#D9B38C" stroke-width="18" stroke-linecap="round" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#8F2A21">DESTINATION HUB</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="248" font-size="66" font-weight="700" fill="#182334" font-family="Georgia, 'Times New Roman', serif">Beijing Travel Guide</text>
+  <text x="104" y="322" font-size="66" font-weight="700" fill="#182334" font-family="Georgia, 'Times New Roman', serif">for First-Time Visitors</text>
+  <text x="104" y="416" font-size="29" fill="#213245" font-family="Georgia, 'Times New Roman', serif">History-first planning, district logic, and a route that gives the Wall</text>
+  <text x="104" y="456" font-size="29" fill="#213245" font-family="Georgia, 'Times New Roman', serif">enough room instead of cramming every flagship sight into one pass.</text>
+  <rect x="104" y="504" width="270" height="48" rx="24" fill="#FFFFFF" stroke="#E5D1C2" />
+  <text x="132" y="535" font-size="24" font-weight="700" fill="#7A241E">3 to 5 days</text>
+</svg>

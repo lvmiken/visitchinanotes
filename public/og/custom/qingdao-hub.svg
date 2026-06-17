@@ -1,0 +1,30 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Qingdao Travel Guide for International Visitors</title>
+  <desc id="desc">Custom social share image for the Qingdao destination hub on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="86" y1="40" x2="1124" y2="606" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFF8FF" />
+      <stop offset="1" stop-color="#D7ECFA" />
+    </linearGradient>
+    <linearGradient id="sea" x1="786" y1="150" x2="1106" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F6EAE" />
+      <stop offset="1" stop-color="#155E75" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FCFEFF" stroke="#CDE2F4" />
+  <circle cx="1044" cy="110" r="96" fill="#0F6EAE" fill-opacity="0.12" />
+  <circle cx="950" cy="522" r="186" fill="#155E75" fill-opacity="0.09" />
+  <path d="M788 394C850 354 922 340 1004 354C1056 362 1098 384 1120 412" stroke="url(#sea)" stroke-width="34" stroke-linecap="round" />
+  <path d="M820 236C848 214 880 204 916 206C948 208 980 224 1012 252C1038 274 1068 292 1102 304" stroke="#6BB7E3" stroke-width="18" stroke-linecap="round" />
+  <path d="M830 330L888 266L948 300L1010 232L1082 288V378H830V330Z" fill="#F6FBFF" stroke="#8AAFD0" stroke-width="10" />
+  <path d="M848 328V378M912 298V378M976 270V378M1040 286V378" stroke="#8AAFD0" stroke-width="10" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#135E87">DESTINATION HUB</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="248" font-size="66" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Qingdao Travel Guide</text>
+  <text x="104" y="322" font-size="66" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">for International Visitors</text>
+  <text x="104" y="416" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">Coastal pacing, rail-fit route planning, and a lighter city break that works</text>
+  <text x="104" y="456" font-size="29" fill="#203244" font-family="Georgia, 'Times New Roman', serif">best when sea views and neighborhood rhythm matter more than city overload.</text>
+  <rect x="104" y="504" width="246" height="48" rx="24" fill="#FFFFFF" stroke="#CDE2F4" />
+  <text x="132" y="535" font-size="24" font-weight="700" fill="#155E75">2 to 3 days</text>
+</svg>

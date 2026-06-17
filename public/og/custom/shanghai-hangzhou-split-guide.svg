@@ -1,0 +1,24 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shanghai and Hangzhou: Day Trip or Overnight Split?</title>
+  <desc id="desc">Custom social share image for the Shanghai-Hangzhou split-stay guide on China Travel Notes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="66" y1="32" x2="1128" y2="604" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EEF9FF" />
+      <stop offset="1" stop-color="#D9EDF8" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="34" fill="url(#bg)" />
+  <rect x="56" y="54" width="1088" height="522" rx="28" fill="#FCFEFF" stroke="#D2E3F1" />
+  <circle cx="1038" cy="114" r="96" fill="#0F6EAE" fill-opacity="0.11" />
+  <path d="M808 230H874V396H808V230ZM894 188H960V396H894V188ZM980 146H1046V396H980V146Z" fill="#0F6EAE" fill-opacity="0.92" />
+  <path d="M1040 396C1068 352 1092 318 1116 292C1082 270 1046 252 1008 238" stroke="#3AA76D" stroke-width="20" stroke-linecap="round" />
+  <circle cx="1116" cy="292" r="24" fill="#3AA76D" />
+  <text x="104" y="112" font-size="22" font-weight="700" letter-spacing="2.4" fill="#155E75">SOLVING LOGISTICS</text>
+  <text x="104" y="154" font-size="24" fill="#5B6471">China Travel Notes</text>
+  <text x="104" y="232" font-size="56" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Shanghai and Hangzhou:</text>
+  <text x="104" y="296" font-size="56" font-weight="700" fill="#13253A" font-family="Georgia, 'Times New Roman', serif">Day Trip or Overnight Split?</text>
+  <text x="104" y="418" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">Choose the faster option only if Shanghai stays the true anchor. Stay overnight</text>
+  <text x="104" y="456" font-size="28" fill="#203244" font-family="Georgia, 'Times New Roman', serif">if Hangzhou is meant to change the pace instead of just adding another rail day.</text>
+  <rect x="104" y="512" width="308" height="40" rx="20" fill="#FFFFFF" stroke="#D2E3F1" />
+  <text x="130" y="538" font-size="21" font-weight="700" fill="#155E75">3 to 5 days across 2 stops</text>
+</svg>
