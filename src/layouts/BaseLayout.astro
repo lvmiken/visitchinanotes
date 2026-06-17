@@ -32,6 +32,13 @@ const {
 
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const siteRoot = new URL("/", siteUrl).href;
+const googleAnalyticsId = "G-T75BH982CN";
+const googleTagScript = `
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '${googleAnalyticsId}');
+`;
 const siteSchemas = [
   {
     "@context": "https://schema.org",
@@ -56,6 +63,8 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
 <!doctype html>
 <html lang="en">
   <head>
+    <script async src={`https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`}></script>
+    <script is:inline set:html={googleTagScript}></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#0f766e" />
