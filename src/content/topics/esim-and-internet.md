@@ -49,6 +49,10 @@ It is not only about browsing. It may affect:
 - hotel and transport communication
 - payments and day-to-day confidence
 
+That is why this page pairs naturally with [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/).
+
 ## Make day one simpler
 
 If internet access is already planned, the first arrival day usually feels smoother and less reactive.
+
+Once this part feels settled, [Airport to City in China](/topics/airport-to-city/) is usually the next practical page to read before the trip starts to feel real.

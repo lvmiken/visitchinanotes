@@ -51,6 +51,10 @@ The right question is not just "Which is faster?" It is:
 - which option fits the hotel locations better
 - which option leaves more energy for the rest of the trip
 
+If the route is already leaning toward rail, continue with [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) instead of treating train choice and train booking as the same question.
+
 ## Let route calmness win
 
 If one option saves a little time but adds more uncertainty, the calmer choice is often the better one for a first trip.
+
+This usually works best when it sits inside a wider planning sequence with [How to Plan a Trip to China Without Overbuilding Your Itinerary](/topics/plan-your-trip/) and [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/).

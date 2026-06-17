@@ -46,6 +46,10 @@ The real arrival day includes:
 - finding the hotel
 - resetting energy after the flight
 
+This page works best together with [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) and [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/), because arrival stress is usually a hotel-and-phone problem as much as a transport one.
+
 ## Let the first hotel reduce stress
 
 A calmer first base can make the first night, the first metro ride, and the first real sightseeing day much smoother.
+
+If Beijing is the first landing city, the most natural next step is [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/).

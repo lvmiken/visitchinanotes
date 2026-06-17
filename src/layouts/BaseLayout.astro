@@ -12,6 +12,7 @@ interface Props {
   title: string;
   description: string;
   socialImage?: string;
+  noindex?: boolean;
   type?: "website" | "article";
   publishedTime?: Date;
   modifiedTime?: Date;
@@ -22,6 +23,7 @@ const {
   title,
   description,
   socialImage,
+  noindex = false,
   type = "website",
   publishedTime,
   modifiedTime,
@@ -62,6 +64,7 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
       title={title}
       description={description}
       socialImage={socialImage}
+      noindex={noindex}
       type={type}
       publishedTime={publishedTime}
       modifiedTime={modifiedTime}

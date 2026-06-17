@@ -31,7 +31,7 @@ export const topicClusters = [
     title: "Transport And Reservations",
     description: "Use this topic hub when trains, flights, timed entries, and booking decisions start shaping the route more than the sightseeing list itself.",
     whenToUse: "Best once the city shortlist is clear and the route is close to being booked.",
-    topicSlugs: ["high-speed-rail", "train-vs-flight", "attraction-reservations"],
+    topicSlugs: ["high-speed-rail", "book-high-speed-train", "train-vs-flight", "attraction-reservations"],
   },
 ] as const;
 

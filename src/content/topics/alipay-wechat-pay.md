@@ -42,6 +42,8 @@ For many foreign travelers, payment setup is one of the first practical anxietie
 
 Many travelers worry about payments before they finalize cities, hotels, or transport. Solving that question early makes the rest of the trip feel much more manageable.
 
+This topic is especially useful when read alongside [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/), because payment confidence and phone readiness usually rise or fall together.
+
 ## What travelers usually need to know
 
 Start with these questions:
@@ -53,3 +55,5 @@ Start with these questions:
 ## Remove this uncertainty early
 
 If payment feels unclear, travelers often hesitate on other decisions too. Once this part is solved, it becomes much easier to judge metro use, food options, casual purchases, and how independent the trip can feel day to day.
+
+After this, the next useful read is often [Metro, Taxi, or Ride-Hailing in China Cities](/topics/metro-taxi-ridehailing/) or a city-specific itinerary such as [A Balanced 3-Day Shanghai Itinerary](/guides/shanghai-3-day-itinerary/).

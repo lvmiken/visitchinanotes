@@ -3,6 +3,7 @@ interface Props {
   title: string;
   description: string;
   socialImage?: string;
+  noindex?: boolean;
   type?: "website" | "article";
   publishedTime?: Date;
   modifiedTime?: Date;
@@ -13,6 +14,7 @@ const {
   title,
   description,
   socialImage,
+  noindex = false,
   type = "website",
   publishedTime,
   modifiedTime,
@@ -29,6 +31,8 @@ const schemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
 <title>{title}</title>
 <meta name="description" content={description} />
 <link rel="canonical" href={canonical} />
+{noindex && <meta name="robots" content="noindex, nofollow" />}
+{noindex && <meta name="googlebot" content="noindex, nofollow" />}
 
 <meta property="og:type" content={type} />
 <meta property="og:title" content={title} />

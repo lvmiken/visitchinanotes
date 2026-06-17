@@ -49,6 +49,10 @@ Readers usually need to know:
 - how to think about seat classes
 - when rail is a better choice than flying
 
+If you are already past the overview stage and need the practical next step, read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) next.
+
 ## The best routes are the ones that stay calm on transfer day
 
 For many first-time travelers, rail becomes much easier once they stop imagining a casual suburban station and start planning for a large transport hub with long indoor walking distances.
+
+That is also where linked pages such as [High-Speed Rail or Flight in China](/topics/train-vs-flight/) and [Airport to City in China](/topics/airport-to-city/) become more useful than one more generic route idea.

@@ -15,6 +15,15 @@ const guides = (await getCollection("guides", ({ data }) => !data.draft)).sort(
 const topics = (await getCollection("topics", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
 );
+const highIntentTopicSlugs = [
+  "alipay-wechat-pay",
+  "esim-and-internet",
+  "airport-to-city",
+  "book-high-speed-train",
+];
+const highIntentTopics = highIntentTopicSlugs
+  .map((slug) => topics.find((topic) => topic.slug === slug))
+  .filter(Boolean);
 
 const groupedCities = destinationGroups
   .map((group) => ({
@@ -155,10 +164,10 @@ const spotlightCities = destinationGroups
   </section>
 
   <section class="section-block">
-    <h2 class="section-title">Practical Trip Topics</h2>
-    <p class="muted">These are the planning questions many travelers search before they even settle on a final route.</p>
+    <h2 class="section-title">High-Intent Planning Topics</h2>
+    <p class="muted">These pages target the practical questions travelers often search before bookings start to feel safe.</p>
     <div class="grid two">
-      {topics.slice(0, 4).map((topic) => <TopicCard topic={topic} />)}
+      {highIntentTopics.map((topic) => <TopicCard topic={topic} />)}
     </div>
   </section>
 
