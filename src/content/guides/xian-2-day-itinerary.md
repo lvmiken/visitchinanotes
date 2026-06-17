@@ -32,6 +32,10 @@ Xi'an is one of the easiest major stops in China to structure as a short, focuse
 
 Use the first day for the most logistics-heavy attraction, then keep the evening easy and central.
 
+If the excursion day still feels too vague, read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) before you add anything else to it.
+
 ## Day 2: City wall, historic streets, and food
 
 The second day works best when you stay inside the old-city logic instead of bouncing between disconnected points.
+
+Use [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) when the daytime anchor is still unsettled, and [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if the evening side of the day needs clearer shape.

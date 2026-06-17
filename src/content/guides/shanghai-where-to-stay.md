@@ -37,3 +37,5 @@ In Shanghai, where you stay shapes the feel of the trip more than the raw number
 ## Keep evenings part of the plan
 
 Shanghai often feels best after dark, so the right hotel area should still make neighborhood walks, dinners, and the ride back feel simple.
+
+If your base choice is really a choice between skyline convenience and district atmosphere, compare [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) with [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) before you book.

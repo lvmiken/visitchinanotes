@@ -7,7 +7,7 @@ import { siteName } from "./site";
 type CityEntry = CollectionEntry<"cities">;
 type GuideEntry = CollectionEntry<"guides">;
 type TopicEntry = CollectionEntry<"topics">;
-type AttractionEntry = CollectionEntry<"attractions">;
+type PlaceEntry = CollectionEntry<"places">;
 
 interface SocialCardOptions {
   eyebrow: string;
@@ -146,8 +146,8 @@ export function getTopicSocialImage(topic: TopicEntry) {
   return topic.data.ogImage ?? topic.data.heroImage ?? `/og/topics/${topic.slug}.svg`;
 }
 
-export function getAttractionSocialImage(attraction: AttractionEntry) {
-  return attraction.data.ogImage ?? attraction.data.heroImage ?? `/og/attractions/${attraction.slug}.svg`;
+export function getPlaceSocialImage(place: PlaceEntry) {
+  return place.data.ogImage ?? place.data.heroImage ?? `/og/places/${place.slug}.svg`;
 }
 
 function formatCityLabel(city: string) {
@@ -201,13 +201,13 @@ export function getTopicSocialCard(topic: TopicEntry) {
   });
 }
 
-export function getAttractionSocialCard(attraction: AttractionEntry) {
+export function getPlaceSocialCard(place: PlaceEntry) {
   return renderSocialCard({
     eyebrow: "Place Guide",
-    title: attraction.data.title,
-    description: attraction.data.description,
-    meta: `${formatCityLabel(attraction.data.city)} place`,
-    accentFrom: "#7C3AED",
-    accentTo: "#5B21B6",
+    title: place.data.title,
+    description: place.data.description,
+    meta: `${formatCityLabel(place.data.city)} place`,
+    accentFrom: "#0F766E",
+    accentTo: "#155E75",
   });
 }

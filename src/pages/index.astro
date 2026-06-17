@@ -5,6 +5,7 @@ import CityCard from "../components/CityCard.astro";
 import GuideCard from "../components/GuideCard.astro";
 import TopicCard from "../components/TopicCard.astro";
 import TopicClusterCard from "../components/TopicClusterCard.astro";
+import PlaceCard from "../components/PlaceCard.astro";
 import { destinationGroups } from "../lib/destinationGroups";
 import { topicClusters } from "../lib/topicClusters";
 
@@ -13,6 +14,9 @@ const guides = (await getCollection("guides", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
 );
 const topics = (await getCollection("topics", ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
+);
+const places = (await getCollection("places", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
 );
 const highIntentTopicSlugs = [
@@ -54,6 +58,17 @@ const spotlightCities = destinationGroups
   .map((group) => cities.find((city) => city.data.homepageGroups.includes(group.id)))
   .filter(Boolean)
   .slice(0, 3);
+const featuredPlaceSlugs = [
+  "forbidden-city",
+  "mutianyu-great-wall",
+  "the-bund",
+  "french-concession",
+  "terracotta-army",
+  "xian-city-wall",
+];
+const featuredPlaces = featuredPlaceSlugs
+  .map((slug) => places.find((place) => place.slug === slug))
+  .filter(Boolean);
 ---
 
 <BaseLayout
@@ -76,6 +91,7 @@ const spotlightCities = destinationGroups
         <span>Destination hubs</span>
         <span>Trip basics</span>
         <span>First-time itineraries</span>
+        <span>Places worth planning</span>
       </div>
     </div>
 
@@ -125,6 +141,10 @@ const spotlightCities = destinationGroups
         <strong>{guides.length}</strong>
         <span class="muted">planning guides to explore</span>
       </div>
+      <div>
+        <strong>{places.length}</strong>
+        <span class="muted">place guides in the library</span>
+      </div>
     </div>
   </section>
 
@@ -165,6 +185,19 @@ const spotlightCities = destinationGroups
       {topicClusters.map((cluster) => <TopicClusterCard cluster={cluster} />)}
     </div>
   </section>
+
+  {featuredPlaces.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Places Worth Planning Around</h2>
+      <p class="muted">These are the landmark, neighborhood, and museum pages that most often help travelers build fuller city days.</p>
+      <div class="button-row" style="margin-top: 0;">
+        <a class="button-link secondary" href="/places/">Open places index</a>
+      </div>
+      <div class="grid two">
+        {featuredPlaces.map((place) => <PlaceCard place={place} />)}
+      </div>
+    </section>
+  )}
 
   <section class="section-block">
     <h2 class="section-title">High-Intent Planning Topics</h2>

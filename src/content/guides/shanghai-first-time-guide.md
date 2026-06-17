@@ -36,8 +36,12 @@ The city works especially well if you want:
 - short metro-based movement between key areas
 - skyline, architecture, and food in the same trip
 
+If you already know the city day will revolve around one particular area, decide that early. [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) is useful when the skyline window matters most, while [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) is the better read if district feel and slower walking time are likely to shape the trip more strongly.
+
 ## Keep the route compact
 
 Shanghai is best when it stays true to its strengths. Use it as a polished urban anchor, then decide whether the overall route still has room for one slower scenic extension such as Hangzhou.
 
 If Shanghai is also your landing city, pair this with [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) before you lock in the first hotel.
+
+If the biggest open question is whether to stay on the riverfront side of the trip or move toward a more neighborhood-heavy rhythm, compare [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/) with [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) before you finalize the central day.

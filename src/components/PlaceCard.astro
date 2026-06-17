@@ -1,0 +1,63 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { slugifyAuthorValue } from "../lib/authors";
+
+interface Props {
+  place: CollectionEntry<"places">;
+}
+
+const { place } = Astro.props;
+const cityLabel = place.data.tags[0] ?? place.data.city;
+const authorSlug = slugifyAuthorValue(place.data.author);
+---
+
+<article class="card">
+  <p class="eyebrow">{cityLabel}</p>
+  <h3>
+    <a href={`/places/${place.slug}/`}>{place.data.title}</a>
+  </h3>
+  <p>{place.data.description}</p>
+  {place.data.whoItsFor.length > 0 && (
+    <p class="meta">Best for {place.data.whoItsFor.slice(0, 2).join(", ")}</p>
+  )}
+  <p class="meta">By <a class="meta-link" href={`/authors/${authorSlug}/`}>{place.data.author}</a></p>
+  <p class="meta">
+    Updated {place.data.updatedDate
+      ? place.data.updatedDate.toLocaleDateString("en-US")
+      : place.data.publishDate.toLocaleDateString("en-US")}
+  </p>
+</article>
+
+<style>
+  .card {
+    padding: 1.25rem;
+    border: 1px solid #e5e7eb;
+    border-radius: 1rem;
+    background: linear-gradient(180deg, #ffffff 0%, #faf5ff 100%);
+  }
+
+  .eyebrow,
+  .meta {
+    margin: 0;
+    color: #6b7280;
+    font-size: 0.9rem;
+  }
+
+  h3 {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+  }
+
+  a {
+    color: #111827;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .meta-link {
+    color: inherit;
+  }
+</style>

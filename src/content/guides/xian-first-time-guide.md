@@ -36,6 +36,10 @@ This city works especially well if you want:
 - one major excursion with clear priorities
 - a strong historical identity in a shorter stay
 
+If one specific Xi'an sight is going to decide whether the stop feels worth it, answer that directly. [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) is usually the first page to read when the city is being judged mainly through its top excursion.
+
 ## Let the city stay focused
 
 Xi'an is better when the plan stays compact: one anchor half-day for the Terracotta Army, one old-city rhythm, and enough time for evening walking and food.
+
+When you start shaping the in-city day, [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) and [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) are often the two place pages that make the stop feel more concrete.

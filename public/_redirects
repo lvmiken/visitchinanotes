@@ -1,0 +1,2 @@
+/attractions/* /places/:splat 301
+/og/attractions/* /og/places/:splat 301

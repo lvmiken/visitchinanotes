@@ -5,7 +5,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import GuideCard from "../../components/GuideCard.astro";
 import TopicCard from "../../components/TopicCard.astro";
 import CityCard from "../../components/CityCard.astro";
-import AttractionCard from "../../components/AttractionCard.astro";
+import PlaceCard from "../../components/PlaceCard.astro";
 import PlanningHelpCallout from "../../components/PlanningHelpCallout.astro";
 import { guideStages } from "../../lib/guideStages";
 import { findCityEntry, getCitySlug, uniqueCityEntries } from "../../lib/cityEntries";
@@ -26,8 +26,8 @@ const allCities = await getCollection("cities");
 const allGuides = (await getCollection("guides", ({ data }) => !data.draft)).filter(
   (guide) => guide.data.city.toLowerCase() === getCitySlug(city).toLowerCase(),
 );
-const allAttractions = (await getCollection("attractions", ({ data }) => !data.draft)).filter(
-  (attraction) => attraction.data.city.toLowerCase() === getCitySlug(city).toLowerCase(),
+const allPlaces = (await getCollection("places", ({ data }) => !data.draft)).filter(
+  (place) => place.data.city.toLowerCase() === getCitySlug(city).toLowerCase(),
 );
 
 const relatedGuides = [
@@ -36,11 +36,11 @@ const relatedGuides = [
     .filter(Boolean),
   ...allGuides.filter((guide) => !city.data.featuredGuideSlugs.includes(guide.slug)),
 ];
-const relatedAttractions = [
-  ...city.data.featuredAttractionSlugs
-    .map((slug) => allAttractions.find((attraction) => attraction.slug === slug))
+const relatedPlaces = [
+  ...city.data.featuredPlaceSlugs
+    .map((slug) => allPlaces.find((place) => place.slug === slug))
     .filter(Boolean),
-  ...allAttractions.filter((attraction) => !city.data.featuredAttractionSlugs.includes(attraction.slug)),
+  ...allPlaces.filter((place) => !city.data.featuredPlaceSlugs.includes(place.slug)),
 ].slice(0, 10);
 
 const allTopics = await getCollection("topics", ({ data }) => !data.draft);
@@ -147,6 +147,19 @@ const clusterSteps = [
         })),
     ].slice(0, 3),
   },
+  ...(relatedPlaces.length > 0
+    ? [
+        {
+          title: `Choose the places that deserve planning in ${city.data.name}`,
+          description: "Use place pages when one museum, neighborhood, park, or landmark starts deciding the shape of the day.",
+          links: relatedPlaces.slice(0, 3).map((place) => ({
+            href: `/places/${place.slug}/`,
+            label: place.data.title,
+            kind: "Place",
+          })),
+        },
+      ]
+    : []),
   {
     title: "Lock in practical details",
     description: "Use supporting topic pages once payments, rail timing, and booking assumptions start to shape what is realistic.",
@@ -303,15 +316,18 @@ const socialImage = getCitySocialImage(city);
     )}
   </section>
 
-  {relatedAttractions.length > 0 && (
-    <section class="section-block">
-      <h2 class="section-title">Places Worth Planning In {city.data.name}</h2>
+  {relatedPlaces.length > 0 && (
+    <section class="section-block" id="places-cluster">
+      <h2 class="section-title">{city.data.name} Places Cluster</h2>
       <p class="muted">
-        These pages cover the sights, parks, and visitor-heavy areas that most often shape the day. Use them when timing,
-        route logic, or neighborhood choice starts controlling the city plan.
+        These place guides cover the landmarks, neighborhoods, museums, and visitor-heavy areas that most often shape
+        the day. Use them when timing, route logic, or neighborhood choice starts controlling the city plan.
       </p>
+      <div class="button-row">
+        <a class="button-link secondary" href="/places/">Browse all place guides</a>
+      </div>
       <div class="grid two">
-        {relatedAttractions.map((attraction) => <AttractionCard attraction={attraction} />)}
+        {relatedPlaces.map((place) => <PlaceCard place={place} />)}
       </div>
     </section>
   )}

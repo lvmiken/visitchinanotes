@@ -70,7 +70,7 @@ const cities = defineCollection({
     ogImage: z.string().optional(),
     featuredGuideSlugs: z.array(z.string()).default([]),
     featuredTopicSlugs: z.array(z.string()).default([]),
-    featuredAttractionSlugs: z.array(z.string()).default([]),
+    featuredPlaceSlugs: z.array(z.string()).default([]),
   }),
 });
 
@@ -97,7 +97,7 @@ const topics = defineCollection({
   }),
 });
 
-const attractions = defineCollection({
+const places = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
@@ -138,6 +138,6 @@ export const collections = {
   guides,
   cities,
   topics,
-  attractions,
+  places,
   authors,
 };

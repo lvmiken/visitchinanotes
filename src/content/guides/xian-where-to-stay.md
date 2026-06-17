@@ -37,3 +37,5 @@ Xi'an is at its best when the hotel base makes the whole stop feel compact and c
 ## Let the hotel support the short-stay rhythm
 
 Because many first trips to Xi'an are only two or three days, the right base matters more than trying to optimize for every possible neighborhood angle.
+
+If the hotel decision is really about how smoothly the old-city day should work, keep [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) nearby while you choose.

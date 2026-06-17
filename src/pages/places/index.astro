@@ -1,0 +1,129 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import CityCard from "../../components/CityCard.astro";
+import PlaceCard from "../../components/PlaceCard.astro";
+import { findCityEntry, getCitySlug } from "../../lib/cityEntries";
+
+const allPlaces = (await getCollection("places", ({ data }) => !data.draft)).sort(
+  (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
+);
+const allCities = await getCollection("cities");
+const priorityCities = ["beijing", "shanghai", "xian"];
+const cityOrder = [
+  ...priorityCities,
+  ...allPlaces
+    .map((place) => place.data.city.toLowerCase())
+    .filter((city, index, cities) => cities.indexOf(city) === index && !priorityCities.includes(city))
+    .sort(),
+];
+
+const cityGroups = cityOrder
+  .map((citySlug) => {
+    const city = findCityEntry(allCities, citySlug);
+    const places = allPlaces.filter((place) => place.data.city.toLowerCase() === citySlug);
+
+    if (!city || places.length === 0) {
+      return undefined;
+    }
+
+    return {
+      city,
+      places,
+    };
+  })
+  .filter(Boolean);
+---
+
+<BaseLayout
+  title="China Places | Landmark, Neighborhood, and Museum Guides"
+  description="Browse place guides for the landmarks, neighborhoods, museums, parks, and visitor-heavy districts that most often shape a first China trip."
+>
+  <section class="split-hero">
+    <div class="hero article">
+      <p class="eyebrow">Places Index</p>
+      <h1>Use place guides when one landmark, district, museum, or park starts shaping the whole city day.</h1>
+      <p>
+        This is a lightweight library of the places that most often affect route logic, booking order, or pacing. Start
+        with Beijing, Shanghai, and Xi&apos;an if you want the most complete sample city clusters.
+      </p>
+      <div class="button-row">
+        <a class="button-link primary" href="/destinations/">Browse destination hubs</a>
+        <a class="button-link secondary" href="/guides/">Browse planning guides</a>
+      </div>
+    </div>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">What Belongs Here</p>
+        <h3>Not every famous place needs its own page.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>Use place guides for locations that can change route shape, booking order, or hotel-area choices.</li>
+        <li>Keep the city hub as the main cluster page, and let these narrower pages handle specific planning decisions.</li>
+        <li>Prioritize practical next reads over generic sightseeing lists.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">At A Glance</p>
+    <h2 class="section-title">The strongest sample cities now connect destination hub, first-time guide, itinerary, stay advice, and places cluster.</h2>
+    <div class="stat-grid">
+      <div>
+        <strong>{allPlaces.length}</strong>
+        <span class="muted">place guides</span>
+      </div>
+      <div>
+        <strong>{cityGroups.length}</strong>
+        <span class="muted">cities with place clusters</span>
+      </div>
+      <div>
+        <strong>3</strong>
+        <span class="muted">priority sample cities</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section-block stack">
+    {cityGroups.map((group) => (
+      <section class="card-surface">
+        <div class="cluster-head">
+          <div>
+            <p class="eyebrow">{group.places.length} place guides</p>
+            <h2 class="section-title">{group.city.data.name} Places Cluster</h2>
+            <p class="muted">{group.city.data.transportNote}</p>
+          </div>
+          <div class="button-row" style="margin-top: 0;">
+            <a class="button-link secondary" href={`/destinations/${getCitySlug(group.city)}/`}>Open {group.city.data.name} hub</a>
+          </div>
+        </div>
+        <div class="grid two" style="margin-top: 1rem;">
+          {group.places.map((place) => <PlaceCard place={place} />)}
+        </div>
+      </section>
+    ))}
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Destination Hubs Behind These Clusters</h2>
+    <div class="grid two">
+      {cityGroups.slice(0, 3).map((group) => <CityCard city={group.city} />)}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .cluster-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  @media (max-width: 720px) {
+    .cluster-head {
+      flex-direction: column;
+    }
+  }
+</style>

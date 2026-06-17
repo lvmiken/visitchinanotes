@@ -1,18 +1,18 @@
 import type { APIRoute, GetStaticPaths } from "astro";
 import { getCollection } from "astro:content";
-import { getAttractionSocialCard } from "../../../lib/socialImages";
+import { getPlaceSocialCard } from "../../../lib/socialImages";
 
 interface Props {
   image: string;
 }
 
 export const getStaticPaths = (async () => {
-  const attractions = await getCollection("attractions", ({ data }) => !data.draft);
+  const places = await getCollection("places", ({ data }) => !data.draft);
 
-  return attractions.map((attraction) => ({
-    params: { slug: attraction.slug },
+  return places.map((place) => ({
+    params: { slug: place.slug },
     props: {
-      image: getAttractionSocialCard(attraction),
+      image: getPlaceSocialCard(place),
     },
   }));
 }) satisfies GetStaticPaths;

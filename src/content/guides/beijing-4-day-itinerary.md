@@ -57,7 +57,7 @@ The logic of the day should be:
 - afternoon for the Palace Museum block and nearby continuation
 - evening for a place that still feels active, such as **Qianmen** or **Wangfujing**, depending on your energy
 
-If the central day is mainly being shaped around the Palace Museum, use [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/attractions/forbidden-city/) and [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) together before you lock the timing.
+If the central day is mainly being shaped around the Palace Museum, use [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/places/forbidden-city/) and [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) together before you lock the timing.
 
 ### Why this day works
 
@@ -84,7 +84,7 @@ The rhythm should be:
 - let the Wall be the main event
 - return with a soft evening plan rather than another heavy sightseeing block
 
-If the Wall section itself is still undecided, use [Mutianyu Great Wall for First-Time Visitors: Why It Is Often the Best Beijing Wall Day](/attractions/mutianyu-great-wall/) before you commit.
+If the Wall section itself is still undecided, use [Mutianyu Great Wall for First-Time Visitors: Why It Is Often the Best Beijing Wall Day](/places/mutianyu-great-wall/) before you commit.
 
 ### Why this day works
 

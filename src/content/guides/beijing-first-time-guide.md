@@ -52,4 +52,4 @@ Before polishing the itinerary, confirm:
 
 Those details usually matter more than squeezing in one extra landmark.
 
-If the biggest sight question is how much weight to give the Palace Museum itself, read [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/attractions/forbidden-city/) before you decide what the central Beijing day should carry.
+If the biggest sight question is how much weight to give the Palace Museum itself, read [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/places/forbidden-city/) before you decide what the central Beijing day should carry.

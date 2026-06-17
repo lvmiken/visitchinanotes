@@ -38,7 +38,7 @@ If the Forbidden City is one of the reasons you are going to Beijing, treat the 
 
 This guide is based on the Palace Museum's official reservation system and Beijing's published visitor policy checked on **June 17, 2026**. Exact screens can change, but the booking rules themselves are clear enough that they should shape your planning.
 
-If you are still deciding how important the Palace Museum should be inside the wider Beijing route, pair this page with [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/attractions/forbidden-city/).
+If you are still deciding how important the Palace Museum should be inside the wider Beijing route, pair this page with [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/places/forbidden-city/).
 
 ## Who this is for
 
@@ -160,6 +160,6 @@ In those situations, the ticket is not a side detail. It is one of the things th
 ## Which page to read next
 
 - read [What to Reserve in Advance for China Trips](/topics/attraction-reservations/) if you are still deciding which Beijing bookings truly anchor the route
-- read [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/attractions/forbidden-city/) if you are still judging how much of the day the Palace Museum deserves
+- read [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/places/forbidden-city/) if you are still judging how much of the day the Palace Museum deserves
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if the wider city plan is still unsettled
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) once the Forbidden City day is actually being placed inside the trip
