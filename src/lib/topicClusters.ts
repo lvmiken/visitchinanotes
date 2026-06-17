@@ -15,7 +15,13 @@ export const topicClusters = [
     title: "Arrival Basics",
     description: "Use this topic hub before departure so entry rules, internet setup, and airport-to-city expectations are solved before the first day begins.",
     whenToUse: "Best before flights, arrival-day planning, and the first hotel are finalized.",
-    topicSlugs: ["china-visa-basics", "esim-and-internet", "airport-to-city"],
+    topicSlugs: [
+      "china-visa-basics",
+      "esim-and-internet",
+      "best-esim-for-china",
+      "do-you-need-a-vpn-in-china",
+      "airport-to-city",
+    ],
   },
   {
     id: "payments-and-daily-use",

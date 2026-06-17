@@ -4,52 +4,81 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 
 const workflow = [
   {
-    title: "Source research comes first",
-    description: "City and planning pages begin with strong Chinese-language travel material, official booking information, and practical traveler questions worth translating clearly into English.",
+    title: "We start from real traveler questions",
+    description: "Pages are built around practical search intents such as where to stay, how to pay, how to get from the airport, or how many days to spend, not around filler topics that sound broad but solve little.",
   },
   {
-    title: "AI helps with drafting and translation",
-    description: "AI can speed up translation, restructuring, and first-draft synthesis, but it is not the final publisher on its own.",
+    title: "We prefer useful decisions over generic inspiration",
+    description: "The goal is to help readers choose, compare, and avoid mistakes. A page should reduce friction, not just repeat attraction lists or vague travel marketing language.",
   },
   {
-    title: "Human review decides what gets published",
-    description: "Pages should be checked for clarity, route logic, and whether advice still sounds practical for a first-time visitor instead of just sounding complete.",
+    title: "We revise when a page needs to be clearer",
+    description: "If transport patterns, booking logic, payment habits, or route advice become stale or too vague, the page should be improved so it stays genuinely helpful for first-time visitors.",
   },
 ];
 
 const standards = [
-  "Prefer route clarity over attraction stuffing.",
-  "Separate editorial advice from partner handoff decisions.",
-  "Update pages when transport logic, payment habits, or booking friction meaningfully changes.",
-  "Avoid implying guaranteed prices, availability, or visa outcomes.",
+  "Prefer clear recommendations, tradeoffs, and next steps over long attraction dumps.",
+  "Write for first-time visitors who need practical help in plain English.",
+  "Separate editorial advice from any partner or lead-handoff step.",
+  "Avoid implying guaranteed prices, availability, approvals, or outcomes.",
+];
+
+const readerPromises = [
+  {
+    title: "Specific questions first",
+    description: "We try to make each page answer one concrete planning problem well, so readers can finish with a clearer decision instead of more tabs open.",
+  },
+  {
+    title: "Best-practice travel logic",
+    description: "We favor realistic pacing, workable hotel areas, easier transfers, and lower-friction routes over ambitious plans that look good on paper only.",
+  },
+  {
+    title: "Reader value before site goals",
+    description: "A page should still be worth reading even if the reader never clicks another link, submits a form, or asks for outside help.",
+  },
 ];
 ---
 
 <BaseLayout
   title="Editorial Policy | China Travel Notes"
-  description="Read how China Travel Notes approaches sourcing, translation, AI-assisted drafting, human review, and partner disclosures."
+  description="Read the editorial principles behind China Travel Notes, including how the site prioritizes useful travel advice, practical best practices, and reader-first planning help."
   noindex={true}
 >
   <section class="split-hero">
     <article class="hero article">
       <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Editorial Policy" }]} />
       <p class="eyebrow">Editorial Policy</p>
-      <h1>Practical advice first, AI-assisted drafting second, human judgment last.</h1>
+      <h1>Useful travel advice should make a China trip easier, not just longer to research.</h1>
       <p>
-        This site is designed to publish useful English travel planning content without pretending that automation alone
-        is good enough. The goal is not volume for its own sake. The goal is clearer travel decisions.
+        China Travel Notes is built for readers who want practical English guidance for planning China with more
+        confidence. The standard is simple: a page should help solve a real trip problem, reduce avoidable stress, and
+        make the next decision easier.
       </p>
     </article>
 
     <aside class="card-surface stack">
       <div>
         <p class="eyebrow">Core Rule</p>
-        <h3>Useful beats exhaustive.</h3>
+        <h3>Helpful beats impressive.</h3>
       </div>
       <p class="muted">
-        If a page answers the right planning question in a clearer way, it is more valuable than a longer page that only looks comprehensive.
+        A shorter page that answers the right question clearly is more valuable than a longer page that sounds complete
+        but leaves the reader unsure what to do next.
       </p>
     </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">What Readers Should Expect</h2>
+    <div class="feature-grid">
+      {readerPromises.map((item) => (
+        <article class="card-surface">
+          <h3>{item.title}</h3>
+          <p>{item.description}</p>
+        </article>
+      ))}
+    </div>
   </section>
 
   <section class="section-block">
@@ -70,6 +99,26 @@ const standards = [
     <ul class="mini-list">
       {standards.map((item) => <li>{item}</li>)}
     </ul>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">How We Judge Whether A Page Is Good Enough</h2>
+    <div class="grid two">
+      <article class="card-surface">
+        <h3>It should answer the practical question directly</h3>
+        <p>
+          Readers should quickly understand who the page is for, what choice they need to make, what tradeoffs matter,
+          and what common mistake to avoid.
+        </p>
+      </article>
+      <article class="card-surface">
+        <h3>It should make the wider trip easier</h3>
+        <p>
+          Good travel content does not only explain one fact. It helps the reader connect that fact to hotel choice,
+          transfer ease, route shape, budget, or first-day confidence.
+        </p>
+      </article>
+    </div>
   </section>
 
   <section class="section-block">

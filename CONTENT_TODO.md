@@ -47,8 +47,8 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 | --- | --- | --- | --- | --- | --- |
 | 1 | done | batch-1 | Can Tourists Use Alipay in China? A Step-by-Step Setup Guide | `can-tourists-use-alipay-in-china` | `src/content/topics/can-tourists-use-alipay-in-china.md` |
 | 2 | done | batch-1 | Can Tourists Use WeChat Pay in China? What Actually Works | `can-tourists-use-wechat-pay-in-china` | `src/content/topics/can-tourists-use-wechat-pay-in-china.md` |
-| 3 | partial | batch-1 | Best eSIM for China in 2026: Tourist-Friendly Options Compared | `best-esim-for-china` | `src/content/topics/esim-and-internet.md` |
-| 4 | todo | batch-1 | Do You Need a VPN in China? What Travelers Should Know | `do-you-need-a-vpn-in-china` | no exact page yet |
+| 3 | done | batch-1 | Best eSIM for China in 2026: Tourist-Friendly Options Compared | `best-esim-for-china` | `src/content/topics/best-esim-for-china.md` |
+| 4 | done | batch-1 | Do You Need a VPN in China? What Travelers Should Know | `do-you-need-a-vpn-in-china` | `src/content/topics/do-you-need-a-vpn-in-china.md` |
 | 5 | partial | batch-1 | How to Get From Beijing Capital Airport to the City Center | `beijing-capital-airport-to-city-center` | `src/content/guides/beijing-airport-to-city.md` |
 | 6 | partial | later | How to Get From Beijing Daxing Airport to the City Center | `beijing-daxing-airport-to-city-center` | `src/content/guides/beijing-airport-to-city.md` |
 | 7 | partial | batch-1 | How to Get From Shanghai Pudong Airport to the City Center | `shanghai-pudong-airport-to-city-center` | `src/content/guides/shanghai-airport-to-city.md` |
@@ -81,6 +81,7 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 - `src/content/topics/high-speed-rail.md` is already close to query #13 and should be treated as live coverage unless replaced by a clearly stronger version.
 - `src/content/topics/best-time-to-visit-china.md` already covers query #20 well enough and should be treated as the main page for that intent.
 - `src/content/topics/alipay-wechat-pay.md` should remain the broader parent page for China mobile payments after narrower `Alipay` and `WeChat Pay` setup pages are published.
+- `src/content/topics/esim-and-internet.md` should remain the broader parent page for China internet prep after narrower `Best eSIM for China` and `Do You Need a VPN in China?` pages are published.
 - The airport pages for Beijing and Shanghai are useful cluster pieces, but they are still broader than the airport-specific searches listed above.
 
 ## Update Rule
