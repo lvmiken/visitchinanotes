@@ -34,6 +34,8 @@ Shanghai is one of the easier first landings in China, but the arrival still goe
 
 This page is for travelers landing in Shanghai who want the first evening to feel straightforward and low-stress.
 
+If you already know you are landing at **Shanghai Pudong International Airport**, the narrower page [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) is the better next read because it compares the actual Pudong options more directly.
+
 ## How to choose the transfer
 
 - Start with the exact airport, not with a generic Shanghai transfer assumption.
@@ -54,4 +56,4 @@ This is why the best companion pages are [Where to Stay in Shanghai for a First 
 
 ## Related reads
 
-If you are still deciding whether Shanghai is the right first stop, read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/). If you want to reduce the everyday friction after arrival, keep [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/) nearby as well.
+If you are still deciding whether Shanghai is the right first stop, read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/). If you want to reduce the everyday friction after arrival, keep [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/) nearby as well. If the arrival airport is specifically Pudong, continue with [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/).

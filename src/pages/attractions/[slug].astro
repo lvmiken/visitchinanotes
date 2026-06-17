@@ -1,0 +1,20 @@
+---
+import AttractionLayout from "../../layouts/AttractionLayout.astro";
+import { getCollection } from "astro:content";
+
+export async function getStaticPaths() {
+  const attractions = await getCollection("attractions", ({ data }) => !data.draft);
+
+  return attractions.map((attraction) => ({
+    params: { slug: attraction.slug },
+    props: { attraction },
+  }));
+}
+
+const { attraction } = Astro.props;
+const { Content } = await attraction.render();
+---
+
+<AttractionLayout attraction={attraction}>
+  <Content />
+</AttractionLayout>

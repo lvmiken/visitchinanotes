@@ -5,6 +5,7 @@ import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import GuideCard from "../../components/GuideCard.astro";
 import TopicCard from "../../components/TopicCard.astro";
 import CityCard from "../../components/CityCard.astro";
+import AttractionCard from "../../components/AttractionCard.astro";
 import PlanningHelpCallout from "../../components/PlanningHelpCallout.astro";
 import { guideStages } from "../../lib/guideStages";
 import { findCityEntry, getCitySlug, uniqueCityEntries } from "../../lib/cityEntries";
@@ -25,6 +26,9 @@ const allCities = await getCollection("cities");
 const allGuides = (await getCollection("guides", ({ data }) => !data.draft)).filter(
   (guide) => guide.data.city.toLowerCase() === getCitySlug(city).toLowerCase(),
 );
+const allAttractions = (await getCollection("attractions", ({ data }) => !data.draft)).filter(
+  (attraction) => attraction.data.city.toLowerCase() === getCitySlug(city).toLowerCase(),
+);
 
 const relatedGuides = [
   ...city.data.featuredGuideSlugs
@@ -32,6 +36,12 @@ const relatedGuides = [
     .filter(Boolean),
   ...allGuides.filter((guide) => !city.data.featuredGuideSlugs.includes(guide.slug)),
 ];
+const relatedAttractions = [
+  ...city.data.featuredAttractionSlugs
+    .map((slug) => allAttractions.find((attraction) => attraction.slug === slug))
+    .filter(Boolean),
+  ...allAttractions.filter((attraction) => !city.data.featuredAttractionSlugs.includes(attraction.slug)),
+].slice(0, 10);
 
 const allTopics = await getCollection("topics", ({ data }) => !data.draft);
 const citySlug = getCitySlug(city);
@@ -292,6 +302,19 @@ const socialImage = getCitySocialImage(city);
       <p>More city-specific guides are on the way. For now, start with the trip basics below before you lock in plans.</p>
     )}
   </section>
+
+  {relatedAttractions.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Places Worth Planning In {city.data.name}</h2>
+      <p class="muted">
+        These pages cover the sights, parks, and visitor-heavy areas that most often shape the day. Use them when timing,
+        route logic, or neighborhood choice starts controlling the city plan.
+      </p>
+      <div class="grid two">
+        {relatedAttractions.map((attraction) => <AttractionCard attraction={attraction} />)}
+      </div>
+    </section>
+  )}
 
   {pairingCities.length > 0 && (
     <section class="section-block">

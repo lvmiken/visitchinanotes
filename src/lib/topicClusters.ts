@@ -34,6 +34,7 @@ export const topicClusters = [
       "can-tourists-use-alipay-in-china",
       "can-tourists-use-wechat-pay-in-china",
       "metro-taxi-ridehailing",
+      "how-to-use-didi-in-china",
     ],
   },
   {
@@ -42,7 +43,13 @@ export const topicClusters = [
     title: "Transport And Reservations",
     description: "Use this topic hub when trains, flights, timed entries, and booking decisions start shaping the route more than the sightseeing list itself.",
     whenToUse: "Best once the city shortlist is clear and the route is close to being booked.",
-    topicSlugs: ["high-speed-rail", "book-high-speed-train", "train-vs-flight", "attraction-reservations"],
+    topicSlugs: [
+      "high-speed-rail",
+      "book-high-speed-train",
+      "train-vs-flight",
+      "attraction-reservations",
+      "how-to-book-forbidden-city-tickets",
+    ],
   },
 ] as const;
 

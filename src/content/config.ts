@@ -70,6 +70,7 @@ const cities = defineCollection({
     ogImage: z.string().optional(),
     featuredGuideSlugs: z.array(z.string()).default([]),
     featuredTopicSlugs: z.array(z.string()).default([]),
+    featuredAttractionSlugs: z.array(z.string()).default([]),
   }),
 });
 
@@ -86,6 +87,28 @@ const topics = defineCollection({
     featuredCitySlugs: z.array(z.string()).default([]),
     keyTakeaways: z.array(z.string()).default([]),
     beforeYouBookChecklist: z.array(z.string()).default([]),
+    relatedGuideSlugs: z.array(z.string()).default([]),
+    tags: z.array(z.string()).default([]),
+    heroImage: z.string().optional(),
+    ogImage: z.string().optional(),
+    author: z.string(),
+    draft: z.boolean().default(false),
+    faq: faqSchema.default([]),
+  }),
+});
+
+const attractions = defineCollection({
+  type: "content",
+  schema: z.object({
+    title: z.string(),
+    description: z.string(),
+    publishDate: z.coerce.date(),
+    updatedDate: z.coerce.date().optional(),
+    city: z.string(),
+    whoItsFor: z.array(z.string()).default([]),
+    keyTakeaways: z.array(z.string()).default([]),
+    beforeYouGoChecklist: z.array(z.string()).default([]),
+    relatedTopicSlugs: z.array(z.string()).default([]),
     relatedGuideSlugs: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
     heroImage: z.string().optional(),
@@ -115,5 +138,6 @@ export const collections = {
   guides,
   cities,
   topics,
+  attractions,
   authors,
 };

@@ -34,6 +34,8 @@ Beijing is manageable on arrival, but the first airport transfer often feels har
 
 This page is most useful if Beijing is your first China stop and you want the arrival to feel calm rather than efficient only on paper.
 
+If you already know you are landing at **Beijing Capital International Airport**, the narrower page [How to Get From Beijing Capital Airport to the City Center](/guides/beijing-capital-airport-to-city-center/) is the better next read because it compares the actual Capital Airport options more directly.
+
 ## How to choose the transfer
 
 - Pick the simplest option if you land late, feel tired, or want the least friction.
@@ -54,4 +56,4 @@ That is why this page works best together with [Where to Stay in Beijing for a F
 
 ## Related reads
 
-If you are still shaping the stay, read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) next. If you mainly want to reduce day-one friction, pair this page with [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/).
+If you are still shaping the stay, read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) next. If you mainly want to reduce day-one friction, pair this page with [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/). If the arrival airport is specifically Capital Airport, continue with [How to Get From Beijing Capital Airport to the City Center](/guides/beijing-capital-airport-to-city-center/).

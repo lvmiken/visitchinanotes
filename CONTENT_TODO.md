@@ -39,7 +39,8 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 
 - `src/content/topics/alipay-wechat-pay.md` should stay live as the broader payments page. Publish narrower `Alipay` and `WeChat Pay` pages as child-intent pages, then internally link all three pages clearly.
 - `src/content/topics/esim-and-internet.md` is a broad internet-prep page. It can stay as a hub, but the future `Best eSIM for China in 2026` page should be more comparison-focused and commercial-intent-friendly.
-- `src/content/guides/beijing-airport-to-city.md` and `src/content/guides/shanghai-airport-to-city.md` are broad city-arrival pages. The future airport-specific pages should narrow by airport and transfer decision.
+- `src/content/guides/beijing-airport-to-city.md` and `src/content/guides/shanghai-airport-to-city.md` are broad city-arrival pages. Airport-specific child pages should narrow by airport and transfer decision, while the broader city pages stay live as parent landing pages.
+- `src/content/topics/metro-taxi-ridehailing.md` should stay live as the broader city-movement page. Narrower ride-hailing help such as `How to Use Didi in China` should sit underneath it and link back clearly.
 
 ## Backlog Tracker
 
@@ -49,18 +50,18 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 | 2 | done | batch-1 | Can Tourists Use WeChat Pay in China? What Actually Works | `can-tourists-use-wechat-pay-in-china` | `src/content/topics/can-tourists-use-wechat-pay-in-china.md` |
 | 3 | done | batch-1 | Best eSIM for China in 2026: Tourist-Friendly Options Compared | `best-esim-for-china` | `src/content/topics/best-esim-for-china.md` |
 | 4 | done | batch-1 | Do You Need a VPN in China? What Travelers Should Know | `do-you-need-a-vpn-in-china` | `src/content/topics/do-you-need-a-vpn-in-china.md` |
-| 5 | partial | batch-1 | How to Get From Beijing Capital Airport to the City Center | `beijing-capital-airport-to-city-center` | `src/content/guides/beijing-airport-to-city.md` |
+| 5 | done | batch-1 | How to Get From Beijing Capital Airport to the City Center | `beijing-capital-airport-to-city-center` | `src/content/guides/beijing-capital-airport-to-city-center.md` |
 | 6 | partial | later | How to Get From Beijing Daxing Airport to the City Center | `beijing-daxing-airport-to-city-center` | `src/content/guides/beijing-airport-to-city.md` |
-| 7 | partial | batch-1 | How to Get From Shanghai Pudong Airport to the City Center | `shanghai-pudong-airport-to-city-center` | `src/content/guides/shanghai-airport-to-city.md` |
+| 7 | done | batch-1 | How to Get From Shanghai Pudong Airport to the City Center | `shanghai-pudong-airport-to-city-center` | `src/content/guides/shanghai-pudong-airport-to-city-center.md` |
 | 8 | partial | later | How to Get From Shanghai Hongqiao Airport to the City Center | `shanghai-hongqiao-airport-to-city-center` | `src/content/guides/shanghai-airport-to-city.md` |
 | 9 | todo | later | How to Get From Guangzhou Baiyun Airport to Downtown | `guangzhou-baiyun-airport-to-downtown` | no exact page yet |
 | 10 | todo | later | How to Get From Chengdu Tianfu Airport to the City | `chengdu-tianfu-airport-to-city` | no exact page yet |
-| 11 | partial | batch-1 | How to Book Forbidden City Tickets as a Foreigner | `how-to-book-forbidden-city-tickets` | `src/content/topics/attraction-reservations.md` |
+| 11 | done | batch-1 | How to Book Forbidden City Tickets as a Foreigner | `how-to-book-forbidden-city-tickets` | `src/content/topics/how-to-book-forbidden-city-tickets.md` |
 | 12 | partial | later | How to Book Terracotta Warriors Tickets Without Stress | `how-to-book-terracotta-warriors-tickets` | `src/content/topics/attraction-reservations.md` |
 | 13 | done | batch-1 | How to Ride China High-Speed Rail for the First Time | `how-to-ride-china-high-speed-rail` | `src/content/topics/high-speed-rail.md` |
 | 14 | partial | later | 12306 for Foreigners: How to Book Trains in China | `12306-for-foreigners` | `src/content/topics/book-high-speed-train.md` |
 | 15 | partial | later | China Train Classes Explained: Second Class vs First Class vs Business | `china-train-classes-explained` | `src/content/topics/high-speed-rail.md` |
-| 16 | partial | batch-1 | How to Use Didi in China Without Speaking Chinese | `how-to-use-didi-in-china` | `src/content/topics/metro-taxi-ridehailing.md` |
+| 16 | done | batch-1 | How to Use Didi in China Without Speaking Chinese | `how-to-use-didi-in-china` | `src/content/topics/how-to-use-didi-in-china.md` |
 | 17 | todo | later | What Apps You Need for a China Trip | `what-apps-you-need-for-a-china-trip` | no exact page yet |
 | 18 | partial | later | Cash, Card, Alipay, or WeChat Pay: How to Pay in China | `how-to-pay-in-china` | `src/content/topics/alipay-wechat-pay.md` |
 | 19 | todo | later | How Much Does a Trip to China Cost in 2026? | `china-trip-cost-2026` | no exact page yet |
@@ -91,3 +92,15 @@ When a new page is published:
 1. change the topic status here
 2. add the exact file path in the last column
 3. note whether an older broader page should stay live, be repurposed, or be internally linked as a supporting page
+
+## Attraction Layer Notes
+
+- Keep attractions as city-linked practical pages first, not as province archive pages.
+- Use attraction pages for anchor sights that shape a city day or require dedicated planning.
+- Current live attraction sample:
+  - `src/content/attractions/forbidden-city.md`
+- Good next attraction candidates:
+  - `mutianyu-great-wall`
+  - `summer-palace`
+  - `temple-of-heaven`
+  - `terracotta-warriors`

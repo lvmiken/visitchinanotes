@@ -7,6 +7,7 @@ import { siteName } from "./site";
 type CityEntry = CollectionEntry<"cities">;
 type GuideEntry = CollectionEntry<"guides">;
 type TopicEntry = CollectionEntry<"topics">;
+type AttractionEntry = CollectionEntry<"attractions">;
 
 interface SocialCardOptions {
   eyebrow: string;
@@ -145,6 +146,10 @@ export function getTopicSocialImage(topic: TopicEntry) {
   return topic.data.ogImage ?? topic.data.heroImage ?? `/og/topics/${topic.slug}.svg`;
 }
 
+export function getAttractionSocialImage(attraction: AttractionEntry) {
+  return attraction.data.ogImage ?? attraction.data.heroImage ?? `/og/attractions/${attraction.slug}.svg`;
+}
+
 function formatCityLabel(city: string) {
   if (city.toLowerCase() === "xian") {
     return "Xi'an";
@@ -193,5 +198,16 @@ export function getTopicSocialCard(topic: TopicEntry) {
       : "China trip planning",
     accentFrom: "#B45309",
     accentTo: "#9A3412",
+  });
+}
+
+export function getAttractionSocialCard(attraction: AttractionEntry) {
+  return renderSocialCard({
+    eyebrow: "Place Guide",
+    title: attraction.data.title,
+    description: attraction.data.description,
+    meta: `${formatCityLabel(attraction.data.city)} place`,
+    accentFrom: "#7C3AED",
+    accentTo: "#5B21B6",
   });
 }

@@ -32,5 +32,6 @@
   "homepageGroups": ["first-time-essentials", "north-inland-routes"],
   "ogImage": "/og/custom/beijing-hub.svg",
   "featuredGuideSlugs": ["beijing-first-china-stop", "beijing-first-time-guide", "beijing-where-to-stay", "beijing-airport-to-city", "beijing-4-day-itinerary", "beijing-xian-or-shanghai-pairing"],
-  "featuredTopicSlugs": ["best-time-to-visit-china", "choosing-hotel-location", "china-visa-basics", "airport-to-city", "attraction-reservations", "high-speed-rail", "plan-your-trip"]
+  "featuredTopicSlugs": ["best-time-to-visit-china", "choosing-hotel-location", "china-visa-basics", "airport-to-city", "attraction-reservations", "high-speed-rail", "plan-your-trip"],
+  "featuredAttractionSlugs": ["forbidden-city", "mutianyu-great-wall", "summer-palace", "temple-of-heaven", "beihai-park", "sanlitun", "wangfujing", "qianmen", "national-museum-of-china"]
 }

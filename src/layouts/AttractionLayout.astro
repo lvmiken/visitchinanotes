@@ -1,0 +1,295 @@
+---
+import type { CollectionEntry } from "astro:content";
+import { getCollection } from "astro:content";
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "../components/Breadcrumbs.astro";
+import CityCard from "../components/CityCard.astro";
+import GuideCard from "../components/GuideCard.astro";
+import TopicCard from "../components/TopicCard.astro";
+import AttractionCard from "../components/AttractionCard.astro";
+import PlanningHelpCallout from "../components/PlanningHelpCallout.astro";
+import { findAuthorEntry, getAuthorSlug } from "../lib/authors";
+import { findCityEntry, getCitySlug } from "../lib/cityEntries";
+import { organizationName } from "../lib/site";
+import { getAttractionSocialImage } from "../lib/socialImages";
+
+interface Props {
+  attraction: CollectionEntry<"attractions">;
+}
+
+const { attraction } = Astro.props;
+const allCities = await getCollection("cities");
+const allGuides = await getCollection("guides", ({ data }) => !data.draft);
+const allTopics = await getCollection("topics", ({ data }) => !data.draft);
+const allAttractions = await getCollection("attractions", ({ data }) => !data.draft);
+const allAuthors = await getCollection("authors");
+const cityHub = findCityEntry(allCities, attraction.data.city);
+const authorEntry = findAuthorEntry(allAuthors, attraction.data.author);
+const relatedGuides = [
+  ...attraction.data.relatedGuideSlugs
+    .map((slug) => allGuides.find((guide) => guide.slug === slug))
+    .filter(Boolean),
+  ...allGuides.filter(
+    (guide) =>
+      guide.data.city.toLowerCase() === attraction.data.city.toLowerCase() &&
+      !attraction.data.relatedGuideSlugs.includes(guide.slug),
+  ),
+].slice(0, 3);
+const relatedTopics = [
+  ...attraction.data.relatedTopicSlugs
+    .map((slug) => allTopics.find((topic) => topic.slug === slug))
+    .filter(Boolean),
+  ...allTopics.filter(
+    (topic) =>
+      topic.data.affectsCities.includes(attraction.data.city) &&
+      !attraction.data.relatedTopicSlugs.includes(topic.slug),
+  ),
+].slice(0, 3);
+const nearbyAttractions = allAttractions
+  .filter(
+    (entry) =>
+      entry.slug !== attraction.slug &&
+      entry.data.city.toLowerCase() === attraction.data.city.toLowerCase(),
+  )
+  .slice(0, 3);
+const siteUrl = Astro.site ?? new URL(Astro.url.origin);
+const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const breadcrumbs = [
+  { label: "Home", href: "/" },
+  { label: "Destinations", href: "/destinations/" },
+  ...(cityHub ? [{ label: cityHub.data.name, href: `/destinations/${getCitySlug(cityHub)}/` }] : []),
+  { label: attraction.data.title },
+];
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  itemListElement: breadcrumbs.map((item, index) => ({
+    "@type": "ListItem",
+    position: index + 1,
+    name: item.label,
+    ...(item.href ? { item: new URL(item.href, siteUrl).href } : { item: canonical }),
+  })),
+};
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  headline: attraction.data.title,
+  description: attraction.data.description,
+  datePublished: attraction.data.publishDate.toISOString(),
+  dateModified: (attraction.data.updatedDate ?? attraction.data.publishDate).toISOString(),
+  author: authorEntry
+    ? {
+        "@type": authorEntry.data.entityType === "organization" ? "Organization" : "Person",
+        name: authorEntry.data.name,
+        url: new URL(`/authors/${getAuthorSlug(authorEntry)}/`, siteUrl).href,
+        description: authorEntry.data.shortBio,
+      }
+    : {
+        "@type": "Person",
+        name: attraction.data.author,
+      },
+  publisher: {
+    "@type": "Organization",
+    name: organizationName,
+  },
+  mainEntityOfPage: canonical,
+  articleSection: "Place Guide",
+  keywords: attraction.data.tags.join(", "),
+};
+const attractionSchema = {
+  "@context": "https://schema.org",
+  "@type": "Place",
+  name: attraction.data.title,
+  description: attraction.data.description,
+  url: canonical,
+  ...(cityHub
+    ? {
+        touristType: attraction.data.whoItsFor,
+        containedInPlace: {
+          "@type": "City",
+          name: cityHub.data.name,
+        },
+      }
+    : {}),
+};
+const faqSchema =
+  attraction.data.faq.length > 0
+    ? {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        mainEntity: attraction.data.faq.map((item) => ({
+          "@type": "Question",
+          name: item.question,
+          acceptedAnswer: {
+            "@type": "Answer",
+            text: item.answer,
+          },
+        })),
+      }
+    : undefined;
+const pageSchemas = faqSchema
+  ? [breadcrumbSchema, articleSchema, attractionSchema, faqSchema]
+  : [breadcrumbSchema, articleSchema, attractionSchema];
+const socialImage = getAttractionSocialImage(attraction);
+---
+
+<BaseLayout
+  title={attraction.data.title}
+  description={attraction.data.description}
+  socialImage={socialImage}
+  type="article"
+  publishedTime={attraction.data.publishDate}
+  modifiedTime={attraction.data.updatedDate}
+  schema={pageSchemas}
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <div class="article-header">
+        <Breadcrumbs items={breadcrumbs} />
+        <p class="eyebrow">Place Guide</p>
+        <h1>{attraction.data.title}</h1>
+        <p>{attraction.data.description}</p>
+        <p class="meta-row">
+          By {authorEntry ? <a href={`/authors/${getAuthorSlug(authorEntry)}/`}>{attraction.data.author}</a> : attraction.data.author}
+          {" · "}Published {attraction.data.publishDate.toLocaleDateString("en-US")}
+          {attraction.data.updatedDate && ` · Updated ${attraction.data.updatedDate.toLocaleDateString("en-US")}`}
+        </p>
+        {attraction.data.tags.length > 0 && (
+          <ul class="tag-list">
+            {attraction.data.tags.map((tag) => <li>{tag}</li>)}
+          </ul>
+        )}
+      </div>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Why Read This</p>
+        <h3>Use this before one place becomes the part of the day that breaks the plan.</h3>
+      </div>
+      {attraction.data.whoItsFor.length > 0 && (
+        <p><strong>Best for:</strong> {attraction.data.whoItsFor.join(", ")}</p>
+      )}
+      {cityHub && (
+        <p><strong>City hub:</strong> <a href={`/destinations/${getCitySlug(cityHub)}/`}>{cityHub.data.name}</a></p>
+      )}
+      <ul class="mini-list">
+        {attraction.data.beforeYouGoChecklist.slice(0, 4).map((item) => (
+          <li>{item}</li>
+        ))}
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Part Of The Cluster</p>
+    <h2 class="section-title">Keep this attraction inside the wider city plan.</h2>
+    <p class="muted">
+      The strongest place pages help travelers decide how much time to give a place, what to book early, and how to
+      connect it back to the city route instead of treating it like an isolated checklist stop.
+    </p>
+    <div class="button-row">
+      {cityHub && <a class="button-link primary" href={`/destinations/${getCitySlug(cityHub)}/`}>Open {cityHub.data.name} hub</a>}
+      <a class="button-link secondary" href="/guides/">Browse city guides</a>
+    </div>
+  </section>
+
+  <article class="article section-block">
+    {attraction.data.keyTakeaways.length > 0 && (
+      <section class="section-block card-surface">
+        <h2 class="section-title">Key Takeaways</h2>
+        <ul class="mini-list">
+          {attraction.data.keyTakeaways.map((takeaway) => <li>{takeaway}</li>)}
+        </ul>
+      </section>
+    )}
+    <slot />
+    {attraction.data.beforeYouGoChecklist.length > 0 && (
+      <section class="section-block card-surface">
+        <h2 class="section-title">Before You Go</h2>
+        <ul class="mini-list">
+          {attraction.data.beforeYouGoChecklist.map((item) => <li>{item}</li>)}
+        </ul>
+      </section>
+    )}
+    {attraction.data.faq.length > 0 && (
+      <section class="section-block">
+        <h2>FAQ</h2>
+        {attraction.data.faq.map((item) => (
+          <>
+            <h3>{item.question}</h3>
+            <p>{item.answer}</p>
+          </>
+        ))}
+      </section>
+    )}
+  </article>
+
+  {cityHub && (
+    <section class="section-block">
+      <h2 class="section-title">Destination Hub</h2>
+      <div class="grid two">
+        <CityCard city={cityHub} />
+      </div>
+    </section>
+  )}
+
+  {nearbyAttractions.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">More In {attraction.data.city}</h2>
+      <div class="grid two">
+        {nearbyAttractions.map((entry) => <AttractionCard attraction={entry} />)}
+      </div>
+    </section>
+  )}
+
+  {relatedGuides.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Related City Guides</h2>
+      <div class="grid two">
+        {relatedGuides.map((guide) => <GuideCard guide={guide} />)}
+      </div>
+    </section>
+  )}
+
+  {relatedTopics.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Related Practical Topics</h2>
+      <div class="grid two">
+        {relatedTopics.map((topic) => <TopicCard topic={topic} />)}
+      </div>
+    </section>
+  )}
+
+  <PlanningHelpCallout
+    title={`Need help fitting ${attraction.data.title} into the trip?`}
+    description="If the attraction matters, but the timing, booking order, or surrounding city day still feels fuzzy, this is a good point for a light planning check."
+    primaryLabel="Open plan help"
+    primaryHref="/plan-help/"
+    secondaryLabel={cityHub ? `Browse ${cityHub.data.name} hub` : "Browse guides"}
+    secondaryHref={cityHub ? `/destinations/${getCitySlug(cityHub)}/` : "/guides/"}
+    bullets={[
+      "Best when one anchor sight is controlling the whole city day.",
+      "Useful for timing, hotel-area fit, and surrounding logistics.",
+      "A good handoff point before you lock tickets and transport.",
+    ]}
+  />
+
+  {authorEntry && (
+    <section class="section-block card-surface">
+      <p class="eyebrow">About The Author</p>
+      <h2 class="section-title">{authorEntry.data.name}</h2>
+      <p><strong>{authorEntry.data.role}</strong></p>
+      <p>{authorEntry.data.fullBio}</p>
+      {authorEntry.data.expertise.length > 0 && (
+        <ul class="tag-list">
+          {authorEntry.data.expertise.map((item) => <li>{item}</li>)}
+        </ul>
+      )}
+      <div class="button-row">
+        <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>Open author page</a>
+        <a class="button-link secondary" href="/authors/">Browse authors</a>
+      </div>
+    </section>
+  )}
+</BaseLayout>
