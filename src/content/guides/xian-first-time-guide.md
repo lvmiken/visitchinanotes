@@ -38,6 +38,10 @@ This city works especially well if you want:
 
 If one specific Xi'an sight is going to decide whether the stop feels worth it, answer that directly. [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) is usually the first page to read when the city is being judged mainly through its top excursion.
 
+If the real blocker is not the sight itself but the reservation, pair that page with [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) before you finalize the Xi'an dates.
+
+If the Terracotta Army already feels like a yes but the excursion day still feels fuzzy, [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/) is the most useful next read.
+
 ## Let the city stay focused
 
 Xi'an is better when the plan stays compact: one anchor half-day for the Terracotta Army, one old-city rhythm, and enough time for evening walking and food.

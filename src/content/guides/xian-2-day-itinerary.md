@@ -34,6 +34,10 @@ Use the first day for the most logistics-heavy attraction, then keep the evening
 
 If the excursion day still feels too vague, read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) before you add anything else to it.
 
+If tickets are still unresolved, use [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) before you lock the excursion timing.
+
+If the route still feels too abstract between "buy ticket" and "show up there," read [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/) before you overload the day.
+
 ## Day 2: City wall, historic streets, and food
 
 The second day works best when you stay inside the old-city logic instead of bouncing between disconnected points.

@@ -49,6 +49,8 @@ The Terracotta Army matters because it gives Xi'an one of the strongest clear-an
 
 It does not mean every visitor must obsess over it. It does mean that if it matters to you, the plan should respect that importance early instead of leaving it as a loose add-on.
 
+If the site already feels like a yes, but the excursion day itself still feels loose, pair this page with [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/).
+
 ## When should it control the day?
 
 It should usually control the day when:
@@ -93,6 +95,8 @@ This is why [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/
 
 ## Which page to read next
 
+- read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the reservation still is not secure
 - read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if Xi'an's role in the route is still unsettled
+- read [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/) if you want the excursion day to stay realistic
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing this excursion into a short stay
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you are deciding how to use the in-city day

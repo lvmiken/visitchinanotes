@@ -36,6 +36,8 @@ This page is most useful if Beijing is your first China stop and you want the ar
 
 If you already know you are landing at **Beijing Capital International Airport**, the narrower page [How to Get From Beijing Capital Airport to the City Center](/guides/beijing-capital-airport-to-city-center/) is the better next read because it compares the actual Capital Airport options more directly.
 
+If you already know you are landing at **Beijing Daxing International Airport**, go directly to [How to Get From Beijing Daxing Airport to the City Center](/guides/beijing-daxing-airport-to-city-center/), because the airport-train and late-night bus logic are different from Capital Airport.
+
 ## How to choose the transfer
 
 - Pick the simplest option if you land late, feel tired, or want the least friction.
@@ -56,4 +58,4 @@ That is why this page works best together with [Where to Stay in Beijing for a F
 
 ## Related reads
 
-If you are still shaping the stay, read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) next. If you mainly want to reduce day-one friction, pair this page with [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/). If the arrival airport is specifically Capital Airport, continue with [How to Get From Beijing Capital Airport to the City Center](/guides/beijing-capital-airport-to-city-center/).
+If you are still shaping the stay, read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) next. If you mainly want to reduce day-one friction, pair this page with [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/). If the arrival airport is specifically Capital Airport, continue with [How to Get From Beijing Capital Airport to the City Center](/guides/beijing-capital-airport-to-city-center/). If it is Daxing, continue with [How to Get From Beijing Daxing Airport to the City Center](/guides/beijing-daxing-airport-to-city-center/).

@@ -1,8 +1,8 @@
 ---
 title: "What to Reserve in Advance for China Trips"
-description: "A practical reservations hub for travelers deciding what actually needs advance booking in China, what can stay flexible, and which tickets can quietly control the whole day."
+description: "A practical reservations hub for China trips, including what actually needs advance booking, which attractions can quietly control the whole day, and when to click into narrower ticket guides."
 publishDate: 2026-06-14
-updatedDate: 2026-06-17
+updatedDate: 2026-06-18
 planningMoment: "solve-basics"
 whenToRead: "Best read before locking in the day-by-day plan, especially if your route includes famous sights, park entries, or tight travel dates."
 affectsCities:
@@ -50,6 +50,18 @@ If you already know the exact attraction you care about, the strongest answer is
 
 If the real blocker is Beijing's most important reservation, go directly to [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/).
 
+If the real blocker is Xi'an's biggest anchor excursion, go directly to [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/).
+
+## Start with these three questions
+
+Before you reserve anything, ask:
+
+1. Which sight is the real reason this city is in the itinerary?
+2. Which booking would damage the day the most if it failed?
+3. Which parts of the day can stay flexible without hurting the trip?
+
+That simple filter usually matters more than trying to prebook everything that looks famous.
+
 ## Find the bookings that really shape the route
 
 The key idea is simple: not every reservation matters equally.
@@ -67,6 +79,16 @@ The most important reservations are usually the ones that affect:
 - how much buffer the route needs
 - whether the city still works on your chosen dates
 
+## What usually belongs in the "book this early" bucket
+
+These often deserve earlier attention than travelers first expect:
+
+- signature attractions that are part of almost every first-time itinerary
+- sites with real-name booking or passport-based entry
+- timed-entry visits where a missed slot breaks the rest of the day
+- long out-of-center excursions that need transport and energy protection
+- sights that become much harder on weekends, holidays, or short city stays
+
 ## What usually needs earlier attention
 
 These are often the first things to think about:
@@ -78,9 +100,19 @@ These are often the first things to think about:
 
 If one sight is the reason you included the city, that sight should be treated as a planning anchor, not as a casual same-day choice.
 
-## What usually does not need the same urgency
+## What can usually stay flexible
 
 Many travelers overcorrect and try to reserve everything. That creates a different problem: a route with no breathing room.
+
+Usually, these can remain more flexible unless a specific city or season changes the equation:
+
+- lower-priority museums
+- shopping streets and neighborhoods
+- ordinary viewpoints
+- casual food stops
+- secondary attractions that are nice additions rather than trip-defining anchors
+
+## What usually does not need the same urgency
 
 Usually, lower-priority museums, neighborhoods, viewpoints, meal stops, and simple wandering time should stay more flexible unless peak demand clearly says otherwise.
 
@@ -89,6 +121,20 @@ Usually, lower-priority museums, neighborhoods, viewpoints, meal stops, and simp
 The goal is not to prebook the whole trip. The goal is to identify the **one or two bookings per city** that would genuinely damage the route if missed, then let the rest of the day breathe.
 
 That is usually the difference between a well-planned trip and an overplanned one.
+
+## Current anchor-booking pages on this site
+
+If your real question is already attraction-specific, the narrower guide will usually help more than this parent page.
+
+### Beijing
+
+- [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) is the main reservation page if the Palace Museum is your Beijing anchor.
+- [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/places/forbidden-city/) helps if the bigger question is how much of the day the site deserves.
+
+### Xi'an
+
+- [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) is the main reservation page if the Terracotta Army is the anchor excursion.
+- [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) helps if you are still deciding how much of the Xi'an stay this visit should shape.
 
 ## How to tell whether a reservation is a real anchor
 
@@ -101,11 +147,34 @@ A booking is probably an anchor if:
 
 If missing it would only be mildly disappointing, it is probably not the first booking you should obsess over.
 
+## How reservations change the whole day
+
+The biggest mistake is thinking only about the ticket itself.
+
+One strong reservation can decide:
+
+- when you need to leave the hotel
+- whether another museum still fits afterward
+- whether the lunch window becomes awkward
+- whether an evening train, flight, or city-crossing move still works
+
+This is why reservation logic often overlaps with [How to Plan a Trip to China Without Overbuilding Your Itinerary](/topics/plan-your-trip/) and [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) when an attraction day sits close to an arrival or transfer.
+
 ## Keep the rest of the day lighter
 
 Once one major entry is fixed, it is usually smarter to keep the rest of the day calmer rather than stacking too many other time-sensitive plans around it.
 
 This matters especially in Beijing, Xi'an, and Zhangjiajie-style routes, where one major attraction can quietly dominate the timing and energy of the whole day.
+
+## A simple booking order that works for most first-time trips
+
+1. lock the city dates
+2. identify the one or two true anchor sights
+3. reserve those first
+4. place transport and hotel logic around them
+5. keep the rest of the day lighter and more flexible
+
+That order is usually safer than building a very detailed day and only later discovering that the key sight has stricter booking logic than expected.
 
 ## Common mistakes
 
@@ -118,6 +187,8 @@ This matters especially in Beijing, Xi'an, and Zhangjiajie-style routes, where o
 ## Which page to read next
 
 - read [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) if the real booking problem is the Palace Museum
+- read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the Xi'an anchor excursion is the issue
+- read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how much of the Xi'an stay should revolve around that excursion
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still shaping the city rather than the exact booking
 - read [Zhangjiajie First-Time Park Planning](/guides/zhangjiajie-first-time-park-planning/) if the route includes park logistics and timing pressure
 - treat this page as the parent reservations hub, then move into narrower attraction-specific guides as they are published

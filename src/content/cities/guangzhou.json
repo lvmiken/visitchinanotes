@@ -31,6 +31,6 @@
   "transportNote": "Guangzhou is especially useful in itineraries where rail connections and regional combinations matter as much as the city itself.",
   "homepageGroups": ["first-time-essentials", "south-east-add-ons"],
   "ogImage": "/og/custom/guangzhou-hub.svg",
-  "featuredGuideSlugs": ["guangzhou-first-time-guide", "guangzhou-how-many-days", "guangzhou-where-to-stay", "guangzhou-3-day-itinerary", "guangzhou-hong-kong-or-shenzhen-route"],
-  "featuredTopicSlugs": ["choosing-hotel-location", "airport-to-city", "alipay-wechat-pay", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail"]
+  "featuredGuideSlugs": ["guangzhou-first-time-guide", "guangzhou-how-many-days", "guangzhou-where-to-stay", "guangzhou-baiyun-airport-to-downtown", "guangzhou-3-day-itinerary", "guangzhou-hong-kong-or-shenzhen-route"],
+  "featuredTopicSlugs": ["choosing-hotel-location", "airport-to-city", "alipay-wechat-pay", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail", "12306-for-foreigners", "how-to-ride-china-high-speed-rail"]
 }
