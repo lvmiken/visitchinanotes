@@ -204,4 +204,4 @@ China internet behavior, provider routing, and tool reliability can change. This
 
 ## Related reads
 
-If you still need to choose the data setup itself, go next to [Best eSIM for China in 2026: Tourist-Friendly Options Compared](/topics/best-esim-for-china/). If you want the broader internet-prep hub, use [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/). If payments are the bigger day-to-day concern once the phone is connected, continue with [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/).
+If you still need to choose the data setup itself, go next to [Best eSIM for China in 2026: Tourist-Friendly Options Compared](/topics/best-esim-for-china/). If you want the broader internet-prep hub, use [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/). If you want the broader pre-departure app stack, read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/). If payments are the bigger day-to-day concern once the phone is connected, continue with [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/).

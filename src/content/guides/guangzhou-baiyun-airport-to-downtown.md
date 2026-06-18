@@ -45,7 +45,7 @@ It is most useful if:
 - you are deciding between metro, taxi, Didi, airport express bus, or terminal-transfer logic
 - you do not want your first evening to become a terminal puzzle
 
-If you are still deciding what role Guangzhou should play in the trip, keep [Guangzhou for First-Time Visitors: Is It the Right Stop for Your Route?](/guides/guangzhou-first-time-guide/) open too.
+If you are still deciding what role Guangzhou should play in the trip, keep [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) open too.
 
 ## The short answer
 
@@ -190,5 +190,5 @@ That is useful because it explains why ride-hailing can still be easy here, but 
 ## Which page to read next
 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still want the broader arrival-day logic
-- read [Where to Stay in Guangzhou for a First Trip](/guides/guangzhou-where-to-stay/) if the hotel base itself is still unclear
+- read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if the hotel base itself is still unclear
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your real solution

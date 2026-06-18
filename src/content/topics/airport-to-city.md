@@ -51,6 +51,7 @@ If you already know the landing city, the more useful next step is often the air
 - [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/)
 - [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/)
 - [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/)
+- [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/)
 - [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/)
 
 ## The short answer most travelers need
@@ -142,6 +143,10 @@ If your search is already city-specific, skip straight to the narrower page inst
 
 - [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/) is the right starting point if Guangzhou is your landing city and you want the concrete route options.
 
+### Chengdu
+
+- [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/) is the right starting point if Chengdu is your landing city and you want the concrete metro, airport-bus, and taxi tradeoffs.
+
 ## The first hotel matters more than travelers think
 
 A first-night hotel should solve the arrival, not only look good for the rest of the trip.
@@ -187,6 +192,9 @@ Use this page as the broad arrival hub, then move into the narrower decision pag
 - read [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) if Shanghai is the arrival city and you still need to decide between airport and hotel combinations
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) once the exact Shanghai airport is known
 - read [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/) if Guangzhou is the first landing city
+- read [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/) if Chengdu is the first landing city
+- read [China Packing List for First-Time Visitors](/topics/china-packing-list-for-first-time-visitors/) if luggage, charging, and arrival-day readiness still look weaker than they should
+- read [China Travel Mistakes First-Time Visitors Make](/topics/china-travel-mistakes-first-time-visitors-make/) if arrival-day overconfidence is only one part of a broader first-trip planning problem
 - read [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) if the real problem is not transport alone but where to place the first base
 - read [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/) if phone readiness is what will make or break the arrival
 

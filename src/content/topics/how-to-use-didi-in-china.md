@@ -59,6 +59,8 @@ It is especially useful if:
 
 If your bigger question is still when to choose metro and when to pay for a car, keep the broader parent guide [Metro, Taxi, and Ride-Hailing in China: What First-Time Travelers Should Expect](/topics/metro-taxi-ridehailing/) open too.
 
+If you are really trying to judge whether independent travel in China feels practical at all, pair this with [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/).
+
 ## The short answer
 
 Yes, many foreign travelers can use Didi in China without speaking Chinese. The easiest setup usually looks like this:
@@ -195,5 +197,7 @@ If the number cannot receive verification or is not convenient to use during the
 ## Which page to read next
 
 - read [Metro, Taxi, and Ride-Hailing in China: What First-Time Travelers Should Expect](/topics/metro-taxi-ridehailing/) if you are still deciding when Didi is worth it
+- read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if you want Didi to sit inside a stronger payment-maps-phone setup before departure
 - read [Can Tourists Use Alipay in China? A Step-by-Step Setup Guide](/topics/can-tourists-use-alipay-in-china/) if payment setup is the real blocker
 - read [Beijing Capital Airport to the City Center: What First-Time Visitors Should Choose](/guides/beijing-capital-airport-to-city-center/) if your first Didi decision is likely to happen right after landing
+- read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) if transport confidence is part of deciding whether to do the trip without guided support

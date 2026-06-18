@@ -1,6 +1,6 @@
 # Content Todo
 
-Last updated: 2026-06-17
+Last updated: 2026-06-19
 
 ## Goal
 
@@ -51,31 +51,31 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 | 3 | done | batch-1 | Best eSIM for China in 2026: Tourist-Friendly Options Compared | `best-esim-for-china` | `src/content/topics/best-esim-for-china.md` |
 | 4 | done | batch-1 | Do You Need a VPN in China? What Travelers Should Know | `do-you-need-a-vpn-in-china` | `src/content/topics/do-you-need-a-vpn-in-china.md` |
 | 5 | done | batch-1 | How to Get From Beijing Capital Airport to the City Center | `beijing-capital-airport-to-city-center` | `src/content/guides/beijing-capital-airport-to-city-center.md` |
-| 6 | partial | later | How to Get From Beijing Daxing Airport to the City Center | `beijing-daxing-airport-to-city-center` | `src/content/guides/beijing-airport-to-city.md` |
+| 6 | done | later | How to Get From Beijing Daxing Airport to the City Center | `beijing-daxing-airport-to-city-center` | `src/content/guides/beijing-daxing-airport-to-city-center.md` |
 | 7 | done | batch-1 | How to Get From Shanghai Pudong Airport to the City Center | `shanghai-pudong-airport-to-city-center` | `src/content/guides/shanghai-pudong-airport-to-city-center.md` |
-| 8 | partial | later | How to Get From Shanghai Hongqiao Airport to the City Center | `shanghai-hongqiao-airport-to-city-center` | `src/content/guides/shanghai-airport-to-city.md` |
-| 9 | todo | later | How to Get From Guangzhou Baiyun Airport to Downtown | `guangzhou-baiyun-airport-to-downtown` | no exact page yet |
-| 10 | todo | later | How to Get From Chengdu Tianfu Airport to the City | `chengdu-tianfu-airport-to-city` | no exact page yet |
+| 8 | done | later | How to Get From Shanghai Hongqiao Airport to the City Center | `shanghai-hongqiao-airport-to-city-center` | `src/content/guides/shanghai-hongqiao-airport-to-city-center.md` |
+| 9 | done | later | How to Get From Guangzhou Baiyun Airport to Downtown | `guangzhou-baiyun-airport-to-downtown` | `src/content/guides/guangzhou-baiyun-airport-to-downtown.md` |
+| 10 | done | later | How to Get From Chengdu Tianfu Airport to the City | `chengdu-tianfu-airport-to-city` | `src/content/guides/chengdu-tianfu-airport-to-city.md` |
 | 11 | done | batch-1 | How to Book Forbidden City Tickets as a Foreigner | `how-to-book-forbidden-city-tickets` | `src/content/topics/how-to-book-forbidden-city-tickets.md` |
-| 12 | partial | later | How to Book Terracotta Warriors Tickets Without Stress | `how-to-book-terracotta-warriors-tickets` | `src/content/topics/attraction-reservations.md` |
+| 12 | done | later | How to Book Terracotta Warriors Tickets Without Stress | `how-to-book-terracotta-warriors-tickets` | `src/content/topics/how-to-book-terracotta-warriors-tickets.md` |
 | 13 | done | batch-1 | How to Ride China High-Speed Rail for the First Time | `how-to-ride-china-high-speed-rail` | `src/content/topics/high-speed-rail.md` |
-| 14 | partial | later | 12306 for Foreigners: How to Book Trains in China | `12306-for-foreigners` | `src/content/topics/book-high-speed-train.md` |
-| 15 | partial | later | China Train Classes Explained: Second Class vs First Class vs Business | `china-train-classes-explained` | `src/content/topics/high-speed-rail.md` |
+| 14 | done | later | 12306 for Foreigners: How to Book Trains in China | `12306-for-foreigners` | `src/content/topics/12306-for-foreigners.md` |
+| 15 | done | later | China Train Classes Explained: Second Class vs First Class vs Business | `china-train-classes-explained` | `src/content/topics/china-train-classes-explained.md` |
 | 16 | done | batch-1 | How to Use Didi in China Without Speaking Chinese | `how-to-use-didi-in-china` | `src/content/topics/how-to-use-didi-in-china.md` |
-| 17 | todo | later | What Apps You Need for a China Trip | `what-apps-you-need-for-a-china-trip` | no exact page yet |
+| 17 | done | later | What Apps You Need for a China Trip | `what-apps-you-need-for-a-china-trip` | `src/content/topics/what-apps-you-need-for-a-china-trip.md` |
 | 18 | partial | later | Cash, Card, Alipay, or WeChat Pay: How to Pay in China | `how-to-pay-in-china` | `src/content/topics/alipay-wechat-pay.md` |
-| 19 | todo | later | How Much Does a Trip to China Cost in 2026? | `china-trip-cost-2026` | no exact page yet |
+| 19 | done | later | How Much Does a Trip to China Cost in 2026? | `china-trip-cost-2026` | `src/content/topics/china-trip-cost-2026.md` |
 | 20 | done | later | Best Time to Visit China for First-Time Visitors | `best-time-to-visit-china` | `src/content/topics/best-time-to-visit-china.md` |
-| 21 | todo | later | China Packing List for First-Time Visitors | `china-packing-list-for-first-time-visitors` | no exact page yet |
-| 22 | todo | later | What to Wear in China by Season and City | `what-to-wear-in-china` | no exact page yet |
-| 23 | todo | later | China Travel Mistakes First-Time Visitors Make | `china-travel-mistakes-first-time-visitors-make` | no exact page yet |
-| 24 | todo | later | Is China Easy to Travel Independently in 2026? | `is-china-easy-to-travel-independently` | no exact page yet |
-| 25 | partial | later | How Many Days Do You Need for Your First China Trip? | `how-many-days-do-you-need-for-your-first-china-trip` | `src/content/topics/plan-your-trip.md` |
+| 21 | done | later | China Packing List for First-Time Visitors | `china-packing-list-for-first-time-visitors` | `src/content/topics/china-packing-list-for-first-time-visitors.md` |
+| 22 | done | later | What to Wear in China by Season and City | `what-to-wear-in-china` | `src/content/topics/what-to-wear-in-china.md` |
+| 23 | done | later | China Travel Mistakes First-Time Visitors Make | `china-travel-mistakes-first-time-visitors-make` | `src/content/topics/china-travel-mistakes-first-time-visitors-make.md` |
+| 24 | done | later | Is China Easy to Travel Independently in 2026? | `is-china-easy-to-travel-independently` | `src/content/topics/is-china-easy-to-travel-independently.md` |
+| 25 | done | later | How Many Days Do You Need for Your First China Trip? | `how-many-days-do-you-need-for-your-first-china-trip` | `src/content/topics/how-many-days-do-you-need-for-your-first-china-trip.md` |
 | 26 | partial | later | Beijing or Shanghai for First-Time Visitors? | `beijing-or-shanghai-for-first-time-visitors` | `src/content/topics/where-to-start.md`, `src/content/guides/beijing-first-china-stop.md` |
-| 27 | todo | later | Shanghai or Guangzhou: Which City Fits Your Trip Better? | `shanghai-or-guangzhou` | no exact page yet |
-| 28 | todo | batch-1 | Best China Itinerary for 7 Days | `best-china-itinerary-7-days` | no exact page yet |
-| 29 | todo | later | Best China Itinerary for 10 Days | `best-china-itinerary-10-days` | no exact page yet |
-| 30 | todo | later | Best China Itinerary for 14 Days | `best-china-itinerary-14-days` | no exact page yet |
+| 27 | done | later | Shanghai or Guangzhou: Which City Fits Your Trip Better? | `shanghai-or-guangzhou` | `src/content/topics/shanghai-or-guangzhou.md` |
+| 28 | done | batch-1 | Best China Itinerary for 7 Days | `best-china-itinerary-7-days` | `src/content/topics/best-china-itinerary-7-days.md` |
+| 29 | done | later | Best China Itinerary for 10 Days | `best-china-itinerary-10-days` | `src/content/topics/best-china-itinerary-10-days.md` |
+| 30 | done | later | Best China Itinerary for 14 Days | `best-china-itinerary-14-days` | `src/content/topics/best-china-itinerary-14-days.md` |
 
 ## Notes On Already-Live Coverage
 
