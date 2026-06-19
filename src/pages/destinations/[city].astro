@@ -42,6 +42,7 @@ const relatedPlaces = [
     .filter(Boolean),
   ...allPlaces.filter((place) => !city.data.featuredPlaceSlugs.includes(place.slug)),
 ].slice(0, 10);
+const featuredPlaceQuickLinks = relatedPlaces.slice(0, 4);
 
 const allTopics = await getCollection("topics", ({ data }) => !data.draft);
 const citySlug = getCitySlug(city);
@@ -233,6 +234,7 @@ const socialImage = getCitySocialImage(city);
       <div class="button-row">
         <a class="button-link primary" href="#city-guides">Browse {city.data.name} guides</a>
         <a class="button-link secondary" href="#trip-basics">Read trip basics</a>
+        {relatedPlaces.length > 0 && <a class="button-link secondary" href="#places-cluster">Open places cluster</a>}
       </div>
     </div>
 
@@ -323,6 +325,18 @@ const socialImage = getCitySocialImage(city);
         These place guides cover the landmarks, neighborhoods, museums, and visitor-heavy areas that most often shape
         the day. Use them when timing, route logic, or neighborhood choice starts controlling the city plan.
       </p>
+      {featuredPlaceQuickLinks.length > 0 && (
+        <p class="muted">
+          Most first-time visitors start by comparing{" "}
+          {featuredPlaceQuickLinks.map((place, index) => (
+            <>
+              {index > 0 && (index === featuredPlaceQuickLinks.length - 1 ? " and " : ", ")}
+              <a href={`/places/${place.slug}/`}>{place.data.title}</a>
+            </>
+          ))}
+          {" "}before they lock the day order.
+        </p>
+      )}
       <div class="button-row">
         <a class="button-link secondary" href="/places/">Browse all place guides</a>
       </div>

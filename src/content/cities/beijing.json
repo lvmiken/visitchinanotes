@@ -1,7 +1,7 @@
 {
   "name": "Beijing",
   "country": "China",
-  "intro": "Beijing is the strongest first-stop city for travelers who want imperial landmarks, museums, hutong neighborhoods, and straightforward high-speed rail connections.",
+  "intro": "Beijing is the strongest first-stop city for travelers who want imperial landmarks, museums, hutong neighborhoods, strong food variety from local classics to regional Chinese cuisines, and straightforward high-speed rail connections.",
   "seoTitle": "Beijing Travel Guide for First-Time Visitors",
   "seoDescription": "Plan a first trip to Beijing with practical advice on neighborhoods, timing, local transport, and flagship sights.",
   "idealFor": ["history-first travelers", "landmark-focused first trips"],
@@ -12,7 +12,8 @@
   "highlights": [
     "A strong first-stop city if the traveler wants headline China landmarks and a sense of imperial history.",
     "District-based planning works especially well because the city is large and major sights are not all close together.",
-    "Pairs naturally with another city that offers a different rhythm, such as Xi'an or Shanghai."
+    "Pairs naturally with another city that offers a different rhythm, such as Xi'an or Shanghai.",
+    "The trip becomes much more complete when landmark days and food evenings are planned together instead of separately."
   ],
   "planningPriorities": [
     {
@@ -31,7 +32,7 @@
   "transportNote": "Beijing rewards travelers who plan by district and metro access because cross-city travel can take longer than the map suggests.",
   "homepageGroups": ["first-time-essentials", "north-inland-routes"],
   "ogImage": "/og/custom/beijing-hub.svg",
-  "featuredGuideSlugs": ["beijing-first-china-stop", "beijing-first-time-guide", "beijing-where-to-stay", "beijing-airport-to-city", "beijing-capital-airport-to-city-center", "beijing-daxing-airport-to-city-center", "beijing-4-day-itinerary", "beijing-xian-or-shanghai-pairing"],
+  "featuredGuideSlugs": ["beijing-first-china-stop", "beijing-first-time-guide", "how-many-days-in-beijing-for-first-time-visitors", "best-time-to-visit-beijing-for-first-time-visitors", "beijing-where-to-stay", "where-to-stay-in-beijing-with-kids", "beijing-with-kids-for-first-time-visitors", "best-things-to-do-in-beijing-with-kids", "how-to-plan-universal-beijing-resort", "beijing-3-day-itinerary-with-kids", "beijing-4-day-itinerary-with-kids", "how-to-get-around-beijing", "what-to-book-in-advance-for-beijing", "what-to-book-in-advance-for-beijing-with-kids", "best-museums-in-beijing-for-first-time-visitors", "best-museums-in-beijing-with-kids", "best-parks-in-beijing-for-first-time-visitors", "rainy-day-in-beijing-for-first-time-visitors", "rainy-day-in-beijing-with-kids", "what-to-eat-in-beijing-for-first-time-visitors", "what-to-eat-in-beijing-besides-peking-duck", "best-beijing-hotpot-for-first-time-visitors", "where-to-eat-in-beijing", "best-food-streets-in-beijing-for-first-time-visitors", "where-to-eat-in-qianmen-for-first-time-visitors", "where-to-eat-in-wangfujing-for-first-time-visitors", "niujie-food-guide-for-first-time-visitors", "huguosi-snack-guide-for-first-time-visitors", "guijie-food-guide-for-first-time-visitors", "where-to-eat-in-sanlitun-for-first-time-visitors", "best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors", "beijing-breakfast-and-snacks", "beijing-hutongs-for-first-time-visitors", "beijing-old-city-day-itinerary", "what-to-do-in-beijing-at-night", "where-to-eat-peking-duck-in-beijing", "beijing-airport-to-city", "beijing-capital-airport-to-city-center", "beijing-daxing-airport-to-city-center", "beijing-3-day-itinerary", "beijing-4-day-itinerary", "beijing-xian-or-shanghai-pairing"],
   "featuredTopicSlugs": ["best-time-to-visit-china", "choosing-hotel-location", "china-visa-basics", "what-apps-you-need-for-a-china-trip", "airport-to-city", "how-to-pay-in-china", "attraction-reservations", "how-to-book-forbidden-city-tickets", "high-speed-rail", "book-high-speed-train", "12306-for-foreigners", "how-to-ride-china-high-speed-rail", "plan-your-trip"],
-  "featuredPlaceSlugs": ["forbidden-city", "mutianyu-great-wall", "summer-palace", "temple-of-heaven", "beihai-park", "sanlitun", "wangfujing", "qianmen", "national-museum-of-china"]
+  "featuredPlaceSlugs": ["forbidden-city", "temple-of-heaven", "confucius-temple-and-guozijian", "ditan-park", "prince-gong-mansion", "beijing-olympic-park", "yuanmingyuan-ruins-park", "summer-palace", "tongzhou-grand-canal", "ming-tombs", "mutianyu-great-wall", "badaling-great-wall", "beihai-park", "jingshan-park", "zhongshan-park", "fragrant-hills-park", "national-botanical-garden", "beijing-zoo", "beijing-aquarium", "yonghe-temple", "shichahai-area", "sanlitun", "wangfujing", "qianmen", "national-museum-of-china", "capital-museum", "universal-beijing-resort"]
 }

@@ -1,6 +1,6 @@
 ---
-title: "Should Beijing Be Your First Stop in China?"
-description: "Use this guide to decide whether Beijing should anchor a first China trip, based on landmark priorities, city scale, pace, and the kind of route you want."
+title: "Is Beijing a Good First Stop in China?"
+description: "Decide whether Beijing is a good first stop in China based on landmarks, pace, city size, transport, and the kind of first trip you want."
 publishDate: 2026-06-17
 updatedDate: 2026-06-17
 city: "beijing"
