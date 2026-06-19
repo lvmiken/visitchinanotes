@@ -2,9 +2,9 @@
 title: "What to Reserve in Advance for China Trips"
 description: "A practical reservations hub for China trips, including what actually needs advance booking, which attractions can quietly control the whole day, and when to click into narrower ticket guides."
 publishDate: 2026-06-14
-updatedDate: 2026-06-18
-planningMoment: "solve-basics"
-whenToRead: "Best read before locking in the day-by-day plan, especially if your route includes famous sights, park entries, or tight travel dates."
+updatedDate: 2026-06-19
+planningMoment: "book-transport"
+whenToRead: "Best read before locking in the day-by-day plan, especially if your route includes famous sights, timed entries, or tight travel dates that will shape transport and city-day order."
 affectsCities:
   - "Beijing"
   - "Shanghai"
@@ -51,6 +51,8 @@ If you already know the exact attraction you care about, the strongest answer is
 If the real blocker is Beijing's most important reservation, go directly to [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/).
 
 If the real blocker is Xi'an's biggest anchor excursion, go directly to [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/).
+
+This page usually works best once the city order is already mostly stable. It is not the first route-planning page. It is the page you use once one timed entry is about to start controlling transport, day order, or how much flexibility the city still has.
 
 ## Start with these three questions
 
@@ -136,6 +138,28 @@ If your real question is already attraction-specific, the narrower guide will us
 - [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) is the main reservation page if the Terracotta Army is the anchor excursion.
 - [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) helps if you are still deciding how much of the Xi'an stay this visit should shape.
 
+## Where reservations start changing the wider route
+
+This is where the topic starts overlapping with transport instead of staying only about tickets.
+
+### In Beijing
+
+Forbidden City timing can decide:
+
+- whether the central day stays realistic
+- whether you need to protect the previous evening more carefully
+- whether other major sights should move to another day
+
+### In Xi'an
+
+Terracotta Army timing can decide:
+
+- whether the excursion should be half-day or most of the day
+- whether the airport, rail arrival, or the excursion day should come first
+- whether the city stop still works as a short two-day block
+
+That is why this page pairs naturally with [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/), [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/), and city-day pages like [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
+
 ## How to tell whether a reservation is a real anchor
 
 A booking is probably an anchor if:
@@ -190,5 +214,6 @@ That order is usually safer than building a very detailed day and only later dis
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the Xi'an anchor excursion is the issue
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how much of the Xi'an stay should revolve around that excursion
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still shaping the city rather than the exact booking
+- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the reservation question is really about whether the short Xi'an stop still works in the current order
 - read [Zhangjiajie First-Time Park Planning](/guides/zhangjiajie-first-time-park-planning/) if the route includes park logistics and timing pressure
 - treat this page as the parent reservations hub, then move into narrower attraction-specific guides as they are published

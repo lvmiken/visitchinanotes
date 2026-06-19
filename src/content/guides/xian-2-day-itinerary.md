@@ -2,7 +2,7 @@
 title: "A Practical 2-Day Xi'an Itinerary for First-Time Visitors"
 description: "Use this two-day Xi'an plan to combine the Terracotta Army, the city wall, historic districts, and manageable food stops."
 publishDate: 2026-06-14
-updatedDate: 2026-06-14
+updatedDate: 2026-06-19
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -36,7 +36,7 @@ If the excursion day still feels too vague, read [Terracotta Army for First-Time
 
 If tickets are still unresolved, use [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) before you lock the excursion timing.
 
-If the route still feels too abstract between "buy ticket" and "show up there," read [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/) before you overload the day.
+If the route still feels too abstract between "buy ticket" and "show up there," read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) before you overload the day.
 
 ## Day 2: City wall, historic streets, and food
 

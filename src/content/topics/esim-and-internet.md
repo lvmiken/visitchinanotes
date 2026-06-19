@@ -2,7 +2,7 @@
 title: "How to Stay Connected in China: eSIM, SIM, and Internet Prep"
 description: "A practical China internet-prep guide for choosing eSIM or SIM, deciding whether a VPN matters, and making sure maps, messages, and payment apps work from day one."
 publishDate: 2026-06-14
-updatedDate: 2026-06-18
+updatedDate: 2026-06-19
 planningMoment: "solve-basics"
 whenToRead: "Best read before departure, especially if maps, translation, messaging, or payment apps are central to how independently you want to travel."
 affectsCities:
@@ -80,6 +80,8 @@ It is not only about browsing. It may affect:
 
 That is why this page pairs naturally with [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/).
 
+If you want the broader phone-stack view rather than only the data question, keep [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) open too.
+
 For many readers, the phone is doing at least five jobs at once:
 
 - navigation
@@ -113,6 +115,8 @@ For many readers, the easiest low-stress answer is:
 - keep key hotel addresses and bookings offline
 - decide in advance whether VPN access matters to the trip
 
+That baseline gets even stronger when you already know which arrival transport page you will use after landing.
+
 That setup is usually more valuable than trying to save a small amount and then solving connectivity after landing.
 
 ## The safest low-stress setup for most travelers
@@ -144,6 +148,7 @@ Once this part feels settled, [Airport to City in China](/topics/airport-to-city
 - read [Best eSIM for China in 2026: Tourist-Friendly Options Compared](/topics/best-esim-for-china/) if your main decision is which plan to buy
 - read [Do You Need a VPN in China? What Travelers Should Know](/topics/do-you-need-a-vpn-in-china/) if your real blocker is access to specific apps and services
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if you want the broader pre-departure phone stack, not only the data question
+- read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if phone readiness and payment readiness still feel like the same unresolved problem
 - read [Alipay or WeChat Pay for Tourists in China? What to Set Up First](/topics/alipay-wechat-pay/) if payment readiness is tied to your phone setup
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you want the arrival day to feel less risky once the phone is ready
 - read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) if this setup question is really part of deciding whether the whole trip will feel manageable on your own

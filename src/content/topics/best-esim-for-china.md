@@ -2,7 +2,7 @@
 title: "Best eSIM for China in 2026: Tourist-Friendly Options Compared"
 description: "A practical comparison of tourist-friendly China eSIM options in 2026, including which plans suit light users, heavy users, multi-city trips, hotspot needs, and travelers who want the least arrival stress."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-19
 planningMoment: "solve-basics"
 whenToRead: "Best read before departure, especially if you want data working as soon as you land and do not want to depend on airport Wi-Fi or a local SIM shop."
 affectsCities:
@@ -58,6 +58,8 @@ It is especially useful if:
 - you want to avoid buying a local SIM at the airport unless absolutely necessary
 
 If your bigger question is still the whole internet-prep picture, keep the broader parent hub [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/) open as well.
+
+If your real goal is making the whole phone setup usable on day one, pair this page with [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/), not just with internet-only pages.
 
 ## The short answer
 

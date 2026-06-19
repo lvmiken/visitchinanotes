@@ -2,7 +2,7 @@
 title: "Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route"
 description: "A practical Xi'an travel guide for first-time visitors, including how many days to stay, what to prioritize, and how to fit the Terracotta Army into a short China route."
 publishDate: 2026-06-14
-updatedDate: 2026-06-18
+updatedDate: 2026-06-19
 city: "xian"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -39,9 +39,10 @@ This page is best for travelers who are still deciding:
 
 If you already know the exact planning question, go narrower:
 
+- [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/)
 - [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/)
 - [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/)
-- [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/)
+- [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/)
 
 ## The short answer
 
@@ -66,7 +67,7 @@ If one specific Xi'an sight is going to decide whether the stop feels worth it, 
 
 If the real blocker is not the sight itself but the reservation, pair that page with [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) before you finalize the Xi'an dates.
 
-If the Terracotta Army already feels like a yes but the excursion day still feels fuzzy, [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/) is the most useful next read.
+If the Terracotta Army already feels like a yes but the excursion day still feels fuzzy, [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) is the most useful next read.
 
 ## Let the city stay focused
 
@@ -80,6 +81,8 @@ For many travelers, the strongest shape is:
 
 When you start shaping the in-city day, [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) and [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) are often the two place pages that make the stop feel more concrete.
 
+For many first-time routes, Xi'an is also the city where the rail decision becomes especially practical. If you are pairing it with Beijing or Shanghai, start with [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) if you are still judging whether rail fits the route, then use [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) once the city sequence is stable. If the booking is ready and the only open question is whether second class is enough, [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) is the clean next step.
+
 ## Common mistakes on a short Xi'an trip
 
 - treating Xi'an like a big-city sprawl that needs too many separate zones
@@ -90,7 +93,8 @@ When you start shaping the in-city day, [Xi'an City Wall for First-Time Visitors
 
 ## Which page to read next
 
+- read [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/) if the arrival-day route still feels like the main uncertainty
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the reservation still is not secure
-- read [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/) if the excursion day still feels loose
+- read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the excursion day still feels loose
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the base still is not settled
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place the stop inside a short route

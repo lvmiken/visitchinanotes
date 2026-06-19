@@ -2,7 +2,7 @@
 title: "What Apps You Need for a China Trip"
 description: "A practical app checklist for first-time China travelers, including which apps matter most for payments, maps, trains, ride-hailing, and internet access."
 publishDate: 2026-06-18
-updatedDate: 2026-06-18
+updatedDate: 2026-06-19
 planningMoment: "solve-basics"
 whenToRead: "Best read before departure, once your route is roughly set and you want a phone setup that actually supports payments, maps, trains, ride-hailing, and arrival-day logistics."
 affectsCities:
@@ -48,6 +48,8 @@ That is the practical standard that matters. A useful China travel phone is not 
 
 This guide is written as a practical pre-trip checklist, with app ecosystem assumptions checked against official or app-store references on **June 18, 2026**. Exact app screens can change. The logic behind what to install usually changes much more slowly.
 
+If your bigger problem is still the whole arrival stack rather than only the app list, keep the broader parent hub [How to Stay Connected in China: eSIM, SIM, and Internet Prep](/topics/esim-and-internet/) open at the same time.
+
 ## Who this is for
 
 This page is for travelers who want a realistic pre-departure app stack, not a vague list of famous Chinese apps.
@@ -73,6 +75,8 @@ For many trips, this is enough:
 - **your internet setup already sorted**: eSIM, SIM, and VPN decisions made before departure
 
 If those pieces work, the trip already feels much more manageable.
+
+And if you want arrival day itself to feel calmer, that app stack should be planned together with [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/), not after it.
 
 ## Do not build a messy app stack
 
@@ -114,6 +118,8 @@ Why it helps:
 It can also serve as a second payment layer for some travelers, but I would still treat that as part of a broader payment plan rather than the only reason to install it.
 
 If payment is your main concern, keep [Can Tourists Use WeChat Pay in China? What Actually Works](/topics/can-tourists-use-wechat-pay-in-china/) open alongside the broader parent page [Alipay or WeChat Pay for Tourists in China? What to Set Up First](/topics/alipay-wechat-pay/).
+
+If the real question is not only which app to install but how to combine cash, cards, and wallets safely, read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) next.
 
 ### 3. Didi
 
@@ -184,6 +190,16 @@ Not every traveler needs a VPN, but some absolutely should not ignore it.
 If your trip depends on Google, WhatsApp, Instagram, or work tools, decide that before departure instead of improvising after landing.
 
 Use [Do You Need a VPN in China? What Travelers Should Know](/topics/do-you-need-a-vpn-in-china/) to make that call realistically.
+
+### Arrival-day transfer logic
+
+Even a strong app stack feels unfinished if you still have no plan for the first airport transfer.
+
+That is where this page should connect directly to:
+
+- [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/)
+- [How to Get From Beijing Capital Airport to the City Center](/guides/beijing-capital-airport-to-city-center/)
+- [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/)
 
 ## A simple app stack by traveler type
 
@@ -268,7 +284,9 @@ Even a well-prepared trip gets smoother when you also keep:
 ## Which page to read next
 
 - read [Alipay or WeChat Pay for Tourists in China? What to Set Up First](/topics/alipay-wechat-pay/) if payment is still the biggest blocker
+- read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if the payment question is broader than choosing one app
 - read [How to Stay Connected in China: eSIM, SIM, and Internet Prep](/topics/esim-and-internet/) if the whole phone-readiness question still feels messy
+- read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if the app question is really about making arrival day work smoothly
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if local transport is the app you are most nervous about
 - read [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/) if intercity trains are part of the route
 - read [China Packing List for First-Time Visitors](/topics/china-packing-list-for-first-time-visitors/) if you want the offline, charging, passport, and day-bag side of trip readiness

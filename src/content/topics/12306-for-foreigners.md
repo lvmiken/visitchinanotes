@@ -2,7 +2,7 @@
 title: "12306 for Foreigners: How to Book Trains in China"
 description: "A practical 12306 guide for foreign travelers who want to register, add passengers, book train tickets correctly, and avoid the mistakes that make China's official railway platform feel harder than it needs to."
 publishDate: 2026-06-18
-updatedDate: 2026-06-18
+updatedDate: 2026-06-19
 planningMoment: "book-transport"
 whenToRead: "Best read when your route is mostly stable and you are ready to use China's official railway booking channel."
 affectsCities:
@@ -58,6 +58,8 @@ This page is for foreign travelers who want to answer the practical 12306 questi
 - what mistakes most often waste time?
 
 If you still do not know whether rail is the right transport mode, read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) only after first using [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) and [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/).
+
+If your likely route is one of the classic first-trip corridors, especially Beijing-Xi'an or Beijing-Shanghai, this page is often the point where those route ideas turn into a real booking task.
 
 ## The short answer
 
@@ -125,6 +127,8 @@ One of the easiest ways to make 12306 feel difficult is to use casual or inconsi
 
 If those decisions are still fuzzy, the platform will feel harder than it is because you are forcing it to solve a route problem instead of a booking problem.
 
+That is exactly why pages like [Beijing, Xi'an, or Shanghai: Which Pairing Makes the Best First China Route?](/guides/beijing-xian-or-shanghai-pairing/) and [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/) belong before this one, not after it.
+
 ## Step 5: Know the service hours
 
 This catches some first-time users off guard.
@@ -185,3 +189,4 @@ If the route is still changing, lock the route first. The booking platform shoul
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if the route is ready and you want the wider ticketing logic
 - read [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/) if the booking is almost done and the next worry is the station day
 - read [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) if your booking question is mainly about seat comfort and not platform setup
+- read [Beijing, Xi'an, or Shanghai: Which Pairing Makes the Best First China Route?](/guides/beijing-xian-or-shanghai-pairing/) if the booking question is really exposing a route-choice problem upstream

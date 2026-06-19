@@ -71,3 +71,5 @@ Once Beijing is the anchor, the next decisions should be practical:
 - cluster city sightseeing by district
 
 That is usually what turns Beijing from a stressful must-see into a strong first-stop city.
+
+If the real decision still is not "Beijing or not?" but "Beijing or Shanghai?", read [Beijing or Shanghai for First-Time Visitors?](/topics/beijing-or-shanghai-for-first-time-visitors/) next.

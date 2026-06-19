@@ -40,6 +40,8 @@ For many foreign travelers, payment setup is one of the first practical anxietie
 
 This page is the broad payment-comparison hub. It reflects the tourist setup reality covered in the narrower Alipay and WeChat Pay guides in this cluster, updated in **June 2026**. Exact app screens and bank behavior can still change, so the wallet-specific child pages are the best place for the latest setup detail.
 
+If your real question is broader than "which wallet first?" and is really about cash, cards, and the safest overall payment mix, start with [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/).
+
 ## Who this page is for
 
 This page is for first-time visitors who do not want a vague answer like "China uses QR codes." They want to know:
@@ -71,6 +73,8 @@ Many travelers worry about payments before they finalize cities, hotels, or tran
 This topic is especially useful when read alongside [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/), because payment confidence and phone readiness usually rise or fall together.
 
 If you want the broader pre-departure phone stack rather than only the wallet choice, pair this with [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/).
+
+If you want the full payment-stack answer rather than only the wallet comparison, keep [How to Pay in China](/topics/how-to-pay-in-china/) open alongside this page.
 
 If your bigger question is not only which wallet to set up but whether China will feel workable without a tour, keep [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) nearby too.
 
@@ -184,6 +188,7 @@ Use the narrower child pages based on the next decision you need to make:
 
 - read [Can Tourists Use Alipay in China? A Step-by-Step Setup Guide](/topics/can-tourists-use-alipay-in-china/) if Alipay is likely to be your main wallet
 - read [Can Tourists Use WeChat Pay in China? What Actually Works](/topics/can-tourists-use-wechat-pay-in-china/) if you want to understand the more practical merchant-payment reality of WeChat Pay
+- read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if you still need the broader answer about how to combine wallets, cash, and cards safely
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if payments are only one part of the phone setup you still need to finish
 - read [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/) if the real blocker is keeping the phone connected and usable all day
 - read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) if payment anxiety is really part of a broader decision about whether the trip feels manageable on your own

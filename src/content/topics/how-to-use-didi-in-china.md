@@ -109,7 +109,7 @@ The calmest setup is:
 - keep Alipay or WeChat Pay working if you rely on them
 - do not make your first Didi request while still uncertain whether payment will clear
 
-This is why Didi works best as part of the same planning block as [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/).
+This is why Didi works best as part of the same planning block as [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) and the narrower wallet-comparison page [Alipay or WeChat Pay for Tourists in China? What to Set Up First](/topics/alipay-wechat-pay/).
 
 ## Step 4: Order the ride carefully
 
@@ -198,6 +198,7 @@ If the number cannot receive verification or is not convenient to use during the
 
 - read [Metro, Taxi, and Ride-Hailing in China: What First-Time Travelers Should Expect](/topics/metro-taxi-ridehailing/) if you are still deciding when Didi is worth it
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if you want Didi to sit inside a stronger payment-maps-phone setup before departure
+- read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if you want the broader payment-stack answer before deciding which wallet to trust inside Didi
 - read [Can Tourists Use Alipay in China? A Step-by-Step Setup Guide](/topics/can-tourists-use-alipay-in-china/) if payment setup is the real blocker
 - read [Beijing Capital Airport to the City Center: What First-Time Visitors Should Choose](/guides/beijing-capital-airport-to-city-center/) if your first Didi decision is likely to happen right after landing
 - read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) if transport confidence is part of deciding whether to do the trip without guided support

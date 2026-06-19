@@ -55,6 +55,8 @@ If you already know your real problem is ride-hailing, go straight to [How to Us
 
 If the bigger question is your whole phone toolkit for getting around, keep [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) open too.
 
+If the transport question is really being held up by wallet setup, backup cards, or whether Didi and day-to-day spending will actually clear, keep [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) open alongside this page.
+
 ## The short answer
 
 For many first-time visitors:
@@ -116,6 +118,8 @@ Some days are easiest on metro. Others are better by car, especially when:
 That is not laziness. It is often just good trip management.
 
 If the ride-hailing part itself is the blocker, go directly to [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) instead of staying on this broader page.
+
+That car-versus-metro decision also gets much easier once payment is settled, especially if Didi is likely to be part of the plan.
 
 ## City style matters more than many travelers expect
 
@@ -189,6 +193,7 @@ The best local transport strategy is usually the one that keeps the day feeling 
 ## Which page to read next
 
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if the practical blocker is booking and taking app-based rides
+- read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if metro, taxi, and Didi choices still feel tangled up with payment readiness
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if you want to make sure maps, payments, and ride-hailing all work together before the trip
 - read [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) if the deeper issue is your base, not the ride itself
 - read [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) if the transport problem begins on arrival day

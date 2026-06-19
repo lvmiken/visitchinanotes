@@ -32,6 +32,6 @@
   "homepageGroups": ["first-time-essentials", "south-east-add-ons"],
   "ogImage": "/og/custom/shanghai-hub.svg",
   "featuredGuideSlugs": ["shanghai-first-time-guide", "shanghai-where-to-stay", "shanghai-airport-to-city", "shanghai-pudong-airport-to-city-center", "shanghai-hongqiao-airport-to-city-center", "shanghai-3-day-itinerary", "shanghai-hangzhou-day-trip-or-overnight"],
-  "featuredTopicSlugs": ["best-time-to-visit-china", "choosing-hotel-location", "where-to-start", "airport-to-city", "esim-and-internet", "alipay-wechat-pay", "metro-taxi-ridehailing", "12306-for-foreigners", "how-to-ride-china-high-speed-rail"],
+  "featuredTopicSlugs": ["best-time-to-visit-china", "choosing-hotel-location", "where-to-start", "what-apps-you-need-for-a-china-trip", "airport-to-city", "esim-and-internet", "how-to-pay-in-china", "alipay-wechat-pay", "metro-taxi-ridehailing", "high-speed-rail", "train-vs-flight", "book-high-speed-train", "12306-for-foreigners", "how-to-ride-china-high-speed-rail"],
   "featuredPlaceSlugs": ["the-bund", "lujiazui-skyline", "french-concession", "yu-garden", "shanghai-museum"]
 }

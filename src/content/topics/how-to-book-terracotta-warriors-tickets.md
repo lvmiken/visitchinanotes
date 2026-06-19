@@ -2,7 +2,7 @@
 title: "How to Book Terracotta Warriors Tickets Without Stress"
 description: "A practical guide to booking Terracotta Warriors tickets, including the official Qin museum channels, passport use for foreign visitors, why online reservation matters, and what to bring on the day."
 publishDate: 2026-06-18
-updatedDate: 2026-06-18
+updatedDate: 2026-06-19
 planningMoment: "book-transport"
 whenToRead: "Best read before your Xi'an dates are finalized, especially if the Terracotta Army is one of the main reasons Xi'an is in your route."
 affectsCities:
@@ -149,6 +149,6 @@ This is the same planning logic as the Forbidden City in Beijing: one anchor boo
 ## Which page to read next
 
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how big a role the site should play
-- read [How to Plan a Terracotta Army Half-Day From Xi'an Without Wasting the Rest of the Trip](/guides/terracotta-army-half-day-from-xian/) if the excursion day itself still feels too loose
+- read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the excursion day itself still feels too loose
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing the excursion inside a real short stay
 - read [What to Reserve in Advance for China Trips](/topics/attraction-reservations/) if you want the wider booking logic behind anchor sights

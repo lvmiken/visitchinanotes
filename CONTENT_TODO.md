@@ -63,7 +63,7 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 | 15 | done | later | China Train Classes Explained: Second Class vs First Class vs Business | `china-train-classes-explained` | `src/content/topics/china-train-classes-explained.md` |
 | 16 | done | batch-1 | How to Use Didi in China Without Speaking Chinese | `how-to-use-didi-in-china` | `src/content/topics/how-to-use-didi-in-china.md` |
 | 17 | done | later | What Apps You Need for a China Trip | `what-apps-you-need-for-a-china-trip` | `src/content/topics/what-apps-you-need-for-a-china-trip.md` |
-| 18 | partial | later | Cash, Card, Alipay, or WeChat Pay: How to Pay in China | `how-to-pay-in-china` | `src/content/topics/alipay-wechat-pay.md` |
+| 18 | done | later | Cash, Card, Alipay, or WeChat Pay: How to Pay in China | `how-to-pay-in-china` | `src/content/topics/how-to-pay-in-china.md` |
 | 19 | done | later | How Much Does a Trip to China Cost in 2026? | `china-trip-cost-2026` | `src/content/topics/china-trip-cost-2026.md` |
 | 20 | done | later | Best Time to Visit China for First-Time Visitors | `best-time-to-visit-china` | `src/content/topics/best-time-to-visit-china.md` |
 | 21 | done | later | China Packing List for First-Time Visitors | `china-packing-list-for-first-time-visitors` | `src/content/topics/china-packing-list-for-first-time-visitors.md` |
@@ -71,7 +71,7 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 | 23 | done | later | China Travel Mistakes First-Time Visitors Make | `china-travel-mistakes-first-time-visitors-make` | `src/content/topics/china-travel-mistakes-first-time-visitors-make.md` |
 | 24 | done | later | Is China Easy to Travel Independently in 2026? | `is-china-easy-to-travel-independently` | `src/content/topics/is-china-easy-to-travel-independently.md` |
 | 25 | done | later | How Many Days Do You Need for Your First China Trip? | `how-many-days-do-you-need-for-your-first-china-trip` | `src/content/topics/how-many-days-do-you-need-for-your-first-china-trip.md` |
-| 26 | partial | later | Beijing or Shanghai for First-Time Visitors? | `beijing-or-shanghai-for-first-time-visitors` | `src/content/topics/where-to-start.md`, `src/content/guides/beijing-first-china-stop.md` |
+| 26 | done | later | Beijing or Shanghai for First-Time Visitors? | `beijing-or-shanghai-for-first-time-visitors` | `src/content/topics/beijing-or-shanghai-for-first-time-visitors.md` |
 | 27 | done | later | Shanghai or Guangzhou: Which City Fits Your Trip Better? | `shanghai-or-guangzhou` | `src/content/topics/shanghai-or-guangzhou.md` |
 | 28 | done | batch-1 | Best China Itinerary for 7 Days | `best-china-itinerary-7-days` | `src/content/topics/best-china-itinerary-7-days.md` |
 | 29 | done | later | Best China Itinerary for 10 Days | `best-china-itinerary-10-days` | `src/content/topics/best-china-itinerary-10-days.md` |
@@ -84,6 +84,15 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 - `src/content/topics/alipay-wechat-pay.md` should remain the broader parent page for China mobile payments after narrower `Alipay` and `WeChat Pay` setup pages are published.
 - `src/content/topics/esim-and-internet.md` should remain the broader parent page for China internet prep after narrower `Best eSIM for China` and `Do You Need a VPN in China?` pages are published.
 - The airport pages for Beijing and Shanghai are useful cluster pieces, but they are still broader than the airport-specific searches listed above.
+
+## Cluster Expansion Backlog
+
+Use this section for narrower city-cluster pages that sit outside the original 30-topic list but still support search growth.
+
+| Status | Cluster | Search intent | Current landing page | Notes |
+| --- | --- | --- | --- | --- |
+| done | Xi'an | How to get from Xi'an Xianyang Airport to the city center | `src/content/guides/xian-xianyang-airport-to-city-center.md` | Added as a direct child page under the Xi'an cluster and linked from the airport hub plus Xi'an first-time guide. |
+| done | Xi'an | How to get from Xi'an to the Terracotta Army | `src/content/guides/terracotta-army-half-day-from-xian.md` | Existing guide repurposed to target the transport-plus-half-day intent without creating a cannibalizing duplicate URL. |
 
 ## Update Rule
 
