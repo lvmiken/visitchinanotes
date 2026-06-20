@@ -1,6 +1,6 @@
 ---
 title: "How Much Does a Trip to China Cost in 2026?"
-description: "A practical 2026 China trip budget guide for first-time visitors, including realistic daily budgets, what makes costs rise fast, and how to estimate a 7-, 10-, or 14-day trip."
+description: "Estimate the cost of a China trip in 2026 with realistic daily budgets, common price drivers, and sample totals for 7, 10, and 14 days."
 publishDate: 2026-06-18
 updatedDate: 2026-06-18
 planningMoment: "choose-route"

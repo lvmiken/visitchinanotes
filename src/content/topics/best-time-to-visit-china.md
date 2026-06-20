@@ -1,6 +1,6 @@
 ---
-title: "Best Time to Visit China for a First Trip"
-description: "A practical planning topic for travelers deciding which season gives them the easiest first China trip, how to weigh weather against route shape, and what seasonal mistakes are most common."
+title: "Best Time to Visit China: Weather, Seasons, and First-Trip Advice"
+description: "Compare China's seasons, weather, crowds, and route tradeoffs so you can choose the best time for a first trip."
 publishDate: 2026-06-17
 updatedDate: 2026-06-18
 planningMoment: "choose-route"

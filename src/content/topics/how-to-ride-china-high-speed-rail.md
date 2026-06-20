@@ -1,6 +1,6 @@
 ---
 title: "How to Ride China High-Speed Rail for the First Time"
-description: "A practical first-time guide to riding China high-speed rail, including what station day feels like, what to prepare before departure, and how to avoid the mistakes that make train travel feel harder than it needs to."
+description: "Learn what to expect when riding China high-speed rail for the first time, from station flow and passports to luggage, timing, and easy mistakes to avoid."
 publishDate: 2026-06-18
 updatedDate: 2026-06-19
 planningMoment: "book-transport"

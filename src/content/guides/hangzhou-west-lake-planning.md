@@ -1,6 +1,6 @@
 ---
-title: "How to Plan West Lake Without Turning Hangzhou Into a Rush Job"
-description: "A practical Hangzhou planning guide for travelers who want to enjoy West Lake at a realistic pace instead of squeezing too much into one short visit."
+title: "How to Plan West Lake in Hangzhou Without Rushing"
+description: "Plan West Lake in Hangzhou at a realistic pace, with advice on route shape, timing, and how to enjoy the scenery without turning the day into a rush."
 publishDate: 2026-06-14
 updatedDate: 2026-06-14
 city: "hangzhou"

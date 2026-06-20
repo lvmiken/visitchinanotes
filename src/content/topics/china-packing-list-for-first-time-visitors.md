@@ -1,6 +1,6 @@
 ---
-title: "China Packing List for First-Time Visitors"
-description: "A practical China packing list for first-time visitors, including what matters most for payments, phones, passports, trains, walking days, and seasonal comfort."
+title: "China Packing List for First-Time Visitors: What to Bring"
+description: "Use this China packing list to decide what to bring for payments, phones, passports, trains, long walking days, and changing weather."
 publishDate: 2026-06-18
 updatedDate: 2026-06-18
 planningMoment: "solve-basics"
@@ -302,10 +302,13 @@ If that list is strong, the trip is already starting from a better place.
 - not matching clothing to the actual season and city mix
 - treating passport, booking screenshots, and hotel addresses as things to organize later
 
+If your wider China packing list is mostly solved and the real question has narrowed to one Disney park day, the child page is [What to Pack for Shanghai Disneyland for First-Time Visitors](/guides/what-to-pack-for-shanghai-disneyland-for-first-time-visitors/).
+
 ## Which page to read next
 
 - read [Best Time to Visit China for a First Trip](/topics/best-time-to-visit-china/) if the clothing question is really a season-choice question
 - read [What to Wear in China by Season and City](/topics/what-to-wear-in-china/) if you want more exact clothing guidance after the broad packing checklist
+- read [What to Pack for Shanghai Disneyland for First-Time Visitors](/guides/what-to-pack-for-shanghai-disneyland-for-first-time-visitors/) if the live packing problem is a Shanghai Disney day rather than the full China route
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if the weak point is the phone stack rather than the suitcase
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if your packing decisions need to support a smoother arrival day
 - read [China Travel Mistakes First-Time Visitors Make](/topics/china-travel-mistakes-first-time-visitors-make/) if you want the broader first-trip sanity check around this packing list

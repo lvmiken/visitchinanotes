@@ -1,6 +1,6 @@
 ---
-title: "What Apps You Need for a China Trip"
-description: "A practical app checklist for first-time China travelers, including which apps matter most for payments, maps, trains, ride-hailing, and internet access."
+title: "Best Apps for Traveling in China: Maps, Payments, Trains, and More"
+description: "See which apps matter most for traveling in China, including payments, maps, trains, ride-hailing, translation, and mobile internet."
 publishDate: 2026-06-18
 updatedDate: 2026-06-19
 planningMoment: "solve-basics"

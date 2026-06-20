@@ -1,6 +1,6 @@
 ---
-title: "How Many Days Do You Need in Guangzhou for a First Visit?"
-description: "A practical Guangzhou planning guide for deciding whether the city deserves two days, three days, or a longer South China stay."
+title: "How Many Days in Guangzhou for a First Trip?"
+description: "Decide how many days to spend in Guangzhou based on food priorities, pace, nearby add-ons, and whether the city is a short stop or a bigger South China base."
 publishDate: 2026-06-17
 updatedDate: 2026-06-18
 city: "guangzhou"

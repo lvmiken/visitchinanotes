@@ -1,6 +1,6 @@
 ---
 title: "Chengdu Travel Guide for First-Time Visitors"
-description: "A practical Chengdu travel guide for first-time visitors, including who the city suits best, how many days to stay, and how to balance food, pandas, and a slower city pace."
+description: "Plan a first trip to Chengdu with advice on trip length, food neighborhoods, panda planning, and how to enjoy the city's slower pace."
 publishDate: 2026-06-14
 updatedDate: 2026-06-18
 city: "chengdu"

@@ -106,6 +106,7 @@ const guidesByStage = guideStages
     guides: relatedGuides.filter((guide) => guide.data.guideStage === stage.id),
   }))
   .filter((group) => group.guides.length > 0);
+const quickStartGuides = relatedGuides.slice(0, 6);
 
 const clusterSteps = [
   {
@@ -263,6 +264,19 @@ const socialImage = getCitySocialImage(city);
       ))}
     </div>
   </section>
+
+  {quickStartGuides.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Best Pages To Open First</h2>
+      <p class="muted">
+        These are the strongest next reads if you want to move from broad destination choice into a more workable
+        first-time plan without opening every guide at once.
+      </p>
+      <div class="grid two">
+        {quickStartGuides.map((guide) => <GuideCard guide={guide} />)}
+      </div>
+    </section>
+  )}
 
   {clusterSteps.length > 0 && (
     <section class="section-block">

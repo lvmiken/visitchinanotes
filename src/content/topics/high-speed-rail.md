@@ -1,6 +1,6 @@
 ---
-title: "High-Speed Rail in China for Tourists: What to Expect"
-description: "A practical beginner hub for China high-speed rail, including when rail beats flying, what train days really feel like, and which booking or station guide to read next."
+title: "China High-Speed Rail for Tourists: How It Works and What to Expect"
+description: "Learn how China high-speed rail works for tourists, when trains beat flights, what station days feel like, and which booking steps matter most."
 publishDate: 2026-06-14
 updatedDate: 2026-06-19
 planningMoment: "book-transport"

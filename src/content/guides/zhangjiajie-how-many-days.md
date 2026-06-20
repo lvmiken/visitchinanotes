@@ -1,6 +1,6 @@
 ---
-title: "How Many Days Do You Need in Zhangjiajie?"
-description: "A practical planning guide for deciding whether Zhangjiajie should be a short scenery stop or a slower multi-day nature break."
+title: "How Many Days Do You Need in Zhangjiajie for a First Trip?"
+description: "Decide how many days to spend in Zhangjiajie based on park priorities, travel effort, pacing, and whether you want a short stop or a slower nature break."
 publishDate: 2026-06-14
 updatedDate: 2026-06-14
 city: "zhangjiajie"

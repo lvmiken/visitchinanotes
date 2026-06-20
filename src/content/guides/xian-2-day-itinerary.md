@@ -36,10 +36,18 @@ If the excursion day still feels too vague, read [Terracotta Army for First-Time
 
 If tickets are still unresolved, use [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) before you lock the excursion timing.
 
+If you still are not sure what deserves early booking beyond the ticket itself, use [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) before you harden the full 2-day plan.
+
 If the route still feels too abstract between "buy ticket" and "show up there," read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) before you overload the day.
+
+If the ticket is solved but city movement still is not, use [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) before you assume every Xi'an leg should use the same transport mode.
 
 ## Day 2: City wall, historic streets, and food
 
 The second day works best when you stay inside the old-city logic instead of bouncing between disconnected points.
 
 Use [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) when the daytime anchor is still unsettled, and [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if the evening side of the day needs clearer shape.
+
+If the city day is nearly settled but the route between old city, pagoda side, and your hotel still feels fuzzy, read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) next.
+
+If the route is confirmed but the last open question is which reservations to lock first, read [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) next.

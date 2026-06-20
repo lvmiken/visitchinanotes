@@ -51,6 +51,8 @@ If the bigger question is still what dishes belong in the trip, start with [What
 
 If the real question is which food street or district deserves your limited time, the narrower companion page is [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/).
 
+If the district choice mostly makes sense and you now want actual restaurant-style picks, use [Best Beijing Restaurants for First-Time Visitors](/guides/best-beijing-restaurants-for-first-time-visitors/). That page narrows the next decision by duck, hotpot, polished dinner, casual local lunch, and late-night energy.
+
 If the district already is the decision, go one step narrower with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/), [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/), [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/), or [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the trip needs a livelier dinner-and-late-food street.
 
 If the real question is not traditional Beijing food but a more modern dinner, Western-restaurant fallback, or drinks-led evening, use [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) and [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/).
@@ -326,6 +328,7 @@ That is why the right question is often not "where is the best place to eat?" It
 - read [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/) if the trip needs one stronger halal-food and pastry detour
 - read [Best Beijing Hotpot for First-Time Visitors](/guides/best-beijing-hotpot-for-first-time-visitors/) if the real decision is one instant-boiled mutton or copper-hotpot dinner
 - read [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) if duck is already the specific meal decision
+- read [Best Beijing Restaurants for First-Time Visitors](/guides/best-beijing-restaurants-for-first-time-visitors/) if you want actual restaurant picks once the district logic is clear
 - read [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) if hotel area is still shaping where meals can realistically happen
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you want to place the meals into a shorter route
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want the meals to sit inside a fuller Beijing stay

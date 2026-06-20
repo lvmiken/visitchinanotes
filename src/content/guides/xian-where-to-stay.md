@@ -134,6 +134,10 @@ That usually means:
 
 If arrival is still the bigger problem, solve that first with [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/).
 
+If the bigger question is not the transfer but which reservations deserve commitment before you lock the hotel dates, use [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) before you finalize the stay.
+
+If the real uncertainty is not booking but how the city will actually feel to move through from this base, use [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) before you settle the final hotel area.
+
 ## What usually works best on a 2-day Xi'an stay
 
 For many readers doing a short Xi'an stop, the strongest setup is:
@@ -156,5 +160,7 @@ That is why a base that supports evening returns matters so much. Xi'an often fe
 
 - read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if the whole stop still feels too abstract
 - read [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/) if arrival-day logistics are shaping the hotel choice
+- read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if you want to judge the hotel area by day-to-day movement instead of by map position alone
+- read [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) if the stay is almost chosen and you want to protect only the bookings that actually deserve commitment
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the excursion still is controlling too much of the stay
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the base is nearly settled and you want the days to fit together

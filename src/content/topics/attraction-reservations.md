@@ -1,6 +1,6 @@
 ---
-title: "What to Reserve in Advance for China Trips"
-description: "A practical reservations hub for China trips, including what actually needs advance booking, which attractions can quietly control the whole day, and when to click into narrower ticket guides."
+title: "What to Book in Advance for China: Tickets, Trains, and Reservations"
+description: "See which China attractions, trains, and timed-entry tickets should be booked in advance, what can stay flexible, and which reservations shape the whole trip."
 publishDate: 2026-06-14
 updatedDate: 2026-06-19
 planningMoment: "book-transport"
@@ -51,6 +51,8 @@ If you already know the exact attraction you care about, the strongest answer is
 If the real blocker is Beijing's most important reservation, go directly to [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/).
 
 If the real blocker is Xi'an's biggest anchor excursion, go directly to [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/).
+
+If the real blocker is Shanghai's biggest family-ticket day, go directly to [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/).
 
 This page usually works best once the city order is already mostly stable. It is not the first route-planning page. It is the page you use once one timed entry is about to start controlling transport, day order, or how much flexibility the city still has.
 
@@ -138,6 +140,11 @@ If your real question is already attraction-specific, the narrower guide will us
 - [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) is the main reservation page if the Terracotta Army is the anchor excursion.
 - [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) helps if you are still deciding how much of the Xi'an stay this visit should shape.
 
+### Shanghai
+
+- [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) is the main ticket page if the Disney day is one of the Shanghai anchors.
+- [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) helps if the booking question is already turning into a full-day route decision.
+
 ## Where reservations start changing the wider route
 
 This is where the topic starts overlapping with transport instead of staying only about tickets.
@@ -212,6 +219,7 @@ That order is usually safer than building a very detailed day and only later dis
 
 - read [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) if the real booking problem is the Palace Museum
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the Xi'an anchor excursion is the issue
+- read [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) if the real booking problem is the Shanghai Disney day
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how much of the Xi'an stay should revolve around that excursion
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still shaping the city rather than the exact booking
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the reservation question is really about whether the short Xi'an stop still works in the current order

@@ -2,7 +2,7 @@
 title: "Shanghai Airport to City: What First-Time Visitors Should Choose"
 description: "A practical Shanghai arrival guide for travelers choosing the smoothest airport-to-hotel plan, how to think about Pudong or Hongqiao arrivals, and what usually makes the first evening harder than it needs to be."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-20
 city: "shanghai"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -50,6 +50,8 @@ Shanghai can feel simple on paper, but the wrong hotel area or a late arrival ca
 
 This is why the best companion pages are [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) and [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/).
 
+After the airport transfer itself is solved, the next practical question is often not arrival anymore but how the rest of the city should move. That is where [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) becomes the better follow-up.
+
 ## Common mistakes
 
 - planning around a famous transport option without checking the final hotel route
@@ -58,4 +60,4 @@ This is why the best companion pages are [Where to Stay in Shanghai for a First 
 
 ## Related reads
 
-If you are still deciding whether Shanghai is the right first stop, read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/). If you want to reduce the everyday friction after arrival, keep [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/) nearby as well. If the arrival airport is specifically Pudong, continue with [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/). If it is Hongqiao, continue with [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/).
+If you are still deciding whether Shanghai is the right first stop, read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/). If you want to reduce the everyday friction after arrival, keep [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/) nearby as well. If the next question after arrival is how metro, taxi, and Didi should actually fit the rest of the stay, continue with [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/). If the arrival airport is specifically Pudong, continue with [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/). If it is Hongqiao, continue with [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/).

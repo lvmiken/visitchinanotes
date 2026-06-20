@@ -1,6 +1,6 @@
 ---
 title: "Qingdao Travel Guide for First-Time Visitors"
-description: "A practical Qingdao travel guide for first-time visitors, including when this coastal city fits the route, how many days it needs, and why it works best as a lighter stop."
+description: "Plan a first trip to Qingdao with advice on trip length, coastal pacing, neighborhood feel, and when this city works best in a wider China route."
 publishDate: 2026-06-17
 updatedDate: 2026-06-18
 city: "qingdao"

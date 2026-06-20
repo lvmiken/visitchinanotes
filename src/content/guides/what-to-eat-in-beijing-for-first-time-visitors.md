@@ -2,7 +2,7 @@
 title: "What to Eat in Beijing for First-Time Visitors"
 description: "A practical guide to what first-time visitors should eat in Beijing, including Peking duck, zhajiangmian, copper hotpot, traditional snacks, and how to use Beijing as a place to try regional Chinese cuisines."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-06-20
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -44,6 +44,8 @@ This guide is written to keep that strength practical instead of turning it into
 If the real question is no longer "what should I eat?" but "which part of Beijing should carry which meal?", the narrower follow-up is [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/).
 
 If the real question is "what is worth eating after duck?", the narrower child page is [What to Eat in Beijing Besides Peking Duck](/guides/what-to-eat-in-beijing-besides-peking-duck/).
+
+If the dish plan already makes sense and the next question is which actual restaurant style fits the trip, use [Best Beijing Restaurants for First-Time Visitors](/guides/best-beijing-restaurants-for-first-time-visitors/).
 
 Food framing on this page was checked against Beijing tourism pages on **June 19, 2026**. Restaurant quality, popularity, and branch logic can change, so treat live maps, current booking pages, and hotel concierge checks as the final source before choosing a specific meal.
 
@@ -273,5 +275,6 @@ That already creates a much fuller food picture than treating Beijing as only on
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the old-core evening is already the real food decision
 - read [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/) if the trip needs a stronger halal-food and pastry layer
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the next decision is really about districts and meal placement
+- read [Best Beijing Restaurants for First-Time Visitors](/guides/best-beijing-restaurants-for-first-time-visitors/) if the dish plan is clear and you now want actual restaurant picks by trip style
 - read [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) if hotel area will decide where your best meals can realistically happen
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to attach the meals to real days

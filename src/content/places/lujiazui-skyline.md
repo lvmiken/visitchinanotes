@@ -1,8 +1,8 @@
 ---
-title: "Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time"
-description: "A practical Lujiazui guide for Shanghai visitors deciding whether to spend time on observation decks, mall-area wandering, and the modern Pudong skyline side of the trip."
+title: "Lujiazui Skyline for First-Time Visitors: What the Modern Shanghai Side Is Really Like"
+description: "A practical Lujiazui guide for Shanghai visitors who want to understand what the modern Pudong skyline area actually feels like, when the deck view is worth it, and when the Bund is enough."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-19
 city: "shanghai"
 whoItsFor:
   - "travelers deciding whether to cross from the Bund side into Pudong"
@@ -43,7 +43,7 @@ This page is for readers deciding:
 - whether the modern skyline side should be a main stop
 - how to compare Lujiazui with older, more atmospheric neighborhoods
 
-## What Lujiazui gives you
+## What Lujiazui feels like
 
 Lujiazui gives:
 
@@ -53,7 +53,7 @@ Lujiazui gives:
 
 What it usually does not give is the most layered street atmosphere. That matters if your time in Shanghai is short.
 
-## When it is worth prioritizing
+## When do visitors enjoy it most?
 
 Lujiazui is worth prioritizing when:
 
@@ -63,7 +63,7 @@ Lujiazui is worth prioritizing when:
 
 If your trip is only two or three days and you are more interested in street life, food, and walkable character, this area may be secondary rather than essential.
 
-## How much time should you give it?
+## How much time does it usually take?
 
 For many readers, this should be a controlled block rather than an open-ended half-day.
 
@@ -74,6 +74,20 @@ That often means:
 - a clean handoff back to the Bund side, a meal, or another district
 
 The biggest risk is not spending too little time. It is spending too much time in a part of the city that can feel more polished than memorable if the weather or your own interests are not aligned.
+
+## When is the deck view actually worth it?
+
+The deck view is usually worth it when:
+
+- visibility is good
+- skyline architecture is one of the real reasons you came to Shanghai
+- you want more than the classic Bund-side perspective
+
+It is usually less worth it when:
+
+- the weather is dull or hazy
+- your trip is very short
+- you mainly care about neighborhood texture, food, and street-level city feel
 
 ## Bund or Lujiazui?
 
@@ -92,6 +106,8 @@ Choose Lujiazui as an add-on if you also want:
 - a stronger sense of Shanghai as a global financial skyline
 
 For many short trips, the Bund is the non-negotiable piece and Lujiazui is the optional upgrade.
+
+That is also why this page usually belongs after [The Bund](/places/the-bund/) in the reading order. Once the skyline question is settled, the more useful next comparison is often whether the rest of the trip needs [French Concession](/places/french-concession/) for neighborhood rhythm or [Yu Garden](/places/yu-garden/) for old-core contrast.
 
 ## Common mistakes
 

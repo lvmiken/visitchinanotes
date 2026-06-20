@@ -222,6 +222,7 @@ Even a smooth Xi'an arrival still counts as real travel time. Do not build the f
 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still want the broader arrival-day planning rules
 - read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if the airport route is only one part of deciding whether Xi'an belongs in the trip
+- read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if the airport transfer is solved and the next question is how you should move around the city during the rest of the stay
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the hotel base itself is still unsettled
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the city stop is confirmed and you want the days in order
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your arrival answer
