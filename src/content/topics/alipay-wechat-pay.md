@@ -1,6 +1,6 @@
 ---
 title: "Alipay or WeChat Pay for Tourists in China? What to Set Up First"
-description: "A practical tourist-payment guide to choosing Alipay or WeChat Pay first, where each wallet helps most, and what backup plan still matters in China."
+description: "Compare Alipay and WeChat Pay for tourists, see which one to set up first, where each app works best, and what backup payment plan still matters in China."
 publishDate: 2026-06-14
 updatedDate: 2026-06-18
 planningMoment: "solve-basics"

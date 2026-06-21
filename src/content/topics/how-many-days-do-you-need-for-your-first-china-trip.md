@@ -1,8 +1,8 @@
 ---
 title: "How Many Days Do You Need for Your First China Trip?"
-description: "A practical guide to how many days you need for a first China trip, including what 5 to 7 days, 8 to 10 days, and 12 to 14 days realistically allow."
+description: "Find out how many days you need for a first China trip, what 5 to 7, 8 to 10, or 12 to 14 days realistically allow, and when the route gets too rushed."
 publishDate: 2026-06-18
-updatedDate: 2026-06-18
+updatedDate: 2026-06-21
 planningMoment: "choose-route"
 whenToRead: "Best read early in planning, once you know your rough vacation window and need to decide whether the trip should be one city, two cities, or a broader first route."
 affectsCities:

@@ -1,9 +1,9 @@
 {
   "name": "Xi'an",
   "country": "China",
-  "intro": "Xi'an is ideal for travelers who want a compact historical city, strong signature attractions, and a manageable stop within a larger China itinerary.",
+  "intro": "Xi'an is ideal for travelers who want a compact historical city with a strong old-city rhythm, signature sights like the Terracotta Army, and a memorable food identity that fits cleanly into a short China itinerary.",
   "seoTitle": "Xi'an Travel Guide for First-Time Visitors",
-  "seoDescription": "Use this Xi'an hub to connect the Terracotta Army, Muslim Quarter, city wall, and short-stay planning guides.",
+  "seoDescription": "Use this Xi'an hub to plan a first trip around the Terracotta Army, city wall, Muslim Quarter, hotel areas, trip length, timing, and practical short-stay guides.",
   "idealFor": ["short heritage-focused itineraries", "travelers who want a manageable stop"],
   "suggestedStay": "2 to 3 days",
   "tripPace": "Easy to plan as a compact historical stop with one bigger excursion.",
@@ -12,7 +12,8 @@
   "highlights": [
     "One of the easiest major Chinese cities to convert into a short, coherent first-time itinerary.",
     "Strong for travelers who want visible history without the scale and complexity of larger megacities.",
-    "Fits naturally between bigger city stops because it can be rewarding without needing a long stay."
+    "Fits naturally between bigger city stops because it can be rewarding without needing a long stay.",
+    "Combines history, old-city walking, and a clear northwest food identity unusually well for a 2- or 3-day stop."
   ],
   "planningPriorities": [
     {
@@ -20,17 +21,17 @@
       "description": "Anchor one half-day around the Terracotta Army and keep the rest of the plan close to the old city."
     },
     {
-      "title": "Decide whether history or food is the main lens",
-      "description": "That choice changes how much time you spend on major sights versus slower city exploration."
+      "title": "Decide early whether Xi'an is a 2-day or 3-day stop",
+      "description": "That choice changes whether the city stays as a tight history anchor or opens up into slower food, museum, and evening time."
     },
     {
       "title": "Use Xi'an to simplify the larger route",
-      "description": "This city works best when it gives the trip historical depth without overwhelming the rest of the schedule."
+      "description": "This city works best when it gives the trip historical depth and local character without overwhelming the rest of the schedule."
     }
   ],
   "transportNote": "Xi'an is relatively easy to structure because the core visitor experience is compact and its top priorities are clearer than in larger cities.",
   "homepageGroups": ["first-time-essentials", "north-inland-routes"],
-  "featuredGuideSlugs": ["xian-first-time-guide", "xian-where-to-stay", "xian-xianyang-airport-to-city-center", "how-to-get-around-xian", "what-to-book-in-advance-for-xian", "xian-2-day-itinerary", "terracotta-army-half-day-from-xian"],
+  "featuredGuideSlugs": ["xian-first-time-guide", "xian-where-to-stay", "bell-tower-vs-south-gate-where-to-stay-in-xian", "where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian", "how-many-days-in-xian-for-first-time-visitors", "best-time-to-visit-xian-for-first-time-visitors", "rainy-day-in-xian-for-first-time-visitors", "best-museums-in-xian-for-first-time-visitors", "xian-xianyang-airport-to-city-center", "how-to-get-around-xian", "what-to-book-in-advance-for-xian", "xian-2-day-itinerary", "xian-3-day-itinerary", "what-to-eat-in-xian-for-first-time-visitors", "where-to-eat-in-xian-for-first-time-visitors", "what-to-do-in-xian-at-night-for-first-time-visitors", "xian-with-kids-for-first-time-visitors", "where-to-stay-in-xian-with-kids", "bell-tower-vs-south-gate-with-kids-in-xian", "best-things-to-do-in-xian-with-kids", "best-museums-in-xian-with-kids", "is-terracotta-army-worth-it-with-kids", "is-xian-city-wall-worth-it-with-kids", "is-shaanxi-history-museum-worth-it-with-kids", "is-xian-museum-worth-it-with-kids", "is-muslim-quarter-worth-it-with-kids", "is-huaqing-palace-worth-it-with-kids", "is-giant-wild-goose-pagoda-worth-it-with-kids", "what-to-eat-in-xian-with-kids", "where-to-eat-in-xian-with-kids", "what-to-do-in-xian-at-night-with-kids", "is-tang-paradise-worth-it-with-kids", "what-to-book-in-advance-for-xian-with-kids", "rainy-day-in-xian-with-kids", "xian-2-day-itinerary-with-kids", "xian-3-day-itinerary-with-kids", "terracotta-army-half-day-from-xian"],
   "featuredTopicSlugs": ["choosing-hotel-location", "where-to-start", "china-visa-basics", "what-apps-you-need-for-a-china-trip", "airport-to-city", "how-to-pay-in-china", "attraction-reservations", "how-to-book-terracotta-warriors-tickets", "train-vs-flight", "high-speed-rail", "book-high-speed-train", "12306-for-foreigners", "how-to-ride-china-high-speed-rail", "china-train-classes-explained"],
-  "featuredPlaceSlugs": ["terracotta-army", "xian-city-wall", "muslim-quarter", "giant-wild-goose-pagoda", "shaanxi-history-museum"]
+  "featuredPlaceSlugs": ["terracotta-army", "xian-city-wall", "muslim-quarter", "giant-wild-goose-pagoda", "shaanxi-history-museum", "huaqing-palace", "tang-paradise"]
 }

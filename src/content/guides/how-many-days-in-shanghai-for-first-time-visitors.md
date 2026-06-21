@@ -1,6 +1,6 @@
 ---
 title: "How Many Days in Shanghai for First-Time Visitors"
-description: "A practical guide to how many days to spend in Shanghai, including what 2, 3, 4, or 5 days really means and which version fits a first trip best."
+description: "See what 2, 3, 4, or 5 days in Shanghai really gives you, and which trip length works best for first-time visitors who want skyline views, neighborhoods, food, and maybe Disneyland or a side trip."
 publishDate: 2026-06-20
 updatedDate: 2026-06-20
 city: "shanghai"

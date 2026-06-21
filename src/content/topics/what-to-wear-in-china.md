@@ -1,6 +1,6 @@
 ---
 title: "What to Wear in China by Season and City"
-description: "A practical guide to what to wear in China by season and by city, including how clothing needs change between Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an."
+description: "See what to wear in China by season and by city, including how packing changes between Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an."
 publishDate: 2026-06-18
 updatedDate: 2026-06-18
 planningMoment: "choose-route"

@@ -1,8 +1,8 @@
 ---
 title: "High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?"
-description: "A practical decision guide for choosing between high-speed rail and flights in China, based on the full door-to-door day, hotel location, luggage friction, and which option leaves the route calmer."
+description: "Compare high-speed rail and flights in China by door-to-door time, hotel location, luggage friction, and which option keeps the route easier."
 publishDate: 2026-06-14
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "book-transport"
 whenToRead: "Best read when you are close to locking in intercity moves and need to compare comfort, timing, and transfer friction."
 affectsCities:

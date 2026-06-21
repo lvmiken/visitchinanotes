@@ -1,6 +1,6 @@
 ---
 title: "Shanghai 3-Day Itinerary for First-Time Visitors"
-description: "A practical Shanghai 3-day itinerary for first-time visitors who want skyline views, neighborhoods, food, and a day-by-day route that stays realistic after arrival."
+description: "Use this Shanghai 3-day itinerary to plan a first trip around the Bund, the French Concession, classic food stops, and one realistic Pudong or museum block without wasting time on cross-city detours."
 publishDate: 2026-06-14
 updatedDate: 2026-06-20
 city: "shanghai"

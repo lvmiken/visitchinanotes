@@ -1,6 +1,6 @@
 ---
 title: "How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors"
-description: "A practical Shanghai transport guide for first-time visitors, including when metro is easiest, when taxi or Didi is smarter, whether buses are worth it, and how hotel area shapes the whole day."
+description: "Learn when Shanghai metro is easiest, when Didi or taxi saves time, whether ferries are worth using, and how hotel area can make the city feel smooth or surprisingly tiring."
 publishDate: 2026-06-20
 updatedDate: 2026-06-20
 city: "shanghai"

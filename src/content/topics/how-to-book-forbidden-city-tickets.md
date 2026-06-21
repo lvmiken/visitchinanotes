@@ -1,8 +1,8 @@
 ---
 title: "How to Book Forbidden City Tickets as a Foreigner"
-description: "A practical guide to booking Forbidden City tickets as a foreign visitor, including the official channel, when tickets go on sale, what passport details matter, and what mistakes cause the most stress."
+description: "Learn how to book Forbidden City tickets as a foreign visitor, when tickets go on sale, which passport details matter, and what mistakes cause the most stress."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-21
 planningMoment: "book-transport"
 whenToRead: "Best read before your Beijing dates are fixed, especially if the Forbidden City is one of the anchor sights shaping the whole city plan."
 affectsCities:

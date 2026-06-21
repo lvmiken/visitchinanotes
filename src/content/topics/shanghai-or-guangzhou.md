@@ -1,6 +1,6 @@
 ---
 title: "Shanghai or Guangzhou: Which City Fits Your Trip Better?"
-description: "A practical comparison of Shanghai vs Guangzhou for first-time China trips, including which city is easier, who each one suits best, and when each works better in a broader route."
+description: "Compare Shanghai and Guangzhou for a first China trip, including which city is easier, what kind of traveler each one suits best, and when each fits better in a broader route."
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 planningMoment: "choose-route"

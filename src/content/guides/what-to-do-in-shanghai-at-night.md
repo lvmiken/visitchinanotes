@@ -1,6 +1,6 @@
 ---
 title: "What to Do in Shanghai at Night for First-Time Visitors"
-description: "A practical Shanghai night guide for first-time visitors, including when to choose the Bund, a Huangpu River cruise, Xintiandi or the French Concession, Jing'an, and when a museum night or show-style evening makes more sense."
+description: "Choose between the Bund, a Huangpu River cruise, Xintiandi, the French Concession, Jing'an, or a show-style evening based on your energy, hotel area, and how polished you want the night to feel."
 publishDate: 2026-06-20
 updatedDate: 2026-06-20
 city: "shanghai"

@@ -1,8 +1,8 @@
 ---
 title: "12306 for Foreigners: How to Book Trains in China"
-description: "A practical 12306 guide for foreign travelers who want to register, add passengers, book train tickets correctly, and avoid the mistakes that make China's official railway platform feel harder than it needs to."
+description: "Learn how to use 12306 as a foreign traveler, from registration and passenger setup to booking train tickets without common mistakes."
 publishDate: 2026-06-18
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "book-transport"
 whenToRead: "Best read when your route is mostly stable and you are ready to use China's official railway booking channel."
 affectsCities:

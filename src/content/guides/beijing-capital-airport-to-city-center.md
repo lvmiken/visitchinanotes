@@ -1,6 +1,6 @@
 ---
 title: "How to Get From Beijing Capital Airport to the City Center"
-description: "A practical guide to getting from Beijing Capital Airport to central Beijing, including when to choose taxi or Didi, when the Capital Airport Express works best, and when airport buses are worth considering."
+description: "Compare the Capital Airport Express, taxi, Didi, and airport buses so you can choose the best way from Beijing Capital Airport to the city center for your arrival time, luggage, and hotel area."
 publishDate: 2026-06-17
 updatedDate: 2026-06-17
 city: "beijing"

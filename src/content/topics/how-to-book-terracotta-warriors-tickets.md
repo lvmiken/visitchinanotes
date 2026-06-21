@@ -1,6 +1,6 @@
 ---
 title: "How to Book Terracotta Warriors Tickets Without Stress"
-description: "A practical guide to booking Terracotta Warriors tickets, including the official Qin museum channels, passport use for foreign visitors, why online reservation matters, and what to bring on the day."
+description: "Learn how to book Terracotta Warriors tickets, which official channels foreigners should use, why reservations matter, and what passport details to have ready on the day."
 publishDate: 2026-06-18
 updatedDate: 2026-06-19
 planningMoment: "book-transport"

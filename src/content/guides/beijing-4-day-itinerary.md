@@ -1,6 +1,6 @@
 ---
-title: "A Practical 4-Day Beijing Itinerary for First-Time Visitors"
-description: "A practical 4-day Beijing itinerary for first-time visitors, with a realistic day-by-day plan covering the Forbidden City, Great Wall, temple or park time, and evenings that still feel enjoyable."
+title: "Beijing 4-Day Itinerary for First-Time Visitors"
+description: "Use this Beijing 4-day itinerary to cover the Forbidden City, the Great Wall, temple or park time, better food stops, and evenings that still feel enjoyable on a first trip."
 publishDate: 2026-06-17
 updatedDate: 2026-06-20
 city: "beijing"

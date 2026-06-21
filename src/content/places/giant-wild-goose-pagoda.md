@@ -1,8 +1,8 @@
 ---
-title: "Giant Wild Goose Pagoda for First-Time Visitors: When It Belongs in the Route and When It Is Secondary"
-description: "A practical Giant Wild Goose Pagoda guide for Xi'an visitors deciding whether it deserves time on a short stay and how to use it without weakening the main city priorities."
+title: "Is Giant Wild Goose Pagoda Worth It for First-Time Visitors?"
+description: "Decide whether Giant Wild Goose Pagoda deserves time on a short Xi'an trip, how long to spend there, and when it fits better as a supporting stop."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-21
 city: "xian"
 whoItsFor:
   - "travelers comparing Xi'an's secondary sights"
@@ -53,6 +53,14 @@ It is worth including when:
 
 In those cases, it can broaden the city nicely.
 
+It becomes more useful if you already know the south-side block should do more than deliver one landmark photo stop. In that version of the trip, [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) is the natural paired page because it helps decide whether the pagoda side deserves a fuller scenic or evening layer.
+
+If the place already belongs in the route and the live question now is how to use the surrounding meal slot well, the natural food companion is [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/).
+
+If the place already belongs in the route strongly enough that it may change where you sleep, the natural hotel companion is [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/).
+
+If the live question is the family version of this same decision, the narrower next page is [Is Giant Wild Goose Pagoda Worth It With Kids?](/guides/is-giant-wild-goose-pagoda-worth-it-with-kids/).
+
 ## When it is probably secondary
 
 It is probably secondary when:
@@ -86,4 +94,8 @@ The more this stop starts pushing out core Xi'an priorities, the less useful it 
 
 - read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if Xi'an's overall role is still unclear
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are checking whether the route has room
+- read [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/) if the place may be important enough to change your hotel base
+- read [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/) if the pagoda side already belongs in the route and you now need the narrower south-side meal decision
+- read [Is Giant Wild Goose Pagoda Worth It With Kids?](/guides/is-giant-wild-goose-pagoda-worth-it-with-kids/) if your real question is the narrower family version of whether this stop improves the route
+- read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the real question is whether the whole pagoda-side area should carry a more scenic evening block
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if the main excursion day still needs to be settled first

@@ -1,6 +1,6 @@
 ---
 title: "What to Eat in Shanghai for First-Time Visitors"
-description: "A practical guide to what to eat in Shanghai for first-time visitors, including xiaolongbao, shengjian, scallion oil noodles, classic Shanghainese dinners, and which foods are actually worth prioritizing on a short trip."
+description: "Learn which Shanghai foods are most worth your limited meals, from xiaolongbao and shengjian to scallion oil noodles, seasonal specialties, and polished Shanghainese dinners."
 publishDate: 2026-06-20
 updatedDate: 2026-06-20
 city: "shanghai"

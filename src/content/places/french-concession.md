@@ -1,6 +1,6 @@
 ---
-title: "French Concession for First-Time Visitors: What the Neighborhood Experience Feels Like"
-description: "A practical French Concession guide for travelers who want to understand what this Shanghai neighborhood feels like, why it matters so much to the city's rhythm, and how much time it really deserves."
+title: "French Concession in Shanghai: Is It Worth Visiting for First-Time Visitors?"
+description: "Decide whether the French Concession is worth your time, what makes it one of Shanghai's most livable and international-feeling neighborhoods, and how to fit it into a short first trip."
 publishDate: 2026-06-17
 updatedDate: 2026-06-19
 city: "shanghai"

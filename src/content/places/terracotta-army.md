@@ -1,8 +1,8 @@
 ---
-title: "Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control"
-description: "A practical Terracotta Army guide for first-time Xi'an visitors deciding whether it deserves a half day, how to keep expectations realistic, and how to fit it into a short route."
+title: "Is the Terracotta Army Worth It for First-Time Visitors?"
+description: "Decide whether the Terracotta Army deserves a half day, how much time to give it, and how to fit it into a short Xi'an trip."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 city: "xian"
 whoItsFor:
   - "first-time Xi'an visitors"
@@ -97,6 +97,7 @@ This is why [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/
 
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the reservation still is not secure
 - read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if Xi'an's role in the route is still unsettled
+- read [Is the Terracotta Army Worth It With Kids?](/guides/is-terracotta-army-worth-it-with-kids/) if the real decision is whether this outing still is the right family anchor by age, energy, and day shape
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if you want the excursion day to stay realistic
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing this excursion into a short stay
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you are deciding how to use the in-city day

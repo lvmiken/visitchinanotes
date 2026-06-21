@@ -1,6 +1,6 @@
 ---
 title: "China Train Classes Explained: Second Class vs First Class vs Business"
-description: "A practical guide to China train seat classes for first-time travelers, including when second class is enough, when first class is worth paying for, and when business class makes sense."
+description: "Compare second class, first class, and business class on China trains so you can decide what is worth paying for on short rides, longer routes, or first-time trips."
 publishDate: 2026-06-18
 updatedDate: 2026-06-19
 planningMoment: "book-transport"

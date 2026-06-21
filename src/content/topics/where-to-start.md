@@ -1,8 +1,8 @@
 ---
 title: "Best First City to Visit in China: Beijing, Shanghai, Chengdu, or Xi'an?"
-description: "A practical first-China-trip guide to choosing your first city, including whether Beijing or Shanghai is easier, when Chengdu or Xi'an fits better, and how many stops to plan."
+description: "Compare Beijing, Shanghai, Chengdu, and Xi'an to decide which city is best for your first trip to China and how many stops to plan."
 publishDate: 2026-06-14
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "choose-route"
 whenToRead: "Best read before you choose the first city or decide how many stops to include."
 affectsCities:

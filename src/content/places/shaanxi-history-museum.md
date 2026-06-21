@@ -1,8 +1,8 @@
 ---
-title: "Shaanxi History Museum for First-Time Visitors: When It Adds Depth to Xi'an and When to Skip It"
-description: "A practical Shaanxi History Museum guide for travelers deciding whether Xi'an needs a major museum stop and how to compare it against better use of limited short-trip time."
+title: "Is Shaanxi History Museum Worth It for First-Time Visitors?"
+description: "Decide whether Shaanxi History Museum adds enough depth to a short Xi'an trip, how to compare it with the City Wall or food time, and when to skip it."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-21
 city: "xian"
 whoItsFor:
   - "travelers comparing museums against outdoor or food-focused Xi'an time"
@@ -53,6 +53,8 @@ It adds real value when:
 
 In that situation, the museum can complement the Terracotta Army instead of competing with it.
 
+If you are making the same call for a family trip, the narrower companion page is [Is Shaanxi History Museum Worth It With Kids?](/guides/is-shaanxi-history-museum-worth-it-with-kids/).
+
 ## When should you probably skip it?
 
 You should probably skip or downplay it when:
@@ -84,4 +86,5 @@ For many first-time travelers, that means:
 
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if the main historical anchor is still undecided
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you are comparing indoor depth with outdoor heritage
+- read [Is Shaanxi History Museum Worth It With Kids?](/guides/is-shaanxi-history-museum-worth-it-with-kids/) if you are making the same museum decision for a family trip
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you need to test whether the route really has room

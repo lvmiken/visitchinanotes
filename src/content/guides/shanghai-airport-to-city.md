@@ -1,8 +1,8 @@
 ---
 title: "Shanghai Airport to City: What First-Time Visitors Should Choose"
-description: "A practical Shanghai arrival guide for travelers choosing the smoothest airport-to-hotel plan, how to think about Pudong or Hongqiao arrivals, and what usually makes the first evening harder than it needs to be."
+description: "Learn which Shanghai airport-to-city option is smoothest, how Pudong and Hongqiao change the arrival plan, and what usually makes the first evening harder than it needs to be."
 publishDate: 2026-06-17
-updatedDate: 2026-06-20
+updatedDate: 2026-06-21
 city: "shanghai"
 guideStage: "solve-logistics"
 whoItsFor:

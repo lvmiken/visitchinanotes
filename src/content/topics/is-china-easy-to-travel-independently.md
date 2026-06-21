@@ -1,6 +1,6 @@
 ---
 title: "Is China Easy to Travel Independently in 2026?"
-description: "A practical guide to whether China is easy to travel independently, including what makes it easier than many first-time visitors expect, what still causes friction, and who should simplify their route."
+description: "Find out whether China is easy to travel independently, what usually works better than first-time visitors expect, and which parts of the trip still cause the most friction."
 publishDate: 2026-06-18
 updatedDate: 2026-06-18
 planningMoment: "choose-route"

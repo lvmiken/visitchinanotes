@@ -1,6 +1,6 @@
 ---
 title: "Beijing 3-Day Itinerary for First-Time Visitors"
-description: "A practical Beijing 3-day itinerary for first-time visitors, with a realistic plan for the Forbidden City, the Great Wall, food, transport, and one calmer city day."
+description: "Use this Beijing 3-day itinerary to fit the Forbidden City, the Great Wall, food, and one calmer city day into a first trip without turning every day into heavy transport."
 publishDate: 2026-06-19
 updatedDate: 2026-06-20
 city: "beijing"

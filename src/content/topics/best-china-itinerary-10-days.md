@@ -1,6 +1,6 @@
 ---
 title: "Best China Itinerary for 10 Days"
-description: "A practical 10-day China itinerary guide for first-time visitors, including the best default route, when three cities make sense, and how to avoid turning a 10-day trip into constant transfer days."
+description: "Use this 10-day China itinerary to compare the best first-trip routes, see when three cities make sense, and avoid turning a longer trip into nonstop transfer days."
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 planningMoment: "choose-route"

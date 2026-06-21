@@ -1,6 +1,6 @@
 ---
 title: "Best China Itinerary for 14 Days"
-description: "A practical 14-day China itinerary for first-time visitors, including the best default route, when four stops become worthwhile, and how to keep a two-week trip from turning into nonstop transfer days."
+description: "Plan a 14-day China itinerary that fits first-time visitors, see when four stops are worth it, and keep a two-week trip from turning into constant packing and transfers."
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 planningMoment: "choose-route"

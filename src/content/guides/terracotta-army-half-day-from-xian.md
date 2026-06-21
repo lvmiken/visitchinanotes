@@ -1,8 +1,8 @@
 ---
 title: "How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day"
-description: "A practical guide to getting from Xi'an to the Terracotta Army, including when to choose taxi, Didi, tour, or public transport, how much time the site really needs, and how to keep the rest of the day usable."
+description: "Learn how to get from Xi'an to the Terracotta Army, which transport option is easiest, how much time the site really needs, and how to keep the rest of the day usable."
 publishDate: 2026-06-18
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "half day"
@@ -44,7 +44,7 @@ This page is for travelers asking:
 - how big should the whole excursion block really be?
 - how do I keep the rest of Xi'an usable afterward?
 
-If your first problem is still whether the site matters enough at all, start with [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/). If the real blocker is the ticket, keep [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) open too.
+If your first problem is still whether the site matters enough at all, start with [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/). If the real blocker is the ticket, keep [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) open too. If the real question is the narrower family version of whether the excursion is worth one of the trip's limited anchor days at all, keep [Is the Terracotta Army Worth It With Kids?](/guides/is-terracotta-army-worth-it-with-kids/) open too.
 
 ## The short answer
 
@@ -152,6 +152,10 @@ That means:
 
 If the booking is still unresolved, solve that first using [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/).
 
+If you already know the Terracotta Army day may need one more nearby historical-atmospheric layer, compare that idea carefully with [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) before you assume "same side of the city" automatically means "same best day."
+
+If the live question is the narrower family version of whether that extra Lintong stop is actually worth the energy, the next page is [Is Huaqing Palace Worth It With Kids?](/guides/is-huaqing-palace-worth-it-with-kids/).
+
 ## What should the return feel like?
 
 The strongest return is usually one that leads into a lighter Xi'an evening rather than another heavy historical block.
@@ -209,5 +213,9 @@ The key is not only protecting the site. It is protecting the **shape of the who
 
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the reservation still is not secure
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how important the site should be
+- read [Is the Terracotta Army Worth It With Kids?](/guides/is-terracotta-army-worth-it-with-kids/) if your real question is the narrower family yes-or-no decision behind the whole excursion
+- read [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if you are deciding whether the Lintong side deserves one more stop
+- read [Is Huaqing Palace Worth It With Kids?](/guides/is-huaqing-palace-worth-it-with-kids/) if your real question is whether the extra Lintong stop improves the family version enough
 - read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if the city itself still is not fully confirmed in the route
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing the half-day into the short route now
+- read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the excursion already is fixed and the open question is how to use the rest of a fuller Xi'an stay

@@ -1,8 +1,8 @@
 ---
-title: "Shanghai Travel Guide for First-Time Visitors"
-description: "A practical Shanghai travel guide for first-time visitors, including how many days to stay, who Shanghai suits best, which neighborhoods matter most, and when it is the right first stop in China."
+title: "Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize"
+description: "Use this Shanghai guide to decide how many days to stay, where to stay, which neighborhoods matter most, and when Shanghai is the right first stop in China."
 publishDate: 2026-06-14
-updatedDate: 2026-06-20
+updatedDate: 2026-06-21
 city: "shanghai"
 guideStage: "choose-destination"
 tripLength: "2 to 4 days"

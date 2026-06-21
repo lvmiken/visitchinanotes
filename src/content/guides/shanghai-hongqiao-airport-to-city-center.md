@@ -1,6 +1,6 @@
 ---
 title: "How to Get From Shanghai Hongqiao Airport to the City Center"
-description: "A practical guide to getting from Shanghai Hongqiao Airport to central Shanghai, including when metro is the smartest choice, when taxi or Didi is easier, and why Hongqiao is usually a simpler first arrival than Pudong."
+description: "Compare metro, taxi, and Didi options from Shanghai Hongqiao Airport to the city center, and see why Hongqiao is usually the easier first arrival for short Shanghai trips."
 publishDate: 2026-06-18
 updatedDate: 2026-06-18
 city: "shanghai"

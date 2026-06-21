@@ -1,8 +1,8 @@
 ---
 title: "How to Plan Your First China Trip Without Overbuilding the Route"
-description: "A practical first-China-trip planning guide for deciding how many cities fit, when trains or flights start controlling the route, and what to lock before hotels and attractions."
+description: "Use this first China trip planning guide to decide how many cities fit, when trains or flights start controlling the route, and what to lock first."
 publishDate: 2026-06-14
-updatedDate: 2026-06-18
+updatedDate: 2026-06-21
 planningMoment: "choose-route"
 whenToRead: "Best read once you know your rough trip length but before you book hotels, trains, or domestic flights."
 affectsCities:

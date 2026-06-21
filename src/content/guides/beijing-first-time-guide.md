@@ -1,8 +1,8 @@
 ---
-title: "Beijing Travel Guide for First-Time Visitors"
-description: "A practical Beijing travel guide for first-time visitors, including how many days to stay, what to prioritize first, who Beijing suits best, and how to keep the city from feeling too big or too tiring."
+title: "Beijing for First-Time Visitors: How Many Days, What to Prioritize, and Where to Stay"
+description: "Use this Beijing guide to decide how many days to stay, what to prioritize first, where to stay, and how to keep the city from feeling too big or too tiring."
 publishDate: 2026-06-14
-updatedDate: 2026-06-20
+updatedDate: 2026-06-21
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "3 to 5 days"

@@ -1,6 +1,6 @@
 ---
-title: "Lujiazui Skyline for First-Time Visitors: What the Modern Shanghai Side Is Really Like"
-description: "A practical Lujiazui guide for Shanghai visitors who want to understand what the modern Pudong skyline area actually feels like, when the deck view is worth it, and when the Bund is enough."
+title: "Lujiazui Skyline: Is It Worth It for First-Time Shanghai Visitors?"
+description: "Decide whether Lujiazui is worth crossing the river for, when the skyline decks are worth paying for, and when Bund views already give you enough modern Shanghai."
 publishDate: 2026-06-17
 updatedDate: 2026-06-19
 city: "shanghai"

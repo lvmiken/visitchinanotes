@@ -1,8 +1,8 @@
 ---
 title: "Cash, Card, Alipay, or WeChat Pay: How to Pay in China"
-description: "A practical guide to how tourists should pay in China, including when to use Alipay, WeChat Pay, cash, or bank cards, and what backup payment stack works best for first-time visitors."
+description: "Learn how to pay in China with Alipay, WeChat Pay, cash, or bank cards, and which backup payment setup works best for first-time visitors."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "solve-basics"
 whenToRead: "Best read before departure, once you are trying to turn vague payment anxiety into a real day-to-day plan for meals, transport, hotels, and small purchases."
 affectsCities:

@@ -1,8 +1,8 @@
 ---
 title: "Do You Need a VPN in China? What Travelers Should Know"
-description: "A practical guide to whether travelers really need a VPN in China, including when a travel eSIM may be enough, when a VPN is still worth preparing, and how to avoid common internet-access mistakes."
+description: "Find out whether you need a VPN in China, when a travel eSIM may be enough, and when it is still worth preparing for blocked apps and work tools."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "solve-basics"
 whenToRead: "Best read before departure if your trip depends on Google, WhatsApp, Instagram, work tools, hotel Wi-Fi, or a laptop that needs reliable access."
 affectsCities:

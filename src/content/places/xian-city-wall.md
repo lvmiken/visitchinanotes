@@ -1,8 +1,8 @@
 ---
-title: "Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block"
-description: "A practical Xi'an City Wall guide for travelers deciding how much time to give it, when to go, and why it can be one of the most satisfying in-city experiences on a short Xi'an stay."
+title: "Is Xi'an City Wall Worth It for First-Time Visitors?"
+description: "Decide how much time to give Xi'an City Wall, when to go, and whether it is a better use of a short Xi'an day than another museum block."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-21
 city: "xian"
 whoItsFor:
   - "travelers shaping Xi'an's in-city day"
@@ -91,5 +91,6 @@ That is often stronger than jumping immediately to a distant modern district or 
 ## Which page to read next
 
 - read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing this into the city day now
+- read [Is Xi'an City Wall Worth It With Kids?](/guides/is-xian-city-wall-worth-it-with-kids/) if the real decision is whether the wall still is the right family choice by age, weather, and energy
 - read [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if you are pairing heritage with food and street-life time
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if old-city logic is influencing your hotel choice

@@ -1,6 +1,6 @@
 ---
 title: "Where to Eat in Shanghai for First-Time Visitors"
-description: "A practical guide to where to eat in Shanghai for first-time visitors, including which areas are best for xiaolongbao, easy skyline dinners, neighborhood cafes, and polished final-night meals."
+description: "Choose which Shanghai neighborhoods should carry your key meals, from xiaolongbao and casual classics to Bund-view dinners, French Concession cafes, and a stronger final-night restaurant."
 publishDate: 2026-06-20
 updatedDate: 2026-06-20
 city: "shanghai"

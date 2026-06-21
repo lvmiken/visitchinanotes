@@ -1,6 +1,6 @@
 ---
 title: "Best China Itinerary for 7 Days"
-description: "A practical 7-day China itinerary guide for first-time visitors, including the best default route, when to choose Beijing and Shanghai, and which alternatives work better for history or easier pacing."
+description: "Use this 7-day China itinerary to choose the best first-trip route, see when Beijing and Shanghai are enough, and when Xi'an or another stop makes the week work better."
 publishDate: 2026-06-18
 updatedDate: 2026-06-18
 planningMoment: "choose-route"

@@ -1,6 +1,6 @@
 ---
 title: "What to Eat in Beijing for First-Time Visitors"
-description: "A practical guide to what first-time visitors should eat in Beijing, including Peking duck, zhajiangmian, copper hotpot, traditional snacks, and how to use Beijing as a place to try regional Chinese cuisines."
+description: "Learn which Beijing foods are most worth your limited meals, from Peking duck and zhajiangmian to copper hotpot, classic snacks, and some of the regional Chinese cuisines the capital does especially well."
 publishDate: 2026-06-19
 updatedDate: 2026-06-20
 city: "beijing"

@@ -1,6 +1,6 @@
 ---
 title: "Where to Eat in Beijing for First-Time Visitors"
-description: "A practical guide to where to eat in Beijing for first-time visitors, including which areas suit duck, local classics, modern dinners, and how to match meals to real sightseeing days."
+description: "Choose which Beijing neighborhoods should carry your key meals, from duck and old-city classics to Sanlitun dinners and practical places that fit real sightseeing days."
 publishDate: 2026-06-19
 updatedDate: 2026-06-20
 city: "beijing"

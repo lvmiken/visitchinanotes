@@ -1,8 +1,8 @@
 ---
 title: "Airport to City in China: What First-Time Travelers Should Expect"
-description: "A practical airport-to-city planning hub for China trips, including how to choose the easiest arrival option, when late landings change the first hotel decision, and which airport-specific page to read next."
+description: "Learn how to choose the easiest airport transfer in China, when late arrivals should change your first hotel plan, and which airport-specific page to read next."
 publishDate: 2026-06-14
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "book-transport"
 whenToRead: "Best read before choosing the first hotel base or deciding whether a late arrival still supports an ambitious first day."
 affectsCities:

@@ -1,8 +1,8 @@
 ---
 title: "How to Use Didi in China Without Speaking Chinese"
-description: "A practical guide to using Didi in China as a foreign traveler, including which app to download, how to set up payment, how to message drivers, and what usually goes wrong at pickup."
+description: "Learn how to use Didi in China, which app to download, how to set up payment, and what usually goes wrong at pickup."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-06-21
 planningMoment: "solve-basics"
 whenToRead: "Best read before departure or before your first airport, station, or late-night ride when you may need app-based transport without relying on spoken Chinese."
 affectsCities:

@@ -1,8 +1,8 @@
 ---
 title: "Best eSIM for China in 2026: Tourist-Friendly Options Compared"
-description: "A practical comparison of tourist-friendly China eSIM options in 2026, including which plans suit light users, heavy users, multi-city trips, hotspot needs, and travelers who want the least arrival stress."
+description: "Compare tourist-friendly China eSIM options in 2026 by data needs, hotspot use, multi-city travel, and how easily they work for first-time visitors."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "solve-basics"
 whenToRead: "Best read before departure, especially if you want data working as soon as you land and do not want to depend on airport Wi-Fi or a local SIM shop."
 affectsCities:

@@ -1,6 +1,6 @@
 ---
 title: "How to Get Around Chinese Cities: Metro, Taxi, or Didi?"
-description: "A practical China city-transport guide for deciding when metro is best, when taxi or Didi is worth paying for, and how hotel location changes the whole day."
+description: "Learn when metro is best in Chinese cities, when taxi or Didi saves real time, and how hotel location can make sightseeing days smooth or unexpectedly tiring."
 publishDate: 2026-06-14
 updatedDate: 2026-06-18
 planningMoment: "solve-basics"

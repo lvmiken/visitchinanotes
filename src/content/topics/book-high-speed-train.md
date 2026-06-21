@@ -1,8 +1,8 @@
 ---
 title: "How to Book High-Speed Train Tickets in China"
-description: "A practical booking guide for tourists who want to know when to book China high-speed rail, what to lock before paying, and how to avoid wrong-station, wrong-day, or rushed-transfer mistakes."
+description: "Learn when to book China high-speed train tickets, what to double-check before paying, and how to avoid wrong-station, wrong-day, or rushed-transfer mistakes."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-21
 planningMoment: "book-transport"
 whenToRead: "Best once the city order is mostly clear and you are getting ready to book actual intercity moves."
 affectsCities:

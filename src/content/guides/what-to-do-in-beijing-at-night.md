@@ -1,6 +1,6 @@
 ---
 title: "What to Do in Beijing at Night for First-Time Visitors"
-description: "A practical Beijing night guide for first-time visitors, including when to choose Qianmen, Wangfujing, Guijie, or Sanlitun, how to fit dinner into the route, and how to avoid wasting evening energy."
+description: "Choose between Qianmen, Wangfujing, Guijie, and Sanlitun for a Beijing night out, based on your hotel area, dinner plans, energy level, and how local or polished you want the evening to feel."
 publishDate: 2026-06-19
 updatedDate: 2026-06-20
 city: "beijing"
