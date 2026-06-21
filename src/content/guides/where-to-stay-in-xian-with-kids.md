@@ -1,6 +1,6 @@
 ---
 title: "Where to Stay in Xi'an With Kids for First-Time Visitors"
-description: "A practical guide to where to stay in Xi'an with kids, including why South Gate or Bell Tower is often the safest family base, when the pagoda side works better, and which hotel tradeoffs actually matter on a short trip."
+description: "Choose where to stay in Xi'an with kids by comparing South Gate, Bell Tower, and the pagoda side for walkability, meals, and easier family evenings."
 publishDate: 2026-06-21
 updatedDate: 2026-06-21
 city: "xian"

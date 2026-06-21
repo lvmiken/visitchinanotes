@@ -23,6 +23,7 @@ relatedTopicSlugs:
   - "metro-taxi-ridehailing"
 relatedGuideSlugs:
   - "xian-first-time-guide"
+  - "best-things-to-do-in-xian-for-first-time-visitors"
   - "terracotta-army-half-day-from-xian"
 tags:
   - "Xi'an"
@@ -171,9 +172,10 @@ Like many good second-tier Xi'an priorities, it works best when it supports the 
 ## Which page to read next
 
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if the main excursion still is not fully settled
+- read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if you still are comparing this extra Lintong stop with Xi'an's stronger core priorities
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if you are deciding whether the Lintong side should stay simple or carry one more stop
 - read [Is Huaqing Palace Worth It With Kids?](/guides/is-huaqing-palace-worth-it-with-kids/) if your real question is the narrower family version of whether the extra Lintong stop is worth the energy
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if you still are not sure whether your trip even has room for this
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you are comparing a second excursion-side stop against a stronger in-city priority
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if Xi'an's overall shape still is too broad
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if Xi'an's overall shape still is too broad
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the fuller route already is taking shape and you want to see where a bigger Lintong day actually fits

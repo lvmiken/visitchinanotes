@@ -80,7 +80,7 @@ Readers usually need to solve one of four narrower problems:
 - official platform: [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/)
 - station-day nerves: [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/)
 
-For many readers, these rail decisions are not abstract. They sit inside real sample routes such as [Beijing, Xi'an, or Shanghai: Which Pairing Makes the Best First China Route?](/guides/beijing-xian-or-shanghai-pairing/) and short-stop city planning pages like [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
+For many readers, these rail decisions are not abstract. They sit inside real sample routes such as [Beijing, Xi'an, or Shanghai: Which Pairing Makes the Best First China Route?](/guides/beijing-xian-or-shanghai-pairing/) and short-stop city planning pages like [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
 
 ## When high-speed rail usually beats flying
 

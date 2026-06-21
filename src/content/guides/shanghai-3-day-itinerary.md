@@ -38,7 +38,9 @@ This plan is best for travelers who:
 - want skyline, neighborhoods, food, and one culture block
 - prefer a realistic first-time route over a packed landmark checklist
 
-If you are still deciding whether Shanghai should even be one of your first China cities, start with [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/). If the real blocker is hotel choice, keep [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) open as well.
+If you are still deciding whether Shanghai should even be one of your first China cities, start with [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/). If the real blocker is hotel choice, keep [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) open as well.
+
+If the city already is chosen but you still have not decided which Shanghai experiences truly deserve the strongest time blocks, keep [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) open too.
 
 ## Who this 3-day version is best for
 
@@ -71,6 +73,8 @@ If you want the place pages to support this itinerary instead of pulling you int
 - `Day 1 skyline and central-core anchors`: [The Bund](/places/the-bund/), [Lujiazui Skyline](/places/lujiazui-skyline/), [Yu Garden](/places/yu-garden/)
 - `Day 2 neighborhood anchor`: [French Concession](/places/french-concession/)
 - `Day 3 flexible depth`: [Shanghai Museum](/places/shanghai-museum/) and [Yu Garden](/places/yu-garden/)
+
+If you still are not sure which of those place blocks should stay essential and which should remain optional, the adult shortlist page is [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/).
 
 ## Day 1: Historic core and skyline
 
@@ -220,8 +224,9 @@ That is enough for the city to feel stylish, useful, and memorable without becom
 
 ## Which page to read next
 
-- read [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) if the hotel base still is not right
-- read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if the city still needs to be ranked against other route options
+- read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the hotel base still is not right
+- read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the city still needs to be ranked against other route options
+- read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and you want a cleaner adult shortlist behind this route
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the next practical decision is which district should carry the skyline dinner, neighborhood meal, or final-night dinner
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the next practical decision is how to make one or two Shanghai evenings feel intentional
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the itinerary is mostly clear and the next real risk is weak booking order

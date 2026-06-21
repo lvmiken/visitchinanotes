@@ -150,5 +150,5 @@ This is the same planning logic as the Forbidden City in Beijing: one anchor boo
 
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how big a role the site should play
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the excursion day itself still feels too loose
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing the excursion inside a real short stay
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing the excursion inside a real short stay
 - read [What to Reserve in Advance for China Trips](/topics/attraction-reservations/) if you want the wider booking logic behind anchor sights

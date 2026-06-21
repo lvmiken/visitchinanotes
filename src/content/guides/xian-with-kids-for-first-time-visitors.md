@@ -53,7 +53,7 @@ Use this page if you are asking:
 - what should I cut first on a short family trip?
 - when is Didi smarter than metro with children?
 
-If the bigger question is still whether Xi'an belongs in the route at all, start with [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/).
+If the bigger question is still whether Xi'an belongs in the route at all, start with [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/).
 
 If trip length still is not settled, keep [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) open too, because the family version of Xi'an changes a lot between 2 days and 3 days.
 
@@ -308,7 +308,7 @@ The most common mistakes are:
 
 ## Which page to read next
 
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if the whole city still feels too broad
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if the whole city still feels too broad
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if you still need to decide how much room Xi'an deserves in the family route
 - read [Where to Stay in Xi'an With Kids for First-Time Visitors](/guides/where-to-stay-in-xian-with-kids/) if the next live decision is choosing the easiest base for a family rhythm
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the next live decision is choosing the easiest base for a family rhythm

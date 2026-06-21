@@ -66,6 +66,8 @@ If hotel choice still is shaping all of this, keep [Where to Stay in Xi'an for a
 
 If the area already is chosen and the remaining question is which dishes belong here, keep [What to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/what-to-eat-around-bell-tower-and-south-gate-in-xian/) open too.
 
+If you still are not sure whether Bell Tower itself deserves real trip time or only a dinner-side pass-through, keep [Is Xi'an Bell Tower Worth Visiting for First-Time Visitors?](/places/xian-bell-tower/) open too.
+
 ## The short answer
 
 For many first-time visitors:
@@ -134,6 +136,8 @@ South Gate often wins on:
 - one old-city dinner-and-walk block that does not require extra decisions
 
 For many first-time visitors, South Gate is the stronger old-city evening and Bell Tower is the easier central default.
+
+If South Gate already feels like the better calmer old-city answer and the live question is whether it deserves real trip time beyond dinner convenience, keep [Is Xi'an South Gate Worth Visiting for First-Time Visitors?](/places/xian-south-gate/) open too.
 
 ## Best meals to put here
 
@@ -272,5 +276,5 @@ That usually gives Xi'an more range than trying to make one area do every job.
 - read [Xi'an Muslim Quarter Food Guide for First-Time Visitors](/guides/xian-muslim-quarter-food-guide-for-first-time-visitors/) if you want the higher-energy old-city food block on another night
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the meal area is mostly clear but the whole evening still needs shape
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if hotel location still is deciding whether Bell Tower or South Gate makes more sense
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place this old-city dinner logic into the tighter route
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place this old-city dinner logic into the tighter route
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you are ready to place this calmer meal layer into the fuller version

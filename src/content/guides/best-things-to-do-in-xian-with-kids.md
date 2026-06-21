@@ -47,7 +47,7 @@ Use this page if you are asking:
 - what fits younger children better than adults first assume?
 - how do you make Xi'an feel rich without turning it into a history marathon?
 
-If the broader question is still whether Xi'an belongs in a first China family route at all, start with [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/).
+If the broader question is still whether Xi'an belongs in a first China family route at all, start with [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/).
 
 If the broader family-planning question is whether Xi'an itself works well with kids and how hard the city should feel day to day, start with [Xi'an With Kids for First-Time Visitors](/guides/xian-with-kids-for-first-time-visitors/) too.
 
@@ -334,7 +334,7 @@ That usually is enough for Xi'an to feel rich, recognizably historical, and genu
 - read [Is Huaqing Palace Worth It With Kids?](/guides/is-huaqing-palace-worth-it-with-kids/) if the live decision is whether the family should enlarge the Terracotta Army day with one more Lintong-side stop
 - read [Is Giant Wild Goose Pagoda Worth It With Kids?](/guides/is-giant-wild-goose-pagoda-worth-it-with-kids/) if the live decision is whether the pagoda itself belongs in the family's fuller Day 3 version
 - read [Rainy Day in Xi'an With Kids: Best Indoor Things to Do](/guides/rainy-day-in-xian-with-kids/) if the family shortlist is mostly clear but you still need the bad-weather fallback
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place these family priorities into a tighter short route
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place these family priorities into a tighter short route
 - read [Xi'an 2-Day Itinerary With Kids for First-Time Visitors](/guides/xian-2-day-itinerary-with-kids/) if you are ready to place these family priorities into the sharper kids-specific short route
 - read [Xi'an 3-Day Itinerary With Kids for First-Time Visitors](/guides/xian-3-day-itinerary-with-kids/) if you are ready to place these family priorities into a fuller kids-specific version
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you are ready to place these family priorities into a fuller version with room for one softer day

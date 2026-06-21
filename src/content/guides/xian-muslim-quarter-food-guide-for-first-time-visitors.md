@@ -275,6 +275,6 @@ That keeps the Quarter useful instead of overwhelming.
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if you still need the broader Xi'an dish shortlist beyond one old-city food block
 - read [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) if you want to compare this area with Bell Tower, South Gate, and the pagoda side
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the meal block is mostly clear but the whole evening still needs shape
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want to place this food block into the tighter short-stay version
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want to place this food block into the tighter short-stay version
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if this area now needs to fit a fuller Xi'an version with a broader evening layer
 - read [What to Do in Xi'an at Night With Kids for First-Time Visitors](/guides/what-to-do-in-xian-at-night-with-kids/) if you are traveling as a family and still need the lower-friction version of this decision

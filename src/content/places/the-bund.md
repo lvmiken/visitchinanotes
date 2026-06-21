@@ -21,6 +21,7 @@ relatedTopicSlugs:
   - "metro-taxi-ridehailing"
   - "best-time-to-visit-china"
 relatedGuideSlugs:
+  - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-first-time-guide"
   - "shanghai-3-day-itinerary"
 tags:
@@ -127,6 +128,7 @@ The answer is usually not to skip it. The answer is to use it more intelligently
 
 ## Which page to read next
 
-- read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/) if the wider city role is still undecided
-- read [A Balanced 3-Day Shanghai Itinerary](/guides/shanghai-3-day-itinerary/) if you are placing the Bund inside a real short stay
+- read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the wider city role is still undecided
+- read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to see how the Bund ranks against Shanghai's other best short-stay priorities
+- read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are placing the Bund inside a real short stay
 - read [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/) if you are comparing riverfront views with tower views

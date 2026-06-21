@@ -1,6 +1,6 @@
 ---
 title: "How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors"
-description: "A practical Xi'an transport guide for first-time visitors, including when metro is easiest, when taxi or Didi is worth paying for, and how hotel area changes the whole stay."
+description: "Learn when Xi'an metro is enough, when taxi or Didi saves time, and how your hotel area changes transport on a short first trip."
 publishDate: 2026-06-20
 updatedDate: 2026-06-20
 city: "xian"
@@ -78,7 +78,7 @@ Xi'an is one of the easiest major China stops to structure because many first-ti
 
 That is why the city often feels easier than Beijing. You usually are not trying to solve ten districts at once.
 
-If your trip still is not grouped that way, start with [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) or [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) before you overthink the transport mode.
+If your trip still is not grouped that way, start with [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) or [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) before you overthink the transport mode.
 
 ## When metro is usually the best choice
 
@@ -263,4 +263,4 @@ That is why [How to Get From Xi'an to the Terracotta Army and Plan a Realistic H
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the biggest transport uncertainty is still the excursion day
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if app-based rides are still the practical blocker
 - read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if the transport question still is tangled up with payment readiness
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the bigger problem is still how the city days fit together
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the bigger problem is still how the city days fit together

@@ -1,9 +1,9 @@
 {
   "name": "Chengdu",
   "country": "China",
-  "intro": "Chengdu is a strong city for travelers who want food culture, a slower urban pace, panda-related attractions, and an easy gateway to Sichuan trips.",
+  "intro": "Chengdu is a strong city for travelers who want food culture, a slower urban pace, panda-related attractions, temple-and-old-street culture, lively shopping and nightlife districts, and an easy gateway to Sichuan trips.",
   "seoTitle": "Chengdu Travel Guide for First-Time Visitors",
-  "seoDescription": "Plan a first trip to Chengdu with advice on where to stay, food-focused neighborhoods, and realistic pacing.",
+  "seoDescription": "Plan a first trip to Chengdu with advice on pandas, where to stay, food neighborhoods, old-street culture, and realistic pacing.",
   "idealFor": ["food-led trips", "slower city rhythm"],
   "suggestedStay": "2 to 4 days",
   "tripPace": "Best when evenings stay open and the itinerary leaves room to slow down.",
@@ -11,8 +11,8 @@
   "bestMonths": ["March", "April", "October", "November"],
   "highlights": [
     "A strong pick for travelers who care more about atmosphere, food, and pace than checking off a huge list of landmarks.",
-    "Works well when the trip includes one signature attraction and several low-pressure neighborhood sessions.",
-    "Can become the base for wider Sichuan planning if the traveler wants to extend beyond the city."
+    "Works well when the trip includes one signature attraction, one historical or temple layer, and several low-pressure neighborhood sessions.",
+    "Can become the base for wider Sichuan planning if the traveler wants to extend beyond the city toward Dujiangyan, Qingcheng Mountain, or other nearby side trips."
   ],
   "planningPriorities": [
     {
@@ -26,10 +26,14 @@
     {
       "title": "Place panda logistics before nightlife plans",
       "description": "If the panda base matters, anchor that timing first and let the rest of the day remain flexible."
+    },
+    {
+      "title": "Separate city Chengdu from side-trip Chengdu",
+      "description": "Use the city for food, tea houses, shopping, and evenings first, then add Dujiangyan or Qingcheng Mountain only if the stay is long enough."
     }
   ],
   "transportNote": "Chengdu is easy to enjoy when your hotel, food neighborhoods, and one or two anchor attractions are kept within a relaxed travel radius.",
   "homepageGroups": ["north-inland-routes"],
-  "featuredGuideSlugs": ["chengdu-first-time-guide", "chengdu-where-to-stay", "chengdu-tianfu-airport-to-city", "chengdu-3-day-itinerary"],
+  "featuredGuideSlugs": ["chengdu-first-time-guide", "how-many-days-in-chengdu-for-first-time-visitors", "best-time-to-visit-chengdu-for-first-time-visitors", "best-things-to-do-in-chengdu-for-first-time-visitors", "how-to-plan-chengdu-panda-base-for-first-time-visitors", "what-to-book-in-advance-for-chengdu", "how-to-get-around-chengdu", "rainy-day-in-chengdu-for-first-time-visitors", "chengdu-where-to-stay", "what-to-eat-in-chengdu-for-first-time-visitors", "where-to-eat-in-chengdu-for-first-time-visitors", "where-to-drink-tea-in-chengdu-for-first-time-visitors", "what-to-do-in-chengdu-at-night-for-first-time-visitors", "best-day-trips-from-chengdu-for-first-time-visitors", "chengdu-tianfu-airport-to-city", "chengdu-3-day-itinerary"],
   "featuredTopicSlugs": ["best-time-to-visit-china", "choosing-hotel-location", "where-to-start", "esim-and-internet", "what-apps-you-need-for-a-china-trip", "airport-to-city", "alipay-wechat-pay", "metro-taxi-ridehailing", "plan-your-trip"]
 }

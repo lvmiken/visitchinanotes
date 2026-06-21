@@ -198,8 +198,8 @@ This route works especially well for readers who want the trip to feel more clas
 
 Relevant reads:
 
-- [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/)
-- [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/)
+- [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/)
+- [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/)
 
 ## Best alternative if you want an easier week: Shanghai + one slower add-on
 
@@ -268,4 +268,4 @@ When a route is short, one missed booking or one badly timed day matters more.
 - read [Best First City to Visit in China: Beijing, Shanghai, Chengdu, or Xi'an?](/topics/where-to-start/) if the route style still is not settled
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if Beijing is likely to be the anchor city
 - read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if you want the easier second city
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if you are considering the history-heavier alternative
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if you are considering the history-heavier alternative

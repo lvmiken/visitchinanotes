@@ -184,4 +184,6 @@ Airport bus only is great when the stop pattern fits your actual hotel area. If 
 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still want the broader arrival-day logic
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if the hotel base itself still is unclear
+- read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if arrival timing is shaping which Chengdu experiences should stay core and which should stay optional
+- read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the main arrival decision is whether the panda base should happen on the first full day or later
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your real solution

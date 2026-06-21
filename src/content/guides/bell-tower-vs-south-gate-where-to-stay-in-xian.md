@@ -57,6 +57,8 @@ If you still have not even decided whether to stay in the old city at all, keep 
 
 If you are choosing for a family rather than an adult-first trip, the kids-specific version is [Bell Tower or South Gate in Xi'an With Kids?](/guides/bell-tower-vs-south-gate-with-kids-in-xian/).
 
+If the hotel choice is mostly being driven by how you want the old city to feel after dark, the more focused evening companion page is [Bell Tower or South Gate at Night: Which Xi'an Old-City Area Fits Better?](/guides/bell-tower-vs-south-gate-at-night-in-xian/).
+
 ## The short answer
 
 For many first-time visitors:
@@ -117,6 +119,8 @@ It can be a very good first-time base.
 
 It just usually is not the calmest one.
 
+If Bell Tower still feels abstract and you need to decide whether it should be a real stop or mainly a practical center for the stay, the place page to keep open is [Is Xi'an Bell Tower Worth Visiting for First-Time Visitors?](/places/xian-bell-tower/).
+
 ## Why South Gate is often better for short trips
 
 Xi'an is strongest when the stay feels compact and intentional.
@@ -133,7 +137,7 @@ That matters most on:
 - balanced 3-day stays
 - trips where one calmer dinner and one evening walk matter almost as much as daytime sightseeing
 
-If the whole route still is not fully shaped, [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) is the better next page.
+If the whole route still is not fully shaped, [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) is the better next page.
 
 ## Why Bell Tower can still be the better answer for some travelers
 
@@ -233,4 +237,4 @@ That is usually the safest answer.
 - read [Where to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian/) if the hotel area is mostly chosen and the next live decision is where dinner should actually happen
 - read [What to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/what-to-eat-around-bell-tower-and-south-gate-in-xian/) if the district is chosen and the next live decision is which meal deserves that slot
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if the real blocker is how daily movement will feel from each old-city base
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want to place this hotel decision into Xi'an's strongest short-stay version
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want to place this hotel decision into Xi'an's strongest short-stay version

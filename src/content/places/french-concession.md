@@ -21,6 +21,7 @@ relatedTopicSlugs:
   - "choosing-hotel-location"
   - "metro-taxi-ridehailing"
 relatedGuideSlugs:
+  - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-where-to-stay"
   - "shanghai-3-day-itinerary"
 tags:
@@ -104,6 +105,7 @@ Travelers who want a smoother, more atmospheric Shanghai stay often end up happi
 
 ## Which page to read next
 
-- read [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) if this district is influencing your hotel decision
-- read [A Balanced 3-Day Shanghai Itinerary](/guides/shanghai-3-day-itinerary/) if you are building the neighborhood day now
+- read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if this district is influencing your hotel decision
+- read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to see why neighborhood rhythm often matters more than one extra lower-priority landmark
+- read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are building the neighborhood day now
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are balancing atmospheric time against headline skyline time

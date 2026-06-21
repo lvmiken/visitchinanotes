@@ -313,7 +313,7 @@ That is not a weakness. That is what keeps the short family version healthy.
 
 ## When to use the 2-day or broader version instead
 
-Use [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) instead if:
+Use [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) instead if:
 
 - Xi'an is only a compact stop in a larger route
 - the family does not want one more museum or pagoda-side choice

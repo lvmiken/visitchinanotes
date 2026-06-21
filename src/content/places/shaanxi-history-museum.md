@@ -22,6 +22,7 @@ relatedTopicSlugs:
   - "best-time-to-visit-china"
 relatedGuideSlugs:
   - "xian-first-time-guide"
+  - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
 tags:
   - "Xi'an"
@@ -52,6 +53,8 @@ It adds real value when:
 - weather or energy make an indoor stop especially useful
 
 In that situation, the museum can complement the Terracotta Army instead of competing with it.
+
+If the decision already is yes and the real problem now is how to get the ticket through the official museum channel, use [How to Book Shaanxi History Museum Tickets as a Foreigner](/topics/how-to-book-shaanxi-history-museum-tickets/) next.
 
 If you are making the same call for a family trip, the narrower companion page is [Is Shaanxi History Museum Worth It With Kids?](/guides/is-shaanxi-history-museum-worth-it-with-kids/).
 
@@ -85,6 +88,8 @@ For many first-time travelers, that means:
 ## Which page to read next
 
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if the main historical anchor is still undecided
+- read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if you still are deciding whether this museum deserves one of Xi'an's limited top slots
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you are comparing indoor depth with outdoor heritage
+- read [How to Book Shaanxi History Museum Tickets as a Foreigner](/topics/how-to-book-shaanxi-history-museum-tickets/) if the museum already is a yes and the next problem is reservation timing
 - read [Is Shaanxi History Museum Worth It With Kids?](/guides/is-shaanxi-history-museum-worth-it-with-kids/) if you are making the same museum decision for a family trip
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you need to test whether the route really has room
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you need to test whether the route really has room

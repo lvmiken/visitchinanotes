@@ -1,6 +1,6 @@
 ---
 title: "What to Do in Xi'an at Night for First-Time Visitors"
-description: "A practical Xi'an night guide for first-time visitors, including when to choose the Muslim Quarter, Bell Tower and South Gate, the pagoda side, or Tang Paradise, and how to avoid wasting evening energy."
+description: "Choose the Xi'an night plan that fits your trip, whether you want Muslim Quarter energy, Bell Tower and South Gate, the pagoda side, or Tang Paradise."
 publishDate: 2026-06-21
 updatedDate: 2026-06-21
 city: "xian"
@@ -51,7 +51,7 @@ Use this page if you are asking:
 - how much evening structure does a first Xi'an trip really need?
 - when should dinner be the main event and when should the area matter more?
 
-If your broader Xi'an structure is still unsettled, start with [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/).
+If your broader Xi'an structure is still unsettled, start with [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/).
 
 If the main evening decision is mostly about meals, keep [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) open too.
 
@@ -129,6 +129,12 @@ This is often the better choice when:
 If the dinner side of that night is already the real decision, [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) is the narrower next page.
 
 If you already know the night should stay in the calmer old city and the live question now is Bell Tower versus South Gate, the narrower next page is [Where to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian/).
+
+If the live question is less about one restaurant and more about which old-city evening mood fits better, the more focused companion page is [Bell Tower or South Gate at Night: Which Xi'an Old-City Area Fits Better?](/guides/bell-tower-vs-south-gate-at-night-in-xian/).
+
+If the live question is whether Bell Tower itself deserves any real time in that old-city night or should mostly function as a convenient central handoff point, the narrower place page is [Is Xi'an Bell Tower Worth Visiting for First-Time Visitors?](/places/xian-bell-tower/).
+
+If the live question is whether the calmer answer already is obvious and South Gate itself deserves real time or only acts as the wall-side evening anchor, the matching place page is [Is Xi'an South Gate Worth Visiting for First-Time Visitors?](/places/xian-south-gate/).
 
 ## 3. Fuller third-day south-side evening: choose the pagoda side
 
@@ -261,9 +267,10 @@ That already gives the city more range than leaving every night unplanned.
 ## Which page to read next
 
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you want to see where one or two evenings actually fit inside a fuller short stay
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want the tighter version and need to see which evening to protect
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want the tighter version and need to see which evening to protect
 - read [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) if the real question is which district should carry the night
 - read [Where to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian/) if the night already should stay in the calmer old city and now needs the narrower dinner-area decision
+- read [Bell Tower or South Gate at Night: Which Xi'an Old-City Area Fits Better?](/guides/bell-tower-vs-south-gate-at-night-in-xian/) if the old-city night is chosen but the area mood still is not
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if the real question is which meals deserve the most valuable evening slot
 - read [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if the old-city food-street night is already the real decision
 - read [Xi'an Muslim Quarter Food Guide for First-Time Visitors](/guides/xian-muslim-quarter-food-guide-for-first-time-visitors/) if the old-city food-street night already is chosen and you need the narrower eating plan

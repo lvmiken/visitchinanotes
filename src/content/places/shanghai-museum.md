@@ -21,6 +21,7 @@ relatedTopicSlugs:
   - "best-time-to-visit-china"
   - "metro-taxi-ridehailing"
 relatedGuideSlugs:
+  - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-first-time-guide"
   - "shanghai-3-day-itinerary"
 tags:
@@ -88,6 +89,7 @@ Short trips usually benefit more from a good museum block than from an exhaustiv
 
 ## Which page to read next
 
-- read [A Balanced 3-Day Shanghai Itinerary](/guides/shanghai-3-day-itinerary/) if you need to place this museum inside a workable short stay
+- read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you need to place this museum inside a workable short stay
+- read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to compare the museum against Shanghai's stronger skyline, neighborhood, and old-core priorities
 - read [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) if you are comparing indoor culture with slower district time
-- read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/) if the city's overall shape is still undecided
+- read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the city's overall shape is still undecided

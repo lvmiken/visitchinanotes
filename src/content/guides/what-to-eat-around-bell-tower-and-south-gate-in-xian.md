@@ -289,5 +289,5 @@ If the weather is cooler and the day has enough room, **yangrou paomo** can be t
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if you want the wider Xi'an dish shortlist behind this calmer old-city page
 - read [Xi'an Muslim Quarter Food Guide for First-Time Visitors](/guides/xian-muslim-quarter-food-guide-for-first-time-visitors/) if the trip still needs one livelier snack-and-atmosphere block on another night
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the meal layer is mostly clear but the whole evening still needs shape
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place this meal logic into the tighter short-stay route
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place this meal logic into the tighter short-stay route
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you are ready to place this calmer old-city food logic into the fuller version

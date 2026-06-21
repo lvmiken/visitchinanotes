@@ -197,7 +197,7 @@ That is because the trip normally wants:
 
 Moving the whole stay to the pagoda side for this version usually weakens more than it improves.
 
-If that shorter version still needs shaping, use [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
+If that shorter version still needs shaping, use [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
 
 ## If Xi'an is a balanced 3-day trip
 

@@ -91,7 +91,7 @@ If the base is still open, use:
 
 - [Where to Stay in Xi'an With Kids for First-Time Visitors](/guides/where-to-stay-in-xian-with-kids/)
 - [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/)
-- [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/)
+- [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/)
 
 ## 2. Terracotta Army
 

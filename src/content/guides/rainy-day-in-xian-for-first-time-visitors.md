@@ -1,6 +1,6 @@
 ---
 title: "Rainy Day in Xi'an for First-Time Visitors"
-description: "A practical rainy day Xi'an guide for first-time visitors, including which plans to keep, when to switch to museums, how to use indoor backup options, and how to stop bad weather from flattening the trip."
+description: "Use this rainy-day Xi'an guide to decide which outdoor plans to keep, when to switch to museums, and how to protect a short first trip from bad weather."
 publishDate: 2026-06-21
 updatedDate: 2026-06-21
 city: "xian"
@@ -51,7 +51,7 @@ Use this page if you are asking:
 - what are the best indoor backup options?
 - how do I stop one bad-weather day from flattening the whole Xi'an stay?
 
-If the bigger problem is still the overall structure of the city, start with [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/). If the question is mainly about indoor choices, keep [Shaanxi History Museum for First-Time Visitors: When It Improves a Xi'an Trip and When It Overloads It](/places/shaanxi-history-museum/) open too.
+If the bigger problem is still the overall structure of the city, start with [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/). If the question is mainly about indoor choices, keep [Shaanxi History Museum for First-Time Visitors: When It Improves a Xi'an Trip and When It Overloads It](/places/shaanxi-history-museum/) open too.
 
 If the issue is not only today's weather but which Xi'an museum choice is actually worth protecting in the broader trip, keep [Best Museums in Xi'an for First-Time Visitors](/guides/best-museums-in-xian-for-first-time-visitors/) open too.
 
@@ -137,6 +137,8 @@ This is the best rainy-day choice when:
 
 This works best when the museum already mattered to the trip, not when you are only using it as a panic filler.
 
+If the museum now has become the rescue plan you actually need to secure, the narrower booking page is [How to Book Shaanxi History Museum Tickets as a Foreigner](/topics/how-to-book-shaanxi-history-museum-tickets/).
+
 ## Option 2: one lighter cultural museum instead of one giant museum
 
 Sometimes the smart rainy-day answer is not "biggest possible museum."
@@ -157,7 +159,15 @@ For many first-time visitors, this lighter-museum path is stronger when:
 - you still want room for dinner or an evening district later
 - you want indoor shelter without turning the whole day into one giant commitment
 
-## Option 3: turn the day into food plus one easier city layer
+If the lighter-museum question already is the main one, the narrower decision page is [Xi'an Museum for First-Time Visitors: When It Is the Smarter Lighter Museum Choice](/places/xian-museum/).
+
+If the live rainy-day decision has narrowed to one major indoor block versus one lighter indoor block, the more focused comparison page is [Shaanxi History Museum or Xi'an Museum: Which Is Better for First-Time Visitors?](/guides/shaanxi-history-museum-or-xian-museum/).
+
+## Option 3: a specialist indoor museum only if it really suits you
+
+If the trip wants a more specialist cultural answer instead of a broader museum, [Beilin Museum in Xi'an: Is It Worth It for First-Time Visitors?](/places/beilin-museum/) is often the better niche rainy-day decision than simply defaulting to the biggest museum available.
+
+## Option 4: turn the day into food plus one easier city layer
 
 Rain does not always mean you owe the trip a museum.
 
@@ -235,7 +245,9 @@ This often is the better answer when the trip still needs atmosphere, not just s
 - read [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) if the weather problem is really a reservation-priority problem
 - read [Rainy Day in Xi'an With Kids: Best Indoor Things to Do](/guides/rainy-day-in-xian-with-kids/) if the live issue is not only rain but child energy, easier transport, and family fallback logic
 - read [Shaanxi History Museum for First-Time Visitors: When It Improves a Xi'an Trip and When It Overloads It](/places/shaanxi-history-museum/) if you need to choose the strongest indoor backup
+- read [How to Book Shaanxi History Museum Tickets as a Foreigner](/topics/how-to-book-shaanxi-history-museum-tickets/) if the rainy-day pivot now depends on actually getting the museum reservation right
 - read [Best Museums in Xi'an for First-Time Visitors](/guides/best-museums-in-xian-for-first-time-visitors/) if you need the broader museum comparison behind today's indoor pivot
+- read [Shaanxi History Museum or Xi'an Museum: Which Is Better for First-Time Visitors?](/guides/shaanxi-history-museum-or-xian-museum/) if the indoor pivot is already down to one major museum versus one lighter museum
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if the bigger rainy-day problem is movement, not sightseeing
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you still have flexibility to swap day order instead of only rescuing today
 - read [Xi'an 3-Day Itinerary With Kids for First-Time Visitors](/guides/xian-3-day-itinerary-with-kids/) if you need the family version of the same day-order decision

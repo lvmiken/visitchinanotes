@@ -46,6 +46,8 @@ This page is for travelers asking:
 
 If your first problem is still whether the site matters enough at all, start with [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/). If the real blocker is the ticket, keep [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) open too. If the real question is the narrower family version of whether the excursion is worth one of the trip's limited anchor days at all, keep [Is the Terracotta Army Worth It With Kids?](/guides/is-terracotta-army-worth-it-with-kids/) open too.
 
+If the outing still is being shaped by hotel area, keep [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) open too, because a South Gate stay, Bell Tower stay, or station-led stay can change how much transport friction feels acceptable.
+
 ## The short answer
 
 For most first-time visitors, the Terracotta Army works best as:
@@ -62,6 +64,18 @@ That usually means:
 - avoid stacking another heavy museum-scale commitment after you return
 
 The smartest excursion day is not the one that tries to prove productivity. It is the one that still leaves you enough clarity and energy to enjoy Xi'an after the outing.
+
+## Choose the style of Terracotta Army day you actually want
+
+Most readers are really choosing between these three versions:
+
+- the `lowest-friction day`
+- the `best-value public-transport day`
+- the `bigger Lintong day` that may also include [Huaqing Palace](/places/huaqing-palace/)
+
+Those are not the same excursion.
+
+If you do not decide which version you want first, it becomes much easier to overbuild the day by accident.
 
 ## Start with the transport choice, not the sightseeing fantasy
 
@@ -120,6 +134,37 @@ What to watch out for:
 - the return can feel slower than expected once crowds and transfers are added
 - this option is weaker when you are already tired, time-sensitive, or trying to protect a same-day evening plan
 
+## Which transport style fits which Xi'an trip?
+
+### Choose taxi, Didi, or a private transfer if
+
+- Xi'an is only 2 days
+- this is your first Xi'an trip
+- you want the cleanest possible anchor day
+- you still want one usable evening after returning
+
+### Choose public transport if
+
+- budget matters more than absolute ease
+- you are comfortable with one more transfer chain
+- the rest of the day is intentionally light anyway
+
+### Choose a packaged transfer or small-group structure if
+
+- you want lower-friction planning without fully self-managing the route
+- you value predictability more than total flexibility
+
+## When should this stay a simple half day?
+
+For many first-time visitors, it should stay a simple half-day when:
+
+- Xi'an is only 2 days
+- the old city still needs one full protected day
+- the outing already is the biggest logistics block in the trip
+- your energy after the site still matters
+
+This is the version most readers should start with.
+
 ## Why half-day logic is usually the sweet spot
 
 Many travelers make one of two mistakes:
@@ -156,6 +201,16 @@ If you already know the Terracotta Army day may need one more nearby historical-
 
 If the live question is the narrower family version of whether that extra Lintong stop is actually worth the energy, the next page is [Is Huaqing Palace Worth It With Kids?](/guides/is-huaqing-palace-worth-it-with-kids/).
 
+## When is Huaqing Palace worth adding on the same day?
+
+Usually only when:
+
+- Xi'an is closer to 3 days than the tightest 2-day version
+- you already know the old-city day still is protected
+- you want a fuller Lintong-side day on purpose, not by inertia
+
+If you are still torn, [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) is the right narrower page.
+
 ## What should the return feel like?
 
 The strongest return is usually one that leads into a lighter Xi'an evening rather than another heavy historical block.
@@ -177,7 +232,7 @@ Avoid loading the Terracotta Army day with:
 - a long chain of cross-city transport decisions
 - the most ambitious possible evening plan
 
-This is exactly why [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) separates the Terracotta Army logic from the main old-city day.
+This is exactly why [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) separates the Terracotta Army logic from the main old-city day.
 
 ## How does this fit a 2-day Xi'an route?
 
@@ -187,6 +242,16 @@ For many short Xi'an stays, the cleanest structure is:
 - **Day 2**: City Wall, Muslim Quarter, and old-city rhythm
 
 That keeps the trip coherent. It also prevents the top excursion from flattening the whole stop.
+
+## How does this fit a 3-day Xi'an route?
+
+On a fuller `3-day` Xi'an trip, the Terracotta Army still should be a protected anchor, but it no longer needs to carry the whole emotional weight of the city.
+
+That is where you get more freedom to choose between:
+
+- a simpler half-day plus easier evening
+- a fuller Lintong day with [Huaqing Palace](/places/huaqing-palace/)
+- a cleaner return that saves the extra depth for Day 3 instead
 
 ## What usually makes the day go wrong?
 
@@ -216,6 +281,6 @@ The key is not only protecting the site. It is protecting the **shape of the who
 - read [Is the Terracotta Army Worth It With Kids?](/guides/is-terracotta-army-worth-it-with-kids/) if your real question is the narrower family yes-or-no decision behind the whole excursion
 - read [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if you are deciding whether the Lintong side deserves one more stop
 - read [Is Huaqing Palace Worth It With Kids?](/guides/is-huaqing-palace-worth-it-with-kids/) if your real question is whether the extra Lintong stop improves the family version enough
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if the city itself still is not fully confirmed in the route
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing the half-day into the short route now
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if the city itself still is not fully confirmed in the route
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing the half-day into the short route now
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the excursion already is fixed and the open question is how to use the rest of a fuller Xi'an stay

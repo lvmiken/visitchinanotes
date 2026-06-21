@@ -151,8 +151,8 @@ A strong short stop often includes:
 
 Use:
 
-- [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/)
-- [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/)
+- [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/)
+- [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/)
 
 ### Day 9: Xi'an to Shanghai
 

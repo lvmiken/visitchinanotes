@@ -2,7 +2,7 @@
 title: "Best Area to Stay in Chengdu for First-Time Visitors"
 description: "How to choose the best area to stay in Chengdu for first-time visitors, based on food priorities, metro convenience, and the slower pace the city rewards."
 publishDate: 2026-06-14
-updatedDate: 2026-06-18
+updatedDate: 2026-06-21
 city: "chengdu"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -67,6 +67,8 @@ Some cities are planned around mornings. Chengdu often shines most in the evenin
 
 That usually matters more than being slightly closer to one daytime attraction.
 
+If the hotel choice mostly depends on whether metro is enough or whether repeated Didi rides will quietly improve the stay, keep [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/) open too.
+
 ## What to watch out for
 
 - choosing a hotel that looks convenient on the map but feels dead at night
@@ -74,3 +76,13 @@ That usually matters more than being slightly closer to one daytime attraction.
 - picking a base without considering the panda morning or the real nightly return pattern
 
 If you already know the base and need the stay to flow better, the next step is [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/).
+
+If the base is mostly clear but you still need a sharper sense of which Chengdu experiences deserve the strongest trip time, the next page is [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/).
+
+If the hotel choice mostly depends on making the panda morning easy, the narrower logistics page is [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/).
+
+If the base decision mostly depends on how hard the daily metro, Didi, and late-night return pattern will feel in real life, the next page is [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/).
+
+If the base is mostly clear and the practical question is now food, the next pages are [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) and [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/).
+
+If the base decision mostly depends on which evenings should stay easy, local, or livelier, the next page is [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/).

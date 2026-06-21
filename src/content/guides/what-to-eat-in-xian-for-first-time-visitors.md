@@ -53,7 +53,7 @@ Use this page if you are asking:
 - is the Muslim Quarter enough, or should I plan other food experiences too?
 - how do I stop Xi'an food from becoming a random snack checklist?
 
-If the broader city decision is still open, keep [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) nearby too. If the live question is which Xi'an dishes should shape the stay, this page is the narrower answer.
+If the broader city decision is still open, keep [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) nearby too. If the live question is which Xi'an dishes should shape the stay, this page is the narrower answer.
 
 If the dish list already is clear and the real question has become which part of Xi'an should carry each meal, the next page is [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/).
 
@@ -295,7 +295,7 @@ That already gives a clearer Xi'an food picture than chasing every famous item i
 - read [What to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/what-to-eat-around-bell-tower-and-south-gate-in-xian/) if you already know one calmer old-city meal belongs in the trip and now need the narrower dish-by-dish version
 - read [Xi'an Muslim Quarter Food Guide for First-Time Visitors](/guides/xian-muslim-quarter-food-guide-for-first-time-visitors/) if you already know one old-city food block belongs in the trip and now need to make it more practical
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if the number of days still decides how ambitious the food plan can be
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want to place the meals into a real short route
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want to place the meals into a real short route
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the trip has room for a fuller food, museum, or pagoda-side rhythm
 - read [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if one old-city food block already is becoming the main decision
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you want to pair the food layer with the strongest daytime old-city anchor

@@ -21,6 +21,7 @@ relatedTopicSlugs:
   - "metro-taxi-ridehailing"
   - "best-time-to-visit-china"
 relatedGuideSlugs:
+  - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-pudong-airport-to-city-center"
   - "shanghai-3-day-itinerary"
 tags:
@@ -119,5 +120,6 @@ That is also why this page usually belongs after [The Bund](/places/the-bund/) i
 ## Which page to read next
 
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are still comparing skyline options
+- read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to judge whether Lujiazui is a core Shanghai priority or only a selective upgrade
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) if Pudong-side logistics are part of the same day
-- read [A Balanced 3-Day Shanghai Itinerary](/guides/shanghai-3-day-itinerary/) if you need to place the skyline decision into a short route
+- read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you need to place the skyline decision into a short route

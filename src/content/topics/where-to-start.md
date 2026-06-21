@@ -65,7 +65,7 @@ If you already know the likely first stop, go narrower instead of staying here t
 - [Should Beijing Be Your First Stop in China?](/guides/beijing-first-china-stop/)
 - [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/)
 - [Chengdu for First-Time Visitors: Slow the Pace and Plan Around Food](/guides/chengdu-first-time-guide/)
-- [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/)
+- [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/)
 
 ## Start with the trip you actually want
 
@@ -222,7 +222,7 @@ If the real tension is not only style but also budget, pair this page with [How 
 - read [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/) if those two cities are the main finalists and you want the route tradeoff clearly explained
 - read [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/) if Shanghai is already in and the route needs one softer east-China extension
 - read [Chengdu for First-Time Visitors: Slow the Pace and Plan Around Food](/guides/chengdu-first-time-guide/) if you want a softer first-trip rhythm
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if you want a shorter history-first stop
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if you want a shorter history-first stop
 - read [How Much Does a Trip to China Cost in 2026?](/topics/china-trip-cost-2026/) if cost is starting to decide which combination of cities still feels realistic
 - read [How Many Days Do You Need for Your First China Trip?](/topics/how-many-days-do-you-need-for-your-first-china-trip/) if the route still is not stable because the total trip window is unclear
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if the real blocker is total route shape rather than the first city alone

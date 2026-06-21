@@ -50,7 +50,7 @@ This page is best for travelers who:
 - want the city wall, old core, and food to feel protected too
 - do not want the trip to feel like one excursion and one rushed cleanup day
 
-If you still are not sure whether Xi'an itself belongs in the route, start with [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/).
+If you still are not sure whether Xi'an itself belongs in the route, start with [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/).
 
 If the main open question still is whether Xi'an should stay tighter, read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) before you commit to this fuller version.
 
@@ -98,6 +98,8 @@ If the forecast is shaky and the third day may need to move indoors, keep [Rainy
 
 If the third day still feels too vague because the museum option has not been judged honestly enough, keep [Best Museums in Xi'an for First-Time Visitors](/guides/best-museums-in-xian-for-first-time-visitors/) open too.
 
+If the fuller version still feels too sprawling because too many names are competing for Day 3, keep [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) open too.
+
 ## Day 1: Old city, city wall, and one real Xi'an evening
 
 The first day should make Xi'an feel grounded early.
@@ -127,6 +129,8 @@ If the day already definitely includes the Muslim Quarter and the live question 
 If the route instead needs one calmer Bell Tower or South Gate dinner to balance the higher-energy old-city food block, [Where to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian/) is the narrower next page.
 
 If the route already knows one calmer old-city meal belongs there and the real question is which dish deserves that slot, use [What to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/what-to-eat-around-bell-tower-and-south-gate-in-xian/).
+
+If the route is leaning more central than South Gate and the real question is whether Bell Tower deserves a deliberate stop at all, the narrower place page is [Is Xi'an Bell Tower Worth Visiting for First-Time Visitors?](/places/xian-bell-tower/).
 
 ### What not to do on Day 1
 
@@ -256,7 +260,7 @@ The route gets better when you decide what the third day is actually for.
 
 ## When the 2-day version is better
 
-Use [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) instead if:
+Use [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) instead if:
 
 - Xi'an is only one compact stop in a wider route
 - food and slower evenings matter less than efficiency
@@ -275,7 +279,8 @@ Two days is still strong. Three days is simply the better version when you want 
 
 ## Which page to read next
 
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if Xi'an still needs to be weighed against other China stops
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if Xi'an still needs to be weighed against other China stops
+- read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if the fuller version still needs a cleaner priority order
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if you still are deciding whether the fuller version is worth it
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the hotel base still is not settled
 - read [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/) if the hotel answer depends on whether the fuller south-side version really is worth changing the base for

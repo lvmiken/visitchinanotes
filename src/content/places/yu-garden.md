@@ -21,6 +21,7 @@ relatedTopicSlugs:
   - "metro-taxi-ridehailing"
   - "best-time-to-visit-china"
 relatedGuideSlugs:
+  - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-first-time-guide"
   - "shanghai-3-day-itinerary"
 tags:
@@ -107,5 +108,6 @@ For many first-time trips, Yu Garden works best once the skyline question is alr
 ## Which page to read next
 
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are building the same central day
-- read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/) if the wider city priorities are still unsettled
-- read [A Balanced 3-Day Shanghai Itinerary](/guides/shanghai-3-day-itinerary/) if you are trying to keep old-city logic inside a short stay
+- read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to judge whether Yu Garden deserves the traditional-contrast slot in your short stay
+- read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the wider city priorities are still unsettled
+- read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are trying to keep old-city logic inside a short stay

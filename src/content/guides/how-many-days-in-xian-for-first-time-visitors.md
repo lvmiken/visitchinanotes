@@ -46,7 +46,7 @@ Use this page if you are asking:
 - should I give Xi'an 2 days or 3?
 - when does an extra day really help instead of just stretching the route?
 
-If the city itself is still not fully confirmed, start with [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/). If Xi'an already is confirmed and the live decision now is trip length, this page is the narrower next step.
+If the city itself is still not fully confirmed, start with [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/). If Xi'an already is confirmed and the live decision now is trip length, this page is the narrower next step.
 
 ## The short answer
 
@@ -116,7 +116,7 @@ That is where the city often becomes:
 - one old-city day built around the wall, central core, and food
 - enough evening room that Xi'an feels lived-in instead of only checked off
 
-That is exactly why [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) works so well as the default execution page.
+That is exactly why [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) works so well as the default execution page.
 
 ### Who should choose 2 days
 
@@ -217,8 +217,8 @@ Xi'an is at its best when it simplifies the route, not when it quietly bloats it
 
 ## Which page to read next
 
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if Xi'an still is being compared with other route options
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are leaning toward the default sweet-spot version
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if Xi'an still is being compared with other route options
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are leaning toward the default sweet-spot version
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the route is already leaning toward the fuller, slower Xi'an version
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [Best Time to Visit Xi'an for First-Time Visitors](/guides/best-time-to-visit-xian-for-first-time-visitors/) if dates are still flexible and season choice may change how much Xi'an you want to carry

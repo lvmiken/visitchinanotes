@@ -138,6 +138,7 @@ If your real question is already attraction-specific, the narrower guide will us
 ### Xi'an
 
 - [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) is the main reservation page if the Terracotta Army is the anchor excursion.
+- [How to Book Shaanxi History Museum Tickets as a Foreigner](/topics/how-to-book-shaanxi-history-museum-tickets/) is the narrower museum-ticket page if the main Xi'an booking problem is the city's biggest indoor history reservation.
 - [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) helps if you are still deciding how much of the Xi'an stay this visit should shape.
 
 ### Shanghai
@@ -165,7 +166,7 @@ Terracotta Army timing can decide:
 - whether the airport, rail arrival, or the excursion day should come first
 - whether the city stop still works as a short two-day block
 
-That is why this page pairs naturally with [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/), [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/), and city-day pages like [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
+That is why this page pairs naturally with [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/), [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/), and city-day pages like [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
 
 ## How to tell whether a reservation is a real anchor
 
@@ -219,9 +220,10 @@ That order is usually safer than building a very detailed day and only later dis
 
 - read [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) if the real booking problem is the Palace Museum
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the Xi'an anchor excursion is the issue
+- read [How to Book Shaanxi History Museum Tickets as a Foreigner](/topics/how-to-book-shaanxi-history-museum-tickets/) if the Xi'an museum booking itself has become the real blocker
 - read [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) if the real booking problem is the Shanghai Disney day
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how much of the Xi'an stay should revolve around that excursion
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still shaping the city rather than the exact booking
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the reservation question is really about whether the short Xi'an stop still works in the current order
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the reservation question is really about whether the short Xi'an stop still works in the current order
 - read [Zhangjiajie First-Time Park Planning](/guides/zhangjiajie-first-time-park-planning/) if the route includes park logistics and timing pressure
 - treat this page as the parent reservations hub, then move into narrower attraction-specific guides as they are published

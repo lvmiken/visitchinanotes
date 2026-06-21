@@ -264,4 +264,4 @@ These mistakes usually make Xi'an feel heavier, not richer.
 - read [What to Eat Around Bell Tower and South Gate in Xi'an With Kids](/guides/what-to-eat-around-bell-tower-and-south-gate-in-xian-with-kids/) if the calmer old-city meal slot already is chosen and the family now needs the narrower dish decision
 - read [What to Do in Xi'an at Night With Kids for First-Time Visitors](/guides/what-to-do-in-xian-at-night-with-kids/) if the route is clear but the family still needs the easiest evening logic after each day
 - read [Xi'an 3-Day Itinerary With Kids for First-Time Visitors](/guides/xian-3-day-itinerary-with-kids/) if the family can stretch to a fuller version with more buffer
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you also want the broader adult-first version for comparison
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you also want the broader adult-first version for comparison

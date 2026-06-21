@@ -233,11 +233,11 @@ If the trip dates are already fixed and the real concern now is how to rescue on
 
 ## Which page to read next
 
-- read [Xi'an for First-Time Visitors: Why the City Works So Well on a Short China Route](/guides/xian-first-time-guide/) if timing is only one part of deciding whether Xi'an belongs in the trip
+- read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if timing is only one part of deciding whether Xi'an belongs in the trip
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if season choice may change whether the stop should be 2 or 3 days
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the dates are mostly set and the next real decision is hotel area
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the key season-related concern is whether the excursion day will feel too heavy
 - read [Rainy Day in Xi'an for First-Time Visitors](/guides/rainy-day-in-xian-for-first-time-visitors/) if the dates are fixed and you want the weather-backup version of this timing decision
 - read [What to Wear in China by Season and City](/topics/what-to-wear-in-china/) if your dates are nearly fixed and the next decision is practical clothing
 - read [China Packing List for First-Time Visitors](/topics/china-packing-list-for-first-time-visitors/) if the season is chosen and you want the trip to feel easier in practice
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the dates are nearly fixed and you want the day structure next
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the dates are nearly fixed and you want the day structure next

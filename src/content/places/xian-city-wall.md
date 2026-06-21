@@ -22,6 +22,7 @@ relatedTopicSlugs:
   - "metro-taxi-ridehailing"
 relatedGuideSlugs:
   - "xian-first-time-guide"
+  - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
 tags:
   - "Xi'an"
@@ -79,6 +80,8 @@ The wall usually pairs best with:
 - another old-city walk
 - an easier evening rather than another transfer-heavy commitment
 
+If the calmer old-city answer already is clearly the right evening follow-on, [Is Xi'an South Gate Worth Visiting for First-Time Visitors?](/places/xian-south-gate/) is the most natural next page because it explains when the wall-side rhythm adds more value than a more central Bell Tower finish.
+
 That is often stronger than jumping immediately to a distant modern district or another unrelated attraction.
 
 ## Common mistakes
@@ -90,7 +93,8 @@ That is often stronger than jumping immediately to a distant modern district or 
 
 ## Which page to read next
 
-- read [A Practical 2-Day Xi'an Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing this into the city day now
+- read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing this into the city day now
+- read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if the route still needs a clearer in-city priority order
 - read [Is Xi'an City Wall Worth It With Kids?](/guides/is-xian-city-wall-worth-it-with-kids/) if the real decision is whether the wall still is the right family choice by age, weather, and energy
 - read [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if you are pairing heritage with food and street-life time
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if old-city logic is influencing your hotel choice

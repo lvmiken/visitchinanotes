@@ -44,6 +44,7 @@ This page is best for travelers who are still trying to answer broad Shanghai qu
 If you already know the exact decision, the narrower page is usually more helpful:
 
 - [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/)
+- [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the main question now is which Shanghai experiences truly deserve limited trip time
 - [Best Time to Visit Shanghai for First-Time Visitors](/guides/best-time-to-visit-shanghai-for-first-time-visitors/)
 - [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/)
 - [Shanghai With Kids for First-Time Visitors](/guides/shanghai-with-kids-for-first-time-visitors/) if the route needs the family version instead of the general city version
@@ -161,6 +162,8 @@ If Shanghai still feels too abstract, open the place pages in the order many sho
 - then use [French Concession](/places/french-concession/) to shape the slower neighborhood day
 - then compare [Yu Garden](/places/yu-garden/) with [Shanghai Museum](/places/shanghai-museum/) for the classic old-core or weather-proof final layer
 
+If you want one adult shortlist that decides which of those blocks deserve the best time on a short stay, read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/).
+
 ## A realistic length guide
 
 For most first-time visitors:
@@ -215,6 +218,7 @@ The fix is usually not "add more attractions." It is "use the city for the kind 
 - read [Where to Stay in Shanghai With Kids for First-Time Visitors](/guides/where-to-stay-in-shanghai-with-kids/) if the family version is happening and the hotel base is the next actual decision
 - read [Best Things to Do in Shanghai With Kids](/guides/best-things-to-do-in-shanghai-with-kids/) if the family version is confirmed and the itinerary now needs a stronger attraction shortlist
 - read [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) if the city is chosen and trip length is still the main open decision
+- read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and the live question is which stops truly deserve prime time
 - read [Best Time to Visit Shanghai for First-Time Visitors](/guides/best-time-to-visit-shanghai-for-first-time-visitors/) if dates are still flexible and season choice may change how the stop should work
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the city is chosen and the next problem is protecting the right bookings without overplanning
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the city is chosen and the next practical question is how to move around it without friction
