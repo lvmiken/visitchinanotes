@@ -22,6 +22,11 @@ tags:
   - "Beijing"
   - "First trip"
   - "Itinerary planning"
+heroImage: "/images/heroes/beijing-skyline.jpg"
+heroImageAlt: "Beijing CBD skyline seen across the water at dusk."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_from_the_southeast_(20210907094201).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "How many days should first-time visitors spend in Beijing?"

@@ -1,0 +1,51 @@
+---
+interface Props {
+  src: string;
+  alt: string;
+  attributionName?: string;
+  attributionUrl?: string;
+  license?: string;
+}
+
+const { src, alt, attributionName, attributionUrl, license } = Astro.props;
+---
+
+<figure class="hero-image card-surface">
+  <img src={src} alt={alt} loading="eager" decoding="async" />
+  {(attributionName || license) && (
+    <figcaption>
+      <span>Photo</span>
+      {": "}
+      {attributionName && attributionUrl ? (
+        <a href={attributionUrl} rel="nofollow noopener noreferrer" target="_blank">{attributionName}</a>
+      ) : (
+        attributionName
+      )}
+      {license && attributionName && " · "}
+      {license && <span>{license}</span>}
+    </figcaption>
+  )}
+</figure>
+
+<style>
+  .hero-image {
+    overflow: hidden;
+    padding: 0;
+  }
+
+  .hero-image img {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+  }
+
+  .hero-image figcaption {
+    padding: 0.7rem 1rem 0.95rem;
+    color: var(--muted);
+    font-size: 0.88rem;
+  }
+
+  .hero-image a {
+    color: inherit;
+  }
+</style>

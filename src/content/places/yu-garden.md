@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-first-time-guide"
   - "shanghai-3-day-itinerary"
+heroImage: "/images/heroes/yu-garden.jpg"
+heroImageAlt: "Illuminated pavilions and water reflections at Yu Garden in Shanghai."
+heroImageAttributionName: "Stefan Fussan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shanghai_-_Yu_Garden_-_0034.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Shanghai"
   - "Yu Garden"

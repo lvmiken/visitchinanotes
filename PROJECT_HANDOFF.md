@@ -799,6 +799,13 @@ npm run dev
 npm run build
 ```
 
+Build note:
+
+- On 2026-06-22, Astro `Duplicate id` warnings were confirmed to be stale generated-cache noise when recently edited content still existed in `.astro/data-store.json`.
+- Removing `.astro/data-store.json` and rerunning `npm run build` produced a clean build with no duplicate-id warnings.
+- Do not treat those warnings as proof that two real source files exist unless a clean build still shows them.
+- If the warning returns only after recent edits, clear the generated `.astro` cache first before renaming or deleting content files.
+
 Git / deploy flow:
 
 ```bash

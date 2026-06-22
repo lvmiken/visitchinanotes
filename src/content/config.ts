@@ -14,6 +14,14 @@ const planningPrioritySchema = z.array(
   }),
 );
 
+const heroImageMetaSchema = {
+  heroImage: z.string().optional(),
+  heroImageAlt: z.string().optional(),
+  heroImageAttributionName: z.string().optional(),
+  heroImageAttributionUrl: z.string().url().optional(),
+  heroImageLicense: z.string().optional(),
+};
+
 const guideStageEnum = z.enum([
   "choose-destination",
   "plan-stay",
@@ -41,8 +49,8 @@ const guides = defineCollection({
     keyTakeaways: z.array(z.string()).default([]),
     relatedTopicSlugs: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    heroImage: z.string().optional(),
     ogImage: z.string().optional(),
+    ...heroImageMetaSchema,
     author: z.string(),
     draft: z.boolean().default(false),
     faq: faqSchema.default([]),
@@ -66,8 +74,8 @@ const cities = defineCollection({
     planningPriorities: planningPrioritySchema.default([]),
     transportNote: z.string(),
     homepageGroups: z.array(z.string()).default([]),
-    heroImage: z.string().optional(),
     ogImage: z.string().optional(),
+    ...heroImageMetaSchema,
     featuredGuideSlugs: z.array(z.string()).default([]),
     featuredTopicSlugs: z.array(z.string()).default([]),
     featuredPlaceSlugs: z.array(z.string()).default([]),
@@ -89,8 +97,8 @@ const topics = defineCollection({
     beforeYouBookChecklist: z.array(z.string()).default([]),
     relatedGuideSlugs: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    heroImage: z.string().optional(),
     ogImage: z.string().optional(),
+    ...heroImageMetaSchema,
     author: z.string(),
     draft: z.boolean().default(false),
     faq: faqSchema.default([]),
@@ -111,8 +119,8 @@ const places = defineCollection({
     relatedTopicSlugs: z.array(z.string()).default([]),
     relatedGuideSlugs: z.array(z.string()).default([]),
     tags: z.array(z.string()).default([]),
-    heroImage: z.string().optional(),
     ogImage: z.string().optional(),
+    ...heroImageMetaSchema,
     author: z.string(),
     draft: z.boolean().default(false),
     faq: faqSchema.default([]),

@@ -23,6 +23,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-4-day-itinerary"
+heroImage: "/images/heroes/summer-palace.jpg"
+heroImageAlt: "Painted Long Gallery walkway at the Summer Palace in Beijing."
+heroImageAttributionName: "Kallgan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Long_Gallery,_Summer_Palace_at_Beijing.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Beijing"
   - "Summer Palace"

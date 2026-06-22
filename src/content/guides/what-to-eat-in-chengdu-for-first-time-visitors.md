@@ -2,7 +2,7 @@
 title: "What to Eat in Chengdu for First-Time Visitors"
 description: "Find out which Chengdu foods are actually worth your limited meals, from hotpot and chuanchuan to dan dan noodles, Zhong dumplings, mapo tofu, and the slower Sichuan dinners that make the city feel full."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-22
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -83,6 +83,8 @@ These are the foods that fit naturally into a real city day:
 - easier snack foods
 
 These often give Chengdu more everyday personality than a second big dinner.
+
+If the real question now is not the bigger food structure but how one Chengdu morning should actually work, the narrower next page is [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/).
 
 ### Layer 3: fuller Sichuan table dishes
 
@@ -254,6 +256,7 @@ If the trip is short, many readers do well with:
 ## Which page to read next
 
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the next decision is which district should carry the hotpot night, the noodle lunch, or the easier final dinner
+- read [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/) if the useful missing layer is one local morning food stop rather than another big dinner
 - read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) if the next decision is where Chengdu's slower tea-house layer actually belongs in the trip
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the food plan still depends on which city blocks deserve the best time
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if the city's overall role in the route still feels too broad

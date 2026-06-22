@@ -23,6 +23,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-4-day-itinerary"
   - "best-museums-in-beijing-for-first-time-visitors"
+heroImage: "/images/heroes/national-museum-of-china.jpg"
+heroImageAlt: "National Museum of China facade seen from Tiananmen Square."
+heroImageAttributionName: "Soramimi"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:National_Museum_of_China_from_Tiananmen_Square.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "National Museum of China"

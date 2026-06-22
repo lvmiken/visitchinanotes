@@ -23,6 +23,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-4-day-itinerary"
+heroImage: "/images/heroes/mutianyu-great-wall.jpg"
+heroImageAlt: "Mutianyu section of the Great Wall winding over green mountain ridges."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:66954-The-Great-Wall,_Mutianyu.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Beijing"
   - "Great Wall"

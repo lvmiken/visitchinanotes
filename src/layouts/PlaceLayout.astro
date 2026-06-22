@@ -8,6 +8,7 @@ import GuideCard from "../components/GuideCard.astro";
 import TopicCard from "../components/TopicCard.astro";
 import PlaceCard from "../components/PlaceCard.astro";
 import PlanningHelpCallout from "../components/PlanningHelpCallout.astro";
+import HeroImage from "../components/HeroImage.astro";
 import { findAuthorEntry, getAuthorSlug } from "../lib/authors";
 import { findCityEntry, getCitySlug } from "../lib/cityEntries";
 import { organizationName } from "../lib/site";
@@ -50,6 +51,7 @@ const nearbyPlaces = allPlaces
   .slice(0, 3);
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const heroImageUrl = place.data.heroImage ? new URL(place.data.heroImage, siteUrl).href : undefined;
 const breadcrumbs = [
   { label: "Home", href: "/" },
   { label: "Places", href: "/places/" },
@@ -90,6 +92,7 @@ const articleSchema = {
     name: organizationName,
   },
   mainEntityOfPage: canonical,
+  ...(heroImageUrl ? { image: [heroImageUrl] } : {}),
   articleSection: "Place Guide",
   keywords: place.data.tags.join(", "),
 };
@@ -99,6 +102,7 @@ const placeSchema = {
   name: place.data.title,
   description: place.data.description,
   url: canonical,
+  ...(heroImageUrl ? { image: heroImageUrl } : {}),
   ...(cityHub
     ? {
         touristType: place.data.whoItsFor,
@@ -177,6 +181,18 @@ const socialImage = getPlaceSocialImage(place);
       </ul>
     </aside>
   </section>
+
+  {place.data.heroImage && (
+    <section class="section-block">
+      <HeroImage
+        src={place.data.heroImage}
+        alt={place.data.heroImageAlt ?? place.data.title}
+        attributionName={place.data.heroImageAttributionName}
+        attributionUrl={place.data.heroImageAttributionUrl}
+        license={place.data.heroImageLicense}
+      />
+    </section>
+  )}
 
   <section class="section-block card-surface">
     <p class="eyebrow">Part Of The Cluster</p>

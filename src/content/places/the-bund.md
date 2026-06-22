@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-first-time-guide"
   - "shanghai-3-day-itinerary"
+heroImage: "/images/heroes/the-bund.jpg"
+heroImageAlt: "Sunset over the Bund in Shanghai with skyline glow across the river."
+heroImageAttributionName: "David Zhang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Sunset_at_the_Bund,_Shanghai_2019.jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Shanghai"
   - "The Bund"

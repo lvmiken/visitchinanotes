@@ -22,6 +22,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-4-day-itinerary"
+heroImage: "/images/heroes/temple-of-heaven.jpg"
+heroImageAlt: "The Hall of Prayer for Good Harvests at the Temple of Heaven in Beijing."
+heroImageAttributionName: "Shujianyang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Temple_of_Heaven_20160323_01.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Temple of Heaven"

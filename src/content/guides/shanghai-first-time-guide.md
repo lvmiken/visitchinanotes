@@ -22,6 +22,11 @@ tags:
   - "Shanghai"
   - "First trip"
   - "Urban travel"
+heroImage: "/images/heroes/shanghai-skyline.jpg"
+heroImageAlt: "Pudong skyline in Shanghai with the Oriental Pearl Tower and riverfront towers."
+heroImageAttributionName: "Jens Schott Knudsen"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pudong_Skyline,_Shanghai,_PRC.jpg"
+heroImageLicense: "CC BY 2.0"
 author: "Editorial Team"
 faq:
   - question: "Is Shanghai a good first city to visit in China?"

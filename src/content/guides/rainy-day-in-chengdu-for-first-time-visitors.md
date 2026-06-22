@@ -119,6 +119,7 @@ If your Chengdu day was mainly:
 - tea houses
 - `People's Park`
 - a long `Wenshu Monastery` and wandering block
+- a slower `Du Fu Thatched Cottage` style block if the weather is bad enough to flatten its calmer outdoor value
 - a soft `Kuanzhai Alley` session
 
 rain often is the sign to shorten the outdoor part and attach it to an indoor anchor or stronger meal plan instead of forcing a full wandering day.

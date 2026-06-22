@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-first-time-guide"
   - "shanghai-3-day-itinerary"
+heroImage: "/images/heroes/shanghai-museum.jpg"
+heroImageAlt: "Exterior of Shanghai Museum at People's Square."
+heroImageAttributionName: "Hanjiang 2009"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shanghai_Museum_exterior_1.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Shanghai"
   - "Shanghai Museum"

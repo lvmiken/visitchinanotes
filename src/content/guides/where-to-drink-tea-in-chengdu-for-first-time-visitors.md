@@ -115,6 +115,10 @@ This area usually works best when you want:
 - a temple-and-tea rhythm instead of a busier park scene
 - a stop that feels reflective instead of performative
 
+If the real question now is whether that calmer answer deserves one of your limited Chengdu blocks at all, how long it needs, and when it beats Kuanzhai Alley or People's Park, the narrower next page is [Wenshu Monastery in Chengdu: Is It Worth Visiting on a First Trip?](/places/wenshu-monastery/).
+
+If the live decision already is whether the calmer block should stay tea-led and lighter or become fuller and more literary, [Wenshu Monastery or Du Fu Thatched Cottage: Which Chengdu Cultural Stop Is Better for First-Time Visitors?](/guides/wenshu-monastery-or-du-fu-thatched-cottage-for-first-time-visitors/) is the better comparison page.
+
 This is often the better choice for:
 
 - solo travelers
@@ -144,6 +148,8 @@ This is often the strongest choice when the trip already has:
 - one panda morning
 - one classic tea or cultural block
 - one evening that still needs to feel urban and local
+
+If the real question now is whether that urban-and-local answer should happen in Yulin at all, the narrower next page is [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/).
 
 If the tea stop is really part of a broader evening shape, [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) is the next page to keep open.
 
@@ -225,5 +231,7 @@ You do not need to prove you understand Chengdu by collecting multiple tea stops
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you still need to decide how much time tea deserves against pandas, old streets, and food
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the tea stop is clear but the day order is not
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the next decision is which district should turn that tea stop into a fuller lunch or dinner block
+- read [Wenshu Monastery in Chengdu: Is It Worth Visiting on a First Trip?](/places/wenshu-monastery/) if the real question is whether the calmer temple-and-tea answer deserves time at all
+- read [Wenshu Monastery or Du Fu Thatched Cottage: Which Chengdu Cultural Stop Is Better for First-Time Visitors?](/guides/wenshu-monastery-or-du-fu-thatched-cottage-for-first-time-visitors/) if the real question is whether the calmer stop should stay lighter and tea-led or become a fuller reflective block
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if tea is really shaping how the evening should feel
 - read [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/) if weather may decide whether tea becomes the main rescue move

@@ -7,6 +7,7 @@ import TopicCard from "../../components/TopicCard.astro";
 import CityCard from "../../components/CityCard.astro";
 import PlaceCard from "../../components/PlaceCard.astro";
 import PlanningHelpCallout from "../../components/PlanningHelpCallout.astro";
+import HeroImage from "../../components/HeroImage.astro";
 import { guideStages } from "../../lib/guideStages";
 import { findCityEntry, getCitySlug, uniqueCityEntries } from "../../lib/cityEntries";
 import { getCitySocialImage } from "../../lib/socialImages";
@@ -183,6 +184,7 @@ const pairingCities = uniqueCityEntries(
 );
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const canonical = new URL(Astro.url.pathname, siteUrl).href;
+const heroImageUrl = city.data.heroImage ? new URL(city.data.heroImage, siteUrl).href : undefined;
 const pageSchemas = [
   {
     "@context": "https://schema.org",
@@ -214,6 +216,7 @@ const pageSchemas = [
     name: city.data.name,
     description: city.data.seoDescription,
     url: canonical,
+    ...(heroImageUrl ? { image: heroImageUrl } : {}),
     touristType: city.data.idealFor,
   },
 ];
@@ -251,6 +254,18 @@ const socialImage = getCitySocialImage(city);
       <p class="muted">Best months: {city.data.bestMonths.join(", ")}</p>
     </aside>
   </section>
+
+  {city.data.heroImage && (
+    <section class="section-block">
+      <HeroImage
+        src={city.data.heroImage}
+        alt={city.data.heroImageAlt ?? `${city.data.name} skyline or landmark view`}
+        attributionName={city.data.heroImageAttributionName}
+        attributionUrl={city.data.heroImageAttributionUrl}
+        license={city.data.heroImageLicense}
+      />
+    </section>
+  )}
 
   <section class="section-block">
     <h2 class="section-title">Start Here in {city.data.name}</h2>

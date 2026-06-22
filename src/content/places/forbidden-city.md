@@ -23,6 +23,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-4-day-itinerary"
+heroImage: "/images/heroes/forbidden-city.jpg"
+heroImageAlt: "Panoramic view over the Forbidden City rooftops from Coal Hill in Beijing."
+heroImageAttributionName: "Pixelflake"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_Forbidden_City_-_View_from_Coal_Hill.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Beijing"
   - "Forbidden City"
