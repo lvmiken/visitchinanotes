@@ -152,7 +152,7 @@ This is the point where the places cluster starts fitting more naturally into th
 
 - [The Bund](/places/the-bund/) and [Lujiazui Skyline](/places/lujiazui-skyline/) for the skyline layer
 - [French Concession](/places/french-concession/) for the neighborhood layer
-- [Yu Garden](/places/yu-garden/) and [Shanghai Museum](/places/shanghai-museum/) for the classic-core or indoor layer
+- [Yu Garden](/places/yu-garden/), [Shanghai Museum](/places/shanghai-museum/), and [Jade Buddha Temple](/places/jade-buddha-temple/) for the classic-core, indoor, or calmer temple layer
 
 ### Who benefits most from 4 days
 
@@ -180,6 +180,7 @@ It is:
 
 - `3 city days in Shanghai`
 - `1 slower flexible day`
+- `1 softer city-edge outing such as [Zhujiajiao Water Town](/places/zhujiajiao-water-town/)` if you want a canal-town contrast without turning the whole extension into another major city
 - `1 extension day` such as [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/)
 
 That usually creates a better East China rhythm than forcing five dense Shanghai-only days.

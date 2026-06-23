@@ -2,7 +2,7 @@
 title: "What to Do in Chengdu at Night for First-Time Visitors"
 description: "Choose between Jinli, Chunxi Road and Taikoo Li, Jiuyanqiao, Yulin, or a teahouse and Sichuan opera night based on your energy, hotel area, and how lively or cultural you want the evening to feel."
 publishDate: 2026-06-21
-updatedDate: 2026-06-22
+updatedDate: 2026-06-23
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -109,6 +109,10 @@ Jinli is often best when the night should feel atmospheric without becoming a fu
 
 If the real question now is whether Jinli deserves one of your limited evenings at all, how long to stay, and when it beats Kuanzhai Alley or a more local night, the narrower next page is [Jinli in Chengdu: Is It Worth Visiting on a First Trip?](/places/jinli/).
 
+If the real question now is not whether this traditional evening deserves the slot but which snacks are actually worth trying once you are there, the narrower next page is [Best Chengdu Snacks for First-Time Visitors](/guides/best-chengdu-snacks-for-first-time-visitors/).
+
+If the traditional-core evening already looks right and the live question is how to combine [Wuhou Shrine](/places/wuhou-shrine/) with [Jinli](/places/jinli/) into one controlled late-afternoon-and-evening branch, the cleaner execution page is [How to Plan a Wuhou Shrine and Jinli Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors/).
+
 If the evening already is clearly going to be one traditional-core stop and the only open question is whether that should be the shorter central atmosphere answer or the fuller Wuhou Shrine-side answer, the more focused comparison page is [Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?](/guides/kuanzhai-alley-or-jinli-for-first-time-visitors/).
 
 It is usually weaker when:
@@ -141,6 +145,10 @@ It is also often the cleanest answer if the evening should center on:
 - one straightforward dinner before heading back early
 
 If the real question now is not whether the central modern evening should happen here, but how to turn it into a useful dinner-and-walk block, the narrower execution page is [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/).
+
+If the real question now is not the dinner block but whether one lighter central snack session would fit better than another full meal, the narrower next page is [Best Chengdu Snacks for First-Time Visitors](/guides/best-chengdu-snacks-for-first-time-visitors/).
+
+If the real question now is not the whole central evening but what dessert actually fits after dinner, shopping, or a shorter walk, the narrower next page is [Best Chengdu Desserts for First-Time Visitors](/guides/best-chengdu-desserts-for-first-time-visitors/).
 
 ## 3. Livelier food-and-drinks night: choose Jiuyanqiao or Yulin
 
@@ -180,6 +188,10 @@ If the real question now is not whether Yulin deserves the evening, but how to u
 
 If the food side of that night already is the real question, [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) is the narrower next page.
 
+If the evening already is food-led and the live question is how to finish it with one useful sweet instead of overordering another savory stop, the narrower next page is [Best Chengdu Desserts for First-Time Visitors](/guides/best-chengdu-desserts-for-first-time-visitors/).
+
+If the evening already is likely to be food-led and the real open question is whether that dinner should be a lighter, more flexible chuanchuan night instead of hot pot, the matching page is [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/).
+
 ## 4. Slower culture-led evening: choose a teahouse or Sichuan opera night
 
 Not every good Chengdu evening needs bars or shopping.
@@ -199,6 +211,8 @@ This is often the strongest choice when:
 
 This kind of night is often stronger than forcing one more crowded street just because it sounds famous.
 
+If the real question now is not whether a slower culture-led evening belongs in the trip at all, but which Chengdu opera show actually fits best, the narrower next page is [Best Sichuan Opera Show in Chengdu for First-Time Visitors](/guides/best-sichuan-opera-show-in-chengdu-for-first-time-visitors/).
+
 ## Match the evening to the right day
 
 ## Best evening after the panda day
@@ -210,6 +224,8 @@ The best answer is often the least glamorous one:
 - one softer `Yulin` evening only if energy is still real
 
 This is usually not the smartest night to chase the most complicated nightlife plan.
+
+If the live question already is not only the evening but the whole post-panda afternoon-and-night shape, the cleaner execution page is [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/).
 
 ## Best evening after the traditional-core day
 
@@ -288,6 +304,9 @@ That already gives the city more range than leaving every night unplanned.
 
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to see where one or two evenings actually fit inside a short stay
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the real question is how much of Chengdu should be built around nightlife, old streets, culture, or food
+- read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the real question is how to use the whole panda-day second half instead of only the night
+- read [Best Sichuan Opera Show in Chengdu for First-Time Visitors](/guides/best-sichuan-opera-show-in-chengdu-for-first-time-visitors/) if the slower culture-led evening already is winning and the live question now is which show fits the trip better
+- read [How to Plan a Wuhou Shrine and Jinli Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors/) if the real question is how to run one traditional-core afternoon or evening well
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the real question is which district should carry the night
 - read [Jinli in Chengdu: Is It Worth Visiting on a First Trip?](/places/jinli/) if the real question is whether Jinli should be the traditional evening at all
 - read [Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?](/guides/kuanzhai-alley-or-jinli-for-first-time-visitors/) if the evening already should be traditional and the remaining question is which old-street area fits better
@@ -296,7 +315,11 @@ That already gives the city more range than leaving every night unplanned.
 - read [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if the real question is whether the trip's livelier night should happen there or stay easier
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the real question is whether the trip's local evening should happen there or somewhere livelier
 - read [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/) if Yulin already has won and the next question is how to turn it into a useful meal-and-walk block
+- read [Best Chengdu Cafes for First-Time Visitors](/guides/best-chengdu-cafes-for-first-time-visitors/) if the evening already is shaped and the live question is whether coffee belongs before dessert, drinks, or the walk home
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) if the real question is which meals deserve the most valuable evening slot
+- read [Best Chengdu Snacks for First-Time Visitors](/guides/best-chengdu-snacks-for-first-time-visitors/) if the evening already is shaped and the live question is which lighter snack layer actually deserves time
+- read [Best Chengdu Desserts for First-Time Visitors](/guides/best-chengdu-desserts-for-first-time-visitors/) if the evening already is shaped and the live question is which sweet finish actually improves the night
+- read [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/) if the evening likely should stay food-led and the live question is whether a lighter skewer night fits better than full hot pot
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the next-morning panda plan is what limits how ambitious tonight should be
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if the city's overall role in the route still feels too broad

@@ -2,7 +2,7 @@
 title: "A Practical 3-Day Chengdu Itinerary for First-Time Visitors"
 description: "A realistic three-day Chengdu itinerary for first-time visitors who want food, one anchor attraction, and a city pace that still feels relaxed."
 publishDate: 2026-06-17
-updatedDate: 2026-06-22
+updatedDate: 2026-06-23
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -74,6 +74,16 @@ This is the best day for the trip's main attraction, especially if panda logisti
 
 For most first-time visitors, that usually means using the panda base as a protected morning rather than a loose half-day errand.
 
+If Day 2 already clearly belongs to the panda base and the next live question is whether the afternoon should stay central, become tea-led, or simply protect an easier evening, the cleaner execution page is [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/).
+
+If Day 2 already clearly belongs to the panda base and the next live question has narrowed further to what lunch or early dinner should actually happen after it, the cleaner food child page is [Where to Eat After Chengdu Panda Base for First-Time Visitors](/guides/where-to-eat-after-chengdu-panda-base-for-first-time-visitors/).
+
+If Day 2 already clearly belongs to the panda base and the next live question is whether the safest central Chunxi Road and Taikoo Li branch should carry the softer second act, the cleaner decision page is [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/).
+
+If Day 2 already clearly belongs to the panda base and the next live question is specifically whether the softer second act should be People's Park, the cleaner decision page is [Should You Go to People's Park After Chengdu Panda Base?](/guides/should-you-go-to-peoples-park-after-chengdu-panda-base/).
+
+If Day 2 already clearly belongs to the panda base and the next live question is whether the softer second act should stay quieter and temple-led instead, the cleaner decision page is [Should You Go to Wenshu Monastery After Chengdu Panda Base?](/guides/should-you-go-to-wenshu-monastery-after-chengdu-panda-base/).
+
 ### Day 3: Build around atmosphere, not urgency
 
 Use the final day for the version of Chengdu that first-time visitors often remember most: street life, meals, evening rhythm, and one more neighborhood block of time that is not overprogrammed.
@@ -82,16 +92,36 @@ That usually means choosing one of these day shapes instead of trying to do all 
 
 - `Wuhou Shrine and Jinli` if the trip wants one classic historical and old-street layer
 - `Kuanzhai Alley` if the trip wants one shorter central atmosphere stop rather than a fuller traditional-core block
-- [Wenshu Monastery](/places/wenshu-monastery/), [Du Fu Thatched Cottage](/places/du-fu-thatched-cottage/), or `Jinsha Site Museum` if the trip wants a calmer cultural block
+- [Wenshu Monastery](/places/wenshu-monastery/), [Qingyang Palace](/places/qingyang-palace/), [Du Fu Thatched Cottage](/places/du-fu-thatched-cottage/), [Chengdu Museum](/places/chengdu-museum/), or [Sichuan Museum](/places/sichuan-museum/) if the trip wants a calmer cultural layer
 - one slower city version built around tea, neighborhood walking, shopping, and a stronger final dinner
 
 If that final-day choice already has narrowed to Chengdu's two most common old-street answers, [Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?](/guides/kuanzhai-alley-or-jinli-for-first-time-visitors/) is the clearest next page because it separates the shorter central atmosphere version from the fuller traditional-core version.
 
 If the slower-city version is the one that sounds most like your trip, use [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) to decide whether that block should happen around People's Park, Wenshu Monastery, or a more local neighborhood rhythm.
 
+If that slower-city version already clearly wants one local breakfast plus one tea stop inside the same calmer half day, the cleaner execution page is [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/).
+
+If the final-day choice already has narrowed to Chengdu's slower city-rhythm answer versus its clearer Wuhou-and-Jinli historical branch, the cleaner comparison page is [People's Park or Wuhou Shrine: Which Chengdu Stop Is Better for First-Time Visitors?](/guides/peoples-park-or-wuhou-shrine-for-first-time-visitors/).
+
+If that final-day choice already has narrowed more specifically to Chengdu's clearer Wuhou-and-Jinli historical branch versus its calmer temple-and-tea cultural branch, the cleaner comparison page is [Wuhou Shrine or Wenshu Monastery: Which Chengdu Cultural Stop Is Better for First-Time Visitors?](/guides/wuhou-shrine-or-wenshu-monastery-for-first-time-visitors/).
+
+If that final-day choice already clearly wants Chengdu's traditional-core branch and the live question is how to combine [Wuhou Shrine](/places/wuhou-shrine/) and [Jinli](/places/jinli/) without letting the old-street part sprawl too long, the cleaner next page is [How to Plan a Wuhou Shrine and Jinli Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors/).
+
+If the slower-city version wants a shorter west-side Taoist stop instead of a fuller cultural half day, [Qingyang Palace in Chengdu: Is It Worth Visiting on a First Trip?](/places/qingyang-palace/) is the cleaner next page.
+
+If that slower-city version already has narrowed specifically to Chengdu's safer Wenshu temple answer versus its more selective Qingyang west-side answer, the cleaner comparison page is [Qingyang Palace or Wenshu Monastery: Which Chengdu Temple Stop Is Better for First-Time Visitors?](/guides/qingyang-palace-or-wenshu-monastery-for-first-time-visitors/).
+
 If that slower-city version should start with one useful local breakfast instead of only tea or a later lunch, [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/) is the cleaner next page.
 
 If that slower-city version already has narrowed to Chengdu's two clearest calmer cultural answers, [Wenshu Monastery or Du Fu Thatched Cottage: Which Chengdu Cultural Stop Is Better for First-Time Visitors?](/guides/wenshu-monastery-or-du-fu-thatched-cottage-for-first-time-visitors/) is the clearest next page because it separates the lighter tea-friendly answer from the fuller literary-and-garden answer.
+
+If that final-day cultural branch may be better as one museum block instead of another temple, park, or old-street stop, [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) is the cleaner next page because it separates `Chengdu Museum`, `Sichuan Museum`, and the valid no-museum answer while also making clear that `Jinsha` is not the main live option right now.
+
+If that museum branch already has narrowed to the city's two strongest live choices, [Chengdu Museum or Sichuan Museum for First-Time Visitors?](/guides/chengdu-museum-or-sichuan-museum-for-first-time-visitors/) is the cleaner next page because it separates the easier central museum from the broader west-side museum by route fit, weather, and trip length.
+
+In practice, [Chengdu Museum](/places/chengdu-museum/) is usually the cleaner Day 3 answer when you want to stay central, keep transfers simple, and still protect a stronger last lunch or dinner. [Sichuan Museum](/places/sichuan-museum/) makes more sense when the final day already leans west with [Qingyang Palace](/places/qingyang-palace/) or [Du Fu Thatched Cottage](/places/du-fu-thatched-cottage/) and the group still has energy for a fuller cultural half day.
+
+If the final day already clearly leans west and the live question is how to combine [Qingyang Palace](/places/qingyang-palace/), [Du Fu Thatched Cottage](/places/du-fu-thatched-cottage/), and maybe [Sichuan Museum](/places/sichuan-museum/) without turning Day 3 into a completion exercise, the cleaner next page is [How to Plan a West-Side Cultural Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors/).
 
 If the stay is longer than 3 days, that is when `Dujiangyan` or `Qingcheng Mountain` start making more sense as add-ons rather than trying to force them into the core 3-day version.
 
@@ -107,4 +137,4 @@ The biggest itinerary mistake is to treat Chengdu as if every day must revolve a
 
 ## Related reads
 
-Pair this page with [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/), [How Many Days in Chengdu for First-Time Visitors](/guides/how-many-days-in-chengdu-for-first-time-visitors/), [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/), [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/), [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/), [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/), [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/), [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/), [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/), [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/), [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/), [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/), [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/), and [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/).
+Pair this page with [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/), [How Many Days in Chengdu for First-Time Visitors](/guides/how-many-days-in-chengdu-for-first-time-visitors/), [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/), [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/), [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/), [Where to Eat After Chengdu Panda Base for First-Time Visitors](/guides/where-to-eat-after-chengdu-panda-base-for-first-time-visitors/), [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/), [Should You Go to People's Park After Chengdu Panda Base?](/guides/should-you-go-to-peoples-park-after-chengdu-panda-base/), [Should You Go to Wenshu Monastery After Chengdu Panda Base?](/guides/should-you-go-to-wenshu-monastery-after-chengdu-panda-base/), [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/), [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/), [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/), [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/), [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/), [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/), [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/), [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/), [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/), [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/), and [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/).

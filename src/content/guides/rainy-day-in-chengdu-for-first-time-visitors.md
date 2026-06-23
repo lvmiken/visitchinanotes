@@ -2,7 +2,7 @@
 title: "Rainy Day in Chengdu for First-Time Visitors"
 description: "Use this practical rainy-day Chengdu guide to decide which plans to keep, when to protect a panda booking, which indoor pivots actually work, and how to save the day with easier food and evening choices."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-23
 city: "chengdu"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -163,6 +163,12 @@ This is usually the best rainy-day choice when:
 - the panda day is not locked
 - the route still needs one serious cultural anchor
 - you want indoor shelter without wasting the whole day on scattered backup stops
+
+If that central museum answer already feels right and the live question is whether it is worth real time at all, the narrower page is [Chengdu Museum: Is It Worth Visiting on a First Trip?](/places/chengdu-museum/).
+
+If the live museum question already has narrowed to whether this central answer is smarter than a fuller west-side museum block, the cleaner comparison page is [Chengdu Museum or Sichuan Museum for First-Time Visitors?](/guides/chengdu-museum-or-sichuan-museum-for-first-time-visitors/).
+
+[Sichuan Museum](/places/sichuan-museum/) can still work on a rainy day, but it is usually the better answer only when the route already leans west or the trip has enough time for a fuller museum half day instead of the simplest central rescue.
 
 ## Option 2: one lighter food-and-central-city rescue day
 

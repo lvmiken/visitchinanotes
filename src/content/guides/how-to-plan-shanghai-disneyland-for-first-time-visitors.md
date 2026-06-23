@@ -47,7 +47,7 @@ Use this page if you are asking:
 - when does it fit into a first Shanghai trip?
 - should I pay for early entry or queue-skipping?
 
-If the first question is still only "is Disneyland worth it at all?", start with [Shanghai With Kids for First-Time Visitors](/guides/shanghai-with-kids-for-first-time-visitors/) and [Best Things to Do in Shanghai With Kids](/guides/best-things-to-do-in-shanghai-with-kids/).
+If the first question is still only "is Disneyland worth it at all?", start with [Shanghai Disneyland: Is It Worth a Full Day for First-Time Visitors?](/places/shanghai-disneyland/), then keep [Shanghai With Kids for First-Time Visitors](/guides/shanghai-with-kids-for-first-time-visitors/) and [Best Things to Do in Shanghai With Kids](/guides/best-things-to-do-in-shanghai-with-kids/) nearby.
 
 If the main unresolved choice is not how to run the park day but `when` to schedule it, the narrower timing page is [Best Time to Visit Shanghai Disneyland for First-Time Visitors](/guides/best-time-to-visit-shanghai-disneyland-for-first-time-visitors/).
 

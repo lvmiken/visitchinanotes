@@ -96,6 +96,8 @@ Often yes.
 
 Travelers who want a smoother, more atmospheric Shanghai stay often end up happier when their hotel logic respects the district style they want. That does not mean everyone must stay here, but it does mean the area can help clarify what kind of Shanghai trip you actually want.
 
+If your hotel question already has narrowed to Shanghai's most common Puxi-side tradeoff, compare it directly on [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 ## Common mistakes
 
 - treating the district like a box-checking attraction zone
@@ -106,6 +108,7 @@ Travelers who want a smoother, more atmospheric Shanghai stay often end up happi
 ## Which page to read next
 
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if this district is influencing your hotel decision
+- read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the live choice is classic skyline convenience versus slower neighborhood rhythm
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to see why neighborhood rhythm often matters more than one extra lower-priority landmark
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are building the neighborhood day now
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are balancing atmospheric time against headline skyline time

@@ -2,7 +2,7 @@
 title: "What to Do in Shanghai at Night for First-Time Visitors"
 description: "Choose between the Bund, a Huangpu River cruise, Xintiandi, the French Concession, Jing'an, or a show-style evening based on your energy, hotel area, and how polished you want the night to feel."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-06-22
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -111,6 +111,10 @@ The Bund is usually the best answer when you want the evening to feel clearly Sh
 
 If the skyline timing itself still is the real decision, [The Bund in Shanghai: Best Time to Go for First-Time Visitors](/places/the-bund/) is the narrower next page.
 
+If the live question now is whether the night should stay on the riverfront or become one paid high-rise skyline event, the narrower comparison page is [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/).
+
+If the skyline ticket already is happening and the real decision is only `Shanghai Tower or Oriental Pearl`, the tighter follow-up is [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/).
+
 ## 2. Spectacle night: choose a Huangpu River cruise
 
 Shanghai's official transportation pages continue to present sightseeing cruises on the Huangpu River as one of the clearest ways to experience the city's riverfront after dark.
@@ -132,6 +136,8 @@ It is usually weaker when:
 - you only have a very short stop and want the easiest default
 - the day already feels logistically heavy
 - you mainly want flexibility around dinner and district wandering
+
+If the real decision already has narrowed from `What kind of night?` to `Bund or cruise?`, the narrower comparison page is [Bund or Huangpu River Cruise: Which Shanghai Night Is Better for First-Time Visitors?](/guides/bund-or-huangpu-river-cruise-for-first-time-visitors/).
 
 ### When the cruise is strongest
 
@@ -298,5 +304,6 @@ That already gives the city more range than leaving every night unplanned.
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the evening is already becoming a drinks-and-modern-city-energy decision
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [The Bund](/places/the-bund/) if the skyline timing itself is still the live decision
+- read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the skyline night already has narrowed to Shanghai's two most famous paid towers
 - read [French Concession](/places/french-concession/) if the night should be a neighborhood-and-food evening instead of a skyline ritual
 - read [Shanghai Museum](/places/shanghai-museum/) if a weather-proof or culture-led evening is more likely to help than another long outdoor block

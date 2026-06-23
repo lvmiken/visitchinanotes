@@ -2,7 +2,7 @@
 title: "Lujiazui Skyline: Is It Worth It for First-Time Shanghai Visitors?"
 description: "Decide whether Lujiazui is worth crossing the river for, when the skyline decks are worth paying for, and when Bund views already give you enough modern Shanghai."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-23
 city: "shanghai"
 whoItsFor:
   - "travelers deciding whether to cross from the Bund side into Pudong"
@@ -110,6 +110,16 @@ For many short trips, the Bund is the non-negotiable piece and Lujiazui is the o
 
 That is also why this page usually belongs after [The Bund](/places/the-bund/) in the reading order. Once the skyline question is settled, the more useful next comparison is often whether the rest of the trip needs [French Concession](/places/french-concession/) for neighborhood rhythm or [Yu Garden](/places/yu-garden/) for old-core contrast.
 
+If the live question is no longer whether `Lujiazui` matters, but which paid deck actually makes the most sense, the narrower follow-up is [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/).
+
+If the question is even narrower and already has become `Shanghai Tower or Oriental Pearl?`, go straight to [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/).
+
+If the trip already has decided that the real object of curiosity is the icon itself, the next page is [Oriental Pearl Tower in Shanghai: Is It Worth Visiting on a First Trip?](/places/oriental-pearl-tower/).
+
+If the trip instead mainly wants the strongest premium deck and needs to judge that one stop on its own merits, the next page is [Shanghai Tower in Shanghai: Is It Worth Visiting on a First Trip?](/places/shanghai-tower/).
+
+If the skyline temptation is also distorting the hotel choice, the useful stay comparison is [Pudong or Puxi: Where to Stay in Shanghai for First-Time Visitors](/guides/pudong-or-puxi-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 ## Common mistakes
 
 - paying for a deck in poor visibility
@@ -120,6 +130,11 @@ That is also why this page usually belongs after [The Bund](/places/the-bund/) i
 ## Which page to read next
 
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are still comparing skyline options
+- read [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/) if the real decision now is which tower deserves the paid skyline slot
+- read [Shanghai Tower in Shanghai: Is It Worth Visiting on a First Trip?](/places/shanghai-tower/) if you mainly want to judge whether the strongest pure deck improves the route enough
+- read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the tower choice already has narrowed to Shanghai's two most famous paid skyline options
+- read [Oriental Pearl Tower in Shanghai: Is It Worth Visiting on a First Trip?](/places/oriental-pearl-tower/) if you mainly want to judge whether the classic icon itself improves the route enough
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to judge whether Lujiazui is a core Shanghai priority or only a selective upgrade
+- read [Pudong or Puxi: Where to Stay in Shanghai for First-Time Visitors](/guides/pudong-or-puxi-where-to-stay-in-shanghai-for-first-time-visitors/) if the skyline side also is starting to influence where you sleep
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) if Pudong-side logistics are part of the same day
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you need to place the skyline decision into a short route

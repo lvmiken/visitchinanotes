@@ -50,6 +50,14 @@ If the bigger question is still whether Shanghai is the right first city at all,
 
 If the bigger question is still which foods deserve your limited Shanghai meals, start instead with [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/). That page helps you decide whether the trip really needs xiaolongbao, shengjian, noodles, a proper Shanghainese dinner, or a seasonal extra before you decide where each meal should happen.
 
+If the district question already is mostly solved and the real problem is which actual restaurants are worth using inside that structure, the next page is [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/).
+
+If the district already is mostly solved and the live question is specifically which soup-dumpling stop deserves the one xiaolongbao meal, use [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/).
+
+If the district mostly is solved and the live question is which breakfast-or-lunch shengjian stop fits the day best, use [Where to Eat Shengjian in Shanghai for First-Time Visitors](/guides/where-to-eat-shengjian-in-shanghai-for-first-time-visitors/).
+
+If the district mostly is solved and the live question is which proper Shanghainese dinner room deserves the one protected evening, use [Best Shanghainese Restaurants for First-Time Visitors](/guides/best-shanghainese-restaurants-for-first-time-visitors/).
+
 ## The short answer
 
 For many first-time visitors, the most useful Shanghai food-area logic is:
@@ -276,6 +284,10 @@ That is why the right question is often not "where is the best place to eat?" It
 
 - read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if the city itself still feels too broad
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the next decision is which foods are actually worth protecting before you assign them to districts
+- read [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/) if the district mostly is chosen and the live question is which actual restaurants deserve the meal slots
+- read [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/) if the district mostly is chosen and the live question is which xiaolongbao stop fits the day best
+- read [Where to Eat Shengjian in Shanghai for First-Time Visitors](/guides/where-to-eat-shengjian-in-shanghai-for-first-time-visitors/) if the district mostly is chosen and the live question is which practical shengjian stop fits the day best
+- read [Best Shanghainese Restaurants for First-Time Visitors](/guides/best-shanghainese-restaurants-for-first-time-visitors/) if the district mostly is chosen and the live question is which benbang dinner room deserves the one protected evening
 - read [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) if the number of days still decides how ambitious the food plan can be
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if hotel area is still shaping where meals can realistically happen
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place the meals into a real short route

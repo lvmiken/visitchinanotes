@@ -119,6 +119,8 @@ Choose this if:
 
 If the dish itself still is the open question, the broader food page is [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/).
 
+If the broader food structure already is clear and the real question is how to choose the right Yulin-style skewer night instead of defaulting to hot pot, the narrower next page is [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/).
+
 ## 3. Choose Yulin for a Sichuan table dinner if the trip already has hotpot elsewhere
 
 Yulin becomes even more useful once you stop assuming it is only for one spicy headline meal.
@@ -140,6 +142,10 @@ It works well for:
 - one dessert or cafe continuation
 - one calmer drinks stop
 - one slower walk after dinner somewhere nearby
+
+If the real question now is not whether Yulin should carry one softer continuation but which Chengdu desserts actually fit best after a local dinner, the narrower next page is [Best Chengdu Desserts for First-Time Visitors](/guides/best-chengdu-desserts-for-first-time-visitors/).
+
+If the real question now is not dessert only but where one useful Yulin cafe block actually belongs before dinner, after dinner, or instead of another heavier meal, the narrower next page is [Best Chengdu Cafes for First-Time Visitors](/guides/best-chengdu-cafes-for-first-time-visitors/).
 
 This is the better Yulin answer when:
 
@@ -216,7 +222,10 @@ You usually do not need two separate Yulin food missions on the same short trip.
 ## Which page to read next
 
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the broader district choice is still open
+- read [Best Chengdu Desserts for First-Time Visitors](/guides/best-chengdu-desserts-for-first-time-visitors/) if Yulin already has won and the real question is how to choose the right sweet finish after dinner or cafe time
+- read [Best Chengdu Cafes for First-Time Visitors](/guides/best-chengdu-cafes-for-first-time-visitors/) if Yulin already has won and the real question is how coffee fits into that slower local afternoon or evening
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) if the dish itself is still the real decision
+- read [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/) if the district already feels right and the live question is how to choose the better Yulin-style skewer night
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the meal logic is clear but the neighborhood itself still is not
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the evening style still is the real choice
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if you want to place Yulin inside a fuller Chengdu night plan

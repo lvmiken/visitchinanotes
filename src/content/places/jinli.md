@@ -2,7 +2,7 @@
 title: "Jinli in Chengdu: Is It Worth Visiting on a First Trip?"
 description: "Decide whether Jinli is worth your time, when it works best, and how to fit it into a first Chengdu trip without mistaking one atmospheric old street for the whole city."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-23
 city: "chengdu"
 whoItsFor:
   - "first-time Chengdu visitors deciding whether Jinli deserves real trip time"
@@ -26,6 +26,7 @@ relatedGuideSlugs:
   - "what-to-do-in-chengdu-at-night-for-first-time-visitors"
   - "where-to-eat-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
+  - "how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors"
 tags:
   - "Chengdu"
   - "Jinli"
@@ -205,6 +206,7 @@ Jinli often disappoints when travelers:
 
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you still are deciding whether Jinli deserves time at all
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to know which day this stop actually belongs on
+- read [How to Plan a Wuhou Shrine and Jinli Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors/) if you are ready to use Jinli as part of a real Wuhou-led half day instead of a floating old-street stop
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the real question is whether Jinli should be the trip's traditional evening or whether a more local night would be stronger
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the real question is whether Jinli should carry dinner or only a shorter food-and-walk block
 - read [Kuanzhai Alley in Chengdu: Is It Worth Visiting on a First Trip?](/places/kuanzhai-alley/) if Jinli still is competing with the other obvious old-street stop

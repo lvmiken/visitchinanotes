@@ -2,7 +2,7 @@
 title: "Best Area to Stay in Shanghai for First-Time Visitors"
 description: "Compare the Bund side, People's Square, the French Concession, and Pudong to see which Shanghai base fits a first trip, your airport transfers, and the kind of city experience you want."
 publishDate: 2026-06-14
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -86,6 +86,8 @@ This option is strongest when:
 
 The common mistake is paying only for the idea of the view while weakening the rest of the route.
 
+If your hotel question already has narrowed away from Pudong and into Shanghai's most common Puxi-side style choice, the next page is [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 ### Choose French Concession-style logic if
 
 - street life, cafes, walking, and food matter more than immediate skyline access
@@ -100,6 +102,8 @@ This is often the best style-led choice when:
 - food and neighborhood atmosphere matter more than saying you slept beside the skyline
 - Shanghai is not only a transit city but a place you want to enjoy at street level
 
+If the stay question already has narrowed to classic skyline convenience versus neighborhood rhythm, compare it directly on [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 ### Choose Pudong or Lujiazui logic only if
 
 - modern skyline views matter a lot
@@ -109,6 +113,10 @@ This is often the best style-led choice when:
 For many first-time visitors, Pudong is more useful as a **visit** than as a **hotel base**.
 
 [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/) is the right comparison page if you are tempted to stay there mainly because it looks iconic.
+
+If the real temptation is not the hotel itself but the idea that one paid deck will define the whole skyline decision, compare that first with [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/) before letting a tower view drive the hotel strategy.
+
+If your hotel decision already has narrowed to the most common first-time version of this problem, the next page is [Pudong or Puxi: Where to Stay in Shanghai for First-Time Visitors](/guides/pudong-or-puxi-where-to-stay-in-shanghai-for-first-time-visitors/).
 
 ## Do not let Pudong win just because it looks famous
 
@@ -148,6 +156,8 @@ If the bigger concern is not only what to book but whether the base will keep me
 
 - read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if the city itself still feels too broad
 - read [Where to Stay in Shanghai With Kids for First-Time Visitors](/guides/where-to-stay-in-shanghai-with-kids/) if child energy, easier dinners, and Disneyland logistics are changing what "best area" means
+- read [Pudong or Puxi: Where to Stay in Shanghai for First-Time Visitors](/guides/pudong-or-puxi-where-to-stay-in-shanghai-for-first-time-visitors/) if the real hotel decision already has narrowed to skyline side versus easier city side
+- read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the real hotel decision already has narrowed to classic skyline convenience versus neighborhood rhythm
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if hotel area is now making your dinner districts and easier meal nights more obvious
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the hotel decision is really about which evenings should feel easiest
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the base is mostly solved and you want the booking order next

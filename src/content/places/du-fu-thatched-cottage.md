@@ -2,7 +2,7 @@
 title: "Du Fu Thatched Cottage in Chengdu: Is It Worth Visiting on a First Trip?"
 description: "Decide whether Du Fu Thatched Cottage is worth your time, how long to spend there, and when it is a better Chengdu stop than Wenshu Monastery, Kuanzhai Alley, or another slower city block."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-23
 city: "chengdu"
 whoItsFor:
   - "first-time Chengdu visitors deciding whether Du Fu Thatched Cottage deserves real trip time"
@@ -25,6 +25,7 @@ relatedGuideSlugs:
   - "best-things-to-do-in-chengdu-for-first-time-visitors"
   - "where-to-drink-tea-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
+  - "how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors"
   - "rainy-day-in-chengdu-for-first-time-visitors"
 tags:
   - "Chengdu"
@@ -211,6 +212,7 @@ Du Fu Thatched Cottage often disappoints when travelers:
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you still are deciding whether Du Fu Thatched Cottage deserves time at all
 - read [Wenshu Monastery in Chengdu: Is It Worth Visiting on a First Trip?](/places/wenshu-monastery/) if the real question is whether the calmer cultural answer should stay lighter or become fuller
 - read [Wenshu Monastery or Du Fu Thatched Cottage: Which Chengdu Cultural Stop Is Better for First-Time Visitors?](/guides/wenshu-monastery-or-du-fu-thatched-cottage-for-first-time-visitors/) if the real question already is which calmer cultural branch fits the trip better
+- read [How to Plan a West-Side Cultural Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors/) if you are ready to use Du Fu Thatched Cottage inside a real Qingyang-or-Sichuan-west-side half day
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to know which day this stop actually belongs on
 - read [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/) if weather may decide whether this kind of slower cultural block still makes sense
 - read [Kuanzhai Alley in Chengdu: Is It Worth Visiting on a First Trip?](/places/kuanzhai-alley/) if the real question is whether the day should stay reflective or become a simpler atmosphere stop

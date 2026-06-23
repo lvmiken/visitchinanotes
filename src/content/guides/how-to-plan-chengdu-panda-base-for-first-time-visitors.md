@@ -212,6 +212,12 @@ For many first-time visitors, the smartest follow-up after the panda morning is 
 
 That is why the panda day connects naturally to [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) and [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) rather than to another overbuilt attraction stack.
 
+If the live question already is not the whole afternoon but specifically what meal works best right after the panda base, the narrower next page is [Where to Eat After Chengdu Panda Base for First-Time Visitors](/guides/where-to-eat-after-chengdu-panda-base-for-first-time-visitors/).
+
+If the real question now is not the panda morning itself but which of those easier follow-ups fits your trip best, the narrower next page is [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/).
+
+If the real question now already has narrowed specifically to whether the quieter temple-and-tea branch deserves the same afternoon, the narrower next page is [Should You Go to Wenshu Monastery After Chengdu Panda Base?](/guides/should-you-go-to-wenshu-monastery-after-chengdu-panda-base/).
+
 ## How much time should you allow?
 
 For most first-time visitors, the practical answer is:
@@ -251,6 +257,9 @@ That means families and hot-weather travelers should plan a little more delibera
 - read [Best Time to Visit Chengdu for First-Time Visitors](/guides/best-time-to-visit-chengdu-for-first-time-visitors/) if the last big uncertainty is whether heat, rain, or cooler mornings change how worthwhile the panda day feels
 - read [What to Book in Advance for Chengdu: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chengdu/) if the panda ticket is only one part of the wider Chengdu reservation puzzle
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if hotel base still feels unsettled and you want the easiest morning departure
+- read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning is already settled and the next live question is how to use the afternoon and evening well
+- read [Where to Eat After Chengdu Panda Base for First-Time Visitors](/guides/where-to-eat-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning is already settled and the next live question is which lunch or early dinner keeps the day easiest
+- read [Should You Go to Wenshu Monastery After Chengdu Panda Base?](/guides/should-you-go-to-wenshu-monastery-after-chengdu-panda-base/) if the panda morning is already settled and the next live question is whether the calmer temple-and-tea branch really improves the afternoon
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the next live decision is which district should carry the post-panda lunch or easier dinner
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) if the next live decision is whether the panda day should end with noodles, dumplings, chuanchuan, or one fuller Sichuan dinner
 - read [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/) if Chengdu is the landing city and you are still deciding whether the panda day should happen on the first full day or later

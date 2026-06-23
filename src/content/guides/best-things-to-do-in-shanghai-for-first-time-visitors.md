@@ -2,7 +2,7 @@
 title: "Best Things to Do in Shanghai for First-Time Visitors"
 description: "Find out which things to do in Shanghai are actually worth your limited time, how to choose between skyline, neighborhoods, old-core sights, museums, and nightlife, and how to build a fuller first trip without overpacking it."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-22
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -126,6 +126,10 @@ For many first-time visitors, the better order is:
 
 That makes it a better selective priority than an automatic one.
 
+If that deck decision already is becoming specific rather than abstract, the narrower next page is [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/).
+
+If you already know the paid skyline choice has narrowed to the city's two biggest icons, the tighter comparison page is [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/).
+
 ## 3. French Concession is where Shanghai starts feeling enjoyable, not only impressive
 
 [French Concession](/places/french-concession/) often gives more value to a short Shanghai stay than one extra lower-priority landmark.
@@ -144,6 +148,8 @@ This is especially useful when:
 - the trip needs one slower half day that still feels high-value
 
 For many first-time visitors, this becomes the day that makes Shanghai feel like more than a transfer-friendly global city.
+
+If the live question already is whether the neighborhood day should stay broad and leafy, become a shorter lane-house stop, or end with a more polished evening, the next place pages are [Tianzifang](/places/tianzifang/) and [Xintiandi](/places/xintiandi/).
 
 ## 4. Yu Garden is usually the best selective old-core contrast
 
@@ -181,7 +187,29 @@ It is usually weaker when:
 
 For many short Shanghai stays, the museum is not the core reason to go. It is the layer that improves a good trip when the trip actually has room for it.
 
-## 6. Food is one of the best things to do in Shanghai, not an afterthought
+If the route already is leaning indoor, central, or stay-convenient, [People's Square](/places/peoples-square/) is often the more useful wider page because it explains when the museum side matters as a practical city block rather than only as one indoor stop.
+
+If the trip wants a quieter and shorter reflective stop rather than one more major museum block, [Jade Buddha Temple](/places/jade-buddha-temple/) is often the cleaner supporting page because it gives Shanghai one calmer temple layer without pretending that every first trip needs another big-ticket sight.
+
+## 6. Shanghai Disneyland is a full-day branch, not a central-city add-on
+
+For many first-time visitors, [Shanghai Disneyland](/places/shanghai-disneyland/) is either one of the trip's clearest full-day wins or not worth protecting at all.
+
+It is strongest when:
+
+- the group includes children, teens, or enthusiastic Disney adults
+- the stay is long enough to protect both central Shanghai and one full park day
+- the route wants one major entertainment payoff beyond skyline and neighborhoods
+
+It is usually weaker when:
+
+- the trip is short and adult-first
+- the city still has not protected the Bund, French Concession, or one stronger evening
+- travelers are forcing it only because it sounds globally famous
+
+For many first-time visitors, Disneyland improves the trip only when it gets its own honest full-day slot.
+
+## 7. Food is one of the best things to do in Shanghai, not an afterthought
 
 One of the easiest ways to flatten Shanghai is to treat food as whatever happens near the hotel after sightseeing.
 
@@ -198,7 +226,7 @@ If the attraction shortlist mostly is clear and the next real decision is the fo
 - [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/)
 - [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/)
 
-## 7. One real Shanghai night usually improves the city more than one more attraction
+## 8. One real Shanghai night usually improves the city more than one more attraction
 
 Many first-time visitors use Shanghai well in the day and then underuse it at night.
 
@@ -206,7 +234,7 @@ One intentional evening can add:
 
 - a stronger Bund finish
 - a riverfront walk that actually has time to breathe
-- a French Concession or Jing'an dinner-and-drinks block
+- a French Concession, [Xintiandi](/places/xintiandi/), or Jing'an dinner-and-drinks block
 - a more confident sense of Shanghai as a living city, not only a sightseeing container
 
 This often gives the trip more personality than squeezing in another weaker museum, mall, or tower visit.
@@ -237,8 +265,12 @@ On a 3-day or 4-day Shanghai trip, the stronger extras often are:
 
 - one selective Lujiazui block
 - one museum or indoor layer
+- one selective [Nanjing Road](/places/nanjing-road/) block when the route wants classic commercial energy
 - one better food district
 - one more intentional evening
+- one calmer [Jade Buddha Temple](/places/jade-buddha-temple/) block when the trip wants a shorter reflective cultural layer
+- one optional [Shanghai Disneyland](/places/shanghai-disneyland/) day only if the trip truly wants that entertainment branch
+- one selective [Zhujiajiao Water Town](/places/zhujiajiao-water-town/) outing only if the stay is long enough that the city itself already feels secure
 - one slower district half day that is not forced to justify itself like a headline sight
 
 This is where Shanghai starts to show its real depth.
@@ -265,3 +297,4 @@ It stops being only the easy first city and becomes one of the most enjoyable ur
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the missing layer now is what Shanghai meals actually deserve limited trip slots
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the attractions mostly are chosen and the meal districts are not
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the missing layer now is how the city should feel after dark
+- read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the skyline question already has narrowed to one premium tower ticket
