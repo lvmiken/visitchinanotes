@@ -24,6 +24,7 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-hutongs-for-first-time-visitors"
   - "beijing-old-city-day-itinerary"
+  - "what-to-do-in-shichahai-at-night-for-first-time-visitors"
   - "what-to-do-in-beijing-at-night"
 tags:
   - "Beijing"
@@ -162,8 +163,9 @@ Its value comes from atmosphere and fit, not from a single blockbuster sight.
 ## Which page to read next
 
 - read [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) if the wider old-Beijing layer still feels too abstract
+- read [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/) if the area is already chosen and the live question is how to use the evening
+- read [Where to Eat in Shichahai for First-Time Visitors](/guides/where-to-eat-in-shichahai-for-first-time-visitors/) if the area is set and the live question is what kind of meal or snack block fits best there
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want one real slower-day route using this part of the city
 - read [Qianmen for First-Time Visitors](/places/qianmen/) if your main comparison is central old-core atmosphere
 - read [Sanlitun for First-Time Visitors](/places/sanlitun/) if your main comparison is modern evening contrast
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if the real decision is which evening district the trip should keep
-

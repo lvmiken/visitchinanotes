@@ -2,7 +2,7 @@
 title: "Nanjing Road in Shanghai: Is It Worth Your Time or Mostly a Convenience Stop?"
 description: "Decide whether Nanjing Road deserves real time on a first Shanghai trip, who it suits best, and when it is stronger as a central convenience block than as a must-see attraction."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-06-23
 city: "shanghai"
 whoItsFor:
   - "first-time Shanghai visitors deciding whether Nanjing Road is worth more than a quick pass-through"
@@ -150,6 +150,8 @@ For many first-time visitors, Nanjing Road works well as:
 
 It usually does not need to become a protected half day unless shopping itself is a real trip priority.
 
+If the district already is chosen and the live question is whether this should become a shengjian stop, a snack-and-shopping break, or one easy central dinner after the Bund, the narrower execution page is [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/).
+
 ## When does it improve the trip most?
 
 Nanjing Road often improves the trip most when:
@@ -176,5 +178,6 @@ It often improves the trip less when:
 
 - read [The Bund in Shanghai: Best Time to Go for First-Time Visitors](/places/the-bund/) if the central day still needs its main anchor
 - read [Xintiandi in Shanghai: Is It Worth Visiting on a First Trip?](/places/xintiandi/) if the evening decision is really about commercial scale versus polished dinner-and-drinks
+- read [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/) if the district already is chosen and the live decision is what kind of meal should happen here
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the wider shape of Shanghai still feels too abstract
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the real question is whether central convenience should shape the whole stay

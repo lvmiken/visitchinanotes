@@ -2,7 +2,7 @@
 title: "What to Do in Shanghai at Night for First-Time Visitors"
 description: "Choose between the Bund, a Huangpu River cruise, Xintiandi, the French Concession, Jing'an, or a show-style evening based on your energy, hotel area, and how polished you want the night to feel."
 publishDate: 2026-06-20
-updatedDate: 2026-06-22
+updatedDate: 2026-06-23
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -165,6 +165,10 @@ For many first-time visitors, this is the Shanghai evening that feels most effor
 
 If the dinner side of that evening is the real question, keep [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) open too.
 
+If the district already is chosen and the live question is how to structure that night well, the narrower execution page is [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/).
+
+If the wider evening already is narrowed not to Xintiandi but to the neighborhood side of the city, the narrower companion page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/).
+
 ## 4. Easy polished modern night: choose Jing'an
 
 Jing'an is usually the easiest Shanghai evening when you want:
@@ -302,6 +306,8 @@ That already gives the city more range than leaving every night unplanned.
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the real question is which district should carry the night
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the real question is which meals deserve the most valuable evening slot
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the evening is already becoming a drinks-and-modern-city-energy decision
+- read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the wider night already has narrowed to one slower neighborhood evening
+- read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the wider night already has narrowed to one polished Xintiandi evening
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [The Bund](/places/the-bund/) if the skyline timing itself is still the live decision
 - read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the skyline night already has narrowed to Shanghai's two most famous paid towers

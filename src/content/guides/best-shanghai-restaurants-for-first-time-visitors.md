@@ -44,6 +44,12 @@ This guide was checked against current sources on **June 23, 2026**, including t
 
 If the bigger question is still the overall food structure, start with [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/). If the main question is still district choice, use [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/). If the live question is only which soup-dumpling stop deserves the one xiaolongbao meal, the narrower next page is [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/). If the live question is only which practical shengjian stop deserves the breakfast-or-lunch slot, use [Where to Eat Shengjian in Shanghai for First-Time Visitors](/guides/where-to-eat-shengjian-in-shanghai-for-first-time-visitors/). If the live question is only which proper benbang dinner deserves the one protected evening, use [Best Shanghainese Restaurants for First-Time Visitors](/guides/best-shanghainese-restaurants-for-first-time-visitors/).
 
+If the live question already is not the whole restaurant layer but only which everyday noodle bowl deserves the calmer local meal slot, the narrower page is [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/).
+
+If the district already is narrowed all the way to Xintiandi and the main decision is what kind of meal belongs there, the narrower child page is [Where to Eat in Xintiandi for First-Time Visitors](/guides/where-to-eat-in-xintiandi-for-first-time-visitors/).
+
+If the district already is narrowed to the neighborhood side of Shanghai and the real decision is what kind of meal belongs inside the French Concession itself, the narrower child page is [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/).
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -145,6 +151,8 @@ Wei Xiang Zhai usually works best when:
 - the day needs a lower-stakes lunch
 - you want Shanghai to feel broader than dumplings only
 
+If the meal already clearly should be noodles and the live question is which bowl best fits the trip, go one level narrower with [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/).
+
 ## 3. If you want a proper Shanghainese dinner
 
 This is the meal many short-trip visitors should protect more carefully.
@@ -219,6 +227,8 @@ The strongest answers are usually:
 - one easier Bund-side dinner
 - **Lao Zheng Xing** if the route wants one classic Shanghainese meal in the central core
 
+If the route already is clearly the Bund side and the live question is how to choose between the easier central answer, the proper Shanghainese dinner, or the Yu Garden dumpling handoff, the narrower route-support page is [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/).
+
 ## Best on the French Concession day
 
 The strongest answers are usually:
@@ -248,7 +258,11 @@ The strongest answers are usually:
 ## Which page to read next
 
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the broader district strategy is still not settled
+- read [Where to Eat in Xintiandi for First-Time Visitors](/guides/where-to-eat-in-xintiandi-for-first-time-visitors/) if the district already is chosen and the live question is what kind of dinner belongs there
+- read [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) if the district already is chosen and the live question is what kind of neighborhood meal belongs there
+- read [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/) if the route already is skyline-side and the live question is what kind of meal should happen around the Bund
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if you still need the dish-level food structure before choosing restaurants
+- read [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/) if the broader restaurant layer is clear and the only remaining question is which everyday Shanghai noodle stop deserves the calmer meal slot
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the dinner choice is really part of a skyline night, neighborhood evening, or final-night pacing question
 - read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if the city's overall role in the route still feels too broad
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if hotel area still is shaping where the most useful meals can realistically happen

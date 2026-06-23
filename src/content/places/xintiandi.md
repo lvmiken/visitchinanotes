@@ -2,7 +2,7 @@
 title: "Xintiandi in Shanghai: Is It Worth Visiting on a First Trip?"
 description: "Decide whether Xintiandi deserves dinner or nightlife time, who it suits best, and when it is a better Shanghai choice than one more Bund or mall-heavy block."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-06-23
 city: "shanghai"
 whoItsFor:
   - "first-time Shanghai visitors deciding where one polished evening should happen"
@@ -24,6 +24,8 @@ relatedGuideSlugs:
   - "shanghai-first-time-guide"
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "what-to-do-in-shanghai-at-night"
+  - "where-to-eat-in-xintiandi-for-first-time-visitors"
+  - "what-to-do-in-xintiandi-at-night-for-first-time-visitors"
   - "best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors"
   - "where-to-eat-in-shanghai-for-first-time-visitors"
 tags:
@@ -174,6 +176,8 @@ It often improves the trip less when:
 ## Which page to read next
 
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the wider evening structure still is not settled
+- read [Where to Eat in Xintiandi for First-Time Visitors](/guides/where-to-eat-in-xintiandi-for-first-time-visitors/) if the district already is chosen and the live question is what kind of dinner belongs there
+- read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the district already is chosen and the live question is how to use the evening well
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the live question is how polished or social the night should become
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the practical decision is what district should carry dinner
 - read [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) if the bigger decision is polished evening versus slower all-day district value

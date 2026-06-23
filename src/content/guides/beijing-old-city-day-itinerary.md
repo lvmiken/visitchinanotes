@@ -2,7 +2,7 @@
 title: "Old Beijing Day Itinerary for First-Time Visitors"
 description: "A practical old Beijing day itinerary for first-time visitors, with a calmer one-day route built around hutongs, Beihai Park, Qianmen, snacks, and one evening that still feels like part of the city."
 publishDate: 2026-06-19
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 day"
@@ -136,6 +136,8 @@ If you want that old-city day to feel fuller without becoming heavier, [Shichaha
 
 If the route wants one more formal historical layer before the evening, [Confucius Temple and Guozijian](/places/confucius-temple-and-guozijian/) or [Ditan Park](/places/ditan-park/) are often cleaner fits than another giant cross-city mission.
 
+If this slower day is becoming more specifically a **Jingshan Park into dinner** route rather than a Beihai-led one, the narrower execution page is [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/).
+
 ## Lunch: keep it central and low-friction
 
 Lunch works best when it supports the route instead of becoming a separate expedition.
@@ -145,6 +147,18 @@ This is often the right place for:
 - a simpler local meal
 - noodles, dumplings, or a lighter northern-style lunch
 - one snack-plus-late-dinner structure if you want the evening meal to matter more
+
+If the lunch should specifically be one practical Beijing noodle meal rather than a generic lighter stop, the narrower child page is [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/). That is often one of the cleanest ways to make this slower day feel more local without turning lunch into a full destination mission.
+
+If the lunch or early dinner should be one shareable local meal instead, especially in a Qianmen-linked old-city version of the day, keep [Best Beijing Dumplings for First-Time Visitors](/guides/best-beijing-dumplings-for-first-time-visitors/) open too.
+
+If the old-city day should start with one old-core breakfast instead of only dropping into Qianmen later, the narrower morning page is [Where to Eat Breakfast in Qianmen for First-Time Visitors](/guides/where-to-eat-breakfast-in-qianmen-for-first-time-visitors/).
+
+If the old-city route already is clearly becoming a Qianmen lunch day instead of only a Qianmen dinner day, the narrower midday page is [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/).
+
+If the slower route is clearly becoming a **Shichahai dinner** rather than a Qianmen finish, the narrower district page is [Where to Eat in Shichahai for First-Time Visitors](/guides/where-to-eat-in-shichahai-for-first-time-visitors/).
+
+If the slower route is already committed to **Shichahai at night** and the live question is how to use that evening well rather than only where to eat, the narrower execution page is [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/).
 
 If you want to attach the food more deliberately by district, use [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/).
 
@@ -241,7 +255,13 @@ But for many first-time visitors with three or four full days, this is the layer
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you want the compressed version that still keeps one lighter neighborhood layer
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place this old-Beijing day inside a fuller stay
 - read [Shichahai for First-Time Visitors](/places/shichahai-area/) if the missing decision is whether one lakeside-hutong block belongs in the slower day
+- read [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/) if the slower day already is committed to Shichahai and now needs the evening plan
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the route is clear but the meal districts still are not
+- read [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/) if the slower day is clearly using Jingshan as the handoff into dinner
+- read [Where to Eat in Shichahai for First-Time Visitors](/guides/where-to-eat-in-shichahai-for-first-time-visitors/) if the slower day already is committed to the lakeside branch and now needs the right meal style
+- read [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) if the slower day should carry one practical everyday-Beijing lunch
+- read [Best Beijing Dumplings for First-Time Visitors](/guides/best-beijing-dumplings-for-first-time-visitors/) if the slower day should carry one calmer shareable local meal instead
 - read [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) if the slower day should start with one traditional snack stop on purpose
+- read [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/) if the slower day already is leaning toward one old-core midday meal instead of only an evening finish
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the old-core dinner already is the real end-of-day decision
 - read [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) if hotel location is still making the day feel harder than it should

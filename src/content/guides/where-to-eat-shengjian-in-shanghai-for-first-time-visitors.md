@@ -44,6 +44,8 @@ This page was checked against current sources on **June 23, 2026**, including th
 
 If your broader Shanghai food structure still is not settled, start first with [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/). If the live question is which district should carry this meal, read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/). If you already know the meal slot and want the wider restaurant layer, use [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/).
 
+If the live question still is not the exact shengjian shop but whether one real Shanghai breakfast outing is worth protecting at all, start one step up with [Where to Eat Breakfast in Shanghai for First-Time Visitors](/guides/where-to-eat-breakfast-in-shanghai-for-first-time-visitors/).
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -234,6 +236,7 @@ If a shop offers that pairing and the timing is right, it is often worth doing o
 ## Which page to read next
 
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the broader food structure still is not set
+- read [Where to Eat Breakfast in Shanghai for First-Time Visitors](/guides/where-to-eat-breakfast-in-shanghai-for-first-time-visitors/) if the bigger open question still is how to use one Shanghai morning well
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the main question is which district should carry this meal
 - read [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/) if the next decision is whether the trip also needs one symbolic soup-dumpling meal
 - read [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/) if you want the wider restaurant layer after the quick-classic question is solved

@@ -44,6 +44,8 @@ This guide was checked against official Beijing sources on **June 20, 2026**, in
 
 If the bigger question is still the overall food structure, start with [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/). If the main question is still district choice, use [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/).
 
+If the live question is specifically breakfast rather than lunch or dinner, go narrower with [Where to Eat Breakfast in Beijing for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) or [Best Halal Breakfast in Beijing for First-Time Visitors](/guides/best-halal-breakfast-in-beijing-for-first-time-visitors/) before treating this page like an all-day food answer.
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -219,6 +221,10 @@ This is useful when:
 - the trip needs something lower-stakes than duck or hotpot
 - lunch should still feel local, not generic
 
+If the real decision is already the zhajiangmian meal itself rather than the wider restaurant mix, the narrower page is [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/).
+
+If the group instead wants one shareable local meal that sits between noodles and hotpot, the narrower page is [Best Beijing Dumplings for First-Time Visitors](/guides/best-beijing-dumplings-for-first-time-visitors/).
+
 It is often better as:
 
 - one casual lunch
@@ -291,7 +297,11 @@ The strongest answers are usually:
 ## Which page to read next
 
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the broader district strategy is still not settled
+- read [Where to Eat Breakfast in Beijing for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) if the live decision has shifted to morning food rather than lunch or dinner
+- read [Best Halal Breakfast in Beijing for First-Time Visitors](/guides/best-halal-breakfast-in-beijing-for-first-time-visitors/) if the trip wants one useful halal breakfast before returning to the bigger meal plan
 - read [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) if the duck dinner itself is the only decision left
+- read [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) if the noodle meal itself is already the specific decision
+- read [Best Beijing Dumplings for First-Time Visitors](/guides/best-beijing-dumplings-for-first-time-visitors/) if the useful missing food layer is one shareable local meal between noodles and hotpot
 - read [Best Beijing Hotpot for First-Time Visitors](/guides/best-beijing-hotpot-for-first-time-visitors/) if the second signature meal should be copper hotpot or instant-boiled mutton
 - read [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) if you still need the dish-level food structure before choosing restaurants
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the final-night dinner and drinks district is already the live question

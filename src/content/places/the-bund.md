@@ -2,7 +2,7 @@
 title: "The Bund in Shanghai: Best Time to Go for First-Time Visitors"
 description: "Learn the best time to visit the Bund, how long to spend there, and how to fit Shanghai's riverfront into a short first trip."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-23
 city: "shanghai"
 whoItsFor:
   - "first-time Shanghai visitors"
@@ -117,6 +117,8 @@ If the skyline question is also starting to shape the hotel base, compare that d
 
 For many first-time visitors, the practical cluster order is simple: use [Yu Garden](/places/yu-garden/) earlier if the same day needs old-core contrast, keep [French Concession](/places/french-concession/) for a different slower day, and only add [Lujiazui Skyline](/places/lujiazui-skyline/) if the elevated-view question still feels worth the extra effort.
 
+If the skyline timing already is settled and the live question becomes what dinner should happen before or after the riverfront, the narrower route-support page is [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/).
+
 ## What usually makes the Bund feel underwhelming?
 
 The Bund often disappoints when travelers:
@@ -140,5 +142,6 @@ The answer is usually not to skip it. The answer is to use it more intelligently
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the wider city role is still undecided
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to see how the Bund ranks against Shanghai's other best short-stay priorities
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are placing the Bund inside a real short stay
+- read [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/) if the skyline window is clear and the next live question is what kind of dinner should happen around it
 - read [Bund or Huangpu River Cruise: Which Shanghai Night Is Better for First-Time Visitors?](/guides/bund-or-huangpu-river-cruise-for-first-time-visitors/) if the real skyline-night decision is riverfront walk versus cruise event
 - read [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/) if you are comparing riverfront views with tower views

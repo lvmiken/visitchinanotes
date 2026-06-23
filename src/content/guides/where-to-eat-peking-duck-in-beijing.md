@@ -2,7 +2,7 @@
 title: "Where to Eat Peking Duck in Beijing for First-Time Visitors"
 description: "A practical guide to where first-time visitors should eat Peking duck in Beijing, including how to choose between classic, central, and more polished dinner options based on your itinerary and hotel area."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-06-23
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -169,6 +169,8 @@ After [Mutianyu Great Wall](/places/mutianyu-great-wall/), most first-time visit
 - one meal that does not require a second long line after a full outing
 
 That is one reason a more polished or more convenient duck dinner can outperform the internet's "best" famous branch on this day.
+
+If the real choice still is not duck versus duck, but whether the Great Wall return should be duck, hotpot, Sanlitun, or just a near-hotel easy dinner, the narrower planning page is [Where to Eat Dinner After the Great Wall in Beijing for First-Time Visitors](/guides/where-to-eat-dinner-after-the-great-wall-in-beijing/).
 
 ### Best fit for a lighter Day 3 or modern evening
 

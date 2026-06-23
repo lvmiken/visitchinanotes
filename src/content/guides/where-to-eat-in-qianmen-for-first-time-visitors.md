@@ -2,7 +2,7 @@
 title: "Where to Eat in Qianmen for First-Time Visitors"
 description: "Use this Qianmen food guide to decide where to eat after the Forbidden City, which time-honored Beijing stops are actually worth it, and when Qianmen is better for snacks than for a big dinner."
 publishDate: 2026-06-19
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 evening"
@@ -122,6 +122,10 @@ Choose a non-duck Qianmen meal if:
 
 This is often the smarter use of Qianmen on a 4-day trip, especially if Day 1 already carries the duck dinner and another evening still needs a strong central food identity.
 
+If that non-duck central meal should specifically be zhajiangmian, the narrower child page is [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/). That page is the cleaner next step once the real question becomes whether to use the Qianmen-Xianyukou noodle logic or a more specialist hutong-side bowl.
+
+If the trip instead wants one time-honored dumpling-style meal in the old core, the narrower child page is [Best Beijing Dumplings for First-Time Visitors](/guides/best-beijing-dumplings-for-first-time-visitors/). That is the cleaner next step once the real question becomes whether Qianmen should carry Du Yi Chu and the shaomai lane rather than another noodle or duck repeat.
+
 ## 3. Use Xianyukou, Dashilan, or a lighter continuation if the meal should be smaller than the district
 
 Qianmen is also useful when you do not need one giant dinner.
@@ -192,6 +196,8 @@ Many first-time visitors do best with one of these patterns:
 - one **central dinner elsewhere** plus a short Qianmen continuation
 - one **Qianmen lunch or snack block** on a slower day
 
+If the district already is fixed and the real question now is not dinner but how to start the morning well, the narrower page is [Where to Eat Breakfast in Qianmen for First-Time Visitors](/guides/where-to-eat-breakfast-in-qianmen-for-first-time-visitors/). If the missing decision is the midday stop instead of the evening, the narrower page is [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/).
+
 You usually do not need two separate Qianmen food missions on the same short trip.
 
 ## Common mistakes
@@ -207,5 +213,9 @@ You usually do not need two separate Qianmen food missions on the same short tri
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the broader district choice is still open
 - read [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) if you still need the wider comparison with Niujie, Huguosi, Wangfujing, and Sanlitun
 - read [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) if duck is still the real decision
+- read [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) if the trip needs one central everyday-Beijing noodle meal instead of another heavy dinner
+- read [Best Beijing Dumplings for First-Time Visitors](/guides/best-beijing-dumplings-for-first-time-visitors/) if the old-core evening already is fixed and the live question is whether one time-honored dumpling-style meal fits better than noodles or another duck stop
+- read [Where to Eat Breakfast in Qianmen for First-Time Visitors](/guides/where-to-eat-breakfast-in-qianmen-for-first-time-visitors/) if the district is already chosen and the live question is the morning, not dinner
+- read [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/) if the district is already chosen and the live question is the midday meal, not dinner
 - read [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) if the meal is already set and you mainly want the lighter snack layer
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place Qianmen into real days

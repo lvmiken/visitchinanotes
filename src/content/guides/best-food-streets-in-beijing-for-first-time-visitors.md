@@ -60,8 +60,11 @@ For many first-time visitors, the strongest food-area split is:
 - **Wangfujing** for convenience and an easy central stop
 - **Guijie** for a livelier crayfish, hotpot, or late-night food street
 - **Sanlitun** for a polished modern dinner
+- **Shichahai** for a softer lakeside old-city meal or snack-and-walk evening
 
 The mistake is expecting one district to solve all five jobs.
+
+Shichahai is not always a main food-street answer in the same way as Qianmen or Guijie, but it is one of the most useful softer district branches when the trip wants hutongs, water, and one less formal evening meal.
 
 ## Start with the kind of food block you want
 
@@ -199,6 +202,24 @@ Choose Sanlitun if:
 Sanlitun is strong, but it solves a different problem from Qianmen, Niujie, or Huguosi.
 
 If the modern-dinner district already is the real decision, the narrower child page is [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/).
+
+## 7. Shichahai: best for a softer lakeside old-city meal
+
+[Shichahai](/places/shichahai-area/) is strongest when the trip wants:
+
+- one gentler hutong-and-water evening
+- one meal that supports a walk instead of dominating the whole night
+- one grilled-lamb, halal-friendly, or lighter snack-led branch
+
+Choose Shichahai if:
+
+- the trip already has enough formal iconic dinner pressure
+- you want one old-city night that feels more relaxed than Qianmen
+- the route already uses Jingshan, Beihai, hutongs, or the Di'anmen-Shichahai side naturally
+
+It is usually weaker if you want the district to carry the trip's biggest symbolic Beijing dinner.
+
+If Shichahai already is the district you care about, the narrower child page is [Where to Eat in Shichahai for First-Time Visitors](/guides/where-to-eat-in-shichahai-for-first-time-visitors/).
 
 ## How to choose by trip situation
 

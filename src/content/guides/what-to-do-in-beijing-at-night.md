@@ -176,6 +176,12 @@ This is also often the best slot for one meaningful Beijing dinner, especially i
 
 If the dinner itself is the key decision, use [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) or [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/).
 
+If the live question is not only "what should we do at night?" but more specifically "where should dinner happen right after the Palace Museum?", the narrower route page is [Where to Eat Dinner After the Forbidden City in Beijing](/guides/where-to-eat-dinner-after-the-forbidden-city-in-beijing/).
+
+If the live question is whether the evening should stay softer and drift into lakeside walking after [Jingshan Park](/places/jingshan-park/), the narrower route page is [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/), and the narrower district page is [Where to Eat in Shichahai for First-Time Visitors](/guides/where-to-eat-in-shichahai-for-first-time-visitors/).
+
+If the district already is clearly **Shichahai** and the live question is how to use that night well rather than whether to choose the district at all, the narrower execution page is [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/).
+
 ## Best evening after the Great Wall day
 
 The best answer is often the least glamorous one:
@@ -256,6 +262,8 @@ That already gives the city more range than leaving every night unplanned.
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you want to see where one or two evenings actually fit inside a short stay
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want the fuller version with room for different evening moods
 - read [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) if the night plan is mostly a district-and-dinner decision
+- read [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/) if the old-city lakeside district is already fixed and the live question is how to spend that evening
+- read [Where to Eat in Shichahai for First-Time Visitors](/guides/where-to-eat-in-shichahai-for-first-time-visitors/) if the night already is leaning toward a softer lakeside meal rather than a more iconic or polished evening
 - read [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the real decision is one lively late-dinner street
 - read [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the real decision is bars, cocktails, Western restaurants, or a more international-feeling night
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the old-core evening is already the real decision

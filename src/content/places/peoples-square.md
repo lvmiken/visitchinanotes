@@ -2,7 +2,7 @@
 title: "People's Square in Shanghai: Is It Worth Real Time or Mainly a Smart Base Area?"
 description: "Decide whether People's Square deserves real time on a first Shanghai trip, when it works better as a practical central block, and how it compares with the Bund, Nanjing Road, or a slower neighborhood day."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-06-23
 city: "shanghai"
 whoItsFor:
   - "first-time Shanghai visitors deciding whether People's Square is a real stop or mainly a useful central base"
@@ -150,6 +150,8 @@ For many first-time visitors, People's Square works well as:
 
 It usually does not need to become a big stand-alone mission unless the broader central day already belongs here.
 
+If the district already is chosen and the live question is how to solve breakfast, lunch, or one easy central dinner without making the route heavier, the narrower execution page is [Where to Eat Near People's Square in Shanghai for First-Time Visitors](/guides/where-to-eat-near-peoples-square-in-shanghai-for-first-time-visitors/).
+
 ## When does it improve the trip most?
 
 People's Square often improves the trip most when:
@@ -177,4 +179,5 @@ It often improves the trip less when:
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the real question is whether this district should shape the hotel base
 - read [Nanjing Road in Shanghai: Is It Worth Your Time or Mostly a Convenience Stop?](/places/nanjing-road/) if the live choice is central practicality versus central commercial energy
 - read [Shanghai Museum for First-Time Visitors: When It Adds More Than Just Another Indoor Stop](/places/shanghai-museum/) if the area already looks useful and the museum decision now matters most
+- read [Where to Eat Near People's Square in Shanghai for First-Time Visitors](/guides/where-to-eat-near-peoples-square-in-shanghai-for-first-time-visitors/) if the district already is chosen and the live decision is what kind of meal should happen here
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the broader role of central Shanghai still feels too abstract

@@ -2,7 +2,7 @@
 title: "Best Beijing Hotpot for First-Time Visitors"
 description: "Find out where first-time visitors should eat Beijing hotpot, including Donglaishun, Niujie-style halal hotpot, and when instant-boiled mutton fits better than duck or a modern dinner."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -187,6 +187,10 @@ It is often weaker:
 - on the same night you were already planning the classic duck experience
 - when the whole evening only works if the district itself is scenic or iconic
 - if the day already is overloaded and a long queue will break it
+
+If the live question is not whether hotpot fits, but how to handle the whole Wall-return dinner decision between hotpot, duck, Sanlitun, or a near-hotel easy meal, go narrower with [Where to Eat Dinner After the Great Wall in Beijing for First-Time Visitors](/guides/where-to-eat-dinner-after-the-great-wall-in-beijing/).
+
+If the real question is specifically whether the better hotpot lane is Niujie-style halal dining rather than a more central or time-honored non-halal option, keep [Where to Eat Halal Food in Beijing for First-Time Visitors](/guides/where-to-eat-halal-food-in-beijing/) open too.
 
 ## A fast decision guide
 

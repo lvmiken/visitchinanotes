@@ -2,7 +2,7 @@
 title: "Shanghai 3-Day Itinerary for First-Time Visitors"
 description: "Use this Shanghai 3-day itinerary to plan a first trip around the Bund, the French Concession, classic food stops, and one realistic Pudong or museum block without wasting time on cross-city detours."
 publishDate: 2026-06-14
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -98,6 +98,10 @@ If the skyline decision itself is still fuzzy, read [The Bund for First-Time Vis
 
 If the same day also needs a more traditional-core stop, [Yu Garden](/places/yu-garden/) usually works best as the earlier contrast inside this central block instead of becoming a whole separate day by itself.
 
+If the skyline part already is fixed and the live question is what dinner should happen before or after the riverfront, the narrower route-support page is [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/).
+
+If that same central day is continuing through [Nanjing Road](/places/nanjing-road/) and the live question is whether the area should carry shengjian, snacks, or one easy central dinner, the narrower route-support page is [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/).
+
 ### Good Day 1 structure
 
 - one central historic-core or Bund-side block
@@ -131,7 +135,15 @@ If you are unsure whether Day 2 should stay purely neighborhood-led or carry one
 
 If the live decision is where to attach the best lunch, dinner, or drinks stop to this slower day, [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) is the practical next page. In many first trips, the French Concession is the easiest day to let food and neighborhood rhythm support each other naturally.
 
+If that Day 2 food question already is no longer citywide and has narrowed to exactly what should happen inside the district itself, the more specific route-support page is [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/).
+
+If the trip also wants one useful local breakfast without letting the morning become extra transport work, the narrower morning layer is [Where to Eat Breakfast in Shanghai for First-Time Visitors](/guides/where-to-eat-breakfast-in-shanghai-for-first-time-visitors/).
+
+If the trip wants one calmer everyday local meal so Shanghai does not become dumplings only, the narrower support page is [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/).
+
 If Day 2 also is the best candidate for your one slower evening with dinner, drinks, or a longer walk instead of a skyline ritual, [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) is the next practical page.
+
+If that Day 2 evening already is narrowing specifically into the neighborhood version rather than a polished Xintiandi finish, the narrower route-support page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/).
 
 If the weather turns and this neighborhood day stops looking attractive on paper, [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) is the quickest way to decide whether to keep a shorter district block, pivot to [Shanghai Museum](/places/shanghai-museum/), or turn the day into food plus one easier evening.
 
@@ -162,6 +174,8 @@ This is usually the point where the final place-page comparison becomes genuinel
 - [Shanghai Museum](/places/shanghai-museum/) if you want indoor depth and weather protection
 - [Yu Garden](/places/yu-garden/) if you want classic old-core contrast
 - [The Bund](/places/the-bund/) again if visibility or skyline timing on Day 1 was weak and you want a cleaner second shot
+
+If this final day stays around [Shanghai Museum](/places/shanghai-museum/), [People's Square](/places/peoples-square/), or a central hotel base, the narrower route-support page is [Where to Eat Near People's Square in Shanghai for First-Time Visitors](/guides/where-to-eat-near-peoples-square-in-shanghai-for-first-time-visitors/). It is often the cleanest answer when Day 3 needs one useful breakfast, lunch, or early dinner instead of another destination meal.
 
 ### Good Day 3 versions
 
@@ -228,7 +242,11 @@ That is enough for the city to feel stylish, useful, and memorable without becom
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the city still needs to be ranked against other route options
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and you want a cleaner adult shortlist behind this route
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the next practical decision is which district should carry the skyline dinner, neighborhood meal, or final-night dinner
+- read [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/) if Day 1 already is skyline-led and the live question is how to place the most useful central meal around the riverfront
+- read [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/) if Day 1 already is using the central shopping corridor and the live question is how to keep the meal layer easy
+- read [Where to Eat Near People's Square in Shanghai for First-Time Visitors](/guides/where-to-eat-near-peoples-square-in-shanghai-for-first-time-visitors/) if Day 3 already is central, museum-led, or hotel-led and the real question is how to keep the food layer simple
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the next practical decision is how to make one or two Shanghai evenings feel intentional
+- read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if your neighborhood day already is chosen and the live question is how to use that evening without overbuilding it
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the itinerary is mostly clear and the next real risk is weak booking order
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the itinerary is mostly clear and the next real question is how the city moves in practice
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if your dates are fixed and you want a realistic bad-weather fallback before you travel

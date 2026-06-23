@@ -161,8 +161,8 @@ Its value comes from fit, not from raw scale.
 ## Which page to read next
 
 - read [Forbidden City for First-Time Visitors](/places/forbidden-city/) if the palace side of the central day still is not settled
+- read [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/) if the park is set and the live question is what district or dinner should happen next
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you want to place Jingshan inside a shorter stay
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want the fuller route logic around the central day
 - read [Qianmen for First-Time Visitors](/places/qianmen/) if the evening side of the day still is not clear
 - read [Wangfujing for First-Time Visitors](/places/wangfujing/) if the route needs the easier commercial continuation instead
-

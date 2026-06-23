@@ -2,7 +2,7 @@
 title: "Beijing 4-Day Itinerary for First-Time Visitors"
 description: "Use this Beijing 4-day itinerary to cover the Forbidden City, the Great Wall, temple or park time, better food stops, and evenings that still feel enjoyable on a first trip."
 publishDate: 2026-06-17
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "4 days"
@@ -100,7 +100,13 @@ If the bigger missing piece is how Beijing evenings should work across the whole
 
 If food is supposed to be one of the real memories of the trip, this is also the strongest place to attach [a real Beijing food evening](/guides/what-to-eat-in-beijing-for-first-time-visitors/). For many readers, that becomes [one proper Peking duck dinner](/guides/where-to-eat-peking-duck-in-beijing/), but it does not have to stop there.
 
-If the part still missing is not the dish but the district, use [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) before you overcomplicate the evening. If the trip needs a stronger non-duck food layer, use [What to Eat in Beijing Besides Peking Duck](/guides/what-to-eat-in-beijing-besides-peking-duck/). If the district itself is the decision, [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) is the better comparison. Once you already know the district, narrow further with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/), or [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/). If the night should be drinks-led or more international, [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) and [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) are the better branches.
+If the main central-day food question is what lunch should happen after the Palace Museum rather than which dinner should happen later, use [Where to Eat Lunch Near the Forbidden City for First-Time Visitors](/guides/where-to-eat-lunch-near-forbidden-city-in-beijing/) before you overcomplicate Day 1.
+
+If the main central-day food question is how to end the Palace Museum day with the right dinner district or duck decision, use [Where to Eat Dinner After the Forbidden City in Beijing](/guides/where-to-eat-dinner-after-the-forbidden-city-in-beijing/) before you overcomplicate the evening.
+
+If the route is already specifically using [Jingshan Park](/places/jingshan-park/) as the scenic bridge and the live decision is what dinner should happen after that, the narrower execution page is [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/).
+
+If the part still missing is not the dish but the district, use [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) before you overcomplicate the evening. If the trip needs a stronger non-duck food layer, use [What to Eat in Beijing Besides Peking Duck](/guides/what-to-eat-in-beijing-besides-peking-duck/). If the trip specifically wants one everyday-Beijing noodle meal on Day 1 or Day 3, the narrower child page is [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/). If the district itself is the decision, [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) is the better comparison. Once you already know the district, narrow further with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/), or [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/). If the night should be drinks-led or more international, [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) and [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) are the better branches.
 
 ### Why this day works
 
@@ -159,6 +165,8 @@ What it should not be is "the second major sightseeing session of the day."
 
 This is usually not the smartest night to chase Beijing's most line-heavy duck dinner unless the restaurant is already easy from your hotel and the rest of the day stayed lighter than expected.
 
+If the live question already is how to choose that dinner well, use [Where to Eat Dinner After the Great Wall in Beijing for First-Time Visitors](/guides/where-to-eat-dinner-after-the-great-wall-in-beijing/) before you default to the most famous restaurant name.
+
 ### What not to do
 
 - do not return from the Wall and then try to do another major landmark
@@ -193,7 +201,11 @@ If you want a more modern counterweight after two history-heavy days, this is al
 
 That choice is usually much easier once you compare all three evening patterns together in [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/).
 
-For many readers, this becomes the better night for a more polished Beijing meal too, because the day has more flexibility than the central imperial day and less fatigue than the Wall return. It is often the best slot for the broader "Beijing as a food city" layer, not only the old-core classics. It can also be the cleanest day for a deliberate [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/) detour if you want the trip to go beyond duck and central-core restaurants.
+For many readers, this becomes the better night for a more polished Beijing meal too, because the day has more flexibility than the central imperial day and less fatigue than the Wall return. It is often the best slot for the broader "Beijing as a food city" layer, not only the old-core classics. It can also be the cleanest day for a deliberate [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/) detour if you want the trip to go beyond duck and central-core restaurants. If the smarter Day 3 meal is one practical local lunch instead of another heavy dinner, [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) is often the better fit.
+
+If Day 3 already clearly is becoming a Niujie day and the live question is not only what to eat there but whether the district should end the day or lead into one more softer continuation, the narrower route page is [What to Do After Niujie in Beijing for First-Time Visitors](/guides/what-to-do-after-niujie-for-first-time-visitors/).
+
+If the calmer city day already is clearly a Temple-of-Heaven day and the live question is what to eat around it, use [Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitors](/guides/where-to-eat-near-temple-of-heaven-in-beijing/).
 
 If the day should start softer rather than end heavier, this is also one of the cleanest places to use [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) or the narrower [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) before the afternoon picks up again.
 
@@ -340,4 +352,5 @@ That is what this structure is trying to do.
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if hotel location is still preventing the day structure from settling
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if this route needs to work for children without losing the main Beijing payoffs
 - read [Best Parks in Beijing for First-Time Visitors](/guides/best-parks-in-beijing-for-first-time-visitors/) if your calmer day still needs a better park choice
+- read [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/) if a slower Jingshan-led evening still needs its district choice
 - read [How to Plan a Trip to China Without Overbuilding Your Itinerary](/topics/plan-your-trip/) if the wider route is still too dense, not just Beijing itself

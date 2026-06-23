@@ -121,6 +121,8 @@ This is often strongest when the sentence is:
 
 We want one real Shanghai dinner, but we want the district and atmosphere to matter too.
 
+If the live question is no longer the citywide benbang ranking but whether the whole French Concession dinner should happen at Lan Xin, Wu You Xian, or a simpler district stop, the narrower route-first page is [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/).
+
 ## 3. Choose Fu 1039 if you want the polished middle ground
 
 Current MICHELIN Guide coverage still describes **Fu 1039** as focusing on home-style Shanghainese cooking and notes that its more complex preparations still keep the local-food core intact.
@@ -226,5 +228,6 @@ That is why the strongest Shanghai food structure often is:
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the broader food structure still is not set
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the district question still is open
 - read [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/) if you want the wider restaurant layer beyond the Shanghainese-dinner question
+- read [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) if the live choice is a neighborhood benbang dinner versus a different French Concession meal style
 - read [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/) if the trip still needs the symbolic dumpling meal
 - read [Where to Eat Shengjian in Shanghai for First-Time Visitors](/guides/where-to-eat-shengjian-in-shanghai-for-first-time-visitors/) if the trip still needs the practical everyday dumpling stop

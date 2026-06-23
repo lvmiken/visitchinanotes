@@ -2,7 +2,7 @@
 title: "What to Eat in Beijing Besides Peking Duck"
 description: "Find out what first-time visitors should eat in Beijing besides Peking duck, including zhajiangmian, copper hotpot, halal classics, snacks, and which dishes are most worth your limited meals."
 publishDate: 2026-06-19
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -80,6 +80,10 @@ Choose this if:
 
 This is often the smartest `second Beijing food choice` after duck.
 
+If the live question already is which shop or district-fit version should carry that noodle meal, go narrower with [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/).
+
+If the group wants a more shareable non-duck local meal than zhajiangmian, the next narrower page is [Best Beijing Dumplings for First-Time Visitors](/guides/best-beijing-dumplings-for-first-time-visitors/).
+
 ## 2. Instant-boiled mutton or copper hotpot
 
 This is one of the best ways to understand the northern side of Beijing food.
@@ -117,6 +121,8 @@ Choose this layer if:
 - you want Beijing food to feel broader than one imperial-core cliche
 
 If the district decision itself is the real problem, the better next page is [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/).
+
+If the real question is more direct, such as where first-time visitors should actually eat halal food in Beijing and whether Niujie is worth the detour, the narrower companion is [Where to Eat Halal Food in Beijing for First-Time Visitors](/guides/where-to-eat-halal-food-in-beijing/).
 
 ## Snacks and sweets: worth using selectively
 
@@ -204,6 +210,8 @@ If the route uses [Temple of Heaven](/places/temple-of-heaven/), [Beihai Park](/
 - snack and sweet stops
 - one more exploratory local meal
 
+If the Temple-of-Heaven meal itself is the live question, go narrower with [Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitors](/guides/where-to-eat-near-temple-of-heaven-in-beijing/).
+
 ## Common mistakes
 
 - treating Beijing food like duck plus random filler
@@ -216,7 +224,10 @@ If the route uses [Temple of Heaven](/places/temple-of-heaven/), [Beihai Park](/
 
 - read [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) if the overall food structure still needs work
 - read [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) if the real question is which district should carry these foods
+- read [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) if the noodle meal itself is already the live decision
 - read [Best Beijing Hotpot for First-Time Visitors](/guides/best-beijing-hotpot-for-first-time-visitors/) if the hotpot dinner itself is now the real decision
+- read [Where to Eat Halal Food in Beijing for First-Time Visitors](/guides/where-to-eat-halal-food-in-beijing/) if the trip clearly needs one stronger halal-food layer
+- read [Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitors](/guides/where-to-eat-near-temple-of-heaven-in-beijing/) if the calmer city day already is fixed and the real question is which meal should carry it
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the meal placement by area is the main decision now
 - read [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) if you want the lighter morning and snack layer
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place these meals into real days

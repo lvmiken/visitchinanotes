@@ -2,7 +2,7 @@
 title: "French Concession in Shanghai: Is It Worth Visiting for First-Time Visitors?"
 description: "Decide whether the French Concession is worth your time, what makes it one of Shanghai's most livable and international-feeling neighborhoods, and how to fit it into a short first trip."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-23
 city: "shanghai"
 whoItsFor:
   - "travelers who want a more lived-in side of Shanghai"
@@ -24,6 +24,8 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-where-to-stay"
   - "shanghai-3-day-itinerary"
+  - "where-to-eat-in-french-concession-for-first-time-visitors"
+  - "what-to-do-in-french-concession-at-night-for-first-time-visitors"
 tags:
   - "Shanghai"
   - "French Concession"
@@ -109,6 +111,8 @@ If your hotel question already has narrowed to Shanghai's most common Puxi-side 
 
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if this district is influencing your hotel decision
 - read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the live choice is classic skyline convenience versus slower neighborhood rhythm
+- read [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) if the district already is chosen and the live question is what kind of meal belongs there
+- read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the district already is chosen and the live question is how to use the evening well
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to see why neighborhood rhythm often matters more than one extra lower-priority landmark
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are building the neighborhood day now
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are balancing atmospheric time against headline skyline time

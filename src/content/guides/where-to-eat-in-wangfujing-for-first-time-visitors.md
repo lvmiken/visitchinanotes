@@ -2,7 +2,7 @@
 title: "Where to Eat in Wangfujing for First-Time Visitors"
 description: "Use this Wangfujing food guide to decide whether Beijing's best-known central shopping street fits your meal plans, what kind of food stop works best there, and when Wangfujing is better than Qianmen."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-06-23
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 light food block"
@@ -109,6 +109,12 @@ That makes it especially useful after:
 - a day where the route already has enough complexity
 
 This is not glamorous advice, but it is often the right advice.
+
+If the live question is even narrower and the real job is specifically the post-Palace-Museum meal rather than Wangfujing as a whole district, the execution page is [Where to Eat Lunch Near the Forbidden City for First-Time Visitors](/guides/where-to-eat-lunch-near-forbidden-city-in-beijing/).
+
+If the live question comes earlier in the same central-Beijing route and the real job is breakfast before entering the Palace Museum, the narrower page is [Where to Eat Breakfast Near the Forbidden City in Beijing](/guides/where-to-eat-breakfast-near-forbidden-city-in-beijing/).
+
+If the meal should be one practical local noodle lunch rather than hotpot, mall dining, or a broader district evening, the narrower page is [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/). That is often the cleaner branch once Wangfujing already is fixed and you want one recognizably Beijing meal without adding too much friction.
 
 ## 2. Use time-honored or recognizable anchors when you want a safer first-trip meal
 
@@ -242,6 +248,7 @@ It is less urgent if:
 
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the broader district choice is still open
 - read [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) if you still need the wider comparison with Qianmen, Niujie, Huguosi, and Sanlitun
+- read [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) if you want one easier central Beijing noodle meal
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if the real question is whether Wangfujing should carry one evening at all
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if you decide the trip needs a stronger historic-core meal
 - read [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) if the real need is a more traditional snack stop

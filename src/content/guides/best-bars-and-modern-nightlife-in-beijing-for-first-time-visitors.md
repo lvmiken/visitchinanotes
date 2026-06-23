@@ -135,6 +135,8 @@ Choose Shichahai if:
 
 It is usually weaker if the group specifically wants a modern cocktail bar or stronger Western-dining night.
 
+If the district already is fixed and the real question is how to spend the whole evening there rather than whether it wins against Sanlitun or Liangma River, the narrower execution page is [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/).
+
 ## 4. Choose the hotel area if energy is already gone
 
 This is not glamorous advice, but it is often the right one.
@@ -203,6 +205,7 @@ After [Mutianyu Great Wall](/places/mutianyu-great-wall/) or [Badaling Great Wal
 
 - read [Sanlitun in Beijing: Is It Worth Visiting, Staying, or Going Out?](/places/sanlitun/) if the modern district itself is the main decision
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if you still need the broader evening comparison
+- read [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/) if the live question is the softer lakeside old-city night itself
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the evening is mainly a dinner-district decision before the bar question
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the real question is still dinner district, not nightlife shape
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place a modern evening into a fuller route
