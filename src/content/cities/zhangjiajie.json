@@ -30,6 +30,11 @@
   ],
   "transportNote": "Zhangjiajie benefits from guidance that sets realistic expectations about transfers, park pacing, and how mountain weather can affect the experience.",
   "homepageGroups": ["scenic-escapes"],
-  "featuredGuideSlugs": ["zhangjiajie-how-many-days", "zhangjiajie-first-time-park-planning"],
+  "heroImage": "/images/heroes/zhangjiajie-mountains.jpg",
+  "heroImageAlt": "Misty sandstone peaks rising through the forest in Zhangjiajie.",
+  "heroImageAttributionName": "chensiyuan",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg",
+  "heroImageLicense": "CC BY-SA 4.0",
+  "featuredGuideSlugs": ["best-things-to-do-in-zhangjiajie-for-first-time-visitors", "zhangjiajie-2-day-itinerary-for-first-time-visitors", "zhangjiajie-how-many-days", "zhangjiajie-first-time-park-planning", "zhangjiajie-where-to-stay", "zhangjiajie-with-kids-for-first-time-visitors", "where-to-stay-in-zhangjiajie-with-kids"],
   "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "attraction-reservations", "train-vs-flight"]
 }

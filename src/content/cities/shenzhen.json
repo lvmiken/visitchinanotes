@@ -30,6 +30,11 @@
   ],
   "transportNote": "Shenzhen becomes much easier to use when the Hong Kong connection, rail timing, and hotel district are decided before the route gets overbuilt.",
   "homepageGroups": ["south-east-add-ons"],
+  "heroImage": "/images/heroes/shenzhen-skyline.jpg",
+  "heroImageAlt": "Shenzhen skyline at dusk with riverfront roads in the foreground.",
+  "heroImageAttributionName": "Charlie fong",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:Shenzhen_West_at_dust2021.jpg",
+  "heroImageLicense": "CC BY-SA 4.0",
   "featuredGuideSlugs": ["shenzhen-first-time-guide", "how-many-days-in-shenzhen-for-first-time-visitors", "where-to-stay-in-shenzhen-for-first-time-visitors", "shenzhen-3-day-itinerary", "what-to-eat-in-shenzhen-for-first-time-visitors", "what-to-do-in-shenzhen-at-night-for-first-time-visitors"],
   "featuredTopicSlugs": ["hong-kong-or-shenzhen-for-first-time-visitors", "where-to-start", "choosing-hotel-location", "airport-to-city", "what-apps-you-need-for-a-china-trip", "how-to-pay-in-china", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail", "book-high-speed-train", "12306-for-foreigners", "how-to-ride-china-high-speed-rail"],
   "featuredPlaceSlugs": ["shenzhen-bay-and-houhai", "shekou-sea-world", "nantou-ancient-town", "dongmen-old-street"]

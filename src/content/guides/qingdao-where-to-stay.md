@@ -21,6 +21,11 @@ tags:
   - "Qingdao"
   - "Hotels"
   - "Neighborhoods"
+heroImage: "/images/heroes/qingdao-zhanqiao.jpg"
+heroImageAlt: "Zhanqiao Pier stretching into the sea in Qingdao with Little Qingdao beyond."
+heroImageAttributionName: "K.Y.K.Z.K."
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhanqiao_pier_with_Little_Qingdao_Isle.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "What is the best area to stay in Qingdao?"

@@ -22,6 +22,11 @@ tags:
   - "Chongqing"
   - "3 days"
   - "Itinerary"
+heroImage: "/images/heroes/chongqing-skyline.jpg"
+heroImageAlt: "Aerial night view of Chongqing's Yuzhong skyline framed by the rivers."
+heroImageAttributionName: "Jonipoon"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg"
+heroImageLicense: "CC BY 3.0"
 author: "Editorial Team"
 faq:
   - question: "Is three days enough for Chongqing?"

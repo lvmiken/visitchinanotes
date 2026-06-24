@@ -28,6 +28,8 @@ faq:
 
 Zhangjiajie is one of those places where the answer depends less on distance and more on how much flexibility the trip can afford.
 
+If the live question still is not only how many days the stop deserves but what should actually fill those days, the clearest next page is [Best Things to Do in Zhangjiajie for First-Time Visitors](/guides/best-things-to-do-in-zhangjiajie-for-first-time-visitors/).
+
 ## Choose two days if
 
 - this is one stop in a wider route
@@ -43,3 +45,13 @@ Zhangjiajie is one of those places where the answer depends less on distance and
 If the trip-length question already is narrowing into which branch should carry those days, go next to [Zhangjiajie National Forest Park: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-national-forest-park/), [Yuanjiajie in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/yuanjiajie/), [Golden Whip Stream in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/golden-whip-stream/), [Tianzi Mountain in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/tianzi-mountain/), [Tianmen Mountain in Zhangjiajie: Is It Worth It on a First Trip?](/places/tianmen-mountain/), and [Zhangjiajie Grand Canyon Glass Bridge: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-grand-canyon-glass-bridge/).
 
 If the live decision is less about raw day count and more about which major scenic anchor deserves those days first, the clearer next page is [Zhangjiajie National Forest Park or Tianmen Mountain for First-Time Visitors?](/guides/zhangjiajie-national-forest-park-or-tianmen-mountain-for-first-time-visitors/).
+
+If the day count is nearly settled and the next live question is whether to sleep in Wulingyuan or downtown Zhangjiajie, the clearer next page is [Best Area to Stay in Zhangjiajie for First-Time Visitors](/guides/zhangjiajie-where-to-stay/).
+
+If the day count is already workable and the next problem is how to handle arrival or daily movement cleanly, the practical next reads are [How to Get From Zhangjiajie Airport or West Station to the City and Wulingyuan](/guides/zhangjiajie-airport-or-west-station-to-city-and-wulingyuan/) and [How to Get Around Zhangjiajie for First-Time Visitors](/guides/how-to-get-around-zhangjiajie-for-first-time-visitors/).
+
+If the day count is already workable and the next problem is which scenic days, trains, or hotel base should be locked first, the practical next page is [What to Book in Advance for Zhangjiajie: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-zhangjiajie/).
+
+If `2 days` is the version that already looks most realistic and the next question is how to sequence those days well, the practical next page is [A Practical 2-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-2-day-itinerary-for-first-time-visitors/).
+
+If `3 days` is the version that now looks most realistic and the next question is how to use that fuller stay without wasting the extra day, the practical next page is [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).

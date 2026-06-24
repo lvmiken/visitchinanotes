@@ -30,6 +30,11 @@
   ],
   "transportNote": "Hangzhou is easiest to use as a softer scenic stop when rail timing and the Shanghai connection are planned before the final itinerary is fixed.",
   "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "heroImage": "/images/heroes/hangzhou-west-lake.jpg",
+  "heroImageAlt": "Sunset light reflecting across West Lake in Hangzhou.",
+  "heroImageAttributionName": "Morio",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:West_Lake_(Hangzhou)_sunset_2016_January.jpg",
+  "heroImageLicense": "CC BY-SA 4.0",
   "featuredGuideSlugs": ["hangzhou-first-time-guide", "hangzhou-west-lake-planning", "hangzhou-day-trip-or-overnight"],
   "featuredTopicSlugs": ["where-to-start", "choosing-hotel-location", "plan-your-trip", "train-vs-flight", "high-speed-rail"]
 }

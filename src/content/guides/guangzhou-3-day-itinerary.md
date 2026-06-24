@@ -21,6 +21,11 @@ tags:
   - "Guangzhou"
   - "3 days"
   - "Itinerary"
+heroImage: "/images/heroes/guangzhou-skyline.jpg"
+heroImageAlt: "Guangzhou skyline rising beyond the riverfront."
+heroImageAttributionName: "kevinmcgill from Den Bosch, Netherlands"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Guangzhou_skyline_(6343573781).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 author: "Editorial Team"
 faq:
   - question: "How many days do you need in Guangzhou?"

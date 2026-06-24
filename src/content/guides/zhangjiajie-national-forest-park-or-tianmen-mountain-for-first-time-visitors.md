@@ -37,6 +37,8 @@ This is one of the most important Zhangjiajie planning decisions because both na
 
 But on a real itinerary, they do not solve the same problem.
 
+If the live question still is broader than this comparison and you first need the full shortlist of what deserves time at all, start with [Best Things to Do in Zhangjiajie for First-Time Visitors](/guides/best-things-to-do-in-zhangjiajie-for-first-time-visitors/).
+
 ## Who this page is for
 
 Use this page if you are asking:

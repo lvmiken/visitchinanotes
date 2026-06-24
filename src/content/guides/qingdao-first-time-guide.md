@@ -21,6 +21,11 @@ tags:
   - "Qingdao"
   - "First trip"
   - "Coastal city"
+heroImage: "/images/heroes/qingdao-zhanqiao.jpg"
+heroImageAlt: "Zhanqiao Pier stretching into the sea in Qingdao with Little Qingdao beyond."
+heroImageAttributionName: "K.Y.K.Z.K."
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhanqiao_pier_with_Little_Qingdao_Isle.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is Qingdao worth visiting on a first trip to China?"
@@ -41,6 +46,8 @@ This page is best for travelers who still are trying to answer the broad Qingdao
 If you already know the exact decision, the narrower page is usually better:
 
 - [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/)
+- [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/)
+- [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/)
 - [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/)
 - [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/)
 - [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/)
@@ -94,6 +101,8 @@ Two or three days is enough for most first visits. That gives enough room for wa
 ## Which page to read next
 
 - read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if the city is confirmed and you want the clearest shortlist before locking the days
+- read [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/) if the city is confirmed and the next live question is how to use your limited seafood and beer meals well
+- read [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/) if the city is confirmed and the next live question is which district should carry the seafood dinner or snack block
 - read [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) if hotel area is the next decision
 - read [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) if Qingdao already is confirmed
 - read [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/) if you still are deciding where it belongs

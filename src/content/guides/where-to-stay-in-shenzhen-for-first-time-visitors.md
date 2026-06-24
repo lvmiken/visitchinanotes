@@ -24,6 +24,11 @@ tags:
   - "Hotels"
   - "Neighborhoods"
   - "South China"
+heroImage: "/images/heroes/shenzhen-skyline.jpg"
+heroImageAlt: "Shenzhen skyline at dusk with riverfront roads in the foreground."
+heroImageAttributionName: "Charlie fong"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shenzhen_West_at_dust2021.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "What is the best area to stay in Shenzhen for first-time visitors?"

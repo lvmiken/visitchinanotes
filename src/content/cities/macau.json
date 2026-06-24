@@ -30,6 +30,11 @@
   ],
   "transportNote": "Macau is easiest to use when it is planned as part of a South China cluster instead of as an isolated major stop.",
   "homepageGroups": ["south-east-add-ons"],
+  "heroImage": "/images/heroes/macau-skyline.jpg",
+  "heroImageAlt": "Macau skyline across the peninsula hillside.",
+  "heroImageAttributionName": "Joybot",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:Macau_skyline_(22747558948).jpg",
+  "heroImageLicense": "CC BY-SA 2.0",
   "featuredGuideSlugs": ["macau-first-time-guide", "how-many-days-in-macau-for-first-time-visitors", "where-to-stay-in-macau-for-first-time-visitors", "macau-2-day-itinerary", "what-to-eat-in-macau-for-first-time-visitors"],
   "featuredTopicSlugs": ["hong-kong-or-macau-for-first-time-visitors", "where-to-start", "choosing-hotel-location", "plan-your-trip", "what-apps-you-need-for-a-china-trip", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail"],
   "featuredPlaceSlugs": ["senado-square", "taipa-village"]

@@ -19,6 +19,11 @@ tags:
   - "Hangzhou"
   - "Day trip"
   - "Trip planning"
+heroImage: "/images/heroes/hangzhou-west-lake.jpg"
+heroImageAlt: "Sunset light reflecting across West Lake in Hangzhou."
+heroImageAttributionName: "Morio"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:West_Lake_(Hangzhou)_sunset_2016_January.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is Hangzhou worth staying overnight?"
@@ -40,3 +45,5 @@ Hangzhou can work as either a fast scenic add-on or a more restorative stop betw
 - you want room for tea-culture stops
 
 If the route already is sure about Hangzhou and the live question is which branch deserves the day, narrow it with [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/), [Broken Bridge in Hangzhou: Is It Worth It for First-Time Visitors?](/places/broken-bridge/), [Leifeng Pagoda in Hangzhou: Is It Worth It for First-Time Visitors?](/places/leifeng-pagoda/), [Lingyin Temple in Hangzhou: Is It Worth It on a First Trip?](/places/lingyin-temple/), [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/), [Xixi Wetland in Hangzhou: Is It Worth It for First-Time Visitors?](/places/xixi-wetland/), and [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/).
+
+If the overnight version already is winning and the live question now is which base keeps that short stop easiest, the next page is [Best Area to Stay in Hangzhou for First-Time Visitors](/guides/hangzhou-where-to-stay/).

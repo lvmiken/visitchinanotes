@@ -20,6 +20,11 @@ tags:
   - "Zhangjiajie"
   - "Itinerary planning"
   - "Scenic routes"
+heroImage: "/images/heroes/zhangjiajie-mountains.jpg"
+heroImageAlt: "Misty sandstone peaks rising through the forest in Zhangjiajie."
+heroImageAttributionName: "chensiyuan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "How should first-time travelers plan Zhangjiajie?"
@@ -28,9 +33,21 @@ faq:
 
 The easiest mistake in Zhangjiajie is to plan it like a dense city itinerary instead of a scenery-and-energy itinerary.
 
+If the live question still is not only how to pace the stop but what really deserves the best time in the first place, start with [Best Things to Do in Zhangjiajie for First-Time Visitors](/guides/best-things-to-do-in-zhangjiajie-for-first-time-visitors/).
+
+If the route already is confirmed but the live practical question now is how to arrive smoothly or move between downtown Zhangjiajie and Wulingyuan without wasting energy, start with [How to Get From Zhangjiajie Airport or West Station to the City and Wulingyuan](/guides/zhangjiajie-airport-or-west-station-to-city-and-wulingyuan/) and [How to Get Around Zhangjiajie for First-Time Visitors](/guides/how-to-get-around-zhangjiajie-for-first-time-visitors/).
+
+If the route already is confirmed and the live question now is where to base yourself for the smoothest version of the trip, start with [Best Area to Stay in Zhangjiajie for First-Time Visitors](/guides/zhangjiajie-where-to-stay/).
+
 If the biggest decision still is whether the main first-time anchor should be the fuller park world or the more concentrated dramatic mountain day, start with [Zhangjiajie National Forest Park or Tianmen Mountain for First-Time Visitors?](/guides/zhangjiajie-national-forest-park-or-tianmen-mountain-for-first-time-visitors/).
 
 If the live question still is which branch deserves the main time, narrow it with [Zhangjiajie National Forest Park: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-national-forest-park/), [Yuanjiajie in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/yuanjiajie/), [Golden Whip Stream in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/golden-whip-stream/), [Tianzi Mountain in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/tianzi-mountain/), [Tianmen Mountain in Zhangjiajie: Is It Worth It on a First Trip?](/places/tianmen-mountain/), and [Zhangjiajie Grand Canyon Glass Bridge: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-grand-canyon-glass-bridge/).
+
+If the major choices already are mostly settled and the live question now is how to place them across a realistic short stay, use [A Practical 2-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-2-day-itinerary-for-first-time-visitors/).
+
+If the route already clearly deserves a fuller mountain version rather than a shorter sample, use [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).
+
+If the route shape already is mostly right but the live question is which season gives the trip the best chance of views, lighter walking, and calmer pacing, use [Best Time to Visit Zhangjiajie for First-Time Visitors](/guides/best-time-to-visit-zhangjiajie-for-first-time-visitors/).
 
 ## Start with one anchor goal per day
 

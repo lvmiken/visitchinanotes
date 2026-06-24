@@ -21,6 +21,11 @@ tags:
   - "Chengdu"
   - "3 days"
   - "Itinerary"
+heroImage: "/images/heroes/chengdu-anshun-bridge.jpg"
+heroImageAlt: "Anshun Bridge lit up over the Jin River at night in Chengdu."
+heroImageAttributionName: "Daniel Lu (User:dllu)"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is three days enough for Chengdu?"

@@ -20,6 +20,11 @@ tags:
   - "Guangzhou"
   - "First trip"
   - "South China"
+heroImage: "/images/heroes/guangzhou-skyline.jpg"
+heroImageAlt: "Guangzhou skyline rising beyond the riverfront."
+heroImageAttributionName: "kevinmcgill from Den Bosch, Netherlands"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Guangzhou_skyline_(6343573781).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 author: "Editorial Team"
 faq:
   - question: "Is Guangzhou worth visiting for first-time travelers to China?"

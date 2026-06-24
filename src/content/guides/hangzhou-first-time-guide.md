@@ -20,6 +20,11 @@ tags:
   - "Hangzhou"
   - "First trip"
   - "Scenic pace"
+heroImage: "/images/heroes/hangzhou-west-lake.jpg"
+heroImageAlt: "Sunset light reflecting across West Lake in Hangzhou."
+heroImageAttributionName: "Morio"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:West_Lake_(Hangzhou)_sunset_2016_January.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is Hangzhou worth visiting for first-time travelers to China?"
@@ -28,9 +33,15 @@ faq:
 
 Hangzhou is the kind of stop that changes the mood of a China trip more than the checklist length.
 
+If the city already is confirmed and the live question now is where to base yourself, start with [Best Area to Stay in Hangzhou for First-Time Visitors](/guides/hangzhou-where-to-stay/).
+
 If the city already is confirmed and the real question is which Hangzhou anchor deserves the time, go narrower with [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/), [Broken Bridge in Hangzhou: Is It Worth It for First-Time Visitors?](/places/broken-bridge/), [Leifeng Pagoda in Hangzhou: Is It Worth It for First-Time Visitors?](/places/leifeng-pagoda/), [Lingyin Temple in Hangzhou: Is It Worth It on a First Trip?](/places/lingyin-temple/), [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/), [Xixi Wetland in Hangzhou: Is It Worth It for First-Time Visitors?](/places/xixi-wetland/), and [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/).
 
 If the route already is sure about Hangzhou and the live question now is what actually deserves priority, start with [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
+
+If the city already is confirmed and the live question now is which foods actually deserve your limited meals, start with [What to Eat in Hangzhou for First-Time Visitors](/guides/what-to-eat-in-hangzhou-for-first-time-visitors/).
+
+If the city already is confirmed and the live question now is which area should carry your best meals, start with [Where to Eat in Hangzhou for First-Time Visitors](/guides/where-to-eat-in-hangzhou-for-first-time-visitors/).
 
 ## Choose Hangzhou for atmosphere, not for density
 

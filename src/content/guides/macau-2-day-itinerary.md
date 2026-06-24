@@ -24,6 +24,11 @@ tags:
   - "Itinerary"
   - "2 days"
   - "South China"
+heroImage: "/images/heroes/macau-skyline.jpg"
+heroImageAlt: "Macau skyline across the peninsula hillside."
+heroImageAttributionName: "Joybot"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Macau_skyline_(22747558948).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 author: "Editorial Team"
 faq:
   - question: "Is 2 days enough for Macau?"
