@@ -31,6 +31,8 @@ faq:
 
 Guangzhou becomes much easier to use well when you decide early whether the second South China stop should be Hong Kong or Shenzhen.
 
+If the live question still is `Hong Kong versus Shenzhen` in the abstract, start with [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/). This page is better once Guangzhou already is confirmed and the route only needs the second stop.
+
 ## Pair Guangzhou with Hong Kong if contrast matters most
 
 This pairing works well if you want:

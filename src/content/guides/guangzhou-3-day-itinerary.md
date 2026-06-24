@@ -2,7 +2,7 @@
 title: "A Practical 3-Day Guangzhou Itinerary for First-Time Visitors"
 description: "Use this three-day Guangzhou plan to balance Cantonese food neighborhoods, city rhythm, and a manageable first-time route without forcing too many disconnected sights."
 publishDate: 2026-06-17
-updatedDate: 2026-06-18
+updatedDate: 2026-06-24
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -39,6 +39,10 @@ This plan is best for travelers who:
 
 If you are still deciding whether Guangzhou should even be in the route, start with [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/). If the main blocker is the hotel base, keep [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) open too.
 
+If the day structure mostly works but the evening side still feels too vague, keep [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) open too.
+
+If the live question is less about evenings and more about which district should carry each meal across the stay, keep [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) open too.
+
 ## Before you use this plan
 
 This itinerary works best if:
@@ -59,6 +63,8 @@ Why this works:
 - you leave room for a better dinner and evening
 - you do not waste the first day on too many disconnected rides
 
+If the live question on this first day already is not where to walk but which kind of Guangzhou evening should carry the night, the cleaner companion page is [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/).
+
 ## Day 2: Build the city around neighborhoods and meals
 
 The second day should carry the heaviest city exploration, but still in a way that keeps movement coherent. Think in terms of one or two connected districts, not scattered points around the city.
@@ -68,6 +74,18 @@ Why this works:
 - Day 2 becomes the real "full Guangzhou" day without becoming a transport grind
 - the itinerary stays city-shaped instead of checklist-shaped
 - meals and street rhythm stay central to the experience
+
+If this fuller day naturally points toward one deliberate skyline finish instead of another casual district wander, the narrower decision page is [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/).
+
+If this fuller day instead wants one slower west-side neighborhood block with more atmosphere than spectacle, the narrower decision page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
+
+If the west-side branch already clearly is happening and the live question becomes how to combine `Liwan`, `Yongqing Fang`, and `Shamian` without letting the half day sprawl too long, the cleaner execution page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
+
+If the day stays central and the real question becomes which easy food block should carry the evening, the narrower page is [Where to Eat on Beijing Road for First-Time Visitors](/guides/where-to-eat-on-beijing-road-for-first-time-visitors/).
+
+If the live question becomes whether that central answer should be `Beijing Road` at all, the narrower place page is [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/).
+
+If the broader food question still is which part of Guangzhou should carry which meal before you drop into a specific child page, the better bridge page is [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/).
 
 ## Day 3: Flexible final day or South China handoff
 
@@ -94,4 +112,7 @@ Guangzhou can feel underwhelming when travelers expect every hour to revolve aro
 
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if the hotel base is still not doing enough work
 - read [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/) if you are still unsure whether three days is too much or too little
+- read [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) if the route is basically set and the next decision is how meals should be distributed by district
+- read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the live decision is whether one easy central district should carry a real evening
+- read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the route works in daytime but still needs one stronger river, food, or old-city evening
 - read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) if the next city is still unsettled

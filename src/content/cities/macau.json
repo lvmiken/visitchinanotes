@@ -1,0 +1,36 @@
+{
+  "name": "Macau",
+  "country": "Macau SAR, China",
+  "intro": "Macau works best for travelers who want a short heritage-and-entertainment stop that pairs easily with Hong Kong, Shenzhen, or Guangzhou instead of trying to carry a long standalone trip.",
+  "seoTitle": "Macau Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Macau with practical advice on how long to stay, where to base yourself, and how to combine the city with Hong Kong, Shenzhen, or Guangzhou.",
+  "idealFor": ["short South China add-ons", "heritage and resort contrast", "Hong Kong and Guangzhou pairings"],
+  "suggestedStay": "1 to 2 days",
+  "tripPace": "Best as a compact add-on where heritage streets, resort zones, and regional route logic matter more than attraction volume.",
+  "pairWith": ["Hong Kong", "Shenzhen", "Guangzhou"],
+  "bestMonths": ["October", "November", "December", "March"],
+  "highlights": [
+    "A useful short stop when the trip wants one different urban texture without adding a full extra city burden.",
+    "Especially good in South China itineraries where Hong Kong, Shenzhen, or Guangzhou already create the transport logic.",
+    "Best when readers understand that Macau is strongest as a compact contrast city, not as a long checklist destination."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Treat Macau as a compact add-on first",
+      "description": "The city usually works best when the route protects one short well-shaped stop rather than stretching the stay without a reason."
+    },
+    {
+      "title": "Decide what should carry the stop",
+      "description": "For many first-time visitors, the real decision is whether the stay leans more heritage streets, resort atmosphere, or simply regional contrast."
+    },
+    {
+      "title": "Shape the South China order early",
+      "description": "If Hong Kong, Shenzhen, or Guangzhou are in the same route, Macau becomes much easier when transport and sequence are decided before the rest of the plan hardens."
+    }
+  ],
+  "transportNote": "Macau is easiest to use when it is planned as part of a South China cluster instead of as an isolated major stop.",
+  "homepageGroups": ["south-east-add-ons"],
+  "featuredGuideSlugs": ["macau-first-time-guide", "how-many-days-in-macau-for-first-time-visitors", "where-to-stay-in-macau-for-first-time-visitors", "macau-2-day-itinerary", "what-to-eat-in-macau-for-first-time-visitors"],
+  "featuredTopicSlugs": ["hong-kong-or-macau-for-first-time-visitors", "where-to-start", "choosing-hotel-location", "plan-your-trip", "what-apps-you-need-for-a-china-trip", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail"],
+  "featuredPlaceSlugs": ["senado-square", "taipa-village"]
+}

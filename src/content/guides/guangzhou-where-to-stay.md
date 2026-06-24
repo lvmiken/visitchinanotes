@@ -2,7 +2,7 @@
 title: "Best Area to Stay in Guangzhou for First-Time Visitors"
 description: "How to choose the best area to stay in Guangzhou for first-time visitors, based on food priorities, metro convenience, and wider South China route plans."
 publishDate: 2026-06-14
-updatedDate: 2026-06-18
+updatedDate: 2026-06-24
 city: "guangzhou"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -47,6 +47,10 @@ After that, the decision usually becomes:
 - choose a cleaner transport base if Guangzhou is a short stop in a wider South China route
 - choose with departure day in mind if you are continuing to Hong Kong, Shenzhen, or flying out quickly
 
+If the real reason you are choosing the base is that evenings matter, keep [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) open too.
+
+If the hotel choice mainly depends on which districts should carry your major meals, keep [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) open too.
+
 ## Pick your base by the shape of the trip
 
 ### Choose a food-and-evening base if
@@ -56,6 +60,16 @@ After that, the decision usually becomes:
 - you want the city to feel more lived-in than purely functional
 
 This is often the better choice when Guangzhou is being used as a proper city stop rather than just a connector.
+
+If the live question now is whether one easy central old-core district should carry a real evening, the narrower place page is [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/).
+
+It is also the safer direction if you already know the trip wants one `Pearl River` or `Canton Tower` evening and you do not want the return from that side of the city to become the real story of the night. If that skyline-night call still is not settled, the narrower decision page is [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/).
+
+If the trip instead wants one stronger `Liwan` or old-Guangzhou branch, a base that does not make the west side feel like an afterthought becomes more valuable. If that exact district decision still is live, the narrower page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
+
+If the west-side question already is not whether it matters but how to run `Liwan`, `Yongqing Fang`, and `Shamian` as one usable half day, the cleaner next page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
+
+If the base question is less about one specific district and more about how to distribute meals between the central core, the west side, and one river or hotel-convenience night, the better bridge page is [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/).
 
 ### Choose a metro-practical base if
 
@@ -84,4 +98,6 @@ This matters more in Guangzhou than in some cities because the city often succee
 - booking only for station access and making the actual city stay worse
 - forgetting that a short Guangzhou stop still needs evenings to work well
 
-If the transfer out of Guangzhou is the main issue, continue with [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/). If the hotel decision is mainly about arrival, go next to [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/). If the base is settled and you want the days to flow, move to [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/).
+If the transfer out of Guangzhou is the main issue, continue with [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/). If the hotel decision is mainly about arrival, go next to [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/). If the base is settled and you want the meals to start fitting the right districts, move to [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/). If the base is settled and you want the days to flow, move to [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/).
+
+If the base decision still depends on whether one easier central district should carry a real evening instead of leaving all the weight to the west side or the river, the narrower place page is [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/).

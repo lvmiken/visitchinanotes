@@ -1,0 +1,36 @@
+{
+  "name": "Shenzhen",
+  "country": "China",
+  "intro": "Shenzhen works best for travelers who want a modern South China city, an easy Hong Kong pairing, and a practical urban stop built around neighborhoods, shopping, food, and fast transport.",
+  "seoTitle": "Shenzhen Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Shenzhen with practical advice on how long to stay, where to base yourself, and how to shape a modern South China city stop with Hong Kong or Guangzhou.",
+  "idealFor": ["Hong Kong pairings", "modern city breaks", "South China route planning"],
+  "suggestedStay": "1 to 3 days",
+  "tripPace": "Best as a short modern-city stop, a Hong Kong extension, or a practical rail-connected South China add-on.",
+  "pairWith": ["Hong Kong", "Guangzhou", "Macau"],
+  "bestMonths": ["October", "November", "December", "March"],
+  "highlights": [
+    "A useful counterweight to older historical cities because the value is modern urban China, not imperial sightseeing.",
+    "Especially strong when paired with Hong Kong or Guangzhou, since transport logic and short-stay pacing are easy to shape together.",
+    "Best for travelers who want skyline districts, shopping, food, and a low-friction city break rather than a landmark-heavy checklist."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Shenzhen is a stop or a route connector",
+      "description": "For many first-time visitors, Shenzhen works best when its role is clear early: either a short city break, a Hong Kong pairing, or a practical transport-smart stop."
+    },
+    {
+      "title": "Plan the city by district, not by attraction count",
+      "description": "Shenzhen usually feels stronger when hotel area, shopping rhythm, and food neighborhoods are decided before the day-by-day plan."
+    },
+    {
+      "title": "Use regional pairings intentionally",
+      "description": "If Hong Kong, Guangzhou, or Macau are already in the route, shape the order and border or rail logic before locking the stay."
+    }
+  ],
+  "transportNote": "Shenzhen becomes much easier to use when the Hong Kong connection, rail timing, and hotel district are decided before the route gets overbuilt.",
+  "homepageGroups": ["south-east-add-ons"],
+  "featuredGuideSlugs": ["shenzhen-first-time-guide", "how-many-days-in-shenzhen-for-first-time-visitors", "where-to-stay-in-shenzhen-for-first-time-visitors", "shenzhen-3-day-itinerary", "what-to-eat-in-shenzhen-for-first-time-visitors", "what-to-do-in-shenzhen-at-night-for-first-time-visitors"],
+  "featuredTopicSlugs": ["hong-kong-or-shenzhen-for-first-time-visitors", "where-to-start", "choosing-hotel-location", "airport-to-city", "what-apps-you-need-for-a-china-trip", "how-to-pay-in-china", "metro-taxi-ridehailing", "train-vs-flight", "high-speed-rail", "book-high-speed-train", "12306-for-foreigners", "how-to-ride-china-high-speed-rail"],
+  "featuredPlaceSlugs": ["shenzhen-bay-and-houhai", "shekou-sea-world", "nantou-ancient-town", "dongmen-old-street"]
+}
