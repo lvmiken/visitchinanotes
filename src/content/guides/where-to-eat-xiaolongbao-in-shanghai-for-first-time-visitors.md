@@ -50,7 +50,7 @@ Use this page if you are asking:
 
 - where should I eat xiaolongbao in Shanghai on a first trip?
 - should I choose Nanxiang, Wu You Xian, Qiao Ai Lai Lai, or a simpler local stop?
-- is it better to put the dumpling meal near Yu Garden, near Huaihai Road, or into a more central lunch block?
+- is it better to put the dumpling meal near Yu Garden, near [Huaihai Road](/places/huaihai-road/), or into a more central lunch block?
 - how do I keep one xiaolongbao meal memorable without letting the whole trip turn into repeated soup-dumpling errands?
 
 ## The short answer
@@ -58,7 +58,7 @@ Use this page if you are asking:
 For many first-time visitors, the strongest Shanghai xiaolongbao choices are:
 
 - **Nanxiang** if the meal should feel iconic and the day already includes [Yu Garden](/places/yu-garden/)
-- **Wu You Xian** if the meal should feel more refined and the day already leans toward [French Concession](/places/french-concession/) or Huaihai Road
+- **Wu You Xian** if the meal should feel more refined and the day already leans toward [French Concession](/places/french-concession/) or [Huaihai Road](/places/huaihai-road/)
 - **Qiao Ai Lai Lai** if the group cares more about crab roe and specialist dumpling depth than about doing the most symbolic first-time address
 - **Jia Jia Tang Bao** if you want one simpler, more central classic that fits a faster breakfast-or-lunch stop
 
@@ -109,14 +109,14 @@ Nanxiang is weaker when:
 
 ## 2. Choose Wu You Xian if you want the refined xiaolongbao meal
 
-Current Shanghai government coverage still highlights **Wu You Xian** as a refined xiaolongbao stop in the Huaihai Road area, and the current MICHELIN Guide still gives it **one star**.
+Current Shanghai government coverage still highlights **Wu You Xian** as a refined xiaolongbao stop in the [Huaihai Road](/places/huaihai-road/) area, and the current MICHELIN Guide still gives it **one star**.
 
 The current Shanghai government xiaolongbao feature says the dumplings use `32 delicate folds` and highlights the tasting set that lets diners compare crab roe, crab paste, and crab meat fillings in one steamer.
 
 Wu You Xian usually is the right answer when:
 
 - the xiaolongbao meal should feel like a real occasion
-- the trip already leans toward Huaihai Road or the [French Concession](/places/french-concession/)
+- the trip already leans toward [Huaihai Road](/places/huaihai-road/) or the [French Concession](/places/french-concession/)
 - the group wants one protected dumpling meal instead of one quick symbolic stop
 
 This is often strongest when the sentence is:
@@ -179,7 +179,7 @@ The strongest answer is usually:
 
 That is especially true when [Yu Garden](/places/yu-garden/) already is doing real work in the itinerary.
 
-## Best on the French Concession or Huaihai Road day
+## Best on the French Concession or [Huaihai Road](/places/huaihai-road/) day
 
 The strongest answer is usually:
 

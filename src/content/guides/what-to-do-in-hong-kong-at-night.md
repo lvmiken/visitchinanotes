@@ -128,6 +128,10 @@ It is usually weaker when:
 - the group wants dinner and neighborhood atmosphere more than the view
 - weather or haze makes the skyline less rewarding
 
+If the live question is not whether the city needs one classic skyline night but whether the easiest Tsim Sha Tsui harbourfront version is enough by itself, the more focused place page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
+
+If the live question is not whether the city needs one harbour block, but whether that block should include one simple classic crossing, the more focused place page is [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/).
+
 ## 2. Spectacle night: choose a harbour cruise
 
 Some Hong Kong evenings should feel like a walk.
@@ -351,6 +355,8 @@ That already gives the city more range than leaving every night unplanned.
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if the real question is whether the city has enough room for both a skyline night and a district-led night
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the evening decision is also tied to whether dinner should be dim sum, roast meats, Temple Street snacks, or a stronger local-food night
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the remaining skyline decision is elevated panorama versus harbour or cruise
+- read [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/) if the remaining skyline decision is whether the easiest harbourfront version already solves the whole classic Hong Kong night
+- read [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/) if the remaining harbour decision is whether one simple crossing should replace another underground transfer or one more promenade repeat
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the remaining district decision is whether a Kowloon market night belongs at all
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the evening is island-side and the dinner slot itself is the main blocker now
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the evening is Kowloon-side and the meal choice itself is the main blocker now

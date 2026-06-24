@@ -118,6 +118,8 @@ If the real temptation is not the hotel itself but the idea that one paid deck w
 
 If your hotel decision already has narrowed to the most common first-time version of this problem, the next page is [Pudong or Puxi: Where to Stay in Shanghai for First-Time Visitors](/guides/pudong-or-puxi-where-to-stay-in-shanghai-for-first-time-visitors/).
 
+If the live question already is not only `Which base is easiest?` but whether a more polished modern district should shape the stay or only one evening, the more focused companion page is [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/).
+
 ## Do not let Pudong win just because it looks famous
 
 Many first-time visitors assume the most iconic skyline district must also be the best place to stay.
@@ -160,6 +162,7 @@ If the bigger concern is not only what to book but whether the base will keep me
 - read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the real hotel decision already has narrowed to classic skyline convenience versus neighborhood rhythm
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if hotel area is now making your dinner districts and easier meal nights more obvious
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the hotel decision is really about which evenings should feel easiest
+- read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the stay question now is whether one polished modern district should carry the hotel logic or only the easier final-night dinner
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the base is mostly solved and you want the booking order next
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the base is mostly solved and you want the movement logic next
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if weather risk is making you value a more central, easier-to-rescue base

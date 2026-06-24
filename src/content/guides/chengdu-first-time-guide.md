@@ -121,6 +121,8 @@ For many first-time visitors:
 - `Dujiangyan and Qingcheng Mountain` are usually the clearest extra-day answers
 - `Xiling Snow Mountain`, `Anren Ancient Town`, and `Huanglongxi Ancient Town` are more optional, trip-style-dependent extensions rather than default first-trip priorities
 
+If the extra-day branch already is not about greener scenery or one giant monument but about whether an archaeology-led day deserves the slot, the more focused companion page is [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/).
+
 Inside the city, useful secondary layers often include:
 
 - [Wuhou Shrine](/places/wuhou-shrine/) and [Jinli](/places/jinli/) for one Three Kingdoms and old-street block
@@ -230,6 +232,7 @@ If the city already feels chosen and the live question is how to keep the trip g
 - read [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/) if the city is chosen and the next useful execution step is turning breakfast, tea, and slower pace into one coherent half day
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the city is chosen and the evening structure is still too vague
 - read [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the city is chosen and the live question is whether an extra day should go to Dujiangyan, Leshan, Sanxingdui, or stay in Chengdu
+- read [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/) if the extra day already is leaning specifically toward archaeology and you need to know whether that branch really improves the trip
 - read [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/) if the city is chosen and the live problem is how to keep a wet day useful without wasting a panda booking, central day, or food evening
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the city already is confirmed and you want the days in order
 - read [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/) if Chengdu is the landing city and arrival logistics are the weak point

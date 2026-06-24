@@ -180,6 +180,8 @@ This is often the easiest answer when the trip wants:
 
 For many first-time visitors, **Xintiandi** belongs in this wider polished-evening layer too. It is usually the stronger answer when the meal should sit inside one compact dinner-and-drinks district instead of a broader Jing'an-style modern area. If that district already is winning and the live question is what kind of dinner actually belongs there, the narrower page is [Where to Eat in Xintiandi for First-Time Visitors](/guides/where-to-eat-in-xintiandi-for-first-time-visitors/).
 
+If the live question already is not the whole polished-evening layer but whether `Jing'an` itself deserves the easier final-night meal or modern dinner block, the more focused companion page is [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/).
+
 ### When Jing'an-style logic is strongest
 
 - on the final night

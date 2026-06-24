@@ -2,7 +2,7 @@
 title: "How to Plan West Lake in Hangzhou Without Rushing"
 description: "Plan West Lake in Hangzhou at a realistic pace, with advice on route shape, timing, and how to enjoy the scenery without turning the day into a rush."
 publishDate: 2026-06-14
-updatedDate: 2026-06-14
+updatedDate: 2026-06-24
 city: "hangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 to 2 days"
@@ -27,6 +27,10 @@ faq:
 ---
 
 The easiest way to enjoy Hangzhou is to stop trying to make West Lake feel like a dense city itinerary.
+
+If the wider Hangzhou shortlist still is not settled and the live question is what belongs around the lake day versus what should stay optional, start with [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
+
+If the live question still is whether the main scenic day should stay mostly on the lake or branch into a bridge scene, pagoda, temple, tea-country, wetland, or easier old-street layer, keep [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/), [Broken Bridge in Hangzhou: Is It Worth It for First-Time Visitors?](/places/broken-bridge/), [Leifeng Pagoda in Hangzhou: Is It Worth It for First-Time Visitors?](/places/leifeng-pagoda/), [Lingyin Temple in Hangzhou: Is It Worth It on a First Trip?](/places/lingyin-temple/), [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/), [Xixi Wetland in Hangzhou: Is It Worth It for First-Time Visitors?](/places/xixi-wetland/), and [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/) open too.
 
 ## Build the day around one scenic rhythm
 

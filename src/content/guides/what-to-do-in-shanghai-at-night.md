@@ -189,6 +189,8 @@ Jing'an is often better than Xintiandi or the Bund when:
 - the day already used enough walking energy
 - not everyone wants the same kind of food or nightlife
 
+If the live question already is no longer `Should the polished modern evening happen?` but `Does Jing'an itself deserve that one Shanghai night?`, the more focused companion page is [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/).
+
 ## 5. Weather-proof or culture-led night: choose a museum night or timed program
 
 Official Shanghai pages continue to show that museum night sessions and after-dark cultural programming are real parts of the city's evening life, but they are not equally available every night or every season.
@@ -308,6 +310,7 @@ That already gives the city more range than leaving every night unplanned.
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the evening is already becoming a drinks-and-modern-city-energy decision
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the wider night already has narrowed to one slower neighborhood evening
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the wider night already has narrowed to one polished Xintiandi evening
+- read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the wider night already has narrowed to one easier polished modern evening and the remaining question is whether that district really deserves the slot
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [The Bund](/places/the-bund/) if the skyline timing itself is still the live decision
 - read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the skyline night already has narrowed to Shanghai's two most famous paid towers

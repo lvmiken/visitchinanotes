@@ -38,3 +38,5 @@ Hangzhou can work as either a fast scenic add-on or a more restorative stop betw
 - you want a slower travel day
 - you care about sunrise or evening scenery
 - you want room for tea-culture stops
+
+If the route already is sure about Hangzhou and the live question is which branch deserves the day, narrow it with [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/), [Broken Bridge in Hangzhou: Is It Worth It for First-Time Visitors?](/places/broken-bridge/), [Leifeng Pagoda in Hangzhou: Is It Worth It for First-Time Visitors?](/places/leifeng-pagoda/), [Lingyin Temple in Hangzhou: Is It Worth It on a First Trip?](/places/lingyin-temple/), [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/), [Xixi Wetland in Hangzhou: Is It Worth It for First-Time Visitors?](/places/xixi-wetland/), and [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/).

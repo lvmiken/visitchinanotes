@@ -2,7 +2,7 @@
 title: "Qingdao Travel Guide for First-Time Visitors"
 description: "Plan a first trip to Qingdao with advice on trip length, coastal pacing, neighborhood feel, and when this city works best in a wider China route."
 publishDate: 2026-06-17
-updatedDate: 2026-06-18
+updatedDate: 2026-06-24
 city: "qingdao"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -40,9 +40,17 @@ This page is best for travelers who still are trying to answer the broad Qingdao
 
 If you already know the exact decision, the narrower page is usually better:
 
+- [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/)
 - [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/)
 - [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/)
 - [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/)
+- [Zhanqiao Pier in Qingdao: Is It Worth Visiting on a First Trip?](/places/zhanqiao-pier/)
+- [May Fourth Square in Qingdao: Is It Worth Visiting on a First Trip?](/places/may-fourth-square/)
+- [Olympic Sailing Center in Qingdao: Is It Worth It for First-Time Visitors?](/places/olympic-sailing-center/)
+- [Badaguan in Qingdao: Is It Worth Visiting for First-Time Visitors?](/places/badaguan/)
+- [No.1 Bathing Beach in Qingdao: Is It Worth It for First-Time Visitors?](/places/no1-bathing-beach/)
+- [Laoshan from Qingdao: Is It Worth a Day for First-Time Visitors?](/places/laoshan-mountain/)
+- [Qingdao Beer Museum: Is It Worth It for First-Time Visitors?](/places/qingdao-beer-museum/)
 
 ## The short answer
 
@@ -85,6 +93,7 @@ Two or three days is enough for most first visits. That gives enough room for wa
 
 ## Which page to read next
 
+- read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if the city is confirmed and you want the clearest shortlist before locking the days
 - read [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) if hotel area is the next decision
 - read [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) if Qingdao already is confirmed
 - read [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/) if you still are deciding where it belongs

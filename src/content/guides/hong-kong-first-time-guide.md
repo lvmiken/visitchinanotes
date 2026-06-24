@@ -131,6 +131,10 @@ If the city role is already clear and the live question becomes what you should 
 
 If the city role is clear and the real sightseeing question becomes whether one elevated skyline branch deserves protecting, the more focused place page is [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/).
 
+If the city role is clear and the real harbourfront question becomes whether one classic Tsim Sha Tsui skyline block deserves protected time, the more focused place page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
+
+If the city role is clear and the real harbour question becomes whether one simple classic crossing deserves real time, the more focused place page is [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/).
+
 If the city role is clear and the real evening question becomes whether one looser Kowloon market night belongs at all, the more focused place page is [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/).
 
 ## Common mistakes on a first Hong Kong trip
@@ -148,6 +152,8 @@ If the city role is clear and the real evening question becomes whether one loos
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if Hong Kong already is confirmed and the live question is how the days should flow
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the broader city decision is basically settled and the live question is how evenings should actually work
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the live decision is whether one elevated skyline branch should beat another district or harbour session
+- read [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/) if the live decision is whether one classic Tsim Sha Tsui harbourfront block should beat another skyline move or another neighborhood evening
+- read [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/) if the live decision is whether one simple harbour crossing should beat another MTR transfer or another stretch of promenade time
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the live decision is whether one market-led Kowloon evening belongs at all
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the remaining route question is whether Hong Kong should stay the main stop or give way to a shorter Macau contrast
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the next question is whether the route should add a fast mainland city

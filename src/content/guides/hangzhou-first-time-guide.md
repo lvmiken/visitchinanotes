@@ -2,7 +2,7 @@
 title: "Hangzhou for First-Time Visitors: When the City Is Worth More Than a Quick Add-On"
 description: "A practical Hangzhou guide for travelers deciding whether the city deserves its own stop or should stay a soft extension from Shanghai."
 publishDate: 2026-06-14
-updatedDate: 2026-06-14
+updatedDate: 2026-06-24
 city: "hangzhou"
 guideStage: "choose-destination"
 tripLength: "1 to 2 days"
@@ -27,6 +27,10 @@ faq:
 ---
 
 Hangzhou is the kind of stop that changes the mood of a China trip more than the checklist length.
+
+If the city already is confirmed and the real question is which Hangzhou anchor deserves the time, go narrower with [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/), [Broken Bridge in Hangzhou: Is It Worth It for First-Time Visitors?](/places/broken-bridge/), [Leifeng Pagoda in Hangzhou: Is It Worth It for First-Time Visitors?](/places/leifeng-pagoda/), [Lingyin Temple in Hangzhou: Is It Worth It on a First Trip?](/places/lingyin-temple/), [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/), [Xixi Wetland in Hangzhou: Is It Worth It for First-Time Visitors?](/places/xixi-wetland/), and [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/).
+
+If the route already is sure about Hangzhou and the live question now is what actually deserves priority, start with [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
 
 ## Choose Hangzhou for atmosphere, not for density
 

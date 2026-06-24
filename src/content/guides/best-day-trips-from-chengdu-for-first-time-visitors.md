@@ -169,6 +169,8 @@ This trip works especially well because it gives you:
 
 For many first-time visitors, Sanxingdui is the best day trip when the question is not "What is most famous?" but "What feels most intellectually different from the rest of the route?"
 
+If the live question already has narrowed from `Should I do a Chengdu day trip at all?` to `Is the archaeology day itself worth protecting?`, the more focused companion page is [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/).
+
 ## 4. Softer optional outing: Huanglongxi, Anren, or another selective extra
 
 This is where many travelers start overfilling the plan.
@@ -266,6 +268,7 @@ Use this shortcut:
 - read [How Many Days in Chengdu for First-Time Visitors](/guides/how-many-days-in-chengdu-for-first-time-visitors/) if the side-trip decision still depends on whether Chengdu should really be 2, 3, or 4 days
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you still need to decide whether Chengdu should stay city-focused or expand outward
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the core city version still needs to be protected before you spend a day outside it
+- read [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/) if the extra day already is leaning toward archaeology and the remaining question is whether that museum-led branch really deserves the slot
 - read [What to Book in Advance for Chengdu: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chengdu/) if the extra day now needs to become a real ticket, train, or reservation decision
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the panda day still is not stable enough to let the route add more complexity
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the city still needs a stronger evening layer before you give a full day to a side trip

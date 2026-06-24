@@ -248,7 +248,7 @@ This is strongest for:
 - one shorter morning walk
 - readers who care more about lived-in texture than polished dining
 
-## French Concession or Huaihai Road side
+## French Concession or [Huaihai Road](/places/huaihai-road/) side
 
 This area is usually less about true old-school breakfast culture and more about:
 
@@ -258,7 +258,7 @@ This area is usually less about true old-school breakfast culture and more about
 
 That can be great, but it solves a different problem from a more classic Shanghai breakfast outing.
 
-If the district already is chosen and the live question is how food should work there later in the day, the narrower page is [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/).
+If the district already is chosen and the live question is how food should work there later in the day, the narrower pages are [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) and [Huaihai Road in Shanghai: Is It Worth Visiting on a First Trip?](/places/huaihai-road/).
 
 ## Yu Garden and the old-city side
 

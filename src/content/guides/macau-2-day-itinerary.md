@@ -139,6 +139,8 @@ If Macau is your first stop after `Hong Kong`, this day should feel easy and cla
 
 If the live question on Day 1 already has narrowed from `How should the old core flow?` to `What should we actually eat around Senado Square?`, the more focused companion page is [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/).
 
+If the live question on Day 1 already has narrowed from `Should the old core anchor the route?` to `Does the Ruins landmark itself deserve protected time inside that walk?`, the more focused companion page is [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/).
+
 ### What the day should feel like
 
 - more walking and atmosphere than pure attraction-chasing
@@ -256,6 +258,7 @@ Keep the old-core route more selective after the essentials.
 - read [How Many Days in Macau for First-Time Visitors](/guides/how-many-days-in-macau-for-first-time-visitors/) if you still are not sure whether Macau should stay at 1 day or become a fuller 2-day stop
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the route is basically set and the next decision is which meal types should actually shape the stay
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the Day 1 heritage-core meal is the main live decision now
+- read [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/) if the Day 1 old-core landmark decision itself is the main live question now
 - read [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/) if the Day 2 Taipa meal is the main live decision now
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the city still needs to be judged against the wider route
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the real issue still is whether Macau itself should win over Hong Kong

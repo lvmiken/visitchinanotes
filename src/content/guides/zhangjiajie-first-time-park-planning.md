@@ -2,7 +2,7 @@
 title: "Zhangjiajie First-Time Park Planning: Keep the Days Scenic, Not Frantic"
 description: "A first-time Zhangjiajie planning guide for travelers who want to pace park days realistically and avoid turning the mountains into a rushed checklist."
 publishDate: 2026-06-14
-updatedDate: 2026-06-14
+updatedDate: 2026-06-24
 city: "zhangjiajie"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -27,6 +27,10 @@ faq:
 ---
 
 The easiest mistake in Zhangjiajie is to plan it like a dense city itinerary instead of a scenery-and-energy itinerary.
+
+If the biggest decision still is whether the main first-time anchor should be the fuller park world or the more concentrated dramatic mountain day, start with [Zhangjiajie National Forest Park or Tianmen Mountain for First-Time Visitors?](/guides/zhangjiajie-national-forest-park-or-tianmen-mountain-for-first-time-visitors/).
+
+If the live question still is which branch deserves the main time, narrow it with [Zhangjiajie National Forest Park: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-national-forest-park/), [Yuanjiajie in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/yuanjiajie/), [Golden Whip Stream in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/golden-whip-stream/), [Tianzi Mountain in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/tianzi-mountain/), [Tianmen Mountain in Zhangjiajie: Is It Worth It on a First Trip?](/places/tianmen-mountain/), and [Zhangjiajie Grand Canyon Glass Bridge: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-grand-canyon-glass-bridge/).
 
 ## Start with one anchor goal per day
 

@@ -170,6 +170,8 @@ This is the point where the cluster starts fitting together most naturally:
 - [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) for the evening layer
 - [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the city itself already feels secure enough to spend one full day outside it
 
+If that extra day already clearly is leaning toward ancient Shu archaeology rather than scenery or a giant monument, the more focused next page is [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/).
+
 ### Who benefits most from 4 days
 
 - slower travelers
@@ -242,4 +244,5 @@ That usually creates a better route than forcing Chengdu to behave like a monume
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the whole stay still depends on how the panda morning works in practice
 - read [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the extra day mainly is being justified by Dujiangyan, Leshan, Sanxingdui, or another side trip
+- read [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/) if the extra day already is leaning specifically toward archaeology and you need to know whether that branch is stronger than staying in Chengdu
 - read [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/) if arrival timing may decide whether a shorter Chengdu stay still feels worthwhile

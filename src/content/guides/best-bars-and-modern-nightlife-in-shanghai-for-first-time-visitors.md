@@ -186,6 +186,8 @@ This is especially useful when:
 
 Official Shanghai nightlife material also keeps surfacing Jing'an as an active after-dark district, which supports using it as one of the city's safest modern-night answers rather than only as a hotel area.
 
+If the live question already has narrowed from `Which nightlife district?` to `Is Jing'an itself the right polished modern answer?`, the more focused companion page is [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/).
+
 ## 5. Bund-adjacent rooftops or skyline drinks when the view still matters more than the crawl
 
 Some travelers do not really want a "bar night."
@@ -267,6 +269,7 @@ That single decision usually does more for the trip than trying to split one eve
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the group still has not decided what kind of dinner should anchor the night
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the night already is narrowing into a broader neighborhood dinner-and-drinks evening instead of a compact Xintiandi plan
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if Xintiandi already is winning and the next decision is how simple or how social the evening should become
+- read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the easier modern evening already is winning and the remaining question is whether Jing'an deserves the slot more than another district
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place one nightlife evening into a real short-stay structure
 - read [French Concession](/places/french-concession/) if the bar night should feel more neighborhood-led
 - read [The Bund](/places/the-bund/) if the skyline still matters more than the nightlife district itself

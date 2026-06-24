@@ -107,12 +107,12 @@ We want the famous classic version, and we are already using Yu Garden anyway.
 
 ### Choose Wu You Xian if you want the more refined xiaolongbao answer
 
-Current Shanghai government coverage still highlights **Wu You Xian** as a Michelin one-star restaurant known for a more refined xiaolongbao experience in the Huaihai Road area.
+Current Shanghai government coverage still highlights **Wu You Xian** as a Michelin one-star restaurant known for a more refined xiaolongbao experience in the [Huaihai Road](/places/huaihai-road/) area.
 
 Wu You Xian usually works best when:
 
 - the dumpling meal should feel more special
-- the route already leans toward the [French Concession](/places/french-concession/) or Huaihai Road side
+- the route already leans toward the [French Concession](/places/french-concession/) or [Huaihai Road](/places/huaihai-road/) side
 - the group wants one protected xiaolongbao meal rather than one quick stop
 
 This is often the better answer when the sentence is:

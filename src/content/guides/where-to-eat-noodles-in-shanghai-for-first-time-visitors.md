@@ -86,7 +86,7 @@ Current official Shanghai coverage keeps highlighting **Wei Xiang Zhai** on **Ya
 Choose Wei Xiang Zhai if:
 
 - you want one clearly local Shanghai noodle meal without overcomplicating the trip
-- the day already leans toward [French Concession](/places/french-concession/) or the Huaihai Road side
+- the day already leans toward [French Concession](/places/french-concession/) or the [Huaihai Road](/places/huaihai-road/) side
 - you want a practical lunch that still feels memorable
 
 This is often the best answer when the sentence is:
@@ -179,7 +179,7 @@ They are often weaker:
 Choose **Wei Xiang Zhai** if your real sentence sounds like:
 
 - We want the clearest first Shanghai noodle answer.
-- We want one bowl that fits a French Concession or Huaihai Road day without extra theory.
+- We want one bowl that fits a French Concession or [Huaihai Road](/places/huaihai-road/) day without extra theory.
 
 Choose **De Xing Guan** if your real sentence sounds like:
 

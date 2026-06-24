@@ -129,7 +129,7 @@ If the live question already has narrowed to which protected Shanghainese dinner
 
 ## 2. Choose Wu You Xian if the trip still needs one refined xiaolongbao meal
 
-Current official Shanghai coverage still presents **Wu You Xian** as a strong refined xiaolongbao stop in the wider **Huaihai Road / Maoming South Road** side of the city, and it is especially known for a more careful, more occasion-like dumpling experience.
+Current official Shanghai coverage still presents **Wu You Xian** as a strong refined xiaolongbao stop in the wider **[Huaihai Road](/places/huaihai-road/) / Maoming South Road** side of the city, and it is especially known for a more careful, more occasion-like dumpling experience.
 
 That makes it useful when:
 

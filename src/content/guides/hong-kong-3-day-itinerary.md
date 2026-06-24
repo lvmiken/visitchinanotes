@@ -126,6 +126,10 @@ as if there were no energy cost.
 
 If the live question already is not `should Day 1 carry one skyline branch?` but `should that elevated skyline branch actually be Victoria Peak?`, the more focused companion page is [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/).
 
+If the live question already is not whether Day 1 needs one classic skyline answer but whether the easiest Tsim Sha Tsui harbourfront version is enough by itself, the more focused companion page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
+
+If the live question already is not whether Day 1 needs one classic harbour layer but whether that should be one simple crossing instead of another promenade block, the more focused companion page is [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/).
+
 ## Day 2: Central, Sheung Wan, and Hong Kong Island rhythm
 
 This is the best day to slow down and let Hong Kong Island feel like more than a skyline backdrop.
@@ -246,6 +250,8 @@ That is enough for the city to feel dense, legible, and memorable without becomi
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the route is basically set and the next decision is which meal types should actually shape the stay
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the day structure is mostly fine and the live question is how to make one or two evenings actually count
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the skyline branch on Day 1 is the main live decision now
+- read [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/) if the live question is whether the classic Tsim Sha Tsui skyline block itself deserves one of your best short-trip windows
+- read [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/) if the live question is whether one harbour crossing on Day 1 or Day 2 should be deliberate instead of just functional
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the Hong Kong Island meal slot is the main live decision on Day 2
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the Day 3 Kowloon market branch itself still is not settled
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the Kowloon food-and-market slot is the main live decision on Day 3
