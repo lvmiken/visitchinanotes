@@ -1,8 +1,8 @@
 ---
-title: "Chengdu Travel Guide for First-Time Visitors"
-description: "Plan a first trip to Chengdu with advice on trip length, food neighborhoods, panda planning, and how to enjoy the city's slower pace."
+title: "Chengdu Travel Guide for First-Time Visitors: What to Do, Where to Stay, and How Many Days"
+description: "Plan a first trip to Chengdu with practical advice on what to do, where to stay, how many days to spend, panda timing, food neighborhoods, and the city's slower travel pace."
 publishDate: 2026-06-14
-updatedDate: 2026-06-23
+updatedDate: 2026-06-25
 city: "chengdu"
 guideStage: "choose-destination"
 tripLength: "2 to 4 days"

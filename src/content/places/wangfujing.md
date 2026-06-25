@@ -1,8 +1,8 @@
 ---
-title: "Wangfujing for First-Time Visitors: Is It Worth Your Time or Mostly a Convenience Stop?"
-description: "A practical Wangfujing guide for first-time Beijing visitors who want to understand what the area feels like, why some travelers enjoy it more than others, and how it fits into a central Beijing day."
+title: "Wangfujing for First-Time Visitors: Is It Worth Visiting in Beijing?"
+description: "A practical Wangfujing guide for first-time Beijing visitors who want to know whether the area is worth visiting, what it feels like, and how it fits into a central Beijing day."
 publishDate: 2026-06-17
-updatedDate: 2026-06-20
+updatedDate: 2026-06-25
 city: "beijing"
 whoItsFor:
   - "first-time Beijing visitors staying or sightseeing near the central core"

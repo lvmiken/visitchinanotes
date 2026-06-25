@@ -1,8 +1,8 @@
 ---
-title: "Rainy Day in Chengdu for First-Time Visitors"
-description: "Use this practical rainy-day Chengdu guide to decide which plans to keep, when to protect a panda booking, which indoor pivots actually work, and how to save the day with easier food and evening choices."
+title: "Rainy Day in Chengdu for First-Time Visitors: Panda Base, Museums, or Food?"
+description: "Plan a rainy day in Chengdu with practical advice on whether to keep a panda booking, when Chengdu Museum is the best indoor backup, and how to save the day with easier food and evening plans."
 publishDate: 2026-06-21
-updatedDate: 2026-06-23
+updatedDate: 2026-06-25
 city: "chengdu"
 guideStage: "solve-logistics"
 tripLength: "same day decision"

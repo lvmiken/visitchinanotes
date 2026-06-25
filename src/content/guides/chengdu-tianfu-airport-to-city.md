@@ -1,8 +1,8 @@
 ---
-title: "How to Get From Chengdu Tianfu Airport to the City"
-description: "A practical guide to getting from Chengdu Tianfu Airport to central Chengdu, including when Metro Line 18 is the smartest choice, when Airport Bus No. 1 works well, and when taxi or Didi is easier."
+title: "Chengdu Tianfu Airport to City for First-Time Visitors: Metro, Taxi, or Airport Bus?"
+description: "Compare Chengdu Tianfu Airport to city options for first-time visitors, including Metro Line 18, taxi, Didi, and the airport bus to Chunxi Road or IFS."
 publishDate: 2026-06-18
-updatedDate: 2026-06-18
+updatedDate: 2026-06-25
 city: "chengdu"
 guideStage: "solve-logistics"
 whoItsFor:

@@ -22,10 +22,10 @@ tags:
   - "Shenzhen"
   - "First trip"
   - "South China"
-heroImage: "/images/heroes/shenzhen-skyline.jpg"
-heroImageAlt: "Shenzhen skyline at dusk with riverfront roads in the foreground."
+heroImage: "/images/heroes/shenzhen-futian-panorama.jpg"
+heroImageAlt: "Daytime panorama of Futian in Shenzhen with the Ping An Finance Center rising above the skyline."
 heroImageAttributionName: "Charlie fong"
-heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shenzhen_West_at_dust2021.jpg"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_panorama_of_Futian_Shenzhen.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:

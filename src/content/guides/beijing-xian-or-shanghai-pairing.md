@@ -1,8 +1,8 @@
 ---
-title: "Beijing with Xi'an or Shanghai: Which Pairing Fits Better?"
-description: "Use this route-planning guide to decide whether Beijing pairs better with Xi'an or Shanghai on a first China trip, based on pace, contrast, and how much travel complexity you want."
+title: "Beijing With Xi'an or Shanghai for First-Time Visitors: Which Pairing Is Better?"
+description: "Decide whether Beijing pairs better with Xi'an or Shanghai based on history, pace, contrast, and how much travel complexity your first China trip can comfortably handle."
 publishDate: 2026-06-17
-updatedDate: 2026-06-19
+updatedDate: 2026-06-25
 city: "beijing"
 guideStage: "solve-logistics"
 tripLength: "6 to 9 days across two cities"

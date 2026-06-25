@@ -1,8 +1,8 @@
 ---
-title: "How to Get Around Beijing: Metro, Taxi, and Didi for Tourists"
-description: "Learn when Beijing metro works best, when taxi or Didi saves energy, and how hotel area can make your sightseeing days feel efficient or much more tiring."
+title: "How to Get Around Beijing for First-Time Visitors: Metro, Taxi, and Didi"
+description: "Learn how to get around Beijing with metro, taxi, and Didi, including when each option is easiest for tourists, airport arrivals, and long sightseeing days."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-06-25
 city: "beijing"
 guideStage: "solve-logistics"
 tripLength: "whole stay"

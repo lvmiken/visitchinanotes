@@ -1,8 +1,8 @@
 ---
-title: "Shaanxi History Museum or Xi'an Museum: Which Is Better for First-Time Visitors?"
-description: "Compare Shaanxi History Museum and Xi'an Museum so first-time Xi'an visitors can choose the better museum for trip length, weather, energy, and overall itinerary fit."
+title: "Shaanxi History Museum or Xi'an Museum for First-Time Visitors: Which Is Better?"
+description: "Compare Shaanxi History Museum and Xi'an Museum for first-time visitors, including which is better on a 2-day or 3-day trip, on a rainy day, and after the Terracotta Army."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-25
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 museum block"

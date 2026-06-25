@@ -1,8 +1,8 @@
 ---
-title: "Best Bars and Modern Nightlife in Beijing for First-Time Visitors"
-description: "Compare Sanlitun, Liangma River, and Shichahai so you can choose the right Beijing night out for cocktails, Western restaurants, riverside drinks, or an easier modern evening."
+title: "Best Bars in Beijing for First-Time Visitors: Sanlitun, Liangma River, or Shichahai?"
+description: "Choose the best bars in Beijing for cocktails, wine, riverside drinks, and a modern night out, with practical advice on Sanlitun, Liangma River, and Shichahai."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-06-25
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
