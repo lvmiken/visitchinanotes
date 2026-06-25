@@ -91,6 +91,8 @@ It is usually weaker for:
 
 That is why `Hefang Street` often is a `texture-and-convenience page`.
 
+If the area already feels likely and the real question now is how to pair it with Hangzhou's easiest central museum, the cleaner route page is [How to Plan a Hangzhou Museum and Hefang Street Half Day for First-Time Visitors](/guides/how-to-plan-a-hangzhou-museum-and-hefang-street-half-day-for-first-time-visitors/).
+
 ## Hefang Street vs more West Lake time
 
 Choose `West Lake` if:
@@ -106,6 +108,8 @@ Choose `Hefang Street` if:
 - the day needs a more urban old-street contrast
 
 For most first-time visitors, `West Lake` is still the stronger first answer and `Hefang Street` is the supporting finish.
+
+If that exact choice still is the live one, the cleaner next page is [Hefang Street or More West Lake Time for First-Time Visitors?](/guides/hefang-street-or-more-west-lake-time-for-first-time-visitors/).
 
 ## Hefang Street vs Longjing Village
 
@@ -164,5 +168,11 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/) if the core Hangzhou priority still is not settled
+- read [Hefang Street or More West Lake Time for First-Time Visitors?](/guides/hefang-street-or-more-west-lake-time-for-first-time-visitors/) if the live question is whether old-core texture should beat one more better lake block
 - read [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/) if the live choice is urban old-street texture versus tea-country atmosphere
+- read [How to Plan a Hangzhou Museum and Hefang Street Half Day for First-Time Visitors](/guides/how-to-plan-a-hangzhou-museum-and-hefang-street-half-day-for-first-time-visitors/) if the real question is how to use Hefang inside one practical central half day rather than as a loose add-on
+- read [Hefang Street or East Side of West Lake: Where to Stay in Hangzhou for First-Time Visitors](/guides/hefang-street-or-east-side-of-west-lake-where-to-stay-in-hangzhou-for-first-time-visitors/) if the real question is whether old-core atmosphere should shape the hotel base
+- read [Where to Eat Near Hefang Street and Gaoyin Street for First-Time Visitors](/guides/where-to-eat-near-hefang-street-and-gaoyin-street-for-first-time-visitors/) if the area is chosen and the next live decision is the right old-core meal or snack block
+- read [Best Hangzhou Snacks for First-Time Visitors](/guides/best-hangzhou-snacks-for-first-time-visitors/) if the area is chosen and the next live decision is which lighter snack stop actually deserves the old-core branch
+- read [What Food Souvenirs to Buy in Hangzhou for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-hangzhou-for-first-time-visitors/) if the area is chosen and the next live decision is which small old-core edible gift actually deserves luggage space
 - read [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) if the real route question still is whether Hangzhou has enough time for supporting branches at all

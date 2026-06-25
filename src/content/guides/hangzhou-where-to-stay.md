@@ -23,10 +23,10 @@ tags:
   - "Hangzhou"
   - "Hotels"
   - "Neighborhoods"
-heroImage: "/images/heroes/hangzhou-west-lake.jpg"
-heroImageAlt: "Sunset light reflecting across West Lake in Hangzhou."
-heroImageAttributionName: "Morio"
-heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:West_Lake_(Hangzhou)_sunset_2016_January.jpg"
+heroImage: "/images/heroes/hangzhou-leifeng-willow-west-lake.jpg"
+heroImageAlt: "Leifeng Pagoda rising above the trees across West Lake in Hangzhou with willow branches framing the water."
+heroImageAttributionName: "Yinweichen"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_and_Willow_Tree_across_West_Lake.jpg"
 heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
@@ -54,6 +54,10 @@ This page is for travelers who already know Hangzhou is in the route, but still 
 If the bigger question still is whether Hangzhou should only be a fast extension from Shanghai, start with [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/).
 
 If the city already is confirmed and the live question now is what deserves real time, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
+
+If the hotel choice still depends on whether Hangzhou should stay a `1-day` stop or become a fuller overnight version, keep [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/) open too.
+
+If the hotel choice mostly is down to which base makes West Lake, Wulin, Lingyin, and late returns feel easiest, keep [How to Get Around Hangzhou for First-Time Visitors](/guides/how-to-get-around-hangzhou-for-first-time-visitors/) open too.
 
 ## The short answer
 
@@ -93,6 +97,10 @@ This is usually the best choice when:
 
 For many readers, this is the default answer because it helps Hangzhou feel like Hangzhou immediately.
 
+If the live question already is not the broader stay guide but whether this scenic default should beat Wulin as your actual hotel base, the narrower comparison page is [East Side of West Lake or Wulin: Where to Stay in Hangzhou for First-Time Visitors](/guides/east-side-of-west-lake-or-wulin-where-to-stay-in-hangzhou-for-first-time-visitors/).
+
+If the live hotel question already is whether a rail-led overnight should stay near the station or move toward the actual city experience, the narrower comparison page is [Hangzhou East Station or West Lake: Where to Stay for First-Time Visitors](/guides/hangzhou-east-station-or-west-lake-where-to-stay-for-first-time-visitors/).
+
 If the real planning problem already is not the hotel but how to use the main lake day well, the next page is [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/).
 
 ## 2. Stay around Wulin Square if practical movement matters almost as much as scenery
@@ -116,6 +124,10 @@ It is often the better answer when:
 
 For many first-time visitors, Wulin is the best `practical default` if east-of-lake hotels are not the right fit.
 
+If the live question already is not whether Wulin works in general but whether it should beat the east side of West Lake for your stay, the narrower comparison page is [East Side of West Lake or Wulin: Where to Stay in Hangzhou for First-Time Visitors](/guides/east-side-of-west-lake-or-wulin-where-to-stay-in-hangzhou-for-first-time-visitors/).
+
+If Wulin already is the likely base and the live question is now where the easiest useful dinner should happen, the narrower next page is [Where to Eat in Wulin for First-Time Visitors](/guides/where-to-eat-in-wulin-for-first-time-visitors/).
+
 ## 3. Stay near Hefang Street and the southern old-core side only if atmosphere is a real priority
 
 The official Hangzhou English site places [Hefang Street](https://www.ehangzhou.gov.cn/2018-06/14/c_242888.htm) at the foot of Wushan Mountain in the historical core.
@@ -137,6 +149,8 @@ It is usually weaker when:
 For many first-time visitors, this is a good supporting answer, not the safest default answer.
 
 If the live question already is whether this branch deserves time at all, the narrower next page is [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/).
+
+If the live question already is not whether Hefang works in general but whether it should beat the east side of West Lake as your actual hotel base, the narrower comparison page is [Hefang Street or East Side of West Lake: Where to Stay in Hangzhou for First-Time Visitors](/guides/hefang-street-or-east-side-of-west-lake-where-to-stay-in-hangzhou-for-first-time-visitors/).
 
 ## 4. Do not over-prioritize the deep scenic side
 
@@ -165,6 +179,10 @@ That can mean:
 
 This matters because a short Hangzhou stop usually gets stronger from one well-used evening more than from one more low-priority attraction.
 
+If the live hotel question already is not the broader stay guide but which base gives you the best West Lake night views without making the rest of the stop awkward, the narrower next page is [Where to Stay in Hangzhou for the Best West Lake Night Views](/guides/where-to-stay-in-hangzhou-for-the-best-west-lake-night-views/).
+
+If the live hotel question already is how the answer changes for parents balancing easier meals, softer evenings, and tired returns, the narrower next page is [Where to Stay in Hangzhou With Kids for First-Time Visitors](/guides/where-to-stay-in-hangzhou-with-kids/).
+
 If the city's broader shortlist still is not fully settled, the next page is [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
 
 ## What to watch out for
@@ -177,5 +195,13 @@ If the city's broader shortlist still is not fully settled, the next page is [Be
 ## Which page to read next
 
 - read [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) if the hotel choice depends on what actually deserves time
+- read [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/) if the hotel decision still depends on whether this should be a sharper `1-day` stop or a fuller overnight stay
+- read [East Side of West Lake or Wulin: Where to Stay in Hangzhou for First-Time Visitors](/guides/east-side-of-west-lake-or-wulin-where-to-stay-in-hangzhou-for-first-time-visitors/) if the hotel choice already is down to scenic default versus practical default
+- read [Hangzhou East Station or West Lake: Where to Stay for First-Time Visitors](/guides/hangzhou-east-station-or-west-lake-where-to-stay-for-first-time-visitors/) if the hotel choice is really about rail convenience versus a proper Hangzhou base
+- read [Where to Stay in Hangzhou for the Best West Lake Night Views](/guides/where-to-stay-in-hangzhou-for-the-best-west-lake-night-views/) if the hotel choice mainly depends on protecting the easiest lake-side evening
+- read [Where to Stay in Hangzhou With Kids for First-Time Visitors](/guides/where-to-stay-in-hangzhou-with-kids/) if the hotel choice mainly depends on family pacing, easier food, and softer returns
+- read [Hefang Street or East Side of West Lake: Where to Stay in Hangzhou for First-Time Visitors](/guides/hefang-street-or-east-side-of-west-lake-where-to-stay-in-hangzhou-for-first-time-visitors/) if the hotel choice is down to old-core atmosphere versus the safer scenic default
+- read [Where to Eat in Wulin for First-Time Visitors](/guides/where-to-eat-in-wulin-for-first-time-visitors/) if Wulin already is winning and the next decision is the easiest useful meal near the base
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if the base is nearly chosen and the live problem is how to use the main scenic day
+- read [How to Get Around Hangzhou for First-Time Visitors](/guides/how-to-get-around-hangzhou-for-first-time-visitors/) if the base is nearly chosen and the live problem is how to keep lake days, Lingyin, or late returns simple
 - read [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) if the stop length still is not fully settled

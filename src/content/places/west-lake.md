@@ -92,6 +92,10 @@ It is usually weaker for:
 
 That is why `West Lake` is often a `shape-the-day` page, not a simple attraction stop.
 
+If the live question already has narrowed to whether the day still needs more lake time or should switch to one lighter old-core branch, the cleaner chooser page is [Hefang Street or More West Lake Time for First-Time Visitors?](/guides/hefang-street-or-more-west-lake-time-for-first-time-visitors/).
+
+If the live question already is whether one selective lake-side boat segment improves the day or only makes it busier, the cleaner child page is [West Lake Boat Ride in Hangzhou: Is It Worth It for First-Time Visitors?](/guides/west-lake-boat-ride-in-hangzhou-is-it-worth-it-for-first-time-visitors/).
+
 ## West Lake vs a rushed Hangzhou day trip
 
 Choose a rushed `day trip` only if:
@@ -181,6 +185,8 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if the lake already is chosen and the live question is how to use the day well
+- read [West Lake Boat Ride in Hangzhou: Is It Worth It for First-Time Visitors?](/guides/west-lake-boat-ride-in-hangzhou-is-it-worth-it-for-first-time-visitors/) if the live question is whether one scenic water segment improves the lake day enough to bother
+- read [Hefang Street or More West Lake Time for First-Time Visitors?](/guides/hefang-street-or-more-west-lake-time-for-first-time-visitors/) if the live question is whether to keep the day lake-led or finish with one old-core branch instead
 - read [Broken Bridge in Hangzhou: Is It Worth It for First-Time Visitors?](/places/broken-bridge/) if the lake already is secure and the next choice is whether one classic symbolic lake scene belongs
 - read [Leifeng Pagoda in Hangzhou: Is It Worth It for First-Time Visitors?](/places/leifeng-pagoda/) if the lake already is secure and the next choice is whether one more classic lake-side viewpoint stop belongs
 - read [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) if the real question is route shape

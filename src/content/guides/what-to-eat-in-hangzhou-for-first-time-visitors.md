@@ -40,6 +40,18 @@ This page was checked against current official Hangzhou English-language pages o
 
 If the real question is not what to eat but which part of Hangzhou should carry which meal, the next page is [Where to Eat in Hangzhou for First-Time Visitors](/guides/where-to-eat-in-hangzhou-for-first-time-visitors/).
 
+If the live question is whether one local morning meal is worth protecting at all, the next page is [Where to Eat Breakfast in Hangzhou for First-Time Visitors](/guides/where-to-eat-breakfast-in-hangzhou-for-first-time-visitors/).
+
+If the live question is not the city's main dishes but which lighter snack layer is actually worth your time, the next page is [Best Hangzhou Snacks for First-Time Visitors](/guides/best-hangzhou-snacks-for-first-time-visitors/).
+
+If the live question is which Hangzhou sweet finish or dessert layer actually deserves time, the next page is [Best Hangzhou Desserts for First-Time Visitors](/guides/best-hangzhou-desserts-for-first-time-visitors/).
+
+If the live question is which edible gift is actually worth taking home, the next page is [What Food Souvenirs to Buy in Hangzhou for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-hangzhou-for-first-time-visitors/).
+
+If the live question is where one real tea stop should happen, the next page is [Where to Drink Tea in Hangzhou for First-Time Visitors](/guides/where-to-drink-tea-in-hangzhou-for-first-time-visitors/).
+
+If the dishes mostly are clear and the live question is how to use them on the main lake day, the narrower next page is [Where to Eat Near West Lake for First-Time Visitors](/guides/where-to-eat-near-west-lake-for-first-time-visitors/).
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -230,4 +242,10 @@ For many first-time visitors, a better version is:
 
 - read [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) if your meal plan still depends on what the days actually look like
 - read [Best Area to Stay in Hangzhou for First-Time Visitors](/guides/hangzhou-where-to-stay/) if the food plan still depends on the hotel base
+- read [Where to Eat Breakfast in Hangzhou for First-Time Visitors](/guides/where-to-eat-breakfast-in-hangzhou-for-first-time-visitors/) if the live question is whether the city deserves one real local breakfast or whether mornings should stay simpler
+- read [Best Hangzhou Snacks for First-Time Visitors](/guides/best-hangzhou-snacks-for-first-time-visitors/) if the live question is which lighter old-name, old-core, or small-eats layer actually deserves time
+- read [Best Hangzhou Desserts for First-Time Visitors](/guides/best-hangzhou-desserts-for-first-time-visitors/) if the live question is which sweet finish actually improves the trip after snacks, tea, or one proper Hangzhou meal
+- read [What Food Souvenirs to Buy in Hangzhou for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-hangzhou-for-first-time-visitors/) if the food plan is mostly set and the remaining question is which Hangzhou gift is actually worth carrying to the next city
+- read [Where to Drink Tea in Hangzhou for First-Time Visitors](/guides/where-to-drink-tea-in-hangzhou-for-first-time-visitors/) if the food plan is mostly clear and the next live question is where one meaningful tea pause should actually happen
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if you want the meals to fit the main scenic day better
+- read [Where to Eat Near West Lake for First-Time Visitors](/guides/where-to-eat-near-west-lake-for-first-time-visitors/) if the dishes are mostly chosen and the remaining question is the best near-lake meal slot

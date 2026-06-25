@@ -48,7 +48,17 @@ Use this page if you are asking:
 
 If the bigger question is still which Hangzhou foods deserve your limited meals, start with [What to Eat in Hangzhou for First-Time Visitors](/guides/what-to-eat-in-hangzhou-for-first-time-visitors/).
 
+If the live question is breakfast specifically, the narrower page is [Where to Eat Breakfast in Hangzhou for First-Time Visitors](/guides/where-to-eat-breakfast-in-hangzhou-for-first-time-visitors/).
+
+If the live question is a lighter snack block rather than a full meal, the narrower page is [Best Hangzhou Snacks for First-Time Visitors](/guides/best-hangzhou-snacks-for-first-time-visitors/).
+
+If the live question is dessert or one softer sweet finish, the narrower page is [Best Hangzhou Desserts for First-Time Visitors](/guides/best-hangzhou-desserts-for-first-time-visitors/).
+
+If the main live question already is narrower and mostly about the lake day itself, the next page is [Where to Eat Near West Lake for First-Time Visitors](/guides/where-to-eat-near-west-lake-for-first-time-visitors/).
+
 If the district choice already is mostly clear and the real question is still whether the city itself deserves the extra time, keep [Hangzhou for First-Time Visitors: When the City Is Worth More Than a Quick Add-On](/guides/hangzhou-first-time-guide/) open too.
+
+If the meal area already is mostly clear and the live question now is how that dinner should shape the evening, keep [What to Do in Hangzhou at Night for First-Time Visitors](/guides/what-to-do-in-hangzhou-at-night-for-first-time-visitors/) open too.
 
 ## The short answer
 
@@ -103,6 +113,10 @@ This is often the safest answer when:
 
 For many first-time visitors, this is the best `scenic default`.
 
+If the real question already is whether this lake-side support district deserves even a short dedicated stop, the narrower next page is [Hubin Pedestrian Street in Hangzhou: Is It Worth It for First-Time Visitors?](/places/hubin-pedestrian-street/).
+
+If the district choice already is made and the real question is which near-lake meal pattern fits best, the narrower next page is [Where to Eat Near West Lake for First-Time Visitors](/guides/where-to-eat-near-west-lake-for-first-time-visitors/).
+
 ## 2. Wulin for practical meals and easier short-stay dining
 
 The official Hangzhou page describes [Wulin Square](https://www.ehangzhou.gov.cn/2022-03/21/c_279928.htm) as a central landmark commercial district, which helps explain why it works so well for shorter stays.
@@ -121,6 +135,8 @@ It is often the better answer when:
 - you want one easier meal before or after rail movement
 
 For many first-time visitors, Wulin is the best `practical default` when scenic dining is not the main job of the meal.
+
+If the district choice already is settled and the live question is whether Wulin should carry a proper local dinner, a polished central meal, or only an easy hotel-side stop, the narrower next page is [Where to Eat in Wulin for First-Time Visitors](/guides/where-to-eat-in-wulin-for-first-time-visitors/).
 
 ## 3. Hefang Street and Gaoyin Street for one controlled old-core food block
 
@@ -145,6 +161,8 @@ For many first-time visitors, this is best for one controlled food block, not fo
 
 If the real question already is whether this old-street branch deserves one of your limited time blocks at all, the narrower next page is [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/).
 
+If the old-core branch already is chosen and the live question now is whether it should carry a proper meal, a snack block, or only a lighter stop, the narrower next page is [Where to Eat Near Hefang Street and Gaoyin Street for First-Time Visitors](/guides/where-to-eat-near-hefang-street-and-gaoyin-street-for-first-time-visitors/).
+
 ## 4. The Longjing side for one tea-linked lighter meal
 
 Not every useful Hangzhou meal needs to be a classic-city dining room.
@@ -164,6 +182,8 @@ It is usually weaker when:
 - the route is too short to justify a separate tea-country food mission
 
 For many first-time visitors, this is a great `supporting meal area`, not the anchor meal area.
+
+If the live question already is not the broader Longjing-side logic but whether Lingyin or Longjing should carry a lighter meal, a polished lunch, or one tea-country restaurant stop, the narrower next page is [Where to Eat Near Lingyin Temple or Longjing Village for First-Time Visitors](/guides/where-to-eat-near-lingyin-temple-or-longjing-village-for-first-time-visitors/).
 
 ## 5. Near the hotel after the shortest or most transfer-heavy day
 
@@ -194,6 +214,8 @@ This is often the best slot for:
 
 If the scenic day itself still needs shape before you attach the meal, the next page is [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/).
 
+If the lake day itself already is settled and the live choice is lunch-versus-classic-dinner-versus-lighter old-name stop, the narrower next page is [Where to Eat Near West Lake for First-Time Visitors](/guides/where-to-eat-near-west-lake-for-first-time-visitors/).
+
 ## Best food area for the more practical overnight version
 
 If Hangzhou is mainly a short overnight or a tight Shanghai extension, the strongest choices are usually:
@@ -208,6 +230,8 @@ This is often the best slot for:
 - one meal that should stay efficient rather than theatrical
 
 If the stay shape itself still is not settled, the next page is [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/).
+
+If the practical overnight version already is winning and the live meal choice is now fully Wulin-led, the narrower next page is [Where to Eat in Wulin for First-Time Visitors](/guides/where-to-eat-in-wulin-for-first-time-visitors/).
 
 ## Best food area for the old-core or lighter second block
 
@@ -229,5 +253,12 @@ That already gives Hangzhou a much clearer food geography.
 ## Which page to read next
 
 - read [What to Eat in Hangzhou for First-Time Visitors](/guides/what-to-eat-in-hangzhou-for-first-time-visitors/) if the dishes still matter more than the district
+- read [Where to Eat Breakfast in Hangzhou for First-Time Visitors](/guides/where-to-eat-breakfast-in-hangzhou-for-first-time-visitors/) if the next live decision is whether one morning should carry a real local breakfast
+- read [Best Hangzhou Snacks for First-Time Visitors](/guides/best-hangzhou-snacks-for-first-time-visitors/) if the next live decision is whether the city deserves one lighter snack block beyond its main meals
+- read [Best Hangzhou Desserts for First-Time Visitors](/guides/best-hangzhou-desserts-for-first-time-visitors/) if the next live decision is whether one sweet stop belongs after the main meals
+- read [Where to Eat Near West Lake for First-Time Visitors](/guides/where-to-eat-near-west-lake-for-first-time-visitors/) if the broader food map is clear and the only open question is the main lake-side meal
+- read [Where to Eat Near Lingyin Temple or Longjing Village for First-Time Visitors](/guides/where-to-eat-near-lingyin-temple-or-longjing-village-for-first-time-visitors/) if the main open question is the right second-day meal around Hangzhou's temple or tea-country branch
+- read [Where to Eat in Wulin for First-Time Visitors](/guides/where-to-eat-in-wulin-for-first-time-visitors/) if the main open question is the best practical central meal around Hangzhou's strongest convenience base
+- read [Where to Eat Near Hefang Street and Gaoyin Street for First-Time Visitors](/guides/where-to-eat-near-hefang-street-and-gaoyin-street-for-first-time-visitors/) if the main open question is the right old-core meal or snack block
 - read [Best Area to Stay in Hangzhou for First-Time Visitors](/guides/hangzhou-where-to-stay/) if the meal plan still depends on the hotel base
 - read [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) if the meals still depend on what the days actually look like

@@ -91,6 +91,8 @@ It is usually weaker for:
 
 That is why `Lingyin Temple` often is a `supporting depth page`.
 
+If the live question already is not just temple-only but whether the whole `Lingyin Temple + Feilai Peak` branch deserves one of your limited Hangzhou half days, the sharper next page is [Lingyin Temple and Feilai Peak in Hangzhou: Is It Worth It for First-Time Visitors?](/guides/lingyin-temple-and-feilai-peak-in-hangzhou-is-it-worth-it-for-first-time-visitors/).
+
 ## Lingyin Temple vs more West Lake time
 
 Choose `West Lake` if:
@@ -133,6 +135,8 @@ For many first-time visitors, `Lingyin Temple` works best as:
 - one cultural-and-greenery stop
 - one place that follows or complements `West Lake`, not one entirely separate city mission
 
+If the live question already is not whether the temple branch belongs but how to use it cleanly as a real half day, the sharper execution page is [How to Plan a Lingyin Temple and Feilai Peak Half Day for First-Time Visitors](/guides/how-to-plan-a-lingyin-temple-and-feilai-peak-half-day-for-first-time-visitors/).
+
 It becomes weaker when:
 
 - you try to do too much around it
@@ -164,5 +168,9 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/) if the lake still is not fully settled
+- read [Lingyin Temple and Feilai Peak in Hangzhou: Is It Worth It for First-Time Visitors?](/guides/lingyin-temple-and-feilai-peak-in-hangzhou-is-it-worth-it-for-first-time-visitors/) if the real question is whether the full temple-side branch deserves one of your limited half days
+- read [How to Plan a Lingyin Temple and Feilai Peak Half Day for First-Time Visitors](/guides/how-to-plan-a-lingyin-temple-and-feilai-peak-half-day-for-first-time-visitors/) if the branch sounds right and the next question is how to execute it cleanly
 - read [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/) if the real choice is temple calm versus tea-country texture
+- read [Lingyin Temple or Longjing Village: Which Hangzhou Second-Day Branch Is Better for First-Time Visitors?](/guides/lingyin-temple-or-longjing-village-for-first-time-visitors/) if you want one direct answer instead of bouncing between both pages
+- read [Where to Eat Near Lingyin Temple or Longjing Village for First-Time Visitors](/guides/where-to-eat-near-lingyin-temple-or-longjing-village-for-first-time-visitors/) if the place is chosen and the next live decision is the supporting meal
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if your main challenge is building one coherent Hangzhou day

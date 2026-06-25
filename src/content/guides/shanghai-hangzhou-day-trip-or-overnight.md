@@ -76,6 +76,8 @@ It is usually the better answer when:
 - you want evening and morning time to change the pace of the trip
 - Shanghai already feels full enough without squeezing another city into a single long day
 
+If the overnight version already is starting to win and the real question now is how Hangzhou itself should use that extra night, the narrower next page is [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/).
+
 ## Protect the split from becoming fake efficiency
 
 Travelers sometimes keep Hangzhou as a day trip only because the train is fast. That can create the illusion of efficiency while still making the day feel too compressed.
@@ -106,4 +108,6 @@ That one rule is often more helpful than comparing only train duration.
 - read [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) if the Shanghai-Hangzhou move still feels too abstract
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if the split is chosen and you are ready to book the rail segment
 - read [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) if the train is fixed and seat comfort is the only remaining choice
+- read [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) if the overnight version is probably right and the remaining question is how much Hangzhou should actually carry
+- read [Hangzhou East Station or West Lake: Where to Stay for First-Time Visitors](/guides/hangzhou-east-station-or-west-lake-where-to-stay-for-first-time-visitors/) if the overnight version is chosen and the live hotel question is rail convenience versus a proper scenic base
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the real blocker is still hotel logic on the Shanghai side

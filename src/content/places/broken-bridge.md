@@ -123,6 +123,8 @@ Choose `Broken Bridge` if:
 
 That makes `Broken Bridge` the stronger `symbolic scene` answer and `Leifeng Pagoda` the stronger `structured supporting stop` answer.
 
+If the live question already is not whether either one belongs in the abstract but which one fits the short Hangzhou day better, the cleaner chooser page is [Broken Bridge or Leifeng Pagoda for First-Time Visitors?](/guides/broken-bridge-or-leifeng-pagoda-for-first-time-visitors/).
+
 ## How much time does Broken Bridge need?
 
 Usually not much on its own.
@@ -163,6 +165,7 @@ It improves the trip less when:
 
 ## Which page to read next
 
+- read [Broken Bridge or Leifeng Pagoda for First-Time Visitors?](/guides/broken-bridge-or-leifeng-pagoda-for-first-time-visitors/) if the live choice is one lighter symbolic scene versus one more structured lake-side supporting stop
 - read [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/) if the main Hangzhou anchor still is not settled
 - read [Leifeng Pagoda in Hangzhou: Is It Worth It for First-Time Visitors?](/places/leifeng-pagoda/) if the live choice is one quick symbolic scene versus one more structured supporting stop
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if the lake already is chosen and you now need a calmer route shape

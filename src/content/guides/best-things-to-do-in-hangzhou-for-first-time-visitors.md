@@ -51,6 +51,8 @@ If the bigger question still is whether Hangzhou belongs in the route at all, st
 
 If the live question still is whether Hangzhou should stay a quick extension or become its own stop, keep [Hangzhou: Day Trip or Overnight Stay?](/guides/hangzhou-day-trip-or-overnight/) open too.
 
+If the live question now is whether the city deserves `1` day or a fuller `2-day` stop, keep [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/) open too.
+
 If the main planning problem already is how to keep the lake day realistic, keep [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) open too.
 
 ## The short answer
@@ -123,6 +125,10 @@ For many first-time visitors, Lingyin is the cleanest answer when the city needs
 
 If the live question already is whether that second act fits your trip at all, the narrower next page is [Lingyin Temple in Hangzhou: Is It Worth It on a First Trip?](/places/lingyin-temple/).
 
+If the live question already is not only about the temple name but whether the full `Lingyin Temple + Feilai Peak` branch deserves one of your key half days, the sharper next page is [Lingyin Temple and Feilai Peak in Hangzhou: Is It Worth It for First-Time Visitors?](/guides/lingyin-temple-and-feilai-peak-in-hangzhou-is-it-worth-it-for-first-time-visitors/).
+
+If the live question already is not whether Lingyin belongs in general but whether it should beat Longjing as your one real second-day branch, the cleaner comparison page is [Lingyin Temple or Longjing Village: Which Hangzhou Second-Day Branch Is Better for First-Time Visitors?](/guides/lingyin-temple-or-longjing-village-for-first-time-visitors/).
+
 ## 3. Longjing Village is where Hangzhou starts feeling distinctive, not only pretty
 
 [Longjing Village](/places/longjing-village/) often gives more value than one extra minor West Lake stop when the route has room for a second scenic branch.
@@ -148,6 +154,8 @@ It is usually weaker when:
 For many first-time visitors, Longjing is the right selective upgrade once the main lake day is already secure.
 
 If the live question already is whether that tea-and-scenery branch really deserves one of your limited slots, the narrower next page is [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/).
+
+If the live question already is not whether Longjing belongs in general but whether it should beat Lingyin as your one stronger second-day branch, the cleaner comparison page is [Lingyin Temple or Longjing Village: Which Hangzhou Second-Day Branch Is Better for First-Time Visitors?](/guides/lingyin-temple-or-longjing-village-for-first-time-visitors/).
 
 ## 4. Leifeng Pagoda and Broken Bridge are supporting lake branches, not the whole point
 
@@ -191,6 +199,8 @@ For many first-time visitors, Hefang is best treated as a short companion piece,
 
 If the live question already is whether that lighter old-street branch is worth even a short detour, the narrower next page is [Hefang Street in Hangzhou: Is It Worth Visiting on a First Trip?](/places/hefang-street/).
 
+If the live question already has narrowed to whether that old-street branch should beat one more better lake block, the cleaner chooser page is [Hefang Street or More West Lake Time for First-Time Visitors?](/guides/hefang-street-or-more-west-lake-time-for-first-time-visitors/).
+
 ## 6. Xixi Wetland is the optional second-green-area branch
 
 [Xixi Wetland](/places/xixi-wetland/) is often worth it, but usually only when the trip genuinely wants more greenery after West Lake.
@@ -222,6 +232,8 @@ Hangzhou often feels fuller when the plan leaves room for:
 - a slower scenic transition instead of another transfer
 - one easier evening instead of one more forced sight
 
+If the live question already is whether that easier lake-side support layer should happen around `Hubin` or stay more abstract, the narrower next page is [Hubin Pedestrian Street in Hangzhou: Is It Worth It for First-Time Visitors?](/places/hubin-pedestrian-street/).
+
 This often gives the trip more personality than squeezing in another lower-priority attraction.
 
 That matters because Hangzhou is not trying to win by density. It usually wins by elegance, rhythm, and restraint.
@@ -240,3 +252,5 @@ That already gives Hangzhou a clear identity.
 The mistake is thinking a short Hangzhou trip must also carry every scenic name around the lake and beyond to feel worthwhile.
 
 If you are shaping that sharper version now, [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) is still the best execution page for the core scenic day, while [Hangzhou: Day Trip or Overnight Stay?](/guides/hangzhou-day-trip-or-overnight/) helps if the route still has not decided how much time Hangzhou really deserves.
+
+If that trip-length question still is the main blocker, the cleaner next page is [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/).

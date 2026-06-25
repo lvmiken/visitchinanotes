@@ -123,6 +123,8 @@ Choose `Leifeng Pagoda` if:
 
 That makes `Longjing Village` the stronger `tea-country branch` answer and `Leifeng Pagoda` the stronger `lake-side supporting viewpoint` answer.
 
+If the live question already is not whether either stop belongs in the abstract but whether the day needs the lighter symbolic answer or the more structured supporting one, the cleaner chooser page is [Broken Bridge or Leifeng Pagoda for First-Time Visitors?](/guides/broken-bridge-or-leifeng-pagoda-for-first-time-visitors/).
+
 ## How much time does Leifeng Pagoda need?
 
 Usually a controlled supporting block.
@@ -163,6 +165,7 @@ It improves the trip less when:
 
 ## Which page to read next
 
+- read [Broken Bridge or Leifeng Pagoda for First-Time Visitors?](/guides/broken-bridge-or-leifeng-pagoda-for-first-time-visitors/) if the live choice is one more structured lake-side stop versus one lighter symbolic West Lake scene
 - read [Broken Bridge in Hangzhou: Is It Worth It for First-Time Visitors?](/places/broken-bridge/) if the live choice is one more structured lake-side stop versus one lighter symbolic West Lake scene
 - read [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/) if the main Hangzhou anchor still is not settled
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if the lake already is chosen and you now need a calmer route shape

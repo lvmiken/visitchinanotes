@@ -165,4 +165,9 @@ It improves the trip less when:
 
 - read [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/) if the core lake decision still is not done
 - read [Lingyin Temple in Hangzhou: Is It Worth It on a First Trip?](/places/lingyin-temple/) if the real choice is tea-country texture versus temple atmosphere
+- read [Lingyin Temple or Longjing Village: Which Hangzhou Second-Day Branch Is Better for First-Time Visitors?](/guides/lingyin-temple-or-longjing-village-for-first-time-visitors/) if you want one direct answer instead of comparing both pages separately
+- read [Where to Drink Tea in Hangzhou for First-Time Visitors](/guides/where-to-drink-tea-in-hangzhou-for-first-time-visitors/) if the real question is not whether the branch belongs but whether this should be the trip's one meaningful tea stop
+- read [Longjing Village or China National Tea Museum for First-Time Visitors](/guides/longjing-village-or-china-national-tea-museum-for-first-time-visitors/) if the live choice is tea-country atmosphere versus a more explanatory tea-culture branch
+- read [Where to Eat Near Lingyin Temple or Longjing Village for First-Time Visitors](/guides/where-to-eat-near-lingyin-temple-or-longjing-village-for-first-time-visitors/) if the branch is chosen and the next live decision is the tea-country or temple-side meal
+- read [What Food Souvenirs to Buy in Hangzhou for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-hangzhou-for-first-time-visitors/) if the real value of the tea-country branch depends on whether you want one deliberate `Longjing tea` purchase
 - read [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) if the real issue still is whether the route can slow down enough
