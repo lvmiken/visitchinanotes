@@ -2,7 +2,7 @@
 title: "Best Area to Stay in Chengdu for First-Time Visitors"
 description: "Compare central Chengdu, Yulin, and Jiuyanqiao-side hotel logic to see which Chengdu base fits a first trip, panda plans, food evenings, and the slower city rhythm visitors actually enjoy."
 publishDate: 2026-06-14
-updatedDate: 2026-06-22
+updatedDate: 2026-06-25
 city: "chengdu"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -159,6 +159,8 @@ For most travelers, a stronger Chengdu hotel strategy is:
 
 If the panda day still is too vague to judge the hotel honestly, solve that first with [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/).
 
+If the hotel choice also depends on whether a late Tianfu arrival will make the first night feel rough, keep [Chengdu Tianfu Airport to City for First-Time Visitors: Metro, Taxi, or Airport Bus?](/guides/chengdu-tianfu-airport-to-city/) open too before you commit to a farther-out base.
+
 ## Keep evenings part of the hotel decision
 
 Some cities are planned around mornings. Chengdu often becomes memorable because of what happens after 5 pm.
@@ -177,6 +179,8 @@ If the base decision mostly depends on which district should carry your meals on
 If the hotel already clearly is central and the live question now is how to actually use Chunxi Road or Taikoo Li for the easiest first dinner, panda-day recovery meal, or polished modern evening, the narrower execution page is [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/).
 
 If the base decision mostly depends on whether the trip wants one local evening or one livelier nightlife push, the next page is [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/).
+
+If the base decision also needs to survive wet weather without turning every return into a hassle, the tactical companion page is [Rainy Day in Chengdu for First-Time Visitors: Panda Base, Museums, or Food?](/guides/rainy-day-in-chengdu-for-first-time-visitors/).
 
 ## Best base by trip style
 

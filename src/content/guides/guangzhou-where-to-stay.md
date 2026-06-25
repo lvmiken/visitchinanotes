@@ -70,9 +70,13 @@ If the live question now is whether one easy central old-core district should ca
 
 It is also the safer direction if you already know the trip wants one `Pearl River` or `Canton Tower` evening and you do not want the return from that side of the city to become the real story of the night. If that skyline-night call still is not settled, the narrower decision page is [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/).
 
+If the skyline-night call is less about the cruise and more about whether the main landmark or easier skyline walk deserve real time, the narrower pages are [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) and [Huacheng Square in Guangzhou: Is It Worth It for First-Time Visitors?](/places/huacheng-square/).
+
 If the trip instead wants one stronger `Liwan` or old-Guangzhou branch, a base that does not make the west side feel like an afterthought becomes more valuable. If that exact district decision still is live, the narrower page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
 
 If the west-side question already is not whether it matters but how to run `Liwan`, `Yongqing Fang`, and `Shamian` as one usable half day, the cleaner next page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
+
+If the west-side branch already is winning and the live question becomes whether the calmer finish should be `Shamian`, the narrower page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
 
 If the base question is less about one specific district and more about how to distribute meals between the central core, the west side, and one river or hotel-convenience night, the better bridge page is [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/).
 

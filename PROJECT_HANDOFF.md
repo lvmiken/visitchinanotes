@@ -1,6 +1,56 @@
 # Project Handoff
 
-Last updated: 2026-06-19
+Last updated: 2026-06-24
+
+## 0. Quick Start For The Next Thread
+
+If you are taking over this project in a fresh thread, use this order:
+
+1. Read this file first
+2. Read `CONTENT_TODO.md`
+3. Run `git status`
+4. Run `npm run build`
+5. Spot-check:
+   - `/`
+   - one destination hub
+   - one guide page
+   - one places page
+   - `/places/`
+   - `/robots.txt`
+   - `/sitemap-index.xml`
+6. Continue only with pages that are:
+   - SEO-safe
+   - clearly aligned with a real search intent
+   - genuinely useful to first-time visitors
+
+What this project is trying to build:
+
+- an English practical China travel knowledge base
+- for first-time visitors
+- designed for organic search growth first
+- with reusable city-cluster structure rather than random isolated posts
+
+Non-negotiable working priorities:
+
+1. SEO-friendly structure
+2. Strong search-intent match
+3. Real reader usefulness
+4. Reusable cluster pattern that can be copied city to city
+
+Default workflow:
+
+1. Make local edits
+2. Run local build
+3. Give the user the preview path or confirm what changed
+4. Do not push unless the user explicitly asks
+
+Current local repo state at the moment this handoff was updated:
+
+- branch: `main`
+- latest pushed commit: `e227d38`
+- local uncommitted change: `PROJECT_HANDOFF.md`
+
+That means the code/content state is already pushed, and this handoff update itself is the only expected local change unless later work adds more.
 
 ## 1. Project Purpose
 
@@ -219,9 +269,14 @@ Current sitemap status:
 
 - `sitemap-index.xml` exists
 - current production includes `sitemap-0.xml`
-- current URL count after latest content expansion: `60`
 - sitemap is intentionally focused on indexable content pages such as home, about, destination hubs, guide articles, topic articles, and topic hubs
 - low-priority trust / utility / conversion pages such as `/authors/`, `/contribute/`, `/editorial-policy/`, `/plan-help/`, and `/privacy/` are intentionally excluded from sitemap
+
+Important freshness note:
+
+- the old hardcoded sitemap URL-count note in this handoff is no longer reliable after the latest cluster expansion
+- if a future thread needs exact current sitemap counts, inspect the generated production sitemap directly instead of trusting a stale handoff number
+- latest successful local build on **2026-06-24** produced `445 page(s) built`, but that number includes page routes beyond only sitemap-indexed travel landing pages
 
 Important note:
 
@@ -420,6 +475,44 @@ Current destination coverage includes:
 - Chongqing
 - Zhangjiajie
 - Qingdao
+- Hong Kong
+- Macau
+- Shenzhen
+
+### Current maturity map
+
+Use this as the practical city-priority map for future work.
+
+- `Beijing`
+  - strongest model city
+  - best example for cluster depth, internal linking, places logic, food layer, family layer, and practical support pages
+- `Shanghai`
+  - strongest next-tier model city
+  - strong places, skyline, food, night, and hotel-comparison structure
+  - still worth improving Shanghai positioning copy so the city's scale, cosmopolitan appeal, and first-trip value are stated more vividly where needed
+- `Xi'an`
+  - strong heritage-city sample
+  - still good candidate for more adult decision pages around museum / old-city / Terracotta Warriors support branches
+- `Chengdu`
+  - good food-and-lifestyle city with meaningful place support
+  - worth continuing around panda, teahouse, neighborhood, and relaxed-route logic
+- `Chongqing`
+  - now much deeper than before, especially in skyline, food, museum, and district decisions
+  - close to a real model city, but still slightly less complete than Beijing and Shanghai
+- `Guangzhou`
+  - strong South China anchor with practical food, stay, airport, and route support
+- `Hong Kong`
+  - now a real usable cluster, but still wants one or two more iconic place anchors
+- `Macau`
+  - useful starter cluster, still wants another high-recognition historic place anchor
+- `Shenzhen`
+  - good modern-city and food/night sample, with room for more practical expansion
+- `Hangzhou`
+  - valuable city, but not currently the top expansion priority
+- `Qingdao`
+  - useful supporting coastal city, still relatively lighter than the main sample clusters
+- `Zhangjiajie`
+  - still more specialized and not as central to the reusable city-cluster template
 
 Recent content additions:
 
@@ -429,11 +522,161 @@ Recent content additions:
 - `guangzhou-3-day-itinerary`
 - `can-tourists-use-alipay-in-china`
 - `can-tourists-use-wechat-pay-in-china`
+- the full South China regional cluster across:
+  - `Hong Kong`
+  - `Macau`
+  - `Shenzhen`
+  - `Guangzhou`
+- new Shenzhen place anchors:
+  - `shenzhen-bay-and-houhai`
+  - `shekou-sea-world`
+  - `nantou-ancient-town`
+  - `dongmen-old-street`
+- new Guangzhou place anchor:
+  - `beijing-road`
 
 Current high-maturity cluster:
 
 - Beijing is the most complete current sample city
-- Shanghai and Xi'an are the next best cities to deepen using the same pattern
+- Shanghai is the next best single-city sample to deepen using the same pattern
+- Xi'an, Chengdu, and Chongqing already have meaningful secondary depth
+- South China is now the strongest regional multi-city cluster after the latest work, but it still needs a few more place anchors and child pages to feel as mature as Beijing
+
+### Latest pushed state
+
+Most recent pushed commit:
+
+- `e227d3816fd7e203491516f9a351fc24f109056b`
+- short hash: `e227d38`
+- commit message: `Build South China city clusters and place guides`
+
+This commit is important because it finished a large South China handoff-safe batch and pushed it to `main`.
+
+At the time of this handoff:
+
+- the pushed site/content batch is already on `main`
+- the expected local working-tree change is this `PROJECT_HANDOFF.md` update unless a later thread adds more edits
+- the South China batch has already been pushed
+- latest local build check passed on **2026-06-24**
+- Cloudflare Pages should deploy automatically from that push as usual
+
+### South China cluster status
+
+This is the main new system-level change since the older handoff draft.
+
+The project now has a real regional South China cluster made of:
+
+- `Hong Kong`
+- `Macau`
+- `Shenzhen`
+- `Guangzhou`
+
+The current structure pattern for this regional group is:
+
+1. city hub
+2. first-time guide
+3. how-many-days page
+4. where-to-stay page
+5. itinerary page
+6. food parent and/or night parent
+7. district-food execution pages
+8. place anchors
+9. route-comparison topic support
+
+#### Hong Kong current structure
+
+Live core pages now include:
+
+- city hub: `src/content/cities/hong-kong.json`
+- first-time guide: `src/content/guides/hong-kong-first-time-guide.md`
+- `how-many-days-in-hong-kong-for-first-time-visitors`
+- `hong-kong-where-to-stay`
+- `hong-kong-3-day-itinerary`
+- `what-to-do-in-hong-kong-at-night`
+- `what-to-eat-in-hong-kong-for-first-time-visitors`
+- district food children:
+  - `where-to-eat-in-central-and-soho-for-first-time-visitors`
+  - `where-to-eat-near-temple-street-for-first-time-visitors`
+- place anchors:
+  - `victoria-peak`
+  - `temple-street-night-market`
+
+#### Macau current structure
+
+Live core pages now include:
+
+- city hub: `src/content/cities/macau.json`
+- first-time guide: `src/content/guides/macau-first-time-guide.md`
+- `how-many-days-in-macau-for-first-time-visitors`
+- `where-to-stay-in-macau-for-first-time-visitors`
+- `macau-2-day-itinerary`
+- `what-to-eat-in-macau-for-first-time-visitors`
+- district food children:
+  - `where-to-eat-around-senado-square-for-first-time-visitors`
+  - `where-to-eat-in-taipa-village-for-first-time-visitors`
+- place anchors:
+  - `senado-square`
+  - `taipa-village`
+
+#### Shenzhen current structure
+
+Live core pages now include:
+
+- city hub: `src/content/cities/shenzhen.json`
+- first-time guide: `src/content/guides/shenzhen-first-time-guide.md`
+- `how-many-days-in-shenzhen-for-first-time-visitors`
+- `where-to-stay-in-shenzhen-for-first-time-visitors`
+- `shenzhen-3-day-itinerary`
+- `what-to-do-in-shenzhen-at-night-for-first-time-visitors`
+- `what-to-eat-in-shenzhen-for-first-time-visitors`
+- district food and execution children:
+  - `where-to-eat-in-dongmen-for-first-time-visitors`
+  - `where-to-eat-in-sea-world-for-first-time-visitors`
+  - `where-to-eat-on-bagua-first-road-for-first-time-visitors`
+  - `is-guangming-roast-squab-worth-a-detour-for-first-time-visitors`
+  - `is-shajing-oysters-worth-a-detour-for-first-time-visitors`
+- place anchors:
+  - `shenzhen-bay-and-houhai`
+  - `shekou-sea-world`
+  - `nantou-ancient-town`
+  - `dongmen-old-street`
+
+#### Guangzhou current structure
+
+Live core pages now include:
+
+- city hub: `src/content/cities/guangzhou.json`
+- first-time guide: `src/content/guides/guangzhou-first-time-guide.md`
+- `guangzhou-how-many-days`
+- `guangzhou-where-to-stay`
+- `guangzhou-baiyun-airport-to-downtown`
+- `guangzhou-3-day-itinerary`
+- `what-to-do-in-guangzhou-at-night-for-first-time-visitors`
+- `what-to-eat-in-guangzhou-for-first-time-visitors`
+- `where-to-eat-in-guangzhou-for-first-time-visitors`
+- child execution pages:
+  - `where-to-eat-on-beijing-road-for-first-time-visitors`
+  - `where-to-eat-near-yongqing-fang-for-first-time-visitors`
+  - `how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors`
+  - `guangzhou-hong-kong-or-shenzhen-route`
+- place anchors:
+  - `beijing-road`
+  - `yongqing-fang`
+  - `pearl-river-night-cruise`
+
+### South China next-step logic
+
+If another thread continues South China specifically, the cleanest next moves are:
+
+1. deepen `Hong Kong` with one or two additional place anchors such as `star-ferry` or `avenue-of-stars`
+2. deepen `Macau` with one stronger old-core support place such as `ruins-of-st-pauls`
+3. only after that, add more child execution pages if a place already clearly has parent support
+
+Important rule:
+
+- do not explode South China into too many overlapping place pages at once
+- keep adding only pages that answer a real first-time visitor decision
+- prefer one place anchor plus one useful execution child over several thin overlapping pages
 
 Recent content model direction:
 
@@ -720,33 +963,70 @@ Do not "fix" the warning situation casually by deleting content or renaming URLs
 
 If another thread continues this work, the most useful next steps are:
 
-1. Finish Search Console onboarding
+1. Finish the most natural South China follow-up pages
+   - `star-ferry`
+   - `ruins-of-st-pauls`
+   - after that, consider one more Hong Kong or Macau supporting place only if it clearly answers a real first-time-visitor decision
+
+2. Keep strengthening search-intent-first city clusters instead of adding many new cities
+   - strongest next content targets after South China:
+     - `Shanghai`
+     - `Xi'an`
+     - `Chengdu`
+     - `Chongqing`
+
+3. Use Beijing as the copyable template for what "complete enough" means
+   - city hub
+   - first-time guide
+   - where-to-stay
+   - itinerary
+   - airport-to-city where relevant
+   - 3 to 6 meaningful places
+   - practical planning support
+   - food / night / weather / family or niche support
+
+4. Continue high-intent practical pages that can monetize later
+   - transport
+   - booking
+   - payment
+   - food-decision
+   - neighborhood-fit pages
+
+5. Keep strengthening internal links inside existing clusters
+   - especially:
+     - city hub -> place
+     - place -> execution child
+     - parent food/night pages -> district children
+     - route topics -> relevant city hubs
+
+6. Finish Search Console hygiene if still incomplete
    - verify ownership
    - submit `https://visitchinanotes.com/sitemap-index.xml`
-   - request indexing for key pages
+   - request indexing for the strongest cluster pages, not everything at once
 
-2. Enable Cloudflare Web Analytics
-   - if not already enabled
-   - verify data appears after a deployment
+7. Keep analytics and deployment simple
+   - GA4 is already installed
+   - do not duplicate tags
+   - Cloudflare Pages should keep auto-deploying from `main`
 
-3. Deepen the strongest city clusters
-   - Shanghai
-   - Beijing
-   - Guangzhou
-   - Qingdao
+### Clean next-thread execution options
 
-4. Add more guide depth before adding too many new cities
-   - this is better for SEO than creating many thin destination pages
+If the next thread wants the safest immediate content move, pick one of these:
 
-5. Decide long-term form handling
-   - keep email fallback for now
-   - later connect a real form endpoint
-   - later build lightweight admin/review flow if needed
+1. South China completion
+   - add `star-ferry`
+   - add `ruins-of-st-pauls`
 
-6. Consider richer media later
-   - city-specific OG images
-   - author photos or editorial visuals
-   - simple branded illustrations
+2. Shanghai strengthening
+   - improve or expand pages that better explain why Shanghai is compelling as China's biggest and most international city
+   - keep that framing tied to first-time-visitor decisions, not generic city praise
+
+3. Xi'an refinement
+   - add narrower adult decision pages such as `is-terracotta-army-worth-it-for-first-time-visitors`
+   - or deepen old-city / Beilin / museum support if the query intent is clean
+
+4. Chengdu continuation
+   - expand practical place and neighborhood support around panda, teahouse, food, and relaxed city rhythm decisions
 
 ## 15. Working Style and Product Expectations
 
@@ -848,3 +1128,16 @@ If you are continuing from another thread, start here:
    - SEO/analytics onboarding
    - content cluster expansion
    - lightweight lead-capture improvements
+
+## 20. What Another Thread Should Not Forget
+
+These are the most important practical rules that have repeatedly mattered:
+
+- Do not add pages just because a place exists. Add them when they answer a real decision.
+- Do not treat place pages as generic attraction descriptions. Make them solve worth-it / how-long / where-it-fits questions.
+- Do not update `updatedDate` unless the content changed in a meaningful way.
+- Do not casually change sitemap rules, indexing rules, or canonical logic.
+- Do not mass-publish overlapping thin pages.
+- Do not push after local work unless the user explicitly asks.
+- Always update `CONTENT_TODO.md` when publishing or re-scoping important target pages.
+- When in doubt, strengthen an existing cluster before opening a brand-new city.

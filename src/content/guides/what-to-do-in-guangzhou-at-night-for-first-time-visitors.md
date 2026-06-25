@@ -122,6 +122,10 @@ This is often the strongest evening after:
 
 If the live question now is whether the cruise itself really deserves one of your limited Guangzhou evenings or whether a simpler tower-side walk already is enough, the narrower companion page is [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/).
 
+If the live question now is whether the landmark itself deserves time before you escalate to a cruise, the narrower companion page is [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/).
+
+If the live question is whether one easier modern skyline walk around `Zhujiang New Town` already is enough, the narrower companion page is [Huacheng Square in Guangzhou: Is It Worth It for First-Time Visitors?](/places/huacheng-square/).
+
 ### What this evening is best for
 
 - one skyline-led walk
@@ -173,6 +177,8 @@ The Guangzhou tourism bureau's route material continues to feature `Yongqing Fan
 If the live question now is whether `Yongqing Fang` itself really deserves one of your limited Guangzhou blocks or whether a more central or more scenic night would be stronger, the narrower companion page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
 
 If the old-city branch already is winning and the live question becomes how to turn `Liwan`, `Yongqing Fang`, and `Shamian` into one real half day or early-evening sequence, the cleaner execution page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
+
+If the live question becomes whether the calmer visual finish really should be `Shamian` at all, the narrower companion page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
 
 This is strongest when you want:
 

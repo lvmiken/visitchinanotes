@@ -82,9 +82,15 @@ Why this works:
 
 If this fuller day naturally points toward one deliberate skyline finish instead of another casual district wander, the narrower decision page is [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/).
 
+If the skyline choice still is more about a landmark than a cruise, the narrower place page is [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/).
+
 If this fuller day instead wants one slower west-side neighborhood block with more atmosphere than spectacle, the narrower decision page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
 
 If the west-side branch already clearly is happening and the live question becomes how to combine `Liwan`, `Yongqing Fang`, and `Shamian` without letting the half day sprawl too long, the cleaner execution page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
+
+If the trip wants one more focused heritage support stop than only district wandering, the narrower place page is [Chen Clan Ancestral Hall in Guangzhou: Is It Worth It for First-Time Visitors?](/places/chen-clan-ancestral-hall/).
+
+If the trip instead wants one lighter central daytime support block, the narrower place page is [Yuexiu Park in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yuexiu-park/).
 
 If the day stays central and the real question becomes which easy food block should carry the evening, the narrower page is [Where to Eat on Beijing Road for First-Time Visitors](/guides/where-to-eat-on-beijing-road-for-first-time-visitors/).
 
@@ -119,5 +125,6 @@ Guangzhou can feel underwhelming when travelers expect every hour to revolve aro
 - read [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/) if you are still unsure whether three days is too much or too little
 - read [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) if the route is basically set and the next decision is how meals should be distributed by district
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the live decision is whether one easy central district should carry a real evening
+- read [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) if the live decision is whether the classic skyline landmark deserves one protected block
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the route works in daytime but still needs one stronger river, food, or old-city evening
 - read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) if the next city is still unsettled

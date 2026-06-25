@@ -108,6 +108,34 @@ const guidesByStage = guideStages
   }))
   .filter((group) => group.guides.length > 0);
 const quickStartGuides = relatedGuides.slice(0, 6);
+const practicalGuides = relatedGuides
+  .map((guide) => {
+    let score = 0;
+    const slug = guide.slug;
+
+    if (slug.includes("where-to-stay")) score += 100;
+    if (slug.includes("airport-to-city")) score += 90;
+    if (slug.includes("how-to-get-around")) score += 80;
+    if (slug.includes("what-to-book-in-advance")) score += 70;
+    if (slug.includes("rainy-day")) score += 60;
+    if (guide.data.guideStage === "plan-stay") score += 30;
+    if (guide.data.guideStage === "solve-logistics") score += 25;
+
+    return { guide, score };
+  })
+  .filter(({ score }) => score > 0)
+  .sort((a, b) => {
+    if (b.score !== a.score) {
+      return b.score - a.score;
+    }
+
+    const aDate = a.guide.data.updatedDate ?? a.guide.data.publishDate;
+    const bDate = b.guide.data.updatedDate ?? b.guide.data.publishDate;
+
+    return bDate.valueOf() - aDate.valueOf();
+  })
+  .map(({ guide }) => guide)
+  .slice(0, 4);
 
 const clusterSteps = [
   {
@@ -289,6 +317,19 @@ const socialImage = getCitySocialImage(city);
       </p>
       <div class="grid two">
         {quickStartGuides.map((guide) => <GuideCard guide={guide} />)}
+      </div>
+    </section>
+  )}
+
+  {practicalGuides.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Most-Used Practical Guides</h2>
+      <p class="muted">
+        These are usually the highest-friction questions once {city.data.name} is already in the route: where to stay,
+        how to arrive, how to move around, what to book early, and how to rescue a weather-disrupted day.
+      </p>
+      <div class="grid two">
+        {practicalGuides.map((guide) => <GuideCard guide={guide} />)}
       </div>
     </section>
   )}

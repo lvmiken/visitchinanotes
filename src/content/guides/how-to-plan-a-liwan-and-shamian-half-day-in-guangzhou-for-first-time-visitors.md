@@ -112,7 +112,7 @@ For many readers, this is the strongest version.
 Why it works:
 
 - [Yongqing Fang](/places/yongqing-fang/) gives the branch the real Lingnan and west-Guangzhou atmosphere
-- `Shamian` gives the branch a contrasting river-facing colonial-era visual finish
+- [Shamian Island](/places/shamian-island/) gives the branch a contrasting river-facing visual finish
 - the half day feels richer than only one district
 - it still stays controlled enough for a short trip
 
@@ -124,6 +124,8 @@ This is usually the best version when:
 - the group likes walking, architecture, and atmosphere more than formal sightseeing volume
 
 For many first-time visitors, this is the best way to make `Shamian` useful without asking it to carry the whole afternoon by itself.
+
+If the live question becomes whether `Shamian` itself really deserves the supporting finish role, the narrower page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
 
 ## Fuller version: Liwan, Yongqing Fang, and one meal stop
 

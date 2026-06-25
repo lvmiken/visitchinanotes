@@ -34,6 +34,17 @@ const highIntentTopicSlugs = [
 const highIntentTopics = highIntentTopicSlugs
   .map((slug) => topics.find((topic) => topic.slug === slug))
   .filter(Boolean);
+const highIntentGuideSlugs = [
+  "beijing-where-to-stay",
+  "beijing-xian-or-shanghai-pairing",
+  "shanghai-airport-to-city",
+  "chengdu-tianfu-airport-to-city",
+  "chongqing-where-to-stay",
+  "shaanxi-history-museum-or-xian-museum",
+];
+const highIntentGuides = highIntentGuideSlugs
+  .map((slug) => guides.find((guide) => guide.slug === slug))
+  .filter(Boolean);
 
 const groupedCities = destinationGroups
   .map((group) => ({
@@ -209,6 +220,16 @@ const featuredPlaces = featuredPlaceSlugs
       {highIntentTopics.map((topic) => <TopicCard topic={topic} />)}
     </div>
   </section>
+
+  {highIntentGuides.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">Popular Planning Guides</h2>
+      <p class="muted">These are the city-specific questions travelers often search once the trip starts becoming real.</p>
+      <div class="grid two">
+        {highIntentGuides.map((guide) => <GuideCard guide={guide} />)}
+      </div>
+    </section>
+  )}
 
   <section class="section-block">
     <h2 class="section-title">Planning Guides</h2>
