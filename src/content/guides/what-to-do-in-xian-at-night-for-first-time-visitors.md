@@ -2,7 +2,7 @@
 title: "What to Do in Xi'an at Night for First-Time Visitors"
 description: "Choose the Xi'an night plan that fits your trip, whether you want Muslim Quarter energy, Bell Tower and South Gate, the pagoda side, or Tang Paradise."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-26
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -161,6 +161,10 @@ If the night already is staying on the south side and the live question now is w
 
 [Tang Paradise](/places/tang-paradise/) is usually the best Xi'an evening when the night itself should feel like the event.
 
+If the live question is not whether the trip wants the fuller ticketed scenic answer but whether the pagoda side should stay open-air and easier to drop into, the more focused companion page is [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/).
+
+If the live question already is not `old city or pagoda side?` but `Everbright City or Tang Paradise once the pagoda side is happening`, the sharper comparison page is [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/).
+
 This is often the strongest choice if you want:
 
 - one more photogenic and lit-up Xi'an evening
@@ -275,6 +279,8 @@ That already gives the city more range than leaving every night unplanned.
 - read [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if the old-city food-street night is already the real decision
 - read [Xi'an Muslim Quarter Food Guide for First-Time Visitors](/guides/xian-muslim-quarter-food-guide-for-first-time-visitors/) if the old-city food-street night already is chosen and you need the narrower eating plan
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the scenic south-side evening already is the real decision
+- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the live south-side choice is open-air Everbright City versus another old-city night
+- read [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/) if the live south-side choice is easier open-air atmosphere versus a fuller scenic event
 - read [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/) if the south-side evening already is chosen and you now need the narrower pagoda-area meal decision
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if evening movement still feels like the bigger blocker

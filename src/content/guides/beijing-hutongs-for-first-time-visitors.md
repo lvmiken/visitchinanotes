@@ -2,7 +2,7 @@
 title: "Beijing Hutongs for First-Time Visitors"
 description: "A practical guide to Beijing hutongs for first-time visitors, including whether they are worth your time, how to fit them into a real itinerary, and how to avoid turning the day into vague wandering."
 publishDate: 2026-06-19
-updatedDate: 2026-06-23
+updatedDate: 2026-06-26
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "half day to one slower day"
@@ -149,7 +149,7 @@ Hutong time usually works well when:
 - one park, snack, or evening area gives the wandering a little structure
 - you let the area provide mood rather than treating every lane like a separate attraction
 
-That is also why [Beihai Park](/places/beihai-park/), [Shichahai](/places/shichahai-area/), [Ditan Park](/places/ditan-park/), and [Qianmen](/places/qianmen/) often make such useful companions to a slower old-Beijing block. They help the day feel shaped without making it heavy again.
+That is also why [Nanluoguxiang](/places/nanluoguxiang/), [Beihai Park](/places/beihai-park/), [Shichahai](/places/shichahai-area/), [Ditan Park](/places/ditan-park/), and [Qianmen](/places/qianmen/) often make such useful companions to a slower old-Beijing block. They help the day feel shaped without making it heavy again.
 
 If you already know that this is the day shape you want, [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) turns that idea into a fuller morning-to-evening route.
 
@@ -172,6 +172,7 @@ Hutongs are often strongest:
 
 - after [Forbidden City](/places/forbidden-city/) and [Mutianyu Great Wall](/places/mutianyu-great-wall/) are already settled
 - on the same broader day as [Beihai Park](/places/beihai-park/)
+- when [Nanluoguxiang](/places/nanluoguxiang/) can give the day one easy food-and-browse hutong block without making the route vague
 - when [Confucius Temple and Guozijian](/places/confucius-temple-and-guozijian/) can give the area one more cultural anchor without turning the day back into a giant blockbuster route
 - when one lake-and-hutong continuation such as [Shichahai](/places/shichahai-area/) can keep the day textured without rebuilding it into another giant attraction day
 - when one evening still needs old-core texture through [Qianmen](/places/qianmen/)
@@ -227,6 +228,7 @@ That is enough to make the city feel fuller.
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place the slower neighborhood day into a fuller stay
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you want a shorter version that still includes one lighter local layer
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want one concrete version of that slower day from breakfast through evening
+- read [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/) if the hutong day already is chosen and the live question is whether one famous easy lane block helps or just adds more crowd energy
 - read [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) if the hutong day should carry one lighter food experience
 - read [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) if the hutong day should carry one fuller everyday-Beijing lunch
 - read [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) if that lighter food experience should be a specific traditional snack stop

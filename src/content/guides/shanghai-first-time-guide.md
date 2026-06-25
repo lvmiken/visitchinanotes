@@ -2,7 +2,7 @@
 title: "Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize"
 description: "Use this Shanghai guide to decide how many days to stay, where to stay, which neighborhoods matter most, and when Shanghai is the right first stop in China."
 publishDate: 2026-06-14
-updatedDate: 2026-06-23
+updatedDate: 2026-06-26
 city: "shanghai"
 guideStage: "choose-destination"
 tripLength: "2 to 4 days"
@@ -164,6 +164,10 @@ That rhythm is usually stronger than trying to treat Shanghai like:
 
 If you already know the city day will revolve around one particular area, decide that early. [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) is useful when the skyline window matters most, while [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) is the better read if district feel and slower walking time are likely to shape the trip more strongly.
 
+If the French Concession already is clearly winning and the real question becomes how to turn `Wukang Road` into a real first-time city walk instead of vague wandering, the narrower execution page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/).
+
+If the live choice already is not `Does the old core belong at all?` but `old-core Shanghai or one fuller French Concession day?`, the sharper comparison page is [Yu Garden and City God Temple or the French Concession: Which Shanghai Day Fits a First Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/).
+
 If the biggest open question is whether to stay on the riverfront side of the trip or move toward a more neighborhood-heavy rhythm, compare [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/) with [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) before you finalize the central day.
 
 If the skyline question already is not `Bund or Pudong?` but `which paid deck, if any, actually deserves the money and time?`, the narrower next page is [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/).
@@ -176,7 +180,7 @@ The places cluster is usually easiest to use in groups:
 - `premium skyline ticket`: [Shanghai Tower](/places/shanghai-tower/) when the pure view matters more than the icon
 - `iconic skyline ticket`: [Oriental Pearl Tower](/places/oriental-pearl-tower/) when the classic symbol matters more than squeezing in one more neighborhood block
 - `neighborhood rhythm`: [French Concession](/places/french-concession/), [Tianzifang](/places/tianzifang/), and [Xintiandi](/places/xintiandi/) when the day should stay more lane-house or polished
-- `old-core or indoor contrast`: [Yu Garden](/places/yu-garden/), [Shanghai Museum](/places/shanghai-museum/), [Jade Buddha Temple](/places/jade-buddha-temple/), and [People's Square](/places/peoples-square/) when the route needs a central museum side or one calmer temple block
+- `old-core or indoor contrast`: [Yu Garden](/places/yu-garden/), [City God Temple](/places/city-god-temple/), [Shanghai Museum](/places/shanghai-museum/), [Jade Buddha Temple](/places/jade-buddha-temple/), and [People's Square](/places/peoples-square/) when the route needs a central museum side or one calmer temple block
 - `classic central-commercial layer`: [Nanjing Road](/places/nanjing-road/) when the trip wants one easier shopping, lights, or post-Bund corridor
 - `full-day family or entertainment branch`: [Shanghai Disneyland](/places/shanghai-disneyland/) when the route genuinely wants a dedicated park day instead of one more central-city block
 - `softer fourth-day or longer-stay branch`: [Zhujiajiao Water Town](/places/zhujiajiao-water-town/) when the stay is long enough to leave central Shanghai for one gentler canal-town outing
@@ -189,7 +193,9 @@ If Shanghai still feels too abstract, open the place pages in the order many sho
 - then use [Shanghai Tower](/places/shanghai-tower/) if the question already has narrowed to whether the strongest pure deck deserves a paid slot at all
 - then use [Oriental Pearl Tower](/places/oriental-pearl-tower/) if the skyline question already has narrowed to whether the classic icon deserves a paid slot at all
 - then use [French Concession](/places/french-concession/), [Tianzifang](/places/tianzifang/), and [Xintiandi](/places/xintiandi/) to decide whether the slower district day should feel broader, more compact, or more polished
-- then compare [Yu Garden](/places/yu-garden/) with [Shanghai Museum](/places/shanghai-museum/), [Jade Buddha Temple](/places/jade-buddha-temple/), and [People's Square](/places/peoples-square/) for the classic old-core, quieter temple, or weather-proof final layer
+- then use [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) if the concession day already is chosen and now needs a real route shape
+- then use [Yu Garden and City God Temple or the French Concession: Which Shanghai Day Fits a First Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/) if the live choice is which side should carry the city's best flexible day
+- then compare [Yu Garden](/places/yu-garden/) and [City God Temple](/places/city-god-temple/) with [Shanghai Museum](/places/shanghai-museum/), [Jade Buddha Temple](/places/jade-buddha-temple/), and [People's Square](/places/peoples-square/) for the classic old-core, quieter temple, or weather-proof final layer
 - then use [Nanjing Road](/places/nanjing-road/) only if the central day still wants one commercial-energy block
 - then use [Shanghai Disneyland](/places/shanghai-disneyland/) only if the trip truly wants a full-day entertainment branch
 - then use [Zhujiajiao Water Town](/places/zhujiajiao-water-town/) only if the Shanghai stay already feels complete enough to support a softer extra outing beyond the city core
@@ -221,7 +227,7 @@ Shanghai is best when it stays true to its strengths. Use it as a polished urban
 
 If that extension is likely to happen by train, keep the rail sequence simple: use [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/) when the mode is still not settled, [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) when the day is ready to purchase, and [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) only after the exact segment is already chosen.
 
-If Shanghai is also your landing city, pair this with [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) before you lock in the first hotel.
+If Shanghai is also your landing city, start with [Shanghai Airport to City for First-Time Visitors: Pudong vs Hongqiao Arrival Guide](/guides/shanghai-airport-to-city/) if you still are comparing airports, hotel areas, or first-evening difficulty. Then go narrower with [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) before you lock in the first hotel.
 
 If the city itself already feels chosen but the next practical worry is "Will getting around actually be easy?", the next page is [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/). That page is where the Shanghai cluster now turns broad city confidence into actual day-to-day movement logic.
 

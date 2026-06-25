@@ -218,6 +218,8 @@ Choose **Tang Paradise too** if you want:
 
 For many first-time visitors, the pagoda alone is the cleaner answer in a tighter trip, while Tang Paradise becomes more attractive once the route already has breathing room.
 
+If the live question already is not `pagoda side or not?` but `Tang Paradise or the easier open-air Everbright City version of the same south-side night`, the sharper comparison page is [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/).
+
 ## When should you skip it?
 
 Skip it more easily when:
@@ -288,6 +290,7 @@ Like many good supporting places, it works best when it solves a specific trip-s
 - read [Giant Wild Goose Pagoda for First-Time Visitors: When It Belongs in the Route and When It Is Secondary](/places/giant-wild-goose-pagoda/) if the real decision still is whether the whole south-side area belongs in the trip
 - read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if the city is chosen and you still need a clearer call on whether this scenic layer belongs in your top Xi'an priorities
 - read [Is Tang Paradise Worth It With Kids?](/guides/is-tang-paradise-worth-it-with-kids/) if you are making the same pagoda-side evening decision for a family trip
+- read [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/) if the live south-side question is easier open-air night versus fuller scenic event
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if your route still may be too short for this layer
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the real decision is not only this place but which kind of evening Xi'an should have
 - read [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/) if the south-side evening already is chosen and you now need the meal logic that makes it work

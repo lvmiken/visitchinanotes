@@ -24,6 +24,7 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-where-to-stay"
   - "shanghai-3-day-itinerary"
+  - "how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors"
   - "where-to-eat-in-french-concession-for-first-time-visitors"
   - "what-to-do-in-french-concession-at-night-for-first-time-visitors"
 tags:
@@ -80,6 +81,8 @@ That often means:
 
 If the plan gives this area only a rushed hour between two distant sights, you probably are not using it in the way that makes it valuable.
 
+If the district already is clearly happening and the only live question is how to turn it into one practical walking route instead of vague wandering, the narrower execution page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/).
+
 ## What kind of time block fits it best?
 
 For many first-time visitors, the French Concession is strongest when it gets one of these:
@@ -113,6 +116,8 @@ If your hotel question already has narrowed to Shanghai's most common Puxi-side 
 - read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the live choice is classic skyline convenience versus slower neighborhood rhythm
 - read [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) if the district already is chosen and the live question is what kind of meal belongs there
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the district already is chosen and the live question is how to use the evening well
+- read [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) if the district already is chosen and the live question is how to shape the best first walk through it
+- read [Yu Garden and City God Temple or the French Concession: Which Shanghai Day Fits a First Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/) if the live question is whether this neighborhood day should beat the old-core Shanghai version of the trip
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to see why neighborhood rhythm often matters more than one extra lower-priority landmark
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are building the neighborhood day now
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are balancing atmospheric time against headline skyline time

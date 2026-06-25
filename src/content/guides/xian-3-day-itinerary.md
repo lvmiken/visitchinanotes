@@ -202,6 +202,9 @@ The strongest pair is usually:
 
 - [Giant Wild Goose Pagoda](/places/giant-wild-goose-pagoda/)
 - [Tang Paradise](/places/tang-paradise/)
+- [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the night should stay open-air, photogenic, and easier to drop into than a fuller scenic event
+
+If the live choice already is not whether the south side belongs, but whether that evening should stay easier or become a fuller scenic event, the sharper comparison page is [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/).
 
 This is often the day that makes Xi'an feel more balanced for travelers who already had enough excavation, walls, and old-city intensity on Days 1 and 2.
 
@@ -294,4 +297,6 @@ Two days is still strong. Three days is simply the better version when you want 
 - read [Xi'an 3-Day Itinerary With Kids for First-Time Visitors](/guides/xian-3-day-itinerary-with-kids/) if the family already knows it wants the narrower kids-specific execution version
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the excursion still feels more abstract than it should
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the third day may lean more scenic and evening-led
+- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the third day already is pagoda-side and the real open question is whether that evening should stay open-air and easier than Tang Paradise
+- read [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/) if the real open question is which pagoda-side night format fits the route better
 - read [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if the fuller version may go heavier on the Lintong side

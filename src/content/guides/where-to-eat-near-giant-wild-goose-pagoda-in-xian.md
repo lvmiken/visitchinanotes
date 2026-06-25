@@ -156,6 +156,8 @@ This is often one of the strongest reasons to eat here at all.
 
 The meal does not need to become a separate mission if the real point of the area is the fuller south-side evening.
 
+If the live evening question already is not whether the south side deserves the more scenic ticketed answer, but whether one easier open-air night is enough, the sharper companion page is [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/).
+
 ## 4. One more comfortable dinner after a heavier historical stretch
 
 Sometimes the trip simply needs a different mood.
@@ -258,4 +260,5 @@ That structure usually works much better than treating the south side as a stand
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the meal is mostly clear but the fuller south-side evening still needs shape
 - read [Giant Wild Goose Pagoda for First-Time Visitors: When It Belongs in the Route and When It Is Secondary](/places/giant-wild-goose-pagoda/) if the place itself still is the bigger decision
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the meal really depends on whether the night should continue into a scenic pagoda-side finish
+- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the pagoda-side meal really depends on whether the evening should stay easier, open-air, and less committed than Tang Paradise
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you are ready to place this pagoda-side meal logic into the fuller route

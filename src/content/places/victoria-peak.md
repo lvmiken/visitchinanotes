@@ -229,5 +229,6 @@ The Peak becomes weaker when travelers:
 
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place the Peak into a real short stay
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the live question still is elevated panorama versus harbourfront versus cruise versus district evening
+- read [Tian Tan Buddha or Victoria Peak: Which Hong Kong Detour Is Better for First-Time Visitors?](/guides/tian-tan-buddha-or-victoria-peak-for-first-time-visitors/) if the real choice is one stronger skyline branch versus one calmer Lantau contrast
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the value of the Peak still depends on whether your base makes the trip easy enough
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city itself still feels too broad

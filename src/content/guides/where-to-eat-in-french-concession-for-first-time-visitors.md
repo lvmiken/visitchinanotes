@@ -52,6 +52,8 @@ This page was checked against current official Shanghai English-language sources
 
 If the district itself is still not settled, start one step up with [French Concession in Shanghai: Is It Worth Visiting for First-Time Visitors?](/places/french-concession/). If the wider city food structure still is open, keep [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) open too.
 
+If the district already is chosen but the walking shape still is vague, keep [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) open too. It is often the cleaner page when the meal decision depends on where the day should actually start, pause, and finish.
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -282,6 +284,7 @@ That is when Xintiandi or Jing'an often become easier answers.
 ## Which page to read next
 
 - read [French Concession in Shanghai: Is It Worth Visiting for First-Time Visitors?](/places/french-concession/) if the district itself still is not fully decided
+- read [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) if the district already is chosen and the live question is how to make the meal fit one real first-time walk
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if dinner already is chosen and the live question is how the evening should continue
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the broader district question is still open
 - read [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/) if you want the wider restaurant layer instead of only this district

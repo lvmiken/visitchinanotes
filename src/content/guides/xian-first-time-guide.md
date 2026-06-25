@@ -2,7 +2,7 @@
 title: "Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay"
 description: "Decide whether Xi'an belongs in your route, how many days to give it, what to see first, and which hotel base fits a short first trip."
 publishDate: 2026-06-14
-updatedDate: 2026-06-21
+updatedDate: 2026-06-26
 city: "xian"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -131,6 +131,9 @@ If the route already looks like a fuller 3-day Xi'an rather than the tightest ve
 
 - [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if you may want one more Lintong-side stop
 - [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if you want the pagoda side to carry a more scenic evening or third-day block
+- [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the pagoda side is already in play and the live question is whether Xi'an should use one open-air scenic night instead of another old-city repeat
+
+If the live south-side choice already is not `Do we go scenic at all?` but `easier Everbright City night or fuller Tang Paradise event?`, the sharper comparison page is [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/).
 
 If the stop already is confirmed and the main question has become how the city actually moves day to day, [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) is the most useful next read before you start overcomplicating metro versus Didi.
 
@@ -210,6 +213,8 @@ If the family shortlist already is mostly clear and the live question has become
 - read [What to Book in Advance for Xi'an With Kids](/guides/what-to-book-in-advance-for-xian-with-kids/) if the trip now needs the family version of Xi'an booking order instead of the broader adult-first reservation logic
 - read [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if you are considering a fuller Lintong-side day
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the extra Xi'an time may go to the pagoda side and a more atmospheric evening
+- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the live question is whether a scenic pagoda-side night should beat another old-city evening
+- read [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/) if the live question is which south-side scenic night style actually fits better
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the base still is not settled
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place the stop inside a short route
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the stop now looks fuller and you want the day order to feel intentional

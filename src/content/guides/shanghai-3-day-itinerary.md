@@ -102,6 +102,10 @@ If the skyline part already is fixed and the live question is what dinner should
 
 If that same central day is continuing through [Nanjing Road](/places/nanjing-road/) and the live question is whether the area should carry shengjian, snacks, or one easy central dinner, the narrower route-support page is [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/).
 
+If the old-core part of Day 1 already is clearly happening and the remaining question is whether the surrounding temple-and-bazaar layer adds enough to justify a fuller central block, the narrower companion page is [City God Temple in Shanghai: When the Old City Adds More Than Crowds](/places/city-god-temple/).
+
+If the live choice already is less `Should Day 1 include the old core?` and more `Should the flexible day stay old-core or shift toward the French Concession?`, the sharper comparison page is [Yu Garden and City God Temple or the French Concession: Which Shanghai Day Fits a First Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/).
+
 ### Good Day 1 structure
 
 - one central historic-core or Bund-side block
@@ -140,6 +144,8 @@ If that Day 2 food question already is no longer citywide and has narrowed to ex
 If the trip also wants one useful local breakfast without letting the morning become extra transport work, the narrower morning layer is [Where to Eat Breakfast in Shanghai for First-Time Visitors](/guides/where-to-eat-breakfast-in-shanghai-for-first-time-visitors/).
 
 If the trip wants one calmer everyday local meal so Shanghai does not become dumplings only, the narrower support page is [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/).
+
+If Day 2 already belongs to the French Concession and the live question is how to turn it into one practical first-time walk instead of an abstract neighborhood block, the narrower execution page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/).
 
 If Day 2 also is the best candidate for your one slower evening with dinner, drinks, or a longer walk instead of a skyline ritual, [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) is the next practical page.
 
@@ -180,7 +186,7 @@ If this final day stays around [Shanghai Museum](/places/shanghai-museum/), [Peo
 ### Good Day 3 versions
 
 - `Shanghai Museum + slower central wandering`
-- `Yu Garden + old-city contrast + easier evening`
+- `Yu Garden + City God Temple + easier evening`
 - `shopping / neighborhood return + one weather-proof indoor block`
 
 The final day should feel selective, not like a cleanup operation for everything you failed to cram into Days 1 and 2.
@@ -241,6 +247,9 @@ That is enough for the city to feel stylish, useful, and memorable without becom
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the hotel base still is not right
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the city still needs to be ranked against other route options
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and you want a cleaner adult shortlist behind this route
+- read [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) if Day 2 already is clearly concession-led and the missing piece is the actual walk shape
+- read [City God Temple in Shanghai: When the Old City Adds More Than Crowds](/places/city-god-temple/) if Day 1 or Day 3 already is leaning old-core and you want to know whether the area deserves more than Yu Garden alone
+- read [Yu Garden and City God Temple or the French Concession: Which Shanghai Day Fits a First Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/) if the live choice is which side should carry the trip's most flexible day
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the next practical decision is which district should carry the skyline dinner, neighborhood meal, or final-night dinner
 - read [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/) if Day 1 already is skyline-led and the live question is how to place the most useful central meal around the riverfront
 - read [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/) if Day 1 already is using the central shopping corridor and the live question is how to keep the meal layer easy

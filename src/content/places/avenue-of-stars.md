@@ -198,7 +198,7 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the broader evening structure still is the real decision
-- read [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/) if the live harbour question is whether one crossing should replace part of the promenade time
+- read [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) if the live harbour question is whether one crossing should replace part of the promenade time
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the skyline decision is waterfront versus elevated panorama
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place the harbourfront inside a realistic short stay
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if hotel location will decide whether the Tsim Sha Tsui harbourfront feels easy or annoying

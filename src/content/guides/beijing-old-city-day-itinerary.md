@@ -2,7 +2,7 @@
 title: "Old Beijing Day Itinerary for First-Time Visitors"
 description: "A practical old Beijing day itinerary for first-time visitors, with a calmer one-day route built around hutongs, Beihai Park, Qianmen, snacks, and one evening that still feels like part of the city."
 publishDate: 2026-06-19
-updatedDate: 2026-06-23
+updatedDate: 2026-06-26
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 day"
@@ -52,7 +52,7 @@ If the broader city structure is not settled yet, start with [Beijing Travel Gui
 For many first-time visitors, a strong old-Beijing day looks like this:
 
 - one lighter breakfast or snack start
-- one hutong or older-neighborhood walking block
+- one hutong or older-neighborhood walking block such as [Nanluoguxiang](/places/nanluoguxiang/)
 - one scenic pause such as [Beihai Park](/places/beihai-park/)
 - one more structured cultural layer such as [Confucius Temple and Guozijian](/places/confucius-temple-and-guozijian/) if the day wants more historical focus than only wandering
 - one lake-and-lanes continuation such as [Shichahai](/places/shichahai-area/) if you want more old-city atmosphere before dinner
@@ -103,7 +103,7 @@ This is often the best slot for:
 
 If you want the lighter food side to be part of the day on purpose, use [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) alongside this page. If you already know the morning should revolve around one traditional snack stop rather than a generic breakfast, [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) is the cleaner execution page.
 
-If the real question is whether hutongs themselves deserve the time, keep [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) open too.
+If the real question is whether hutongs themselves deserve the time, keep [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) open too. If the hutong block already is chosen and the live question is whether one easy famous lane belongs, the narrower place page is [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/).
 
 ### What the morning is doing
 
@@ -193,7 +193,7 @@ Choose this if the trip already feels heavy and you want relief without giving u
 Use this rhythm:
 
 - lighter breakfast or snacks
-- hutong walking block
+- hutong walking block, often through [Nanluoguxiang](/places/nanluoguxiang/) or a nearby older-lane cluster
 - [Beihai Park](/places/beihai-park/)
 - [Shichahai](/places/shichahai-area/) if energy is still good and you want the old-city layer to keep building naturally
 - easy central lunch
@@ -255,6 +255,7 @@ But for many first-time visitors with three or four full days, this is the layer
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you want the compressed version that still keeps one lighter neighborhood layer
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place this old-Beijing day inside a fuller stay
 - read [Shichahai for First-Time Visitors](/places/shichahai-area/) if the missing decision is whether one lakeside-hutong block belongs in the slower day
+- read [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/) if the hutong decision already is narrower and you need to judge the easiest famous lane block directly
 - read [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/) if the slower day already is committed to Shichahai and now needs the evening plan
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the route is clear but the meal districts still are not
 - read [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/) if the slower day is clearly using Jingshan as the handoff into dinner

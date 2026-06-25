@@ -2,7 +2,7 @@
 title: "What to Do in the French Concession at Night for First-Time Visitors"
 description: "Use this French Concession night guide to decide whether your evening should be dinner on Jinxian Road, cocktails around Fumin or Julu Road, a slower Wukang-area walk, or a simpler neighborhood finish."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-06-26
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -179,6 +179,8 @@ This is especially useful when:
 This is often strongest when the sentence is:
 
 We want the district to feel beautiful and relaxed, not ambitious.
+
+If the live question is not the evening anymore but how to build the daytime `Wukang Road` version of the district, the more focused route page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/).
 
 ## 5. Treat the district as one sequence, not several competing mini-districts
 

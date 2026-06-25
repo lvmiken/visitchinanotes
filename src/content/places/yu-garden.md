@@ -103,6 +103,8 @@ That is usually better than trying to bounce from here to a far-flung district j
 
 For many first-time trips, Yu Garden works best once the skyline question is already settled. Keep it with [The Bund](/places/the-bund/) if you want a tighter central day, use [French Concession](/places/french-concession/) on a separate slower day, and compare [Shanghai Museum](/places/shanghai-museum/) instead if the real need is indoor depth or weather protection.
 
+If the old-city question already is narrower than `Should we do Yu Garden?` and has become `Does the surrounding temple-and-bazaar layer add enough to justify more central time?`, the sharper companion page is [City God Temple in Shanghai: When the Old City Adds More Than Crowds](/places/city-god-temple/).
+
 ## Common mistakes
 
 - arriving with no crowd expectations
@@ -113,6 +115,7 @@ For many first-time trips, Yu Garden works best once the skyline question is alr
 ## Which page to read next
 
 - read [The Bund for First-Time Visitors: When It Deserves Prime Time in Your Shanghai Plan](/places/the-bund/) if you are building the same central day
+- read [City God Temple in Shanghai: When the Old City Adds More Than Crowds](/places/city-god-temple/) if the live question is whether the old-city block should stay selective or become a fuller central atmosphere-and-snack branch
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if you want to judge whether Yu Garden deserves the traditional-contrast slot in your short stay
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the wider city priorities are still unsettled
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are trying to keep old-city logic inside a short stay

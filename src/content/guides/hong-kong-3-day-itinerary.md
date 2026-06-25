@@ -2,7 +2,7 @@
 title: "Hong Kong 3-Day Itinerary for First-Time Visitors"
 description: "Use this Hong Kong 3-day itinerary to plan a first trip around Tsim Sha Tsui, Central and Sheung Wan, one strong skyline night, and one realistic Kowloon culture day without wasting time on unnecessary backtracking."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-06-26
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -133,7 +133,9 @@ If the live question already is not `should Day 1 carry one skyline branch?` but
 
 If the live question already is not whether Day 1 needs one classic skyline answer but whether the easiest Tsim Sha Tsui harbourfront version is enough by itself, the more focused companion page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
 
-If the live question already is not whether Day 1 needs one classic harbour layer but whether that should be one simple crossing instead of another promenade block, the more focused companion page is [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/).
+If the live question already is not whether Day 1 needs one classic harbour layer but whether that should be one simple crossing instead of another promenade block, the more focused companion page is [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/).
+
+If the live question already is not whether Day 1 needs the harbour but which harbour format should actually carry the skyline payoff, the broader companion page is [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/).
 
 ## Day 2: Central, Sheung Wan, and Hong Kong Island rhythm
 
@@ -206,6 +208,14 @@ Usually:
 
 The cleaner decision is usually better than forcing the city and the side outing to compete for the same limited time.
 
+If the live tradeoff is specifically whether the trip should sacrifice a whole city day for a park, the narrower companion page is [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/).
+
+If the live tradeoff is whether Hong Kong should keep its dense urban rhythm or open into a calmer Lantau branch, the more focused companion pages are [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) and [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/).
+
+If the live choice is less `Do we go to Lantau?` and more `Lantau or one better skyline branch?`, the sharper companion page is [Tian Tan Buddha or Victoria Peak: Which Hong Kong Detour Is Better for First-Time Visitors?](/guides/tian-tan-buddha-or-victoria-peak-for-first-time-visitors/).
+
+If the live choice is less `park or no park?` and more `full Disneyland day or the broader Lantau version of leaving the city core?`, the sharper companion page is [Hong Kong Disneyland or a Lantau Day: Which Gives a First Trip More Range?](/guides/hong-kong-disneyland-or-lantau-for-first-time-visitors/).
+
 ## Two strong ways to customize this itinerary
 
 ### If you care more about classic skyline and iconic views
@@ -256,7 +266,13 @@ That is enough for the city to feel dense, legible, and memorable without becomi
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the day structure is mostly fine and the live question is how to make one or two evenings actually count
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the skyline branch on Day 1 is the main live decision now
 - read [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/) if the live question is whether the classic Tsim Sha Tsui skyline block itself deserves one of your best short-trip windows
-- read [Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?](/places/star-ferry/) if the live question is whether one harbour crossing on Day 1 or Day 2 should be deliberate instead of just functional
+- read [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) if the live question is whether one harbour crossing on Day 1 or Day 2 should be deliberate instead of just functional
+- read [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/) if the main unresolved choice is which harbour format should carry the trip's skyline payoff
+- read [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/) if you are tempted to replace one whole city day with a theme-park branch
+- read [Tian Tan Buddha or Victoria Peak: Which Hong Kong Detour Is Better for First-Time Visitors?](/guides/tian-tan-buddha-or-victoria-peak-for-first-time-visitors/) if the real choice is Lantau contrast versus one stronger skyline branch
+- read [Hong Kong Disneyland or a Lantau Day: Which Gives a First Trip More Range?](/guides/hong-kong-disneyland-or-lantau-for-first-time-visitors/) if the real branch choice is park day versus Hong Kong's calmer scenic-cultural side
+- read [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) if the real question is whether the stay should open into Lantau at all
+- read [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/) if the Lantau question is more scenic-ride-led than landmark-led
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the Hong Kong Island meal slot is the main live decision on Day 2
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the Day 3 Kowloon market branch itself still is not settled
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the Kowloon food-and-market slot is the main live decision on Day 3

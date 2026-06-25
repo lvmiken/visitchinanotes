@@ -161,6 +161,8 @@ You are usually gaining:
 
 If the day already clearly belongs to the south side, the narrower next meal page is [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/).
 
+If the same south-side logic already is less about meals and more about whether one easier open-air night justifies the whole hotel choice better than another old-city repeat, the sharper companion page is [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/).
+
 ## What you give up with each choice
 
 ### If you stay in the old city
@@ -254,5 +256,6 @@ That rule will not fit every traveler, but it prevents the most common first-tri
 - read [Where to Stay in Xi'an With Kids for First-Time Visitors](/guides/where-to-stay-in-xian-with-kids/) if you are making the same hotel decision for a family trip
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the hotel answer depends on whether Day 3 becomes museum-led or pagoda-side
 - read [Giant Wild Goose Pagoda for First-Time Visitors: When It Belongs in the Route and When It Is Secondary](/places/giant-wild-goose-pagoda/) if the place itself still is not fully justified
+- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the pagoda-side hotel case depends on whether one easier open-air south-side night belongs in the trip
 - read [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/) if the pagoda-side base or Day 3 already is decided and you now need the meal execution page
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if the real blocker is whether a south-side base will still feel easy in daily use

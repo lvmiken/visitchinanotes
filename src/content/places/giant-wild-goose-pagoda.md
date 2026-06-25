@@ -90,6 +90,8 @@ For many readers, the pagoda is strongest when it helps Xi'an feel more layered 
 
 It becomes more useful if you already know the south-side block should do more than deliver one landmark photo stop. In that version of the trip, [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) is the natural paired page because it helps decide whether the pagoda side deserves a fuller scenic or evening layer.
 
+If the pagoda side already is chosen and the live question is whether the open-air night there should stay easier and more drop-in friendly instead of becoming a fuller ticketed scenic branch, the natural companion page is [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/).
+
 If the place already belongs in the route and the live question now is how to use the surrounding meal slot well, the natural food companion is [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/).
 
 If the place already belongs in the route strongly enough that it may change where you sleep, the natural hotel companion is [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/).
@@ -245,5 +247,6 @@ The pagoda is usually strongest for:
 - read [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/) if the pagoda side already belongs in the route and you now need the narrower south-side meal decision
 - read [Is Giant Wild Goose Pagoda Worth It With Kids?](/guides/is-giant-wild-goose-pagoda-worth-it-with-kids/) if your real question is the narrower family version of whether this stop improves the route
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the real question is whether the whole pagoda-side area should carry a more scenic evening block
+- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the pagoda-side question already is evening-led and the live choice is easier open-air atmosphere versus a fuller scenic event
 - read [Shaanxi History Museum for First-Time Visitors: When It Improves a Xi'an Trip and When It Overloads It](/places/shaanxi-history-museum/) if the south-side decision may become a museum-plus-pagoda day instead of only a landmark stop
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if the main excursion day still needs to be settled first

@@ -1,8 +1,8 @@
 ---
-title: "Star Ferry in Hong Kong: Is It Worth It for First-Time Visitors?"
-description: "Decide whether a Star Ferry ride deserves protected time on your first Hong Kong trip, when it is better than another harbourfront walk, and when a cruise is the smarter skyline choice."
+title: "Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride"
+description: "Use this first-time Star Ferry guide to decide when one crossing adds real Hong Kong atmosphere, when the harbourfront is the better move, and when a cruise is worth more than the ferry."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-06-26
 city: "hong-kong"
 whoItsFor:
   - "first-time Hong Kong visitors deciding whether one classic harbour crossing actually deserves real trip time"

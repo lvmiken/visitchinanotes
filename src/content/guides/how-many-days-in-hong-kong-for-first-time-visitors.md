@@ -93,6 +93,8 @@ You are usually choosing:
 - one skyline and harbor block, often built around `Tsim Sha Tsui`, `Central`, the `Star Ferry`, or one Peak-style viewpoint
 - one neighborhood or culture day built around places such as `Sheung Wan`, `Sham Shui Po`, `Yau Ma Tei`, or one museum-and-market rhythm
 
+If the live question already is not how many days Hong Kong needs but which harbour format should carry the shortest version of the trip best, the sharper companion pages are [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) and [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/).
+
 And you are usually cutting:
 
 - too many island or outlying-district ambitions
@@ -164,6 +166,8 @@ This is the point where the city can start supporting more than the default post
 - families who want one bigger attraction day without erasing the city itself
 - readers who want Hong Kong to feel broad and enjoyable, not only efficient
 
+This is also where a selective Lantau branch starts becoming much easier to justify. If the extra day mainly exists to give Hong Kong one calmer scenic or cultural contrast, the natural companion pages are [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) and [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/).
+
 ## When 5 days makes sense
 
 Five days in Hong Kong usually only makes sense if you deliberately want one of these:
@@ -188,6 +192,10 @@ It is closer to:
 - `1 selective extra layer` such as a family attraction day, a hiking day, or an island-style contrast
 
 That usually creates a better route than forcing five crowded harbor-area days.
+
+If that fifth day mostly is being justified by one full family-attraction branch, the narrower decision page is [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/).
+
+If the extra day is not automatically a park day and the real branch choice is `Disneyland or the broader scenic-cultural Lantau version of using Day 4 or Day 5`, the sharper comparison page is [Hong Kong Disneyland or a Lantau Day: Which Gives a First Trip More Range?](/guides/hong-kong-disneyland-or-lantau-for-first-time-visitors/).
 
 ## Which length fits which traveler best
 
@@ -228,6 +236,11 @@ That usually creates a better route than forcing five crowded harbor-area days.
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the trip length is nearly decided and the hotel base is the next live question
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you are leaning toward the default 3-day version and want the days to flow
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the stay length decision really depends on whether the route has room for both a skyline night and a more district-led evening
+- read [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) if the shortest version of the trip depends on whether one useful classic crossing already solves enough of the harbour layer
+- read [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/) if the stay-length decision depends on how much skyline repetition the trip really needs
+- read [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) and [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/) if the jump from 3 days to 4 days mainly is about whether Lantau belongs
+- read [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/) if the jump from 3 days to 4 or 5 mainly is about whether the trip should protect one full park day
+- read [Hong Kong Disneyland or a Lantau Day: Which Gives a First Trip More Range?](/guides/hong-kong-disneyland-or-lantau-for-first-time-visitors/) if the extra Hong Kong day could go either to a park commitment or to the city's broader scenic side
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the stay length still depends on whether Hong Kong itself should win in the route
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the extra day mainly is being justified by whether a shorter contrast stop belongs too
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the route may want a larger South China mainland city instead of stretching Hong Kong too far

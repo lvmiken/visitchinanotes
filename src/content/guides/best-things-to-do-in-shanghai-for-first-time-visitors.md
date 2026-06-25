@@ -2,7 +2,7 @@
 title: "Best Things to Do in Shanghai for First-Time Visitors"
 description: "Find out which things to do in Shanghai are actually worth your limited time, how to choose between skyline, neighborhoods, old-core sights, museums, and nightlife, and how to build a fuller first trip without overpacking it."
 publishDate: 2026-06-21
-updatedDate: 2026-06-22
+updatedDate: 2026-06-26
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -149,7 +149,7 @@ This is especially useful when:
 
 For many first-time visitors, this becomes the day that makes Shanghai feel like more than a transfer-friendly global city.
 
-If the live question already is whether the neighborhood day should stay broad and leafy, become a shorter lane-house stop, or end with a more polished evening, the next place pages are [Tianzifang](/places/tianzifang/) and [Xintiandi](/places/xintiandi/).
+If the live question already is whether the neighborhood day should stay broad and leafy, become a shorter lane-house stop, or end with a more polished evening, the next place pages are [Tianzifang](/places/tianzifang/) and [Xintiandi](/places/xintiandi/). If the district already is chosen and the remaining problem is how to turn `Wukang Road` into one practical first-time city walk, the more focused route page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/).
 
 ## 4. Yu Garden is usually the best selective old-core contrast
 
@@ -168,6 +168,10 @@ It works less well when:
 - you treat it like the main reason to be in Shanghai
 
 For many first-time visitors, Yu Garden is best treated as one useful contrast layer, not the whole identity of the city.
+
+If the old-core question already is not whether `Yu Garden` belongs but whether the surrounding commercial and temple area adds enough to justify a fuller central block, the more focused companion page is [City God Temple in Shanghai: When the Old City Adds More Than Crowds](/places/city-god-temple/).
+
+If the live question already is no longer whether `Yu Garden` belongs at all but whether the trip's best flexible day should go to the old core or to a fuller concession-side walk, the sharper comparison page is [Yu Garden and City God Temple or the French Concession: Which Shanghai Day Fits a First Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/).
 
 ## 5. Shanghai Museum is the strongest weather-proof culture layer
 

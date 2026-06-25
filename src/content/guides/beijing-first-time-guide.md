@@ -2,7 +2,7 @@
 title: "Beijing for First-Time Visitors: How Many Days, What to Prioritize, and Where to Stay"
 description: "Use this Beijing guide to decide how many days to stay, what to prioritize first, where to stay, and how to keep the city from feeling too big or too tiring."
 publishDate: 2026-06-14
-updatedDate: 2026-06-23
+updatedDate: 2026-06-26
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "3 to 5 days"
@@ -128,7 +128,7 @@ The places cluster usually becomes much easier to use if you think in groups ins
 
 - `central imperial core`: [Forbidden City](/places/forbidden-city/), [Jingshan Park](/places/jingshan-park/), [Zhongshan Park](/places/zhongshan-park/), [Temple of Heaven](/places/temple-of-heaven/), [Qianmen](/places/qianmen/), [Wangfujing](/places/wangfujing/)
 - `Great Wall day`: [Mutianyu Great Wall](/places/mutianyu-great-wall/) or [Badaling Great Wall](/places/badaling-great-wall/)
-- `slower scenic Beijing`: [Summer Palace](/places/summer-palace/), [Beihai Park](/places/beihai-park/), [Shichahai](/places/shichahai-area/)
+- `slower scenic Beijing`: [Summer Palace](/places/summer-palace/), [Beihai Park](/places/beihai-park/), [Nanluoguxiang](/places/nanluoguxiang/), [Shichahai](/places/shichahai-area/)
 - `museum, temple, or evening contrast`: [National Museum of China](/places/national-museum-of-china/), [Capital Museum](/places/capital-museum/), [Yonghe Temple](/places/yonghe-temple/), [Sanlitun](/places/sanlitun/)
 - `deeper 4-to-5-day add-ons`: [Prince Gong's Mansion](/places/prince-gong-mansion/), [Yuanmingyuan](/places/yuanmingyuan-ruins-park/), [Ming Tombs](/places/ming-tombs/), [Beijing Olympic Park](/places/beijing-olympic-park/), [Tongzhou Grand Canal](/places/tongzhou-grand-canal/)
 - `representative 4A support pages`: [Confucius Temple and Guozijian](/places/confucius-temple-and-guozijian/), [Ditan Park](/places/ditan-park/), [Fragrant Hills](/places/fragrant-hills-park/), [National Botanical Garden](/places/national-botanical-garden/), [Beijing Zoo](/places/beijing-zoo/), [Beijing Aquarium](/places/beijing-aquarium/)
@@ -148,14 +148,14 @@ Before polishing the itinerary, confirm:
 
 Those details usually matter more than squeezing in one extra landmark.
 
-If Beijing is being paired with Xi'an or Shanghai, this is also the moment to settle the intercity move. The broad decision usually starts with [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/), then narrows into [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) once the city order and hotel logic are stable. If the remaining question is only comfort, [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) is the right late-stage read.
+If Beijing is being paired with Xi'an or Shanghai, this is also the moment to settle the route shape before you obsess over train details. Start with [Beijing With Xi'an or Shanghai for First-Time Visitors: Which Pairing Is Better?](/guides/beijing-xian-or-shanghai-pairing/) if the second city still is not fully decided. After that, the transport decision usually starts with [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/), then narrows into [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) once the city order and hotel logic are stable. If the remaining question is only comfort, [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) is the right late-stage read.
 
 If the biggest sight question is how much weight to give the Palace Museum itself, read [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/places/forbidden-city/) before you decide what the central Beijing day should carry.
 
 If the real problem is that Beijing still feels like a pile of famous names, open the place pages in the order the trip usually happens:
 
 - start with [Forbidden City](/places/forbidden-city/) and [Mutianyu Great Wall](/places/mutianyu-great-wall/)
-- then compare [Temple of Heaven](/places/temple-of-heaven/), [Beihai Park](/places/beihai-park/), [Jingshan Park](/places/jingshan-park/), [Zhongshan Park](/places/zhongshan-park/), [Shichahai](/places/shichahai-area/), and [Summer Palace](/places/summer-palace/) for the calmer day
+- then compare [Temple of Heaven](/places/temple-of-heaven/), [Beihai Park](/places/beihai-park/), [Nanluoguxiang](/places/nanluoguxiang/), [Jingshan Park](/places/jingshan-park/), [Zhongshan Park](/places/zhongshan-park/), [Shichahai](/places/shichahai-area/), and [Summer Palace](/places/summer-palace/) for the calmer day
 - then use [Qianmen](/places/qianmen/), [Wangfujing](/places/wangfujing/), or [Sanlitun](/places/sanlitun/) to decide what evenings or supporting blocks should feel like
 
 If Beijing still feels too sightseeing-heavy, add the food layer early instead of as an afterthought. [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) is often the page that turns "one more evening" into a real part of the trip, and [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) works after that when the duck meal itself becomes the actual decision.
@@ -165,6 +165,8 @@ If the bigger food question is what the trip should eat after the headline duck 
 If the bigger missing piece is not only the meal but what Beijing evenings should actually feel like, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the cleaner next page.
 
 If the missing part is not another monument but one slower old-Beijing layer, [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) is usually the better decision page and [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) is the better route page once you want to actually place that day in the trip.
+
+If the hutong layer already is clearly happening and the live question is whether one easy famous lane block belongs in it, the more focused companion page is [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/).
 
 If the arrival itself still feels fuzzy, go next to [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/). If the hotel base is the weak point, go straight to [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/).
 
@@ -235,6 +237,7 @@ If your trip is shorter than that, Beijing often needs more decisiveness than tr
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if the evening side of the trip still feels unformed
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the real question is one modern dinner district rather than the whole nightlife strategy
 - read [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) if the trip still needs one slower neighborhood-and-atmosphere day
+- read [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/) if the hutong decision already is narrowing to whether the easy famous lane block helps or only adds crowds
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want that slower neighborhood layer turned into a real day plan
 - read [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) if the duck dinner itself is already the specific question
 - read [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) if the Palace Museum is the booking that controls the city
