@@ -126,6 +126,8 @@ Choose `Taipa Village` if:
 
 That is why the Ruins usually are the stronger `Day 1` answer and Taipa is usually the stronger `Day 2` contrast.
 
+If the live question already is not whether the old core works at all, but whether the peninsula side should add one older spiritual heritage layer beyond the Ruins themselves, the more focused companion page is [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/).
+
 ## What the Ruins are best for
 
 The Ruins usually work best for:
@@ -186,6 +188,7 @@ They improve the trip less when:
 - read [Senado Square in Macau: Is It Worth It for First-Time Visitors?](/places/senado-square/) if the real decision is whether the whole old-core branch should anchor the trip
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the old-core meal is the live decision now
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if you want to place the Ruins inside a realistic short stay
+- read [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/) if the live question is whether the peninsula side deserves one deeper spiritual-and-heritage extension
 - read [Taipa Village in Macau: Is It Worth It for First-Time Visitors?](/places/taipa-village/) if the old core already is secure and the live question is whether the trip still needs a softer second-day contrast
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the real question still is what kind of meal branch should shape the city
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the city itself still feels too broad

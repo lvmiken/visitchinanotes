@@ -146,6 +146,8 @@ If the live question on Day 1 already has narrowed from `How should the old core
 
 If the live question on Day 1 already has narrowed from `Should the old core anchor the route?` to `Does the Ruins landmark itself deserve protected time inside that walk?`, the more focused companion page is [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/).
 
+If the old-core day already is secure and the live question becomes whether one deeper spiritual-and-heritage layer belongs on the peninsula side, the more focused companion page is [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/).
+
 ### What the day should feel like
 
 - more walking and atmosphere than pure attraction-chasing

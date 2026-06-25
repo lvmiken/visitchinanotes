@@ -132,6 +132,8 @@ If the city role is clear and the real sightseeing question becomes whether the 
 
 If the old core already is the chosen branch and the live question becomes whether Macau's most famous landmark deserves protected time inside that walk, the more focused place page is [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/).
 
+If the old core already is secure and the live question becomes whether one older spiritual heritage layer would add real depth instead of only one more busy walking stretch, the more focused place page is [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/).
+
 If the old core already is secure and the real question becomes whether a softer second-day contrast belongs, the more focused place page is [Taipa Village in Macau: Is It Worth It for First-Time Visitors?](/places/taipa-village/).
 
 ## Common mistakes on a first Macau trip
@@ -150,6 +152,7 @@ If the old core already is secure and the real question becomes whether a softer
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if Macau already is likely and the live question is how to make a fuller short stay feel intentional instead of scattered
 - read [Senado Square in Macau: Is It Worth It for First-Time Visitors?](/places/senado-square/) if the live decision is whether the heritage core still should carry the main walking block
 - read [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/) if the live decision is whether Macau's most famous landmark should get protected time inside the old-core day
+- read [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/) if the live decision is whether the peninsula side deserves one deeper spiritual-and-heritage extension
 - read [Taipa Village in Macau: Is It Worth It for First-Time Visitors?](/places/taipa-village/) if the live decision is whether the trip deserves one softer second-day contrast branch
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the real decision still is whether Macau should be the contrast stop or whether Hong Kong should carry the bigger city chapter
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the route is really choosing between compact heritage contrast and a modern mainland city

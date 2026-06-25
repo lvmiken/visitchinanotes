@@ -218,6 +218,8 @@ If the base question is really whether the `Macau Peninsula` should support the 
 
 If the base question is really whether `Taipa` deserves a softer second-day meal branch, the more focused child page is [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/).
 
+If the base question also depends on whether the peninsula side should carry one deeper heritage extension rather than only the square-and-Ruins version of old Macau, the more focused place page is [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/).
+
 ## What to watch out for
 
 - choosing a hotel only for price and making every day harder
