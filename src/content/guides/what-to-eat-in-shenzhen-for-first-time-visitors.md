@@ -286,6 +286,8 @@ This is the meal that stops Shenzhen from feeling like only malls and coffee sho
 
 If the day already belongs to `Futian`, `Huaqiangbei`, or the easier business-core version of Shenzhen, the food usually works best if it stays practical.
 
+If the neighborhood itself still feels like a maybe rather than a yes, decide that first with [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/).
+
 That is the cleanest slot for:
 
 - one tea-restaurant breakfast
@@ -361,6 +363,8 @@ That already gives a fuller picture of Shenzhen than treating the city like only
 - read [Are Shajing Oysters Worth a Detour for First-Time Visitors?](/guides/is-shajing-oysters-worth-a-detour-for-first-time-visitors/) if the main open question is whether one true Shenzhen seafood specialty should control part of the route
 - read [Is Guangming Roast Squab Worth a Detour for First-Time Visitors?](/guides/is-guangming-roast-squab-worth-a-detour-for-first-time-visitors/) if the main open question is whether one true Shenzhen specialty should control part of the route
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if one of these meals is really competing with a waterfront, skyline, or district evening choice
+- read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if the meal plan depends on whether one central tech-market day belongs in the route
+- read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the food plan depends on a same-day Hong Kong-to-Shenzhen crossing
 - read [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/) if the live question is whether one polished west-side lifestyle district deserves one of your meal windows
 - read [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if the live question is whether one calmer waterfront district deserves one of your meal windows
 - read [Dongmen Old Street in Shenzhen: Is It Worth It for First-Time Visitors?](/places/dongmen-old-street/) if the live question is whether one older shopping-and-snack Luohu district deserves one of your meal windows

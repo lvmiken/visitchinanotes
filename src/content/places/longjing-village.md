@@ -91,6 +91,8 @@ It is usually weaker for:
 
 That is why `Longjing Village` often is a `texture page`, not the core first-stop page.
 
+If you are already leaning yes but still need help deciding how to do the tea-country version without drifting into the wrong stop, the practical follow-up is [How to Do Longjing Tea Country Without Falling for the Wrong Tea Stop](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/).
+
 ## Longjing Village vs West Lake
 
 Choose `West Lake` if:

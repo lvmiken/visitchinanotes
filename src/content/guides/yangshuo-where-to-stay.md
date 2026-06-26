@@ -126,6 +126,8 @@ That is because the trip can use:
 
 This is where a countryside-style base can genuinely improve the stop instead of simply making it prettier in theory.
 
+It is also the point where readers often start asking whether a quieter base helps with one practical `Xingping` or `20 RMB view` outing. If that is the live question, use [Where Is the 20 RMB View? A Practical Yangshuo Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/) before assuming the most scenic-looking hotel automatically solves it.
+
 ## Do not pick the hotel before deciding what Yangshuo is doing in the route
 
 This is the planning mistake underneath many bad Yangshuo hotel choices.

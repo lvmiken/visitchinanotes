@@ -30,6 +30,11 @@
   ],
   "transportNote": "Guilin becomes much easier when travelers decide early whether the stop is mainly city gateway logic, Li River cruise logic, or an onward Yangshuo base change.",
   "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "heroImage": "/images/heroes/guilin-li-river-karst.jpg",
+  "heroImageAlt": "Cruise boats on the Li River in Guilin framed by classic karst peaks under a bright blue sky.",
+  "heroImageAttributionName": "xiquinhosilva",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:Guilin_Li_River.jpg",
+  "heroImageLicense": "CC BY 2.0",
   "featuredGuideSlugs": ["guilin-first-time-guide", "best-things-to-do-in-guilin-for-first-time-visitors", "guilin-where-to-stay", "how-many-days-in-guilin-for-first-time-visitors", "yangshuo-first-time-guide", "is-yangshuo-worth-an-overnight-for-first-time-visitors", "li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors"],
   "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "high-speed-rail", "train-vs-flight"],
   "featuredPlaceSlugs": ["li-river"]

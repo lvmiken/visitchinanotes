@@ -63,6 +63,8 @@ Use this page if you are asking:
 
 If the broader tea map still is not fixed, keep [Where to Drink Tea in Hangzhou for First-Time Visitors](/guides/where-to-drink-tea-in-hangzhou-for-first-time-visitors/) open too.
 
+If the live concern is less `which tea branch?` and more `how do I avoid ending up at the wrong tea stop entirely?`, keep [Longjing Tea Country in Hangzhou: How to Avoid the Wrong Stop and Build a Better Half Day](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/) open too.
+
 If the broader overnight route still is not stable, keep [A Practical 2-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-2-day-itinerary-for-first-time-visitors/) and [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) open too.
 
 If the real uncertainty still is not route shape but whether your dates are strong enough for a scenic tea branch to feel worthwhile, keep [Best Time to Visit Hangzhou for First-Time Visitors](/guides/best-time-to-visit-hangzhou-for-first-time-visitors/) open too.

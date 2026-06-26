@@ -60,6 +60,8 @@ If the broader city question still is not settled, keep [Harbin for First-Time V
 
 If Harbin already is likely and the bigger issue now is the shortlist inside the city, keep [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) open too.
 
+If the festival already is likely and the live question now is practical booking rather than destination logic, keep [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the `Harbin Ice Festival` is worth it when:
@@ -164,6 +166,8 @@ It is often weaker for:
 - groups who already feel stretched by logistics
 - anyone likely to resent the cold more than enjoy the spectacle
 
+If the real blocker is not festival value but whether you are dressed strongly enough for the evening, the narrower next page is [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/).
+
 ## Common mistakes
 
 - assuming `Harbin Ice Festival` is only one quick attraction
@@ -175,6 +179,8 @@ It is often weaker for:
 
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the real question now is whether the festival's flagship venue deserves your best evening
 - read [Harbin for First-Time Visitors: When the Winter Spectacle Is Worth Building a Trip Around](/guides/harbin-first-time-guide/) if the broader city still needs to earn its place in the route
+- read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if you already know the flagship venue matters and now need the practical booking logic
+- read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if cold preparation still feels more important than the itinerary itself
 - read [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) if the festival already is winning and the next problem is the full city shortlist
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the trip shape is right and the live decision is the hotel base
 - read [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/) if you want Harbin to feel like a city and not only a winter venue

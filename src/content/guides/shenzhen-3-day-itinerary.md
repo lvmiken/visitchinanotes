@@ -77,6 +77,8 @@ If the whole South China route still is deciding between a stronger Hong Kong st
 
 If the day order mostly works but the evening side still feels too vague, keep [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) open too.
 
+If Day 1 may begin straight from Hong Kong, keep [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) open too.
+
 ## The short version
 
 For many first-time visitors, the strongest Shenzhen `3-day` plan looks like this:
@@ -148,6 +150,8 @@ It is usually the wrong day for:
 - crossing all the way west just because the map looks simple
 
 If Shenzhen is your first mainland stop after Hong Kong, this day should feel easy and confidence-building, not ambitious.
+
+If that `Day 1` still depends on whether one central tech-market district earns a real slot, decide that with [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/).
 
 ### Day 2: Use Nanshan to show the city's more enjoyable side
 
@@ -301,6 +305,7 @@ all in the same short stay.
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if you still are not fully sure whether Shenzhen should be 2, 3, or 4 days
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the day structure works but the hotel base still does not
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the day structure works but the meal plan still feels too mall-generic
+- read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if the route still needs one clearer central-market or electronics-led half day
 - read [Are Shajing Oysters Worth a Detour for First-Time Visitors?](/guides/is-shajing-oysters-worth-a-detour-for-first-time-visitors/) if Day 3 may actually become a Bao'an-side seafood branch instead of staying central or going east
 - read [Where to Eat on Bagua First Road for First-Time Visitors](/guides/where-to-eat-on-bagua-first-road-for-first-time-visitors/) if the trip needs one stronger central dinner district for Day 1 or the urban version of Day 3
 - read [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/) if the live question is whether the west side should feel more polished and skyline-led than purely practical
@@ -308,5 +313,6 @@ all in the same short stay.
 - read [Nantou Ancient Town in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nantou-ancient-town/) if the live question is whether one smaller old-meets-new district should balance the modern city blocks
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the route works in daytime but still needs one stronger central, waterfront, or creative evening
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the real route question still is whether Shenzhen itself should win over Hong Kong
+- read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if this itinerary depends on crossing in from Hong Kong without losing too much of Day 1
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if Shenzhen is mainly being added as part of a wider two-city South China sequence
 - read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) if the broader route still is deciding how South China should fit together

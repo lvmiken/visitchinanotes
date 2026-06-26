@@ -138,6 +138,8 @@ Beijing Road usually beats the cruise when:
 
 If that exact decision still feels live, the broader comparison page is [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/).
 
+If the live question is not the broad night menu but the direct tradeoff itself, the sharper chooser page is [Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening](/guides/beijing-road-or-a-pearl-river-night-cruise-which-guangzhou-night-earns-your-one-free-evening/).
+
 ## When is it better than Yongqing Fang?
 
 For many first-time visitors, `Yongqing Fang` is the stronger old-Guangzhou atmosphere answer and the cruise is the stronger skyline answer.
@@ -230,6 +232,8 @@ It works best if:
 - the rest of the trip is disciplined enough not to collapse under one more timed commitment
 
 Otherwise, a cleaner `Beijing Road` or broader district-led evening is often the safer first answer.
+
+If that exact skyline tradeoff is the real blocker, the cleaner one-page answer is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
 
 ### On a 3-day or 4-day Guangzhou trip
 

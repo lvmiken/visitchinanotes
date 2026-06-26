@@ -157,6 +157,8 @@ If the live question already is whether that tea-and-scenery branch really deser
 
 If the live question already is not whether Longjing belongs in general but whether it should beat Lingyin as your one stronger second-day branch, the cleaner comparison page is [Lingyin Temple or Longjing Village: Which Hangzhou Second-Day Branch Is Better for First-Time Visitors?](/guides/lingyin-temple-or-longjing-village-for-first-time-visitors/).
 
+If `Longjing` already is winning and the remaining worry is how to do the tea-country version without ending up at the wrong stop or stretching the half day too thin, the sharper execution page is [Longjing Tea Country in Hangzhou: How to Avoid the Wrong Stop and Build a Better Half Day](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/).
+
 ## 4. Leifeng Pagoda and Broken Bridge are supporting lake branches, not the whole point
 
 [Leifeng Pagoda](/places/leifeng-pagoda/) and [Broken Bridge](/places/broken-bridge/) are often worth it, but usually only as supporting parts of a wider West Lake day.

@@ -148,6 +148,8 @@ Choose the [Pearl River night cruise](/places/pearl-river-night-cruise/) if:
 
 For many first-time visitors, the tower wins on ease and the cruise wins on event value.
 
+If that exact skyline tradeoff is still the blocker, the cleaner one-page answer is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
+
 ## Canton Tower vs Huacheng Square
 
 This is often the more useful real-world comparison.

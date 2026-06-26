@@ -61,6 +61,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if Hong Kong already is in the route and the live question is whether Tsim Sha Tsui or Hong Kong Island should be the base
 - [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if Hong Kong already is in the route and the live question is how to turn the stay into a workable 3-day plan
 - [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if Hong Kong already is in the route and the live question is whether the evening should be skyline-led, cruise-led, bar-led, or market-led
+- [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the real issue is no longer whether Shenzhen belongs but how to cross into it cleanly
 - [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the live question is whether Hong Kong should be the fuller stop or whether the route only needs Macau as a shorter contrast add-on
 - [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the live question is whether the route should lean standalone skyline city or mainland-modern extension
 - [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the live question is whether the second stop should be mainland-modern instead
@@ -119,6 +120,8 @@ For many first-time visitors, `Hong Kong + Shenzhen` is the easiest modern two-c
 
 If the live question is whether Hong Kong itself should win over Shenzhen, read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) before you lock hotels or route order.
 
+If the live question already is not `Hong Kong or Shenzhen` but `how do I actually cross into Shenzhen cleanly?`, go next to [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/).
+
 ## What most first-time visitors should prioritize
 
 The strongest first Hong Kong stay usually protects:
@@ -163,6 +166,7 @@ If the city role is clear and the real evening question becomes whether one loos
 
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if Hong Kong already is confirmed and the live question is whether the stay should be 2, 3, or 4 days
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if Hong Kong already is confirmed and the live question is where the base should be
+- read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the next live question is the mainland handoff
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if Hong Kong already is confirmed and the live question is how to protect the right meal types
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if Hong Kong already is confirmed and the live question is how the days should flow
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the broader city decision is basically settled and the live question is how evenings should actually work

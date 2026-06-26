@@ -1,0 +1,76 @@
+{
+  "name": "Nanjing",
+  "country": "China",
+  "intro": "Nanjing suits travelers who want a historically weighty east-China city with easier pacing than Beijing and a strong mix of museums, walls, republican-era landmarks, and old-city evenings.",
+  "seoTitle": "Nanjing Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Nanjing with practical advice on where to stay, how many days to give the city, and which historical sites and evening districts deserve priority.",
+  "idealFor": ["history without Beijing-scale intensity", "easy east-China rail routes"],
+  "suggestedStay": "1 to 2 days",
+  "tripPace": "Best when the route wants a thoughtful historical city stop with real evening character and manageable movement.",
+  "pairWith": ["Shanghai", "Suzhou", "Hangzhou"],
+  "bestMonths": ["March", "April", "October", "November"],
+  "highlights": [
+    "One of the easiest east-China cities to add when the trip wants more historical depth without immediately jumping into Beijing's scale.",
+    "Works well for travelers who like history expressed through city walls, museums, republican-era sites, and old-city evening districts rather than only through imperial monuments.",
+    "Usually feels strongest as an overnight or two-day stop instead of a rushed check-the-box rail excursion."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Nanjing is a real stop or a rushed side trip",
+      "description": "That one choice changes whether the city feels layered and rewarding or like a compressed historical sampler."
+    },
+    {
+      "title": "Build the stay around old city or central convenience",
+      "description": "Hotel area matters because Nanjing evenings can be one of the city's most useful layers."
+    },
+    {
+      "title": "Do not overschedule heavy history blocks back to back",
+      "description": "The city works better when museum, monument, wall, and evening layers are balanced instead of stacked too tightly."
+    }
+  ],
+  "transportNote": "Nanjing is easy to reach by high-speed rail from Shanghai and nearby east-China cities, but it usually rewards travelers who give the stop enough room for one evening and one full historical day.",
+  "homepageGroups": ["first-time-essentials", "south-east-add-ons"],
+  "featuredGuideSlugs": [
+    "nanjing-first-time-guide",
+    "best-things-to-do-in-nanjing-for-first-time-visitors",
+    "how-many-days-in-nanjing-for-first-time-visitors",
+    "best-time-to-visit-nanjing-for-first-time-visitors",
+    "nanjing-where-to-stay",
+    "how-to-visit-the-nanjing-massacre-memorial",
+    "xinjiekou-or-confucius-temple-where-to-stay-in-nanjing-for-first-time-visitors",
+    "how-to-get-around-nanjing-for-first-time-visitors",
+    "shanghai-nanjing-day-trip-or-overnight",
+    "nanjing-2-day-itinerary-for-first-time-visitors",
+    "rainy-day-in-nanjing-for-first-time-visitors",
+    "presidential-palace-or-sun-yat-sen-mausoleum-which-nanjing-landmark-matters-more-on-a-first-visit",
+    "nanjing-museum-or-presidential-palace-the-better-history-block-for-first-time-visitors",
+    "presidential-palace-or-nanjing-city-wall-which-history-layer-deserves-your-limited-time",
+    "laomendong-or-confucius-temple-where-should-your-nanjing-evening-begin",
+    "xinjiekou-or-qinhuai-river-which-nanjing-night-fits-a-first-trip-better",
+    "where-to-eat-around-the-qinhuai-river-for-first-time-visitors-in-nanjing",
+    "what-to-eat-in-laomendong-without-overbuilding-your-nanjing-day",
+    "where-to-eat-in-nanjing-for-first-time-visitors",
+    "where-to-eat-breakfast-in-nanjing-for-first-time-visitors",
+    "what-to-do-in-nanjing-at-night-for-first-time-visitors",
+    "what-to-eat-in-nanjing-for-first-time-visitors"
+  ],
+  "featuredTopicSlugs": [
+    "where-to-start",
+    "plan-your-trip",
+    "choosing-hotel-location",
+    "high-speed-rail",
+    "book-high-speed-train",
+    "how-to-ride-china-high-speed-rail"
+  ],
+  "featuredPlaceSlugs": [
+    "confucius-temple-and-qinhuai-river",
+    "presidential-palace",
+    "sun-yat-sen-mausoleum",
+    "nanjing-museum",
+    "laomendong",
+    "nanjing-city-wall",
+    "xinjiekou",
+    "jiming-temple",
+    "zhonghua-gate"
+  ]
+}

@@ -124,6 +124,8 @@ Choose `Beijing Road` if:
 
 That is why `Yongqing Fang` often wins on atmosphere, while Beijing Road often wins on usability.
 
+If that exact tradeoff is the real blocker, the cleaner one-page answer is [Beijing Road or Yongqing Fang? Choosing the Guangzhou Night That Actually Fits Your Trip](/guides/beijing-road-or-yongqing-fang-which-guangzhou-night-fits-a-first-trip-better/).
+
 ## Beijing Road vs a Pearl River night
 
 Choose the `Pearl River` if:
@@ -139,6 +141,8 @@ Choose `Beijing Road` if:
 - the trip already has enough skyline elsewhere
 
 If the live question is whether the scenic-event branch is actually the stronger use of one limited evening, the related place page is [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/).
+
+If the live question is not whether either one works in isolation but whether your one free evening should stay flexible and central or become a skyline event, the sharper chooser page is [Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening](/guides/beijing-road-or-a-pearl-river-night-cruise-which-guangzhou-night-earns-your-one-free-evening/).
 
 ## When Beijing Road improves the trip most
 

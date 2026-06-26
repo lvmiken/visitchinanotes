@@ -135,6 +135,8 @@ It is usually weaker when:
 
 If the real question now is not where to drink tea but whether this whole tea-country branch deserves time at all, the narrower next page is [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/).
 
+If the branch clearly does belong but you still want help avoiding the wrong tasting stop, the overbuilt detour, or the tea-country version that looks good on a map and weak in real life, the sharper follow-up is [How to Do Longjing Tea Country Without Falling for the Wrong Tea Stop](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/).
+
 If the live question already is not whether the branch belongs but what kind of meal should support it, the narrower next page is [Where to Eat Near Lingyin Temple or Longjing Village for First-Time Visitors](/guides/where-to-eat-near-lingyin-temple-or-longjing-village-for-first-time-visitors/).
 
 If the live question already is not where to drink tea but what to take home after that branch, the narrower next page is [What Food Souvenirs to Buy in Hangzhou for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-hangzhou-for-first-time-visitors/).

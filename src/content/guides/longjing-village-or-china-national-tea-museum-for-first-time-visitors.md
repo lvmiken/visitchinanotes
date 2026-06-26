@@ -188,6 +188,8 @@ If the real question already is not the comparison but what actually deserves lu
 
 If the real question already is not which tea branch should win but how to turn the winner into one realistic slower route block, the next page is [How to Plan a Hangzhou Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-hangzhou-tea-half-day-for-first-time-visitors/).
 
+If `Longjing Village` is starting to win but you still worry about ending up at the wrong tea stop or paying for the wrong version of the experience, the more practical field guide is [How to Do Longjing Tea Country Without Falling for the Wrong Tea Stop](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/).
+
 ## Which one is better if you only want one stronger named tea branch?
 
 Usually **Longjing Village**.

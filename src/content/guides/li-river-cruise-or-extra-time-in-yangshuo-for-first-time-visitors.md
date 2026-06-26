@@ -144,6 +144,8 @@ That is usually the strongest combined answer because the region gets both:
 - one unmistakable scenic memory
 - one softer lived-in memory
 
+If the softer `Yangshuo` side is winning because you want one practical photo stop as well as the overnight mood, the sharper execution page is [Where Is the 20 RMB View? A Practical Yangshuo Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/).
+
 If you already think the fuller version may be right, keep [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) open too.
 
 ## Which is better if you dislike fixed logistics?

@@ -7,13 +7,13 @@
   "idealFor": ["short urban trips", "easy first-time navigation", "travelers who want modern China with comfort and variety"],
   "suggestedStay": "2 to 4 days",
   "tripPace": "Works best as a compact but high-density city break with room for skyline, neighborhoods, food, shopping, and evenings.",
-  "pairWith": ["Hangzhou", "Suzhou"],
+  "pairWith": ["Hangzhou", "Suzhou", "Nanjing"],
   "bestMonths": ["March", "April", "October", "November"],
   "highlights": [
     "One of the clearest places to experience modern urban China at full scale, from the Bund and Lujiazui skyline to polished shopping streets and late-night neighborhoods.",
     "A comfortable starting city for travelers who want international flights, modern transport, manageable navigation, and a softer landing into China without giving up excitement.",
     "Supports short itineraries unusually well because skyline districts, former-concession streets, food neighborhoods, museums, and riverfront evenings can be grouped cleanly.",
-    "Easy to combine with nearby scenic or slower-paced extensions like Hangzhou, while still being strong enough to stand on its own as a rewarding city stop."
+    "Easy to combine with nearby scenic or slower-paced extensions like Hangzhou, Suzhou, or Nanjing while still being strong enough to stand on its own as a rewarding city stop."
   ],
   "planningPriorities": [
     {
@@ -26,7 +26,7 @@
     },
     {
       "title": "Plan nearby extensions early",
-      "description": "If Hangzhou or another nearby city is part of the trip, shape the rail timing before finalizing the city days."
+      "description": "If Hangzhou, Suzhou, Nanjing, or another nearby city is part of the trip, shape the rail timing before finalizing the city days."
     }
   ],
   "transportNote": "Shanghai is one of the easiest first cities in China for international travelers because airport transfers, metro use, food access, and day-to-day movement are comparatively straightforward for a city of this scale.",

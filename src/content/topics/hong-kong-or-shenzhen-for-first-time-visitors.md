@@ -66,6 +66,7 @@ If one city already sounds like the likely winner, go narrower after this:
 - [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/)
 - [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/)
 - [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/)
+- [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the likely answer is now `both` and the real blocker is the crossing itself
 
 If the real question is not only which city wins, but how Guangzhou changes the logic, the next page is [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/).
 
@@ -241,6 +242,7 @@ If the trip needs one food city only, Guangzhou often matters more than either o
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if Shenzhen is probably the better fit and you want the narrower mainland-modern version
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if Shenzhen is probably the better fit and the remaining question is whether the city deserves 1, 2, or 3 days
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if Shenzhen is probably the better fit and the remaining question is whether Futian, Nanshan, Shekou, or Luohu should carry the stay
+- read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the real next move is turning this comparison into a workable two-city sequence
 - read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) if Guangzhou is already in the route and the real decision is how to pair it well
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the next question is whether the route needs a shorter heritage-and-entertainment contrast instead
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if the bigger problem is not Hong Kong versus Shenzhen, but how many stops the whole trip can realistically support

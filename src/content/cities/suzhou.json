@@ -1,0 +1,75 @@
+{
+  "name": "Suzhou",
+  "country": "China",
+  "intro": "Suzhou fits travelers who want classical gardens, canal-side walks, and a slower east-China stop that feels intimate without becoming difficult to reach or use.",
+  "seoTitle": "Suzhou Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Suzhou with practical advice on gardens, old streets, where to stay, and whether the city works better as a Shanghai day trip or an overnight stop.",
+  "idealFor": ["classical gardens and canal streets", "easy east-China rail add-ons"],
+  "suggestedStay": "1 to 2 days",
+  "tripPace": "Best when the route wants a slower old-city texture, selective gardens, and one lighter stop between bigger cities.",
+  "pairWith": ["Shanghai", "Hangzhou", "Nanjing"],
+  "bestMonths": ["March", "April", "October", "November"],
+  "highlights": [
+    "One of the easiest nearby cities to pair with Shanghai when the trip wants beauty and atmosphere without a hard logistics jump.",
+    "Works best when travelers choose only a few meaningful gardens, museum stops, and canal walks instead of trying to cover every famous name.",
+    "Offers a strong east-China contrast because the city feels smaller, softer, and more old-core than Shanghai while staying very accessible by rail."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Do not turn Suzhou into a garden checklist",
+      "description": "Most first-time visitors enjoy the city more when one strong garden and one strong old-street block are protected first."
+    },
+    {
+      "title": "Decide day trip or overnight before anything else",
+      "description": "That single choice changes whether Suzhou stays selective and elegant or starts feeling compressed."
+    },
+    {
+      "title": "Use the old city as the emotional center",
+      "description": "Suzhou usually feels strongest when hotel, walking time, and evenings stay anchored around the older canal districts."
+    }
+  ],
+  "transportNote": "Suzhou is one of the easiest east-China add-on cities to reach by high-speed rail, but it still rewards travelers who shape the stop around the old city rather than around station convenience alone.",
+  "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "featuredGuideSlugs": [
+    "suzhou-first-time-guide",
+    "best-things-to-do-in-suzhou-for-first-time-visitors",
+    "how-many-days-in-suzhou-for-first-time-visitors",
+    "best-time-to-visit-suzhou-for-first-time-visitors",
+    "suzhou-where-to-stay",
+    "where-to-stay-in-suzhou-for-canal-walks-pingjiang-road-or-a-more-practical-central-base",
+    "how-to-get-around-suzhou-for-first-time-visitors",
+    "suzhou-silk-in-real-life-factory-tour-museum-or-skip-it",
+    "shanghai-suzhou-day-trip-or-overnight",
+    "suzhou-1-day-itinerary-for-first-time-visitors",
+    "rainy-day-in-suzhou-for-first-time-visitors",
+    "humble-administrators-garden-or-lingering-garden-the-better-first-pick-in-suzhou",
+    "suzhou-museum-or-tiger-hill-which-half-day-fits-a-first-trip-better",
+    "how-to-plan-a-suzhou-museum-and-pingjiang-road-half-day-for-first-time-visitors",
+    "pingjiang-road-or-shantang-street-which-suzhou-canal-walk-fits-a-first-trip-better",
+    "where-to-eat-near-pingjiang-road-in-suzhou-for-first-time-visitors",
+    "shantang-street-dinner-guide-for-first-time-visitors-in-suzhou",
+    "where-to-eat-in-suzhou-for-first-time-visitors",
+    "where-to-eat-breakfast-in-suzhou-for-first-time-visitors",
+    "what-to-do-in-suzhou-at-night-for-first-time-visitors",
+    "what-to-eat-in-suzhou-for-first-time-visitors"
+  ],
+  "featuredTopicSlugs": [
+    "where-to-start",
+    "plan-your-trip",
+    "choosing-hotel-location",
+    "high-speed-rail",
+    "book-high-speed-train",
+    "how-to-ride-china-high-speed-rail"
+  ],
+  "featuredPlaceSlugs": [
+    "humble-administrators-garden",
+    "pingjiang-road",
+    "suzhou-museum",
+    "tiger-hill",
+    "shantang-street",
+    "lingering-garden",
+    "hanshan-temple",
+    "guanqian-street",
+    "master-of-the-nets-garden"
+  ]
+}

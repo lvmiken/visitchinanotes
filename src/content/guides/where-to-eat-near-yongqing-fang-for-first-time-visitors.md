@@ -112,6 +112,8 @@ This is often strongest when the sentence is:
 
 We want the west-side half day to include one meal that feels unmistakably old Guangzhou.
 
+If the meal question is turning into a broader `where should our one real yum cha happen` decision rather than a Liwan-only decision, use [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/) before locking in Panxi or moving the dim sum slot back toward the central city.
+
 ## 2. Choose Wen Ji Yixinji if one signature Liwan chicken meal sounds better than a bigger restaurant room
 
 Current MICHELIN Guide coverage still keeps `Wen Ji Yixinji` as a `Bib Gourmand`, and its current listing still places it on `Baohua Road` in `Liwan`.

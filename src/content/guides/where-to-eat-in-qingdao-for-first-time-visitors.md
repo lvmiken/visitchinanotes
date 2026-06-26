@@ -116,6 +116,8 @@ It usually works best when you want:
 - one more casual food block rather than a major seafood dinner
 - one contrast with the more modern seafood streets
 
+If the old-core day also needs a better walking frame than just drifting between snacks, pair that meal block with [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/) so the architecture and the food reinforce the same half day.
+
 It is usually weaker when:
 
 - you expect the city's best full dinner here

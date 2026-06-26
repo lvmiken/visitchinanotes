@@ -30,7 +30,12 @@
   ],
   "transportNote": "Yangshuo is easiest when travelers already know whether they are arriving from a Li River cruise, direct transfer from Guilin, or a wider South China route that needs one scenic overnight.",
   "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
-  "featuredGuideSlugs": ["yangshuo-first-time-guide", "yangshuo-where-to-stay", "is-yangshuo-worth-an-overnight-for-first-time-visitors", "guilin-first-time-guide", "li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors"],
+  "heroImage": "/images/heroes/yangshuo-karst-panorama.jpg",
+  "heroImageAlt": "A bright aerial view of a river bend, village rooftops, and karst peaks around Yangshuo.",
+  "heroImageAttributionName": "Chensiyuan",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:1_aerial_yangshuo_panorama_2017.jpg",
+  "heroImageLicense": "CC BY-SA 4.0",
+  "featuredGuideSlugs": ["yangshuo-first-time-guide", "where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide", "yangshuo-where-to-stay", "is-yangshuo-worth-an-overnight-for-first-time-visitors", "guilin-first-time-guide", "li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors"],
   "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "high-speed-rail", "train-vs-flight"],
   "featuredPlaceSlugs": ["yangshuo-west-street", "li-river"]
 }

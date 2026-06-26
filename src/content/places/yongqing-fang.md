@@ -138,7 +138,11 @@ Beijing Road usually beats Yongqing Fang when:
 - the real priority is one easy central food-and-shopping night
 - you do not want the district choice to depend on walking mood
 
+If that exact district choice is still the real blocker, the cleaner one-page answer is [Beijing Road or Yongqing Fang? Choosing the Guangzhou Night That Actually Fits Your Trip](/guides/beijing-road-or-yongqing-fang-which-guangzhou-night-fits-a-first-trip-better/).
+
 If that exact decision still feels live, keep [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) open too.
+
+If the live comparison is not the central-versus-west choice but the west-side choice itself, the sharper chooser page is [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/).
 
 ## When is Yongqing Fang better than a Pearl River cruise?
 

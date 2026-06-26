@@ -193,6 +193,8 @@ If the tea-country version is clearly winning and the live question now is how t
 
 For many first-time visitors, Xixi is a valid preference branch, but not the default strongest second day.
 
+If your version of Hangzhou also includes curiosity about the city's technology identity, keep that curiosity in proportion: [Can You Actually Visit Alibaba Campus in Hangzhou? What First-Time Visitors Should Expect](/guides/can-you-really-visit-alibaba-campus-in-hangzhou/) explains why the campus is usually background context or a soft west-side add-on, not the real Day 2 anchor.
+
 ## A strong default version for most first-time visitors
 
 ### Day 1

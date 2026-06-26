@@ -69,6 +69,8 @@ Because Qingdao is often used as a two- or three-day stop, rail timing and stati
 
 Many travelers enjoy Qingdao most when evenings stay simple: a waterfront walk, a food-focused neighborhood, and an easy trip back. A first-time base should support that kind of finish, especially if the rest of the route already includes more demanding city days.
 
+If your best Qingdao day is likely to revolve around slower heritage walking rather than only waterfront symbols, it is also worth keeping [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/) open while choosing the base, because the right hotel becomes the one that makes that longer architecture-and-coast block feel easy.
+
 ## What to watch out for
 
 - booking too far from the part of the coast you actually want to use

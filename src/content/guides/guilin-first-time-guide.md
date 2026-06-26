@@ -57,6 +57,7 @@ If the decision already has narrowed, the more focused page is usually better:
 - [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/)
 - [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/)
 - [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/)
+- [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/)
 - [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/)
 
 ## The short answer
@@ -124,6 +125,8 @@ It is often the better answer when the route wants:
 - one river-town layer beyond a pure cruise day
 
 If that is the live question, keep [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) open too.
+
+If the overnight already is likely and the remaining practical question is whether the famous `20 RMB` banknote view deserves its own protected stop or should stay a supporting photo detour, the sharper page is [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/).
 
 ## Keep the stay short and intentional
 

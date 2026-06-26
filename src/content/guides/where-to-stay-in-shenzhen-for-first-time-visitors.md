@@ -66,6 +66,8 @@ If the base decision partly depends on whether you want better Cantonese conveni
 
 If the real reason you are choosing the base is that evenings matter, keep [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) open too.
 
+If the base may be shaped by a same-day or next-day Hong Kong crossing, keep [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) open too.
+
 ## The short answer
 
 For many first-time visitors, the best default is a **central metro-friendly base** in either:
@@ -178,6 +180,8 @@ If `Luohu` already is the likely base and the live question is not where to slee
 
 If the live question now is whether `Dongmen` itself deserves one of your limited Shenzhen blocks, the narrower place page is [Dongmen Old Street in Shenzhen: Is It Worth It for First-Time Visitors?](/places/dongmen-old-street/).
 
+If `Luohu` mainly looks attractive because the trip starts or ends with Hong Kong, check [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) before locking the hotel.
+
 The tradeoff is that Luohu is usually less polished and less calm than the best Futian or Nanshan answers for first-time visitors.
 
 ## Futian or Nanshan: how to decide quickly
@@ -250,6 +254,7 @@ For most first-time visitors, those details matter more than sleeping nearest on
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if the hotel choice still depends on whether the stay is 1, 2, or 3 days
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if the base decision mostly is solved and the next live question is how to divide a 3-day Shenzhen stay by district
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the base decision partly depends on where the easiest good meals and dinner districts will be
+- read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if the base decision partly depends on whether one denser central-market day belongs in the stay
 - read [Where to Eat on Bagua First Road for First-Time Visitors](/guides/where-to-eat-on-bagua-first-road-for-first-time-visitors/) if you already expect to stay in `Futian` or more central Shenzhen and want one fuller dinner district to work well
 - read [Where to Eat in Dongmen for First-Time Visitors](/guides/where-to-eat-in-dongmen-for-first-time-visitors/) if you already expect to stay in `Luohu` and want one easy food-and-shopping night to work well
 - read [Where to Eat in Sea World for First-Time Visitors](/guides/where-to-eat-in-sea-world-for-first-time-visitors/) if you already expect to stay on the west side and want one easy Shekou dinner district to work well
@@ -258,6 +263,7 @@ For most first-time visitors, those details matter more than sleeping nearest on
 - read [Dongmen Old Street in Shenzhen: Is It Worth It for First-Time Visitors?](/places/dongmen-old-street/) if your base decision depends on whether one older Luohu-side shopping-and-snack district should carry part of the stay
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the base decision mainly depends on whether the trip wants easy central dinners, west-side polish, Sea World, or a more creative night
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the base decision still depends on whether Shenzhen itself should be the stronger stop
+- read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the hotel choice still depends on border timing, crossing choice, or a Hong Kong-to-mainland handoff
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if hotel choice may change because Hong Kong still might carry the main city chapter
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the wider route may lean toward a shorter contrast stop instead
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the wider South China route still may lean more food-led and traditional than modern-city-heavy

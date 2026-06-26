@@ -61,6 +61,8 @@ If the cruise already looks likely and the remaining decision is where the night
 
 If the tradeoff already is not `Is the cruise worth it at all?` but `Cruise or more Yangshuo time?`, the sharper comparison page is [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/).
 
+If the live question is more specific and you mainly want the `20 RMB` scene handled cleanly, the practical page is [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/).
+
 ## The short answer
 
 For many first-time visitors, `Li River` is worth it when:

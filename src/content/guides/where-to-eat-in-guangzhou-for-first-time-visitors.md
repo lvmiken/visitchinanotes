@@ -50,6 +50,8 @@ Use this page if you are asking:
 
 If the bigger question is still which Guangzhou foods deserve your limited meals, start with [What to Eat in Guangzhou for First-Time Visitors](/guides/what-to-eat-in-guangzhou-for-first-time-visitors/).
 
+If the meal problem has already narrowed to one protected Cantonese tea meal, keep [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/) open too.
+
 If the district question already is mostly solved and the real problem is how to use central Guangzhou well, go next to [Where to Eat on Beijing Road for First-Time Visitors](/guides/where-to-eat-on-beijing-road-for-first-time-visitors/).
 
 If the district already is mostly solved and the real problem is how to turn the west side into one useful meal, go next to [Where to Eat Near Yongqing Fang for First-Time Visitors](/guides/where-to-eat-near-yongqing-fang-for-first-time-visitors/).
@@ -260,6 +262,7 @@ It is `which district improves this day most?`
 - read [Where to Eat on Beijing Road for First-Time Visitors](/guides/where-to-eat-on-beijing-road-for-first-time-visitors/) if the central easy meal already is the live decision
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the live decision still is whether one easy central district should carry a real evening at all
 - read [Where to Eat Near Yongqing Fang for First-Time Visitors](/guides/where-to-eat-near-yongqing-fang-for-first-time-visitors/) if the west-side branch already is chosen and the live question is what kind of meal belongs there
+- read [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/) if the district choice now depends on where your one real yum cha should happen
 - read [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/) if the broader district choice already includes the west side and the live question is how to run it well
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the dinner decision is really part of a bigger question about skyline nights, district evenings, or final-night pacing
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the city itself still feels too broad

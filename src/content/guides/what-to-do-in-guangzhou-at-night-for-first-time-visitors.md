@@ -124,6 +124,8 @@ If the live question now is whether the cruise itself really deserves one of you
 
 If the live question now is whether the landmark itself deserves time before you escalate to a cruise, the narrower companion page is [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/).
 
+If the live question is the cleaner skyline tradeoff itself rather than either page in isolation, the sharper chooser page is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
+
 If the live question is whether one easier modern skyline walk around `Zhujiang New Town` already is enough, the narrower companion page is [Huacheng Square in Guangzhou: Is It Worth It for First-Time Visitors?](/places/huacheng-square/).
 
 ### What this evening is best for
@@ -166,6 +168,10 @@ It is usually weaker when:
 
 If the live question now is whether `Beijing Road` itself really deserves one of your limited Guangzhou evenings, the narrower place page is [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/).
 
+If the live question is not whether either district is good in isolation but whether the trip should spend its night on the easier central answer or the stronger old-Guangzhou answer, the sharper chooser page is [Beijing Road or Yongqing Fang? Choosing the Guangzhou Night That Actually Fits Your Trip](/guides/beijing-road-or-yongqing-fang-which-guangzhou-night-fits-a-first-trip-better/).
+
+If the live question is not central-versus-west but central-versus-skyline, the sharper chooser page is [Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening](/guides/beijing-road-or-a-pearl-river-night-cruise-which-guangzhou-night-earns-your-one-free-evening/).
+
 ## 3. Old-Guangzhou atmosphere evening: choose Yongqing Fang and the wider Xiguan side
 
 For many first-time visitors, the most distinctive Guangzhou night is not the tallest skyline.
@@ -176,9 +182,13 @@ The Guangzhou tourism bureau's route material continues to feature `Yongqing Fan
 
 If the live question now is whether `Yongqing Fang` itself really deserves one of your limited Guangzhou blocks or whether a more central or more scenic night would be stronger, the narrower companion page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
 
+If the live question is the direct district tradeoff itself, the sharper chooser page is [Beijing Road or Yongqing Fang? Choosing the Guangzhou Night That Actually Fits Your Trip](/guides/beijing-road-or-yongqing-fang-which-guangzhou-night-fits-a-first-trip-better/).
+
 If the old-city branch already is winning and the live question becomes how to turn `Liwan`, `Yongqing Fang`, and `Shamian` into one real half day or early-evening sequence, the cleaner execution page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
 
 If the live question becomes whether the calmer visual finish really should be `Shamian` at all, the narrower companion page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
+
+If the live question is even narrower and you are really choosing between the stronger old-Xiguan core and the calmer colonial-era finish, the sharper chooser page is [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/).
 
 This is strongest when you want:
 
@@ -314,6 +324,7 @@ That already gives the city more range than leaving every evening unplanned.
 - read [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/) if the real question is whether the city has enough room for both a skyline night and a more neighborhood-led night
 - read [Where to Eat on Beijing Road for First-Time Visitors](/guides/where-to-eat-on-beijing-road-for-first-time-visitors/) if the main decision now is what kind of central Guangzhou meal block should carry one easier night
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the main decision now is whether the easiest central district night is actually the right use of one limited evening
+- read [Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening](/guides/beijing-road-or-a-pearl-river-night-cruise-which-guangzhou-night-earns-your-one-free-evening/) if the live choice is easy central night versus skyline event night
 - read [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/) if the main decision now is whether the old-Guangzhou branch deserves one of your limited city blocks
 - read [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/) if the main decision now is whether the event-style river night is stronger than a simpler district evening
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the city's overall role in the route still feels too broad

@@ -110,6 +110,8 @@ If the old-city question already is not whether the west side matters but how to
 
 If the west-side branch already is winning and the live question becomes whether the calmer finish really should be `Shamian`, the narrower page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
 
+If the west-side branch already is winning and the live question becomes whether the core should be `Yongqing Fang` or the calmer walk should be `Shamian`, the sharper chooser page is [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/).
+
 If the trip wants one more focused Lingnan heritage layer than only district wandering, the narrower page is [Chen Clan Ancestral Hall in Guangzhou: Is It Worth It for First-Time Visitors?](/places/chen-clan-ancestral-hall/).
 
 If the trip instead wants one lighter city-history and breathing-space stop, the narrower page is [Yuexiu Park in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yuexiu-park/).
@@ -119,6 +121,14 @@ If the modern east-side question is less about the tower and more about one easy
 If the trip already is clearly food-led and the live question becomes which part of Guangzhou should carry which meal, the better bridge page is [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/).
 
 If the trip already is clearly food-led and the live question becomes which Guangzhou foods actually deserve the best meal slots, the broader parent page is [What to Eat in Guangzhou for First-Time Visitors](/guides/what-to-eat-in-guangzhou-for-first-time-visitors/).
+
+If the trip already is clearly food-led and the live question narrows to one single protected Cantonese tea meal, the sharper page is [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/).
+
+If the city already is confirmed and the live question becomes whether your easier Guangzhou night should stay central or move west for stronger atmosphere, the sharper chooser page is [Beijing Road or Yongqing Fang? Choosing the Guangzhou Night That Actually Fits Your Trip](/guides/beijing-road-or-yongqing-fang-which-guangzhou-night-fits-a-first-trip-better/).
+
+If the city already is confirmed and the live question becomes whether your one free evening should stay easy and central or become a skyline event, the sharper chooser page is [Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening](/guides/beijing-road-or-a-pearl-river-night-cruise-which-guangzhou-night-earns-your-one-free-evening/).
+
+If the city already is confirmed and the live question becomes how to use your one skyline-facing evening without overbuilding it, the sharper chooser page is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
 
 ## Common mistakes on a first Guangzhou trip
 
@@ -132,6 +142,7 @@ If the trip already is clearly food-led and the live question becomes which Guan
 - read [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/) if the route role is clear but the stay length is not
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if hotel location is the real blocker
 - read [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) if the city is confirmed and the next decision is how to assign meals to the right districts
+- read [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/) if the city is confirmed and one protected yum cha is the live food decision
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the city is confirmed and the live decision is whether one easy central evening district deserves real time
 - read [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) if the city is confirmed and the live question is whether the main skyline landmark deserves one protected block
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the broader city decision is basically settled and the live question is how evenings should actually work

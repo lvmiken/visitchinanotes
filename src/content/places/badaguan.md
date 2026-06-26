@@ -89,6 +89,8 @@ It is usually weaker for:
 
 That is why `Badaguan` often is a stronger `atmosphere district page` than a simple landmark page.
 
+If what you really want is not only `Badaguan` itself but one coherent colonial-era and villa-district walk, the stronger follow-up is [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/).
+
 ## Badaguan vs Zhanqiao
 
 Choose `Zhanqiao` if:

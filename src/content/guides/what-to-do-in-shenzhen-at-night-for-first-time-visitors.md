@@ -73,6 +73,8 @@ If the district already is clearly `Sea World` and the live question is what kin
 
 If the stay already is roughly `3 days` and you are trying to place one or two nights inside it, keep [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) open too.
 
+If one of these nights may happen right after entering from Hong Kong, keep [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) open too.
+
 ## The short answer
 
 For most first-time visitors, Shenzhen nights work best when you use one of these five patterns:
@@ -313,6 +315,8 @@ That already gives Shenzhen much more range than leaving every night unplanned.
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if you want to see where one or two evenings actually fit inside a fuller short stay
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the night shape mostly works but the dinner choice still does not
+- read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if one night may follow a more central `Futian` or `Huaqiangbei` day and you want that sequence to feel intentional
+- read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the evening plan depends on arriving from Hong Kong without burning the whole night on the border
 - read [Where to Eat on Bagua First Road for First-Time Visitors](/guides/where-to-eat-on-bagua-first-road-for-first-time-visitors/) if the night already points toward central Shenzhen and the live question is which fuller dinner district should carry it
 - read [Where to Eat in Sea World for First-Time Visitors](/guides/where-to-eat-in-sea-world-for-first-time-visitors/) if `Sea World` is already the chosen district and the dinner style still is not
 - read [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/) if the live question is whether one polished west-side skyline-and-lifestyle branch deserves a night

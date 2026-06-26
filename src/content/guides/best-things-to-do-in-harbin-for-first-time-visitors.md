@@ -59,6 +59,8 @@ If you arrived here through the broader `Harbin Ice Festival` search and still n
 
 If the hotel base still is the real blocker, keep [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) open too.
 
+If the trip already is happening and the real blocker is practical winter readiness or the flagship venue itself, keep [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) and [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Harbin mix is:
@@ -175,4 +177,6 @@ You can protect:
 
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the main live decision is whether the city's biggest winter icon should carry the stop
 - read [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/) if the city needs a stronger central-day anchor
+- read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if the city is already chosen and the next question is how to book the main winter night cleanly
+- read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if cold tolerance still may change which Harbin plans are realistic
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the real next decision is the hotel base

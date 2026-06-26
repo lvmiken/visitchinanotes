@@ -84,9 +84,13 @@ If this fuller day naturally points toward one deliberate skyline finish instead
 
 If the skyline choice still is more about a landmark than a cruise, the narrower place page is [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/).
 
+If the real decision is not whether either one works in isolation but which skyline format fits the trip better, the sharper chooser page is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
+
 If this fuller day instead wants one slower west-side neighborhood block with more atmosphere than spectacle, the narrower decision page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
 
 If the west-side branch already clearly is happening and the live question becomes how to combine `Liwan`, `Yongqing Fang`, and `Shamian` without letting the half day sprawl too long, the cleaner execution page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
+
+If the west-side branch is confirmed but the real choice still is whether the core should be `Yongqing Fang` or the gentler finish should be `Shamian`, the sharper chooser page is [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/).
 
 If the trip wants one more focused heritage support stop than only district wandering, the narrower place page is [Chen Clan Ancestral Hall in Guangzhou: Is It Worth It for First-Time Visitors?](/places/chen-clan-ancestral-hall/).
 
@@ -94,7 +98,13 @@ If the trip instead wants one lighter central daytime support block, the narrowe
 
 If the day stays central and the real question becomes which easy food block should carry the evening, the narrower page is [Where to Eat on Beijing Road for First-Time Visitors](/guides/where-to-eat-on-beijing-road-for-first-time-visitors/).
 
+If the real decision is whether that evening should stay on the easier central axis at all or move west for more atmosphere, the sharper chooser page is [Beijing Road or Yongqing Fang? Choosing the Guangzhou Night That Actually Fits Your Trip](/guides/beijing-road-or-yongqing-fang-which-guangzhou-night-fits-a-first-trip-better/).
+
+If the real meal decision is even narrower and you want to protect one serious `yum cha` instead of scattering multiple dim sum attempts across the trip, the sharper chooser page is [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/).
+
 If the live question becomes whether that central answer should be `Beijing Road` at all, the narrower place page is [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/).
+
+If the live question becomes whether the trip's one flexible evening should stay on the easy central axis or be spent on a more structured skyline night, the sharper chooser page is [Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening](/guides/beijing-road-or-a-pearl-river-night-cruise-which-guangzhou-night-earns-your-one-free-evening/).
 
 If the broader food question still is which part of Guangzhou should carry which meal before you drop into a specific child page, the better bridge page is [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/).
 
@@ -107,6 +117,8 @@ Why this works:
 - the trip can finish well even if departure timing is awkward
 - you preserve flexibility for shopping, weather, or one missed district
 - the route still works if Guangzhou is only one chapter in a wider South China plan
+
+If this final day ends up leaning west-side rather than transfer-first, the cleaner food companion is [Where to Eat Near Yongqing Fang for First-Time Visitors](/guides/where-to-eat-near-yongqing-fang-for-first-time-visitors/).
 
 ## Let the city breathe
 

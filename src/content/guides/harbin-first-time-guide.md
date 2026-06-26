@@ -59,6 +59,8 @@ Use this page if you still are deciding:
 If the decision already has narrowed, the more focused page is usually better:
 
 - [Harbin Ice Festival for First-Time Visitors: When the Winter Spectacle Is Worth the Whole Detour](/guides/harbin-ice-festival-for-first-time-visitors/)
+- [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/)
+- [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/)
 - [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/)
 - [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/)
 - [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/)
@@ -164,5 +166,7 @@ It is often weaker for:
 ## Which page to read next
 
 - read [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) if Harbin is likely and you want the clearest first-time shortlist
+- read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if Harbin already is likely and the live issue is ticket logic
+- read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if cold-weather packing still feels like the real blocker
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the remaining question is the best base in the cold
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the real decision is whether the city's biggest winter icon should carry the stop

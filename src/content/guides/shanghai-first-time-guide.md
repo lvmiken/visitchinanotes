@@ -219,11 +219,13 @@ If the live question is when Shanghai will feel easiest rather than how many day
 
 If the dates are already fixed and you mainly want to protect a short city stay from summer showers, poor visibility, or a wet neighborhood day, the narrower rescue page is [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/).
 
+If the route already is moving beyond Shanghai and the real question is which nearby rail city deserves the next night, use [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) for the classical-gardens version or [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/) for the stronger historical-city version.
+
 If the city already feels chosen and the next real risk is not "Should I go?" but "What should I protect before arrival?", the next page is [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/). That page is the practical bridge between choosing Shanghai and actually locking the few reservations that matter.
 
 ## Keep the route compact
 
-Shanghai is best when it stays true to its strengths. Use it as a polished urban anchor, then decide whether the overall route still has room for one slower scenic extension such as Hangzhou.
+Shanghai is best when it stays true to its strengths. Use it as a polished urban anchor, then decide whether the overall route still has room for one slower scenic extension such as Hangzhou, one classical-garden stop such as Suzhou, or one more historical east-China city such as Nanjing.
 
 If that extension is likely to happen by train, keep the rail sequence simple: use [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/) when the mode is still not settled, [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) when the day is ready to purchase, and [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) only after the exact segment is already chosen.
 
@@ -261,6 +263,8 @@ The fix is usually not "add more attractions." It is "use the city for the kind 
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the city is chosen and the next problem is protecting the right bookings without overplanning
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the city is chosen and the next practical question is how to move around it without friction
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if the dates are already fixed and you want a weather-proof backup before arriving
+- read [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) if the next route choice is whether the nearby classical-garden city should stay a day trip or become a real second stop
+- read [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/) if the next route choice is whether the nearby historical city deserves one fast look or a proper overnight
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the trip now needs a practical shortlist of which Shanghai foods actually deserve your limited meals
 - read [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/) if the food layer already is mostly clear and the live question is whether one calmer everyday Shanghai meal should be a noodle stop
 - read [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/) if the trip now needs actual restaurant-style picks instead of only dish or district logic

@@ -39,6 +39,10 @@ If the city already is confirmed and the real question is which Hangzhou anchor 
 
 If the route already is sure about Hangzhou and the live question now is what actually deserves priority, start with [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
 
+If the route already is sure about Hangzhou and the live question now is how to do one real tea-country branch without drifting into the wrong stop, start with [Longjing Tea Country in Hangzhou: How to Avoid the Wrong Stop and Build a Better Half Day](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/).
+
+If the route already is sure about Hangzhou and the live question now is whether Alibaba is a real visitor stop or just a curiosity, start with [Can You Actually Visit Alibaba Campus in Hangzhou? What First-Time Visitors Should Expect](/guides/can-you-really-visit-alibaba-campus-in-hangzhou/).
+
 If the route already is sure about Hangzhou and the live question now is whether the city deserves `1` day or `2`, start with [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/).
 
 If the route already is sure about Hangzhou and the live question now is how to use a single full day well, start with [A Practical 1-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-1-day-itinerary-for-first-time-visitors/).

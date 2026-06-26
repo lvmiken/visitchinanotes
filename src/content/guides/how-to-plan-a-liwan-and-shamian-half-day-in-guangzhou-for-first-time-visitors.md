@@ -72,6 +72,8 @@ If the broader evening choice still is not stable, keep [What to Do in Guangzhou
 
 If the core old-city piece itself still is not settled, keep [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/) open too.
 
+If the core old-city piece feels settled in theory but the live question is still whether the route's real weight should sit on `Yongqing Fang` or a gentler `Shamian` finish, keep [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/) open too.
+
 If the route already is set and the live question now is what to eat around `Yongqing Fang` without making the branch feel like a random snack crawl, keep [Where to Eat Near Yongqing Fang for First-Time Visitors](/guides/where-to-eat-near-yongqing-fang-for-first-time-visitors/) open too.
 
 ## The short answer

@@ -30,7 +30,12 @@
   ],
   "transportNote": "Harbin becomes much easier when travelers decide early whether the city is mainly a Central Street base with one Ice and Snow World branch, or a heavier winter-venue stop that needs a more deliberate cold-weather plan.",
   "homepageGroups": ["north-inland-routes"],
-  "featuredGuideSlugs": ["harbin-first-time-guide", "harbin-ice-festival-for-first-time-visitors", "best-things-to-do-in-harbin-for-first-time-visitors", "harbin-where-to-stay"],
+  "heroImage": "/images/heroes/harbin-ice-festival.jpg",
+  "heroImageAlt": "Sunlit ice sculptures and snowy walkways at the Harbin Ice and Snow Festival.",
+  "heroImageAttributionName": "Tracy Hunter",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:Harbin_Ice_and_Snow_Festival_2013.jpg",
+  "heroImageLicense": "CC BY 2.0",
+  "featuredGuideSlugs": ["harbin-first-time-guide", "harbin-ice-festival-for-first-time-visitors", "harbin-ice-and-snow-world-tickets-for-foreign-visitors", "what-to-wear-in-harbin-at-minus-20", "best-things-to-do-in-harbin-for-first-time-visitors", "harbin-where-to-stay"],
   "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "high-speed-rail", "what-to-wear-in-china"],
   "featuredPlaceSlugs": ["harbin-ice-and-snow-world", "zhongyang-street", "saint-sophia-cathedral"]
 }

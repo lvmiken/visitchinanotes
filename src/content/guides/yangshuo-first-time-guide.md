@@ -51,6 +51,7 @@ If the narrower decision already is obvious, the more focused page is usually be
 - [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/)
 - [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/)
 - [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/)
+- [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/)
 - [Guilin on a First Trip: What to Prioritize and What Not to Overbuild](/guides/guilin-first-time-guide/)
 
 ## The short answer
@@ -144,6 +145,7 @@ That is enough for Yangshuo to feel distinct without making the whole route depe
 ## Which page to read next
 
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the main decision still is whether the river itself should carry the regional stop
+- read [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/) if the real question now is how to handle the banknote view without overbuilding the region
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the real decision now is whether the town deserves a sleep-there version instead of a pass-through
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the overnight likely is happening and the next question is the best base
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both and you need the cleaner tradeoff

@@ -71,6 +71,8 @@ Why this works:
 
 If the scenic choice itself still is not settled, narrow it with [Zhanqiao Pier in Qingdao: Is It Worth Visiting on a First Trip?](/places/zhanqiao-pier/), [May Fourth Square in Qingdao: Is It Worth Visiting on a First Trip?](/places/may-fourth-square/), [Olympic Sailing Center in Qingdao: Is It Worth It for First-Time Visitors?](/places/olympic-sailing-center/), [Badaguan in Qingdao: Is It Worth Visiting for First-Time Visitors?](/places/badaguan/), [No.1 Bathing Beach in Qingdao: Is It Worth It for First-Time Visitors?](/places/no1-bathing-beach/), [Laoshan from Qingdao: Is It Worth a Day for First-Time Visitors?](/places/laoshan-mountain/), and [Qingdao Beer Museum: Is It Worth It for First-Time Visitors?](/places/qingdao-beer-museum/).
 
+If the live question is not which one scenic stop wins but how to shape the city's old European-influenced layer into one better walk, keep [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/) open too.
+
 ## Keep the city in one piece
 
 The itinerary usually works best when it includes:

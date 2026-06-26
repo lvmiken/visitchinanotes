@@ -118,6 +118,8 @@ This is often strongest when the sentence is:
 
 We want one real Cantonese dinner in a central area without building the whole night around fine dining.
 
+If the live question is less about dinner in general and more about where your trip should spend its one serious `yum cha`, the sharper decision page is [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/).
+
 ## 2. Choose Dayang on Wenming Road if the trip wants soup, recovery, and one more local-feeling stop
 
 Current MICHELIN Guide coverage still treats `Dayang (Wenming Road)` as a `Bib Gourmand` and describes it as a long-running shop known for `double-boiled soups`, especially the `silkie chicken soup in whole coconut`, plus other tonic-style soups.

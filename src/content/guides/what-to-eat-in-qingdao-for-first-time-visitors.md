@@ -160,6 +160,8 @@ This is why Qingdao often feels best when one evening becomes the seafood-and-be
 
 If the live question already is whether the beer-history branch itself deserves time, the narrower next page is [Qingdao Beer Museum: Is It Worth It for First-Time Visitors?](/places/qingdao-beer-museum/).
 
+If the trip is happening in festival season and you need to know whether the larger beer event actually helps the food side of the city, go next to [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/).
+
 ## 4. Seafood wontons
 
 TravelChinaGuide's current Qingdao overview highlights `Seafood Wonton`, and that makes it one of the most useful supporting foods for a short stay.
@@ -215,3 +217,4 @@ That matters because Qingdao wins on coherence more than on intensity.
 - read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if the meal plan still depends on what the days actually look like
 - read [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) if the food plan still depends on the hotel base
 - read [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) if you want meals to fit a realistic short-stay route
+- read [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/) if the meal plan may change because the trip lands during the summer beer-festival window

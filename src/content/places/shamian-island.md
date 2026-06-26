@@ -119,6 +119,8 @@ That is enough for many short trips.
 
 For many first-time visitors, [Yongqing Fang](/places/yongqing-fang/) is the stronger core old-Guangzhou answer and `Shamian` is the stronger supporting finish.
 
+If the live question is not whether either place is good in isolation but which one should actually carry your limited west-side time, the sharper chooser page is [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/).
+
 Choose `Yongqing Fang` if:
 
 - you only have room for one west-side district

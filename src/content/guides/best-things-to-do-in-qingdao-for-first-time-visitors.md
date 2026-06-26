@@ -53,6 +53,8 @@ If the city already is confirmed and the live question now is where to stay, kee
 
 If the route already is mostly chosen and you want the days in order, keep [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) open too.
 
+If the trip may happen in summer and the live question is whether festival timing should shape the city at all, keep [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Qingdao mix is:
@@ -193,6 +195,8 @@ For many short Qingdao stays, the museum is not the core reason to go. It is the
 
 If the live question already is whether it beats one more coastal block, the narrower next page is [Qingdao Beer Museum: Is It Worth It for First-Time Visitors?](/places/qingdao-beer-museum/).
 
+If the real decision is not the museum but whether a summer trip should bend around the larger beer event, go next to [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/).
+
 ## 6. One real coastal evening usually improves Qingdao more than one more attraction
 
 Many first-time visitors use Qingdao well in the day and then underuse it at night.
@@ -221,3 +225,5 @@ That already gives Qingdao a clear identity.
 The mistake is thinking a short Qingdao trip must also carry the mountain day, every waterfront marker, and multiple indoor stops to feel worthwhile.
 
 If you are building that sharper version now, [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) is still the best execution page for the short-stay model, while [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/) helps if the route role still is not fully settled.
+
+If the real open question is how to make Qingdao's European-influenced old fabric feel coherent instead of random, the next page is [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/).

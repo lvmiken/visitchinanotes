@@ -50,6 +50,8 @@ If you already know the exact decision, the narrower page is usually better:
 - [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/)
 - [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/)
 - [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/)
+- [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/)
+- [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/)
 - [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/)
 - [Zhanqiao Pier in Qingdao: Is It Worth Visiting on a First Trip?](/places/zhanqiao-pier/)
 - [May Fourth Square in Qingdao: Is It Worth Visiting on a First Trip?](/places/may-fourth-square/)
@@ -101,6 +103,8 @@ Two or three days is enough for most first visits. That gives enough room for wa
 ## Which page to read next
 
 - read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if the city is confirmed and you want the clearest shortlist before locking the days
+- read [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/) if the city is confirmed and the old-town architecture layer still feels too vague
+- read [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/) if the trip is happening in summer and the live question is whether the festival actually improves the stop
 - read [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/) if the city is confirmed and the next live question is how to use your limited seafood and beer meals well
 - read [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/) if the city is confirmed and the next live question is which district should carry the seafood dinner or snack block
 - read [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) if hotel area is the next decision
