@@ -56,6 +56,8 @@ Use this page if you are asking:
 
 If the broader park decision still is not settled, keep [Zhangjiajie National Forest Park: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-national-forest-park/) open too.
 
+If you found Zhangjiajie by searching for the `Avatar mountains in China` and still need the broader query-level answer before narrowing into Yuanjiajie itself, keep [Avatar Mountains in China: Where to Go in Zhangjiajie and What to Prioritize First](/guides/avatar-mountains-in-china-zhangjiajie-first-time-visitors/) open too.
+
 ## The short answer
 
 `Yuanjiajie` is usually worth it when:

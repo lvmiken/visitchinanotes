@@ -1083,6 +1083,7 @@ Build note:
 
 - On 2026-06-22, Astro `Duplicate id` warnings were confirmed to be stale generated-cache noise when recently edited content still existed in `.astro/data-store.json`.
 - Removing `.astro/data-store.json` and rerunning `npm run build` produced a clean build with no duplicate-id warnings.
+- On 2026-06-26, the same warning pattern reappeared while local Guilin / Yangshuo content was in progress; removing `.astro/data-store.json` again produced a clean build, confirming the warning still can be cache-only noise rather than a real source-file duplicate.
 - Do not treat those warnings as proof that two real source files exist unless a clean build still shows them.
 - If the warning returns only after recent edits, clear the generated `.astro` cache first before renaming or deleting content files.
 

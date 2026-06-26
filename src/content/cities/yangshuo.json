@@ -1,0 +1,36 @@
+{
+  "name": "Yangshuo",
+  "country": "China",
+  "intro": "Yangshuo fits travelers who want the slower, more atmospheric side of the Guilin karst region, with river scenery, easy evenings, and a stronger town-and-countryside rhythm than Guilin itself.",
+  "seoTitle": "Yangshuo Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Yangshuo with practical advice on whether it deserves an overnight, how it fits with Guilin, and what West Street and the Li River actually add.",
+  "idealFor": ["slower scenic overnights", "river-town travelers"],
+  "suggestedStay": "1 to 2 days",
+  "tripPace": "Best when travelers use Yangshuo as a selective overnight or slower scenic base, not as a place that needs constant attraction-chasing.",
+  "pairWith": ["Guilin", "Zhangjiajie", "Hong Kong"],
+  "bestMonths": ["April", "May", "September", "October"],
+  "highlights": [
+    "Adds a softer river-town and countryside texture that many first-time Guilin region trips otherwise miss.",
+    "Useful when readers want one overnight that feels scenic, walkable, and lighter than a bigger city stop.",
+    "Strongest when it is treated as an extension of the Guilin region, not a disconnected extra."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Yangshuo deserves a night",
+      "description": "A same-day pass-through and an overnight stay create very different versions of the region."
+    },
+    {
+      "title": "Use town atmosphere and scenery together",
+      "description": "Yangshuo works best when West Street, riverside pacing, and the scenic role fit the same stop."
+    },
+    {
+      "title": "Do not let the town crowd out the landscape",
+      "description": "The strongest first Yangshuo stop still protects the wider karst and river context."
+    }
+  ],
+  "transportNote": "Yangshuo is easiest when travelers already know whether they are arriving from a Li River cruise, direct transfer from Guilin, or a wider South China route that needs one scenic overnight.",
+  "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "featuredGuideSlugs": ["yangshuo-first-time-guide", "yangshuo-where-to-stay", "is-yangshuo-worth-an-overnight-for-first-time-visitors", "guilin-first-time-guide", "li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors"],
+  "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "high-speed-rail", "train-vs-flight"],
+  "featuredPlaceSlugs": ["yangshuo-west-street", "li-river"]
+}

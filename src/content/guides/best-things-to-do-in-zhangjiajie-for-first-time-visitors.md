@@ -49,6 +49,8 @@ Use this page if you are asking:
 
 If the bigger question still is whether the destination deserves more than a short route slot, start with [How Many Days Do You Need in Zhangjiajie for a First Trip?](/guides/zhangjiajie-how-many-days/).
 
+If you arrived here by searching for the `Avatar mountains in China`, keep [Avatar Mountains in China: Where to Go in Zhangjiajie and What to Prioritize First](/guides/avatar-mountains-in-china-zhangjiajie-first-time-visitors/) open too, because that narrower query usually needs Yuanjiajie and forest-park logic, not a whole-destination checklist first.
+
 If the live question still is which of the two biggest anchors should lead the trip, keep [Zhangjiajie National Forest Park or Tianmen Mountain for First-Time Visitors?](/guides/zhangjiajie-national-forest-park-or-tianmen-mountain-for-first-time-visitors/) open too.
 
 If the shortlist already is mostly clear and the next problem is how to keep the scenic days realistic, keep [Zhangjiajie First-Time Park Planning: Keep the Days Scenic, Not Frantic](/guides/zhangjiajie-first-time-park-planning/) open too.

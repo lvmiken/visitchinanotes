@@ -157,6 +157,10 @@ That is because you do not have tomorrow as a backup.
 
 In that situation, paying to protect a few core experiences can be a reasonable first-trip choice instead of a luxury mistake.
 
+If one of those core experiences is specifically `Zootopia`, the narrower strategy page is [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/).
+
+If the unresolved question is whether `Premier Access` is actually a better Zootopia buy than `Early Park Entry`, use [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/).
+
 ## When Disney Premier Access is often not worth it
 
 ## 1. You are flexible and not trying to maximize major rides
@@ -285,6 +289,8 @@ That rule gets most first-time visitors close to the right answer.
 ## Which page to read next
 
 - read [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) if you are still shaping the whole Disney day
+- read [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/) if Premier Access feels tempting mainly because Zootopia is one of the few priorities your group truly cares about
+- read [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/) if your real choice is between two add-ons rather than whether Premier Access is good in isolation
 - read [How to Use the Shanghai Disneyland App for First-Time Visitors](/guides/how-to-use-the-shanghai-disneyland-app-for-first-time-visitors/) if Premier Access looks likely and you want the app flow to feel smooth
 - read [Is Early Park Entry Worth It at Shanghai Disneyland?](/guides/is-early-park-entry-worth-it-at-shanghai-disneyland/) if you still need to decide whether the bigger problem is the opening hour or later queues
 - read [Best Shanghai Disneyland Rides for First-Time Visitors](/guides/best-shanghai-disneyland-rides-for-first-time-visitors/) if you still need to decide which rides are actually worth protecting with a paid queue-cutting product

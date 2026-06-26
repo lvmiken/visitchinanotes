@@ -168,6 +168,8 @@ If the missing part is not another monument but one slower old-Beijing layer, [B
 
 If the hutong layer already is clearly happening and the live question is whether one easy famous lane block belongs in it, the more focused companion page is [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/).
 
+If the live search starts even narrower from `Beijing hutong tour`, the cleaner query-level bridge page is [Beijing Hutong Tour for First-Time Visitors: What to Book, What to Walk, and What to Skip](/guides/beijing-hutong-tour-for-first-time-visitors/).
+
 If the arrival itself still feels fuzzy, go next to [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/). If the hotel base is the weak point, go straight to [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/).
 
 If the city still feels intimidating on the ground, the next two practical pages are usually [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) and [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/).

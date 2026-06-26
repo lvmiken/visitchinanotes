@@ -1,0 +1,36 @@
+{
+  "name": "Guilin",
+  "country": "China",
+  "intro": "Guilin works best for travelers who want one of China's clearest karst-landscape gateways, especially when the real goal is a Li River to Yangshuo scenic chapter rather than a dense city-only stop.",
+  "seoTitle": "Guilin Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Guilin with practical advice on route role, stay length, Li River priorities, and whether to continue onward to Yangshuo.",
+  "idealFor": ["scenic-route travelers", "karst landscape first-timers"],
+  "suggestedStay": "2 to 3 days",
+  "tripPace": "Best when travelers treat Guilin as a scenic gateway with one protected river or Yangshuo branch, not as a city that needs too many unrelated detours.",
+  "pairWith": ["Yangshuo", "Zhangjiajie", "Guangzhou"],
+  "bestMonths": ["April", "May", "September", "October"],
+  "highlights": [
+    "One of the clearest first-time China answers for classic river-and-karst scenery rather than skyline or museum days.",
+    "Useful when the wider route needs a softer natural chapter after bigger cities.",
+    "Strongest when readers understand that Guilin and Yangshuo usually work as one connected scenic cluster."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether the trip is really Guilin alone or Guilin plus Yangshuo",
+      "description": "Many first-time visitors say Guilin when they really mean the wider Li River and Yangshuo chapter."
+    },
+    {
+      "title": "Protect one real scenic anchor",
+      "description": "The strongest first trip usually protects the Li River or a fuller Yangshuo extension before adding smaller city filler."
+    },
+    {
+      "title": "Keep the stay short and intentional",
+      "description": "This cluster usually improves the route most as a focused scenic stop rather than a long attraction checklist."
+    }
+  ],
+  "transportNote": "Guilin becomes much easier when travelers decide early whether the stop is mainly city gateway logic, Li River cruise logic, or an onward Yangshuo base change.",
+  "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "featuredGuideSlugs": ["guilin-first-time-guide", "best-things-to-do-in-guilin-for-first-time-visitors", "guilin-where-to-stay", "how-many-days-in-guilin-for-first-time-visitors", "yangshuo-first-time-guide", "is-yangshuo-worth-an-overnight-for-first-time-visitors", "li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors"],
+  "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "high-speed-rail", "train-vs-flight"],
+  "featuredPlaceSlugs": ["li-river"]
+}

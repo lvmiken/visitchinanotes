@@ -55,6 +55,8 @@ Use this page if you are asking:
 
 If the broader slower-day question is still unsettled, keep [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) and [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) open too.
 
+If the live question is not only whether Shichahai fits the day but whether this should become a paid or rickshaw-style `Beijing hutong tour`, keep [Beijing Hutong Tour for First-Time Visitors: What to Book, What to Walk, and What to Skip](/guides/beijing-hutong-tour-for-first-time-visitors/) open too.
+
 ## The short answer
 
 Shichahai is usually worth it when:

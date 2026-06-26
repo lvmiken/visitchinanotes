@@ -45,6 +45,8 @@ Use this page if you are asking:
 - should I use them for half a day or a whole slower day?
 - how do I stop hutong time from becoming vague or disappointing?
 
+If your live query is more specific and transactional — `should I book a Beijing hutong tour or just walk on my own?` — keep [Beijing Hutong Tour for First-Time Visitors: What to Book, What to Walk, and What to Skip](/guides/beijing-hutong-tour-for-first-time-visitors/) open too.
+
 If the wider question is still whether Beijing needs a slower neighborhood day at all, start with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/). If the real decision is what to eat along that day, keep [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) or [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) open too. If the day should start with one specific old-Beijing snack stop, [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) is the cleaner companion page.
 
 ## The short answer

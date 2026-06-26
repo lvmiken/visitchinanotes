@@ -49,6 +49,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the main question now is which Chengdu experiences truly deserve limited trip time
 - [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) if the city is chosen and the live question is whether one museum really improves the route
 - [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the city's main attraction is already chosen and the live question is how to make that panda morning go smoothly
+- [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) if the panda query is really about finding a closer or more meaningful official experience than a standard walk-through
 - [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning itself is already clear and the real question is how to use the rest of that day well
 - [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/) if the panda morning is already fixed and the live question is whether the safest central default is the smartest same-day answer
 - [Should You Go to People's Park After Chengdu Panda Base?](/guides/should-you-go-to-peoples-park-after-chengdu-panda-base/) if the panda morning is already fixed and the live question is whether the day still needs one classic tea-house block
@@ -116,6 +117,8 @@ That is a more useful first-trip structure than trying to squeeze every famous o
 If you want to visit the panda base, check opening hours and travel time before stacking other plans around it.
 
 If the panda visit already is confirmed and the real question now is ticket timing, gate choice, and how to stop the day from becoming too rushed, use [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/).
+
+If the live query is not the normal visit but `can we volunteer with pandas?`, use [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) before building the day around an experience that the official program usually does not offer to short-stay visitors.
 
 The biggest route mistake is to let one fixed attraction turn the whole stay into an overbuilt day with no room left for the part of Chengdu people actually enjoy most: meals, evening rhythm, lower-pressure wandering, and one selective culture block.
 
@@ -216,6 +219,7 @@ If the city already feels chosen and the live question is how to keep the trip g
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if Chengdu is chosen and you want a cleaner shortlist before placing the days
 - read [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) if Chengdu is chosen and the live question is whether one museum deserves a place at all
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the shortlist is mostly clear and the panda morning is the part that still needs practical execution
+- read [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) if the panda search intent is less about simple sightseeing and more about a deeper or more educational experience
 - read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning itself is clear and the next execution question is what the afternoon and evening should become
 - read [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/) if the next execution question has narrowed specifically to whether the safest central default should carry the panda afternoon
 - read [Should You Go to People's Park After Chengdu Panda Base?](/guides/should-you-go-to-peoples-park-after-chengdu-panda-base/) if the next execution question has narrowed specifically to whether the panda afternoon should become a classic tea-house block

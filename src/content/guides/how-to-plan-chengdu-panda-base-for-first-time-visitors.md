@@ -43,6 +43,8 @@ This guide was checked against the official Chengdu Research Base of Giant Panda
 
 If your bigger question is still whether the panda base deserves one of your best Chengdu time blocks at all, keep [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) open too.
 
+If the live search is actually `can I volunteer with pandas in Chengdu?`, the sharper companion page is [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/), because the official volunteer route is much more formal than the average short-stay visitor expects.
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -253,6 +255,7 @@ That means families and hot-weather travelers should plan a little more delibera
 ## Which page to read next
 
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you are still deciding how much of Chengdu should be built around the panda base versus food or neighborhood time
+- read [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) if the real question is whether there is a closer or more educational panda option than the standard visit
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the panda morning is chosen and the next step is placing it inside a real route
 - read [Best Time to Visit Chengdu for First-Time Visitors](/guides/best-time-to-visit-chengdu-for-first-time-visitors/) if the last big uncertainty is whether heat, rain, or cooler mornings change how worthwhile the panda day feels
 - read [What to Book in Advance for Chengdu: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chengdu/) if the panda ticket is only one part of the wider Chengdu reservation puzzle

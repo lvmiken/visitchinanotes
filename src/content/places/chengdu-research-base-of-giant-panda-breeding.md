@@ -57,6 +57,8 @@ Use this page if you are asking:
 
 If the worth-it question already is settled and the live problem now is tickets, gate choice, shuttle logic, or morning strategy, go straight to [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/).
 
+If the live search is not really `is the panda base worth it?` but `can I volunteer with pandas in Chengdu?`, the better fit is [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/), because the official volunteer route is much more formal than most short visitors expect.
+
 ## The short answer
 
 The panda base is usually worth it when:
@@ -153,6 +155,7 @@ That said, many first-time visitors who think they are only mildly interested st
 ## Which page to read next
 
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the worth-it question is settled and the live problem is execution
+- read [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) if the real search intent is a closer or more meaningful panda experience rather than the normal visit itself
 - read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning is winning and the next question is how to use the rest of the day
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the panda base is happening but the rest of the city still needs a sharper shortlist
 - read [People's Park in Chengdu: Is It Worth Visiting on a First Trip?](/places/peoples-park-chengdu/) if the day needs a softer follow-on instead of another formal attraction

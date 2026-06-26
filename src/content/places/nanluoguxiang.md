@@ -65,6 +65,8 @@ Use this page if you are asking:
 
 If the broader hutong question still is open, keep [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) open too.
 
+If you are not deciding about Nanluoguxiang alone but about whether to book a broader `Beijing hutong tour` versus using one easy self-guided hutong stop, keep [Beijing Hutong Tour for First-Time Visitors: What to Book, What to Walk, and What to Skip](/guides/beijing-hutong-tour-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, `Nanluoguxiang` is worth it when you want one easy, famous, low-ambiguity hutong block.

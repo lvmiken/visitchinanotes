@@ -35,6 +35,8 @@ The easiest mistake in Zhangjiajie is to plan it like a dense city itinerary ins
 
 If the live question still is not only how to pace the stop but what really deserves the best time in the first place, start with [Best Things to Do in Zhangjiajie for First-Time Visitors](/guides/best-things-to-do-in-zhangjiajie-for-first-time-visitors/).
 
+If you are here because the trip started from an `Avatar mountains in China` search and the live question is what area that query really points to, start with [Avatar Mountains in China: Where to Go in Zhangjiajie and What to Prioritize First](/guides/avatar-mountains-in-china-zhangjiajie-first-time-visitors/).
+
 If the route already is confirmed but the live practical question now is how to arrive smoothly or move between downtown Zhangjiajie and Wulingyuan without wasting energy, start with [How to Get From Zhangjiajie Airport or West Station to the City and Wulingyuan](/guides/zhangjiajie-airport-or-west-station-to-city-and-wulingyuan/) and [How to Get Around Zhangjiajie for First-Time Visitors](/guides/how-to-get-around-zhangjiajie-for-first-time-visitors/).
 
 If the route already is confirmed and the live question now is where to base yourself for the smoothest version of the trip, start with [Best Area to Stay in Zhangjiajie for First-Time Visitors](/guides/zhangjiajie-where-to-stay/).

@@ -1,0 +1,36 @@
+{
+  "name": "Harbin",
+  "country": "China",
+  "intro": "Harbin works best for travelers who want one high-impact winter city chapter, especially when the real goal is ice-festival spectacle, snowy evening atmosphere, and a colder northeast-China contrast to the country's better-known first-trip routes.",
+  "seoTitle": "Harbin Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Harbin with practical advice on winter timing, where to stay, what actually matters beyond the ice festival, and how to keep the city worth the cold.",
+  "idealFor": ["winter city trips", "seasonal spectacle travelers"],
+  "suggestedStay": "2 to 3 days",
+  "tripPace": "Best when travelers treat Harbin as a focused winter chapter built around one signature night, one central-city day, and realistic cold-weather pacing.",
+  "pairWith": ["Beijing", "Shanghai"],
+  "bestMonths": ["December", "January", "February"],
+  "highlights": [
+    "One of China's clearest winter-specific city answers, with a visual identity that feels very different from the country's major year-round first-trip cities.",
+    "Strongest when the route wants ice-and-snow spectacle together with a walkable central district and visible Russian-influenced urban character.",
+    "Works better as a selective cold-season chapter than as a generic all-season city break."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether the trip is really winter-led",
+      "description": "Harbin becomes much more defensible when the route truly wants a cold-weather city chapter rather than simply one more city name."
+    },
+    {
+      "title": "Protect one real after-dark anchor",
+      "description": "The strongest first Harbin version usually protects one major winter evening instead of scattering energy across too many cold outdoor sessions."
+    },
+    {
+      "title": "Keep the hotel base practical",
+      "description": "A central base usually does more for a short Harbin stay than chasing a hotel that only looks closer to one winter venue on paper."
+    }
+  ],
+  "transportNote": "Harbin becomes much easier when travelers decide early whether the city is mainly a Central Street base with one Ice and Snow World branch, or a heavier winter-venue stop that needs a more deliberate cold-weather plan.",
+  "homepageGroups": ["north-inland-routes"],
+  "featuredGuideSlugs": ["harbin-first-time-guide", "harbin-ice-festival-for-first-time-visitors", "best-things-to-do-in-harbin-for-first-time-visitors", "harbin-where-to-stay"],
+  "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "high-speed-rail", "what-to-wear-in-china"],
+  "featuredPlaceSlugs": ["harbin-ice-and-snow-world", "zhongyang-street", "saint-sophia-cathedral"]
+}

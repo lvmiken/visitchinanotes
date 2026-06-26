@@ -164,6 +164,12 @@ Why it is not automatic for every young child:
 
 So this is usually best for children who already enjoy busier dark rides, not as the default first ride of the day for a cautious toddler.
 
+If your family's bigger planning question is whether `Zootopia` should shape the whole Disney day rather than just whether this ride fits your child, read [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/).
+
+If the narrower concern is whether `Zootopia: Hot Pursuit` itself will feel fun, dark, or too intense for one cautious child, use [Zootopia: Hot Pursuit With Young Kids: Fun, Dark, or Too Much?](/guides/zootopia-hot-pursuit-with-young-kids/).
+
+If the family already knows Zootopia matters and now needs a better `first 2 to 4 hours` plan, use [How to Build a Shanghai Disneyland Morning When Zootopia Matters Most](/guides/how-to-build-a-shanghai-disneyland-morning-when-zootopia-matters-most/).
+
 ## What usually works better than headline thrills
 
 With young kids, many families get more value from this type of ride mix:
@@ -291,6 +297,9 @@ Related decision pages:
 ## Which page to read next
 
 - read [Best Shanghai Disneyland Rides for First-Time Visitors](/guides/best-shanghai-disneyland-rides-for-first-time-visitors/) if you want the broader ride shortlist behind this younger-child version
+- read [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/) if the emotional center of the family day is Zootopia and you need the broader strategy answer
+- read [Zootopia: Hot Pursuit With Young Kids: Fun, Dark, or Too Much?](/guides/zootopia-hot-pursuit-with-young-kids/) if your next real question is ride suitability for one specific younger child
+- read [How to Build a Shanghai Disneyland Morning When Zootopia Matters Most](/guides/how-to-build-a-shanghai-disneyland-morning-when-zootopia-matters-most/) if your next real question is how to sequence the first hours once Zootopia is already part of the family plan
 - read [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) if the next live question is turning those young-kid priorities into a full workable day
 - read [What to Pack for Shanghai Disneyland for First-Time Visitors](/guides/what-to-pack-for-shanghai-disneyland-for-first-time-visitors/) if your next live problem is stroller gear, snacks, passport carry, or what should actually go in the bag
 - read [How to Use the Shanghai Disneyland App for First-Time Visitors](/guides/how-to-use-the-shanghai-disneyland-app-for-first-time-visitors/) if the young-kid plan is clear and the next issue is maps, wait times, or app-based purchase flow

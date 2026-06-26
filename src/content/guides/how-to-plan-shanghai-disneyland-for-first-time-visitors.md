@@ -217,6 +217,12 @@ That means many first-time visitors do better by choosing:
 
 instead of trying to optimize every attraction equally.
 
+If your real question is no longer just `which rides matter?` but whether `Zootopia` should shape the whole day's strategy, read [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/).
+
+If the live problem is more specific than that, the next two narrower Zootopia pages are [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/) and [Zootopia: Hot Pursuit With Young Kids: Fun, Dark, or Too Much?](/guides/zootopia-hot-pursuit-with-young-kids/).
+
+If the bigger choice is already made and the next live problem is `what should the first hours actually look like?`, use [How to Build a Shanghai Disneyland Morning When Zootopia Matters Most](/guides/how-to-build-a-shanghai-disneyland-morning-when-zootopia-matters-most/).
+
 If the next live question is not the overall day shape but which rides are actually worth protecting first, read [Best Shanghai Disneyland Rides for First-Time Visitors](/guides/best-shanghai-disneyland-rides-for-first-time-visitors/).
 
 ## Who gets the most value from Shanghai Disneyland?
@@ -275,6 +281,10 @@ If the day is specifically for toddlers, preschoolers, or younger children, the 
 - read [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) if the next live problem is the official booking path, passport details, or ticket type
 - read [How to Use the Shanghai Disneyland App for First-Time Visitors](/guides/how-to-use-the-shanghai-disneyland-app-for-first-time-visitors/) if the tickets are mostly solved and the next blocker is app setup, linked tickets, wait-time checks, or same-day Disney tools
 - read [Best Shanghai Disneyland Rides for First-Time Visitors](/guides/best-shanghai-disneyland-rides-for-first-time-visitors/) if the next live problem is deciding which rides actually deserve your time, your first-hour strategy, or your paid add-ons
+- read [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/) if the bigger decision is whether Zootopia should act like one nice land or one of the day's main planning anchors
+- read [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/) if the main purchase decision is which add-on actually fits a Zootopia-led day
+- read [Zootopia: Hot Pursuit With Young Kids: Fun, Dark, or Too Much?](/guides/zootopia-hot-pursuit-with-young-kids/) if your family mainly needs a ride-suitability answer before locking the park route
+- read [How to Build a Shanghai Disneyland Morning When Zootopia Matters Most](/guides/how-to-build-a-shanghai-disneyland-morning-when-zootopia-matters-most/) if the day-level choice is done and the next blocker is how to sequence the first `2 to 4 hours`
 - read [Is Early Park Entry Worth It at Shanghai Disneyland?](/guides/is-early-park-entry-worth-it-at-shanghai-disneyland/) if the next live decision is whether one earlier hour really improves your park day enough to justify the add-on
 - read [Is Disney Premier Access Worth It at Shanghai Disneyland?](/guides/is-disney-premier-access-worth-it-at-shanghai-disneyland/) if the next live decision is whether paid queue-cutting really solves enough of your day's pressure to justify the extra spend
 - read [What to Pack for Shanghai Disneyland for First-Time Visitors](/guides/what-to-pack-for-shanghai-disneyland-for-first-time-visitors/) if the next practical question is bag size, passport carry, snacks, or what should actually enter the park

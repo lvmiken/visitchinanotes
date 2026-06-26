@@ -203,6 +203,8 @@ This is one reason the app setup should happen early, before the park day become
 
 If the app flow itself looks manageable and the real question is now whether Premier Access is actually worth paying for, the narrower decision page is [Is Disney Premier Access Worth It at Shanghai Disneyland?](/guides/is-disney-premier-access-worth-it-at-shanghai-disneyland/).
 
+If that paid-add-on question exists mainly because `Zootopia` is the ride your group most wants to protect, go next to [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/).
+
 ## Step 7: If you buy Early Park Entry, know where to find it
 
 Shanghai Disney's official Early Park Entry page currently says guests can log in to the official app with their purchase account, select `Plans`, locate the Early Park Entry Pass QR code, and present it.
@@ -266,6 +268,7 @@ Use it together with:
 
 - read [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) if the app is mostly solved and the next live question is how to shape the whole Disney day
 - read [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) if ticket channel, passport details, or purchase flow still are not secure
+- read [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/) if app setup is clear and the next live choice is which add-on actually fits a Zootopia-led park day
 - read [Is Early Park Entry Worth It at Shanghai Disneyland?](/guides/is-early-park-entry-worth-it-at-shanghai-disneyland/) if the app setup is clear and the next live decision is whether the earlier hour is really worth paying for
 - read [Is Disney Premier Access Worth It at Shanghai Disneyland?](/guides/is-disney-premier-access-worth-it-at-shanghai-disneyland/) if the app setup is clear and the next live decision is whether paid queue-cutting really fits your trip style
 - read [What to Pack for Shanghai Disneyland for First-Time Visitors](/guides/what-to-pack-for-shanghai-disneyland-for-first-time-visitors/) if app setup is clear and the next question is what should actually enter the park bag

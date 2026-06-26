@@ -24,6 +24,7 @@ relatedTopicSlugs:
   - "plan-your-trip"
 relatedGuideSlugs:
   - "how-to-plan-shanghai-disneyland-for-first-time-visitors"
+  - "shanghai-disneyland-for-zootopia-fans"
   - "best-time-to-visit-shanghai-disneyland-for-first-time-visitors"
   - "where-to-stay-near-shanghai-disneyland-vs-central-shanghai"
   - "best-things-to-do-in-shanghai-with-kids"
@@ -56,6 +57,8 @@ Use this page if you are asking:
 - when is another central-city day actually the smarter choice?
 
 If the live problem already is how to run the Disney day well, go straight to [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/).
+
+If the park is happening mainly because of `Zootopia`, the narrower next page is [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/).
 
 ## The short answer
 
@@ -183,6 +186,7 @@ The problem usually is not the park itself. The problem usually is route shape.
 ## Which page to read next
 
 - read [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) if the park is happening and the live question is how to run the day well
+- read [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/) if the real question is how much the new land should shape the entire Disney day
 - read [Best Time to Visit Shanghai Disneyland for First-Time Visitors](/guides/best-time-to-visit-shanghai-disneyland-for-first-time-visitors/) if the park is happening but the date choice still is flexible
 - read [Should You Stay Near Shanghai Disneyland or in Central Shanghai?](/guides/where-to-stay-near-shanghai-disneyland-vs-central-shanghai/) if the Disney day looks worth it but the hotel logic still is unsettled
 - read [Best Things to Do in Shanghai With Kids](/guides/best-things-to-do-in-shanghai-with-kids/) if you are still deciding how important Disney should be inside a broader family Shanghai trip

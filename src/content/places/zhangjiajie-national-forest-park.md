@@ -56,6 +56,8 @@ Use this page if you are asking:
 
 If the broader trip-length decision still is open, keep [How Many Days Do You Need in Zhangjiajie for a First Trip?](/guides/zhangjiajie-how-many-days/) open too.
 
+If the route started from the specific `Avatar mountains in China` search and you still need the clearest query-level explanation of where that scenery actually sits inside Zhangjiajie, keep [Avatar Mountains in China: Where to Go in Zhangjiajie and What to Prioritize First](/guides/avatar-mountains-in-china-zhangjiajie-first-time-visitors/) open too.
+
 ## The short answer
 
 `Zhangjiajie National Forest Park` is usually worth it when:

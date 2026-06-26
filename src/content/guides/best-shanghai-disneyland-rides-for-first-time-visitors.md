@@ -146,6 +146,10 @@ Why it matters so much:
 
 If Zootopia matters emotionally to your group, this usually is not a side priority.
 
+If the real question is not only `is Hot Pursuit a good ride?` but `how much should Zootopia shape the whole day?`, use [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/).
+
+If your question is either `is this too intense for my child?` or `which paid add-on actually helps if Zootopia is the priority?`, the next pages are [Zootopia: Hot Pursuit With Young Kids: Fun, Dark, or Too Much?](/guides/zootopia-hot-pursuit-with-young-kids/) and [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/).
+
 ## 5. Seven Dwarfs Mine Train
 
 This is often a strong middle ground for groups that want something more exciting than a pure dark ride without going full TRON.
@@ -269,6 +273,9 @@ That formula usually makes the day feel fuller and less frantic.
 ## Which page to read next
 
 - read [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) if you now need to turn those ride priorities into a workable full day
+- read [Shanghai Disneyland for Zootopia Fans: What a First Visit Should Prioritize](/guides/shanghai-disneyland-for-zootopia-fans/) if one ride list item is starting to become a bigger whole-day strategy question
+- read [Zootopia: Hot Pursuit With Young Kids: Fun, Dark, or Too Much?](/guides/zootopia-hot-pursuit-with-young-kids/) if your live question is family ride fit rather than the broader shortlist
+- read [If Zootopia Is the Priority, Buy Early Entry or Premier Access?](/guides/if-zootopia-is-the-priority-early-entry-or-premier-access/) if your next move is choosing the right add-on for one emotionally important ride
 - read [What to Do at Shanghai Disneyland With Young Kids](/guides/what-to-do-at-shanghai-disneyland-with-young-kids/) if the group includes younger children and you want the slower, more age-appropriate version of this shortlist
 - read [Is Disney Premier Access Worth It at Shanghai Disneyland?](/guides/is-disney-premier-access-worth-it-at-shanghai-disneyland/) if the next live question is whether paying to protect one or two of these rides makes sense
 - read [Is Early Park Entry Worth It at Shanghai Disneyland?](/guides/is-early-park-entry-worth-it-at-shanghai-disneyland/) if the next live decision is whether the first hour should be used to protect your headline ride shortlist
