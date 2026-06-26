@@ -101,6 +101,7 @@ In practice, Great Wall planning often matters more than just the entry itself.
 Use:
 
 - [Mutianyu Great Wall for First-Time Visitors](/places/mutianyu-great-wall/)
+- [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/)
 - [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/)
 
 ## 3. Hotel during busy periods
@@ -222,6 +223,8 @@ That order is usually much healthier than prebooking half the city.
 - read [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) if the Palace Museum is the real blocker
 - read [What to Book in Advance for Beijing With Kids](/guides/what-to-book-in-advance-for-beijing-with-kids/) if family pace and child energy change what should or should not be reserved
 - read [Mutianyu Great Wall for First-Time Visitors](/places/mutianyu-great-wall/) if the next fragile piece is the Wall day
+- read [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/) if the booking question is still tangled up with the section choice itself
+- read [Tiananmen Square for Foreign Visitors: Reservation, Security Check, and Flag-Raising Reality](/guides/tiananmen-square-for-foreign-visitors-reservation-security-check-and-flag-raising-reality/) if the central-Beijing stress is more about access friction than about ticket quotas
 - read [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) if the hotel base still is not fixed
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if the booking question is really tied to how the city days move
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place these bookings into a real day order

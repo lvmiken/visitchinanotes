@@ -298,6 +298,7 @@ The strongest Hongyadong visits usually come from using it deliberately, not fro
 
 ## Which page to read next
 
+- read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the evening is happening and the real question now is where the best classic shot actually comes from
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the real decision still is Hongyadong versus a cruise versus Nanbin Road
 - read [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if you still are deciding whether Hongyadong deserves one of your core Chongqing slots at all
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if the answer already is yes and the live question now is where to place the Hongyadong evening

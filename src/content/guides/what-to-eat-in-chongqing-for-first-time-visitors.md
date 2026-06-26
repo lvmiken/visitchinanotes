@@ -130,6 +130,8 @@ If the live question is no longer whether hot pot matters, but how to choose the
 
 If the live question is no longer whether hot pot matters, but which restaurant style or district version fits the trip best, the narrower next page is [Best Chongqing Hot Pot for First-Time Visitors](/guides/best-chongqing-hotpot-for-first-time-visitors/).
 
+If the restaurant style already feels fairly clear and the live question is whether the underground cave-or-bomb-shelter version is actually worth doing, the narrower next page is [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/).
+
 ## 2. Xiaomian
 
 If hot pot is the protected Chongqing dinner, **xiaomian** is often the most useful everyday food win.
@@ -267,6 +269,7 @@ That already gives a fuller picture of Chongqing than making every meal equally 
 - read [What Food Souvenirs to Buy in Chongqing for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-chongqing-for-first-time-visitors/) if the next decision is which Chongqing food actually travels well enough to be worth taking to the next city or home
 - read [Best Chongqing Grilled Fish for First-Time Visitors](/guides/best-chongqing-grilled-fish-for-first-time-visitors/) if the next decision is which fuller second signature dinner actually deserves the grilled-fish slot
 - read [Best Chongqing Hot Pot for First-Time Visitors](/guides/best-chongqing-hotpot-for-first-time-visitors/) if the meal is already chosen and the real question is which kind of Chongqing hot pot room fits the trip best
+- read [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/) if the hot-pot dinner already sounds right and the remaining question is whether the underground version adds real value or just extra effort
 - read [How to Order Chongqing Hot Pot for First-Time Visitors](/guides/how-to-order-chongqing-hot-pot-for-first-time-visitors/) if the meal is already chosen and the real question is how to order hot pot well without overdoing the spice or the menu
 - read [How to Get Around Chinese Cities: Metro, Taxi, or Didi?](/topics/metro-taxi-ridehailing/) if the real question is whether Chongqing's hills and movement will make dinner plans more annoying than they look
 - read [Best First City to Visit in China: Beijing, Shanghai, Chengdu, or Xi'an?](/topics/where-to-start/) if Chongqing still is competing with easier first-stop cities

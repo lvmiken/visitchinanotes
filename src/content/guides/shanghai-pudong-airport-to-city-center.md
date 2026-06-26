@@ -209,5 +209,6 @@ Airport bus is only great when the route matches your destination well. If you s
 ## Which page to read next
 
 - read [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) if you are still comparing Pudong and Hongqiao
+- read [Shanghai Maglev or Metro? The Smarter Pudong Airport Choice for First-Time Visitors](/guides/shanghai-maglev-or-metro-the-smarter-pudong-airport-choice-for-first-time-visitors/) if the whole arrival is already narrowing to the rail-versus-rail decision
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your answer
 - read [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) if the hotel base itself is still unsettled

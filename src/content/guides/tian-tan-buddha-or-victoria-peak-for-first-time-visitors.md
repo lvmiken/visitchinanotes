@@ -1,5 +1,5 @@
 ---
-title: "Tian Tan Buddha or Victoria Peak: Which Hong Kong Detour Is Better for First-Time Visitors?"
+title: "Tian Tan Buddha or Victoria Peak? The Better Hong Kong Detour for a First Trip"
 description: "Compare Tian Tan Buddha and Victoria Peak so first-time Hong Kong visitors can choose between a calmer Lantau branch and the city's strongest panoramic skyline payoff."
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
@@ -116,7 +116,7 @@ It is often weaker only when:
 
 ## Choose Tian Tan Buddha if the trip needs contrast, not one more skyline angle
 
-Choose [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) if:
+Choose [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) if:
 
 - the trip already has one good harbour or skyline answer
 - you want Hong Kong to feel broader than only dense urban districts
@@ -190,7 +190,7 @@ The right answer is often neither when:
 
 In those cases, a stronger answer is often:
 
-- [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/)
+- [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/)
 - [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/)
 - or a better district-led evening
 
@@ -204,6 +204,7 @@ In those cases, a stronger answer is often:
 ## Which page to read next
 
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the skyline branch is already starting to win
-- read [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) if the calmer Lantau branch is already starting to win
-- read [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/) if the Lantau question is really about the ride and route shape
+- read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) if the calmer Lantau branch is already starting to win
+- read [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the Lantau question is really about the ride and route shape
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if the deeper question is whether the stay has room for either branch
+

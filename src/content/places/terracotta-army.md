@@ -76,6 +76,8 @@ It does not mean every visitor must obsess over it. It does mean that if it matt
 
 If the site already feels like a yes, but the excursion day itself still feels loose, pair this page with [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/).
 
+If the value question already is settled and the live question now is how to use the museum's main payoff hall without letting the visit get blurry, the sharper child page is [Terracotta Army Pit 1: How to See the Main Hall Without Losing the Day](/guides/terracotta-army-pit-1-how-to-see-the-main-hall-without-losing-the-day/).
+
 ## What you are really saying yes to
 
 One reason this page deserves a firmer answer is that the Terracotta Army is not a tiny single-hall stop.
@@ -251,6 +253,7 @@ If the city-side choice still feels fuzzy, the most useful supporting pages are 
 - read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if the city is chosen and you still want a clearer priority order around this excursion
 - read [Is the Terracotta Army Worth It With Kids?](/guides/is-terracotta-army-worth-it-with-kids/) if the real decision is whether this outing still is the right family anchor by age, energy, and day shape
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if you want the excursion day to stay realistic
+- read [Terracotta Army Pit 1: How to See the Main Hall Without Losing the Day](/guides/terracotta-army-pit-1-how-to-see-the-main-hall-without-losing-the-day/) if the bigger decision already is yes and the live question now is how to make the museum's main hall actually land
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing this excursion into a short stay
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the outing already is a yes and the real question is how to use the rest of a fuller Xi'an stay
 - read [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if the temptation to build a fuller Lintong-side day still feels strong

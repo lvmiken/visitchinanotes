@@ -46,6 +46,8 @@ This page was checked against current English-language city-backed or official s
 
 If the bigger food structure is still open, start first with [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) and [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/).
 
+If the broader hot-pot logic already feels clear and the live question now is whether the famous underground `bomb shelter` version deserves one of your limited dinners, the sharper child page is [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/).
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -275,5 +277,6 @@ Choose **Dezhuang** if your real sentence sounds like:
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the meal shortlist still needs a clearer order
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the main decision is still which district should carry the hot pot night
 - read [How to Order Chongqing Hot Pot for First-Time Visitors](/guides/how-to-order-chongqing-hot-pot-for-first-time-visitors/) if the restaurant style is decided and the next practical problem is broth, dish mix, and spice control
+- read [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/) if the restaurant style already feels roughly clear and the live question now is whether underground atmosphere actually improves the night
 - read [Where to Eat in Jiefangbei for First-Time Visitors](/guides/where-to-eat-in-jiefangbei-for-first-time-visitors/) if the hot pot night must stay central and easy
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the hot pot night should sit in the stronger all-around dinner district

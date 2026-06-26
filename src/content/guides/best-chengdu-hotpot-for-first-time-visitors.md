@@ -50,6 +50,8 @@ If the broader food structure already is clear and the real question is which no
 
 If the real question already is not whether the spicy dinner should happen but whether that dinner should stay a bigger headline hot-pot night or become a lighter, more flexible skewer meal, the matching page is [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/).
 
+If the restaurant choice already is mostly clear and the live question now is how to order the meal without turning dinner into a macho test, the sharper child page is [How to Order Chengdu Hot Pot Without Turning Dinner Into a Dare](/guides/how-to-order-chengdu-hot-pot-without-turning-dinner-into-a-dare/).
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -280,6 +282,7 @@ Choose **Haidilao** if your real sentence sounds like:
 
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) if the meal shortlist still needs a clearer order
 - read [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/) if the spicy-dinner decision has narrowed to whether a lighter, more flexible skewer night fits better than hot pot
+- read [How to Order Chengdu Hot Pot Without Turning Dinner Into a Dare](/guides/how-to-order-chengdu-hot-pot-without-turning-dinner-into-a-dare/) if the restaurant style now feels clear but the table still does not know how bold the broth, sauce, and ingredient order should be
 - read [Best Chengdu Restaurants for First-Time Visitors](/guides/best-chengdu-restaurants-for-first-time-visitors/) if the hot pot night is chosen and the next question is how to pick the other important meals
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the main decision is still which district should carry the hot pot night
 - read [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) if the hot pot night must stay central and easy

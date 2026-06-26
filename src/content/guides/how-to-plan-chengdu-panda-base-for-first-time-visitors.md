@@ -220,6 +220,8 @@ If the real question now is not the panda morning itself but which of those easi
 
 If the real question now already has narrowed specifically to whether the quieter temple-and-tea branch deserves the same afternoon, the narrower next page is [Should You Go to Wenshu Monastery After Chengdu Panda Base?](/guides/should-you-go-to-wenshu-monastery-after-chengdu-panda-base/).
 
+If the real question now is not the whole base but how to improve your odds of seeing `He Hua` specifically, the narrower next page is [How to Actually See Panda He Hua at Chengdu Panda Base](/guides/how-to-actually-see-panda-he-hua-at-chengdu-panda-base/).
+
 ## How much time should you allow?
 
 For most first-time visitors, the practical answer is:
@@ -255,6 +257,7 @@ That means families and hot-weather travelers should plan a little more delibera
 ## Which page to read next
 
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you are still deciding how much of Chengdu should be built around the panda base versus food or neighborhood time
+- read [How to Actually See Panda He Hua at Chengdu Panda Base](/guides/how-to-actually-see-panda-he-hua-at-chengdu-panda-base/) if your panda plan is really a He Hua plan and needs a more specific strategy
 - read [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) if the real question is whether there is a closer or more educational panda option than the standard visit
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the panda morning is chosen and the next step is placing it inside a real route
 - read [Best Time to Visit Chengdu for First-Time Visitors](/guides/best-time-to-visit-chengdu-for-first-time-visitors/) if the last big uncertainty is whether heat, rain, or cooler mornings change how worthwhile the panda day feels

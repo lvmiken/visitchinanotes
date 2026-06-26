@@ -233,6 +233,8 @@ If Shanghai is also your landing city, start with [Shanghai Airport to City for 
 
 If the city itself already feels chosen but the next practical worry is "Will getting around actually be easy?", the next page is [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/). That page is where the Shanghai cluster now turns broad city confidence into actual day-to-day movement logic.
 
+If the route itself is being shaped by a long layover or onward flight logic rather than a normal open-ended city break, the cleaner bridge page is [Shanghai Stopover Guide: Using China's 240-Hour Visa-Free Transit Well](/guides/shanghai-240-hour-visa-free-transit-for-first-time-visitors/).
+
 ## What usually makes Shanghai feel weaker than it should
 
 Shanghai usually disappoints first-time visitors when:
@@ -262,6 +264,7 @@ The fix is usually not "add more attractions." It is "use the city for the kind 
 - read [Best Time to Visit Shanghai for First-Time Visitors](/guides/best-time-to-visit-shanghai-for-first-time-visitors/) if dates are still flexible and season choice may change how the stop should work
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the city is chosen and the next problem is protecting the right bookings without overplanning
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the city is chosen and the next practical question is how to move around it without friction
+- read [Shanghai Stopover Guide: Using China's 240-Hour Visa-Free Transit Well](/guides/shanghai-240-hour-visa-free-transit-for-first-time-visitors/) if Shanghai looks right but the live question is whether a transit-based stop still gives the city enough room to feel real
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if the dates are already fixed and you want a weather-proof backup before arriving
 - read [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) if the next route choice is whether the nearby classical-garden city should stay a day trip or become a real second stop
 - read [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/) if the next route choice is whether the nearby historical city deserves one fast look or a proper overnight

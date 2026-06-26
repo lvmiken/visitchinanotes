@@ -45,6 +45,8 @@ If entry rules affect your plans, they may also affect:
 - how long the trip can be
 - whether certain bookings should wait
 
+If the live question already is narrower than `Do I need a visa?` and has become `Can I use China's current stopover policy for this route?`, go straight to [China's 240-Hour Visa-Free Transit, Clearly Explained: Eligibility, Routing, and Common Mistakes](/topics/china-240-hour-visa-free-transit/). Many travelers still search the older `144-hour` phrase, but the current planning question usually is the 240-hour version.
+
 ## Keep the rest of the route flexible until this is clear
 
 Once visa assumptions are settled, it becomes much easier to judge flights, hotel timing, and whether the route still feels realistic.

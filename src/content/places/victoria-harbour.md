@@ -1,6 +1,6 @@
 ---
-title: "Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night"
-description: "Use this Victoria Harbour guide to decide how much the harbour should shape a first Hong Kong trip, which skyline format fits best, and when another waterfront repeat stops helping."
+title: "Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits"
+description: "Plan a better first skyline night in Hong Kong by deciding how much Victoria Harbour should anchor the trip, which viewing format fits best, and when repeating the waterfront stops helping."
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
 city: "hong-kong"
@@ -209,7 +209,8 @@ That is often where `Central`, `Wan Chai`, `Temple Street`, or a calmer cultural
 ## Which page to read next
 
 - read [Avenue of Stars](/places/avenue-of-stars/) if the main question is whether the easiest harbourfront version is enough
-- read [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) if the live question is whether one crossing should replace another promenade stretch
+- read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the live question is whether one crossing should replace another promenade stretch
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the live skyline choice is waterfront versus panorama
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the broader evening structure still matters more than the harbour format itself
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place one or two harbour moves into a real short stay
+

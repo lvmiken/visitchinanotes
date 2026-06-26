@@ -1,6 +1,6 @@
 ---
-title: "Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride"
-description: "Use this first-time Star Ferry guide to decide when one crossing adds real Hong Kong atmosphere, when the harbourfront is the better move, and when a cruise is worth more than the ferry."
+title: "Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience"
+description: "See when the Star Ferry adds real atmosphere to a first Hong Kong trip, when a harbourfront walk is enough, and when a cruise makes more sense than another quick crossing."
 publishDate: 2026-06-24
 updatedDate: 2026-06-26
 city: "hong-kong"

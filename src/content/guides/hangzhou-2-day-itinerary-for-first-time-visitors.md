@@ -193,7 +193,7 @@ If the tea-country version is clearly winning and the live question now is how t
 
 For many first-time visitors, Xixi is a valid preference branch, but not the default strongest second day.
 
-If your version of Hangzhou also includes curiosity about the city's technology identity, keep that curiosity in proportion: [Can You Actually Visit Alibaba Campus in Hangzhou? What First-Time Visitors Should Expect](/guides/can-you-really-visit-alibaba-campus-in-hangzhou/) explains why the campus is usually background context or a soft west-side add-on, not the real Day 2 anchor.
+If your version of Hangzhou also includes curiosity about the city's technology identity, keep that curiosity in proportion: [Can You Visit Alibaba Campus in Hangzhou? What Is Actually Open to Visitors](/guides/can-you-really-visit-alibaba-campus-in-hangzhou/) explains why the campus is usually background context or a soft west-side add-on, not the real Day 2 anchor.
 
 ## A strong default version for most first-time visitors
 
@@ -259,3 +259,4 @@ Lean harder into:
 - read [What to Do in Hangzhou at Night for First-Time Visitors](/guides/what-to-do-in-hangzhou-at-night-for-first-time-visitors/) if the day order is set and the remaining question is how the evenings should differ
 - read [What to Eat in Hangzhou for First-Time Visitors](/guides/what-to-eat-in-hangzhou-for-first-time-visitors/) if the route is basically set and the next decision is which meals deserve the limited slots
 - read [Where to Eat Near Lingyin Temple or Longjing Village for First-Time Visitors](/guides/where-to-eat-near-lingyin-temple-or-longjing-village-for-first-time-visitors/) if the second-day branch is set and the next decision is its supporting meal
+

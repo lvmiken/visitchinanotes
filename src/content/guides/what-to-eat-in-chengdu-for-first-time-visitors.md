@@ -142,6 +142,8 @@ The mistake is not eating hotpot. The mistake is forcing it on the most tired or
 
 If the meal already is clearly going to be hot pot and the real question now is which style of room or district actually fits the trip, the narrower next page is [Best Chengdu Hot Pot for First-Time Visitors](/guides/best-chengdu-hotpot-for-first-time-visitors/).
 
+If the meal already is clearly going to be hot pot and the real question now is not where to go but how to order it well, the narrower next page is [How to Order Chengdu Hot Pot Without Turning Dinner Into a Dare](/guides/how-to-order-chengdu-hot-pot-without-turning-dinner-into-a-dare/).
+
 ## 2. Chuanchuan
 
 If hotpot is the big protected Chengdu dinner, **chuanchuan** is often the more flexible and practical food-night win.
@@ -277,6 +279,7 @@ If the trip is short, many readers do well with:
 
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the next decision is which district should carry the hotpot night, the noodle lunch, or the easier final dinner
 - read [Best Chengdu Hot Pot for First-Time Visitors](/guides/best-chengdu-hotpot-for-first-time-visitors/) if the broader food structure is clear and the next decision is how to choose the right hot pot night
+- read [How to Order Chengdu Hot Pot Without Turning Dinner Into a Dare](/guides/how-to-order-chengdu-hot-pot-without-turning-dinner-into-a-dare/) if the night clearly should be hot pot and the live question is how to choose broth, ingredients, and sauce without overdoing it
 - read [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/) if the broader food structure is clear and the next decision is whether the more flexible spicy meal should be chuanchuan instead
 - read [Best Chengdu Sichuan Restaurants for First-Time Visitors](/guides/best-chengdu-sichuan-restaurants-for-first-time-visitors/) if the broader food structure is clear and the next decision is which proper Sichuan table dinner deserves protection
 - read [Best Chengdu Restaurants for First-Time Visitors](/guides/best-chengdu-restaurants-for-first-time-visitors/) if the broader food structure is clear and the next decision is which actual rooms deserve the best meal slots

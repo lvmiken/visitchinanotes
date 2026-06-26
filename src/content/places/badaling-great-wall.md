@@ -165,8 +165,8 @@ The smarter way to use Badaling is to choose it on purpose.
 
 ## Which page to read next
 
+- read [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/) if you want the cleanest side-by-side Wall decision page before committing
 - read [Mutianyu Great Wall for First-Time Visitors](/places/mutianyu-great-wall/) if you are still comparing the two best-known first-trip Wall choices
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the wider city route still is not set
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if the Wall must fit inside a shorter Beijing stay
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place the Wall inside a broader first-trip structure
-

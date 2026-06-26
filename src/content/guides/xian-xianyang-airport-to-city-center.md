@@ -288,6 +288,7 @@ Even a smooth Xi'an arrival still counts as real travel time. Do not build the f
 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still want the broader arrival-day planning rules
 - read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if the airport route is only one part of deciding whether Xi'an belongs in the trip
+- read [Xi'an 240-Hour Transit Guide: Terracotta Army, Old City, and a Smarter Stopover](/guides/xian-240-hour-visa-free-transit-for-first-time-visitors/) if this arrival is part of a stopover-based Xi'an plan rather than a normal open-ended city stay
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if the airport transfer is solved and the next question is how you should move around the city during the rest of the stay
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the hotel base itself is still unsettled
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the city stop is confirmed and you want the days in order

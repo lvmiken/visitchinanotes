@@ -162,6 +162,8 @@ The cleanest old-city structure is usually:
 
 Use [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) when the daytime anchor is still unsettled, and [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if the evening side of the day needs clearer shape.
 
+If the wall already is definitely happening and the real uncertainty is whether to ride a short stretch or go bigger, use [Cycling the Xi'an City Wall: Which Gate, How Long, and Is It Really Worth It?](/guides/cycling-the-xian-city-wall-which-gate-how-long-and-is-it-really-worth-it/).
+
 If the food part of the day still feels too vague, the right companion page is [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/). That page helps you decide whether this second day should lean more into noodles, a snack block, or one fuller dinner instead of turning the food layer into a random add-on.
 
 If the dishes already feel clear but the route still does not tell you where those meals should happen, use [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) next. That page is the cleaner way to choose between Bell Tower, South Gate, and the Muslim Quarter without adding unnecessary extra movement.

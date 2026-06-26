@@ -49,6 +49,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the main question now is which Chengdu experiences truly deserve limited trip time
 - [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) if the city is chosen and the live question is whether one museum really improves the route
 - [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the city's main attraction is already chosen and the live question is how to make that panda morning go smoothly
+- [How to Actually See Panda He Hua at Chengdu Panda Base](/guides/how-to-actually-see-panda-he-hua-at-chengdu-panda-base/) if the panda question already has narrowed specifically to Chengdu's best-known star panda
 - [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) if the panda query is really about finding a closer or more meaningful official experience than a standard walk-through
 - [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning itself is already clear and the real question is how to use the rest of that day well
 - [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/) if the panda morning is already fixed and the live question is whether the safest central default is the smartest same-day answer
@@ -118,6 +119,8 @@ If you want to visit the panda base, check opening hours and travel time before 
 
 If the panda visit already is confirmed and the real question now is ticket timing, gate choice, and how to stop the day from becoming too rushed, use [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/).
 
+If the panda visit already is confirmed and the real question now is how to improve your odds of seeing `He Hua` specifically, use [How to Actually See Panda He Hua at Chengdu Panda Base](/guides/how-to-actually-see-panda-he-hua-at-chengdu-panda-base/).
+
 If the live query is not the normal visit but `can we volunteer with pandas?`, use [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) before building the day around an experience that the official program usually does not offer to short-stay visitors.
 
 The biggest route mistake is to let one fixed attraction turn the whole stay into an overbuilt day with no room left for the part of Chengdu people actually enjoy most: meals, evening rhythm, lower-pressure wandering, and one selective culture block.
@@ -173,9 +176,13 @@ If the broader west-side branch already is winning and the live question is how 
 
 If the city already feels chosen but the live question is how to move around it without overusing buses or wasting energy on awkward last miles, the next page is [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/).
 
+If the city choice is being shaped by a long layover or onward routing rather than a normal open-ended trip, the right bridge page is [Chengdu Stopover Guide Under China's 240-Hour Transit Policy: Pandas, Tea, and Pace](/guides/chengdu-240-hour-visa-free-transit-for-first-time-visitors/).
+
 If the city already feels chosen and the missing layer is food rather than attractions, go next to [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) and then [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/).
 
 If the broader food plan already is clear and the real question is how to place one memorable signature dinner without letting the night become harder than it should, the next page is [Best Chengdu Hot Pot for First-Time Visitors](/guides/best-chengdu-hotpot-for-first-time-visitors/).
+
+If the hot-pot dinner already is clearly happening and the live question now is how to choose broth, sauce, and ingredients without turning the meal into a dare, the next page is [How to Order Chengdu Hot Pot Without Turning Dinner Into a Dare](/guides/how-to-order-chengdu-hot-pot-without-turning-dinner-into-a-dare/).
 
 If the broader food plan already is clear and the real question is whether the more useful spicy dinner should be a lighter, more flexible skewer night instead of full hot pot, the next page is [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/).
 
@@ -194,6 +201,8 @@ If the broader food geography already is clear and the live question is how to m
 If the city already feels chosen and the useful missing layer is one softer local morning before the bigger food blocks take over, the next page is [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/).
 
 If the city already feels chosen and the missing layer is where to slow down with tea instead of only adding more sights, the next page is [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/).
+
+If the tea decision already has narrowed specifically to the classic `People's Park` answer and the live question now is whether `Heming Teahouse` plus the famous ear-cleaning scene actually fits your trip, the next page is [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/).
 
 If the city already feels chosen and the useful missing layer is how to turn breakfast, tea, and one calmer neighborhood-or-temple block into a real half day without overbuilding it, the next page is [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/).
 
@@ -219,6 +228,7 @@ If the city already feels chosen and the live question is how to keep the trip g
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if Chengdu is chosen and you want a cleaner shortlist before placing the days
 - read [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) if Chengdu is chosen and the live question is whether one museum deserves a place at all
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the shortlist is mostly clear and the panda morning is the part that still needs practical execution
+- read [How to Actually See Panda He Hua at Chengdu Panda Base](/guides/how-to-actually-see-panda-he-hua-at-chengdu-panda-base/) if the panda morning is already happening and the real search intent is how to improve your odds of seeing Chengdu's best-known star panda
 - read [Can You Volunteer With Pandas in Chengdu? What First-Time Visitors Should Know](/guides/can-you-volunteer-with-pandas-in-chengdu-for-first-time-visitors/) if the panda search intent is less about simple sightseeing and more about a deeper or more educational experience
 - read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning itself is clear and the next execution question is what the afternoon and evening should become
 - read [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/) if the next execution question has narrowed specifically to whether the safest central default should carry the panda afternoon
@@ -226,8 +236,10 @@ If the city already feels chosen and the live question is how to keep the trip g
 - read [Should You Go to Wenshu Monastery After Chengdu Panda Base?](/guides/should-you-go-to-wenshu-monastery-after-chengdu-panda-base/) if the next execution question has narrowed specifically to whether the panda afternoon should become a quieter temple-and-tea branch
 - read [What to Book in Advance for Chengdu: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chengdu/) if the route shape is mostly clear and the next question is what actually needs to be locked early
 - read [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/) if the city is chosen and the next blocker is how to keep metro, Didi, panda logistics, and hotel returns simple
+- read [Chengdu Stopover Guide Under China's 240-Hour Transit Policy: Pandas, Tea, and Pace](/guides/chengdu-240-hour-visa-free-transit-for-first-time-visitors/) if the city looks appealing but the live question is whether a transit-based entry gives Chengdu enough room to work well
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) if the city is chosen and the missing layer is which meals truly deserve protection
 - read [Best Chengdu Hot Pot for First-Time Visitors](/guides/best-chengdu-hotpot-for-first-time-visitors/) if the city is chosen and the main food question already has narrowed to one signature dinner
+- read [How to Order Chengdu Hot Pot Without Turning Dinner Into a Dare](/guides/how-to-order-chengdu-hot-pot-without-turning-dinner-into-a-dare/) if the city is chosen and the hot-pot dinner already is happening but the real question is how to order it intelligently
 - read [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/) if the city is chosen and the main food question already has narrowed to one lighter spicy dinner that should still feel distinctly Chengdu
 - read [Best Chengdu Sichuan Restaurants for First-Time Visitors](/guides/best-chengdu-sichuan-restaurants-for-first-time-visitors/) if the city is chosen and the main food question already has narrowed to one proper shared-table Sichuan dinner
 - read [Best Chengdu Restaurants for First-Time Visitors](/guides/best-chengdu-restaurants-for-first-time-visitors/) if the city is chosen and the main food question already has narrowed to actual restaurant picks
@@ -238,6 +250,7 @@ If the city already feels chosen and the live question is how to keep the trip g
 - read [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/) if the city is chosen and the next smaller but useful food decision is how one morning should work
 - read [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) if central Chengdu already looks right and the next question is how to use it for the easiest useful meals
 - read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) if the city is chosen and the missing layer is where Chengdu's slower tea rhythm actually belongs in the route
+- read [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/) if the broader tea answer already looks like `People's Park` and the remaining question is whether the classic tea-house scene really suits you
 - read [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/) if the city is chosen and the next useful execution step is turning breakfast, tea, and slower pace into one coherent half day
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the city is chosen and the evening structure is still too vague
 - read [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the city is chosen and the live question is whether an extra day should go to Dujiangyan, Leshan, Sanxingdui, or stay in Chengdu

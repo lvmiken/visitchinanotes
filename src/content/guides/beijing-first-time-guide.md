@@ -174,6 +174,8 @@ If the arrival itself still feels fuzzy, go next to [Beijing Airport to City: Be
 
 If the city still feels intimidating on the ground, the next two practical pages are usually [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) and [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/).
 
+If the question starts one step earlier and is really `Can Beijing work well under China's current 240-hour visa-free transit policy?`, the right bridge page is [Beijing 240-Hour Transit Guide: Great Wall, Forbidden City, and a Stopover That Works](/guides/beijing-240-hour-visa-free-transit-for-first-time-visitors/).
+
 If the bigger uncertainty is not the route shape but the stay length itself, [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) is the cleaner next page before you jump straight into a 3-day or 4-day itinerary.
 
 If your dates are still flexible, [Best Time to Visit Beijing for First-Time Visitors](/guides/best-time-to-visit-beijing-for-first-time-visitors/) is usually the cleanest next page before flights and hotel timing get locked in for the wrong season or holiday window.
@@ -223,6 +225,9 @@ If your trip is shorter than that, Beijing often needs more decisiveness than tr
 - read [Best Time to Visit Beijing for First-Time Visitors](/guides/best-time-to-visit-beijing-for-first-time-visitors/) if the dates are still flexible and season choice is shaping the whole stop
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if daily movement still feels bigger than it should
 - read [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/) if the next problem is reservations, not city choice
+- read [Beijing 240-Hour Transit Guide: Great Wall, Forbidden City, and a Stopover That Works](/guides/beijing-240-hour-visa-free-transit-for-first-time-visitors/) if the city itself looks right but the live question is whether a stopover-based entry gives Beijing enough room to work
+- read [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/) if the Wall day is clearly happening but the section choice still is not
+- read [Tiananmen Square for Foreign Visitors: Reservation, Security Check, and Flag-Raising Reality](/guides/tiananmen-square-for-foreign-visitors-reservation-security-check-and-flag-raising-reality/) if the central-day anxiety is less about the Forbidden City and more about how Tiananmen actually works
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if the real planning constraint is family energy and mixed-age pace
 - read [Where to Stay in Beijing With Kids for First-Time Visitors](/guides/where-to-stay-in-beijing-with-kids/) if the family version of the trip is now mostly set and the hotel base is the live decision
 - read [Best Museums in Beijing for First-Time Visitors](/guides/best-museums-in-beijing-for-first-time-visitors/) if the trip still needs a clearer museum layer

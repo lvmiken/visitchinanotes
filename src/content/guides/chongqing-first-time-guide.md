@@ -101,6 +101,8 @@ If the city already feels chosen and the food question already is narrower than 
 
 If the city already feels chosen and the food question already is narrower than that because the table knows it wants one real hot pot night but still does not know which kind of restaurant fits best, the next page is [Best Chongqing Hot Pot for First-Time Visitors](/guides/best-chongqing-hotpot-for-first-time-visitors/).
 
+If the hot-pot dinner already is clearly happening and the live question now is whether the famous `bomb shelter` version adds real Chongqing value or mostly just novelty, the next page is [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/).
+
 If the city already feels chosen and the food question already is narrower than that because the trip needs one everyday bowl rather than one more heavy dinner, the next page is [Best Chongqing Xiaomian for First-Time Visitors](/guides/best-chongqing-xiaomian-for-first-time-visitors/).
 
 If the city already feels chosen and the food question already is narrower than that because the trip needs one useful local morning rather than one more evening meal, the next page is [Where to Eat Breakfast in Chongqing for First-Time Visitors](/guides/where-to-eat-breakfast-in-chongqing-for-first-time-visitors/).
@@ -132,6 +134,8 @@ If the city already feels chosen and the most practical remaining anxiety is whe
 If the city already feels chosen and the practical anxiety is how to get from `Jiangbei Airport` into the hotel area without wasting the first night, the next page is [How to Get From Chongqing Jiangbei Airport to the City Center](/guides/chongqing-jiangbei-airport-to-city-center/).
 
 If the city already feels chosen and the next practical anxiety is what actually deserves early booking before you overlock the whole stay, the next page is [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/).
+
+If the bigger route question is whether Chongqing works well under China's current 240-hour visa-free transit policy, the next bridge page is [Chongqing Stopover Guide: Making China's 240-Hour Transit Policy Work in the Mountain City](/guides/chongqing-240-hour-visa-free-transit-for-first-time-visitors/).
 
 If the city already feels chosen and the route may need one museum or heritage layer but the choice still is not clear, the next page is [Best Museums in Chongqing for First-Time Visitors](/guides/best-museums-in-chongqing-for-first-time-visitors/).
 
@@ -169,15 +173,18 @@ That usually creates a better experience than trying to race across the city col
 - read [How to Get From Chongqing Jiangbei Airport to the City Center](/guides/chongqing-jiangbei-airport-to-city-center/) if the city is chosen and the first arrival still feels more confusing than the sightseeing itself
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the city is chosen but the real practical concern is still whether rail, Didi, taxis, buses, and the hills will make the trip feel harder than it looks
 - read [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/) if the city is chosen and the next problem is protecting the right bookings without overplanning
+- read [Chongqing Stopover Guide: Making China's 240-Hour Transit Policy Work in the Mountain City](/guides/chongqing-240-hour-visa-free-transit-for-first-time-visitors/) if Chongqing looks appealing but the real question is whether a transit-based stop still gives the city enough room to land
 - read [Best Museums in Chongqing for First-Time Visitors](/guides/best-museums-in-chongqing-for-first-time-visitors/) if the route may want one indoor or cultural layer but you still need to choose between the main museum, the wartime branch, the science branch, or a lighter heritage stop
 - read [China Three Gorges Museum or Huguang Guild Hall for First-Time Visitors?](/guides/china-three-gorges-museum-or-huguang-guild-hall-for-first-time-visitors/) if the route already has narrowed to the bigger central museum versus the lighter heritage branch
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the next practical decision is which meals really deserve one of your limited Chongqing slots
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the city is chosen and the next practical question is which district should carry those meals
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the city is chosen and the next practical question is whether one `Bayi Road`, `Jiaochangkou`, or `Ciqikou` snack block would improve the trip
+- read [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/) if the city is chosen and the next food question is whether one underground hot-pot night really earns the extra effort
 - read [Where to Eat Late-Night Food in Chongqing for First-Time Visitors](/guides/where-to-eat-late-night-in-chongqing-for-first-time-visitors/) if the city is chosen and the next practical question is whether one real late-night food block belongs in the route at all
 - read [What Food Souvenirs to Buy in Chongqing for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-chongqing-for-first-time-visitors/) if the city is chosen and the next practical question is which edible Chongqing gift is actually worth buying before the onward train or flight
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the real question is which evening should be skyline-led, cruise-led, scenic, or livelier
 - read [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/) if the real question is which skyline branch deserves the best slot
+- read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the skyline choice already is narrowing specifically to one classic Hongyadong photo-led evening
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the night already should be a modern drinks-led evening
 - read [Liziba Station in Chongqing: Is It Worth It for First-Time Visitors?](/places/liziba-station/) if the next narrower question is whether one short iconic urban stop deserves route space
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the next narrower question is whether the trip should upgrade to one higher panoramic skyline branch

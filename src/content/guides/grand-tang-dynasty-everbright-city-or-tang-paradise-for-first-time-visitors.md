@@ -101,7 +101,7 @@ That is why `Everbright City` often wins the cleaner route question and `Tang Pa
 
 ## Choose Everbright City if you want the easier pagoda-side night
 
-Choose [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if:
+Choose [Grand Tang Dynasty Everbright City: When Xi'an's Flashiest Night Is Worth Planning](/places/grand-tang-dynasty-everbright-city/) if:
 
 - the pagoda side already belongs in the route
 - you want an open-air evening that is scenic but still flexible
@@ -190,8 +190,9 @@ In those cases, the better next pages often are:
 
 ## Which page to read next
 
-- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the cleaner open-air version already is starting to win
+- read [Grand Tang Dynasty Everbright City: When Xi'an's Flashiest Night Is Worth Planning](/places/grand-tang-dynasty-everbright-city/) if the cleaner open-air version already is starting to win
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the fuller scenic-event version already is starting to win
 - read [Giant Wild Goose Pagoda for First-Time Visitors: When It Belongs in the Route and When It Is Secondary](/places/giant-wild-goose-pagoda/) if the real question still is whether the whole south-side branch belongs at all
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the deeper problem is not Everbright versus Tang Paradise, but which Xi'an night style the trip actually needs
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you want to see where one south-side scenic evening fits cleanly inside the fuller version of Xi'an
+

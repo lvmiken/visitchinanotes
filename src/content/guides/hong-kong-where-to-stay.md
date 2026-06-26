@@ -96,7 +96,7 @@ Why it works:
 - the Star Ferry and Kowloon-side transit logic are simple to understand
 - first-time visitors usually find the district emotionally legible very quickly
 
-If the live question already is not just `Which base is easiest?` but `Which harbour move will this base actually make feel worthwhile?`, the natural companion pages are [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) and [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/).
+If the live question already is not just `Which base is easiest?` but `Which harbour move will this base actually make feel worthwhile?`, the natural companion pages are [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) and [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/).
 
 This is usually the best base when the trip mainly wants:
 
@@ -220,12 +220,13 @@ For most first-time visitors, those details matter more than getting a slightly 
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if the hotel choice still depends on whether the stay is 2, 3, or 4 days
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the hotel choice still depends on how food-heavy the stay should be
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the hotel choice mainly depends on what kind of evening you want the base to support
-- read [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) if the base decision mainly depends on whether Tsim Sha Tsui should support one useful classic crossing
-- read [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/) if the base decision mainly depends on how much the trip should revolve around the harbour itself
-- read [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/) if hotel location may change because the trip wants one full park day without weakening the city stay too much
+- read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the base decision mainly depends on whether Tsim Sha Tsui should support one useful classic crossing
+- read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the base decision mainly depends on how much the trip should revolve around the harbour itself
+- read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if hotel location may change because the trip wants one full park day without weakening the city stay too much
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the case for a Hong Kong Island base depends on one stronger island-side food day or night
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the case for a Kowloon-side base depends on one easier market-and-food evening
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if the base is nearly settled and you want the days to flow
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the base decision still depends on whether Hong Kong itself should be the stronger stop
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if hotel choice may change because Macau is being added too
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the wider South China route still may lean mainland instead of stretching Hong Kong too far
+

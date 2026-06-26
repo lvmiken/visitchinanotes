@@ -1,6 +1,6 @@
 ---
-title: "Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day"
-description: "Use this Ngong Ping 360 guide to decide when the cable car makes a Lantau branch better, when it is only scenic padding, and how to judge the ride against a city-first Hong Kong plan."
+title: "Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip"
+description: "Figure out when Ngong Ping 360 adds real value to a first Hong Kong visit, when it becomes scenic padding, and how to weigh the cable car against a tighter city-first plan."
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
 city: "hong-kong"
@@ -62,7 +62,7 @@ Use this page if you are asking:
 - is the ride better than just staying in the city?
 - does the cable car add enough beyond the Big Buddha itself?
 
-If the real landmark question is about the Lantau destination more than the ride, keep [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) open too.
+If the real landmark question is about the Lantau destination more than the ride, keep [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) open too.
 
 ## The short answer
 
@@ -187,9 +187,10 @@ It is often weaker for:
 
 ## Which page to read next
 
-- read [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) if the destination itself still is the main question
-- read [Tian Tan Buddha or Victoria Peak: Which Hong Kong Detour Is Better for First-Time Visitors?](/guides/tian-tan-buddha-or-victoria-peak-for-first-time-visitors/) if the bigger tradeoff is calmer Lantau contrast versus one stronger skyline branch
+- read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) if the destination itself still is the main question
+- read [Tian Tan Buddha or Victoria Peak? The Better Hong Kong Detour for a First Trip](/guides/tian-tan-buddha-or-victoria-peak-for-first-time-visitors/) if the bigger tradeoff is calmer Lantau contrast versus one stronger skyline branch
 - read [Hong Kong Disneyland or a Lantau Day: Which Gives a First Trip More Range?](/guides/hong-kong-disneyland-or-lantau-for-first-time-visitors/) if the live branch choice is scenic Lantau range versus one full park day
-- read [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/) if the real tradeoff is scenic Lantau day versus park day
+- read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if the real tradeoff is scenic Lantau day versus park day
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if you need to decide whether the stay has room for a Lantau branch
-- read [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/) if the bigger question is whether the trip should stay city-first
+- read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the bigger question is whether the trip should stay city-first
+

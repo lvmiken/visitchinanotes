@@ -265,6 +265,7 @@ At Jiangbei, `T2` and `T3` are not interchangeable in planning. Pickup assumptio
 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still want the broader arrival-day logic
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your answer
+- read [Chongqing Stopover Guide: Making China's 240-Hour Transit Policy Work in the Mountain City](/guides/chongqing-240-hour-visa-free-transit-for-first-time-visitors/) if this arrival is part of a stopover-based Chongqing plan rather than a normal city stay
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if the hotel base itself is still unsettled
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the airport page solved the arrival but the city's wider movement still feels intimidating
 - read [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/) if the airport part is solved and the next question is what the rest of the trip actually needs reserved

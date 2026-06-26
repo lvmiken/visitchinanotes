@@ -93,6 +93,7 @@ That is often stronger than jumping immediately to a distant modern district or 
 
 ## Which page to read next
 
+- read [Cycling the Xi'an City Wall: Which Gate, How Long, and Is It Really Worth It?](/guides/cycling-the-xian-city-wall-which-gate-how-long-and-is-it-really-worth-it/) if the wall is happening and the real decision now is how to use it well rather than whether it exists
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are placing this into the city day now
 - read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if the route still needs a clearer in-city priority order
 - read [Is Xi'an City Wall Worth It With Kids?](/guides/is-xian-city-wall-worth-it-with-kids/) if the real decision is whether the wall still is the right family choice by age, weather, and energy

@@ -60,6 +60,8 @@ The goal is not to collect famous tea addresses.
 
 The goal is to let one tea break explain why Chengdu feels different from faster China cities.
 
+If the decision already has narrowed specifically to `People's Park` and the live question is whether the classic `Heming Teahouse` version is actually worth it, the sharper child page is [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/).
+
 ## Start with the kind of tea break you actually want
 
 The most useful Chengdu tea question is usually not:
@@ -246,6 +248,7 @@ You do not need to prove you understand Chengdu by collecting multiple tea stops
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the tea stop is clear but the day order is not
 - read [How to Plan a West-Side Cultural Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors/) if the calmer branch should extend into Qingyang Palace, Du Fu, or Sichuan Museum instead of staying tea-first
 - read [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/) if the calmer branch should stay breakfast-and-tea-led instead of turning into a bigger west-side or historical half day
+- read [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/) if the wider tea answer already is `People's Park` and the live question now is whether the classic tea-house scene itself really fits your trip
 - read [Should You Go to People's Park After Chengdu Panda Base?](/guides/should-you-go-to-peoples-park-after-chengdu-panda-base/) if the live question has narrowed specifically to whether People's Park is the right panda-day tea answer
 - read [Should You Go to Wenshu Monastery After Chengdu Panda Base?](/guides/should-you-go-to-wenshu-monastery-after-chengdu-panda-base/) if the live question has narrowed specifically to whether the quieter temple-and-tea version fits the panda day better
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the next decision is which district should turn that tea stop into a fuller lunch or dinner block

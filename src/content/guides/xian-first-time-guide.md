@@ -113,6 +113,8 @@ If the real blocker is not the sight itself but the reservation, pair that page 
 
 If the Terracotta Army already feels like a yes but the excursion day still feels fuzzy, [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) is the most useful next read.
 
+If the outing already feels structurally clear and the live question now is how to make the museum's main hall actually land, the next page is [Terracotta Army Pit 1: How to See the Main Hall Without Losing the Day](/guides/terracotta-army-pit-1-how-to-see-the-main-hall-without-losing-the-day/).
+
 If the sight already is non-negotiable and the real question has become what else deserves firm reservation, [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) is the cleaner planning page to read before you harden the hotel and train order.
 
 ## Let the city stay focused
@@ -131,11 +133,15 @@ If the route already looks like a fuller 3-day Xi'an rather than the tightest ve
 
 - [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if you may want one more Lintong-side stop
 - [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if you want the pagoda side to carry a more scenic evening or third-day block
-- [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the pagoda side is already in play and the live question is whether Xi'an should use one open-air scenic night instead of another old-city repeat
+- [Grand Tang Dynasty Everbright City: When Xi'an's Flashiest Night Is Worth Planning](/places/grand-tang-dynasty-everbright-city/) if the pagoda side is already in play and the live question is whether Xi'an should use one open-air scenic night instead of another old-city repeat
 
 If the live south-side choice already is not `Do we go scenic at all?` but `easier Everbright City night or fuller Tang Paradise event?`, the sharper comparison page is [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/).
 
+If the pagoda-side evening already feels chosen and the live question now is whether `Hanfu` makes that night more memorable or just heavier, the next page is [Hanfu at Xi'an's Everbright City: When It Adds Magic and When It Just Adds Hassle](/guides/hanfu-at-xian-everbright-city-when-it-adds-magic-and-when-it-just-adds-hassle/).
+
 If the stop already is confirmed and the main question has become how the city actually moves day to day, [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) is the most useful next read before you start overcomplicating metro versus Didi.
+
+If the route question starts even earlier and is really `Can Xi'an work under China's current 240-hour visa-free transit policy?`, the cleaner bridge page is [Xi'an 240-Hour Transit Guide: Terracotta Army, Old City, and a Smarter Stopover](/guides/xian-240-hour-visa-free-transit-for-first-time-visitors/).
 
 If Xi'an already feels chosen and the real question has become what actually deserves time inside the stop, [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) is the cleaner shortlist page because it separates true priorities from supporting add-ons before you harden the itinerary.
 
@@ -196,9 +202,12 @@ If the family shortlist already is mostly clear and the live question has become
 - read [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/) if the arrival-day route still feels like the main uncertainty
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if the stop is confirmed and the main open question is how you should move around the city itself
 - read [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) if the stop is confirmed and you want to protect only the reservations that actually matter
+- read [Xi'an 240-Hour Transit Guide: Terracotta Army, Old City, and a Smarter Stopover](/guides/xian-240-hour-visa-free-transit-for-first-time-visitors/) if the city looks strong but the live question is whether a transit-based stop gives Xi'an enough room to work
 - read [Best Time to Visit Xi'an for First-Time Visitors](/guides/best-time-to-visit-xian-for-first-time-visitors/) if the dates are still flexible and season choice may change how comfortable or compact the stop feels
 - read [Rainy Day in Xi'an for First-Time Visitors](/guides/rainy-day-in-xian-for-first-time-visitors/) if the dates are mostly fixed and you want a weather backup before locking the final route
 - read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if Xi'an is chosen and the next live question is which sights really deserve your limited time
+- read [Cycling the Xi'an City Wall: Which Gate, How Long, and Is It Really Worth It?](/guides/cycling-the-xian-city-wall-which-gate-how-long-and-is-it-really-worth-it/) if the wall already is happening and the real uncertainty is how much of it you should actually ride
+- read [Terracotta Army Pit 1: How to See the Main Hall Without Losing the Day](/guides/terracotta-army-pit-1-how-to-see-the-main-hall-without-losing-the-day/) if the Terracotta Army already is non-negotiable and the remaining museum-side question is how to use its biggest hall well
 - read [Best Museums in Xi'an for First-Time Visitors](/guides/best-museums-in-xian-for-first-time-visitors/) if the route is mostly set and the next live question is whether one museum deserves a place
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if Xi'an is chosen but the route still is undecided between the efficient version and the fuller version
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the reservation still is not secure
@@ -213,8 +222,10 @@ If the family shortlist already is mostly clear and the live question has become
 - read [What to Book in Advance for Xi'an With Kids](/guides/what-to-book-in-advance-for-xian-with-kids/) if the trip now needs the family version of Xi'an booking order instead of the broader adult-first reservation logic
 - read [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if you are considering a fuller Lintong-side day
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the extra Xi'an time may go to the pagoda side and a more atmospheric evening
-- read [Grand Tang Dynasty Everbright City in Xi'an: When It Earns One of Your Nights](/places/grand-tang-dynasty-everbright-city/) if the live question is whether a scenic pagoda-side night should beat another old-city evening
+- read [Grand Tang Dynasty Everbright City: When Xi'an's Flashiest Night Is Worth Planning](/places/grand-tang-dynasty-everbright-city/) if the live question is whether a scenic pagoda-side night should beat another old-city evening
 - read [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/) if the live question is which south-side scenic night style actually fits better
+- read [Hanfu at Xi'an's Everbright City: When It Adds Magic and When It Just Adds Hassle](/guides/hanfu-at-xian-everbright-city-when-it-adds-magic-and-when-it-just-adds-hassle/) if the pagoda-side night already looks right and the remaining question is whether a Hanfu makeover actually improves it
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the base still is not settled
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place the stop inside a short route
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the stop now looks fuller and you want the day order to feel intentional
+

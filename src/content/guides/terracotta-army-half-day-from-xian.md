@@ -35,6 +35,8 @@ The biggest Terracotta Army planning mistake is not going there. It is turning a
 
 This guide uses the Qin museum's current official visitor guidance checked on June 19, 2026, especially the ticket, opening-hour, and on-site visit structure that shape how much time the outing really needs.
 
+If the outing itself already feels structurally clear and the live question now is how to make the museum's biggest visual payoff actually land on site, the sharper child page is [Terracotta Army Pit 1: How to See the Main Hall Without Losing the Day](/guides/terracotta-army-pit-1-how-to-see-the-main-hall-without-losing-the-day/).
+
 ## Who this is for
 
 This page is for travelers asking:
@@ -278,6 +280,7 @@ The key is not only protecting the site. It is protecting the **shape of the who
 
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the reservation still is not secure
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how important the site should be
+- read [Terracotta Army Pit 1: How to See the Main Hall Without Losing the Day](/guides/terracotta-army-pit-1-how-to-see-the-main-hall-without-losing-the-day/) if the half-day shape now feels clear but the museum itself still needs one tighter main-hall reading
 - read [Is the Terracotta Army Worth It With Kids?](/guides/is-terracotta-army-worth-it-with-kids/) if your real question is the narrower family yes-or-no decision behind the whole excursion
 - read [Huaqing Palace in Xi'an: Is It Worth Pairing With the Terracotta Army?](/places/huaqing-palace/) if you are deciding whether the Lintong side deserves one more stop
 - read [Is Huaqing Palace Worth It With Kids?](/guides/is-huaqing-palace-worth-it-with-kids/) if your real question is whether the extra Lintong stop improves the family version enough

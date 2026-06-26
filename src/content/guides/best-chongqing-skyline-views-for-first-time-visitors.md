@@ -245,6 +245,7 @@ Choose **Nanshan Yikeshu**.
 
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the broader evening structure still is open
 - read [Hongyadong in Chongqing: Is It Worth It for First-Time Visitors?](/places/hongyadong/) if the main classic skyline anchor still is not settled
+- read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the skyline anchor is settled and the next live question is how to get the classic photo well
 - read [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/) if the skyline event choice still is open
 - read [Nanbin Road in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanbin-road/) if the calmer scenic branch still is being judged
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the trip wants one higher panoramic branch

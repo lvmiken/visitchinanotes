@@ -262,7 +262,7 @@ This is the cleanest slot for:
 - one wonton-noodle or lighter bowl
 - one simple snack continuation if the night already is carrying the skyline payoff
 
-If the real question already is not the meal but which harbour move should structure that day best, the sharper companion pages are [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) and [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/).
+If the real question already is not the meal but which harbour move should structure that day best, the sharper companion pages are [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) and [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/).
 
 ### Best food logic for the Hong Kong Island neighborhood day
 
@@ -298,7 +298,7 @@ That often means:
 - one practical inside-the-day meal
 - one calmer dinner after the day has already done its main job
 
-This matters most when the extra day is [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/), [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/), or [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/). Those days usually improve when you stop expecting them to carry the trip's most symbolic Hong Kong dinner too.
+This matters most when the extra day is [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/), [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/), or [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/). Those days usually improve when you stop expecting them to carry the trip's most symbolic Hong Kong dinner too.
 
 ## If you only want three useful Hong Kong food experiences
 
@@ -323,11 +323,12 @@ That already gives a fuller picture of Hong Kong than repeating the same polishe
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if one of these meals is really competing with a skyline, cruise, market, or district evening choice
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place these meals into a real short-stay route
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the hotel base still may shape which meal layers are realistic
-- read [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/) if your harbour-day meal depends on whether one classic crossing already is part of the route
-- read [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/) if the food plan still depends on which skyline format will carry the best evening
-- read [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/) if one whole day in the stay may become simpler and more family- or park-led than city-food-led
-- read [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) and [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/) if the meal plan depends on whether the trip opens into a Lantau day
+- read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if your harbour-day meal depends on whether one classic crossing already is part of the route
+- read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the food plan still depends on which skyline format will carry the best evening
+- read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if one whole day in the stay may become simpler and more family- or park-led than city-food-led
+- read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) and [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the meal plan depends on whether the trip opens into a Lantau day
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the Hong Kong Island food slot is the main live decision now
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the Kowloon food-and-market night is the main live decision now
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if you still are not sure whether the city has enough room for both a dim sum layer and a broader street-food or district-food layer
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city itself still feels too broad
+

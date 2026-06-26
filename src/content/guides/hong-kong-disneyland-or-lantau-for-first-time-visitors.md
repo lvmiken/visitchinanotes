@@ -102,7 +102,7 @@ That is why this choice is less about fame and more about what kind of missing l
 
 ## Choose Disneyland if the day itself should be the event
 
-Choose [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/) if:
+Choose [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if:
 
 - the group truly wants rides, shows, and Disney atmosphere
 - one whole day inside a park feels exciting rather than costly
@@ -130,8 +130,8 @@ Choose a `Lantau` day if:
 
 For most first-time visitors, this usually means using:
 
-- [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/)
-- [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/)
+- [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/)
+- [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/)
 
 `Lantau` is usually stronger when the emotional sentence is:
 
@@ -207,7 +207,7 @@ Choose **Lantau** only if visibility and rain still leave enough payoff in the c
 If the weather is poor and the stay is short, the smarter answer may simply be:
 
 - keep the city more flexible
-- protect [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/)
+- protect [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/)
 - and avoid overcommitting to either branch
 
 ## When the right answer is actually more city
@@ -223,8 +223,8 @@ The right answer is often `more city` when:
 
 In those cases, the better next pages usually are:
 
-- [Victoria Harbour in Hong Kong: How to Choose the Right First Skyline Night](/places/victoria-harbour/)
-- [Star Ferry in Hong Kong: When One Harbour Crossing Beats Another MTR Ride](/places/star-ferry/)
+- [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/)
+- [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/)
 - [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/)
 
 ## Common mistakes
@@ -236,8 +236,9 @@ In those cases, the better next pages usually are:
 
 ## Which page to read next
 
-- read [Hong Kong Disneyland for First-Time Visitors: When a Full Park Day Pays Off](/places/hong-kong-disneyland/) if the park day already is starting to win
-- read [Tian Tan Buddha in Hong Kong: When Lantau Adds More Than Another City Day](/places/tian-tan-buddha/) if the trip clearly needs scenic-cultural contrast more than rides
-- read [Ngong Ping 360 for First-Time Visitors: When the Cable Car Earns Half a Day](/places/ngong-ping-360/) if the Lantau question is more about the ride and route shape than the Buddha alone
+- read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if the park day already is starting to win
+- read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) if the trip clearly needs scenic-cultural contrast more than rides
+- read [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the Lantau question is more about the ride and route shape than the Buddha alone
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if the deeper problem is whether the stay has room for either branch
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you suspect the strongest answer still is a tighter city-first version of the trip
+

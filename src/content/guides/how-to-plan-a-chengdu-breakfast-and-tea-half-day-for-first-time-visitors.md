@@ -150,6 +150,8 @@ That often means:
 
 If the real question still is whether People's Park deserves one of your limited calmer blocks at all, the narrower place page is [People's Park in Chengdu: Is It Worth Visiting on a First Trip?](/places/peoples-park-chengdu/).
 
+If the broader park answer already is yes and the live question now is whether the classic `Heming Teahouse` and ear-cleaning version actually sounds fun or just too performative, the narrower child page is [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/).
+
 ## Lightest version: one breakfast stop plus one tea stop and nothing more
 
 Sometimes the better answer is restraint.
@@ -217,6 +219,7 @@ The strongest version is the one that keeps the mood clear.
 
 - read [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/) if the half day shape makes sense but the breakfast district still is not settled
 - read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) if the half day shape makes sense but the tea choice still is not settled
+- read [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/) if the half day clearly wants `People's Park` and the remaining question is how touristy or worthwhile the classic tea-house version actually feels
 - read [People's Park or Wenshu Monastery: Which Chengdu Tea and Culture Stop Is Better for First-Time Visitors?](/guides/peoples-park-or-wenshu-monastery-for-first-time-visitors/) if the real decision still is classic park-and-tea versus calmer temple-and-tea
 - read [People's Park in Chengdu: Is It Worth Visiting on a First Trip?](/places/peoples-park-chengdu/) if the classic tea-house version is starting to win
 - read [Wenshu Monastery in Chengdu: Is It Worth Visiting on a First Trip?](/places/wenshu-monastery/) if the calmer breakfast-and-tea version is starting to win
