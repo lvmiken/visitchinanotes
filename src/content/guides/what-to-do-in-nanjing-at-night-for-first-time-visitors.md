@@ -55,10 +55,13 @@ It usually is not:
 - a big nightlife city in the Shanghai sense
 - something to leave until the route is already exhausted
 
+If the live problem now is not which district exists but how to keep the old-city evening from doing too much, the sharper route page is [One Good Nanjing Night: Qinhuai, Laomendong, and When Not to Overbuild It](/guides/one-good-nanjing-night-qinhuai-laomendong-and-when-not-to-overbuild-it/).
+
 ## Which page to read next
 
 - read [Confucius Temple and the Qinhuai River in Nanjing: Is It Worth Your Best Evening?](/places/confucius-temple-and-qinhuai-river/) if the core night question still needs a yes-or-no
 - read [Laomendong in Nanjing: Is It Worth Visiting on a First Trip?](/places/laomendong/) if the softer old-city block is the live choice
+- read [One Good Nanjing Night: Qinhuai, Laomendong, and When Not to Overbuild It](/guides/one-good-nanjing-night-qinhuai-laomendong-and-when-not-to-overbuild-it/) if the real night question is how to keep the evening from splitting into too many old-city jobs
 - read [Where to Eat Around the Qinhuai River for First-Time Visitors in Nanjing](/guides/where-to-eat-around-the-qinhuai-river-for-first-time-visitors-in-nanjing/) if the brighter old-city night already is chosen and now needs a meal shape
 - read [What to Eat in Laomendong Without Overbuilding Your Nanjing Day](/guides/what-to-eat-in-laomendong-without-overbuilding-your-nanjing-day/) if the calmer old-city block already is chosen and now needs a food shape
 - read [Laomendong or Confucius Temple: Where Should Your Nanjing Evening Begin?](/guides/laomendong-or-confucius-temple-where-should-your-nanjing-evening-begin/) if the old-city night already is decided but the better order still is not

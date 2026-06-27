@@ -39,6 +39,8 @@ This page was checked against official or city-backed Chongqing sources on **Jun
 
 If the broader evening shape is still unsettled, start one step up with [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/).
 
+If the night may not need a bars-first answer at all and the stronger memory could simply be one distinctive dinner room, the companion food-led page is [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/).
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -59,6 +61,8 @@ For many first-time visitors, the cleanest split is:
 - choose **near the hotel** if you are already tired and the nightlife itself is not the real point
 
 If the real question now is narrower than nightlife and you mainly want to decide whether a fuller modern evening should stay in `Guanyinqiao` or whether the trip would still be better served by the easier `Jiefangbei` core, the next page is [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/).
+
+If the real question now is not only whether `9th Street` is worth it in theory, but exactly how to use it as a later branch after dinner without forcing it into the wrong night, the sharper guide is [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/).
 
 The mistake is expecting one Chongqing night district to solve all five jobs.
 
@@ -226,6 +230,7 @@ After a day with too many steps, viewpoints, and central-core crowds, most reade
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if you still need the broader evening comparison
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the broader night structure already is clear and the real remaining choice is which of Chongqing's two most useful all-around evening districts fits better
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live question is whether the later-night branch deserves real trip time at all
+- read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the later-night branch already sounds plausible and the real question is how to use it well
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the evening should start as a stronger Guanyinqiao dinner before deciding how much nightlife to add
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the evening is mainly a dinner-district decision before the bar question
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the real question is still which meal should anchor the night

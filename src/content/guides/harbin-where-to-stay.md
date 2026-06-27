@@ -54,6 +54,8 @@ If Harbin itself still is not confirmed, start first with [Harbin for First-Time
 
 If the hotel choice mainly depends on what the city should actually do, keep [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) open too.
 
+If the hotel choice also depends on how serious the cold still feels in your head, keep [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) open too, because winter clothing confidence changes how much distance and friction a base can realistically absorb.
+
 ## The short answer
 
 For many first-time visitors, the best Harbin hotel logic is:
@@ -166,3 +168,4 @@ That is where `Songbei` becomes more competitive, but it still should be a delib
 - read [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/) if the best central base now looks likely and the next question is how much the district itself deserves
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the hotel logic mainly depends on the main winter venue
 - read [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) if the city needs a clearer first-time structure before you commit to a base
+- read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if winter-packing confidence still may decide whether a slightly less convenient base is realistic for you

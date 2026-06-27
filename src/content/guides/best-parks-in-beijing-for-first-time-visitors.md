@@ -103,6 +103,8 @@ Choose it if:
 
 Beihai is usually stronger than Zhongshan when you want a real scenic pause, and stronger than Jingshan when the route needs breathing room more than one short view.
 
+If the practical decision already has narrowed exactly to `Beihai`, `Jingshan`, or whether a slower day can carry both, the sharper guide is [Beihai Park or Jingshan Park — or Both? A Smarter Central Beijing Slow Day](/guides/beihai-park-or-jingshan-park-or-both-a-smarter-central-beijing-slow-day/).
+
 ## 3. Summer Palace: best big scenic-imperial park day
 
 [Summer Palace](/places/summer-palace/) is the park to choose when the trip wants one larger scenic-imperial reward.
@@ -207,4 +209,5 @@ If the family version of the park decision still feels fuzzy, keep [Beijing With
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the broader Beijing shape still needs sorting
 - read [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) if you are still testing whether your trip is long enough for a bigger park layer
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place one main park and one supporting park into a real route
+- read [Beihai Park or Jingshan Park — or Both? A Smarter Central Beijing Slow Day](/guides/beihai-park-or-jingshan-park-or-both-a-smarter-central-beijing-slow-day/) if the broader park hierarchy is already clear and the only remaining issue is how Beijing's two most useful central parks fit together
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if the park decision has to work for family pace too

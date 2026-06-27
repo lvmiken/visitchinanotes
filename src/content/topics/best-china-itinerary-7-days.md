@@ -49,6 +49,8 @@ One week in China can be excellent. It just works best when the trip stays focus
 
 If the bigger question is whether one week is enough at all, start with [How Many Days Do You Need for Your First China Trip?](/topics/how-many-days-do-you-need-for-your-first-china-trip/) and then come back here for the exact route shape.
 
+If the route already is leaning strongly toward East China rather than a nationwide first-trip default, keep [How Many Cities in One Week in China Is Too Many?](/topics/how-many-cities-in-one-week-in-china-is-too-many/) and [East China Itinerary Basics for First-Time Visitors](/topics/east-china-itinerary-basics-for-first-time-visitors/) open alongside this page.
+
 ## Who this is for
 
 This page is for travelers who know they have about a week in China and need to answer questions like:

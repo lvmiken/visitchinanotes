@@ -2,7 +2,7 @@
 title: "Guangzhou Travel Guide for First-Time Visitors"
 description: "A practical Guangzhou travel guide for first-time visitors, including who the city suits best, how many days it needs, and when it works well in a South China route."
 publishDate: 2026-06-14
-updatedDate: 2026-06-24
+updatedDate: 2026-06-27
 city: "guangzhou"
 guideStage: "choose-destination"
 tripLength: "2 to 4 days"
@@ -110,6 +110,10 @@ If the old-city question already is not whether the west side matters but how to
 
 If the west-side branch already is winning and the live question becomes whether the calmer finish really should be `Shamian`, the narrower page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
 
+If the route already is committed to that calmer colonial-era finish and the live question becomes how to make the whole heritage stretch feel more coherent than a simple island detour, the better bridge page is [A Better French-Era Walk in Guangzhou: Why Shamian Works Best With Liwan](/guides/a-better-french-era-walk-in-guangzhou-why-shamian-works-best-with-liwan/).
+
+If the calmer finish already looks likely and the live question is how to walk Shamian well without letting it dissolve into random wandering, the narrower execution page is [Shamian Island Walk: What to See Without Random Wandering](/guides/shamian-island-walk-what-to-see-without-random-wandering/).
+
 If the west-side branch already is winning and the live question becomes whether the core should be `Yongqing Fang` or the calmer walk should be `Shamian`, the sharper chooser page is [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/).
 
 If the trip wants one more focused Lingnan heritage layer than only district wandering, the narrower page is [Chen Clan Ancestral Hall in Guangzhou: Is It Worth It for First-Time Visitors?](/places/chen-clan-ancestral-hall/).
@@ -145,6 +149,7 @@ If the city already is confirmed and the live question becomes how to use your o
 - read [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/) if the city is confirmed and one protected yum cha is the live food decision
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the city is confirmed and the live decision is whether one easy central evening district deserves real time
 - read [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) if the city is confirmed and the live question is whether the main skyline landmark deserves one protected block
+- read [A Better French-Era Walk in Guangzhou: Why Shamian Works Best With Liwan](/guides/a-better-french-era-walk-in-guangzhou-why-shamian-works-best-with-liwan/) if the city is confirmed and the live question is how to give the heritage side one stronger, more coherent half day
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the broader city decision is basically settled and the live question is how evenings should actually work
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if Guangzhou is already confirmed
 - read [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/) if Guangzhou is competing with Shanghai and you want the route tradeoff spelled out more directly

@@ -209,6 +209,8 @@ For many first-time visitors, this is the better all-around answer when the trip
 
 If the live question now is less about the whole evening and more about how to use `Guanyinqiao` for one fuller dinner before deciding whether to continue later, the narrower next page is [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/).
 
+If the meal itself should become the more atmospheric Chongqing memory and the night may not need bars at all afterward, the alternative food-led branch is [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/).
+
 If the live question now is whether a short trip should put that broader all-around evening in `Guanyinqiao` or stay with the easier skyline-core answer in `Jiefangbei`, the narrower next page is [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/).
 
 If the live question now is whether `Guanyinqiao` deserves one of your limited evenings at all instead of only sounding like a good second district, the narrower place page is [Guanyinqiao in Chongqing: Is It Worth It for First-Time Visitors?](/places/guanyinqiao/).
@@ -236,6 +238,8 @@ It is usually weaker when:
 If the live question already has narrowed to which modern district should carry that one drinks-heavy night, the narrower next page is [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/).
 
 If the live question already has narrowed even further to whether the later and more nightlife-led `9th Street` branch improves your route more than an easier drinks night would, the narrower place page is [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/).
+
+If the place itself already seems plausible but the real remaining question is how to use it as a late branch without sacrificing a better evening, the sharper guide is [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/).
 
 ## 5. Calmer panoramic evening: choose a Nanshan-style viewpoint night
 
@@ -367,6 +371,7 @@ That already gives the city more range than leaving every night unplanned.
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the broader evening shape already is clear and the narrower remaining choice is whether the stronger night should be the easier skyline-core answer or the broader modern-urban answer
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the evening already should lean toward drinks, bars, or a more modern night out
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live issue is whether the later-night branch is actually worth the extra energy
+- read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the live issue already is not whether 9th Street exists, but how to use it without wrecking a better night
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the live issue is whether one higher panoramic viewpoint is stronger than another riverfront night
 - read [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) if the live decision is no longer only mood, but whether visibility, rain, and wet transfers should change the night entirely
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying

@@ -162,6 +162,7 @@ That keeps the trip balanced. The Wall gets enough weight, but it does not swall
 ## Which page to read next
 
 - read [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/) if the Wall day is happening but the section choice still needs a clean final answer
+- read [Jinshanling Great Wall: When the Quieter, Wilder-Looking Section Is Worth the Extra Effort](/places/jinshanling-great-wall/) if Mutianyu already looks like the safe default and the real question is whether your trip is one of the rarer cases that benefits from a more rugged Wall section
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if the wider city shape is still unsettled
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place the Wall inside a real Beijing stay
 - read [What to Reserve in Advance for China Trips](/topics/attraction-reservations/) if you are still deciding which parts of Beijing deserve early booking attention

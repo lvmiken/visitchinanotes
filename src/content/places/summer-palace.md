@@ -151,6 +151,8 @@ For many first trips, the best role is not "biggest priority of the whole city."
 - one lighter-weight counterbalance to the busiest headline blocks
 - one part of Beijing that keeps the trip from feeling too compressed
 
+If the real comparison is not `Should I do the Summer Palace at all?` but `Summer Palace or Temple of Heaven for the calmer Beijing day?`, the more focused decision page is [Temple of Heaven or Summer Palace? Which Beijing Day Feels Better on a First Trip](/guides/temple-of-heaven-or-summer-palace-which-beijing-day-feels-better-on-a-first-trip/).
+
 ## Common mistakes
 
 - cutting it too quickly because it sounds less essential on paper
@@ -160,6 +162,7 @@ For many first trips, the best role is not "biggest priority of the whole city."
 
 ## Which page to read next
 
+- read [Temple of Heaven or Summer Palace? Which Beijing Day Feels Better on a First Trip](/guides/temple-of-heaven-or-summer-palace-which-beijing-day-feels-better-on-a-first-trip/) if the route needs one calmer Beijing day but has room for only one of the two
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still choosing which sights deserve the route
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you are deciding where a slower major sight should sit
 - read [Metro, Taxi, or Ride-Hailing in China Cities: What First-Time Travelers Should Choose](/topics/metro-taxi-ridehailing/) if local movement inside Beijing is part of the hesitation

@@ -123,6 +123,8 @@ For many first-time visitors, Yuanjiajie is the best `inside-the-park priority`,
 
 If the live question already is whether that iconic branch deserves your best internal park slot, the narrower next page is [Yuanjiajie in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/yuanjiajie/).
 
+If the iconic branch already is chosen in principle and the live question is how to shape the strongest Avatar-peaks day without wasting it on vague park ambition, the narrower route page is [Yuanjiajie Route: How to See the Avatar Peaks Without Wasting the Day](/guides/yuanjiajie-route-how-to-see-the-avatar-peaks-without-wasting-the-day/).
+
 ## 3. Tianzi Mountain or Golden Whip Stream usually makes a better second park layer than one more unrelated extra
 
 [Tianzi Mountain](/places/tianzi-mountain/) and [Golden Whip Stream](/places/golden-whip-stream/) are often strongest when they shape the park experience more intelligently instead of making the trip longer on paper only.
@@ -170,6 +172,8 @@ It is usually weaker when:
 For many first-time visitors, Tianmen is the best `second anchor` and the best `clean one-day answer`, not always the best default anchor.
 
 If the live question already is whether Tianmen should beat the park on your route, the narrower next page is [Tianmen Mountain in Zhangjiajie: Is It Worth It on a First Trip?](/places/tianmen-mountain/).
+
+If Tianmen already looks likely and the real question is what the `cable car` and `999 steps` actually mean in practical trip terms, the narrower route page is [Tianmen Mountain Cable Car or 999 Steps? What the Day Is Actually Like](/guides/tianmen-mountain-cable-car-or-999-steps-what-the-day-is-actually-like/).
 
 ## 5. The Glass Bridge is a selective thrill extra, not a core first-trip priority
 

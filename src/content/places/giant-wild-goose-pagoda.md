@@ -92,6 +92,8 @@ It becomes more useful if you already know the south-side block should do more t
 
 If the pagoda side already is chosen and the live question is whether the open-air night there should stay easier and more drop-in friendly instead of becoming a fuller ticketed scenic branch, the natural companion page is [Grand Tang Dynasty Everbright City: When Xi'an's Flashiest Night Is Worth Planning](/places/grand-tang-dynasty-everbright-city/).
 
+If the pagoda side already is chosen but the trip still wants one quieter or more creative supporting stop beyond the obvious evening names, [Guangren Temple](/places/guangren-temple/) is the calmer sacred counterweight and [Xiying Film Studio](/places/xiying-film-studio/) is the more visual urban-contrast option.
+
 If the place already belongs in the route and the live question now is how to use the surrounding meal slot well, the natural food companion is [Where to Eat Near Giant Wild Goose Pagoda in Xi'an for First-Time Visitors](/guides/where-to-eat-near-giant-wild-goose-pagoda-in-xian/).
 
 If the place already belongs in the route strongly enough that it may change where you sleep, the natural hotel companion is [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/).
@@ -248,6 +250,8 @@ The pagoda is usually strongest for:
 - read [Is Giant Wild Goose Pagoda Worth It With Kids?](/guides/is-giant-wild-goose-pagoda-worth-it-with-kids/) if your real question is the narrower family version of whether this stop improves the route
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the real question is whether the whole pagoda-side area should carry a more scenic evening block
 - read [Grand Tang Dynasty Everbright City: When Xi'an's Flashiest Night Is Worth Planning](/places/grand-tang-dynasty-everbright-city/) if the pagoda-side question already is evening-led and the live choice is easier open-air atmosphere versus a fuller scenic event
+- read [Guangren Temple in Xi'an: A Quieter Sacred Stop Beyond the Main Checklist](/places/guangren-temple/) if the pagoda-side branch already is secure and the trip still wants one calmer sacred layer
+- read [Xiying Film Studio in Xi'an: When the Film Compound Adds a Different Side of the City](/places/xiying-film-studio/) if the pagoda-side branch already is secure and the trip still wants one more creative or design-led detour
 - read [Shaanxi History Museum for First-Time Visitors: When It Improves a Xi'an Trip and When It Overloads It](/places/shaanxi-history-museum/) if the south-side decision may become a museum-plus-pagoda day instead of only a landmark stop
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if the main excursion day still needs to be settled first
 

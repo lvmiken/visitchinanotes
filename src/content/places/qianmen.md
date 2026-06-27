@@ -143,6 +143,7 @@ If the area itself already is fixed and the question now is how to use it for fo
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if the central historic day is still being shaped
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you are placing Qianmen inside a real route
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want one concrete old-core route that uses Qianmen properly
+- read [Yangmeizhu Xiejie in Beijing: A Better Old-Beijing Stroll Than Following the Loudest Crowd](/places/yangmeizhu-xiejie/) if the Qianmen side already is happening and the live question is whether the old-city walk should include a subtler lane instead of only the most obvious crowd flows
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the district is already chosen and the next decision is the meal block
 - read [Where to Eat Breakfast in Qianmen for First-Time Visitors](/guides/where-to-eat-breakfast-in-qianmen-for-first-time-visitors/) if the next decision is specifically the morning start
 - read [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/) if the day is already routed through Qianmen and the missing decision is the midday meal

@@ -140,6 +140,8 @@ Shanghai often feels best after dark, so the right hotel area should still make 
 
 This matters more than many first-time visitors expect because the city is not just about daytime checklist sightseeing. A hotel that works in the morning but feels annoying at night is often the wrong base.
 
+If the live concern already has narrowed from `which area is best?` to `which area and evening style will feel easiest alone after dark?`, the practical companion page is [Is Shanghai Safe at Night for Solo Female Travelers?](/guides/is-shanghai-safe-at-night-for-solo-female-travelers/).
+
 It matters even more if your dates sit in a wetter or more humid window. On a rainy Shanghai day, a central base usually protects the trip better because it makes it easier to pivot toward museums, shorter Bund checks, or district-led meals without turning every transfer into a separate effort. If that is the live concern, keep [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) nearby.
 
 If the base is nearly chosen and the next live question is what should actually be locked before arrival, [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) is the cleaner next page because in Shanghai the hotel area often deserves commitment earlier than many smaller tickets do.
@@ -162,6 +164,7 @@ If the bigger concern is not only what to book but whether the base will keep me
 - read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the real hotel decision already has narrowed to classic skyline convenience versus neighborhood rhythm
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if hotel area is now making your dinner districts and easier meal nights more obvious
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the hotel decision is really about which evenings should feel easiest
+- read [Is Shanghai Safe at Night for Solo Female Travelers?](/guides/is-shanghai-safe-at-night-for-solo-female-travelers/) if the hotel question is really about night comfort, solo returns, and low-friction district choice
 - read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the stay question now is whether one polished modern district should carry the hotel logic or only the easier final-night dinner
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the base is mostly solved and you want the booking order next
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the base is mostly solved and you want the movement logic next

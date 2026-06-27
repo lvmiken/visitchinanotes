@@ -78,6 +78,8 @@ It is usually the better answer when:
 
 If the overnight version already is starting to win and the real question now is how Hangzhou itself should use that extra night, the narrower next page is [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/).
 
+If the bigger route question is not only `day trip or overnight?` but `Hangzhou or another east-China extension altogether?`, the broader chooser is [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/).
+
 ## Protect the split from becoming fake efficiency
 
 Travelers sometimes keep Hangzhou as a day trip only because the train is fast. That can create the illusion of efficiency while still making the day feel too compressed.
@@ -105,6 +107,7 @@ That one rule is often more helpful than comparing only train duration.
 
 ## Which page to read next
 
+- read [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/) if the route still has not decided which east-China branch should exist at all
 - read [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) if the Shanghai-Hangzhou move still feels too abstract
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if the split is chosen and you are ready to book the rail segment
 - read [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) if the train is fixed and seat comfort is the only remaining choice

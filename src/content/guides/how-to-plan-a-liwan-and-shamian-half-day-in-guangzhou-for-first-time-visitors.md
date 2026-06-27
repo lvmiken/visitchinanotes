@@ -129,6 +129,10 @@ For many first-time visitors, this is the best way to make `Shamian` useful with
 
 If the live question becomes whether `Shamian` itself really deserves the supporting finish role, the narrower page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
 
+If the answer already is yes and the real question is how to use Shamian better on foot once you get there, the narrower route page is [Shamian Island Walk: What to See Without Random Wandering](/guides/shamian-island-walk-what-to-see-without-random-wandering/).
+
+If the live question already is whether Shamian's French-era architectural layer adds enough to justify the branch, not only how to walk it, the cleaner bridge page is [A Better French-Era Walk in Guangzhou: Why Shamian Works Best With Liwan](/guides/a-better-french-era-walk-in-guangzhou-why-shamian-works-best-with-liwan/).
+
 ## Fuller version: Liwan, Yongqing Fang, and one meal stop
 
 This is the better west-side version if the food side is part of the reason the branch exists.

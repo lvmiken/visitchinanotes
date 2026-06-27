@@ -64,6 +64,8 @@ The official Nanjing metro page says tourists can use:
 
 That makes metro a very practical backbone for many first-time trips.
 
+If your Nanjing stop is specifically a same-day rail move from Shanghai, pair this page with [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/). That page shapes the day; this one helps you move through it.
+
 If one of your fixed stops is the memorial, the practical page to keep open is [How to Visit the Nanjing Massacre Memorial as an English-Speaking Visitor](/guides/how-to-visit-the-nanjing-massacre-memorial/), because it covers the nearest metro context, timing limits, and the tone that stop deserves.
 
 ## When walking should take over
@@ -113,5 +115,6 @@ If the stay is overnight, read [Best Area to Stay in Nanjing for First-Time Visi
 
 - read [Best Area to Stay in Nanjing for First-Time Visitors](/guides/nanjing-where-to-stay/) if the hotel base still is open
 - read [Xinjiekou or Confucius Temple: Where to Stay in Nanjing for First-Time Visitors](/guides/xinjiekou-or-confucius-temple-where-to-stay-in-nanjing-for-first-time-visitors/) if the hotel question already is narrower
+- read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if the route shape already is fixed and the next question is how the rail version should function once you arrive
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if you want transport logic inside a real route
 - read [How to Visit the Nanjing Massacre Memorial as an English-Speaking Visitor](/guides/how-to-visit-the-nanjing-massacre-memorial/) if one of your main transport questions is how to handle that stop respectfully and efficiently

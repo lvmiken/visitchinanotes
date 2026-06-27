@@ -1,6 +1,6 @@
 ---
-title: "Beijing Hutong Tour for First-Time Visitors: What to Book, What to Walk, and What to Skip"
-description: "Searching for a Beijing hutong tour? This first-time guide explains when a guided or rickshaw-style hutong tour is worth it, when a self-guided old-city walk is better, and how to choose between Nanluoguxiang, Shichahai, and a broader hutong day."
+title: "Do You Need a Beijing Hutong Tour? What to Book, What to Walk, and What to Skip"
+description: "Searching for a Beijing hutong tour? Use this guide to decide when a paid tour adds real value, when a self-guided old-city walk is better, and how to choose between Shichahai, Nanluoguxiang, and a broader hutong day."
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
 city: "beijing"
@@ -205,10 +205,13 @@ Once that answer is clear, the right version becomes much easier to choose.
 - choosing Nanluoguxiang expecting quiet depth instead of easier old-city energy
 - choosing Shichahai without giving the day enough slower pacing to enjoy it
 
+If the live question has narrowed even further to `rickshaw price`, vague pitches, or how not to pay for the wrong version, the sharper execution page is [Beijing Hutong Rickshaw Tours: Prices, Red Flags, and When Walking Is Better](/guides/beijing-hutong-rickshaw-prices-scams-and-when-to-just-walk/).
+
 ## Which page to read next
 
 - read [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) if the bigger question still is whether hutongs deserve time at all
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if the hutong layer is confirmed and the next problem is turning it into a real day
 - read [Shichahai for First-Time Visitors: Why This Lake-and-Hutong Area Makes Beijing Feel More Lived In](/places/shichahai-area/) if the stronger candidate is the broader scenic old-city version
 - read [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/) if the stronger candidate is one easier, more legible hutong stop
+- read [Beijing Hutong Rickshaw Tours: Prices, Red Flags, and When Walking Is Better](/guides/beijing-hutong-rickshaw-prices-scams-and-when-to-just-walk/) if the decision now is about the paid rickshaw version specifically
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the whole city still needs to be shaped before the old-Beijing day is locked

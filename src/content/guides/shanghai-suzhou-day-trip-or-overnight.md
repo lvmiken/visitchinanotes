@@ -46,6 +46,10 @@ That version works especially well if you are happy protecting only:
 - [Humble Administrator's Garden](/places/humble-administrators-garden/)
 - [Suzhou Museum](/places/suzhou-museum/) and [Pingjiang Road](/places/pingjiang-road/)
 
+If the day-trip version already is clearly winning and you no longer need the comparison, the narrower execution page is [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/).
+
+If the bigger problem is no longer `day trip or overnight?` but `Suzhou or Nanjing?`, the more useful chooser is [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/).
+
 ## Choose an overnight stay if the route needs breathing room
 
 An overnight stay usually wins if:
@@ -69,6 +73,8 @@ If the whole point of adding Suzhou is atmosphere, that shortcut often cancels t
 
 ## Which page to read next
 
+- read [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/) if the route still has not decided which east-China extension should exist at all
 - read [How Many Days in Suzhou for First-Time Visitors](/guides/how-many-days-in-suzhou-for-first-time-visitors/) if the length still feels unclear
+- read [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/) if the comparison is settled and the next question is how to make the rail day work cleanly
 - read [A Practical 1-Day Suzhou Itinerary for First-Time Visitors](/guides/suzhou-1-day-itinerary-for-first-time-visitors/) if the day-trip version already is winning
 - read [Best Area to Stay in Suzhou for First-Time Visitors](/guides/suzhou-where-to-stay/) if the overnight version is chosen

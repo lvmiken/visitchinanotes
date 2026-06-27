@@ -62,6 +62,8 @@ It is especially useful for:
 - moving between hotel and the broader city
 - keeping the day trip or overnight version efficient
 
+If your Suzhou stop is specifically a same-day rail move from Shanghai, pair this page with [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/). That page handles the shape of the day; this one handles how to move inside it.
+
 ## When walking should take over
 
 This is the key Suzhou transport rule.
@@ -115,4 +117,5 @@ If the stay already is an overnight, read [Best Area to Stay in Suzhou for First
 
 - read [Best Area to Stay in Suzhou for First-Time Visitors](/guides/suzhou-where-to-stay/) if the hotel base still is open
 - read [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) if the route shape still matters more than the transport details
+- read [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/) if the route shape already is set and the live issue now is how the rail version should actually function
 - read [A Practical 1-Day Suzhou Itinerary for First-Time Visitors](/guides/suzhou-1-day-itinerary-for-first-time-visitors/) if you want to place transport inside a real short route

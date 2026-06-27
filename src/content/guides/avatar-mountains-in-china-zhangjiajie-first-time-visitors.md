@@ -145,6 +145,8 @@ For many first-time visitors:
 
 If the live choice still is between those two anchors, go straight to [Zhangjiajie National Forest Park or Tianmen Mountain for First-Time Visitors?](/guides/zhangjiajie-national-forest-park-or-tianmen-mountain-for-first-time-visitors/).
 
+If the Avatar search already has narrowed correctly to `Yuanjiajie` and the live question is no longer `where?` but `how do I route this well?`, the narrower execution page is [Yuanjiajie Route: How to See the Avatar Peaks Without Wasting the Day](/guides/yuanjiajie-route-how-to-see-the-avatar-peaks-without-wasting-the-day/).
+
 ## 5. Stay in Wulingyuan if the Avatar-mountains side is the real priority
 
 If your hotel choice still is open, the base should follow the scenic job.

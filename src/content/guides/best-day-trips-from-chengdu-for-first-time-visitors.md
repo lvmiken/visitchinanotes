@@ -123,6 +123,8 @@ That combination is why this day trip works so well:
 
 For many first-time visitors, `Dujiangyan only` is the cleaner short-version answer, while `Dujiangyan plus Qingcheng Mountain` is better when the trip really has a fuller extra day.
 
+If the mountain decision already has narrowed further and the route wants the greener, moodier walking branch rather than the easiest all-around heritage answer, the more selective page is [Qingcheng Rear Mountain: When the Wilder Day Trip Beats Staying in Chengdu](/places/qingcheng-rear-mountain/).
+
 ## 2. Best single-monument excursion: Leshan Giant Buddha
 
 UNESCO describes the `Leshan Giant Buddha` as an 8th-century hillside sculpture overlooking the confluence of three rivers, and notes that at `71 meters` high it is the largest Buddha in the world.
@@ -268,6 +270,7 @@ Use this shortcut:
 - read [How Many Days in Chengdu for First-Time Visitors](/guides/how-many-days-in-chengdu-for-first-time-visitors/) if the side-trip decision still depends on whether Chengdu should really be 2, 3, or 4 days
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you still need to decide whether Chengdu should stay city-focused or expand outward
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the core city version still needs to be protected before you spend a day outside it
+- read [Qingcheng Rear Mountain: When the Wilder Day Trip Beats Staying in Chengdu](/places/qingcheng-rear-mountain/) if the extra day already is leaning more toward mountain mood and walking than toward the easiest Dujiangyan default
 - read [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/) if the extra day already is leaning toward archaeology and the remaining question is whether that museum-led branch really deserves the slot
 - read [What to Book in Advance for Chengdu: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chengdu/) if the extra day now needs to become a real ticket, train, or reservation decision
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the panda day still is not stable enough to let the route add more complexity

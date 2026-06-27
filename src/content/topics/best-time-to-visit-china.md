@@ -97,6 +97,8 @@ This is why season choice belongs in the same planning sequence as [How to Plan 
 
 If your dates are mostly decided and the next practical question is what those dates mean for actual clothing in Beijing, Shanghai, Guangzhou, Chengdu, or Xi'an, continue with [What to Wear in China by Season and City](/topics/what-to-wear-in-china/).
 
+If the route already is clearly a Shanghai-Hangzhou-Suzhou-Nanjing cluster, the regional answer is sharper than this national one: [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/).
+
 ## Match the season to the route
 
 If you are still building the route, ask:
@@ -122,3 +124,5 @@ If packing still feels fuzzy after choosing the season, continue with [China Pac
 If the main gap is clothing rather than luggage as a whole, continue with [What to Wear in China by Season and City](/topics/what-to-wear-in-china/).
 
 If Beijing is a likely first stop, continue with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/). If you want an easier urban entry point, [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) is the better next read.
+
+If East China is already the likely shape of the trip, continue with [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/).

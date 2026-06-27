@@ -225,6 +225,7 @@ The best 9th Street visits usually come from fit, not from hype.
 
 ## Which page to read next
 
+- read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the yes-or-no answer already is mostly clear and the real question is how to use the district without sacrificing a better evening
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the broader nightlife layer still is open
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the bigger evening decision still matters more than nightlife alone
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the real missing layer is dinner rather than later nightlife

@@ -26,6 +26,7 @@ relatedGuideSlugs:
   - "best-things-to-do-in-chongqing-for-first-time-visitors"
   - "how-to-get-around-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
+  - "yangtze-river-cableway-best-time-and-queue-reality"
 tags:
   - "Chongqing"
   - "Yangtze River Cableway"
@@ -235,6 +236,8 @@ more than maximum reservation anxiety.
 
 If the wider booking question still feels muddy, [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/) explains why the cableway usually should not control the whole booking strategy.
 
+If the route already is using the cableway as its main terrain-led block and the trip still wants one shorter supporting stop that explains Chongqing's verticality from the inside, [Kuixing Building Skybridge](/places/kuixing-building-skybridge/) is the cleaner public-space answer and [Baixiangju](/places/baixiangju-apartment/) is the more intense residential-city answer.
+
 ## What usually makes the cableway disappointing?
 
 The cableway often goes wrong when travelers:
@@ -259,6 +262,9 @@ The best cableway rides usually come from using it intelligently, not from givin
 
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the live issue now is how the cableway fits into real city movement
 - read [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if you still are deciding whether the cableway deserves real trip time at all
+- read [Yangtze River Cableway in Chongqing: Best Time to Ride and How Bad the Queue Really Gets](/guides/yangtze-river-cableway-best-time-and-queue-reality/) if the cableway already looks likely and the real question is when to ride it without wasting the day in line
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you want to place the cableway into a realistic route
+- read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if the cableway already is in the plan and the route still wants one short vertical-city add-on
+- read [Baixiangju in Chongqing: The Apartment Maze That Explains the City — If You Treat It Respectfully](/places/baixiangju-apartment/) if the cableway already is in the plan and the route still wants one deeper residential-city stop
 - read [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) if the real issue is whether weather has already made the cableway the wrong answer
 - read [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/) if the live choice is cableway versus a bigger skyline event

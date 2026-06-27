@@ -26,6 +26,8 @@ faq:
 
 This is the Suzhou version that usually works best for travelers who only have one real day.
 
+If you are building this specifically as a same-day rail detour from Shanghai, keep [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/) open beside this page. It solves the route-shape problem that pure sightseeing lists often ignore.
+
 ## Morning: protect one major garden
 
 Start with [Humble Administrator's Garden](/places/humble-administrators-garden/).
@@ -49,8 +51,11 @@ It is one of the rare combinations in Suzhou that feels naturally connected inst
 If energy is still good, choose just one:
 
 - more time on [Pingjiang Road](/places/pingjiang-road/)
+- a short add-on at [Lion Grove Garden](/places/lion-grove-garden/) only if the museum cluster already is flowing well and the day still feels light
 - a shift toward [Shantang Street](/places/shantang-street/) for a brighter later finish
 - [Lingering Garden](/places/lingering-garden/) only if you already know a second garden truly matters to you
+
+If the day instead needs one easier center-city block with dinner logic and less repetition, the practical pivot is [Pingjiang Road and Guanqian Street: A Smarter Central Suzhou Half Day Than Another Garden](/guides/pingjiang-road-and-guanqian-street-a-smarter-central-suzhou-half-day-than-another-garden/).
 
 For many first-time visitors, this is the moment where restraint improves the day most.
 
@@ -70,5 +75,9 @@ Usually the best finish is:
 ## Which page to read next
 
 - read [What to Do in Suzhou at Night for First-Time Visitors](/guides/what-to-do-in-suzhou-at-night-for-first-time-visitors/) if the final evening still feels unclear
+- read [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/) if the itinerary is happening from Shanghai and the rail execution still needs tightening
 - read [Humble Administrator's Garden in Suzhou: The Garden Most First-Time Visitors Should Prioritize](/places/humble-administrators-garden/) if the first stop itself still is not fully decided
+- read [Humble Administrator's Garden or Lion Grove Garden? Which Suzhou Garden Fits a Short First Trip Better?](/guides/humble-administrators-garden-or-lion-grove-garden-which-suzhou-garden-fits-a-short-first-trip-better/) if the day already is leaning museum-side and the wrong garden choice still could make it repetitive
+- read [Lion Grove Garden in Suzhou: Does It Add Enough Beside the Museum Cluster?](/places/lion-grove-garden/) if the day still seems to have room for one nearby add-on without losing shape
+- read [Pingjiang Road and Guanqian Street: A Smarter Central Suzhou Half Day Than Another Garden](/guides/pingjiang-road-and-guanqian-street-a-smarter-central-suzhou-half-day-than-another-garden/) if the route now needs a softer central branch rather than one more ticketed stop
 - read [Suzhou Museum: Is It Worth Making Time for on a Short First Trip?](/places/suzhou-museum/) if the live question is whether the museum improves this short route enough

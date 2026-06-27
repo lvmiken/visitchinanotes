@@ -65,6 +65,8 @@ For many first-time visitors, Jiming Temple works best when:
 - the main historical choices already are secure
 - the route wants one more measured supporting block
 
+If what the route really needs is not one more short structured stop but a looser scenic reset, [Xuanwu Lake](/places/xuanwu-lake/) is often the better answer.
+
 ## Common mistakes
 
 - treating Jiming Temple like it should replace a core Nanjing priority
@@ -74,5 +76,6 @@ For many first-time visitors, Jiming Temple works best when:
 ## Which page to read next
 
 - read [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) if you still are shaping the shortlist
+- read [Xuanwu Lake in Nanjing: A Better Breathing Space Than Another Heavy Sight?](/places/xuanwu-lake/) if the calmer-layer question may be better solved by open scenic space than by one more temple stop
 - read [Presidential Palace or Nanjing City Wall: Which History Layer Deserves Your Limited Time?](/guides/presidential-palace-or-nanjing-city-wall-which-history-layer-deserves-your-limited-time/) if the route still needs one stronger main daytime choice
 - read [How Many Days in Nanjing for First-Time Visitors](/guides/how-many-days-in-nanjing-for-first-time-visitors/) if this supporting stop depends on trip length

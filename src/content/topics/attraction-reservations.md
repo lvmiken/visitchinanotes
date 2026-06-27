@@ -146,6 +146,8 @@ If your real question is already attraction-specific, the narrower guide will us
 - [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) is the main ticket page if the Disney day is one of the Shanghai anchors.
 - [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) helps if the booking question is already turning into a full-day route decision.
 
+If the route is a broader Shanghai-Hangzhou-Suzhou-Nanjing sequence and the real question is not one attraction but the booking order for the whole cluster, go next to [What to Book in Advance for an East China Trip](/topics/what-to-book-in-advance-for-an-east-china-trip/).
+
 ## Where reservations start changing the wider route
 
 This is where the topic starts overlapping with transport instead of staying only about tickets.
@@ -222,6 +224,7 @@ That order is usually safer than building a very detailed day and only later dis
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the Xi'an anchor excursion is the issue
 - read [How to Book Shaanxi History Museum Tickets as a Foreigner](/topics/how-to-book-shaanxi-history-museum-tickets/) if the Xi'an museum booking itself has become the real blocker
 - read [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) if the real booking problem is the Shanghai Disney day
+- read [What to Book in Advance for an East China Trip](/topics/what-to-book-in-advance-for-an-east-china-trip/) if East China is confirmed and the challenge is deciding what the whole route actually needs reserved
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if you are still deciding how much of the Xi'an stay should revolve around that excursion
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still shaping the city rather than the exact booking
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the reservation question is really about whether the short Xi'an stop still works in the current order

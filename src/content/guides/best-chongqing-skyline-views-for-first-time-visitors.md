@@ -189,6 +189,8 @@ It is weaker when:
 
 If that route-shaping question is live, the narrower page is [Yangtze River Cableway in Chongqing: Is It Worth It for First-Time Visitors?](/places/yangtze-river-cableway/).
 
+If what you actually want is not a full skyline session but one quick vertical-city perspective shock before or after the main night, [Kuixing Building Skybridge](/places/kuixing-building-skybridge/) is the cleaner public-space stop and [Baixiangju](/places/baixiangju-apartment/) is the more intense residential-city detour.
+
 ## Which skyline answer is best on a 2-day Chongqing trip?
 
 For many first-time visitors:
@@ -246,6 +248,9 @@ Choose **Nanshan Yikeshu**.
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the broader evening structure still is open
 - read [Hongyadong in Chongqing: Is It Worth It for First-Time Visitors?](/places/hongyadong/) if the main classic skyline anchor still is not settled
 - read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the skyline anchor is settled and the next live question is how to get the classic photo well
+- read [Yangtze River Cableway in Chongqing: Best Time to Ride and How Bad the Queue Really Gets](/guides/yangtze-river-cableway-best-time-and-queue-reality/) if the cableway already looks likely and you need the least painful timing window
+- read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if the main skyline is settled and you want one brief vertical-city add-on instead of another full view session
+- read [Baixiangju in Chongqing: The Apartment Maze That Explains the City — If You Treat It Respectfully](/places/baixiangju-apartment/) if the main skyline is settled and you want one deeper residential-city texture stop
 - read [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/) if the skyline event choice still is open
 - read [Nanbin Road in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanbin-road/) if the calmer scenic branch still is being judged
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the trip wants one higher panoramic branch

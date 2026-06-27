@@ -1,6 +1,6 @@
 ---
 title: "What to Do in Beijing at Night for First-Time Visitors"
-description: "Choose between Qianmen, Wangfujing, Guijie, and Sanlitun for a Beijing night out, based on your hotel area, dinner plans, energy level, and how local or polished you want the evening to feel."
+description: "Choose between Qianmen, Wangfujing, Guijie, and Sanlitun for a Beijing evening that actually fits the day you already had, based on dinner plans, energy, hotel area, and whether the night should feel historic, food-led, or modern."
 publishDate: 2026-06-19
 updatedDate: 2026-06-20
 city: "beijing"
@@ -48,6 +48,8 @@ Use this page if you are asking:
 - when should dinner be the main event and when should the area matter more?
 
 If your broader Beijing structure is still unsettled, start with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/). If the real question is mainly about meals, keep [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) open too. If the real comparison is between evening food districts, [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) is also useful. If the night should center on a livelier dinner street, keep [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) open too.
+
+If the real question is no longer the broader evening shape, but whether one polished riverfront night should be a walk, a cruise, or simply a drinks-led scenic finish, the narrower next page is [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/).
 
 ## The short answer
 
@@ -144,6 +146,8 @@ It is also often the cleanest Beijing answer if the night should center on:
 - a mixed-group evening where not everyone wants another traditional Beijing meal
 
 If that modern-night decision is already the real question, use [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) next.
+
+If the district already is clearly `Sanlitun` and the live problem is how to make one easy drinks night work without overbuilding it, the sharper child page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
 
 ## 4. Livelier dinner street night: choose Guijie
 
@@ -266,6 +270,8 @@ That already gives the city more range than leaving every night unplanned.
 - read [Where to Eat in Shichahai for First-Time Visitors](/guides/where-to-eat-in-shichahai-for-first-time-visitors/) if the night already is leaning toward a softer lakeside meal rather than a more iconic or polished evening
 - read [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the real decision is one lively late-dinner street
 - read [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the real decision is bars, cocktails, Western restaurants, or a more international-feeling night
+- read [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/) if the night already belongs to Sanlitun and the real question is how to keep the drinks plan simple and smooth
+- read [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/) if the modern-evening side already is chosen and the live question is how to use Beijing's riverfront answer well
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the old-core evening is already the real decision
 - read [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) if the easier central dinner stop is the real decision
 - read [Sanlitun in Beijing: Is It Worth Visiting, Staying, or Going Out?](/places/sanlitun/) if the modern dinner, bar, or Western-restaurant layer is the real decision

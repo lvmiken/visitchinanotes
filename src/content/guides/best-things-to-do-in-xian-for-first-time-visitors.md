@@ -99,6 +99,8 @@ What makes it stronger:
 
 If the real question is not whether it matters but how to make the day practical, go straight to [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/).
 
+If the real question is wider than transport and the live problem is how to build the whole excursion day from Xi'an without overstacking it, the better bridge page is [A Smarter Terracotta Army Day From Xi'an: Transport, Pit 1, and What Not to Stack on Top](/guides/a-smarter-terracotta-army-day-from-xian-transport-pit-1-and-what-not-to-stack-on-top/).
+
 ## 2. Xi'an City Wall is the strongest in-city priority for many first-timers
 
 [Xi'an City Wall](/places/xian-city-wall/) often gives more value than another lower-priority museum because it helps you understand the city physically, not only historically.
@@ -229,6 +231,8 @@ On a 3-day Xi'an trip, the stronger extras often are:
 - one pagoda-side block
 - one more intentional evening shape
 - a cleaner food layer
+- one calmer [Guangren Temple](/places/guangren-temple/) stop if the city needs a quieter sacred note
+- one more creative [Xiying Film Studio](/places/xiying-film-studio/) stop if the route wants contrast instead of another formal history layer
 
 This is where Xi'an starts to feel like more than an efficient history stop.
 
@@ -249,6 +253,7 @@ If that fuller version is the one you want, [Xi'an 3-Day Itinerary for First-Tim
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if you still have not decided whether the city should stay sharp or go fuller
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want the strongest short version of these priorities
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if you want to turn this shortlist into a fuller route
+- read [Huashan Plank Walk from Xi'an: How Extreme It Feels and Who Should Leave It Alone](/guides/huashan-plank-walk-from-xian-how-extreme-is-it-really/) if Xi'an's core already is clear and the next live question is whether a Huashan day trip is a real upgrade or just viral temptation
 - read [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) if the shortlist is mostly clear and the next question is what to lock first
 - read [Best Museums in Xi'an for First-Time Visitors](/guides/best-museums-in-xian-for-first-time-visitors/) if the live question is which museum deserves the optional extra slot
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the missing layer now is how the city should feel after dark

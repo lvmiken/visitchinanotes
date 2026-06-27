@@ -138,6 +138,8 @@ That is why Sanlitun is often the best answer when the trip wants one "food plus
 
 If that is already the real question, the next page is [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/).
 
+If the district itself already is decided and the only remaining question is how to turn dinner into one easy drinks-led Sanlitun night, the sharper execution page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
+
 ## 4. Use brunch, cafes, or a lighter stop only if Sanlitun is already on the route
 
 Sanlitun can also work for:
@@ -236,6 +238,7 @@ You usually do not need multiple Sanlitun food missions on the same short trip.
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the broader district choice is still open
 - read [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) if you still need the wider comparison with Qianmen, Niujie, Huguosi, and Wangfujing
 - read [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the real decision is cocktails, bars, or a drinks-led evening
+- read [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/) if the meal already is basically chosen and the live question is how to keep the post-dinner drinks part easy
 - read [Sanlitun in Beijing: Is It Worth Visiting, Staying, or Going Out?](/places/sanlitun/) if the neighborhood itself is still the question
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if your hotel area may decide whether Sanlitun feels easy or annoying
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to see where a Sanlitun dinner actually belongs

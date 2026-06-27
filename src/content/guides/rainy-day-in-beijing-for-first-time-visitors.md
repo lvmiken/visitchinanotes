@@ -162,6 +162,8 @@ For many first-time visitors, this lighter-museum path is stronger when:
 - the trip needs indoor shelter but not another giant commitment
 - you still want room for dinner or an evening district later
 
+If the weather is annoying rather than catastrophic and you want a more modern cultural pivot than a formal museum, [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/) is often the cleaner half-day alternative.
+
 ## Option 3: turn the day into food plus one old-core or evening layer
 
 Rain does not always mean you owe the trip a museum.
@@ -241,5 +243,6 @@ This is often the better answer when the trip still needs atmosphere, not just s
 - read [Rainy Day in Beijing With Kids](/guides/rainy-day-in-beijing-with-kids/) if the live issue is not only rain but child energy, easier transport, and family fallback logic
 - read [Best Museums in Beijing for First-Time Visitors](/guides/best-museums-in-beijing-for-first-time-visitors/) if you need to choose the right indoor backup
 - read [Capital Museum for First-Time Visitors](/places/capital-museum/) if you want one strong middle-weight rainy-day museum
+- read [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/) if the better rainy-day save is a lighter modern-cultural half day rather than one more formal museum
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if the bigger rainy-day problem is movement, not sightseeing
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you still have flexibility to swap day order instead of only rescuing today

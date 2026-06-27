@@ -2,7 +2,7 @@
 title: "Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold"
 description: "Find out which things to do in Harbin are actually worth your limited time, how to choose between Ice and Snow World and the central city, and how to build a first trip that feels stronger than a cold checklist."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-06-27
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "2 to 3 days"
@@ -177,6 +177,8 @@ You can protect:
 
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the main live decision is whether the city's biggest winter icon should carry the stop
 - read [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/) if the city needs a stronger central-day anchor
+- read [Zhongyang Street in Winter: Where to Walk, What to Eat, and How to Stay Warm](/guides/zhongyang-street-in-winter-where-to-walk-what-to-eat-and-how-to-stay-warm/) if the district already is chosen and the next real question is how to structure the winter walk well
+- read [A Better Harbin Central Winter Half Day: Zhongyang Street, Saint Sophia, and When to Step Back Indoors](/guides/a-better-harbin-central-winter-half-day-zhongyang-street-saint-sophia-and-when-to-step-back-indoors/) if the main live problem is how to combine Harbin's two easiest central priorities into one smarter winter block
 - read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if the city is already chosen and the next question is how to book the main winter night cleanly
 - read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if cold tolerance still may change which Harbin plans are realistic
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the real next decision is the hotel base

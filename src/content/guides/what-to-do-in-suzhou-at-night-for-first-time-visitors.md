@@ -69,10 +69,13 @@ For many first-time visitors:
 
 is the best shape.
 
+If the live problem now is not which district exists but how to stop the evening from getting split between both, the sharper route page is [One Good Suzhou Night: Pingjiang, Shantang, and When Not to Do Both](/guides/one-good-suzhou-night-pingjiang-shantang-and-when-not-to-do-both/).
+
 ## Which page to read next
 
 - read [Where to Stay in Suzhou for Canal Walks: Pingjiang Road or a More Practical Central Base?](/guides/where-to-stay-in-suzhou-for-canal-walks-pingjiang-road-or-a-more-practical-central-base/) if the evening choice is starting to shape the hotel decision
 - read [Best Area to Stay in Suzhou for First-Time Visitors](/guides/suzhou-where-to-stay/) if the night shape is really a hotel-base question
+- read [One Good Suzhou Night: Pingjiang, Shantang, and When Not to Do Both](/guides/one-good-suzhou-night-pingjiang-shantang-and-when-not-to-do-both/) if the real evening question is not where to go in general but how to keep the night from doing too much
 - read [Where to Eat Near Pingjiang Road in Suzhou for First-Time Visitors](/guides/where-to-eat-near-pingjiang-road-in-suzhou-for-first-time-visitors/) if the softer evening is already chosen and now needs a meal shape
 - read [Shantang Street Dinner Guide for First-Time Visitors in Suzhou](/guides/shantang-street-dinner-guide-for-first-time-visitors-in-suzhou/) if the brighter evening is already chosen and now needs a dinner shape
 - read [Pingjiang Road in Suzhou: When the Canal Walk Is Actually Worth Your Time](/places/pingjiang-road/) if you want the softer evening answer

@@ -56,6 +56,8 @@ Use this page if you are asking:
 
 If the broader stop still is not shaped, keep [Zhangjiajie First-Time Park Planning: Keep the Days Scenic, Not Frantic](/guides/zhangjiajie-first-time-park-planning/) open too.
 
+If Tianmen already looks likely and the live question now is what the `cable car` and `999 steps` actually feel like in real route terms, keep [Tianmen Mountain Cable Car or 999 Steps? What the Day Is Actually Like](/guides/tianmen-mountain-cable-car-or-999-steps-what-the-day-is-actually-like/) open too.
+
 ## The short answer
 
 `Tianmen Mountain` is usually worth it when:
@@ -147,5 +149,6 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [Zhangjiajie National Forest Park: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-national-forest-park/) if the real choice is concentrated drama versus core pillar scenery
+- read [Tianmen Mountain Cable Car or 999 Steps? What the Day Is Actually Like](/guides/tianmen-mountain-cable-car-or-999-steps-what-the-day-is-actually-like/) if the broader answer is yes and the remaining decision is how to do Tianmen without choosing the wrong intensity
 - read [How Many Days Do You Need in Zhangjiajie for a First Trip?](/guides/zhangjiajie-how-many-days/) if you still need to judge whether the stop is long enough for both
 - read [Zhangjiajie First-Time Park Planning: Keep the Days Scenic, Not Frantic](/guides/zhangjiajie-first-time-park-planning/) if the mountain branch already is chosen and you now need calmer day structure

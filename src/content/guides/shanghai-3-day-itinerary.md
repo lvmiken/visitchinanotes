@@ -2,7 +2,7 @@
 title: "Shanghai 3-Day Itinerary for First-Time Visitors"
 description: "Use this Shanghai 3-day itinerary to plan a first trip around the Bund, the French Concession, classic food stops, and one realistic Pudong or museum block without wasting time on cross-city detours."
 publishDate: 2026-06-14
-updatedDate: 2026-06-23
+updatedDate: 2026-06-27
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -147,9 +147,13 @@ If the trip wants one calmer everyday local meal so Shanghai does not become dum
 
 If Day 2 already belongs to the French Concession and the live question is how to turn it into one practical first-time walk instead of an abstract neighborhood block, the narrower execution page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/).
 
+If Day 2 already feels less like `what should I see?` and more like `how do I make the neighborhood actually enjoyable?`, the sharper daytime companion is [A Shanghai Coffee Walk Through Anfu, Julu, Fumin, and Changle](/guides/a-shanghai-coffee-walk-through-anfu-julu-fumin-and-changle/).
+
+If the broader visual goal for the trip already is becoming more photo-led and the live question is how to keep that from turning into four versions of the same skyline, the editorial route page is [How to Build a Shanghai Photo Day Without Repeating the Same Skyline](/guides/how-to-build-a-shanghai-photo-day-without-repeating-the-same-skyline/).
+
 If Day 2 also is the best candidate for your one slower evening with dinner, drinks, or a longer walk instead of a skyline ritual, [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) is the next practical page.
 
-If that Day 2 evening already is narrowing specifically into the neighborhood version rather than a polished Xintiandi finish, the narrower route-support page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/).
+If that Day 2 evening already is narrowing specifically into the neighborhood version rather than a polished Xintiandi finish, the narrower route-support page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/). If the group already knows cocktails matter and wants one hidden-bar flourish rather than a general bar district, the next-night refinement is [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/).
 
 If the weather turns and this neighborhood day stops looking attractive on paper, [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) is the quickest way to decide whether to keep a shorter district block, pivot to [Shanghai Museum](/places/shanghai-museum/), or turn the day into food plus one easier evening.
 

@@ -1,6 +1,6 @@
 ---
-title: "Impression West Lake in Hangzhou: Is It Worth It for First-Time Visitors?"
-description: "Decide whether Impression West Lake deserves one of your Hangzhou evenings, when it is better than a simple West Lake night walk, and who should skip it on a short first trip."
+title: "Impression West Lake in Hangzhou: When the Show Earns One of Your Nights"
+description: "Decide whether Impression West Lake deserves one of your Hangzhou evenings, when it beats a simple West Lake night walk, and when a short first trip should skip the show."
 publishDate: 2026-06-25
 updatedDate: 2026-06-25
 city: "hangzhou"

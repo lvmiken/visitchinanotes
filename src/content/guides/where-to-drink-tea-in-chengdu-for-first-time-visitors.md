@@ -2,7 +2,7 @@
 title: "Where to Drink Tea in Chengdu for First-Time Visitors"
 description: "Choose where to drink tea in Chengdu based on the kind of break you actually want, from People's Park and Wenshu Monastery to slower neighborhood tea time that fits a real first trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-23
+updatedDate: 2026-06-27
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 to 2 tea breaks"
@@ -164,6 +164,8 @@ If the real question now is whether that urban-and-local answer should happen in
 If the tea stop is really part of a broader evening shape, [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) is the next page to keep open.
 
 If the real question now is not tea at all but where one useful coffee-and-cafe pause should happen between Taikoo Li, Yulin, and a calmer morning block, the narrower next page is [Best Chengdu Cafes for First-Time Visitors](/guides/best-chengdu-cafes-for-first-time-visitors/).
+
+If the broader tea decision already is made and the only remaining search is whether Chengdu's older tea-room atmosphere is worth chasing beyond the easy central classics, the more editorial follow-on page is [Beyond People's Park: Where Chengdu's Older Tea-Room Atmosphere Still Feels Real](/guides/where-to-find-old-tea-room-chengdu-beyond-peoples-park/).
 
 ## 4. Near-hotel or rainy-day tea can be the smartest answer
 

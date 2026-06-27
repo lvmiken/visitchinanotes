@@ -48,6 +48,10 @@ Use this page if you are asking:
 
 If you already know the main problem is the Palace Museum itself, go straight to [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/).
 
+If the step-by-step rules are already familiar but the real issue is why foreign visitors still get stuck on timing, passport details, or third-party expectations, the sharper troubleshooting page is [Forbidden City Booking Problems: What Foreign Visitors Usually Get Stuck On](/guides/forbidden-city-booking-problems-what-foreign-visitors-usually-get-stuck-on/).
+
+If the ticket question already is emotionally bigger than the button-clicking and the real problem is how to build the whole Palace Museum day without letting it distort the whole city, the better bridge page is [How to Lock a Forbidden City Day Without Letting Tickets Break the Whole Beijing Plan](/guides/how-to-lock-a-forbidden-city-day-without-letting-tickets-break-the-whole-beijing-plan/).
+
 If the trip includes children and the real problem is what a family should lock in versus leave flexible, [What to Book in Advance for Beijing With Kids](/guides/what-to-book-in-advance-for-beijing-with-kids/) is the narrower page.
 
 ## The short answer
@@ -81,6 +85,8 @@ That is why the safer move is to treat it as an early anchor, not as a casual la
 Use:
 
 - [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/)
+- [Forbidden City Booking Problems: What Foreign Visitors Usually Get Stuck On](/guides/forbidden-city-booking-problems-what-foreign-visitors-usually-get-stuck-on/)
+- [How to Lock a Forbidden City Day Without Letting Tickets Break the Whole Beijing Plan](/guides/how-to-lock-a-forbidden-city-day-without-letting-tickets-break-the-whole-beijing-plan/)
 - [Forbidden City for First-Time Visitors](/places/forbidden-city/)
 
 ## 2. Great Wall-day setup
@@ -98,10 +104,13 @@ What often deserves earlier attention:
 
 In practice, Great Wall planning often matters more than just the entry itself.
 
+If you are deliberately choosing a more selective `Jinshanling` version — especially one involving overnight timing or after-dark ambitions — the logistics should be treated even earlier than a normal Wall day. In that case, the reality-check page is [Jinshanling After Dark: Night Tour, Camping Talk, and What Is Actually Realistic from Beijing](/guides/jinshanling-night-tour-or-camping-what-is-actually-realistic-from-beijing/).
+
 Use:
 
 - [Mutianyu Great Wall for First-Time Visitors](/places/mutianyu-great-wall/)
 - [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/)
+- [Jinshanling After Dark: Night Tour, Camping Talk, and What Is Actually Realistic from Beijing](/guides/jinshanling-night-tour-or-camping-what-is-actually-realistic-from-beijing/)
 - [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/)
 
 ## 3. Hotel during busy periods

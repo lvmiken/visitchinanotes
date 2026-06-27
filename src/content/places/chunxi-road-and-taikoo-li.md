@@ -55,6 +55,8 @@ Use this page if you are asking:
 
 If the live question already is where to eat here, keep [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) open too.
 
+If the district already looks likely and the real question now is what it is actually worth after dark, keep [Chunxi Road and Taikoo Li After Dark: What Is Actually Worth Your Evening](/guides/chunxi-road-and-taikoo-li-after-dark-what-is-actually-worth-your-evening/) open too.
+
 ## The short answer
 
 Chunxi Road and Taikoo Li are usually worth it when:
@@ -176,6 +178,7 @@ If the live question already is not whether central Chengdu deserves time in gen
 ## Which page to read next
 
 - read [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) if the area already looks right and the live question now is meal execution
+- read [Chunxi Road and Taikoo Li After Dark: What Is Actually Worth Your Evening](/guides/chunxi-road-and-taikoo-li-after-dark-what-is-actually-worth-your-evening/) if the area already looks right and the live question now is whether it deserves one of your evenings
 - read [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/) if the real question is whether this central district works best as a same-day panda follow-up rather than as a general evening block
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the real choice is easy central polish versus richer local atmosphere
 - read [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if the real choice is easy central night versus livelier nightlife

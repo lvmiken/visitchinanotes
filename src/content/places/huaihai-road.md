@@ -69,7 +69,7 @@ If the live question already is mostly about food, keep [Where to Eat in Shangha
 
 - the trip wants one elegant shopping or cafe corridor
 - one refined xiaolongbao, noodle, or lighter meal should happen nearby
-- the route already leans toward [French Concession](/places/french-concession/) or `Fuxing Park`
+- the route already leans toward [French Concession](/places/french-concession/) or [Fuxing Park](/places/fuxing-park/)
 - you want a softer stylish city block without forcing another giant attraction
 
 It is usually less worth protecting when:
@@ -87,7 +87,7 @@ For many first-time visitors, `Huaihai Road` is worth using as a `refined suppor
 - one shopping-and-coffee block
 - one refined dumpling or noodle meal
 - one softer walk between bigger priorities
-- one polished city segment attached to the `French Concession`, `Fuxing Park`, or `Xintiandi` side
+- one polished city segment attached to the `French Concession`, [Fuxing Park](/places/fuxing-park/), or `Xintiandi` side
 
 It is usually weaker for:
 
@@ -167,7 +167,7 @@ For many first-time visitors, `Huaihai Road` works best as:
 - one controlled walk
 - one coffee-and-shopping block
 - one meal attached to a wider neighborhood day
-- one softer segment before or after `Fuxing Park`, `Xintiandi`, or the `French Concession`
+- one softer segment before or after [Fuxing Park](/places/fuxing-park/), `Xintiandi`, or the `French Concession`
 
 It usually does not need to become a destination half day unless shopping itself is a genuine trip priority.
 
@@ -198,7 +198,9 @@ It often improves the trip less when:
 - read [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/) if the live question is whether one refined dumpling meal belongs here
 - read [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/) if the route wants one calmer local bowl on this side of the city
 - read [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) if the day already is neighborhood-led and the remaining choice is what meal belongs there
+- read [Fuxing Park in Shanghai: The Most Useful Quiet Hour in the French Concession](/places/fuxing-park/) if the live question is whether the route needs one more cafe or one quieter reset
 - read [Best Shanghai Restaurants for First-Time Visitors](/guides/best-shanghai-restaurants-for-first-time-visitors/) if the district cue is clear and the open question is which room actually deserves protection
 - read [Nanjing Road in Shanghai: Is It Worth Your Time or Mostly a Convenience Stop?](/places/nanjing-road/) if the live choice is elegance versus central commercial energy
 - read [Xintiandi in Shanghai: Is It Worth Visiting on a First Trip?](/places/xintiandi/) if the live choice is softer corridor versus compact polished evening
+- read [Xujiahui Cathedral and the Old Zikawei Quarter: A Quieter Shanghai Detour](/guides/xujiahui-cathedral-and-the-old-zikawei-quarter-a-quieter-shanghai-detour/) if the route already leans southwest and the live choice is polished corridor versus quieter heritage detour
 - read [French Concession in Shanghai: Is It Worth Visiting for First-Time Visitors?](/places/french-concession/) if the bigger decision is whether the trip wants the whole neighborhood day or only a refined supporting stretch

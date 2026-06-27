@@ -2,7 +2,7 @@
 title: "Guilin on a First Trip: What to Prioritize and What Not to Overbuild"
 description: "Plan a first trip to Guilin with advice on route role, stay length, and whether the stop should focus on the Li River, Yangshuo, or just a short scenic break."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-06-27
 city: "guilin"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -58,6 +58,7 @@ If the decision already has narrowed, the more focused page is usually better:
 - [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/)
 - [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/)
 - [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/)
+- [Xingping Beyond the Banknote: A Better Yangshuo Side Trip Than Just Chasing the 20 RMB View](/guides/xingping-beyond-the-banknote-a-better-yangshuo-side-trip-than-just-chasing-the-20-rmb-view/)
 - [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/)
 
 ## The short answer
@@ -161,5 +162,6 @@ If the region already is winning but the live tradeoff is whether to protect the
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the region is likely and the next live question is whether it deserves 1, 2, or 3 days
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the real decision is whether the region deserves one softer overnight instead of a faster pass-through
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the route mostly is choosing between a pass-through and a real town stay
+- read [Xingping's Cormorant Fisherman Demo: A Real Yangshuo Memory or Just Tourist Theater?](/guides/xingping-cormorant-fisherman-demo-worth-it-or-just-tourist-theater/) if the Xingping branch already is likely and you want to know whether the staged fisherman stop adds anything real
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the trip cannot fully protect both and you need the cleaner tradeoff
 - read [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/) if Yangshuo already looks likely and the next live question is whether the town center actually deserves protected time

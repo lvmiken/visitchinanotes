@@ -40,6 +40,10 @@ A day trip usually works if:
 - the wider route is short
 - you can accept protecting only one major historical anchor plus maybe one old-city layer
 
+If the day-trip version already is clearly winning and the comparison itself is no longer the problem, the narrower execution page is [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/).
+
+If the bigger route still has not chosen between the softer Suzhou branch and the weightier Nanjing branch, the broader east-China chooser is [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/).
+
 ## Choose an overnight stay if Nanjing should feel complete
 
 An overnight usually works better if:
@@ -58,6 +62,8 @@ When Nanjing is compressed too hard, the city often loses exactly what makes it 
 
 ## Which page to read next
 
+- read [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/) if the route still has not decided which east-China extension should carry the trip
 - read [How Many Days in Nanjing for First-Time Visitors](/guides/how-many-days-in-nanjing-for-first-time-visitors/) if you still are choosing the length
+- read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if the route comparison is settled and the live question is how to keep the rail day selective
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if the fuller version is probably right
 - read [Best Area to Stay in Nanjing for First-Time Visitors](/guides/nanjing-where-to-stay/) if the overnight version is chosen

@@ -58,6 +58,8 @@ If the broader park decision still is not settled, keep [Zhangjiajie National Fo
 
 If you found Zhangjiajie by searching for the `Avatar mountains in China` and still need the broader query-level answer before narrowing into Yuanjiajie itself, keep [Avatar Mountains in China: Where to Go in Zhangjiajie and What to Prioritize First](/guides/avatar-mountains-in-china-zhangjiajie-first-time-visitors/) open too.
 
+If you already know Yuanjiajie is the right answer and the live question is how to shape the day around the Avatar peaks without flattening it into park-busyness, keep [Yuanjiajie Route: How to See the Avatar Peaks Without Wasting the Day](/guides/yuanjiajie-route-how-to-see-the-avatar-peaks-without-wasting-the-day/) open too.
+
 ## The short answer
 
 `Yuanjiajie` is usually worth it when:
@@ -165,6 +167,7 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [Golden Whip Stream in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/golden-whip-stream/) if the live choice is iconic pillar scenery versus calmer valley hiking
+- read [Yuanjiajie Route: How to See the Avatar Peaks Without Wasting the Day](/guides/yuanjiajie-route-how-to-see-the-avatar-peaks-without-wasting-the-day/) if Yuanjiajie already is chosen in principle and the remaining problem is how to build the strongest actual day around it
 - read [Tianzi Mountain in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/tianzi-mountain/) if the live choice is strongest iconic first answer versus broader second mountain branch
 - read [Zhangjiajie National Forest Park: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-national-forest-park/) if the broader park choice still is not secure
 - read [Tianmen Mountain in Zhangjiajie: Is It Worth It on a First Trip?](/places/tianmen-mountain/) if the live choice is classic pillar scenery versus one concentrated dramatic branch

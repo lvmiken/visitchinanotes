@@ -57,6 +57,8 @@ This page is for travelers who are not only asking how to buy the ticket, but al
 
 If the only practical blocker is the booking system itself, go straight to [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/).
 
+If you already know the official steps but still keep getting stuck on release timing, passport mismatch risk, or what third-party platforms can realistically do, the tighter troubleshooting page is [Forbidden City Booking Problems: What Foreign Visitors Usually Get Stuck On](/guides/forbidden-city-booking-problems-what-foreign-visitors-usually-get-stuck-on/).
+
 ## The short answer
 
 The Forbidden City is worth prioritizing for most first-time Beijing trips, but only if you plan around it honestly.
@@ -173,6 +175,7 @@ For most first-time travelers, though, it remains one of the clearest "worth pla
 
 ## Which page to read next
 
+- read [Forbidden City Booking Problems: What Foreign Visitors Usually Get Stuck On](/guides/forbidden-city-booking-problems-what-foreign-visitors-usually-get-stuck-on/) if the Palace Museum is chosen and the real pain point now is making the reservation work as a foreign visitor
 - read [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) if tickets are still the main blocker
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if the wider city plan is still unsettled
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you are placing the Forbidden City inside a real Beijing stay

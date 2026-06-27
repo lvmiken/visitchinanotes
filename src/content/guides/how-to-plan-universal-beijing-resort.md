@@ -93,6 +93,8 @@ If the trip still needs a full Beijing shape, use [Beijing Travel Guide for Firs
 
 Current official Universal Beijing Resort information makes four things worth handling in advance:
 
+If the trip is being booked with a foreign passport and the real anxiety is `ticket plus reservation plus entry flow`, keep [Universal Beijing Resort for Foreign Passport Holders: Tickets, App, and Entry Without Last-Minute Panic](/guides/universal-beijing-for-foreign-passport-holders-tickets-app-and-entry/) open too.
+
 ## 1. Check the official park schedule
 
 The official park schedule exists for a reason.
@@ -197,6 +199,7 @@ This is exactly the kind of day where [How to Use Didi in China Without Speaking
 ## Which page to read next
 
 - read [Universal Beijing Resort for First-Time Visitors](/places/universal-beijing-resort/) if you still need the broader "is it worth it?" decision
+- read [Universal Beijing Resort for Foreign Passport Holders: Tickets, App, and Entry Without Last-Minute Panic](/guides/universal-beijing-for-foreign-passport-holders-tickets-app-and-entry/) if the remaining friction is passport, reservation, and gate-readiness rather than where the day fits
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if the trip still needs a stronger family shape overall
 - read [What to Book in Advance for Beijing With Kids](/guides/what-to-book-in-advance-for-beijing-with-kids/) if the practical question is now what the family should lock early
 - read [Beijing 4-Day Itinerary With Kids for First-Time Visitors](/guides/beijing-4-day-itinerary-with-kids/) if you want to place Universal into a real day-by-day route

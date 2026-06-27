@@ -118,6 +118,8 @@ In **Shanghai**, a metro-friendly base that balances skyline access and neighbor
 
 In **Xi'an**, the strongest base is often the one that keeps the short stop feeling compact and makes evening walks easy.
 
+If the route is specifically becoming an East China rail cluster rather than a single-city hotel question, the better next page is [Where to Stay on an East China Multi-City Route](/topics/where-to-stay-on-an-east-china-multi-city-route/).
+
 That is why city-specific judgment matters once the country-level planning is done.
 
 ## What "central" often gets wrong
@@ -164,6 +166,7 @@ The strongest hotel choice usually supports:
 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if the hotel question is really being driven by arrival-day stress
 - read [Metro, Taxi, and Ride-Hailing in China: What First-Time Travelers Should Expect](/topics/metro-taxi-ridehailing/) if daily movement is the bigger concern
+- read [Where to Stay on an East China Multi-City Route](/topics/where-to-stay-on-an-east-china-multi-city-route/) if the live problem is how to base a Shanghai, Hangzhou, Suzhou, and Nanjing sequence
 - read [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) if the route is history-heavy and Beijing is confirmed
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the trip is neighborhood-led and Shanghai is confirmed
 - read the city-specific `where to stay` guide once the city itself is confirmed and you want neighborhood-level judgment

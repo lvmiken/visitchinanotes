@@ -95,6 +95,8 @@ If Universal is one of the real reasons for the Beijing trip, treat it as:
 - one separate energy block
 - one planning item that needs real transport and ticket logic
 
+If the park already is confirmed and the live problem is not the value question but the foreign-passport workflow, use [Universal Beijing Resort for Foreign Passport Holders: Tickets, App, and Entry Without Last-Minute Panic](/guides/universal-beijing-for-foreign-passport-holders-tickets-app-and-entry/).
+
 ## Who usually gets the most value from it
 
 Universal Beijing Resort is often a strong fit for:
@@ -183,5 +185,6 @@ Its value comes from giving the trip a different kind of payoff, not from being 
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if the bigger question is whether Beijing works well as a family city overall
 - read [Best Things to Do in Beijing With Kids](/guides/best-things-to-do-in-beijing-with-kids/) if you want to compare Universal against the rest of the strongest family shortlist
 - read [How to Plan Universal Beijing Resort for First-Time Visitors](/guides/how-to-plan-universal-beijing-resort/) if the practical question is now tickets, scheduling, app setup, and where the day fits
+- read [Universal Beijing Resort for Foreign Passport Holders: Tickets, App, and Entry Without Last-Minute Panic](/guides/universal-beijing-for-foreign-passport-holders-tickets-app-and-entry/) if the next step is solving the passport, reservation, and entry workflow in detail
 - read [Beijing 4-Day Itinerary With Kids for First-Time Visitors](/guides/beijing-4-day-itinerary-with-kids/) if you want to place Universal inside a real family route
 - read [What to Book in Advance for Beijing With Kids](/guides/what-to-book-in-advance-for-beijing-with-kids/) if the next question is what the family should lock early and what should stay flexible

@@ -26,6 +26,7 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "best-shanghai-observation-deck-for-first-time-visitors"
   - "shanghai-tower-or-oriental-pearl-for-first-time-visitors"
+  - "shanghai-tower-observatory-or-j-hotel-what-is-actually-worth-it"
 tags:
   - "Shanghai"
   - "Shanghai Tower"
@@ -136,6 +137,10 @@ For many first-time visitors, Shanghai Tower is the stronger `view answer` and [
 
 If that exact comparison already is the live one, go straight to [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/).
 
+If the real question already is not `which tower?` but `observatory ticket or J Hotel splurge?`, the sharper next page is [Shanghai Tower Observatory or J Hotel? What Shanghai Tower Is Actually Worth Paying For](/guides/shanghai-tower-observatory-or-j-hotel-what-is-actually-worth-it/).
+
+If the tower itself already looks likely and the live decision is really `day or night?`, the narrower timing page is [Top of Shanghai Observatory by Day or Night? Which View Pays Off Better](/guides/top-of-shanghai-observatory-by-day-or-night-which-view-pays-off-better/).
+
 ## Shanghai Tower vs one more neighborhood block
 
 Choose a neighborhood block such as [French Concession](/places/french-concession/) or [Xintiandi](/places/xintiandi/) if:
@@ -194,5 +199,7 @@ It often improves the trip less when:
 
 - read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the live choice already is between the city's two biggest tower names
 - read [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/) if you still want the wider tower-versus-Bund comparison
+- read [Shanghai Tower Observatory or J Hotel? What Shanghai Tower Is Actually Worth Paying For](/guides/shanghai-tower-observatory-or-j-hotel-what-is-actually-worth-it/) if the tower already looks likely and the remaining choice is pure view versus luxury splurge
+- read [Top of Shanghai Observatory by Day or Night? Which View Pays Off Better](/guides/top-of-shanghai-observatory-by-day-or-night-which-view-pays-off-better/) if the remaining decision is not whether to go up, but which ticket window is actually smarter
 - read [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/) if the bigger issue still is whether the whole Pudong skyline block belongs in the route
 - read [The Bund in Shanghai: Best Time to Go for First-Time Visitors](/places/the-bund/) if the riverfront may still be enough without another paid ticket

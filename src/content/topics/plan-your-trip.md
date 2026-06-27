@@ -127,6 +127,8 @@ If your trip is already closer to two weeks and you want a concrete route model,
 
 If you already know the trip is only one week long, skip the abstract debate and move straight to [Best China Itinerary for 7 Days](/topics/best-china-itinerary-7-days/).
 
+If the week already is drifting toward `Shanghai`, `Hangzhou`, `Suzhou`, or `Nanjing`, the better regional parent page is [East China Itinerary Basics for First-Time Visitors](/topics/east-china-itinerary-basics-for-first-time-visitors/).
+
 The mistake is not moving around. The mistake is pretending moves are free.
 
 ## What usually makes a first route too ambitious
@@ -200,6 +202,10 @@ That order prevents a lot of avoidable rework.
 - treating rail or flight time as the whole move
 - adding hotel changes that do not clearly improve the trip
 
+If the route is one week long and the live problem now is simply `how many cities is too many?`, go next to [How Many Cities in One Week in China Is Too Many?](/topics/how-many-cities-in-one-week-in-china-is-too-many/).
+
+If the route is already clearly East China, do not stay only at the national level. Move into the regional planning layer with [How to Plan an East China Itinerary for First-Time Visitors](/topics/east-china-itinerary-basics-for-first-time-visitors/), then narrow further into [Where to Stay on an East China Multi-City Route](/topics/where-to-stay-on-an-east-china-multi-city-route/), [What to Book in Advance for an East China Trip](/topics/what-to-book-in-advance-for-an-east-china-trip/), and [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/).
+
 ## Reduce uncertainty before you add more sights
 
 The strongest plans usually come from answering a few practical questions clearly before adding more attractions.
@@ -218,4 +224,7 @@ The strongest plans usually come from answering a few practical questions clearl
 - read [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/) if intercity movement is starting to shape the city order
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if arrival-day friction is the weak point in the plan
 - read [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) once the city list is mostly stable
+- read [Where to Stay on an East China Multi-City Route](/topics/where-to-stay-on-an-east-china-multi-city-route/) if the trip is now clearly Shanghai plus nearby East China stops
+- read [What to Book in Advance for an East China Trip](/topics/what-to-book-in-advance-for-an-east-china-trip/) if East China is chosen and the next step is locking trains, hotels, and the right anchor day
+- read [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/) if East China is winning but the season still is not
 - read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) if you want a broader confidence check before deciding how self-guided the trip should be

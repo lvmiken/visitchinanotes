@@ -1,6 +1,6 @@
 ---
-title: "Old Beijing Day Itinerary for First-Time Visitors"
-description: "A practical old Beijing day itinerary for first-time visitors, with a calmer one-day route built around hutongs, Beihai Park, Qianmen, snacks, and one evening that still feels like part of the city."
+title: "A Slower Day in Old Beijing: An Itinerary That Actually Works"
+description: "Use this old-Beijing itinerary to build one slower city day around hutongs, Beihai Park, Qianmen, snacks, and an evening that still belongs to the same part of the city instead of feeling patched on."
 publishDate: 2026-06-19
 updatedDate: 2026-06-26
 city: "beijing"
@@ -104,6 +104,8 @@ This is often the best slot for:
 If you want the lighter food side to be part of the day on purpose, use [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) alongside this page. If you already know the morning should revolve around one traditional snack stop rather than a generic breakfast, [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) is the cleaner execution page.
 
 If the real question is whether hutongs themselves deserve the time, keep [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) open too. If the hutong block already is chosen and the live question is whether one easy famous lane belongs, the narrower place page is [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/).
+
+If the real question is not only `Which lane?` but how to make the whole old-core walk feel more selective and less obvious, the companion editorial page is [A More Interesting Old Beijing Walk Beyond Nanluoguxiang](/guides/a-more-interesting-old-beijing-walk-beyond-nanluoguxiang/).
 
 ### What the morning is doing
 

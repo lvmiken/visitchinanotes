@@ -59,6 +59,8 @@ If the route already is sure about Hangzhou and the live question now is what ac
 
 If the route already is sure about Hangzhou and the live question now is how to save the stop if rain hits, start with [Rainy Day in Hangzhou for First-Time Visitors](/guides/rainy-day-in-hangzhou-for-first-time-visitors/).
 
+If the route still is choosing whether Hangzhou is the right east-China add-on after Shanghai, start with [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/).
+
 If the route already is sure about Hangzhou and the live question now is whether one museum actually improves the stay, start with [Best Museums in Hangzhou for First-Time Visitors](/guides/best-museums-in-hangzhou-for-first-time-visitors/).
 
 If the city already is confirmed and the live question now is which foods actually deserve your limited meals, start with [What to Eat in Hangzhou for First-Time Visitors](/guides/what-to-eat-in-hangzhou-for-first-time-visitors/).
@@ -84,4 +86,10 @@ This city works best if you want:
 ## Decide whether the route can truly slow down
 
 If the wider trip is already crowded, Hangzhou may work better as a quick scenic add-on. If the route has breathing room, an overnight stay usually gives the city a much better chance to feel rewarding.
+
+If Hangzhou already sounds right but the bigger route may also want Suzhou and Nanjing, the broader sequencing page is [A 6- to 8-Day Shanghai + Hangzhou + Suzhou + Nanjing Route That Still Feels Edited](/guides/a-6-to-8-day-shanghai-hangzhou-suzhou-and-nanjing-route-that-still-feels-edited/).
+
+If the route already knows it wants Hangzhou plus only one more East-China stop, the sharper branches are [A 4- to 6-Day Shanghai + Hangzhou + Suzhou Route for a Softer East-China First Trip](/guides/a-4-to-6-day-shanghai-hangzhou-and-suzhou-route-for-a-softer-east-china-first-trip/) for the gentler version and [A 5- to 7-Day Shanghai + Hangzhou + Nanjing Route With a Better Finish](/guides/a-5-to-7-day-shanghai-hangzhou-and-nanjing-route-with-a-better-finish/) for the broader scenic-plus-history version.
+
+If the cities already are more or less chosen and the stress now is whether the rail week is too ambitious, use [One Week in East China: How to Build It Without Rushing Every City](/guides/one-week-in-east-china-how-to-build-it-without-rushing-every-city/) and [How to Travel Between Shanghai, Hangzhou, Suzhou, and Nanjing Without Letting Train Days Wreck the Trip](/guides/how-to-travel-between-shanghai-hangzhou-suzhou-and-nanjing-without-letting-train-days-wreck-the-trip/).
 

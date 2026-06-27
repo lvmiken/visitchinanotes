@@ -61,6 +61,8 @@ Use this page if you are asking:
 
 If the west-side branch already clearly is happening and the live question is how to sequence it well, go straight to [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
 
+If the west-side branch already is chosen and the live question is how to turn Shamian itself into a better walk instead of one vague wander, the narrower route page is [Shamian Island Walk: What to See Without Random Wandering](/guides/shamian-island-walk-what-to-see-without-random-wandering/).
+
 ## The short answer
 
 For many first-time visitors, yes, `Shamian Island` is worth it.
@@ -215,6 +217,7 @@ That often is enough.
 ## Which page to read next
 
 - read [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/) if the answer already is yes and the live question is sequencing
+- read [Shamian Island Walk: What to See Without Random Wandering](/guides/shamian-island-walk-what-to-see-without-random-wandering/) if the answer already is yes and the live question is how to use the island well on foot
 - read [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/) if the live choice still is core west-side atmosphere versus supporting finish
 - read [Where to Eat Near Yongqing Fang for First-Time Visitors](/guides/where-to-eat-near-yongqing-fang-for-first-time-visitors/) if the route already belongs to the west side and the next question is how to make the meal layer work
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the real choice still is easy central night versus west-side heritage branch

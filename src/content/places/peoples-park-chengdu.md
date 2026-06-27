@@ -58,6 +58,8 @@ If the tea-house question already is the live problem, keep [Where to Drink Tea 
 
 If the live question is even narrower and really is about whether to do the classic `Heming Teahouse` version, whether ear cleaning is worth trying, and how touristy that stop actually feels, the sharper child page is [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/).
 
+If the live question already is not whether Chengdu needs tea but whether one rougher, more atmospheric tea-room detour beats the easy central classic, the more selective companion page is [Pengzhen Old Teahouse in Chengdu: The Tea Stop Photographers Love — If You Go Gently](/places/pengzhen-old-teahouse/).
+
 ## The short answer
 
 People's Park is usually worth it when:
@@ -168,6 +170,7 @@ That usually creates more value than rushing through in under an hour just to sa
 
 - read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) if the park feels right but the tea-house logic still is not clear
 - read [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/) if the broader park answer already is yes and the live question now is whether the classic tea-house-and-ear-cleaning version actually fits you
+- read [Pengzhen Old Teahouse in Chengdu: The Tea Stop Photographers Love — If You Go Gently](/places/pengzhen-old-teahouse/) if the broader park answer already is yes and the live question now is whether a less polished tea-room detour is worth the extra effort
 - read [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/) if the park feels right and the next question is how to build one softer breakfast-and-tea half day around it
 - read [Should You Go to People's Park After Chengdu Panda Base?](/guides/should-you-go-to-peoples-park-after-chengdu-panda-base/) if the live question is not People's Park in general but whether it is the right same-day panda follow-up
 - read [People's Park or Wenshu Monastery: Which Chengdu Tea and Culture Stop Is Better for First-Time Visitors?](/guides/peoples-park-or-wenshu-monastery-for-first-time-visitors/) if the live choice is whether the trip needs a classic park-and-tea block or a calmer temple-and-tea block

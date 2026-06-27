@@ -128,6 +128,12 @@ If the open question now is whether the cableway actually deserves one of your l
 
 If the open question now is whether one short transit-and-terrain icon deserves route space without becoming another overbuilt detour, the narrower page is [Liziba Station in Chongqing: Is It Worth It for First-Time Visitors?](/places/liziba-station/).
 
+If the route already has its bigger skyline logic secure and the live question is whether one shorter vertical-city stop adds more value than one more generic photo point, [Baixiangju](/places/baixiangju-apartment/) is the stronger deep-urban answer and [Kuixing Building Skybridge](/places/kuixing-building-skybridge/) is the sharper quick public-space answer.
+
+If the live query is not one exact stop but a broader `hidden places in Chongqing` search, the stronger bridge page is [Hidden Places in Chongqing That Are Actually Worth the Detour](/guides/hidden-places-in-chongqing-that-are-actually-worth-the-detour/).
+
+If the live query already has moved from `which odd stops matter?` to `which of them actually fit together in one real day?`, the stronger route page is [How to Build a Vertical-City Day in Chongqing: Liziba, Kuixing, Baixiangju, and What Actually Fits Together](/guides/how-to-build-a-vertical-city-day-in-chongqing-liziba-kuixing-baixiangju-and-what-actually-fits-together/).
+
 Why this matters:
 
 - it helps readers understand why Chongqing feels so different from Beijing, Shanghai, or Chengdu
@@ -324,7 +330,11 @@ If that is the version you want, [A Practical 3-Day Chongqing Itinerary for Firs
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the shortlist mostly is clear and the real concern is whether the city's rail, taxis, Didi, hills, and river crossings will make the route harder than it first looks
 - read [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/) if the shortlist is mostly clear and the next question is what to lock first
 - read [Yangtze River Cableway in Chongqing: Is It Worth It for First-Time Visitors?](/places/yangtze-river-cableway/) if the open question is whether the cableway deserves one of your real day slots
+- read [Yangtze River Cableway in Chongqing: Best Time to Ride and How Bad the Queue Really Gets](/guides/yangtze-river-cableway-best-time-and-queue-reality/) if the cableway already is in the plan and the live question is how to avoid wasting too much time in line
 - read [Liziba Station in Chongqing: Is It Worth It for First-Time Visitors?](/places/liziba-station/) if the open question is whether one short iconic urban stop deserves route space without becoming filler
+- read [Liziba Station Photo Spots: Best Viewing Platform, Timing, and What to Pair It With](/guides/liziba-station-photo-spots-best-viewing-platform-and-when-to-go/) if the stop already is happening and the live question is how to get the classic shot efficiently
+- read [Baixiangju in Chongqing: The Apartment Maze That Explains the City — If You Treat It Respectfully](/places/baixiangju-apartment/) if the route already has its main skyline and food layers and now wants one deeper residential-city detour
+- read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if the route already is central and you want one very short vertical-city stop instead of a longer detour
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the next question is which Chongqing meals truly deserve limited trip slots
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the next question is which district should carry the hot-pot night, the noodle stop, or the more atmospheric dinner
 - read [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/) if the open question is whether the cruise deserves one of your real evening slots

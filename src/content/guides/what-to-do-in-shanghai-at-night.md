@@ -111,6 +111,12 @@ The Bund is usually the best answer when you want the evening to feel clearly Sh
 
 If the skyline timing itself still is the real decision, [The Bund in Shanghai: Best Time to Go for First-Time Visitors](/places/the-bund/) is the narrower next page.
 
+If the skyline decision already is yes and the real question is how to build one satisfying riverfront evening without overstacking it, the cleaner companion page is [One Good Bund Night: Where to Stand, When to Arrive, and What to Pair It With](/guides/one-good-bund-night-where-to-stand-when-to-arrive-and-what-to-pair-it-with/).
+
+If the live question already is not only the main skyline night but which secondary photo stops are worth adding on a different day without repeating the Bund badly, the broader companion page is [Alternative Shanghai Photo Stops Beyond the Bund](/guides/alternative-shanghai-photo-stops-beyond-the-bund/).
+
+If the main Bund session already worked and the live question is whether one cleaner north-side view or one rooftop splurge deserves the second skyline slot, the narrower follow-up is [North Bund or Flair? Where Shanghai's Skyline Feels More Special](/guides/north-bund-or-flair-where-shanghais-skyline-feels-more-special/).
+
 If the live question now is whether the night should stay on the riverfront or become one paid high-rise skyline event, the narrower comparison page is [Best Shanghai Observation Deck for First-Time Visitors](/guides/best-shanghai-observation-deck-for-first-time-visitors/).
 
 If the skyline ticket already is happening and the real decision is only `Shanghai Tower or Oriental Pearl`, the tighter follow-up is [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/).
@@ -167,7 +173,7 @@ If the dinner side of that evening is the real question, keep [Where to Eat in S
 
 If the district already is chosen and the live question is how to structure that night well, the narrower execution page is [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/).
 
-If the wider evening already is narrowed not to Xintiandi but to the neighborhood side of the city, the narrower companion page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/).
+If the wider evening already is narrowed not to Xintiandi but to the neighborhood side of the city, the narrower companion page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/). If the evening already is clearly cocktail-led and the live question is how to do one hidden-bar night without turning it into a gimmick crawl, the sharper niche page is [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/).
 
 ## 4. Easy polished modern night: choose Jing'an
 
@@ -190,6 +196,8 @@ Jing'an is often better than Xintiandi or the Bund when:
 - not everyone wants the same kind of food or nightlife
 
 If the live question already is no longer `Should the polished modern evening happen?` but `Does Jing'an itself deserve that one Shanghai night?`, the more focused companion page is [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/).
+
+If the broader concern is not only `what should I do at night?` but `which night will feel easiest alone?`, the practical companion page is [Is Shanghai Safe at Night for Solo Female Travelers?](/guides/is-shanghai-safe-at-night-for-solo-female-travelers/).
 
 ## 5. Weather-proof or culture-led night: choose a museum night or timed program
 
@@ -312,7 +320,9 @@ That already gives the city more range than leaving every night unplanned.
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the wider night already has narrowed to one polished Xintiandi evening
 - read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the wider night already has narrowed to one easier polished modern evening and the remaining question is whether that district really deserves the slot
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
+- read [Is Shanghai Safe at Night for Solo Female Travelers?](/guides/is-shanghai-safe-at-night-for-solo-female-travelers/) if the bigger decision is not only where to go, but which style of evening will feel easiest alone
 - read [The Bund](/places/the-bund/) if the skyline timing itself is still the live decision
+- read [One Good Bund Night: Where to Stand, When to Arrive, and What to Pair It With](/guides/one-good-bund-night-where-to-stand-when-to-arrive-and-what-to-pair-it-with/) if the skyline answer already is yes and the live question is how to make that one evening feel well built
 - read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the skyline night already has narrowed to Shanghai's two most famous paid towers
 - read [French Concession](/places/french-concession/) if the night should be a neighborhood-and-food evening instead of a skyline ritual
 - read [Shanghai Museum](/places/shanghai-museum/) if a weather-proof or culture-led evening is more likely to help than another long outdoor block

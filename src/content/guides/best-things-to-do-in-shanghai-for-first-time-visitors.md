@@ -149,7 +149,9 @@ This is especially useful when:
 
 For many first-time visitors, this becomes the day that makes Shanghai feel like more than a transfer-friendly global city.
 
-If the live question already is whether the neighborhood day should stay broad and leafy, become a shorter lane-house stop, or end with a more polished evening, the next place pages are [Tianzifang](/places/tianzifang/) and [Xintiandi](/places/xintiandi/). If the district already is chosen and the remaining problem is how to turn `Wukang Road` into one practical first-time city walk, the more focused route page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/).
+If the live question already is whether the neighborhood day should stay broad and leafy, become a shorter lane-house stop, or end with a more polished evening, the next place pages are [Tianzifang](/places/tianzifang/) and [Xintiandi](/places/xintiandi/). If the district already is chosen and the remaining problem is how to turn `Wukang Road` into one practical first-time city walk, the more focused route page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/). If the day already sounds less like `one landmark` and more like `one stylish half day`, the sharper lifestyle version is [A Shanghai Coffee Walk Through Anfu, Julu, Fumin, and Changle](/guides/a-shanghai-coffee-walk-through-anfu-julu-fumin-and-changle/).
+
+If that broader neighborhood day already is protected and the trip still wants one more design- or photo-led branch, [1933 Old Millfun](/places/1933-old-millfun/) is the stronger architecture detour and [Zhapu Road Bridge](/places/zhapu-road-bridge/) is the better short skyline-angle add-on. If the route wants a fuller urban-design layer rather than one isolated stop, [Suzhou Creek and Suhewan: A Better Shanghai Architecture Walk Than Another Bund Loop](/guides/suzhou-creek-and-suhewan-a-better-shanghai-architecture-walk-than-another-bund-loop/) is the stronger half-day build, while [M50 Creative Park](/places/m50-creative-park/) is the more art-led extension.
 
 ## 4. Yu Garden is usually the best selective old-core contrast
 
@@ -273,6 +275,7 @@ On a 3-day or 4-day Shanghai trip, the stronger extras often are:
 - one better food district
 - one more intentional evening
 - one calmer [Jade Buddha Temple](/places/jade-buddha-temple/) block when the trip wants a shorter reflective cultural layer
+- one selective [1933 Old Millfun](/places/1933-old-millfun/) or [Zhapu Road Bridge](/places/zhapu-road-bridge/) detour when the trip wants architecture or a stronger photo angle more than another shopping street
 - one optional [Shanghai Disneyland](/places/shanghai-disneyland/) day only if the trip truly wants that entertainment branch
 - one selective [Zhujiajiao Water Town](/places/zhujiajiao-water-town/) outing only if the stay is long enough that the city itself already feels secure
 - one slower district half day that is not forced to justify itself like a headline sight
@@ -301,4 +304,5 @@ It stops being only the easy first city and becomes one of the most enjoyable ur
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the missing layer now is what Shanghai meals actually deserve limited trip slots
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the attractions mostly are chosen and the meal districts are not
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the missing layer now is how the city should feel after dark
+- read [The Bund at Night: Light Timing, Photo Spots, and How to Get the Skyline Right](/guides/the-bund-at-night-light-timing-and-photo-spots/) if the skyline anchor already is chosen and the real question is how to time the evening well
 - read [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/) if the skyline question already has narrowed to one premium tower ticket

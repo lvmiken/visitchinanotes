@@ -189,6 +189,7 @@ That usually leads to a much better day.
 
 ## Which page to read next
 
+- read [What Panda Fans Actually Need in Chengdu: Standard Visit, Panda Class, or Forget the Volunteer Fantasy](/guides/what-panda-fans-actually-need-in-chengdu-standard-visit-panda-class-or-forget-the-volunteer-fantasy/) if the real question now is not only volunteering but which level of panda experience actually fits your trip
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the real question now is how to make the panda visit itself work smoothly
 - read [Chengdu Research Base of Giant Panda Breeding: Is It Worth It for First-Time Visitors?](/places/chengdu-research-base-of-giant-panda-breeding/) if you still need to decide whether the panda base deserves one of your best Chengdu time blocks at all
 - read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the panda morning is happening and the next question is how to shape the rest of the day

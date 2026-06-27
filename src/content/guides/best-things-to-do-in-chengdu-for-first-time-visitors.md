@@ -105,6 +105,8 @@ If the panda base already is confirmed and the live question now is how to run t
 
 If the panda morning already is confirmed and the live question now is what the rest of that day should become, the narrower execution page is [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/).
 
+If the panda question still is more foundational and the real problem is what level of panda experience you actually need, the better bridge page is [What Panda Fans Actually Need in Chengdu: Standard Visit, Panda Class, or Forget the Volunteer Fantasy](/guides/what-panda-fans-actually-need-in-chengdu-standard-visit-panda-class-or-forget-the-volunteer-fantasy/).
+
 For many first-time visitors, that post-panda afternoon usually works best only after it narrows into one clearer branch:
 
 - [Should You Go to Chunxi Road and Taikoo Li After Chengdu Panda Base?](/guides/should-you-go-to-chunxi-road-and-taikoo-li-after-chengdu-panda-base/) if the trip needs the safest central lunch-and-walk default
@@ -158,6 +160,8 @@ For many first-time visitors, one memorable dinner-and-walk night gives more val
 If the food layer already is becoming the real planning question, move next to [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) and [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/).
 
 If the real question is no longer what deserves daylight, but how to use Chengdu after dark without wasting evenings, the narrower next page is [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/).
+
+If the live question already has narrowed further to Chengdu's easiest central evening rather than the whole night strategy, the narrower next page is [Chunxi Road and Taikoo Li After Dark: What Is Actually Worth Your Evening](/guides/chunxi-road-and-taikoo-li-after-dark-what-is-actually-worth-your-evening/).
 
 ## 4. Kuanzhai Alley is usually a supporting atmosphere block, not the whole point of the city
 

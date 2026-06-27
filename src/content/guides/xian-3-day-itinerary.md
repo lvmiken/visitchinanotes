@@ -2,7 +2,7 @@
 title: "Xi'an 3-Day Itinerary for First-Time Visitors"
 description: "Use this practical 3-day Xi'an itinerary to combine the Terracotta Army, the old city, food, museum or pagoda-side time, and one fuller evening without rushing the trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-06-27
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -216,6 +216,8 @@ If Day 3 already is clearly south-side and the meal question still is fuzzy, [Wh
 
 If the Day 3 answer is already pushing your hotel base south, [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/) is the hotel-decision page that usually clarifies whether that move is actually helping the trip.
 
+If Day 3 still feels broad on paper and the real question is not full itinerary order but what that extra day should solve emotionally and structurally, the editorial companion page is [A Smarter Third Day in Xi'an: What to Do After the Terracotta Army and Old City](/guides/a-smarter-third-day-in-xian-beyond-the-usual-checklist/).
+
 ### Good Day 3 food logic
 
 This is often the best day for:
@@ -287,6 +289,7 @@ Two days is still strong. Three days is simply the better version when you want 
 - read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if Xi'an still needs to be weighed against other China stops
 - read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if the fuller version still needs a cleaner priority order
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if you still are deciding whether the fuller version is worth it
+- read [Huashan Plank Walk from Xi'an: How Extreme It Feels and Who Should Leave It Alone](/guides/huashan-plank-walk-from-xian-how-extreme-is-it-really/) if the 3-day version already looks too easy and you are testing whether the extra energy should go to Huashan
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the hotel base still is not settled
 - read [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/) if the hotel answer depends on whether the fuller south-side version really is worth changing the base for
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if the next practical decision is which meals actually deserve protection

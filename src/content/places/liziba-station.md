@@ -26,6 +26,7 @@ relatedGuideSlugs:
   - "best-things-to-do-in-chongqing-for-first-time-visitors"
   - "how-to-get-around-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
+  - "liziba-station-photo-spots-best-viewing-platform-and-when-to-go"
 tags:
   - "Chongqing"
   - "Liziba"
@@ -184,6 +185,8 @@ Choose **the cableway** if you want:
 
 If that route question is live, the narrower companion page is [Yangtze River Cableway in Chongqing: Is It Worth It for First-Time Visitors?](/places/yangtze-river-cableway/).
 
+If the real question is whether one deeper or stranger urban-form stop deserves a little more effort than Liziba, [Kuixing Building Skybridge](/places/kuixing-building-skybridge/) is the cleaner public-space answer and [Baixiangju](/places/baixiangju-apartment/) is the more intense residential-city answer.
+
 ## What usually makes Liziba disappointing?
 
 Liziba often goes wrong when travelers:
@@ -206,5 +209,8 @@ The best Liziba visits usually come from good pacing, not from giving it too muc
 
 - read [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if you still are deciding whether Liziba deserves real route space at all
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the live question now is how to use Liziba without making movement worse
+- read [Liziba Station Photo Spots: Best Viewing Platform, Timing, and What to Pair It With](/guides/liziba-station-photo-spots-best-viewing-platform-and-when-to-go/) if the stop already is likely and the real question is where to stand and what time to go
 - read [Yangtze River Cableway in Chongqing: Is It Worth It for First-Time Visitors?](/places/yangtze-river-cableway/) if you are comparing short visual transport icon versus fuller cross-river experience
+- read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if Liziba already looks too familiar and the route still wants one more public-space vertical-city shock
+- read [Baixiangju in Chongqing: The Apartment Maze That Explains the City — If You Treat It Respectfully](/places/baixiangju-apartment/) if Liziba already looks likely but the trip still wants a deeper residential-city layer
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you want to place Liziba into a realistic fuller route

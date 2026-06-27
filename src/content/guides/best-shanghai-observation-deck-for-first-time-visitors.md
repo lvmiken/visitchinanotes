@@ -67,6 +67,8 @@ The biggest mistake is paying for a deck just because one famous tower seems man
 
 If the decision already has narrowed to the city's two biggest names, the tighter follow-up is [Shanghai Tower or Oriental Pearl: Which Is Better for First-Time Visitors?](/guides/shanghai-tower-or-oriental-pearl-for-first-time-visitors/).
 
+If the paid-deck answer already looks like `Shanghai Tower` and the remaining choice is only whether the observatory should happen by day or at night, the narrower timing page is [Top of Shanghai Observatory by Day or Night? Which View Pays Off Better](/guides/top-of-shanghai-observatory-by-day-or-night-which-view-pays-off-better/).
+
 ## Start with the real question: do you even need a paid deck?
 
 Many first-time visitors do not need one.

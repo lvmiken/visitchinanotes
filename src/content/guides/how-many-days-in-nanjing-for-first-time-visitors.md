@@ -42,6 +42,8 @@ One day works if:
 - Shanghai still is the main east-China base
 - you only need a first impression of Nanjing's historical weight
 
+If that `1 day` version is specifically being built from Shanghai by rail, the execution page is [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/).
+
 That version usually should protect:
 
 - one major historical anchor like [Presidential Palace](/places/presidential-palace/) or [Nanjing Museum](/places/nanjing-museum/)
@@ -61,10 +63,13 @@ Two days usually are worth it when:
 
 - you want both a major indoor anchor and a major outdoor anchor
 - [Sun Yat-sen Mausoleum](/places/sun-yat-sen-mausoleum/) and [Nanjing City Wall](/places/nanjing-city-wall/) both are in play
+- the city may also include [Nanjing Massacre Memorial](/places/nanjing-massacre-memorial/) without flattening the rest of the stop
+- the route may want a deeper branch like [Ming Xiaoling Mausoleum](/places/ming-xiaoling-mausoleum/) or a lighter balancing stop like [Xuanwu Lake](/places/xuanwu-lake/)
 - you want the city to breathe
 
 ## Which page to read next
 
 - read [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/) if the stop still is being framed through Shanghai
+- read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if the day-trip version already is happening and the live question is what one day can carry gracefully
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if the fuller version is likely
 - read [What to Do in Nanjing at Night for First-Time Visitors](/guides/what-to-do-in-nanjing-at-night-for-first-time-visitors/) if you are deciding whether the overnight version earns its place

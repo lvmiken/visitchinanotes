@@ -19,6 +19,7 @@ relatedGuideSlugs:
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "how-many-days-in-nanjing-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
+  - "cycling-the-nanjing-city-wall-best-section-and-ride-length"
 tags:
   - "Nanjing"
   - "City wall"
@@ -57,4 +58,5 @@ Choose [Sun Yat-sen Mausoleum](/places/sun-yat-sen-mausoleum/) if:
 ## Which page to read next
 
 - read [Sun Yat-sen Mausoleum in Nanjing: Is It Worth the Climb on a Short Trip?](/places/sun-yat-sen-mausoleum/) if the broader outdoor anchor still is undecided
+- read [Cycling the Nanjing City Wall: Best Section, Ride Length, and When It Actually Adds Value](/guides/cycling-the-nanjing-city-wall-best-section-and-ride-length/) if the wall already is likely and the live question is whether you should ride it or keep it to a shorter walk
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if you want to place the wall inside a fuller stop

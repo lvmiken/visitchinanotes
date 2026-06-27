@@ -54,6 +54,8 @@ Use this page if you are asking:
 
 If the wider night question still is not settled, keep [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) open too.
 
+If the wider night decision already is mostly settled and the live question is specifically which option produces the better skyline photos, the narrower route-support page is [Bund Promenade or Huangpu River Cruise? Which Shanghai Photo Plan Works Better](/guides/bund-promenade-or-huangpu-river-cruise-which-shanghai-photo-plan-works-better/).
+
 ## The short answer
 
 For many first-time visitors:
@@ -238,6 +240,8 @@ The stronger version usually looks like:
 - booking the cruise on a weak-visibility evening
 - treating the more expensive option like the automatically better first-time option
 - using the cruise on a short trip that still lacks stronger city layers
+
+If the actual deciding factor is not mood or budget but photo quality, read [Bund Promenade or Huangpu River Cruise? Which Shanghai Photo Plan Works Better](/guides/bund-promenade-or-huangpu-river-cruise-which-shanghai-photo-plan-works-better/) before you lock the evening.
 - forgetting that flexibility itself has value on a first trip
 
 ## Which page to read next

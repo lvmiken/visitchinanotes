@@ -45,6 +45,8 @@ If the biggest decision still is whether the main first-time anchor should be th
 
 If the live question still is which branch deserves the main time, narrow it with [Zhangjiajie National Forest Park: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-national-forest-park/), [Yuanjiajie in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/yuanjiajie/), [Golden Whip Stream in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/golden-whip-stream/), [Tianzi Mountain in Zhangjiajie: Is It Worth It for First-Time Visitors?](/places/tianzi-mountain/), [Tianmen Mountain in Zhangjiajie: Is It Worth It on a First Trip?](/places/tianmen-mountain/), and [Zhangjiajie Grand Canyon Glass Bridge: Is It Worth It for First-Time Visitors?](/places/zhangjiajie-grand-canyon-glass-bridge/).
 
+If the branch already is chosen and the live problem is route execution rather than attraction choice, narrow it further with [Yuanjiajie Route: How to See the Avatar Peaks Without Wasting the Day](/guides/yuanjiajie-route-how-to-see-the-avatar-peaks-without-wasting-the-day/) or [Tianmen Mountain Cable Car or 999 Steps? What the Day Is Actually Like](/guides/tianmen-mountain-cable-car-or-999-steps-what-the-day-is-actually-like/).
+
 If the major choices already are mostly settled and the live question now is how to place them across a realistic short stay, use [A Practical 2-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-2-day-itinerary-for-first-time-visitors/).
 
 If the route already clearly deserves a fuller mountain version rather than a shorter sample, use [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).

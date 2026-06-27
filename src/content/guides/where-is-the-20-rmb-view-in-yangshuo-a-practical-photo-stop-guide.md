@@ -2,7 +2,7 @@
 title: "Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide"
 description: "Find the real 20 RMB Li River view near Xingping, understand whether it is worth a dedicated stop, and choose the cleanest way to see it by cruise, raft, or a short Xingping branch."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-06-27
 city: "yangshuo"
 guideStage: "solve-logistics"
 tripLength: "1 stop"
@@ -22,6 +22,7 @@ relatedGuideSlugs:
   - "yangshuo-first-time-guide"
   - "li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors"
   - "is-yangshuo-worth-an-overnight-for-first-time-visitors"
+  - "yangshuo-rock-climbing-for-beginners-where-to-start-and-when-it-fits-a-short-trip"
 tags:
   - "Yangshuo"
   - "Xingping"
@@ -155,5 +156,7 @@ It is weaker when:
 
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the real question still is whether the cruise alone already solves the icon
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both the main cruise and a fuller Yangshuo stay
+- read [Xingping Beyond the Banknote: A Better Yangshuo Side Trip Than Just Chasing the 20 RMB View](/guides/xingping-beyond-the-banknote-a-better-yangshuo-side-trip-than-just-chasing-the-20-rmb-view/) if the photo stop already looks likely and the remaining problem is how to shape the wider Xingping branch well
+- read [Yangshuo Rock Climbing for Beginners: Where to Start and When It Fits a Short Trip](/guides/yangshuo-rock-climbing-for-beginners-where-to-start-and-when-it-fits-a-short-trip/) if the route already has the photo stop covered and the real question is whether one active half day suits Yangshuo better than one more passive scenic branch
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the 20 RMB stop still depends on whether the town deserves a real overnight
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the photo plan now depends on the overnight base

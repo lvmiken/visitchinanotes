@@ -56,6 +56,8 @@ Use this page if you are asking:
 
 If the broader city itself still is not settled, start with [Nanjing for First-Time Visitors: Why the City Deserves More Than a Fast Box-Ticking Stop](/guides/nanjing-first-time-guide/).
 
+If you still are one step earlier and have not yet decided whether this stop belongs in your version of Nanjing at all, start with [Nanjing Massacre Memorial: When It Belongs on a First Trip](/places/nanjing-massacre-memorial/).
+
 If the city already is settled and the live question is which history block deserves limited time, keep [Presidential Palace or Nanjing City Wall: Which History Layer Deserves Your Limited Time?](/guides/presidential-palace-or-nanjing-city-wall-which-history-layer-deserves-your-limited-time/) open too.
 
 ## The short answer
@@ -187,6 +189,7 @@ For some travelers, it simply means being honest about what kind of trip this is
 ## Which page to read next
 
 - read [Nanjing for First-Time Visitors: Why the City Deserves More Than a Fast Box-Ticking Stop](/guides/nanjing-first-time-guide/) if the city still is not fully justified
+- read [Nanjing Massacre Memorial: When It Belongs on a First Trip](/places/nanjing-massacre-memorial/) if you need the place-level decision before the practical visit details
 - read [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) if the memorial now needs to sit inside a fuller city shortlist
 - read [How to Get Around Nanjing for First-Time Visitors](/guides/how-to-get-around-nanjing-for-first-time-visitors/) if the practical metro and day-shape question still is live
 - read [What to Do in Nanjing at Night for First-Time Visitors](/guides/what-to-do-in-nanjing-at-night-for-first-time-visitors/) if you need a gentler evening after a heavier history day

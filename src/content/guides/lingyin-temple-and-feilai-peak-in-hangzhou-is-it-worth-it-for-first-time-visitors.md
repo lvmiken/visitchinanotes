@@ -1,6 +1,6 @@
 ---
-title: "Lingyin Temple and Feilai Peak in Hangzhou: Is It Worth It for First-Time Visitors?"
-description: "Decide whether Lingyin Temple and Feilai Peak deserve one of your key Hangzhou half days, when this branch is better than more West Lake time, and how it compares with Longjing Village."
+title: "Lingyin Temple and Feilai Peak in Hangzhou: When This Half Day Is Worth It"
+description: "Decide whether Lingyin Temple and Feilai Peak deserve one of your key Hangzhou half days, when this branch is stronger than more West Lake time, and how it compares with Longjing Village."
 publishDate: 2026-06-25
 updatedDate: 2026-06-25
 city: "hangzhou"

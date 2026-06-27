@@ -59,6 +59,8 @@ Pingjiang usually works best as:
 - a lunch or tea block
 - the city's gentler evening
 
+If the live question now is not only whether Pingjiang belongs but how to use it without asking it to solve every practical need by itself, the route page is [Pingjiang Road and Guanqian Street: A Smarter Central Suzhou Half Day Than Another Garden](/guides/pingjiang-road-and-guanqian-street-a-smarter-central-suzhou-half-day-than-another-garden/).
+
 It is weaker when:
 
 - you expect a giant attraction
@@ -73,6 +75,8 @@ It is weaker when:
 ## Which page to read next
 
 - read [Where to Eat Near Pingjiang Road in Suzhou for First-Time Visitors](/guides/where-to-eat-near-pingjiang-road-in-suzhou-for-first-time-visitors/) if the district already is chosen and the next live question is lunch, tea, or a softer dinner
+- read [Pingjiang Road and Guanqian Street: A Smarter Central Suzhou Half Day Than Another Garden](/guides/pingjiang-road-and-guanqian-street-a-smarter-central-suzhou-half-day-than-another-garden/) if the route now needs one softer central half day instead of a pure canal walk
+- read [One Good Suzhou Night: Pingjiang, Shantang, and When Not to Do Both](/guides/one-good-suzhou-night-pingjiang-shantang-and-when-not-to-do-both/) if the canal-walk decision is already leaning evening and the next question is how to avoid overbuilding the night
 - read [Suzhou Museum: Is It Worth Making Time for on a Short First Trip?](/places/suzhou-museum/) if the museum-side half day still is open
 - read [What to Do in Suzhou at Night for First-Time Visitors](/guides/what-to-do-in-suzhou-at-night-for-first-time-visitors/) if the live question is when to use Pingjiang
 - read [Shantang Street in Suzhou: Is It Worth Visiting or Too Staged?](/places/shantang-street/) if you are deciding between Suzhou's two most common evening answers

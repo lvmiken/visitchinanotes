@@ -181,6 +181,8 @@ Good Day 3 anchors include:
 - [Shichahai](/places/shichahai-area/) if the trip needs more old-city atmosphere and softer walking
 - [Sanlitun](/places/sanlitun/) if you want the final evening to show a more contemporary Beijing
 
+If the Day 3 park decision already has narrowed to central breathing room versus one short skyline payoff, the sharper comparison page is [Beihai Park or Jingshan Park — or Both? A Smarter Central Beijing Slow Day](/guides/beihai-park-or-jingshan-park-or-both-a-smarter-central-beijing-slow-day/).
+
 For many readers, this is also the best slot for a proper food-focused half day or evening, because the timetable has more flexibility than Day 1 and less fatigue risk than Day 2. That is why [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) is especially useful here.
 
 If the remaining question is really which district should carry that meal, the narrower page is [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/).
@@ -188,6 +190,8 @@ If the remaining question is really which district should carry that meal, the n
 If the remaining question is not the district but one practical everyday-Beijing noodle meal, go narrower with [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/).
 
 If the missing decision is how to choose between Sanlitun, Qianmen, and Wangfujing once the sun goes down, use [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/).
+
+If the final evening already clearly belongs to `Sanlitun` and the only remaining question is how to make one easy drinks night work, go straight to [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
 
 If Day 3 should carry a more specific meal decision, go narrower with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/), or [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) depending on whether the evening should feel historic, easy, or modern.
 

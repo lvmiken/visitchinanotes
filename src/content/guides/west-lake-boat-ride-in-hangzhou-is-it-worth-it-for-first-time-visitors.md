@@ -1,6 +1,6 @@
 ---
-title: "West Lake Boat Ride in Hangzhou: Is It Worth It for First-Time Visitors?"
-description: "Decide whether a West Lake boat ride deserves your Hangzhou time, when it adds more than simple walking, and when it is weaker than keeping the lake day lighter."
+title: "West Lake Boat Ride in Hangzhou: When It Improves the Day — and When It Doesn't"
+description: "Decide whether a West Lake boat ride deserves your Hangzhou time, when it adds more than simple walking, and when the smarter answer is to keep the lake day lighter."
 publishDate: 2026-06-25
 updatedDate: 2026-06-25
 city: "hangzhou"

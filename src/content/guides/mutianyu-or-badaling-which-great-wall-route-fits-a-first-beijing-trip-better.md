@@ -146,6 +146,7 @@ That is the real decision.
 
 ## Which page to read next
 
+- read [Which Great Wall Near Beijing Actually Fits Your First Trip: Mutianyu, Badaling, or Jinshanling?](/guides/which-great-wall-near-beijing-actually-fits-your-first-trip-mutianyu-badaling-or-jinshanling/) if the decision has widened beyond the two obvious sections and you want the fuller first-trip Wall chooser
 - read [Mutianyu Great Wall for First-Time Visitors](/places/mutianyu-great-wall/) if the route is leaning smoother and you want the stronger default Wall page
 - read [Badaling Great Wall for First-Time Visitors: When It Is the Better Beijing Wall Choice](/places/badaling-great-wall/) if the route is leaning more iconic and fame-first
 - read [What to Book in Advance for Beijing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-beijing/) if the Wall day is chosen and the next question is what needs early action

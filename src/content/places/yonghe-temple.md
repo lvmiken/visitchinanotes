@@ -161,5 +161,5 @@ Its value is proportion, not sheer magnitude.
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the wider city structure still needs work
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you are trying to fit one calmer cultural layer into a shorter stay
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place Yonghe Temple inside a fuller Beijing route
+- read [Baipu Temple in Beijing: A Strange, Surreal Temple Detour for the Right Kind of Trip](/places/baipu-temple/) if the broader temple layer already is secure and the live question is whether Beijing has room for one stranger, more visual sacred detour
 - read [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) if the slower-day question is really about old-Beijing atmosphere more broadly
-

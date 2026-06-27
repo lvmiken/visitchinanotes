@@ -2,7 +2,7 @@
 title: "A Practical 3-Day Chongqing Itinerary for First-Time Visitors"
 description: "Use this practical 3-day Chongqing itinerary to combine skyline views, food districts, a realistic Yuzhong day, one stronger night plan, and one lighter buffer day without wasting energy on too many cross-city moves."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-06-27
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -160,6 +160,8 @@ That usually means choosing one of these day shapes instead of trying to do all 
 If the live question on that lighter day is whether one cross-river cableway experience would actually improve the route or only create one more detour, use [Yangtze River Cableway in Chongqing: Is It Worth It for First-Time Visitors?](/places/yangtze-river-cableway/).
 
 If the live question on that lighter day is whether one short iconic transport-and-terrain stop improves the route more honestly than another low-priority filler stop, use [Liziba Station in Chongqing: Is It Worth It for First-Time Visitors?](/places/liziba-station/).
+
+If the Day 3 or flexible-day question already is not one individual stop but how to build one stronger vertical-city block out of Liziba, Kuixing, Baixiangju, and maybe the cableway, use [How to Build a Vertical-City Day in Chongqing: Liziba, Kuixing, Baixiangju, and What Actually Fits Together](/guides/how-to-build-a-vertical-city-day-in-chongqing-liziba-kuixing-baixiangju-and-what-actually-fits-together/).
 
 If the live question now is whether that traditional-feeling supporting block should actually be `Ciqikou` or whether the route is stronger without it, use [Ciqikou in Chongqing: Is It Worth It for First-Time Visitors?](/places/ciqikou/).
 

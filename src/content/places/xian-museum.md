@@ -192,6 +192,8 @@ If your stay already looks like the fuller version, [Xi'an 3-Day Itinerary for F
 
 If weather is the reason this page suddenly matters, [Rainy Day in Xi'an for First-Time Visitors](/guides/rainy-day-in-xian-for-first-time-visitors/) is the better tactical companion.
 
+If the route already is leaning lighter and calmer rather than bigger and heavier, [Guangren Temple](/places/guangren-temple/) is the cleaner sacred companion and [Xiying Film Studio](/places/xiying-film-studio/) is the stronger creative-contrast companion.
+
 ## Common mistakes
 
 - choosing Xi'an Museum only because the weather changed, without deciding whether any museum is actually the best answer
@@ -207,3 +209,5 @@ If weather is the reason this page suddenly matters, [Rainy Day in Xi'an for Fir
 - read [Beilin Museum in Xi'an: Is It Worth It for First-Time Visitors?](/places/beilin-museum/) if the real question is whether a more specialist museum is actually the better fit
 - read [Rainy Day in Xi'an for First-Time Visitors](/guides/rainy-day-in-xian-for-first-time-visitors/) if weather is what pushed this page to the front
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the stay is becoming the fuller Xi'an version
+- read [Guangren Temple in Xi'an: A Quieter Sacred Stop Beyond the Main Checklist](/places/guangren-temple/) if the museum layer already is chosen and the trip still wants one calmer stop instead of another dense indoor block
+- read [Xiying Film Studio in Xi'an: When the Film Compound Adds a Different Side of the City](/places/xiying-film-studio/) if the museum layer already is chosen and the trip still wants one more visual or creative contrast

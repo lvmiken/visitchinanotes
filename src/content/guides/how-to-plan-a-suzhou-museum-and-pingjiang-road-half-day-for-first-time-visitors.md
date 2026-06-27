@@ -156,6 +156,10 @@ Usually on the same half day, this pairing is enough.
 
 Trying to force both old-street branches into the same half day often flattens the city.
 
+If you still want one nearby extra layer after the museum, [Lion Grove Garden](/places/lion-grove-garden/) is the more coherent temptation because it stays inside the same broad cluster. Even then, it works best only when the half day still feels calm rather than already full.
+
+If the live question now is not only whether `Lion Grove Garden` can fit, but how much of the whole central cluster is actually enough before the day becomes homework, the next page is [Central Suzhou Without Overdoing It: Museum, Lion Grove, Pingjiang, and What to Cut](/guides/central-suzhou-without-overdoing-it-museum-lion-grove-pingjiang-and-what-to-cut/).
+
 ## Best use on a 1-day Suzhou trip
 
 On a `1-day` version, this pairing often is one of the strongest blocks in the city.
@@ -188,5 +192,7 @@ That version often is where Suzhou starts feeling genuinely good.
 
 - read [Pingjiang Road in Suzhou: When the Canal Walk Is Actually Worth Your Time](/places/pingjiang-road/) if the softer walk itself still needs a yes-or-no
 - read [Suzhou Museum: Is It Worth Making Time for on a Short First Trip?](/places/suzhou-museum/) if the museum layer still is not fully justified
+- read [Lion Grove Garden in Suzhou: Does It Add Enough Beside the Museum Cluster?](/places/lion-grove-garden/) if proximity is making the garden feel tempting and you want to know whether it improves this half day or simply crowds it
+- read [Central Suzhou Without Overdoing It: Museum, Lion Grove, Pingjiang, and What to Cut](/guides/central-suzhou-without-overdoing-it-museum-lion-grove-pingjiang-and-what-to-cut/) if the whole central cluster now needs a stronger stop point and not just one more place-level answer
 - read [Rainy Day in Suzhou: What First-Time Visitors Should Keep, Cut, and Move Indoors](/guides/rainy-day-in-suzhou-for-first-time-visitors/) if weather may shape the order or importance of this block
 - read [Where to Stay in Suzhou for Canal Walks: Pingjiang Road or a More Practical Central Base?](/guides/where-to-stay-in-suzhou-for-canal-walks-pingjiang-road-or-a-more-practical-central-base/) if the old-city half day is making the hotel question more specific

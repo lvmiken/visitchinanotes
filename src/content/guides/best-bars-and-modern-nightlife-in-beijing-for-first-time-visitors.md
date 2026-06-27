@@ -1,6 +1,6 @@
 ---
-title: "Best Bars in Beijing for First-Time Visitors: Sanlitun, Liangma River, or Shichahai?"
-description: "Choose the best bars in Beijing for cocktails, wine, riverside drinks, and a modern night out, with practical advice on Sanlitun, Liangma River, and Shichahai."
+title: "Beijing Bars for First-Time Visitors: Sanlitun, Liangma River, or Shichahai?"
+description: "Choose the right Beijing bar district for cocktails, wine, riverside drinks, or a softer lakeside night, with practical guidance on Sanlitun, Liangma River, and Shichahai."
 publishDate: 2026-06-20
 updatedDate: 2026-06-25
 city: "beijing"
@@ -96,6 +96,8 @@ Choose Sanlitun if:
 - your group wants flexibility between dinner, bars, shopping, and a short walk
 - this is the final evening or a contrast night after heavy sightseeing
 
+If the district already is clearly winning and the live search has narrowed to `Sanlitun bars`, how to make the night feel easy, or whether you need a rigid venue list at all, the sharper child page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
+
 ## 2. Choose Liangma River if you want a polished scenic night
 
 Liangma River is usually not the first answer for bar-hopping. It is the better answer when the night should feel:
@@ -115,6 +117,8 @@ Choose Liangma River if:
 - the group cares more about night scenery than bar density
 
 This is often stronger than Sanlitun if the night should feel elegant rather than busy.
+
+If the district already is winning and the real question is not whether Liangma beats Sanlitun or Shichahai, but how to use the riverfront itself as a walk, cruise, or drinks night, the sharper child page is [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/).
 
 ## 3. Choose Shichahai if you want atmosphere more than polish
 
@@ -204,7 +208,9 @@ After [Mutianyu Great Wall](/places/mutianyu-great-wall/) or [Badaling Great Wal
 ## Which page to read next
 
 - read [Sanlitun in Beijing: Is It Worth Visiting, Staying, or Going Out?](/places/sanlitun/) if the modern district itself is the main decision
+- read [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/) if Sanlitun already is the district and the only remaining question is how to use it well for one easy drinks night
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if you still need the broader evening comparison
+- read [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/) if the broader nightlife choice is already clear and the real question is how to use Beijing's polished riverfront night well
 - read [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/) if the live question is the softer lakeside old-city night itself
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the evening is mainly a dinner-district decision before the bar question
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the real question is still dinner district, not nightlife shape

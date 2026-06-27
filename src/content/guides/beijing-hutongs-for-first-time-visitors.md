@@ -1,6 +1,6 @@
 ---
-title: "Beijing Hutongs for First-Time Visitors"
-description: "A practical guide to Beijing hutongs for first-time visitors, including whether they are worth your time, how to fit them into a real itinerary, and how to avoid turning the day into vague wandering."
+title: "Beijing Hutongs on a First Trip: How to Build the Right Old-City Day"
+description: "Use this Beijing hutong guide to decide how much old-city time the trip really needs, which hutong style fits best, and how to avoid turning a promising slower day into shapeless wandering."
 publishDate: 2026-06-19
 updatedDate: 2026-06-26
 city: "beijing"
@@ -151,7 +151,7 @@ Hutong time usually works well when:
 - one park, snack, or evening area gives the wandering a little structure
 - you let the area provide mood rather than treating every lane like a separate attraction
 
-That is also why [Nanluoguxiang](/places/nanluoguxiang/), [Beihai Park](/places/beihai-park/), [Shichahai](/places/shichahai-area/), [Ditan Park](/places/ditan-park/), and [Qianmen](/places/qianmen/) often make such useful companions to a slower old-Beijing block. They help the day feel shaped without making it heavy again.
+That is also why [Nanluoguxiang](/places/nanluoguxiang/), [Yangmeizhu Xiejie](/places/yangmeizhu-xiejie/), [Beihai Park](/places/beihai-park/), [Shichahai](/places/shichahai-area/), [Ditan Park](/places/ditan-park/), and [Qianmen](/places/qianmen/) often make such useful companions to a slower old-Beijing block. They help the day feel shaped without making it heavy again.
 
 If you already know that this is the day shape you want, [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) turns that idea into a fuller morning-to-evening route.
 
@@ -205,6 +205,8 @@ That works best when:
 - dinner still has energy behind it
 - the day is meant to show Beijing in two different scales
 
+If the route wants a calmer east-Dongcheng version of that mood shift rather than a broader old-city hutong day, the more focused half-day branch is [Yonghe Temple and Wudaoying: A Better East Beijing Half Day Than Forcing Another Monument](/guides/yonghe-temple-and-wudaoying-a-better-east-beijing-half-day/).
+
 ## A simple first-time hutong formula
 
 For many readers, one strong hutong day looks like this:
@@ -230,7 +232,9 @@ That is enough to make the city feel fuller.
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place the slower neighborhood day into a fuller stay
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you want a shorter version that still includes one lighter local layer
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want one concrete version of that slower day from breakfast through evening
+- read [Yonghe Temple and Wudaoying: A Better East Beijing Half Day Than Forcing Another Monument](/guides/yonghe-temple-and-wudaoying-a-better-east-beijing-half-day/) if the route wants a quieter temple-and-lane half day rather than a broader hutong mission
 - read [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/) if the hutong day already is chosen and the live question is whether one famous easy lane block helps or just adds more crowd energy
+- read [Yangmeizhu Xiejie in Beijing: A Better Old-Beijing Stroll Than Following the Loudest Crowd](/places/yangmeizhu-xiejie/) if the hutong day already is chosen and the live question is whether the lane should feel quieter and more selective than the obvious default
 - read [Beijing Breakfast and Snacks for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) if the hutong day should carry one lighter food experience
 - read [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) if the hutong day should carry one fuller everyday-Beijing lunch
 - read [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) if that lighter food experience should be a specific traditional snack stop

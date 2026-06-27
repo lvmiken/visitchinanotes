@@ -220,6 +220,7 @@ Xi'an is at its best when it simplifies the route, not when it quietly bloats it
 - read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if Xi'an still is being compared with other route options
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are leaning toward the default sweet-spot version
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the route is already leaning toward the fuller, slower Xi'an version
+- read [Huashan Plank Walk from Xi'an: How Extreme It Feels and Who Should Leave It Alone](/guides/huashan-plank-walk-from-xian-how-extreme-is-it-really/) if the real length question is whether Xi'an deserves room for a mountain day beyond the city itself
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [Best Time to Visit Xi'an for First-Time Visitors](/guides/best-time-to-visit-xian-for-first-time-visitors/) if dates are still flexible and season choice may change how much Xi'an you want to carry
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if the extra day is mostly being justified by food, evening, and slower city texture

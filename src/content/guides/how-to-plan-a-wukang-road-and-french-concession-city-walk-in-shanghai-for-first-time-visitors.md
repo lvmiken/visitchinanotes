@@ -116,6 +116,8 @@ Why this works:
 - one meal stop turns the route into a real district experience
 - the day stays elegant instead of sprawling
 
+If the walk already is clearly happening and the live question becomes less `where do I walk?` and more `how do I turn this into a real coffee-led half day?`, the sharper route extension is [A Shanghai Coffee Walk Through Anfu, Julu, Fumin, and Changle](/guides/a-shanghai-coffee-walk-through-anfu-julu-fumin-and-changle/).
+
 ## When this city walk is better than Yu Garden
 
 Choose the `Wukang + French Concession` walk when:

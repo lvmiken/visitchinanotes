@@ -52,6 +52,8 @@ If the main problem is only whether the National Museum itself is worth it, go s
 
 If you are traveling as a family, the narrower companion page is [Best Museums in Beijing With Kids](/guides/best-museums-in-beijing-with-kids/).
 
+If the real question is no longer `Which formal museum?` but whether a more contemporary cultural half day would fit better than one more museum block, the cleaner branch is [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/).
+
 ## The short answer
 
 For many first-time visitors, the most useful museum choices are:
@@ -240,6 +242,7 @@ If that rainy day has to work for children too, [Rainy Day in Beijing With Kids]
 - read [Forbidden City for First-Time Visitors](/places/forbidden-city/) if you still have not settled the main imperial-history anchor
 - read [National Museum of China for First-Time Visitors](/places/national-museum-of-china/) if that is the museum you are actively deciding on
 - read [Capital Museum for First-Time Visitors](/places/capital-museum/) if you want the strongest middle-weight museum option
+- read [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/) if you have realized the trip may need a modern cultural half day more than one more formal museum
 - read [Rainy Day in Beijing for First-Time Visitors](/guides/rainy-day-in-beijing-for-first-time-visitors/) if weather is the reason you suddenly need an indoor plan
 - read [Rainy Day in Beijing With Kids](/guides/rainy-day-in-beijing-with-kids/) if the museum decision is happening inside a family bad-weather backup day
 - read [Best Museums in Beijing With Kids](/guides/best-museums-in-beijing-with-kids/) if you need the family version of this comparison instead of the broader first-trip version

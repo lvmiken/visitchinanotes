@@ -55,7 +55,16 @@ Choose [Nanjing City Wall](/places/nanjing-city-wall/) if:
 - you want a more flexible physical-history layer
 - the route needs something easier to fit around other stops
 
+Choose [Ming Xiaoling Mausoleum](/places/ming-xiaoling-mausoleum/) instead if:
+
+- the trip already is longer
+- deeper dynastic history matters more than the simpler symbolic first-time default
+
+If the live question now is not only which Purple Mountain stop is better in theory but how to stop the eastern side from eating the whole day, the route page is [Purple Mountain Without Losing the Whole Day: Sun Yat-sen, Ming Xiaoling, and What Not to Stack](/guides/purple-mountain-without-losing-the-whole-day-sun-yat-sen-ming-xiaoling-and-what-not-to-stack/).
+
 ## Which page to read next
 
 - read [Nanjing City Wall: Is It Worth Protecting on a First Visit?](/places/nanjing-city-wall/) if the second major anchor still is undecided
+- read [Ming Xiaoling Mausoleum in Nanjing: Worth It on a First Trip or Too Much Purple Mountain?](/places/ming-xiaoling-mausoleum/) if Purple Mountain already is in play and the real question is whether the deeper imperial layer adds enough
+- read [Purple Mountain Without Losing the Whole Day: Sun Yat-sen, Ming Xiaoling, and What Not to Stack](/guides/purple-mountain-without-losing-the-whole-day-sun-yat-sen-ming-xiaoling-and-what-not-to-stack/) if the eastern branch now needs a stronger stop point and not just another place comparison
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if this likely belongs on Day 2

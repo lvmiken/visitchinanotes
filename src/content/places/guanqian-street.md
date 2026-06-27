@@ -98,6 +98,8 @@ For many first-time visitors, Guanqian helps most when:
 - the stay needs one practical central meal area
 - the hotel should sit between stronger attractions rather than inside only one mood-heavy district
 
+If the live question now is how to use that practical central role without letting Guanqian replace Suzhou's more atmospheric side, the route page is [Pingjiang Road and Guanqian Street: A Smarter Central Suzhou Half Day Than Another Garden](/guides/pingjiang-road-and-guanqian-street-a-smarter-central-suzhou-half-day-than-another-garden/).
+
 ## Common mistakes
 
 - expecting Guanqian to replace Pingjiang as the city's strongest old-core feeling
@@ -107,5 +109,6 @@ For many first-time visitors, Guanqian helps most when:
 ## Which page to read next
 
 - read [Best Area to Stay in Suzhou for First-Time Visitors](/guides/suzhou-where-to-stay/) if the real question is hotel base
+- read [Pingjiang Road and Guanqian Street: A Smarter Central Suzhou Half Day Than Another Garden](/guides/pingjiang-road-and-guanqian-street-a-smarter-central-suzhou-half-day-than-another-garden/) if the route now needs one practical-and-atmospheric central half day rather than another abstract district choice
 - read [Where to Eat in Suzhou for First-Time Visitors](/guides/where-to-eat-in-suzhou-for-first-time-visitors/) if the live question is where one practical meal should happen
 - read [Pingjiang Road in Suzhou: When the Canal Walk Is Actually Worth Your Time](/places/pingjiang-road/) if the live choice is convenience versus atmosphere

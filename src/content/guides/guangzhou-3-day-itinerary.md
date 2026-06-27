@@ -2,7 +2,7 @@
 title: "A Practical 3-Day Guangzhou Itinerary for First-Time Visitors"
 description: "Use this three-day Guangzhou plan to balance Cantonese food neighborhoods, city rhythm, and a manageable first-time route without forcing too many disconnected sights."
 publishDate: 2026-06-17
-updatedDate: 2026-06-24
+updatedDate: 2026-06-27
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -89,6 +89,8 @@ If the real decision is not whether either one works in isolation but which skyl
 If this fuller day instead wants one slower west-side neighborhood block with more atmosphere than spectacle, the narrower decision page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
 
 If the west-side branch already clearly is happening and the live question becomes how to combine `Liwan`, `Yongqing Fang`, and `Shamian` without letting the half day sprawl too long, the cleaner execution page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
+
+If the broader west-side question already is less `how to sequence it` and more `how much architectural weight Shamian really deserves inside the route`, the cleaner bridge page is [A Better French-Era Walk in Guangzhou: Why Shamian Works Best With Liwan](/guides/a-better-french-era-walk-in-guangzhou-why-shamian-works-best-with-liwan/).
 
 If the west-side branch is confirmed but the real choice still is whether the core should be `Yongqing Fang` or the gentler finish should be `Shamian`, the sharper chooser page is [Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better](/guides/yongqing-fang-or-shamian-island-which-guangzhou-heritage-walk-fits-a-first-trip-better/).
 

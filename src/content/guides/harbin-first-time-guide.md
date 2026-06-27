@@ -2,7 +2,7 @@
 title: "Harbin for First-Time Visitors: When the Winter Spectacle Is Worth Building a Trip Around"
 description: "Plan a first trip to Harbin with practical advice on winter timing, route role, stay length, and whether the city is really worth the cold for your version of a first China trip."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-06-27
 city: "harbin"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -65,6 +65,8 @@ If the decision already has narrowed, the more focused page is usually better:
 - [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/)
 - [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/)
 - [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/)
+- [Zhongyang Street in Winter: Where to Walk, What to Eat, and How to Stay Warm](/guides/zhongyang-street-in-winter-where-to-walk-what-to-eat-and-how-to-stay-warm/)
+- [A Better Harbin Central Winter Half Day: Zhongyang Street, Saint Sophia, and When to Step Back Indoors](/guides/a-better-harbin-central-winter-half-day-zhongyang-street-saint-sophia-and-when-to-step-back-indoors/) if the broader central-city layer already is chosen and the live question now is how to shape one good winter half day without burning too much energy
 - [Saint Sophia Cathedral in Harbin: A Short Stop, a Photo Stop, or a Real Priority?](/places/saint-sophia-cathedral/)
 
 ## The short answer

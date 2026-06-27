@@ -56,6 +56,8 @@ Choose [Lingering Garden](/places/lingering-garden/) if:
 - you already know you want a second garden
 - the stay is slower and fuller
 
+If the live question already is not whether `Lingering Garden` belongs but whether a nearby smaller garden could replace your one big protected slot, the sharper page is [Humble Administrator's Garden or Lion Grove Garden? Which Suzhou Garden Fits a Short First Trip Better?](/guides/humble-administrators-garden-or-lion-grove-garden-which-suzhou-garden-fits-a-short-first-trip-better/).
+
 ## Humble Administrator's Garden vs Tiger Hill
 
 Choose `Humble Administrator's Garden` if:
@@ -83,5 +85,6 @@ It works best when the day around it stays selective.
 ## Which page to read next
 
 - read [A Practical 1-Day Suzhou Itinerary for First-Time Visitors](/guides/suzhou-1-day-itinerary-for-first-time-visitors/) if you want to place this garden inside a short real route
+- read [Humble Administrator's Garden or Lion Grove Garden? Which Suzhou Garden Fits a Short First Trip Better?](/guides/humble-administrators-garden-or-lion-grove-garden-which-suzhou-garden-fits-a-short-first-trip-better/) if the real question already is whether this flagship garden still beats the more tempting nearby cluster option
 - read [Suzhou Museum: Is It Worth Making Time for on a Short First Trip?](/places/suzhou-museum/) if the next live choice is museum-and-street balance
 - read [Lingering Garden in Suzhou: When a Second Garden Still Makes Sense](/places/lingering-garden/) if the real question is whether Suzhou deserves a second serious garden

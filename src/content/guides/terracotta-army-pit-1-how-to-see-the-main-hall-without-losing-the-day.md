@@ -183,6 +183,7 @@ The cleaner version is:
 ## Which page to read next
 
 - read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) if the broader value question still is open
+- read [A Smarter Terracotta Army Day From Xi'an: Transport, Pit 1, and What Not to Stack on Top](/guides/a-smarter-terracotta-army-day-from-xian-transport-pit-1-and-what-not-to-stack-on-top/) if Pit 1 now makes sense but the whole excursion day still needs a cleaner parent plan
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the museum logic now feels clearer but the outing itself still does not
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the live blocker is the reservation, not the on-site visit
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the outing still needs to fit a disciplined short stop

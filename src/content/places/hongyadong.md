@@ -248,6 +248,8 @@ Sometimes the stronger memory is:
 
 That is one reason Chongqing often feels fuller when one Hongyadong night is paired with one second scenic perspective rather than repeated from the same ground-level angle.
 
+If the route already has its main skyline night protected and the live question becomes whether one shorter vertical-city stop can explain Chongqing's geometry better than another repeated riverfront view, [Kuixing Building Skybridge](/places/kuixing-building-skybridge/) is the cleaner public-space answer and [Baixiangju](/places/baixiangju-apartment/) is the deeper residential-city answer.
+
 ## Is Hongyadong better on a 2-day or 3-day Chongqing trip?
 
 It works on both, but the role changes.
@@ -302,5 +304,7 @@ The strongest Hongyadong visits usually come from using it deliberately, not fro
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the real decision still is Hongyadong versus a cruise versus Nanbin Road
 - read [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if you still are deciding whether Hongyadong deserves one of your core Chongqing slots at all
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if the answer already is yes and the live question now is where to place the Hongyadong evening
+- read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if the skyline night already is happening and the trip still wants one very short vertical-city add-on
+- read [Baixiangju in Chongqing: The Apartment Maze That Explains the City — If You Treat It Respectfully](/places/baixiangju-apartment/) if the skyline night already is happening and the trip still wants one deeper residential-city detour
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if the live question now is whether a more central base will make this classic skyline block much easier
 - read [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/) if the trip still needs a cleaner booking order and you want to know why Hongyadong usually deserves priority in time, not in reservation panic

@@ -143,6 +143,8 @@ That kind of placement often gives it more value than trying to turn it into a g
 
 If the main remaining question is not whether the Temple of Heaven is worth it, but what the meal around it should actually be, the narrower follow-up is [Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitors](/guides/where-to-eat-near-temple-of-heaven-in-beijing/).
 
+If the main remaining question is whether this calmer ceremonial day is actually better than spending the time on one bigger scenic-imperial outing, the sharper comparison page is [Temple of Heaven or Summer Palace? Which Beijing Day Feels Better on a First Trip](/guides/temple-of-heaven-or-summer-palace-which-beijing-day-feels-better-on-a-first-trip/).
+
 ## Common mistakes
 
 - measuring it only against Beijing's absolute biggest attractions
@@ -152,6 +154,7 @@ If the main remaining question is not whether the Temple of Heaven is worth it, 
 
 ## Which page to read next
 
+- read [Temple of Heaven or Summer Palace? Which Beijing Day Feels Better on a First Trip](/guides/temple-of-heaven-or-summer-palace-which-beijing-day-feels-better-on-a-first-trip/) if the real choice now is compact ceremonial depth versus one broader scenic-imperial day
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still sorting Beijing by importance
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you are trying to place a calmer cultural site inside the route
 - read [Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitors](/guides/where-to-eat-near-temple-of-heaven-in-beijing/) if the calmer day is set and the real decision is what meal should carry it

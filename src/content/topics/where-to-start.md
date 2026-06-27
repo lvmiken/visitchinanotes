@@ -159,6 +159,8 @@ If the total trip is under a week, one main city plus one easy add-on often feel
 
 If you already know the trip is exactly about one week long, [Best China Itinerary for 7 Days](/topics/best-china-itinerary-7-days/) is the most useful next page because it turns this city-choice logic into an actual route recommendation.
 
+If the likely first stop is already `Shanghai` and the real question is what a softer East China route could look like after that, go next to [East China Itinerary Basics for First-Time Visitors](/topics/east-china-itinerary-basics-for-first-time-visitors/).
+
 If your real comparison is between the two biggest first-trip defaults, go next to [Beijing or Shanghai for First-Time Visitors?](/topics/beijing-or-shanghai-for-first-time-visitors/).
 
 If your real comparison is between East China ease and South China food-and-route logic, go next to [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/).
