@@ -1,0 +1,197 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+const title = "Search China Travel Notes";
+const description =
+  "Search guides, places, and trip-planning articles for first-time visitors to China.";
+---
+
+<BaseLayout title={title} description={description} noindex={true}>
+  <section class="hero article search-hero">
+    <p class="eyebrow">Site Search</p>
+    <h1>Search the site by city, place, or trip question</h1>
+    <p class="muted">
+      Try city names like Shanghai or Hangzhou, or practical questions like eSIM, West Lake,
+      Disneyland, or bullet train.
+    </p>
+    <form class="search-form" data-search-form>
+      <label class="search-label" for="site-search">Search China Travel Notes</label>
+      <div class="search-row">
+        <input
+          id="site-search"
+          class="search-input"
+          type="search"
+          name="q"
+          placeholder="Search guides, places, and topics"
+          autocomplete="off"
+        />
+        <button class="button-link primary search-button" type="submit">Search</button>
+      </div>
+    </form>
+  </section>
+
+  <section class="section-block article">
+    <div class="search-status muted" data-search-status>Loading search index…</div>
+    <div class="search-results" data-search-results></div>
+  </section>
+</BaseLayout>
+
+<script is:inline>
+  const form = document.querySelector("[data-search-form]");
+  const input = document.querySelector("#site-search");
+  const status = document.querySelector("[data-search-status]");
+  const resultsRoot = document.querySelector("[data-search-results]");
+  const params = new URLSearchParams(window.location.search);
+  const initialQuery = params.get("q")?.trim() ?? "";
+
+  const renderSummary = (message) => {
+    if (status) status.textContent = message;
+  };
+
+  const escapeHtml = (value) =>
+    value
+      .replaceAll("&", "&amp;")
+      .replaceAll("<", "&lt;")
+      .replaceAll(">", "&gt;")
+      .replaceAll('"', "&quot;")
+      .replaceAll("'", "&#39;");
+
+  const normalizePath = (url) => {
+    if (!url) return "#";
+    if (url.startsWith("http://") || url.startsWith("https://")) return url;
+    return url.startsWith("/") ? url : `/${url}`;
+  };
+
+  const run = async (query, pagefind) => {
+    if (!resultsRoot) return;
+    if (!query) {
+      resultsRoot.innerHTML = "";
+      renderSummary("Search by city, place, or practical topic.");
+      return;
+    }
+
+    renderSummary(`Searching for “${query}”…`);
+    const search = await pagefind.search(query);
+    const matches = await Promise.all(search.results.map((item) => item.data()));
+
+    if (!matches.length) {
+      resultsRoot.innerHTML = "";
+      renderSummary(`No results yet for “${query}”. Try a city, landmark, or broader travel term.`);
+      return;
+    }
+
+    renderSummary(`${matches.length} result${matches.length === 1 ? "" : "s"} for “${query}”`);
+    resultsRoot.innerHTML = matches
+      .map((item) => {
+        const meta = item.meta ?? {};
+        const excerpt = item.excerpt ? item.excerpt.replaceAll(/<[^>]+>/g, "") : "";
+        return `
+          <article class="card-surface search-card">
+            <p class="search-type">${escapeHtml(meta.type || "Article")}</p>
+            <h2><a href="${normalizePath(item.url)}">${escapeHtml(item.meta.title || item.url)}</a></h2>
+            <p>${escapeHtml(excerpt || meta.description || "")}</p>
+          </article>
+        `;
+      })
+      .join("");
+  };
+
+  const init = async () => {
+    try {
+      const pagefind = await import(/* @vite-ignore */ "/pagefind/pagefind.js");
+      if (input instanceof HTMLInputElement) {
+        input.value = initialQuery;
+      }
+
+      form?.addEventListener("submit", async (event) => {
+        event.preventDefault();
+        const query = input instanceof HTMLInputElement ? input.value.trim() : "";
+        const url = new URL(window.location.href);
+        if (query) {
+          url.searchParams.set("q", query);
+        } else {
+          url.searchParams.delete("q");
+        }
+        window.history.replaceState({}, "", url);
+        await run(query, pagefind);
+      });
+
+      await run(initialQuery, pagefind);
+    } catch {
+      renderSummary("Search is not ready in this preview yet. Build the site to generate the index.");
+    }
+  };
+
+  void init();
+</script>
+
+<style>
+  .search-hero h1 {
+    margin-bottom: 0.8rem;
+  }
+
+  .search-form {
+    margin-top: 1.5rem;
+  }
+
+  .search-label {
+    display: block;
+    margin-bottom: 0.55rem;
+    font-weight: 700;
+  }
+
+  .search-row {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+  }
+
+  .search-input {
+    flex: 1;
+    min-width: 0;
+    padding: 0.9rem 1rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    font: inherit;
+    background: white;
+  }
+
+  .search-button {
+    cursor: pointer;
+    font: inherit;
+  }
+
+  .search-status {
+    margin-bottom: 1rem;
+  }
+
+  .search-results {
+    display: grid;
+    gap: 1rem;
+  }
+
+  .search-card h2 {
+    margin: 0 0 0.55rem;
+    font-size: 1.25rem;
+  }
+
+  .search-card p {
+    margin: 0;
+  }
+
+  .search-type {
+    margin: 0 0 0.35rem;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 0.8rem;
+    color: var(--accent);
+    font-weight: 700;
+  }
+
+  @media (max-width: 720px) {
+    .search-row {
+      flex-direction: column;
+      align-items: stretch;
+    }
+  }
+</style>

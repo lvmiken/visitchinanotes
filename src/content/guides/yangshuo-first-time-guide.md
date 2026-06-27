@@ -48,11 +48,24 @@ If the narrower decision already is obvious, the more focused page is usually be
 
 - [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/)
 - [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/)
+- [How Long Should You Stay in Yangshuo on a First Trip?](/guides/how-many-days-in-yangshuo-for-first-time-visitors/)
+- [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/)
+- [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/)
+- [Rainy Day in Yangshuo for First-Time Visitors: What Still Works When the Karst Disappears?](/guides/rainy-day-in-yangshuo-for-first-time-visitors/)
 - [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/)
 - [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/)
 - [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/)
+- [Yulong River in Yangshuo: The calm countryside half-day that often beats one more town hour](/places/yulong-river/)
+- [Xingping Ancient Town: Go for the river edge, not the old-street fantasy](/places/xingping-ancient-town/)
+- [Moon Hill in Yangshuo: Worth it when you want a real climb, not just another photo stop](/places/moon-hill/)
 - [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/)
 - [Xingping Beyond the Banknote: A Better Yangshuo Side Trip Than Just Chasing the 20 RMB View](/guides/xingping-beyond-the-banknote-a-better-yangshuo-side-trip-than-just-chasing-the-20-rmb-view/) if the live question already is not just where the photo is, but how much of a real side trip Xingping deserves
+- [Yulong River or Xingping: Which Yangshuo Side Trip Deserves Your Better Weather Window?](/guides/yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window/)
+- [Yulong River Rafting in Yangshuo: When the Easy Scenic Half-Day Is Worth It](/guides/yulong-river-rafting-in-yangshuo-when-the-easy-scenic-half-day-is-worth-it/)
+- [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/)
+- [How to Use Moon Hill on a First Yangshuo Trip Without Overcommitting the Day](/guides/how-to-use-moon-hill-on-a-first-yangshuo-trip-without-overcommitting-the-day/)
+- [A Better Yangshuo Cycling Half-Day: Scenic Enough to Matter, Short Enough to Fit](/guides/a-better-yangshuo-cycling-half-day-for-first-time-visitors/)
+- [West Street or a Quieter Countryside Base: Which Yangshuo Stay Works Better for 2 Nights?](/guides/west-street-or-a-quieter-countryside-base-which-yangshuo-stay-works-better-for-2-nights/)
 - [Guilin on a First Trip: What to Prioritize and What Not to Overbuild](/guides/guilin-first-time-guide/)
 
 ## The short answer
@@ -108,6 +121,8 @@ If the route already is leaning toward `Xingping` and the live question is how t
 
 If the route already is leaning toward a more active outdoor half day instead of one more passive photo stop, the sharper follow-up page is [Yangshuo Rock Climbing for Beginners: Where to Start and When It Fits a Short Trip](/guides/yangshuo-rock-climbing-for-beginners-where-to-start-and-when-it-fits-a-short-trip/).
 
+If the route wants something active but softer and more countryside-led than climbing, the better bridge page is [A Better Yangshuo Cycling Half-Day: Scenic Enough to Matter, Short Enough to Fit](/guides/a-better-yangshuo-cycling-half-day-for-first-time-visitors/).
+
 ## Do not let West Street become the whole explanation
 
 `West Street` matters, but it is not the whole town.
@@ -142,6 +157,8 @@ For many first-time visitors, the cleanest first Yangshuo version is:
 
 That is enough for Yangshuo to feel distinct without making the whole route depend on it too heavily.
 
+If the season is still open and you want the town to feel more breathable than muggy, keep [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/) open too.
+
 ## Common mistakes on a first Yangshuo trip
 
 - treating Yangshuo like a generic famous town instead of a scenic extension of Guilin
@@ -154,7 +171,9 @@ That is enough for Yangshuo to feel distinct without making the whole route depe
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the main decision still is whether the river itself should carry the regional stop
 - read [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/) if the real question now is how to handle the banknote view without overbuilding the region
 - read [Xingping's Cormorant Fisherman Demo: A Real Yangshuo Memory or Just Tourist Theater?](/guides/xingping-cormorant-fisherman-demo-worth-it-or-just-tourist-theater/) if the Xingping branch already is likely and you want to judge whether the staged fisherman stop is worth even a short pause
+- read [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/) if you can protect only one of the region's two most useful water-based scenic answers
 - read [Yangshuo Rock Climbing for Beginners: Where to Start and When It Fits a Short Trip](/guides/yangshuo-rock-climbing-for-beginners-where-to-start-and-when-it-fits-a-short-trip/) if the town already is likely and the live question is whether one active outdoor half day adds more than another scenic stop
+- read [A Better Yangshuo Cycling Half-Day: Scenic Enough to Matter, Short Enough to Fit](/guides/a-better-yangshuo-cycling-half-day-for-first-time-visitors/) if the trip wants one active countryside branch without turning the day into a full sport outing
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the real decision now is whether the town deserves a sleep-there version instead of a pass-through
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the overnight likely is happening and the next question is the best base
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both and you need the cleaner tradeoff

@@ -76,6 +76,9 @@ const sitemapLastmodByPath = await buildCollectionLastmodMap();
 export default defineConfig({
   site: "https://visitchinanotes.com",
   output: "static",
+  legacy: {
+    collections: true,
+  },
   integrations: [
     mdx(),
     sitemap({

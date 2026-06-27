@@ -33,11 +33,89 @@ const {
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const siteRoot = new URL("/", siteUrl).href;
 const googleAnalyticsId = "G-T75BH982CN";
-const googleTagScript = `
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '${googleAnalyticsId}');
+const cookieConsentStorageKey = "ctn-cookie-consent";
+const consentScript = `
+  (() => {
+    const consentKey = '${cookieConsentStorageKey}';
+    const acceptedValue = 'accepted';
+    const declinedValue = 'declined';
+    const analyticsId = '${googleAnalyticsId}';
+    const analyticsSrc = 'https://www.googletagmanager.com/gtag/js?id=' + analyticsId;
+    let analyticsLoaded = false;
+
+    const safeGetStoredConsent = () => {
+      try {
+        return window.localStorage.getItem(consentKey);
+      } catch {
+        return null;
+      }
+    };
+
+    const safeSetStoredConsent = (value) => {
+      try {
+        window.localStorage.setItem(consentKey, value);
+      } catch {}
+    };
+
+    const loadAnalytics = () => {
+      if (analyticsLoaded) return;
+      analyticsLoaded = true;
+
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = analyticsSrc;
+      document.head.appendChild(script);
+
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = window.gtag || function(){window.dataLayer.push(arguments);};
+      window.gtag('js', new Date());
+      window.gtag('config', analyticsId);
+    };
+
+    const setBannerVisibility = (banner, isVisible) => {
+      if (!banner) return;
+      if (isVisible) {
+        banner.removeAttribute('hidden');
+      } else {
+        banner.setAttribute('hidden', '');
+      }
+    };
+
+    const applyConsentState = (value) => {
+      const banner = document.querySelector('[data-cookie-banner]');
+      if (value === acceptedValue) {
+        document.documentElement.dataset.cookieConsent = acceptedValue;
+        setBannerVisibility(banner, false);
+        loadAnalytics();
+        return;
+      }
+
+      if (value === declinedValue) {
+        document.documentElement.dataset.cookieConsent = declinedValue;
+        setBannerVisibility(banner, false);
+        return;
+      }
+
+      document.documentElement.dataset.cookieConsent = 'pending';
+      setBannerVisibility(banner, true);
+    };
+
+    const updateConsent = (value) => {
+      safeSetStoredConsent(value);
+      applyConsentState(value);
+    };
+
+    document.addEventListener('DOMContentLoaded', () => {
+      const banner = document.querySelector('[data-cookie-banner]');
+      const acceptButton = banner?.querySelector('[data-consent-accept]');
+      const declineButton = banner?.querySelector('[data-consent-decline]');
+
+      acceptButton?.addEventListener('click', () => updateConsent(acceptedValue));
+      declineButton?.addEventListener('click', () => updateConsent(declinedValue));
+
+      applyConsentState(safeGetStoredConsent());
+    });
+  })();
 `;
 const siteSchemas = [
   {
@@ -47,6 +125,11 @@ const siteSchemas = [
     url: siteRoot,
     inLanguage: "en",
     description: siteDescription,
+    potentialAction: {
+      "@type": "SearchAction",
+      target: `${siteRoot}search/?q={search_term_string}`,
+      "query-input": "required name=search_term_string",
+    },
   },
   {
     "@context": "https://schema.org",
@@ -63,8 +146,7 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
 <!doctype html>
 <html lang="en">
   <head>
-    <script async src={`https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`}></script>
-    <script is:inline set:html={googleTagScript}></script>
+    <script is:inline set:html={consentScript}></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#0f766e" />
@@ -81,7 +163,7 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
     />
   </head>
   <body>
-    <header class="site-header">
+    <header class="site-header" data-pagefind-ignore>
       <div class="shell header-inner">
         <div>
           <a class="logo" href="/">{siteName}</a>
@@ -91,15 +173,16 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
           <a href="/destinations/">Destinations</a>
           <a href="/guides/">Guides</a>
           <a href="/topics/">Trip Topics</a>
+          <a href="/search/">Search</a>
           <a href="/plan-help/">Plan Help</a>
           <a href="/contribute/">Contribute</a>
         </nav>
       </div>
     </header>
-    <main class="shell">
+    <main class="shell" data-pagefind-body>
       <slot />
     </main>
-    <footer class="site-footer">
+    <footer class="site-footer" data-pagefind-ignore>
       <div class="shell footer-grid">
         <div>
           <p class="footer-title">{siteName}</p>
@@ -112,6 +195,7 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
             <a href="/guides/">Guides</a>
             <a href="/topics/">Trip Topics</a>
             <a href="/places/">Places</a>
+            <a href="/search/">Search</a>
             <a href="/plan-help/">Plan Help</a>
             <a href="/contribute/">Contribute</a>
           </div>
@@ -121,12 +205,32 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
           <div class="footer-links">
             <a href="/about/">About</a>
             <a href="/authors/">Authors</a>
+            <a href="/contact/">Contact</a>
+            <a href="/disclaimer/">Disclaimer</a>
             <a href="/editorial-policy/">Editorial Policy</a>
             <a href="/privacy/">Privacy</a>
+            <a href="/rss.xml">RSS Feed</a>
           </div>
         </div>
       </div>
     </footer>
+    <div class="cookie-banner" data-cookie-banner hidden data-pagefind-ignore>
+      <div class="cookie-banner__content">
+        <p class="cookie-banner__title">Cookie notice</p>
+        <p class="cookie-banner__text">
+          This site uses non-essential cookies for analytics and, if enabled later, advertising measurement. Choose
+          whether to allow those cookies, and read the full details in the <a href="/privacy/">Privacy page</a>.
+        </p>
+      </div>
+      <div class="cookie-banner__actions">
+        <button class="cookie-banner__button cookie-banner__button--primary" type="button" data-consent-accept>
+          Accept
+        </button>
+        <button class="cookie-banner__button cookie-banner__button--secondary" type="button" data-consent-decline>
+          Decline
+        </button>
+      </div>
+    </div>
   </body>
 </html>
 
@@ -219,6 +323,65 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
     border-top: 1px solid var(--border);
     padding: 1rem 0 2rem;
     color: var(--muted);
+  }
+
+  .cookie-banner {
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+    z-index: 50;
+    width: min(420px, calc(100% - 2rem));
+    padding: 1rem;
+    border: 1px solid var(--border);
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.98);
+    box-shadow: var(--shadow);
+  }
+
+  .cookie-banner__content {
+    display: grid;
+    gap: 0.45rem;
+  }
+
+  .cookie-banner__title {
+    margin: 0;
+    color: var(--text);
+    font-weight: 700;
+  }
+
+  .cookie-banner__text {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.55;
+  }
+
+  .cookie-banner__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+
+  .cookie-banner__button {
+    appearance: none;
+    border-radius: 999px;
+    padding: 0.75rem 1rem;
+    font: inherit;
+    font-weight: 700;
+    cursor: pointer;
+    border: 1px solid transparent;
+  }
+
+  .cookie-banner__button--primary {
+    color: white;
+    background: var(--accent);
+  }
+
+  .cookie-banner__button--secondary {
+    color: var(--accent-strong);
+    background: white;
+    border-color: var(--border);
   }
 
   .footer-grid {
@@ -449,6 +612,12 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
     .button-row {
       flex-direction: column;
       align-items: stretch;
+    }
+
+    .cookie-banner {
+      right: 0.75rem;
+      bottom: 0.75rem;
+      width: calc(100% - 1.5rem);
     }
   }
 </style>

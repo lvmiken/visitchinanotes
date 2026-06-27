@@ -62,6 +62,8 @@ If the cruise already looks likely and the remaining decision is where the night
 
 If the tradeoff already is not `Is the cruise worth it at all?` but `Cruise or more Yangshuo time?`, the sharper comparison page is [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/).
 
+If the route can only protect one major water-based scenic answer and you are deciding between the region's biggest icon and Yangshuo's softer countryside version, the comparison page is [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/).
+
 If the live question is more specific and you mainly want the `20 RMB` scene handled cleanly, the practical page is [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/).
 
 ## The short answer
@@ -163,6 +165,7 @@ It usually weakens when travelers try to pretend it is a tiny side activity that
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the endpoint likely becomes a real overnight and the hotel base now matters
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the real question is whether the endpoint should become a proper overnight instead of a fast handoff
 - read [Xingping's Cormorant Fisherman Demo: A Real Yangshuo Memory or Just Tourist Theater?](/guides/xingping-cormorant-fisherman-demo-worth-it-or-just-tourist-theater/) if the Xingping side trip already is in play and you want an honest answer on whether the fisherman photo stop adds anything beyond staged atmosphere
+- read [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/) if the bigger question is whether the region's main icon should beat Yangshuo's gentler countryside answer
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both the icon and the slower town version
 - read [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/) if Yangshuo already is likely and you want to know whether the town center should carry the first evening
 - read [Guilin on a First Trip: What to Prioritize and What Not to Overbuild](/guides/guilin-first-time-guide/) if you still need to decide whether the wider region belongs in the route at all

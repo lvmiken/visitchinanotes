@@ -6,13 +6,15 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
     "preview": "astro preview"
   },
   "dependencies": {
     "@astrojs/mdx": "^4.0.0",
+    "@astrojs/rss": "^4.0.18",
     "@astrojs/sitemap": "^3.3.0",
     "astro": "^5.10.0",
+    "pagefind": "^1.5.2",
     "zod": "3.25.76"
   }
 }

@@ -1,0 +1,103 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+
+const reasons = [
+  "Ask a general question about using the site or finding the right planning page.",
+  "Report a factual correction, outdated detail, or broken link.",
+  "Ask about editorial collaboration, partnerships, or advertising-related inquiries.",
+  "Raise a privacy, data, or compliance question related to the site.",
+];
+
+const expectations = [
+  "Messages are reviewed manually, not by an instant support desk.",
+  "Editorial, correction, privacy, and partnership questions may be routed differently before reply.",
+  "If the question depends on official transport, ticketing, visa, or attraction rules, official sources should still be treated as final.",
+];
+---
+
+<BaseLayout
+  title="Contact China Travel Notes | General, Editorial, and Privacy Questions"
+  description="Contact China Travel Notes for general site questions, editorial corrections, privacy requests, or partnership inquiries."
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Contact" }]} />
+      <p class="eyebrow">Contact</p>
+      <h1>Contact the site for editorial, privacy, partnership, or general questions.</h1>
+      <p>
+        China Travel Notes is an editorial travel-planning site. If you need to get in touch about the content,
+        privacy questions, partnership ideas, or a general site issue, use the email contact below.
+      </p>
+      <div class="button-row">
+        {contactEmail ? (
+          <a class="button-link primary" href={`mailto:${contactEmail}`}>
+            Email {contactEmail}
+          </a>
+        ) : (
+          <span class="button-link secondary">Contact email is not configured yet</span>
+        )}
+        <a class="button-link secondary" href="/privacy/">Read the Privacy Policy</a>
+      </div>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Best For</p>
+        <h3>Use this page when the question is about the site, not only one itinerary decision.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>Content corrections and factual updates.</li>
+        <li>Privacy, cookie, or compliance questions.</li>
+        <li>Partnership or advertising-related outreach.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">What To Contact Us About</h2>
+    <div class="feature-grid">
+      {reasons.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Email</p>
+    <h2 class="section-title">Primary Contact Method</h2>
+    <p>
+      {contactEmail
+        ? <>The main contact address for this site is <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.</>
+        : "A public contact email has not been configured yet. Add `PUBLIC_CONTACT_EMAIL` in the site environment settings to publish it here."}
+    </p>
+    <p>
+      If you are writing about privacy or personal-data handling, include enough detail to identify the request clearly
+      without sending unnecessary sensitive information.
+    </p>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Before Sending</p>
+    <h2 class="section-title">What To Expect</h2>
+    <ul class="mini-list">
+      {expectations.map((item) => <li>{item}</li>)}
+    </ul>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Related Pages</p>
+    <h2 class="section-title">Useful Site Pages</h2>
+    <div class="button-row">
+      <a class="button-link secondary" href="/about/">About</a>
+      <a class="button-link secondary" href="/privacy/">Privacy</a>
+      <a class="button-link secondary" href="/editorial-policy/">Editorial Policy</a>
+      <a class="button-link secondary" href="/plan-help/">Plan Help</a>
+      <a class="button-link secondary" href="/contribute/">Contribute</a>
+    </div>
+  </section>
+</BaseLayout>

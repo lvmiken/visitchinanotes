@@ -1,0 +1,118 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Breadcrumbs from "../../components/Breadcrumbs.astro";
+
+const limits = [
+  "Travel content on this site is provided for general informational and trip-planning purposes only.",
+  "Visa, immigration, customs, health, transport, ticketing, hotel, and attraction rules can change without notice.",
+  "Official government, airline, railway, attraction, insurance, and hotel sources should always be treated as final.",
+  "No page on this site should be treated as a guarantee of availability, entry, approval, pricing, or travel outcome.",
+];
+
+const partnerNotes = [
+  "Editorial content is separate from any later partner introduction or booking-support conversation.",
+  "A partner mention or introduction does not create a guarantee, agency relationship, or promise of results.",
+  "Travelers are responsible for reviewing terms, prices, and conditions directly with any third-party provider they choose to use.",
+];
+
+const linkNotes = [
+  "This site may link to third-party websites for official information, reference, or convenience.",
+  "External sites operate under their own policies, terms, availability, and update cycles.",
+  "China Travel Notes is not responsible for the content, accuracy, or service quality of third-party sites.",
+];
+---
+
+<BaseLayout
+  title="Disclaimer | China Travel Notes"
+  description="Read the China Travel Notes disclaimer about informational content, official-source precedence, partner introductions, and third-party links."
+  noindex={true}
+>
+  <section class="split-hero">
+    <article class="hero article">
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Disclaimer" }]} />
+      <p class="eyebrow">Disclaimer</p>
+      <h1>Travel planning advice can help, but official rules and live conditions still come first.</h1>
+      <p>
+        China Travel Notes is an editorial travel-planning site. The content is designed to help first-time visitors
+        understand route choices, city fit, transport logic, and common mistakes, but it is not a substitute for
+        official policies, provider terms, or live operational updates.
+      </p>
+    </article>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Short Version</p>
+        <h3>Use the site for practical guidance, not as the final authority on rules or bookings.</h3>
+      </div>
+      <p class="muted">
+        If a booking, visa, schedule, or entry rule matters to the trip, verify it with the relevant official or
+        service-provider source before acting on it.
+      </p>
+    </aside>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">General Information Only</h2>
+    <div class="feature-grid">
+      {limits.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">No Guarantees</p>
+    <h2 class="section-title">No Warranty Or Promise Of Outcome</h2>
+    <p>
+      While the site aims to be practical and accurate, content may become incomplete, outdated, or less suitable for
+      a particular traveler&apos;s circumstances. China Travel Notes does not guarantee that any recommendation, booking
+      strategy, route shape, or planning suggestion will be correct for every trip or remain current at the time of
+      travel.
+    </p>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Partner And Booking Limitations</h2>
+    <div class="feature-grid">
+      {partnerNotes.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Third-Party Links And External Services</h2>
+    <div class="feature-grid">
+      {linkNotes.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Responsibility</p>
+    <h2 class="section-title">Traveler Responsibility</h2>
+    <p>
+      Each traveler is responsible for confirming whether a route, visa path, reservation, ticket, insurance decision,
+      payment method, or transport plan fits their own circumstances. Where risk, cost, or entry rules matter, verify
+      the latest details directly with the official or commercial provider involved.
+    </p>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Related Pages</p>
+    <h2 class="section-title">Read Together With</h2>
+    <div class="button-row">
+      <a class="button-link secondary" href="/about/">About</a>
+      <a class="button-link secondary" href="/contact/">Contact</a>
+      <a class="button-link secondary" href="/privacy/">Privacy</a>
+      <a class="button-link secondary" href="/editorial-policy/">Editorial Policy</a>
+    </div>
+  </section>
+</BaseLayout>

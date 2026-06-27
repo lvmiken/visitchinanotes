@@ -52,11 +52,22 @@ If the decision already has narrowed, the more focused page is usually better:
 
 - [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/)
 - [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/)
+- [Guilin or Yangshuo for the First Night: Which Base Makes the Region Easier?](/guides/guilin-or-yangshuo-for-the-first-night-which-base-makes-the-region-easier/)
 - [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/)
+- [A Better 2-Day Guilin and Yangshuo Plan for First-Time Visitors](/guides/a-better-2-day-guilin-and-yangshuo-plan-for-first-time-visitors/)
+- [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/)
+- [Rainy Day in Guilin for First-Time Visitors: Keep the City Light or Protect the River?](/guides/rainy-day-in-guilin-for-first-time-visitors/)
+- [One Guilin City Half-Day Before Yangshuo: What Is Actually Worth Doing?](/guides/one-guilin-city-half-day-before-yangshuo-what-is-actually-worth-doing/)
+- [One Guilin Night: Two Rivers and Four Lakes or Just Save Energy for the Li River?](/guides/one-guilin-night-two-rivers-and-four-lakes-or-just-save-energy-for-the-li-river/)
+- [Elephant Trunk Hill or Reed Flute Cave: Which Guilin Half-Day Is Actually Better?](/guides/elephant-trunk-hill-or-reed-flute-cave-which-guilin-half-day-is-actually-better/)
 - [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/)
+- [Elephant Trunk Hill in Guilin: Best as a short city symbol, not your whole scenic answer](/places/elephant-trunk-hill/)
+- [Reed Flute Cave in Guilin: When the indoor detour actually helps](/places/reed-flute-cave/)
+- [Two Rivers and Four Lakes in Guilin: Best as a city-side evening, not a replacement for the Li River](/places/two-rivers-and-four-lakes/)
 - [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/)
 - [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/)
 - [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/)
+- [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/)
 - [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/)
 - [Xingping Beyond the Banknote: A Better Yangshuo Side Trip Than Just Chasing the 20 RMB View](/guides/xingping-beyond-the-banknote-a-better-yangshuo-side-trip-than-just-chasing-the-20-rmb-view/)
 - [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/)
@@ -145,7 +156,11 @@ If the real blocker now is no longer `Is Guilin worth adding?` but `How long sho
 
 If the next planning tension is where to sleep so the region stays easy instead of fragmented, the companion stay page is [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/).
 
+If the trip timing is still open and you want the easiest weather window before shaping the region too tightly, the seasonal page is [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/).
+
 If the region already is winning but the live tradeoff is whether to protect the icon or the softer town version, the sharper comparison page is [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/).
+
+If the route can protect only one major water-based scenic answer, the cleaner hierarchy page is [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/).
 
 ## Common mistakes on a first Guilin trip
 
@@ -160,8 +175,10 @@ If the region already is winning but the live tradeoff is whether to protect the
 - read [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) if Guilin already is happening and you want the clearest first-time shortlist
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the remaining question is the best base for the region
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the region is likely and the next live question is whether it deserves 1, 2, or 3 days
+- read [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/) if the route shape is broadly right but the season still is not
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the real decision is whether the region deserves one softer overnight instead of a faster pass-through
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the route mostly is choosing between a pass-through and a real town stay
+- read [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/) if the river hierarchy still feels unresolved and you need one cleaner first scenic answer
 - read [Xingping's Cormorant Fisherman Demo: A Real Yangshuo Memory or Just Tourist Theater?](/guides/xingping-cormorant-fisherman-demo-worth-it-or-just-tourist-theater/) if the Xingping branch already is likely and you want to know whether the staged fisherman stop adds anything real
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the trip cannot fully protect both and you need the cleaner tradeoff
 - read [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/) if Yangshuo already looks likely and the next live question is whether the town center actually deserves protected time

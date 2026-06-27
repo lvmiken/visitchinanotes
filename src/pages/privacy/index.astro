@@ -3,47 +3,85 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 
 const collected = [
-  "Trip outline, city list, trip length, and planning notes entered into the request form.",
-  "Contact details needed to reply to a planning request.",
+  "Trip outline, city list, trip length, and planning notes entered into the planning or contribution forms.",
+  "Contact details needed to reply to a request, follow up on a contribution, or continue a support conversation.",
+  "Basic technical data such as browser type, device information, referring page, and approximate usage activity when analytics, security, or advertising tools are enabled.",
+  "Cookie or consent preferences that help remember privacy choices where that functionality is used.",
   "Basic referral context when a traveler explicitly asks for partner support.",
 ];
 
 const usage = [
-  "To reply to planning requests.",
+  "To reply to planning requests and contribution messages.",
+  "To operate, maintain, and improve the site, including understanding which guides help readers most.",
   "To decide whether the request is a better fit for editorial guidance or a partner introduction.",
   "To pass relevant details to a travel partner only when that next step matches the request.",
+  "To detect misuse, reduce spam, and keep the site functioning securely.",
+  "To support advertising, audience measurement, and related reporting if ads or measurement tools are used on the site.",
+];
+
+const cookieTypes = [
+  {
+    title: "Essential cookies",
+    description:
+      "These may be used to keep core site functions working, remember basic settings, and protect forms or other interactive features.",
+  },
+  {
+    title: "Analytics cookies",
+    description:
+      "These may be used to understand how readers use the site, which pages perform well, and where the experience needs improvement.",
+  },
+  {
+    title: "Advertising cookies",
+    description:
+      "If advertising is enabled, cookies and similar technologies may be used to serve ads, limit how often the same ad appears, and measure ad performance.",
+  },
+];
+
+const sharing = [
+  "Service providers that help run the site, such as hosting, forms, analytics, security, email, or advertising vendors.",
+  "Relevant travel partners, but only when a traveler explicitly asks for booking support or a partner introduction.",
+  "Legal or regulatory authorities when disclosure is required to comply with law, enforce site terms, or protect the site and its users.",
+];
+
+const choices = [
+  "Browser controls can usually block, delete, or limit cookies, although some site features may work less smoothly afterward.",
+  "Where required by law, a consent or preferences tool may be shown so visitors can manage non-essential cookie choices.",
+  "Google ad personalization choices can be reviewed through Google's Ads Settings.",
+  "Industry opt-out tools such as YourAdChoices may also offer additional controls for interest-based advertising from participating companies.",
 ];
 ---
 
 <BaseLayout
   title="Privacy | China Travel Notes"
-  description="Understand what information a planning request may collect and how it may be used or shared for follow-up."
+  description="Read how China Travel Notes handles form submissions, cookies, analytics, advertising, and third-party services, including how Google may use cookies to serve and measure ads."
   noindex={true}
 >
   <section class="split-hero">
     <article class="hero article">
       <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Privacy" }]} />
       <p class="eyebrow">Privacy</p>
-      <h1>Only collect the details needed to help with the trip.</h1>
+      <h1>How this site handles forms, cookies, analytics, and advertising.</h1>
       <p>
-        A travel-planning request should not require more information than necessary. The purpose of collecting details
-        is to understand the route question and respond appropriately.
+        This page explains what information may be collected through the site, how it may be used, when it may be
+        shared, and how cookies or similar technologies may be involved when analytics or advertising services are
+        enabled.
       </p>
     </article>
 
     <aside class="card-surface stack">
       <div>
         <p class="eyebrow">Short Version</p>
-        <h3>Requests are for follow-up, not for unnecessary data collection.</h3>
+        <h3>Forms, basic site operations, analytics, and advertising may all involve data handling.</h3>
       </div>
       <p class="muted">
-        If a traveler asks for partner support, only the details relevant to that request should be shared onward.
+        If advertising is shown on the site, third-party vendors including Google may use cookies to serve and measure
+        ads. If a traveler asks for partner support, only the details relevant to that request should be shared onward.
       </p>
     </aside>
   </section>
 
   <section class="section-block">
-    <h2 class="section-title">What A Planning Request May Include</h2>
+    <h2 class="section-title">What Information May Be Collected</h2>
     <div class="feature-grid">
       {collected.map((item) => (
         <article class="card-surface">
@@ -54,7 +92,7 @@ const usage = [
   </section>
 
   <section class="section-block">
-    <h2 class="section-title">How The Information May Be Used</h2>
+    <h2 class="section-title">How Information May Be Used</h2>
     <div class="feature-grid">
       {usage.map((item) => (
         <article class="card-surface">
@@ -65,12 +103,109 @@ const usage = [
   </section>
 
   <section class="section-block card-surface">
-    <p class="eyebrow">Partner Sharing</p>
-    <h2 class="section-title">When Details May Be Shared</h2>
+    <p class="eyebrow">Cookies</p>
+    <h2 class="section-title">Cookies And Similar Technologies</h2>
     <p>
-      If the traveler asks for booking support or a partner introduction, the request may be shared with a relevant
-      travel partner so they can follow up directly. The purpose of that sharing is to continue the requested service,
-      not to widen distribution of the information.
+      The site may use cookies, pixels, tags, local storage, or similar technologies to keep pages working, understand
+      how readers use the site, remember preferences, and support advertising or measurement tools.
+    </p>
+    <div class="feature-grid">
+      {cookieTypes.map((item) => (
+        <article class="card-surface">
+          <h3>{item.title}</h3>
+          <p>{item.description}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Advertising</p>
+    <h2 class="section-title">Third-Party Advertising Services</h2>
+    <p>
+      This site may use third-party advertising services, including Google, to display ads and measure advertising
+      performance. Third-party vendors, including Google, may use cookies or similar technologies to serve ads based on
+      a visitor&apos;s prior visits to this site or other sites, to limit repeated ads, and to measure ad effectiveness.
+    </p>
+    <p>
+      Google also explains that cookies and similar technologies may be used for advertising and analytics purposes,
+      including serving and measuring ads. Visitors can learn more through{" "}
+      <a href="https://policies.google.com/technologies/cookies?hl=en-US" rel="noopener noreferrer" target="_blank">
+        Google&apos;s explanation of cookies
+      </a>{" "}
+      and manage ad-personalization choices through{" "}
+      <a href="https://adssettings.google.com/" rel="noopener noreferrer" target="_blank">
+        Google Ads Settings
+      </a>
+      .
+    </p>
+    <p>
+      If non-Google advertising partners are used, their cookies or similar technologies may also be used to serve or
+      measure ads on the site. Their practices will be governed by their own privacy policies.
+    </p>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Partner Sharing</p>
+    <h2 class="section-title">When Information May Be Shared</h2>
+    <p>
+      Information may be shared only where there is a practical reason to do so, such as running the site, responding
+      to a request, supporting advertising or measurement tools, or complying with legal obligations.
+    </p>
+    <div class="feature-grid">
+      {sharing.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Choices</p>
+    <h2 class="section-title">Visitor Choices And Controls</h2>
+    <div class="feature-grid">
+      {choices.map((item) => (
+        <article class="card-surface">
+          <p>{item}</p>
+        </article>
+      ))}
+    </div>
+    <p>
+      For ad-supported pages, visitors may also review{" "}
+      <a href="https://youradchoices.com/" rel="noopener noreferrer" target="_blank">
+        YourAdChoices
+      </a>{" "}
+      for additional information about interest-based advertising controls from participating companies.
+    </p>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Retention</p>
+    <h2 class="section-title">How Long Information May Be Kept</h2>
+    <p>
+      Form submissions, support conversations, and basic operational records may be kept for as long as reasonably
+      needed to respond to requests, maintain the site, understand performance, comply with legal obligations, or
+      resolve disputes. Technical, analytics, and advertising data may be retained according to the settings and
+      policies of the services used.
+    </p>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Updates</p>
+    <h2 class="section-title">Changes To This Page</h2>
+    <p>
+      This page may be updated from time to time as site features, forms, analytics, advertising, or legal
+      requirements change. The latest version published here should be treated as the current privacy notice.
+    </p>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Contact</p>
+    <h2 class="section-title">Questions About Privacy</h2>
+    <p>
+      If there are questions about how this site handles personal information, cookies, or advertising-related data,
+      use the contact details provided elsewhere on the site so the request can be reviewed and answered.
     </p>
   </section>
 </BaseLayout>
