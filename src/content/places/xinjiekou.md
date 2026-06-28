@@ -4,6 +4,11 @@ description: "Decide whether Xinjiekou deserves time on your first Nanjing trip,
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
 city: "nanjing"
+heroImage: "/images/heroes/nanjing-xinjiekou.jpg"
+heroImageAlt: "Modern towers and busy commercial streets in Nanjing's Xinjiekou district."
+heroImageAttributionName: "钉钉"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xinjiekou%2C_Nanjing_3.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Nanjing visitors deciding whether Xinjiekou is worth more than hotel convenience"
   - "travelers comparing Xinjiekou with the Qinhuai side for where to stay, eat, or spend a lower-friction evening"

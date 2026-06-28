@@ -1,6 +1,6 @@
 ---
-title: "How to Choose One Modern Beijing Detour: CBD, Olympic Park, 798, or Shougang?"
-description: "Choose the right modern Beijing detour by matching CBD, Olympic Park, 798, and Shougang Park to your trip style, time budget, and what kind of contemporary city experience you actually want."
+title: "Choose One Modern Beijing Detour: CBD, 798, Olympic Park, or Shougang"
+description: "Choose the right modern Beijing detour by matching CBD, 798, Olympic Park, and Shougang to your trip style, time budget, and the city experience you actually want."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"

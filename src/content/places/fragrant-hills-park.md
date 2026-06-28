@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "best-time-to-visit-beijing-for-first-time-visitors"
   - "how-many-days-in-beijing-for-first-time-visitors"
+heroImage: "/images/heroes/beijing-fragrant-hills-park.jpg"
+heroImageAlt: "Fragrant Hills Park in Beijing."
+heroImageAttributionName: "Ludger Heide"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xiangshan_(Fragrant_Hills)_Park_(43745555980).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Beijing"
   - "Fragrant Hills"

@@ -4,6 +4,11 @@ description: "Use this Kuixing Building Skybridge guide to decide when the stop 
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "chongqing"
+heroImage: "/images/heroes/chongqing-kuixing-building-skybridge.jpg"
+heroImageAlt: "An elevated urban view of central Chongqing that fits the dramatic city perspective associated with Kuixing Building."
+heroImageAttributionName: "Ecelan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_-_View_03.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Chongqing visitors who want one quick, mind-bending vertical-city stop"
   - "travelers comparing Kuixing Building Skybridge with Liziba, Baixiangju, or another short Chongqing urban oddity"

@@ -4,6 +4,11 @@ description: "Decide whether Badaguan deserves real walking time on a first Qing
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "qingdao"
+heroImage: "/images/heroes/qingdao-badaguan.jpg"
+heroImageAlt: "Tree-lined villas and greenery in Qingdao's Badaguan district near the coast on a bright day."
+heroImageAttributionName: "M. Weitzel"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Badaguan%2C_Qingdao.jpg"
+heroImageLicense: "CC BY-SA 2.5"
 whoItsFor:
   - "first-time Qingdao visitors deciding where the city's best longer coastal-neighborhood walk should happen"
   - "travelers comparing Badaguan with Zhanqiao, a beach block, or a more practical central walk"

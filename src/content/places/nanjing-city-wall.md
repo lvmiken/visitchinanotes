@@ -20,6 +20,11 @@ relatedGuideSlugs:
   - "how-many-days-in-nanjing-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
   - "cycling-the-nanjing-city-wall-best-section-and-ride-length"
+heroImage: "/images/heroes/nanjing-nanjing-city-wall.jpg"
+heroImageAlt: "Nanjing City Wall."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024Apr_-_Nanjing_City_Wall_(south_section)_-_img_11.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "City wall"

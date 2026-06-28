@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "how-to-plan-universal-beijing-resort"
   - "beijing-4-day-itinerary-with-kids"
   - "what-to-book-in-advance-for-beijing-with-kids"
+heroImage: "/images/heroes/beijing-universal-beijing-resort.jpg"
+heroImageAlt: "Universal Beijing Resort."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2633126_at_Universal_Resort,_Universal_Blvd_(20210826122908).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Universal Beijing Resort"

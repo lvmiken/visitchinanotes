@@ -2,7 +2,7 @@
 title: "Best Things to Do in Chengdu for First-Time Visitors"
 description: "Find out which things to do in Chengdu are actually worth your limited time, how to choose between pandas, tea-house city rhythm, old-street areas, and food-led evenings, and how to build a fuller first trip without rushing the city."
 publishDate: 2026-06-21
-updatedDate: 2026-06-23
+updatedDate: 2026-06-28
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -133,6 +133,8 @@ This is often the part of Chengdu people remember most clearly once the trip is 
 
 If the question is no longer whether tea deserves time, but where that tea stop should actually happen, the narrower next page is [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/).
 
+If the live search is broader than that and the real need is one citywide editorial answer to Chengdu tea culture before choosing a district or detour, the cleaner landing page is [Chengdu Tea House Guide: Where the Slow City Still Feels Real](/guides/chengdu-tea-house-guide-where-to-go/).
+
 If the question already is not only where tea belongs but how to turn breakfast, tea, and one calmer Chengdu block into a real usable half day, the narrower execution page is [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/).
 
 If the live question already has narrowed to whether the trip needs this slower city-rhythm block at all or whether one clearer historical branch would serve Chengdu better, the cleaner comparison page is [People's Park or Wuhou Shrine: Which Chengdu Stop Is Better for First-Time Visitors?](/guides/peoples-park-or-wuhou-shrine-for-first-time-visitors/).
@@ -158,6 +160,8 @@ This is usually strongest when:
 For many first-time visitors, one memorable dinner-and-walk night gives more value than one more low-priority daytime attraction.
 
 If the food layer already is becoming the real planning question, move next to [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) and [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/).
+
+If that food layer already has narrowed beyond hotpot and bigger restaurant picks into Chengdu's smaller local `fly restaurant` or `苍蝇小馆` style meals, the narrower next page is [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/).
 
 If the real question is no longer what deserves daylight, but how to use Chengdu after dark without wasting evenings, the narrower next page is [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/).
 
@@ -347,7 +351,9 @@ This is where Chengdu stops feeling like only a panda stop and becomes one of th
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to turn this shortlist into a realistic route
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) if the next question is which Chengdu meals truly deserve your limited meal slots
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the next question is which district should carry the hotpot night, the noodle stop, or the easier tea-house meal
+- read [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/) if the next question is whether Chengdu's smaller local `苍蝇小馆` style meals deserve one of your limited food slots
 - read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) if the next question is whether the tea stop should happen in People's Park, Wenshu Monastery, or a more local neighborhood
+- read [Chengdu Tea House Guide: Where the Slow City Still Feels Real](/guides/chengdu-tea-house-guide-where-to-go/) if the next question is broader and you want one stronger tea-culture landing page before narrowing into one exact branch
 - read [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/) if the next question is how to turn Chengdu's slower breakfast-and-tea layer into one actual half day
 - read [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) if the next question is whether the city wants one museum block, which museum fits best, or whether no museum is the smarter answer
 - read [How to Plan a West-Side Cultural Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors/) if the next question is how to turn Qingyang Palace, Du Fu, and maybe Sichuan Museum into one coherent calmer route

@@ -4,6 +4,11 @@ description: "Decide whether Dongmen Old Street deserves one of your Shenzhen ev
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "shenzhen"
+heroImage: "/images/heroes/shenzhen-dongmen-old-street.jpg"
+heroImageAlt: "A bright pedestrian street scene in Shenzhen's Dongmen Old Street area."
+heroImageAttributionName: "Dinkun Chen"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:OLD_STREET(LAO_JIE)_SHENZHEN_(226).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Shenzhen visitors deciding whether one older shopping-and-snack district belongs in a short stay"
   - "travelers comparing Dongmen with Futian convenience, Sea World comfort, or another more polished dinner night"

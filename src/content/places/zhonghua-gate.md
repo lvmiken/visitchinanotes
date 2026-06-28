@@ -21,6 +21,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
   - "laomendong-or-confucius-temple-where-should-your-nanjing-evening-begin"
+heroImage: "/images/heroes/nanjing-zhonghua-gate.jpg"
+heroImageAlt: "Zhonghua Gate in Nanjing."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024Apr_-_Nanjing_-_East_Zhonghua_Gate_%E4%B8%AD%E5%8D%8E%E4%B8%9C%E9%97%A8_-_img_04.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "City gate"

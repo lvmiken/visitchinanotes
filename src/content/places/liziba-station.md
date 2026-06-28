@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "how-to-get-around-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
   - "liziba-station-photo-spots-best-viewing-platform-and-when-to-go"
+heroImage: "/images/heroes/chongqing-liziba-station.jpg"
+heroImageAlt: "Liziba Station in Chongqing."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Liziba_Station_with_02031_(20191224152311).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chongqing"
   - "Liziba"

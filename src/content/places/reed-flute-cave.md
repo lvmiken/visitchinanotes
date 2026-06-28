@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-guilin-for-first-time-visitors"
   - "one-guilin-city-half-day-before-yangshuo-what-is-actually-worth-doing"
   - "elephant-trunk-hill-or-reed-flute-cave-which-guilin-half-day-is-actually-better"
+heroImage: "/images/heroes/guilin-reed-flute-cave.jpg"
+heroImageAlt: "Reed Flute Cave in Guilin."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Reed_Flute_Cave_89017-Guilin_(44934927312).jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Guilin"
   - "Reed Flute Cave"

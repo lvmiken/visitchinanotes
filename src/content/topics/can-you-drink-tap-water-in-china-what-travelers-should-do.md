@@ -144,6 +144,8 @@ If water feels unclear, travelers start second-guessing:
 - filling a reusable bottle
 - waking up thirsty at night
 
+If that uncertainty matters because you are traveling with diabetes or another routine that depends on steadier hydration and meal timing, the more specific prep page is [Traveling in China With Diabetes: What to Prepare Before You Go](/topics/traveling-in-china-with-diabetes-what-to-prepare/).
+
 One good routine removes all of that.
 
 ## 6. What most first-time visitors actually need

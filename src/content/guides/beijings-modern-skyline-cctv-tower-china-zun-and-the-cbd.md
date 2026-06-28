@@ -1,6 +1,6 @@
 ---
-title: "Where Beijing's Modern Skyline Finally Clicks: CCTV Tower, China Zun, and the CBD"
-description: "Use this Beijing CBD guide to decide whether the CCTV Headquarters, China Zun, and the city's bold modern skyline deserve time on a first trip, what kind of traveler this area suits, and when it fits best."
+title: "Beijing CBD Guide: CCTV, China Zun, and the Skyline"
+description: "Use this Beijing CBD guide to decide whether CCTV Headquarters, China Zun, and the city's modern skyline deserve time, who this area suits, and when it fits best."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"

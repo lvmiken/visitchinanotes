@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "qingdao-first-time-guide"
   - "qingdao-2-day-itinerary"
   - "qingdao-beijing-or-shanghai-pairing"
+heroImage: "/images/heroes/qingdao-laoshan-mountain.jpg"
+heroImageAlt: "Laoshan from Qingdao."
+heroImageAttributionName: "Narjuko"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Laoshan_district_government_building.JPG"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Qingdao"
   - "Laoshan"

@@ -19,6 +19,11 @@ relatedGuideSlugs:
   - "suzhou-first-time-guide"
   - "best-things-to-do-in-suzhou-for-first-time-visitors"
   - "suzhou-1-day-itinerary-for-first-time-visitors"
+heroImage: "/images/heroes/suzhou-humble-administrators-garden.jpg"
+heroImageAlt: "Humble Administrator's Garden in Suzhou."
+heroImageAttributionName: "King of Hearts"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Garden"

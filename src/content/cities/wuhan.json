@@ -1,0 +1,36 @@
+{
+  "name": "Wuhan",
+  "country": "China",
+  "intro": "Wuhan suits travelers who want one deeply local food city, a strong breakfast culture anchor, and a more lived-in central-China stop than the usual first-trip defaults.",
+  "seoTitle": "Wuhan Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Wuhan with practical advice on breakfast culture, trip length, city rhythm, and when this central-China stop fits a wider route.",
+  "idealFor": ["food-led routes", "lived-in city texture"],
+  "suggestedStay": "1 to 3 days",
+  "tripPace": "Best when the stay protects one real breakfast morning and treats the city as a short but intentional stop.",
+  "pairWith": ["Shanghai", "Chengdu", "Xi'an"],
+  "bestMonths": ["March", "April", "October", "November"],
+  "highlights": [
+    "A strong fit for travelers who care more about local food culture and city rhythm than about collecting iconic monuments.",
+    "Works especially well when the route needs one deeply lived-in central-China stop rather than another default megacity layer.",
+    "Often earns its place through one disciplined breakfast morning and one calmer city block rather than through a long attraction checklist."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Protect the breakfast morning first",
+      "description": "If Wuhan is on the route for guozao, the breakfast window should be treated as the city's anchor rather than left to chance."
+    },
+    {
+      "title": "Decide whether Wuhan is a real stop or only a connector",
+      "description": "The city works far better when its role is deliberate instead of being squeezed between train times."
+    },
+    {
+      "title": "Keep the stop short but intentional",
+      "description": "Wuhan often shines most as a one- to two-night food-and-city-rhythm stop rather than as a city overloaded with too many scattered goals."
+    }
+  ],
+  "transportNote": "Wuhan is easiest to use well when rail timing supports one honest morning and the city is not treated as dead space between more famous stops.",
+  "homepageGroups": ["north-inland-routes"],
+  "featuredGuideSlugs": ["wuhan-first-time-guide", "how-many-days-in-wuhan-for-first-time-visitors", "wuhan-where-to-stay", "wuhan-1-day-itinerary-for-first-time-visitors", "wuhan-2-day-itinerary-for-first-time-visitors", "what-to-eat-in-wuhan-for-first-time-visitors", "where-to-eat-in-wuhan-for-first-time-visitors", "where-to-eat-breakfast-in-wuhan-for-first-time-visitors", "what-to-do-in-wuhan-at-night-for-first-time-visitors"],
+  "featuredTopicSlugs": ["where-to-start", "plan-your-trip", "wuhan-breakfast-culture-how-to-do-guozao", "wuhan-or-chengdu-which-food-city-fits-your-trip", "high-speed-rail", "book-high-speed-train"],
+  "featuredPlaceSlugs": []
+}

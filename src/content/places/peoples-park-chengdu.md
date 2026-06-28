@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors"
   - "rainy-day-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
+heroImage: "/images/heroes/chengdu-peoples-park-chengdu.jpg"
+heroImageAlt: "People's Park in Chengdu."
+heroImageAttributionName: "Suicasmo"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:People%27s_Park_(Chengdu)_20260513-5.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Chengdu"
   - "People's Park"

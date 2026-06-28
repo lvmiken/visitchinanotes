@@ -4,6 +4,11 @@ description: "Use this Baixiangju guide to decide when Chongqing's famous reside
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "chongqing"
+heroImage: "/images/heroes/chongqing-liziba-station.jpg"
+heroImageAlt: "Dense residential towers and layered transit infrastructure in Chongqing that capture the vertical-city feel travelers associate with Baixiangju."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Liziba_Station_with_02031_(20191224152311).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Chongqing visitors who want one intense urban-geometry stop beyond the usual skyline names"
   - "travelers comparing Baixiangju with Liziba, Hongyadong, or another short visual detour"

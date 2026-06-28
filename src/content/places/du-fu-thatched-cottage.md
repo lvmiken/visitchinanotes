@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "chengdu-3-day-itinerary"
   - "how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors"
   - "rainy-day-in-chengdu-for-first-time-visitors"
+heroImage: "/images/heroes/chengdu-du-fu-thatched-cottage.jpg"
+heroImageAlt: "Du Fu Thatched Cottage in Chengdu."
+heroImageAttributionName: "CEphoto, Uwe Aranas"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chengdu_Sichuan_China_Du-Fu-Thatched-Cottage-Park-01.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Chengdu"
   - "Du Fu Thatched Cottage"

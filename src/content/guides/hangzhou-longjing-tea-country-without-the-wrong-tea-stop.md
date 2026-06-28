@@ -21,7 +21,6 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "hangzhou-first-time-guide"
   - "how-to-plan-a-hangzhou-tea-half-day-for-first-time-visitors"
-  - "longjing-village-or-meijiawu-which-tea-stop-fits-a-first-hangzhou-trip-better"
   - "longjing-village-or-china-national-tea-museum-for-first-time-visitors"
 tags:
   - "Hangzhou"
@@ -61,7 +60,7 @@ Use this page if you are asking:
 
 If the broader tea branch still is not shaped clearly enough, keep [How to Plan a Hangzhou Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-hangzhou-tea-half-day-for-first-time-visitors/) open too.
 
-If the live choice already is the simpler village-versus-village decision, the cleaner comparison page is [Longjing Village or Meijiawu: Which Tea Stop Fits a First Hangzhou Trip Better?](/guides/longjing-village-or-meijiawu-which-tea-stop-fits-a-first-hangzhou-trip-better/).
+If the live choice already is no longer tea country in general but whether `Longjing Village` is really the right village anchor, start with [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/) and compare that against the simpler meal-led version you want.
 
 ## The short answer
 
@@ -131,7 +130,7 @@ This version is often stronger when:
 - the group wants tea and countryside texture without turning the stop into a symbolic performance
 - lunch matters as much as the tea itself
 
-If the live question is still which village should carry the one real tea-country stop, keep [Longjing Village or Meijiawu: Which Tea Stop Fits a First Hangzhou Trip Better?](/guides/longjing-village-or-meijiawu-which-tea-stop-fits-a-first-hangzhou-trip-better/) open too.
+If the live question is still which village should carry the one real tea-country stop, keep [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/) open too as the stronger symbolic benchmark.
 
 ## The easiest way to get the wrong version is to let transport choose the tea stop
 
@@ -192,7 +191,7 @@ It usually helps less when:
 ## Best next page by what still feels uncertain
 
 - read [How to Plan a Hangzhou Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-hangzhou-tea-half-day-for-first-time-visitors/) if you already know tea country belongs and now need the cleanest execution
-- read [Longjing Village or Meijiawu: Which Tea Stop Fits a First Hangzhou Trip Better?](/guides/longjing-village-or-meijiawu-which-tea-stop-fits-a-first-hangzhou-trip-better/) if the village choice still is the real blocker
+- read [Longjing Village in Hangzhou: Is It Worth Visiting for Tea and Scenery?](/places/longjing-village/) if the village choice still is the real blocker and you want the clearest first benchmark
 - read [Longjing Village or China National Tea Museum for First-Time Visitors](/guides/longjing-village-or-china-national-tea-museum-for-first-time-visitors/) if the real choice is tea-country atmosphere versus tea-with-context
 - read [Where to Drink Tea in Hangzhou for First-Time Visitors](/guides/where-to-drink-tea-in-hangzhou-for-first-time-visitors/) if the half day is broadly right but the actual tea pause still is not
 - read [Where to Eat Near Lingyin Temple or Longjing Village for First-Time Visitors](/guides/where-to-eat-near-lingyin-temple-or-longjing-village-for-first-time-visitors/) if the meal shape now matters more than the tea stop itself

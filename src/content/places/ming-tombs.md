@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "how-many-days-in-beijing-for-first-time-visitors"
   - "beijing-4-day-itinerary"
+heroImage: "/images/heroes/beijing-ming-tombs.jpg"
+heroImageAlt: "Ming Tombs in Beijing."
+heroImageAttributionName: "Charlie fong"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:MingTombsReservoir.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Ming Tombs"

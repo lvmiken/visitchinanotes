@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "rainy-day-in-hangzhou-for-first-time-visitors"
   - "hangzhou-2-day-itinerary-for-first-time-visitors"
   - "what-to-book-in-advance-for-hangzhou"
+heroImage: "/images/heroes/hangzhou-hangzhou-arts-and-crafts-museum.jpg"
+heroImageAlt: "Hangzhou Arts and Crafts Museum."
+heroImageAttributionName: "猫猫的日记本"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hangzhou_Arts_and_Crafts_Museum_01_2013-07.JPG"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Hangzhou"
   - "Hangzhou Arts and Crafts Museum"

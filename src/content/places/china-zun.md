@@ -1,9 +1,14 @@
 ---
-title: "China Zun in Beijing: The Tallest Tower Matters More on the Skyline Than Inside It"
-description: "Use this China Zun guide to decide whether Beijing's tallest tower deserves time on a first trip, whether tourists should treat it as a real attraction, and how to fit it into a smarter CBD architecture stop."
+title: "China Zun in Beijing: Better on the Skyline Than Inside"
+description: "Decide whether China Zun deserves time, whether it works as a real attraction, and how Beijing's tallest tower fits a smarter CBD stop."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"
+heroImage: "/images/heroes/beijing-china-zun.jpg"
+heroImageAlt: "Beijing CBD skyline with China Zun rising above the surrounding towers in clear weather."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Skyline_of_Beijing_CBD_with_B-5906_approaching_(20211016171955).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Beijing visitors who keep seeing China Zun in skyline photos and want to know whether it is actually worth going to"
   - "travelers interested in architecture, tall buildings, and a more contemporary capital-city layer beyond the imperial core"

@@ -4,6 +4,11 @@ description: "Decide whether Xingping Ancient Town is worth a stop on a first Ya
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "yangshuo"
+heroImage: "/images/heroes/yangshuo-xingping-ancient-town.jpg"
+heroImageAlt: "Classic Li River scenery at Xingping with karst peaks, boats, and clear reflective water."
+heroImageAttributionName: "Liuxingy"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E6%A1%82%E6%9E%97%E9%98%B3%E6%9C%94%E5%85%B4%E5%9D%AA%E6%BC%93%E6%B1%9F%E9%A3%8E%E5%85%89_01.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Yangshuo visitors deciding whether Xingping deserves a real side trip"
   - "travelers who know the 20 RMB view but want to understand whether Xingping is more than a photo errand"

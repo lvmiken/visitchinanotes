@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "chengdu-museum-or-sichuan-museum-for-first-time-visitors"
   - "rainy-day-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
+heroImage: "/images/heroes/chengdu-chengdu-museum.jpg"
+heroImageAlt: "Chengdu Museum."
+heroImageAttributionName: "来斤小仓鼠吧"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E6%88%90%E9%83%BD%E5%8D%9A%E7%89%A9%E9%A6%86%E6%AD%A3%E9%97%A8.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chengdu"
   - "Chengdu Museum"

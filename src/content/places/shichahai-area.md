@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "beijing-old-city-day-itinerary"
   - "what-to-do-in-shichahai-at-night-for-first-time-visitors"
   - "what-to-do-in-beijing-at-night"
+heroImage: "/images/heroes/beijing-shichahai-lake.jpg"
+heroImageAlt: "A calm stretch of Shichahai with tree-lined banks reflected in the water in Beijing."
+heroImageAttributionName: "FANG Chen"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Beijing_Shichahai_1.jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Beijing"
   - "Shichahai"

@@ -4,6 +4,11 @@ description: "Decide whether Ciqikou is worth visiting on a first Chongqing trip
 publishDate: 2026-06-22
 updatedDate: 2026-06-22
 city: "chongqing"
+heroImage: "/images/heroes/chongqing-ciqikou.jpg"
+heroImageAlt: "The traditional west gate area of Ciqikou Old Town in Chongqing with warm historic architecture."
+heroImageAttributionName: "User:233路开往宁海中学公交总站"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E7%A3%81%E5%99%A8%E5%8F%A3%E8%A5%BF%E9%97%A8.jpeg"
+heroImageLicense: "Public domain"
 whoItsFor:
   - "first-time Chongqing visitors deciding whether Ciqikou deserves real trip time"
   - "travelers who want one traditional-feeling old-street layer without letting it replace Chongqing's stronger skyline and food payoffs"

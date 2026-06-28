@@ -244,6 +244,8 @@ For many travelers, that means packing:
 
 The first 48 hours go better when you are not forced into extra errands just to feel normal again.
 
+If your packing list also has to protect a stricter food or medical routine, the more specific child pages are [Traveling in China as a Vegan: What to Prepare Before You Go](/topics/traveling-in-china-as-a-vegan-what-to-prepare/) and [Traveling in China With Diabetes: What to Prepare Before You Go](/topics/traveling-in-china-with-diabetes-what-to-prepare/).
+
 ## 9. Day bag logic matters
 
 Many readers think about the main suitcase but forget the bag they will actually use every day.
@@ -304,6 +306,8 @@ If that list is strong, the trip is already starting from a better place.
 
 If your wider China packing list is mostly solved and the real question has narrowed to one Disney park day, the child page is [What to Pack for Shanghai Disneyland for First-Time Visitors](/guides/what-to-pack-for-shanghai-disneyland-for-first-time-visitors/).
 
+If your packing question is no longer generic and has narrowed to whether one active Yunnan highlands branch is even realistic with your shoes, layers, and bag setup, the route-fit child page is [Tiger Leaping Gorge Hiking for First-Time Visitors: What Is Actually Realistic?](/topics/tiger-leaping-gorge-hiking-for-first-time-visitors/).
+
 ## Which page to read next
 
 - read [Best Time to Visit China for a First Trip](/topics/best-time-to-visit-china/) if the clothing question is really a season-choice question
@@ -311,4 +315,6 @@ If your wider China packing list is mostly solved and the real question has narr
 - read [What to Pack for Shanghai Disneyland for First-Time Visitors](/guides/what-to-pack-for-shanghai-disneyland-for-first-time-visitors/) if the live packing problem is a Shanghai Disney day rather than the full China route
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if the weak point is the phone stack rather than the suitcase
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if your packing decisions need to support a smoother arrival day
+- read [Traveling in China as a Vegan: What to Prepare Before You Go](/topics/traveling-in-china-as-a-vegan-what-to-prepare/) if food backup, breakfast logic, and translation prep are the real weak points
+- read [Traveling in China With Diabetes: What to Prepare Before You Go](/topics/traveling-in-china-with-diabetes-what-to-prepare/) if medication, snacks, and travel-day stability need a more specific checklist
 - read [China Travel Mistakes First-Time Visitors Make](/topics/china-travel-mistakes-first-time-visitors-make/) if you want the broader first-trip sanity check around this packing list

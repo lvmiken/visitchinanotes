@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "qingdao-first-time-guide"
   - "qingdao-2-day-itinerary"
   - "qingdao-where-to-stay"
+heroImage: "/images/heroes/qingdao-qingdao-beer-museum.jpg"
+heroImageAlt: "Qingdao Beer Museum."
+heroImageAttributionName: "See-ming Lee from Hong Kong SAR, China"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Forms_in_Green_Historic_Brewery_Tank,_Tsingtao_Beer_Museum_SML2Qingdao_SML.20121009.7D.08785_(8194248705).jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Qingdao"
   - "Beer Museum"

@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "shanghai-first-time-guide"
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "rainy-day-in-shanghai-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-1933-old-millfun.jpg"
+heroImageAlt: "1933 Old Millfun in Shanghai."
+heroImageAttributionName: "Supanut Arunoprayote"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:1933_Old_Millfun_20251127.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Shanghai"
   - "1933 Old Millfun"

@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "hangzhou-first-time-guide"
   - "hangzhou-day-trip-or-overnight"
   - "hangzhou-west-lake-planning"
+heroImage: "/images/heroes/hangzhou-broken-bridge.jpg"
+heroImageAlt: "Broken Bridge in Hangzhou."
+heroImageAttributionName: "User:CatOnMars"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Huanglong_%26_Broken_Bridge_-_Hangzhou_City_%26_West_Lake_near_Broken_Bridge.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Hangzhou"
   - "Broken Bridge"

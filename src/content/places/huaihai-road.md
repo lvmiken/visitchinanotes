@@ -4,6 +4,11 @@ description: "Decide whether Huaihai Road deserves real time, who should use it 
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "shanghai"
+heroImage: "/images/heroes/shanghai-huaihai-road.jpg"
+heroImageAlt: "A cleaner elevated view down Middle Huaihai Road in Shanghai with traffic, towers, and a broad urban avenue."
+heroImageAttributionName: "Livelikerw"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Middle_Huaihai_Rd._2.JPG"
+heroImageLicense: "CC BY-SA 3.0"
 whoItsFor:
   - "first-time Shanghai visitors deciding whether Huaihai Road is a real priority or mostly a supporting corridor"
   - "travelers comparing Huaihai Road with Nanjing Road, Xintiandi, or the wider French Concession"

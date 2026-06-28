@@ -57,6 +57,10 @@ This page is for travelers asking:
 
 If your first problem is still the booking platform itself, read [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/) first.
 
+If your real question is narrower than `all train classes` and has become the very common tourist dilemma of `first class or second class?`, go straight to [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/).
+
+If your real question is no longer seat comfort but bag limits and suitcase friction, go straight to [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/).
+
 ## The short answer
 
 For many first-time visitors:
@@ -218,6 +222,7 @@ If the real worry is still the station day rather than the seat, read [How to Ri
 
 ## Which page to read next
 
+- read [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/) if your real decision is the most common one and business class is not under serious consideration
 - read [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/) if the remaining stress is station flow rather than seat comfort
 - read [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/) if you still need to handle the official booking process
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if your train day is nearly ready and you want to lock the purchase cleanly

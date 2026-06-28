@@ -4,6 +4,11 @@ description: "Decide whether Longmenhao Old Street is worth visiting on a first 
 publishDate: 2026-06-22
 updatedDate: 2026-06-22
 city: "chongqing"
+heroImage: "/images/heroes/chongqing-nanbin-road.jpg"
+heroImageAlt: "Broad riverfront views and landmark buildings along Chongqing's Nanbin Road and Longmenhao area in daylight."
+heroImageAttributionName: "HoweyYuan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Nanbin_Road_Bell_Tower.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Chongqing visitors deciding whether Longmenhao deserves one of their limited scenic or cultural blocks"
   - "travelers comparing Longmenhao with Ciqikou, Nanbin Road, or a Nanshan evening"

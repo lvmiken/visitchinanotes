@@ -4,6 +4,11 @@ description: "Decide whether Yuexiu Park deserves time on a first Guangzhou trip
 publishDate: 2026-06-25
 updatedDate: 2026-06-25
 city: "guangzhou"
+heroImage: "/images/heroes/guangzhou-yuexiu-park.jpg"
+heroImageAlt: "The Five Rams statue at Yuexiu Park, one of Guangzhou's best-known landmarks."
+heroImageAttributionName: "Liuxingy"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E7%A7%80_%E8%B6%8A%E7%A7%80%E5%85%AC%E5%9B%AD%E4%B9%8B%E4%BA%94%E7%BE%8A%E7%9F%B3%E5%83%8F_02.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Guangzhou visitors deciding whether one lighter outdoor city-history stop adds enough value to a short route"
   - "travelers comparing Yuexiu Park with Chen Clan Ancestral Hall, Beijing Road, or another easier central continuation"

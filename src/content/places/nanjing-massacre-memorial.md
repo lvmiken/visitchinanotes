@@ -23,6 +23,11 @@ relatedGuideSlugs:
   - "how-to-visit-the-nanjing-massacre-memorial"
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "nanjing-first-time-guide"
+heroImage: "/images/heroes/nanjing-nanjing-massacre-memorial.jpg"
+heroImageAlt: "Nanjing Massacre Memorial."
+heroImageAttributionName: "Kevin Dooley from Chander, AZ, USA"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Square,_Nanjing_Massacre_Memorial_Hall_(flickr_9106317623).jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Nanjing"
   - "History"

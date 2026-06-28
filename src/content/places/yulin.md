@@ -4,6 +4,11 @@ description: "Decide whether Yulin is worth your time, when it works best, and h
 publishDate: 2026-06-21
 updatedDate: 2026-06-21
 city: "chengdu"
+heroImage: "/images/heroes/chengdu-yulin.jpg"
+heroImageAlt: "A lively street intersection in Chengdu's Yulin area with trees, shops, and evening city life."
+heroImageAttributionName: "TurnOnTheNight"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Intersection_of_Yulin_West_Road_and_Yulin_North_Road_20241007194803.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Chengdu visitors deciding whether Yulin deserves one of their limited evenings"
   - "travelers comparing Yulin with Jiuyanqiao, Chunxi Road, Taikoo Li, or Jinli"

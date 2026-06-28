@@ -4,6 +4,11 @@ description: "Decide whether Nanjing Museum deserves time on your first trip, wh
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
 city: "nanjing"
+heroImage: "/images/heroes/nanjing-nanjing-museum.jpg"
+heroImageAlt: "The main building of Nanjing Museum with broad steps and classical architecture under blue sky."
+heroImageAttributionName: "維基小霸王"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Nanjing_Museum_-_main_building.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "travelers choosing Nanjing's best broad indoor history anchor"
 keyTakeaways:

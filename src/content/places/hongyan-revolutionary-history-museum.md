@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "best-museums-in-chongqing-for-first-time-visitors"
   - "rainy-day-in-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
+heroImage: "/images/heroes/chongqing-hongyan-revolutionary-history-museum.jpg"
+heroImageAlt: "Hongyan Revolutionary History Museum Worth It in Chongqing."
+heroImageAttributionName: "Anheizhe"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E7%BA%A2%E5%B2%A9%E9%AD%82%E9%99%88%E5%88%97%E9%A6%86_8030.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chongqing"
   - "Hongyan Revolutionary History Museum"

@@ -23,6 +23,11 @@ relatedGuideSlugs:
   - "guilin-first-time-guide"
   - "guilin-where-to-stay"
   - "one-guilin-city-half-day-before-yangshuo-what-is-actually-worth-doing"
+heroImage: "/images/heroes/guilin-two-rivers-and-four-lakes.jpg"
+heroImageAlt: "Two Rivers and Four Lakes in Guilin."
+heroImageAttributionName: "King of Hearts"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Ronghu_Lake_Guilin_November_2017_HDR.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Guilin"
   - "Two Rivers and Four Lakes"

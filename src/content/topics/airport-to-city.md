@@ -134,6 +134,8 @@ The airport itself is rarely the whole problem. Usually it is the combination of
 
 This is why a technically "good" route can still feel bad in practice. Many first-time visitors do not lose confidence because the transfer is impossible. They lose confidence because the last 20 percent of the route becomes tiring at exactly the moment they are most depleted.
 
+If the arrival city is not yet fixed because the real comparison is `Sanya Phoenix` versus `Haikou Meilan`, go directly to [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) rather than forcing Hainan into a generic arrival pattern.
+
 ## Quick city shortcuts
 
 If your search is already city-specific, skip straight to the narrower page instead of staying on this broad hub too long.
@@ -161,6 +163,10 @@ If your search is already city-specific, skip straight to the narrower page inst
 ### Xi'an
 
 - [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/) is the right starting point if Xi'an is your landing city and you want the cleanest arrival tradeoffs before the short city stop begins.
+
+### Hainan
+
+- [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) is the right starting point if the Hainan airport choice is still part of the route decision itself rather than a simple transfer problem.
 
 ## Best next page once the exact airport is known
 
@@ -238,6 +244,7 @@ Use this page as the broad arrival hub, then move into the narrower decision pag
 - read [China Packing List for First-Time Visitors](/topics/china-packing-list-for-first-time-visitors/) if luggage, charging, and arrival-day readiness still look weaker than they should
 - read [China Travel Mistakes First-Time Visitors Make](/topics/china-travel-mistakes-first-time-visitors-make/) if arrival-day overconfidence is only one part of a broader first-trip planning problem
 - read [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) if the real problem is not transport alone but where to place the first base
+- read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if Hainan is in the trip and the first real arrival choice is which island airport better supports the base
 - read [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/) if phone readiness is what will make or break the arrival
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if maps, Didi, hotel messaging, and the whole phone setup still look underprepared
 

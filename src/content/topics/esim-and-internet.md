@@ -106,6 +106,8 @@ That depends less on the word "China" by itself and more on what apps, sites, an
 
 If that is your real blocker, read [Do You Need a VPN in China? What Travelers Should Know](/topics/do-you-need-a-vpn-in-china/).
 
+If the narrower practical question is whether Apple Maps itself is good enough in China or whether you still need a China-specific backup, go next to [Apple Maps in China: Does It Work Well Enough for Travelers?](/topics/apple-maps-in-china-does-it-work-well-enough-for-travelers/).
+
 ## What most first-time travelers should do
 
 For many readers, the easiest low-stress answer is:

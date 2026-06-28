@@ -18,6 +18,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "what-to-do-in-nanjing-at-night-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
+heroImage: "/images/heroes/nanjing-laomendong.jpg"
+heroImageAlt: "Laomendong in Nanjing."
+heroImageAttributionName: "钉钉"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Laomendong,_Nanjing.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Nanjing"
   - "Old street"

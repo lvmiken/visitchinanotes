@@ -28,6 +28,11 @@ relatedGuideSlugs:
   - "chengdu-first-time-guide"
   - "chengdu-3-day-itinerary"
   - "how-many-days-in-chengdu-for-first-time-visitors"
+heroImage: "/images/heroes/chengdu-chengdu-research-base-of-giant-panda-breeding.jpg"
+heroImageAlt: "Chengdu Research Base of Giant Panda Breeding."
+heroImageAttributionName: "Jimmyshjj"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chengdu_Research_Base_of_Giant_Panda_Breeding,_201907,_01.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chengdu"
   - "Panda base"

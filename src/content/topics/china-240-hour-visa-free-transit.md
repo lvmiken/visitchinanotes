@@ -54,6 +54,10 @@ This page is not legal advice. It is a traveler-planning guide built to help you
 
 This topic was checked against the current official [National Immigration Administration English portal](https://en.nia.gov.cn/), Shanghai's official international-services [240-Hour Visa-Free Transit hub](https://english.shanghai.gov.cn/en-240HourVisaFreeTransit/index.html), the official Shanghai [Visa-free transit explainer](https://english.shanghai.gov.cn/en-VisaFreeTransit/index.html), and the current Shanghai FAQ entries on [covered ports](https://english.shanghai.gov.cn/en-FAQ/20240510/38ebeeb5ec5e438f88cfcd12c7d3c979.html), [time calculation](https://english.shanghai.gov.cn/en-FAQ/20240513/b72110cf85b1442ea49a45360f3c1fb3.html), and [leaving the allowed area](https://english.shanghai.gov.cn/en-FAQ/20240513/ad77c0cd0456470da5b9ae937644bf26.html), checked on **June 27, 2026**.
 
+If your search already has narrowed from `what is the policy?` to `which entry regions actually work?`, the sharper child page is [China's 240-Hour Transit Policy: Which Airports and Cities Actually Qualify?](/topics/chinas-240-hour-transit-policy-which-airports-and-cities-actually-qualify/).
+
+If the policy logic is mostly clear and the next blocker is ticket structure, go next to [How to Book a China 240-Hour Transit Itinerary That Actually Qualifies](/topics/how-to-book-a-china-240-hour-transit-itinerary-that-actually-qualifies/).
+
 ## What this page is really solving
 
 This page is for readers who are asking questions like:
@@ -62,6 +66,8 @@ This page is for readers who are asking questions like:
 - can I use this to turn a transfer into a real city stay?
 - are the old `144-hour` articles still trustworthy?
 - how much route freedom do I really have once I land?
+
+If your route is not really a transit puzzle and the live question is simply whether current ordinary visa-free entry allows you to leave mainland China and return again, that is a different page: [Can You Enter China Visa-Free More Than Once? What the Current Rules Actually Mean](/topics/can-you-enter-china-visa-free-multiple-times/).
 
 If your question already has narrowed to one city, go straight to the city pages:
 
@@ -187,6 +193,8 @@ That is why the city-level pages matter more than one broad visa explainer.
 ## Which page to read next
 
 - read [China Visa Basics for Tourists: What to Check Before You Build the Route](/topics/china-visa-basics/) if your bigger problem is still entry planning in general
+- read [China's 240-Hour Transit Policy: Which Airports and Cities Actually Qualify?](/topics/chinas-240-hour-transit-policy-which-airports-and-cities-actually-qualify/) if the policy idea is clear but the entry region still is not
+- read [How to Book a China 240-Hour Transit Itinerary That Actually Qualifies](/topics/how-to-book-a-china-240-hour-transit-itinerary-that-actually-qualifies/) if the policy idea is clear but the ticket structure still is not
 - read [Beijing 240-Hour Transit Guide: Great Wall, Forbidden City, and a Stopover That Works](/guides/beijing-240-hour-visa-free-transit-for-first-time-visitors/) if Beijing is the likely stopover city
 - read [Shanghai Stopover Guide: Using China's 240-Hour Visa-Free Transit Well](/guides/shanghai-240-hour-visa-free-transit-for-first-time-visitors/) if Shanghai is the likely stopover city
 - read [Chengdu Stopover Guide Under China's 240-Hour Transit Policy: Pandas, Tea, and Pace](/guides/chengdu-240-hour-visa-free-transit-for-first-time-visitors/) if Chengdu is the likely stopover city

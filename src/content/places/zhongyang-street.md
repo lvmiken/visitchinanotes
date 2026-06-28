@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-harbin-for-first-time-visitors"
   - "harbin-where-to-stay"
   - "zhongyang-street-in-winter-where-to-walk-what-to-eat-and-how-to-stay-warm"
+heroImage: "/images/heroes/harbin-zhongyang-street.jpg"
+heroImageAlt: "Zhongyang Street in Harbin."
+heroImageAttributionName: "SmallSonMarex"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhongyang_Street,_Central_Street,_Harbin_06.01.2026.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Harbin"
   - "Zhongyang Street"

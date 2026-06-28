@@ -28,6 +28,11 @@ relatedGuideSlugs:
   - "rainy-day-in-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
   - "how-to-get-around-chongqing-for-first-time-visitors"
+heroImage: "/images/heroes/chongqing-huguang-guild-hall.jpg"
+heroImageAlt: "Huguang Guild Hall in Chongqing."
+heroImageAttributionName: "Zhangzhugang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Huguang_Huiguan_2014.04.21_13-14-42.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Chongqing"
   - "Huguang Guild Hall"

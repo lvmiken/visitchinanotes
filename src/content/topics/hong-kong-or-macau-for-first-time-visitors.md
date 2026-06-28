@@ -67,6 +67,10 @@ If one city already sounds like the likely winner, go narrower after this:
 
 If the real question is not only which city wins, but how Shenzhen or Guangzhou changes the logic, keep [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) and [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) nearby too.
 
+If the route already includes mainland China and the real anxiety is no longer `Hong Kong or Macau`, but whether a Macau detour still lets you come back into the mainland cleanly, keep [After Macau, Can You Re-Enter Mainland China Visa-Free?](/topics/after-macau-can-you-re-enter-mainland-china-visa-free/) open too.
+
+If both `Hong Kong` and `Macau` already look likely and the real question has shifted to which mainland partner belongs beside them, the better parent page is [How to Plan a South China Route with Hong Kong, Macau, and One Mainland Stop](/topics/how-to-plan-a-south-china-route-with-hong-kong-macau-and-one-mainland-stop/).
+
 ## The short answer
 
 For many first-time visitors:

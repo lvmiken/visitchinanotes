@@ -4,6 +4,11 @@ description: "Use this Zhapu Road Bridge guide to decide when the bridge is wort
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "shanghai"
+heroImage: "/images/heroes/shanghai-zhapu-road-bridge.jpg"
+heroImageAlt: "Classic skyline view of Lujiazui seen from Zhapu Road Bridge in Shanghai."
+heroImageAttributionName: "Windmemories"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:View_of_Lujiazui_from_Zhapu_Road_Bridge.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Shanghai visitors who want one precise skyline photo stop without wasting half a day"
   - "travelers comparing Zhapu Road Bridge with the Bund, North Bund, or a broader Suzhou Creek walk"

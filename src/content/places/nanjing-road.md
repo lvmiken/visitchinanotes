@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "shanghai-where-to-stay"
   - "what-to-do-in-shanghai-at-night"
   - "where-to-eat-in-shanghai-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-nanjing-road.jpg"
+heroImageAlt: "Nanjing Road in Shanghai."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024-Apr_Shanghai_East_Nanjing_Road_morning_01.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Shanghai"
   - "Nanjing Road"

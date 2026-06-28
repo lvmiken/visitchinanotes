@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "yangshuo-rock-climbing-for-beginners-where-to-start-and-when-it-fits-a-short-trip"
   - "how-to-use-moon-hill-on-a-first-yangshuo-trip-without-overcommitting-the-day"
   - "yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window"
+heroImage: "/images/heroes/yangshuo-moon-hill.jpg"
+heroImageAlt: "Moon Hill in Yangshuo."
+heroImageAttributionName: "Maria Ly"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Moon_Hill_-_Yangshuo,_China.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Yangshuo"
   - "Moon Hill"

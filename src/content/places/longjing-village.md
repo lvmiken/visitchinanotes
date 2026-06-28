@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "hangzhou-first-time-guide"
   - "hangzhou-day-trip-or-overnight"
   - "hangzhou-west-lake-planning"
+heroImage: "/images/heroes/hangzhou-longjing-village.jpg"
+heroImageAlt: "Longjing Village in Hangzhou."
+heroImageAttributionName: "Niklas Dougherty"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Longjing_tea_village_Hangzhou.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hangzhou"
   - "Longjing"

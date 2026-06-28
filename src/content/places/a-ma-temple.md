@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "macau-2-day-itinerary"
   - "what-to-eat-in-macau-for-first-time-visitors"
   - "where-to-stay-in-macau-for-first-time-visitors"
+heroImage: "/images/heroes/macau-a-ma-temple.jpg"
+heroImageAlt: "A-Ma Temple in Macau."
+heroImageAttributionName: "Diego Delso"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Templo_de_A-M%C3%A1,_Macao,_2013-08-08,_DD_02.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Macau"
   - "A-Ma Temple"

@@ -73,6 +73,8 @@ Autumn is often the other strongest first-trip season. The air and walking condi
 
 This is a strong choice if your trip is built around **Beijing**, **Xi'an**, or a broader north-and-east route.
 
+It is also one of the cleanest seasons for a more architecture-first Shanxi branch, where older towns, grottoes, and longer outdoor heritage days usually benefit from cooler air and steadier walking energy.
+
 ### Summer
 
 Summer can still work, but it is usually best for travelers who:
@@ -82,6 +84,12 @@ Summer can still work, but it is usually best for travelers who:
 - are choosing cities with full awareness of weather tradeoffs
 
 If the route already looks dense on paper, summer often makes the same route feel harder in practice.
+
+Summer is also when a cooler highlands branch can beat another hot classic-city loop. If that is happening, [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) and [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/) are sharper next steps than staying at the national season level.
+
+Summer is usually the wrong season to add Hainan simply because the island sounds easy in search. If the route is drifting toward a tropical island chapter, [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) is the better next parent page because the real question becomes whether you want beach-and-resort heat at all, not just whether Hainan is available.
+
+Summer is also when a short festival window can tempt travelers into bad date logic. If the real question has become whether Dragon Boat Festival adds value or only adds crowd pressure, the better next page is [Dragon Boat Festival in China: Worth Planning Around or Too Crowded?](/topics/dragon-boat-festival-in-china-worth-planning-around-or-too-crowded/).
 
 ### Winter
 
@@ -98,6 +106,16 @@ This is why season choice belongs in the same planning sequence as [How to Plan 
 If your dates are mostly decided and the next practical question is what those dates mean for actual clothing in Beijing, Shanghai, Guangzhou, Chengdu, or Xi'an, continue with [What to Wear in China by Season and City](/topics/what-to-wear-in-china/).
 
 If the route already is clearly a Shanghai-Hangzhou-Suzhou-Nanjing cluster, the regional answer is sharper than this national one: [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/).
+
+If the route is turning into a north-China architecture trip rather than a classic big-city loop, the better next parent page is [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/).
+
+If the route is turning into a Yunnan highlands branch where hiking rhythm, road conditions, and altitude matter more than museum density, the better next parent page is [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/).
+
+If that Yunnan branch is being chosen specifically for `June` or `summer cooling`, the more exact next pages are [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) and [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/).
+
+If the route is turning toward a tropical island finish rather than a cooler inland branch, the better next parent page is [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/).
+
+If the route is no longer about the usual giant-city shortlist and the real question is whether a lower-hype stop should be coastal-historical, East China literary, or southwest food-led, the better comparison page is [Quanzhou, Shaoxing, or Guiyang? Which Lower-Hype China City Fits Your Trip Best](/topics/quanzhou-shaoxing-or-guiyang-which-city-fits-you/).
 
 ## Match the season to the route
 
@@ -126,3 +144,15 @@ If the main gap is clothing rather than luggage as a whole, continue with [What 
 If Beijing is a likely first stop, continue with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/). If you want an easier urban entry point, [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) is the better next read.
 
 If East China is already the likely shape of the trip, continue with [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/).
+
+If Shanxi is becoming the route's main wildcard, continue with [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/).
+
+If Yunnan's highlands are becoming the route's main wildcard, continue with [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/).
+
+If Yunnan is winning specifically because your travel month is `June`, continue with [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) and [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/).
+
+If the route's main wildcard is not cooling highlands but a warmer island finish, continue with [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/).
+
+If the early-summer wildcard is not Yunnan cooling but whether a holiday window improves the trip, continue with [Dragon Boat Festival in China: Worth Planning Around or Too Crowded?](/topics/dragon-boat-festival-in-china-worth-planning-around-or-too-crowded/).
+
+If the route's main wildcard is not a province branch but a smaller city choice beyond the default shortlist, continue with [Quanzhou, Shaoxing, or Guiyang? Which Lower-Hype China City Fits Your Trip Best](/topics/quanzhou-shaoxing-or-guiyang-which-city-fits-you/).

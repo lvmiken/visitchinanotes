@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "what-to-do-in-chengdu-at-night-for-first-time-visitors"
   - "where-to-eat-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
+heroImage: "/images/heroes/chengdu-jiuyanqiao.jpg"
+heroImageAlt: "Jiuyanqiao in Chengdu."
+heroImageAttributionName: "Wwklion"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Jiuyanqiao.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chengdu"
   - "Jiuyanqiao"

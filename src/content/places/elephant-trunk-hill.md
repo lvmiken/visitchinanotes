@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-guilin-for-first-time-visitors"
   - "one-guilin-city-half-day-before-yangshuo-what-is-actually-worth-doing"
   - "elephant-trunk-hill-or-reed-flute-cave-which-guilin-half-day-is-actually-better"
+heroImage: "/images/heroes/guilin-elephant-trunk-hill.jpg"
+heroImageAlt: "Elephant Trunk Hill in Guilin."
+heroImageAttributionName: "Shujianyang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:View_of_Guilin_from_Elephant_Trunk_Hill_(cropped).jpg"
+heroImageLicense: "CC0"
 tags:
   - "Guilin"
   - "Elephant Trunk Hill"

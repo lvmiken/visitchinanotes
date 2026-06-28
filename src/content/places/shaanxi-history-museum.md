@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
+heroImage: "/images/heroes/xian-shaanxi-history-museum.jpg"
+heroImageAlt: "Shaanxi History Museum Worth It in Xi'an."
+heroImageAttributionName: "jesse"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shaanxi_History_Museum_2.JPG"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Xi'an"
   - "Shaanxi History Museum"

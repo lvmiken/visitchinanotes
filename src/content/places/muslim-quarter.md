@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
+heroImage: "/images/heroes/xian-muslim-quarter.jpg"
+heroImageAlt: "Xi'an Muslim Quarter Worth It."
+heroImageAttributionName: "Qianeal"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xi%27an_Muslim_Quarter.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Xi'an"
   - "Muslim Quarter"

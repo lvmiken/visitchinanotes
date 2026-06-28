@@ -4,6 +4,11 @@ description: "Use this Yangmeizhu Xiejie guide to decide when this quieter old-c
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "beijing"
+heroImage: "/images/heroes/beijing-yangmeizhu-xiejie.jpg"
+heroImageAlt: "Historic low-rise storefronts and pedestrians along Yangmeizhu Xiejie in central Beijing."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Yangmeizhu_Xiejie_(20240210151543).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Beijing visitors who want a more selective hutong-and-shop lane than the loudest tourist corridor"
   - "travelers comparing Yangmeizhu Xiejie with Nanluoguxiang, Qianmen, or a broader old-city day"

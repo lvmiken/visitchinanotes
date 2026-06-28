@@ -19,6 +19,11 @@ relatedGuideSlugs:
   - "nanjing-first-time-guide"
   - "what-to-do-in-nanjing-at-night-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
+heroImage: "/images/heroes/nanjing-confucius-temple-and-qinhuai-river.jpg"
+heroImageAlt: "Confucius Temple and the Qinhuai River in Nanjing."
+heroImageAttributionName: "Dick Rochester"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Confucius_Temple_and_Qinhuai_River,_Nanjing_Night.jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Nanjing"
   - "Night district"

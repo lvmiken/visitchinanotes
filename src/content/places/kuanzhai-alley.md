@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "where-to-eat-in-chengdu-for-first-time-visitors"
   - "where-to-drink-tea-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
+heroImage: "/images/heroes/chengdu-kuanzhai-alley.jpg"
+heroImageAlt: "Kuanzhai Alley in Chengdu."
+heroImageAttributionName: "Daderot"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shops_-_Kuanzhai_Alleys_-_Chengdu,_China_-_DSC05305.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Chengdu"
   - "Kuanzhai Alley"

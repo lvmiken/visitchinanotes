@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "where-to-eat-in-qianmen-for-first-time-visitors"
   - "where-to-eat-breakfast-in-qianmen-for-first-time-visitors"
   - "where-to-eat-lunch-in-qianmen-for-first-time-visitors"
+heroImage: "/images/heroes/beijing-qianmen-street.jpg"
+heroImageAlt: "Pedestrians walking along Qianmen Street between traditional shopfronts in Beijing."
+heroImageAttributionName: "The Erica Chang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Beijing_Qianmen_Street_-_panoramio_(2).jpg"
+heroImageLicense: "CC BY 3.0"
 tags:
   - "Beijing"
   - "Qianmen"

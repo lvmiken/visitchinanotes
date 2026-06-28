@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "hong-kong-3-day-itinerary"
   - "what-to-do-in-hong-kong-at-night"
   - "hong-kong-where-to-stay"
+heroImage: "/images/heroes/hong-kong-avenue-of-stars.jpg"
+heroImageAlt: "Avenue of Stars in Hong Kong."
+heroImageAttributionName: "Alexkom000"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024-12-27_Avenue_of_Stars,_Hong_Kong.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Hong Kong"
   - "Avenue of Stars"

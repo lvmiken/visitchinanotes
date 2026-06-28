@@ -33,6 +33,8 @@ Guangzhou becomes much easier to use well when you decide early whether the seco
 
 If the live question still is `Hong Kong versus Shenzhen` in the abstract, start with [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/). This page is better once Guangzhou already is confirmed and the route only needs the second stop.
 
+If the route is already bigger than that and now includes `Macau` too, step back one level first to [How to Plan a South China Route with Hong Kong, Macau, and One Mainland Stop](/topics/how-to-plan-a-south-china-route-with-hong-kong-macau-and-one-mainland-stop/).
+
 ## Pair Guangzhou with Hong Kong if contrast matters most
 
 This pairing works well if you want:

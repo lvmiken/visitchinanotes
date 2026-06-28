@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "alternative-shanghai-photo-stops-beyond-the-bund"
   - "rainy-day-in-shanghai-for-first-time-visitors"
   - "suzhou-creek-and-suhewan-a-better-shanghai-architecture-walk-than-another-bund-loop"
+heroImage: "/images/heroes/shanghai-m50-creative-park.jpg"
+heroImageAlt: "M50 Creative Park in Shanghai."
+heroImageAttributionName: "MNXANL"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:201703_M50_Creative_Park.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shanghai"
   - "M50 Creative Park"

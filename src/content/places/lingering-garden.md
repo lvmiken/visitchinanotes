@@ -18,6 +18,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "best-things-to-do-in-suzhou-for-first-time-visitors"
   - "how-many-days-in-suzhou-for-first-time-visitors"
+heroImage: "/images/heroes/suzhou-lingering-garden.jpg"
+heroImageAlt: "Lingering Garden in Suzhou."
+heroImageAttributionName: "Another Believer"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Lingering_Garden,_Suzhou,_China_(2015)_-_07.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Garden"

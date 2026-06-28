@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-hutongs-for-first-time-visitors"
   - "beijing-old-city-day-itinerary"
+heroImage: "/images/heroes/beijing-prince-gong-mansion.jpg"
+heroImageAlt: "Prince Gong's Mansion in Beijing."
+heroImageAttributionName: "Hermann Luyken"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2014.08.17.154735_Dingfu_Jie_Prince_Gong%27s_Mansion_Beijing.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Beijing"
   - "Prince Gong's Mansion"

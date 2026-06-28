@@ -4,6 +4,11 @@ description: "Decide whether Nanshan Yikeshu is worth visiting on a first Chongq
 publishDate: 2026-06-22
 updatedDate: 2026-06-22
 city: "chongqing"
+heroImage: "/images/heroes/chongqing-skyline.jpg"
+heroImageAlt: "A dazzling aerial night view of Chongqing's Yuzhong skyline and rivers like the panorama travelers seek from Yikeshu."
+heroImageAttributionName: "Jonipoon"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg"
+heroImageLicense: "CC BY 3.0"
 whoItsFor:
   - "first-time Chongqing visitors deciding whether a higher panoramic viewpoint deserves one of their skyline sessions"
   - "travelers comparing Nanshan Yikeshu with Hongyadong, Nanbin Road, or a Two Rivers cruise"

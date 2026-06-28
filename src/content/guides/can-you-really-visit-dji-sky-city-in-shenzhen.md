@@ -1,6 +1,6 @@
 ---
 title: "Can You Really Visit DJI Sky City in Shenzhen?"
-description: "Use this DJI Sky City guide to decide whether Shenzhen's famous DJI headquarters is a real stop for first-time visitors, what kind of visit is actually realistic, and when it works better as an architecture detour than as a major attraction."
+description: "Decide whether DJI Sky City is a real Shenzhen stop, what kind of visit is realistic, and when it works better as an architecture detour."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "shenzhen"

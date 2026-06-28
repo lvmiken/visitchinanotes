@@ -28,6 +28,11 @@ relatedGuideSlugs:
   - "beijing-where-to-stay"
   - "best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors"
   - "what-to-do-in-beijing-at-night"
+heroImage: "/images/heroes/beijing-sanlitun-taikoo-li.jpg"
+heroImageAlt: "Crowds crossing in front of Taikoo Li Sanlitun's colorful glass storefronts in Beijing."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Taikoo_Li_Sanlitun_South_(20200808170437).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Sanlitun"

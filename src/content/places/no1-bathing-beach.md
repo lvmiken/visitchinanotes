@@ -4,6 +4,11 @@ description: "Decide whether No.1 Bathing Beach deserves time on a first Qingdao
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "qingdao"
+heroImage: "/images/heroes/qingdao-no1-bathing-beach.jpg"
+heroImageAlt: "Golden sand and bright coastal water at Qingdao's No.1 Bathing Beach."
+heroImageAttributionName: "Li Chao"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E6%B1%87%E6%B3%89%E6%B9%BE-%E7%AC%AC%E4%B8%80%E6%B5%B7%E6%B0%B4%E6%B5%B4%E5%9C%BA.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 whoItsFor:
   - "first-time Qingdao visitors deciding whether one proper beach block belongs in the route"
   - "travelers comparing No.1 Bathing Beach with Badaguan, Zhanqiao, or a more modern eastern waterfront branch"

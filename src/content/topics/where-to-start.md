@@ -165,6 +165,22 @@ If your real comparison is between the two biggest first-trip defaults, go next 
 
 If your real comparison is between East China ease and South China food-and-route logic, go next to [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/).
 
+If your route is drifting away from the usual tier-one shortlist because what you really want is older architecture, temple timber, and a more discovery-led north-China branch, go next to [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/).
+
+If your trip is becoming more food-led in a very specific way — not just `good restaurants`, but one deeply local morning ritual that can shape a stop all by itself — go next to [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/).
+
+If the route is becoming more evening-and-food led — less about landmark collecting and more about one useful street-level night that feels alive — go next to [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/).
+
+If the route is becoming more seasonal-and-food led — the kind of trip where one early-summer holiday or one culturally legible seasonal snack matters more than another generic attraction — go next to [Dragon Boat Festival in China: Worth Planning Around or Too Crowded?](/topics/dragon-boat-festival-in-china-worth-planning-around-or-too-crowded/) and [What Is Zongzi? And Which Kind Should You Actually Try in China?](/topics/what-is-zongzi-and-which-kind-should-you-actually-try-in-china/).
+
+If the route is drifting toward a more scenic and active southwest branch — less about another city and more about whether the Yunnan highlands should unfold through `Tiger Leaping Gorge` or `Shangri-La` first — go next to [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/).
+
+If the route is drifting toward a tropical island chapter — less about another classic city and more about whether a Sanya-led Hainan stay would genuinely improve the trip — go next to [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/).
+
+If the route is drifting toward a Silk Road or desert-heritage branch — less about another big city and more about whether one deeper `Dunhuang` chapter deserves room — go next to [Digital Dunhuang: Is the Museum Experience Worth Building Into a First Silk Road Trip?](/topics/digital-dunhuang-museum-experience-worth-it/).
+
+If the route is drifting toward a more taste-driven second layer — not another headline city, but a lower-hype place that could deepen the trip through canal texture, maritime history, or southwest food energy — go next to [Quanzhou, Shaoxing, or Guiyang? Which Lower-Hype China City Fits Your Trip Best](/topics/quanzhou-shaoxing-or-guiyang-which-city-fits-you/).
+
 ## The planning order that usually works best
 
 For many readers, the cleanest sequence is:
@@ -223,6 +239,14 @@ If the real tension is not only style but also budget, pair this page with [How 
 - read [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/) if you want the easier big-city start
 - read [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/) if those two cities are the main finalists and you want the route tradeoff clearly explained
 - read [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/) if Shanghai is already in and the route needs one softer east-China extension
+- read [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/) if the trip is becoming more architecture-led than default big-city-led
+- read [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) if the route is becoming more food-ritual-led than landmark-led
+- read [Wuhan or Chengdu? Which Food-Led China Stop Fits Your Trip Better](/topics/wuhan-or-chengdu-which-food-city-fits-your-trip/) if the route clearly wants one food-led city and the choice has narrowed to a sharper Wuhan stop or a broader Chengdu stay
+- read [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) if the route is becoming more street-food-and-evening-led than museum-or-monument-led
+- read [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) if the trip is drifting toward a more scenic and active Yunnan branch rather than another big-city pairing
+- read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the trip is drifting toward a tropical island chapter rather than another default mainland city
+- read [Digital Dunhuang: Is the Museum Experience Worth Building Into a First Silk Road Trip?](/topics/digital-dunhuang-museum-experience-worth-it/) if the trip is drifting toward a Silk Road or cave-art branch rather than another default city combination
+- read [Quanzhou, Shaoxing, or Guiyang? Which Lower-Hype China City Fits Your Trip Best](/topics/quanzhou-shaoxing-or-guiyang-which-city-fits-you/) if the trip is drifting beyond the default shortlist and the real question is which smaller city adds the right texture instead of random novelty
 - read [Chengdu for First-Time Visitors: Slow the Pace and Plan Around Food](/guides/chengdu-first-time-guide/) if you want a softer first-trip rhythm
 - read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if you want a shorter history-first stop
 - read [How Much Does a Trip to China Cost in 2026?](/topics/china-trip-cost-2026/) if cost is starting to decide which combination of cities still feels realistic

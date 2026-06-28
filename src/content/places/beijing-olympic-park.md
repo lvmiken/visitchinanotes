@@ -1,6 +1,6 @@
 ---
-title: "Beijing Olympic Park for First-Time Visitors: When the Bird's Nest and Water Cube Actually Fit"
-description: "A practical Beijing Olympic Park guide for first-time visitors who want to know whether the area is worth their time, what kind of trip it suits best, and how it compares with Beijing's older historical anchors."
+title: "Beijing Olympic Park: When It Fits a First Trip"
+description: "Use this Beijing Olympic Park guide to decide whether the area deserves time, who it suits best, and when it works better as a modern contrast than a core priority."
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 city: "beijing"
@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "what-to-do-in-beijing-at-night"
   - "beijing-with-kids-for-first-time-visitors"
+heroImage: "/images/heroes/beijing-beijing-olympic-park.jpg"
+heroImageAlt: "Beijing Olympic Park."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Lake_at_Beijing_Olympic_Park_(20210501163230).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Olympic Park"

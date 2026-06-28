@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "qingdao-first-time-guide"
   - "qingdao-2-day-itinerary"
   - "qingdao-where-to-stay"
+heroImage: "/images/heroes/qingdao-olympic-sailing-center.jpg"
+heroImageAlt: "Olympic Sailing Center in Qingdao."
+heroImageAttributionName: "Dennis Shimer"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pier_to_lighthouse,_2008_Olympic_Sailing_Center,_Qingdao_Shandong_China_-_panoramio.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Qingdao"
   - "Olympic Sailing Center"

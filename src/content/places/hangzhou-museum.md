@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "hangzhou-1-day-itinerary-for-first-time-visitors"
   - "hangzhou-2-day-itinerary-for-first-time-visitors"
   - "what-to-book-in-advance-for-hangzhou"
+heroImage: "/images/heroes/hangzhou-hangzhou-museum.jpg"
+heroImageAlt: "Hangzhou Museum."
+heroImageAttributionName: "猫猫的日记本"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hangzhou_Museum_01_2018-07.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hangzhou"
   - "Hangzhou Museum"

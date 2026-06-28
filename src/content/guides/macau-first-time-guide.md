@@ -61,6 +61,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Best Area to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) if the live question is whether the heritage core or Taipa and Cotai should carry the hotel base
 - [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if Macau already is confirmed and the live question is how to turn one overnight or 2-day stop into a usable route
 - [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the live question is whether Macau should even win over a fuller Hong Kong stay
+- [How to Plan a South China Route with Hong Kong, Macau, and One Mainland Stop](/topics/how-to-plan-a-south-china-route-with-hong-kong-macau-and-one-mainland-stop/) if the live question is no longer whether Macau belongs, but which mainland partner should sit beside Hong Kong and Macau
 - [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the live question is whether Hong Kong should carry the bigger urban chapter
 - [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the route is choosing between heritage contrast and a modern mainland city
 - [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the route wants a larger food-led mainland city instead

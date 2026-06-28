@@ -1,6 +1,6 @@
 ---
-title: "Shougang Park in Beijing: The Industrial-Cool Detour That Shows a Different City"
-description: "Use this Shougang Park guide to decide whether Beijing's industrial-renewal landmark deserves time on a first trip, who it fits best, and when it works better than Olympic Park or another generic modern stop."
+title: "Shougang Park in Beijing: A Stronger Modern Detour?"
+description: "Decide whether Shougang Park deserves time, who it fits best, and when this industrial-renewal landmark beats Olympic Park or a generic modern stop."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"
@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "beijings-modern-skyline-cctv-tower-china-zun-and-the-cbd"
   - "798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip"
   - "what-to-do-in-beijing-at-night"
+heroImage: "/images/heroes/beijing-shougang-park.jpg"
+heroImageAlt: "Shougang Park in Beijing."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shangri-La_Shougang_Park,_Beijing_(20230322143321).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Shougang Park"

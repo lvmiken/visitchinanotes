@@ -1,6 +1,6 @@
 ---
-title: "Dashilar in Beijing: The Old Commercial Quarter That Feels More Real Than Qianmen Alone"
-description: "Use this Dashilar guide to decide when Beijing's old commercial quarter adds real texture to a first trip, how it differs from Qianmen, and whether it deserves time beyond a quick pass-through."
+title: "Dashilar in Beijing: More Texture Than Qianmen Alone"
+description: "Decide when Dashilar adds real texture to central Beijing, how it differs from Qianmen, and whether it deserves more than a quick pass-through."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"
@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "beijing-old-city-day-itinerary"
   - "beijing-hutongs-for-first-time-visitors"
   - "where-to-eat-in-qianmen-for-first-time-visitors"
+heroImage: "/images/heroes/beijing-dashilar.jpg"
+heroImageAlt: "Dashilar in Beijing."
+heroImageAttributionName: "Melusinebf"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Dashilar-Site_scenes%C2%A9BJDW,2011_1.JPG"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Dashilar"

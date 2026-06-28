@@ -2,7 +2,7 @@
 title: "Where to Eat in Chengdu for First-Time Visitors"
 description: "Choose which Chengdu neighborhoods should carry your key meals, from easy first-night dinners and panda-day lunches to hotter hotpot evenings, tea-house food blocks, and calmer local neighborhood meals."
 publishDate: 2026-06-21
-updatedDate: 2026-06-23
+updatedDate: 2026-06-28
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -117,6 +117,8 @@ If the district already feels right and the real question now is not which area 
 If the real question now is whether Yulin deserves one of your limited evening slots at all, how it compares with Jiuyanqiao or Taikoo Li, and whether it should carry dinner or drinks, the narrower next page is [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/).
 
 If the real question now is not whether Yulin deserves one evening, but how to actually use it for dinner, cafes, or a slower local night, the narrower execution page is [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/).
+
+If the real question now is not whether the district works but how to handle one smaller `fly restaurant` or `苍蝇小馆` meal inside that local evening without ordering blind, the narrower page is [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/).
 
 If the real question now is whether Jiuyanqiao deserves the night instead, the narrower next page is [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/).
 
@@ -258,6 +260,7 @@ If the trip is short, many readers do well with:
 - read [Best Chengdu Noodles for First-Time Visitors](/guides/best-chengdu-noodles-for-first-time-visitors/) if the district mostly is chosen and the live question is which everyday noodle meal best fits the route
 - read [Best Chengdu Dumplings for First-Time Visitors](/guides/best-chengdu-dumplings-for-first-time-visitors/) if the district mostly is chosen and the live question is which lighter dumpling meal best fits the route
 - read [Best Chengdu Snacks for First-Time Visitors](/guides/best-chengdu-snacks-for-first-time-visitors/) if the district mostly is chosen and the live question is which snack block or snack types actually deserve the stop
+- read [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/) if the district mostly is chosen and the live question is whether one smaller local `苍蝇小馆` meal deserves a slot
 - read [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/) if the next useful layer is one morning food stop that fits a real city day
 - read [Best Chengdu Cafes for First-Time Visitors](/guides/best-chengdu-cafes-for-first-time-visitors/) if the next useful layer is one coffee, dessert, or cafe pause that fits the right district
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the food plan still depends on which city blocks deserve the best time

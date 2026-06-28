@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-hutongs-for-first-time-visitors"
   - "beijing-old-city-day-itinerary"
   - "beijing-first-time-guide"
+heroImage: "/images/heroes/beijing-ditan-park.jpg"
+heroImageAlt: "Ditan Park in Beijing."
+heroImageAttributionName: "rheins"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E5%9D%9B%E5%85%AC%E5%9B%AD_-_Ditan_Park_-_2013.01_-_panoramio.jpg"
+heroImageLicense: "CC BY 3.0"
 tags:
   - "Beijing"
   - "Ditan Park"

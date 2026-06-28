@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "qingdao-first-time-guide"
   - "qingdao-2-day-itinerary"
   - "qingdao-where-to-stay"
+heroImage: "/images/heroes/qingdao-may-fourth-square.jpg"
+heroImageAlt: "May Fourth Square in Qingdao."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:51361-Qingdao_May_Fourth_Square.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Qingdao"
   - "May Fourth Square"

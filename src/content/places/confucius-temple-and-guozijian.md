@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-hutongs-for-first-time-visitors"
   - "beijing-old-city-day-itinerary"
+heroImage: "/images/heroes/beijing-confucius-temple-and-guozijian.jpg"
+heroImageAlt: "Confucius Temple and Guozijian in Beijing."
+heroImageAttributionName: "Miguel Discart & Kiri Karma"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Beijing_Confucius_Temple_2009-07-03_16-22-44_DSC-H2_DSC06616_(47168993202).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Beijing"
   - "Confucius Temple"

@@ -18,6 +18,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "best-things-to-do-in-suzhou-for-first-time-visitors"
   - "suzhou-1-day-itinerary-for-first-time-visitors"
+heroImage: "/images/heroes/suzhou-suzhou-museum.jpg"
+heroImageAlt: "Suzhou Museum."
+heroImageAttributionName: "Another Believer"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Suzhou_Museum,_China_(2015)_-_03.JPG"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Museum"

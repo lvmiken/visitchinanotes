@@ -4,6 +4,11 @@ description: "Decide whether Xixi Wetland deserves a half day or more on a first
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "hangzhou"
+heroImage: "/images/heroes/hangzhou-xixi-wetland.jpg"
+heroImageAlt: "A waterside pavilion framed by lotus-filled wetlands and lush greenery in Hangzhou's Xixi Wetland Park."
+heroImageAttributionName: "shankar s. from Dubai, united arab emirates"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xixi_Wetland_Park-_love_the_foreground!_(35777314894).jpg"
+heroImageLicense: "CC BY 2.0"
 whoItsFor:
   - "first-time Hangzhou visitors deciding whether a second scenic area beyond West Lake belongs in the route"
   - "travelers comparing Xixi Wetland with more West Lake time, Longjing, or a shorter urban finish"

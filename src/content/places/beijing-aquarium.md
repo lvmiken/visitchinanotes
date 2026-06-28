@@ -4,6 +4,11 @@ description: "A practical Beijing Aquarium guide for first-time visitors who wan
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 city: "beijing"
+heroImage: "/images/heroes/beijing-beijing-aquarium.jpg"
+heroImageAlt: "The main entrance area of Beijing Aquarium on a bright summer day."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:North_gate_of_Beijing_Aquarium_(20190626174439).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "families looking for a child-friendly Beijing outing"
   - "travelers who want one indoor or lower-pressure attraction beyond Beijing's classic history anchors"

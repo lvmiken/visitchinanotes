@@ -4,6 +4,11 @@ description: "Use this Baipu Temple guide to decide when its surreal visual styl
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "beijing"
+heroImage: "/images/heroes/beijing-baipu-temple.jpg"
+heroImageAlt: "Colorful temple architecture at Baipu Temple in the Beijing mountains beneath a blue sky."
+heroImageAttributionName: "H2v5o68z"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Baipu_Temple_13.jpg"
+heroImageLicense: "CC0"
 whoItsFor:
   - "first-time Beijing visitors considering one more unusual temple stop beyond the standard historical shortlist"
   - "travelers drawn to highly visual, slightly surreal places rather than only the imperial-core classics"

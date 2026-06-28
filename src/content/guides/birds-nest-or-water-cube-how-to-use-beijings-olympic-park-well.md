@@ -1,6 +1,6 @@
 ---
 title: "Bird's Nest or Water Cube? How to Use Beijing's Olympic Park Well"
-description: "Compare the Bird's Nest and Water Cube so first-time Beijing visitors can decide which Olympic Park icon deserves more attention, when the area works best, and how to avoid a thin modern detour."
+description: "Compare the Bird's Nest and Water Cube so first-time Beijing visitors can choose the right Olympic Park stop and keep the visit from feeling thin."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"

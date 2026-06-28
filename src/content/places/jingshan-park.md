@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "beijing-3-day-itinerary"
   - "beijing-4-day-itinerary"
   - "beijing-old-city-day-itinerary"
+heroImage: "/images/heroes/beijing-jingshan-park.jpg"
+heroImageAlt: "View from Jingshan Park over the Forbidden City rooftops and central Beijing under a clear blue sky."
+heroImageAttributionName: "Tojan76"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Forbidden_City_Panorama_1.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Beijing"
   - "Jingshan Park"

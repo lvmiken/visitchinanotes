@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "longjing-village-or-china-national-tea-museum-for-first-time-visitors"
   - "how-to-plan-a-hangzhou-tea-half-day-for-first-time-visitors"
   - "rainy-day-in-hangzhou-for-first-time-visitors"
+heroImage: "/images/heroes/hangzhou-china-national-tea-museum.jpg"
+heroImageAlt: "China National Tea Museum in Hangzhou."
+heroImageAttributionName: "Fredlyfish4"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:China_National_Tea_Museum_3.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hangzhou"
   - "China National Tea Museum"

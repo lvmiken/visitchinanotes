@@ -4,6 +4,11 @@ description: "Decide whether 9th Street is worth visiting on a first Chongqing t
 publishDate: 2026-06-22
 updatedDate: 2026-06-22
 city: "chongqing"
+heroImage: "/images/heroes/chongqing-9th-street.jpg"
+heroImageAlt: "Busy commercial towers and bright city energy in Chongqing's Guanyinqiao area near 9th Street."
+heroImageAttributionName: "Fxqf"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E8%A7%82%E9%9F%B3%E6%A1%A5.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Chongqing visitors deciding whether they need one true nightlife district beyond dinner and skyline walks"
   - "travelers comparing 9th Street with Guanyinqiao, Jiefangbei, or a calmer scenic evening"

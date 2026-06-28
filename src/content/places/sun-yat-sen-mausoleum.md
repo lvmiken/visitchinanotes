@@ -19,6 +19,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "how-many-days-in-nanjing-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
+heroImage: "/images/heroes/nanjing-sun-yat-sen-mausoleum.jpg"
+heroImageAlt: "Sun Yat-sen Mausoleum in Nanjing."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:China-Nanjing_(2024)_Mausoleum_of_Sun_Yat_Sen_%E4%B8%AD%E5%B1%B1%E9%99%B5_-_img_01.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "Landmark"

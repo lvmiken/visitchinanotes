@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "hong-kong-first-time-guide"
   - "hong-kong-3-day-itinerary"
   - "how-many-days-in-hong-kong-for-first-time-visitors"
+heroImage: "/images/heroes/hong-kong-ngong-ping-360.jpg"
+heroImageAlt: "Ngong Ping 360 in Hong Kong."
+heroImageAttributionName: "Dinkun Chen"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:AT_NGONG_PING_360_CABIE_CAR_SEE_HONG_KONG_SKYLINE_(12).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hong Kong"
   - "Ngong Ping 360"

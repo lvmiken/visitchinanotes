@@ -23,6 +23,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-4-day-itinerary"
   - "beijing-old-city-day-itinerary"
+heroImage: "/images/heroes/beijing-beihai-park.jpg"
+heroImageAlt: "Beihai Park in Beijing."
+heroImageAttributionName: "Ermell"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Beihai_Park_Br%C3%BCcke-20110104-RM-110001.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Beihai Park"

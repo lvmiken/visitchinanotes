@@ -19,6 +19,11 @@ relatedGuideSlugs:
   - "nanjing-first-time-guide"
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
+heroImage: "/images/heroes/nanjing-presidential-palace.jpg"
+heroImageAlt: "Presidential Palace in Nanjing."
+heroImageAttributionName: "ScareCriterion12"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Library,_Presidential_Palace,_Nanjing_(2018).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Nanjing"
   - "History"

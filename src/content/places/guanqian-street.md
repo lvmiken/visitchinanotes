@@ -21,6 +21,11 @@ relatedGuideSlugs:
   - "suzhou-where-to-stay"
   - "where-to-eat-in-suzhou-for-first-time-visitors"
   - "suzhou-first-time-guide"
+heroImage: "/images/heroes/suzhou-guanqian-street.jpg"
+heroImageAlt: "Guanqian Street in Suzhou."
+heroImageAttributionName: "そらみみ (Soramimi)"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Street_view_near_Guanqian_Street_in_Suzhou.JPG"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Shopping street"

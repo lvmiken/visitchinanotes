@@ -19,6 +19,11 @@ relatedGuideSlugs:
   - "suzhou-first-time-guide"
   - "suzhou-1-day-itinerary-for-first-time-visitors"
   - "what-to-do-in-suzhou-at-night-for-first-time-visitors"
+heroImage: "/images/heroes/suzhou-pingjiang-road.jpg"
+heroImageAlt: "Pingjiang Road in Suzhou."
+heroImageAttributionName: "song songroov"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Riverside_of_Pingjiang_Road,_Gusu,_Suzhou,_Jiangsu,_China,_215000.jpg"
+heroImageLicense: "CC BY 3.0"
 tags:
   - "Suzhou"
   - "Canal street"

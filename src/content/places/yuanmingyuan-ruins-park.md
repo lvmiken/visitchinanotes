@@ -4,6 +4,11 @@ description: "A practical Yuanmingyuan guide for first-time Beijing visitors who
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 city: "beijing"
+heroImage: "/images/heroes/beijing-yuanmingyuan-ruins-park.jpg"
+heroImageAlt: "The stone Dashuifa ruins at Yuanmingyuan framed by summer greenery and open sky."
+heroImageAttributionName: "深鸣"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Yuanmingyuan_Ruins_of_Dashuifa_(20240708).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Beijing visitors choosing between the Summer Palace and the Old Summer Palace"
   - "travelers who want historical depth and a reflective landscape stop beyond Beijing's main anchors"

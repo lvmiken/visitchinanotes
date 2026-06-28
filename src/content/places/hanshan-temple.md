@@ -4,6 +4,11 @@ description: "Decide whether Hanshan Temple deserves time on your first Suzhou t
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
 city: "suzhou"
+heroImage: "/images/heroes/suzhou-hanshan-temple.jpg"
+heroImageAlt: "Pagoda and temple architecture at Hanshan Temple in Suzhou lit by clear daylight."
+heroImageAttributionName: "kevinmcgill from Den Bosch, Netherlands"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hanshan_Temple_(2).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 whoItsFor:
   - "first-time Suzhou visitors deciding whether a famous temple stop adds enough beyond gardens and canal streets"
   - "travelers comparing Hanshan Temple with Tiger Hill, Pingjiang Road, or one more classical-garden block"

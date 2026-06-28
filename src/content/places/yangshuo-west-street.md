@@ -4,6 +4,11 @@ description: "Decide whether West Street deserves protected time in Yangshuo, wh
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
 city: "yangshuo"
+heroImage: "/images/heroes/yangshuo-yangshuo-west-street.jpg"
+heroImageAlt: "The busy pedestrian atmosphere of West Street in Yangshuo framed by karst-country travel energy."
+heroImageAttributionName: "Imcall"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:West_Street_Yangshuo.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 whoItsFor:
   - "first-time Yangshuo visitors deciding whether West Street should carry one evening or only a short look"
   - "travelers comparing town-center atmosphere with spending all available time on scenery and countryside pacing"

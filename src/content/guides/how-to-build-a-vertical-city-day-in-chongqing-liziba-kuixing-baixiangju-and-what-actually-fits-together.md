@@ -55,6 +55,8 @@ Use this page if you are asking:
 
 If the broader city still is not settled, keep [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/) open too.
 
+If the live search is less about these exact stops and more about the broader phrase `Chongqing cyberpunk city walk`, the cleaner parent page is [Chongqing Cyberpunk City Walk: The Route That Makes the City Finally Click](/guides/chongqing-cyberpunk-city-walk-guide/).
+
 ## The short answer
 
 For many first-time visitors, the smartest vertical-city day is:
@@ -187,6 +189,7 @@ That is usually enough for Chongqing to reveal itself without becoming exhaustin
 ## Which page to read next
 
 - read [Hidden Places in Chongqing That Are Actually Worth the Detour](/guides/hidden-places-in-chongqing-that-are-actually-worth-the-detour/) if the live question still is which selective odd stops deserve any route space at all
+- read [Chongqing Cyberpunk City Walk: The Route That Makes the City Finally Click](/guides/chongqing-cyberpunk-city-walk-guide/) if you want the broader city-mood route before you zoom back into the stop-by-stop geometry version
 - read [Liziba Station Photo Spots: Best Viewing Platform, Timing, and What to Pair It With](/guides/liziba-station-photo-spots-best-viewing-platform-and-when-to-go/) if Liziba already is happening and the practical execution still needs work
 - read [Yangtze River Cableway in Chongqing: Best Time to Ride and How Bad the Queue Really Gets](/guides/yangtze-river-cableway-best-time-and-queue-reality/) if the crossing layer still is not honestly judged
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you now need to place this vertical-city day inside a fuller stay

@@ -4,6 +4,11 @@ description: "A practical Badaling Great Wall guide for first-time Beijing visit
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 city: "beijing"
+heroImage: "/images/heroes/beijing-badaling-great-wall.jpg"
+heroImageAlt: "The Badaling section of the Great Wall winding across mountain ridges under clear daylight."
+heroImageAttributionName: "i a walsh"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Badaling%2C_Great_Wall_of_China.jpg"
+heroImageLicense: "CC BY 2.0"
 whoItsFor:
   - "first-time Beijing visitors comparing Badaling with Mutianyu"
   - "travelers who want the most famous and most straightforwardly developed Great Wall section"

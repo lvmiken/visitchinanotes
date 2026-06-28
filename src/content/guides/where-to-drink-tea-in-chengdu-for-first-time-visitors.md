@@ -45,6 +45,8 @@ Use this page if you are asking:
 - do I need a famous teahouse, or just the right neighborhood?
 - when does tea actually fit a short Chengdu trip?
 
+If what you want first is the broader editorial picture of Chengdu tea culture rather than the district-level decision, start one level up with [Chengdu Tea House Guide: Where the Slow City Still Feels Real](/guides/chengdu-tea-house-guide-where-to-go/).
+
 If the broader food layer still is not clear, keep [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) and [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) open too.
 
 ## The short answer
@@ -246,6 +248,7 @@ You do not need to prove you understand Chengdu by collecting multiple tea stops
 ## Which page to read next
 
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if the city's overall shape still feels too broad
+- read [Chengdu Tea House Guide: Where the Slow City Still Feels Real](/guides/chengdu-tea-house-guide-where-to-go/) if you want the broader citywide tea-culture landing page before narrowing into one district or one specific teahouse
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you still need to decide how much time tea deserves against pandas, old streets, and food
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the tea stop is clear but the day order is not
 - read [How to Plan a West-Side Cultural Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors/) if the calmer branch should extend into Qingyang Palace, Du Fu, or Sichuan Museum instead of staying tea-first

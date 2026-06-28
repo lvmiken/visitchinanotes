@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors"
   - "what-to-do-in-guangzhou-at-night-for-first-time-visitors"
   - "where-to-eat-near-yongqing-fang-for-first-time-visitors"
+heroImage: "/images/heroes/guangzhou-chen-clan-ancestral-hall.jpg"
+heroImageAlt: "Chen Clan Ancestral Hall in Guangzhou."
+heroImageAttributionName: "Shujianyang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chen_Clan_Ancestral_Hall_2025.06_03.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Guangzhou"
   - "Chen Clan Ancestral Hall"

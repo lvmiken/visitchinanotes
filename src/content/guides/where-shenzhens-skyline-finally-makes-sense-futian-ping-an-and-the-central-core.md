@@ -1,6 +1,6 @@
 ---
-title: "Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core"
-description: "Use this Futian skyline guide to decide whether Shenzhen's central core deserves real time on a first trip, how Ping An Finance Center, Civic Center, and Lianhua Hill fit together, and when Futian works better than another generic mall-heavy day."
+title: "Shenzhen Futian Guide: Ping An and the Central Core"
+description: "Use this Futian guide to decide whether Shenzhen's central core deserves real time, how Ping An, Civic Center, and Lianhua Hill fit together, and when Futian works best."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "shenzhen"

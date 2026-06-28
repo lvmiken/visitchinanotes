@@ -28,6 +28,11 @@ relatedGuideSlugs:
   - "rainy-day-in-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
   - "how-to-get-around-chongqing-for-first-time-visitors"
+heroImage: "/images/heroes/chongqing-chongqing-natural-history-museum.jpg"
+heroImageAlt: "Chongqing Natural History Museum Worth It."
+heroImageAttributionName: "STW932"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Natural_History_Museum.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chongqing"
   - "Chongqing Natural History Museum"

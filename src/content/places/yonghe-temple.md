@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "beijing-3-day-itinerary"
   - "beijing-4-day-itinerary"
   - "beijing-hutongs-for-first-time-visitors"
+heroImage: "/images/heroes/beijing-yonghe-temple.jpg"
+heroImageAlt: "Courtyard buildings and pine trees inside Yonghe Temple in Beijing."
+heroImageAttributionName: "Gerd Eichmann"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Beijing-Lamakloster_Yonghe-58-Halle_der_ewigen_Harmonie-gje.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Yonghe Temple"

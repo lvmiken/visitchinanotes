@@ -20,6 +20,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "nanjing-first-time-guide"
+heroImage: "/images/heroes/nanjing-jiming-temple.jpg"
+heroImageAlt: "Jiming Temple in Nanjing."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Jiming_Temple_Nanjing_-_%E5%8D%97%E4%BA%AC_%E9%B8%A1%E9%B8%A3%E5%AF%BA_(2024)_-_img_05.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "Temple"

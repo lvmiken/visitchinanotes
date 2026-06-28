@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-with-kids-for-first-time-visitors"
   - "best-things-to-do-in-beijing-with-kids"
   - "best-time-to-visit-beijing-for-first-time-visitors"
+heroImage: "/images/heroes/beijing-national-botanical-garden.jpg"
+heroImageAlt: "National Botanical Garden in Beijing."
+heroImageAttributionName: "N509FZ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:XJ013_at_National_Botanical_Garden_(20221014164633).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "National Botanical Garden"

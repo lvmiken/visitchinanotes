@@ -29,6 +29,11 @@ relatedGuideSlugs:
   - "where-to-stay-near-shanghai-disneyland-vs-central-shanghai"
   - "best-things-to-do-in-shanghai-with-kids"
   - "how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-shanghai-disneyland.jpg"
+heroImageAlt: "Shanghai Disneyland."
+heroImageAttributionName: "alexli0429"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Firework_in_Shanghai_Disneyland_Park.jpg"
+heroImageLicense: "CC BY 2.5"
 tags:
   - "Shanghai"
   - "Shanghai Disneyland"

@@ -4,6 +4,11 @@ description: "Decide whether Chunxi Road and Taikoo Li deserve real time in Chen
 publishDate: 2026-06-22
 updatedDate: 2026-06-23
 city: "chengdu"
+heroImage: "/images/heroes/chengdu-chunxi-road-and-taikoo-li.jpg"
+heroImageAlt: "Open-air shopping lanes and modern low-rise architecture at Taikoo Li in Chengdu."
+heroImageAttributionName: "EditQ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Sino-Ocean_Taikoo_Li_Chengdu_9.jpg"
+heroImageLicense: "CC0"
 whoItsFor:
   - "first-time Chengdu visitors deciding whether central modern Chengdu deserves one of their limited blocks"
   - "travelers comparing Chunxi Road and Taikoo Li with Yulin, Jiuyanqiao, or Jinli"

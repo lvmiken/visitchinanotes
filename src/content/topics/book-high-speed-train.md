@@ -56,6 +56,8 @@ If those are not clear yet, go back to [High-Speed Rail in China for Tourists](/
 
 If the route is already clear but the official booking channel still feels intimidating, use [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/) alongside this page.
 
+If the route is not yet clear and the real live search is `10-day China bullet train itinerary`, step back one level first to [A 10-Day China Bullet Train Itinerary That Actually Works](/topics/a-10-day-china-bullet-train-itinerary-that-actually-works/).
+
 ## Lock these five things before you pay
 
 Most train-booking problems start before the payment screen.
@@ -81,6 +83,8 @@ Most travelers do not need a technical rail education. They need to know:
 They also usually need two narrower answers:
 
 - [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) if the remaining question is comfort level
+- [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/) if the real decision has narrowed specifically to the most common tourist comparison
+- [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/) if the remaining practical question is whether the suitcase setup still works on a train day
 - [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/) if the remaining question is how the station day actually works
 
 That is also why pages like [Airport to City in China](/topics/airport-to-city/) and [How to Plan a Trip to China Without Overbuilding Your Itinerary](/topics/plan-your-trip/) belong in the same planning sequence.
@@ -105,6 +109,7 @@ Some common examples:
 
 - **Beijing to Xi'an** often works best when the train day is the main move, not a day with a full palace or museum block squeezed in first
 - **Shanghai to Hangzhou** often looks simple on paper, but it still works better once you know whether the stay is a day trip, overnight, or part of a wider rail chain
+- **Beijing into Shanxi** often looks easy once the rail is booked, but the real quality of the route still depends on whether the hotel bases and in-between architectural bridge stops already make sense
 - **Guangzhou within the Pearl River Delta** often depends more on station convenience and hotel location than on the headline train duration
 
 The useful lesson is not memorizing one perfect departure. It is recognizing what kind of day you are building.
@@ -137,6 +142,8 @@ The order should usually be:
 4. only then decide whether second, first, or business class is worth it
 
 If comfort is now the remaining question, go straight to [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/).
+
+If the comfort question is already narrower and business class is not really in the running, the quicker answer is [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/).
 
 ## Save the right details for travel day
 
@@ -177,4 +184,7 @@ For many first-time visitors, that is the real booking lesson.
 
 - read [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/) if you want the official platform workflow
 - read [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) if the ticket is chosen but the seat class is not
+- read [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/) if the ticket is chosen and the real decision is the direct first-versus-second-class tradeoff
+- read [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/) if the ticket is chosen and the real anxiety is suitcase size, weight, or station-day friction
 - read [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/) if the train day itself still feels abstract
+- read [A First Shanxi Route That Actually Works: Pingyao, Yingxian, Hanging Temple, and Datong](/topics/first-shanxi-route-pingyao-yingxian-hanging-temple-datong/) if the ticketing question is really part of keeping a first Shanxi route coherent

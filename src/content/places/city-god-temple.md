@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-3-day-itinerary"
   - "how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-city-god-temple.jpg"
+heroImageAlt: "City God Temple in Shanghai."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024-Apr_Shanghai_City_God_Temple_%E4%B8%8A%E6%B5%B7%E5%9F%8E%E9%9A%8D%E5%BB%9F_-_img_01.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Shanghai"
   - "City God Temple"

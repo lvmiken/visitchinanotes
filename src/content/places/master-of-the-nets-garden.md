@@ -21,6 +21,11 @@ relatedGuideSlugs:
   - "humble-administrators-garden-or-lingering-garden-the-better-first-pick-in-suzhou"
   - "best-things-to-do-in-suzhou-for-first-time-visitors"
   - "how-many-days-in-suzhou-for-first-time-visitors"
+heroImage: "/images/heroes/suzhou-master-of-the-nets-garden.jpg"
+heroImageAlt: "Master of the Nets Garden in Suzhou."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Master_of_the_Nets_Garden_Suzhou.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Suzhou"
   - "Garden"

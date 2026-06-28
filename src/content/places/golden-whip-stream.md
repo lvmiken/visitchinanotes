@@ -4,6 +4,11 @@ description: "Decide whether Golden Whip Stream deserves protected time inside Z
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "zhangjiajie"
+heroImage: "/images/heroes/zhangjiajie-golden-whip-stream.jpg"
+heroImageAlt: "A clear stream winding through lush forest and soaring sandstone scenery in Zhangjiajie's Golden Whip Stream area."
+heroImageAttributionName: "Nyx Ning"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E6%B9%96%E5%8D%97_%E5%BC%A0%E5%AE%B6%E7%95%8C_%E9%87%91%E9%9E%AD%E6%BA%AA_-_panoramio.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 whoItsFor:
   - "first-time Zhangjiajie visitors deciding whether one valley-and-stream hiking branch belongs inside their forest-park days"
   - "travelers comparing Golden Whip Stream with more time in Yuanjiajie or another peak-led branch"

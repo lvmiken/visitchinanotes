@@ -4,6 +4,11 @@ description: "Decide whether Yuanjiajie deserves protected time inside Zhangjiaj
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "zhangjiajie"
+heroImage: "/images/heroes/zhangjiajie-yuanjiajie.jpg"
+heroImageAlt: "Towering sandstone pillars in Yuanjiajie under bright skies and deep green vegetation."
+heroImageAttributionName: "Rocio Gil"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Stunning_rock_formations_in_Bailong_(%E7%99%BD%E9%BE%99%EF%BC%89Yuanjiajie_%EF%BC%88%E8%A2%81%E5%AE%B6%E7%95%8C%EF%BC%89scenic_area.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Zhangjiajie visitors deciding which part of the forest park should carry the most iconic pillar scenery"
   - "travelers comparing a deeper forest-park day with moving time to Tianmen Mountain"

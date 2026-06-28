@@ -53,6 +53,8 @@ Use this page if you are asking:
 
 If the broader tea question is still open, read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) first. That page is better for choosing the right tea stop for the whole trip.
 
+If the live search is broader than one old-room detour and you want one stronger citywide entry page first, start with [Chengdu Tea House Guide: Where the Slow City Still Feels Real](/guides/chengdu-tea-house-guide-where-to-go/).
+
 ## The short answer
 
 For most first-time visitors:

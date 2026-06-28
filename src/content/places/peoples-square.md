@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "how-to-get-around-shanghai"
   - "rainy-day-in-shanghai-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-peoples-square.jpg"
+heroImageAlt: "People's Square in Shanghai."
+heroImageAttributionName: "kallerna"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Parks_and_Recreation_People%27s_Square_Shanghai_2.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shanghai"
   - "People's Square"

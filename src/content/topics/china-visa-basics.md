@@ -47,6 +47,16 @@ If entry rules affect your plans, they may also affect:
 
 If the live question already is narrower than `Do I need a visa?` and has become `Can I use China's current stopover policy for this route?`, go straight to [China's 240-Hour Visa-Free Transit, Clearly Explained: Eligibility, Routing, and Common Mistakes](/topics/china-240-hour-visa-free-transit/). Many travelers still search the older `144-hour` phrase, but the current planning question usually is the 240-hour version.
 
+If your passport may already qualify for ordinary visa-free entry and the real question is whether you can leave mainland China and come back again, go next to [Can You Enter China Visa-Free More Than Once? What the Current Rules Actually Mean](/topics/can-you-enter-china-visa-free-multiple-times/).
+
+If that re-entry question already has narrowed specifically to a Hong Kong side trip, the cleaner search-capture child page is [Can You Re-Enter China Visa-Free After Visiting Hong Kong?](/topics/can-you-re-enter-china-visa-free-after-visiting-hong-kong/).
+
+If the same anxiety is really about a Macau detour rather than Hong Kong, go next to [After Macau, Can You Re-Enter Mainland China Visa-Free?](/topics/after-macau-can-you-re-enter-mainland-china-visa-free/).
+
+If the route is Hainan-led and the real question is whether a Hainan visa-free entry also lets you continue into mainland cities, the sharper child page is [After a Hainan Visa-Free Entry, Can You Continue to Mainland China?](/topics/can-you-travel-to-mainland-china-from-hainan-on-a-hainan-visa-free-entry/).
+
+If the visa side looks clear and the next friction point is simply the new border paperwork, the more specific admin page is [China Digital Arrival Card: How to Fill It Before You Fly](/topics/china-digital-arrival-card-step-by-step/).
+
 ## Keep the rest of the route flexible until this is clear
 
 Once visa assumptions are settled, it becomes much easier to judge flights, hotel timing, and whether the route still feels realistic.

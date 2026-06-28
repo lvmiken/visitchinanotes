@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "hangzhou-first-time-guide"
   - "hangzhou-day-trip-or-overnight"
   - "hangzhou-west-lake-planning"
+heroImage: "/images/heroes/hangzhou-hefang-street.jpg"
+heroImageAlt: "Hefang Street in Hangzhou."
+heroImageAttributionName: "HoweyYuan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hefang_Street_20240729.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hangzhou"
   - "Hefang Street"

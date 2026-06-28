@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "chengdu-museum-or-sichuan-museum-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
   - "how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors"
+heroImage: "/images/heroes/chengdu-sichuan-museum.jpg"
+heroImageAlt: "Sichuan Museum in Chengdu."
+heroImageAttributionName: "Daderot"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Sichuan_Provincial_Museum_-_Chengdu,_China_-_DSC04119.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Chengdu"
   - "Sichuan Museum"

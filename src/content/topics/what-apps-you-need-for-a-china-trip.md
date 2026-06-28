@@ -148,6 +148,8 @@ For many travelers, the best move is:
 
 If you want a China-focused English map option, the current App Store listing for **AMap Global** positions it as an English map product for overseas users. If you are already comfortable on iPhone, many travelers also test Apple Maps before departure and decide whether it fits their style.
 
+If that already is your exact search, the narrower companion page is [Apple Maps in China: Does It Work Well Enough for Travelers?](/topics/apple-maps-in-china-does-it-work-well-enough-for-travelers/).
+
 The real point is not brand loyalty. It is whether the app helps you handle station exits, hotel areas, and neighborhood orientation calmly.
 
 ### 5. One rail-booking path: 12306 or Trip.com

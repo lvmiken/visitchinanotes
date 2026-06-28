@@ -22,6 +22,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "how-many-days-in-nanjing-for-first-time-visitors"
   - "nanjing-2-day-itinerary-for-first-time-visitors"
+heroImage: "/images/heroes/nanjing-ming-xiaoling-mausoleum.jpg"
+heroImageAlt: "Ming Xiaoling Mausoleum in Nanjing."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:China-Nanjing_(2024)_Ming_Xiaoling_%E6%98%8E%E5%AD%9D%E9%99%B5_-_img_14.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "History"

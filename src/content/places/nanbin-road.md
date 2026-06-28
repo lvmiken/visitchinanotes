@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-chongqing-at-night-for-first-time-visitors"
   - "where-to-eat-in-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
+heroImage: "/images/heroes/chongqing-nanbin-road.jpg"
+heroImageAlt: "Nanbin Road in Chongqing."
+heroImageAttributionName: "HoweyYuan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Nanbin_Road_Bell_Tower.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chongqing"
   - "Nanbin Road"

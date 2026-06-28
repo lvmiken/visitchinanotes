@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-hutongs-for-first-time-visitors"
   - "beijing-old-city-day-itinerary"
+heroImage: "/images/heroes/beijing-nanluoguxiang.jpg"
+heroImageAlt: "Nanluoguxiang in Beijing."
+heroImageAttributionName: "Anagoria"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2016-09-04_Beijing_Nanluoguxiang_anagoria_23.jpg"
+heroImageLicense: "CC BY 3.0"
 tags:
   - "Beijing"
   - "Nanluoguxiang"

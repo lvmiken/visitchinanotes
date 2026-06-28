@@ -23,6 +23,11 @@ relatedGuideSlugs:
   - "best-museums-in-beijing-for-first-time-visitors"
   - "rainy-day-in-beijing-for-first-time-visitors"
   - "beijing-4-day-itinerary"
+heroImage: "/images/heroes/beijing-capital-museum.jpg"
+heroImageAlt: "Capital Museum in Beijing."
+heroImageAttributionName: "Gary Lee Todd, Ph.D"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2008_Capital_Museum,_Beijing_02.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Beijing"
   - "Capital Museum"

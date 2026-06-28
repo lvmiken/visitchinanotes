@@ -38,6 +38,8 @@ This page was checked against current English-language city-backed Chongqing sou
 
 If the broader Chongqing food plan is still open, start one step up with [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) and [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/).
 
+If the real search started one level broader — not `which Chongqing snacks`, but `how do I find a China night market that is actually worth it` — keep [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) open too.
+
 ## Who this page is for
 
 Use this page if you are asking:

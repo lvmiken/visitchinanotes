@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-shanghai-at-night"
   - "best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors"
   - "where-to-eat-in-shanghai-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-jingan.jpg"
+heroImageAlt: "Jing'an in Shanghai."
+heroImageAttributionName: "kallerna"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Jing%27an_Temple_Shanghai_6.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shanghai"
   - "Jing'an"

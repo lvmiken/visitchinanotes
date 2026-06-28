@@ -22,6 +22,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-nanjing-for-first-time-visitors"
   - "nanjing-first-time-guide"
   - "rainy-day-in-nanjing-for-first-time-visitors"
+heroImage: "/images/heroes/nanjing-xuanwu-lake.jpg"
+heroImageAlt: "Xuanwu Lake in Nanjing."
+heroImageAttributionName: "Vanished User d421Lj4N3Cr45as0"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xuanwu_Lake_at_dusk,_seen_from_Bank_of_Beijing_(Nanjing_Branch).png"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Nanjing"
   - "Lake"

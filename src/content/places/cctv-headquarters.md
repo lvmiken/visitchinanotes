@@ -1,6 +1,6 @@
 ---
-title: "Beijing's Loop in the Sky: Why the CCTV Headquarters Is the CBD's Real Showstopper"
-description: "Use this CCTV Headquarters guide to decide whether Beijing's most famous modern building deserves time on a first trip, what kind of visitor it suits, and why it works best as a skyline stop rather than a normal indoor attraction."
+title: "CCTV Headquarters in Beijing: The CBD's Real Showstopper"
+description: "Decide whether CCTV Headquarters deserves time in Beijing and why it works better as a skyline stop than as a normal indoor attraction."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"
@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijings-modern-skyline-cctv-tower-china-zun-and-the-cbd"
   - "how-to-choose-one-modern-beijing-detour-cbd-olympic-park-798-or-shougang"
+heroImage: "/images/heroes/beijing-cctv-headquarters.jpg"
+heroImageAlt: "CCTV Headquarters in Beijing."
+heroImageAttributionName: "Kilian Evang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:CCTV_Headquarters_(Beijing,_China)_-_Flickr.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Beijing"
   - "CCTV Headquarters"

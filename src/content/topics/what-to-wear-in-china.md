@@ -61,6 +61,8 @@ This page is for first-time visitors who already have rough dates and at least o
 
 If your dates are still flexible, read [Best Time to Visit China for a First Trip](/topics/best-time-to-visit-china/) first. If your clothing question is really part of a wider luggage problem, pair this page with [China Packing List for First-Time Visitors](/topics/china-packing-list-for-first-time-visitors/).
 
+If your clothing question has become much more specific because the trip may include one active Yunnan highlands branch, keep [Tiger Leaping Gorge Hiking for First-Time Visitors: What Is Actually Realistic?](/topics/tiger-leaping-gorge-hiking-for-first-time-visitors/) nearby too.
+
 ## The short answer
 
 For many first-time visitors, the safest clothing approach in China is:

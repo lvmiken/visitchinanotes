@@ -4,6 +4,11 @@ description: "Use this Pengzhen Old Teahouse guide to decide when the famous old
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "chengdu"
+heroImage: "/images/heroes/chengdu-pengzhen-old-teahouse.jpg"
+heroImageAlt: "Locals sitting in the atmospheric old wooden interior of Pengzhen Old Teahouse near Chengdu."
+heroImageAttributionName: "Danmen2"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pengzhen_Teahouse_1.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Chengdu visitors deciding whether a more atmospheric local teahouse beats the easier central classic"
   - "travelers comparing Pengzhen Old Teahouse with People's Park or Heming Teahouse"

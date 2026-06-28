@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "hangzhou-first-time-guide"
   - "hangzhou-day-trip-or-overnight"
   - "hangzhou-west-lake-planning"
+heroImage: "/images/heroes/hangzhou-leifeng-pagoda.jpg"
+heroImageAlt: "Leifeng Pagoda in Hangzhou."
+heroImageAttributionName: "HoweyYuan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_(20240729).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hangzhou"
   - "Leifeng Pagoda"

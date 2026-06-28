@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "what-to-do-in-hangzhou-at-night-for-first-time-visitors"
   - "where-to-eat-in-hangzhou-for-first-time-visitors"
   - "where-to-stay-in-hangzhou-for-the-best-west-lake-night-views"
+heroImage: "/images/heroes/hangzhou-hubin-pedestrian-street.jpg"
+heroImageAlt: "Hubin Pedestrian Street in Hangzhou."
+heroImageAttributionName: "MNXANL"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:202308_Jiefang_Road_from_Zhongshan_Road_Pedestrian_Bridge.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hangzhou"
   - "Hubin"

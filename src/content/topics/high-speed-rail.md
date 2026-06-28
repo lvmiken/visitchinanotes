@@ -80,6 +80,12 @@ Readers usually need to solve one of four narrower problems:
 - official platform: [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/)
 - station-day nerves: [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/)
 
+If the route is already decided and the remaining question is the most common comfort comparison — not `all train classes`, but specifically whether `first class` improves the day enough over `second class` — the cleaner child page is [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/).
+
+If the next blocker is not comfort but whether your suitcase setup still works on a train day, the cleaner child page is [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/).
+
+If the live rail question is no longer system-level but route-level — specifically `what is a good 10-day China bullet train itinerary?` — the cleaner child page is [A 10-Day China Bullet Train Itinerary That Actually Works](/topics/a-10-day-china-bullet-train-itinerary-that-actually-works/).
+
 For many readers, these rail decisions are not abstract. They sit inside real sample routes such as [Beijing, Xi'an, or Shanghai: Which Pairing Makes the Best First China Route?](/guides/beijing-xian-or-shanghai-pairing/) and short-stop city planning pages like [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
 
 ## When high-speed rail usually beats flying
@@ -95,6 +101,8 @@ Rail often wins when:
 That is why rail often feels especially strong on classic first-trip routes between major eastern, northern, and central China cities.
 
 Beijing-Xi'an is one of the clearest examples, because rail often preserves a more usable hotel-to-hotel day than flying once airport overhead is counted honestly.
+
+The same lesson applies to newer architecture-led routes into Shanxi: the rail segment can be straightforward, but the quality of the trip still depends on how honestly you handle the non-rail bridge pieces between places like Pingyao and Datong.
 
 ## When a flight may still be the smarter choice
 
@@ -167,8 +175,12 @@ A good rail day usually means:
 
 - read [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/) if you are still choosing the transport mode
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if you already know rail is the right choice
+- read [A 10-Day China Bullet Train Itinerary That Actually Works](/topics/a-10-day-china-bullet-train-itinerary-that-actually-works/) if you already know the trip should be rail-led and now need the strongest first-route shape
 - read [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/) if the real stress is what station day will feel like
 - read [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/) if the official booking platform is the blocker
+- read [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/) if the route is settled and your only real doubt is whether first class is worth the extra money
+- read [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/) if the route is settled and the practical doubt is bag size, bag weight, or station-day friction
 - read [Beijing, Xi'an, or Shanghai: Which Pairing Makes the Best First China Route?](/guides/beijing-xian-or-shanghai-pairing/) if your rail question is really part of deciding which classic first-trip route should win
+- read [A First Shanxi Route That Actually Works: Pingyao, Yingxian, Hanging Temple, and Datong](/topics/first-shanxi-route-pingyao-yingxian-hanging-temple-datong/) if your rail question is part of shaping a more architecture-first Shanxi branch
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if arrival logistics are the weak point at the far end of the train
 - read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) if train nerves are really part of a broader first-trip confidence question

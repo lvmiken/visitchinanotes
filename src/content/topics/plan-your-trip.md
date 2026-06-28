@@ -119,6 +119,8 @@ Two anchor cities is usually the sweet spot for many first-time trips.
 
 If your trip is in this range and you want the concrete route versions instead of only the rule, continue with [Best China Itinerary for 10 Days](/topics/best-china-itinerary-10-days/).
 
+If you already built a rough 10-day draft and the real problem is whether it is quietly too dense, use [Is Your 10-Day China Itinerary Realistic or Too Exhausting?](/topics/is-your-10-day-china-itinerary-realistic-or-too-exhausting/) as the diagnostic version of the same question.
+
 ### Around 12 to 14 days
 
 Three cities can work well, but only if transfer days are treated as real travel and not hidden in wishful planning.
@@ -206,6 +208,38 @@ If the route is one week long and the live problem now is simply `how many citie
 
 If the route is already clearly East China, do not stay only at the national level. Move into the regional planning layer with [How to Plan an East China Itinerary for First-Time Visitors](/topics/east-china-itinerary-basics-for-first-time-visitors/), then narrow further into [Where to Stay on an East China Multi-City Route](/topics/where-to-stay-on-an-east-china-multi-city-route/), [What to Book in Advance for an East China Trip](/topics/what-to-book-in-advance-for-an-east-china-trip/), and [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/).
 
+If the route is drifting the other way — toward old architecture, cave temples, and a province-shaped north-China branch instead of another default city pair — move into [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/) before you start booking disconnected stops.
+
+If the route is not expanding by landmarks but by one highly specific food experience, and the live question is whether a city can earn its place through breakfast culture alone, move into [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) before you add another stop just because it sounds trendy.
+
+If the route already clearly wants one food-led city and the decision has narrowed to `a sharper Wuhan stop` versus `a fuller Chengdu chapter`, move into [Wuhan or Chengdu? Which Food-Led China Stop Fits Your Trip Better](/topics/wuhan-or-chengdu-which-food-city-fits-your-trip/) before you let a generic `food city` label choose for you.
+
+If the route is drifting toward night-food energy rather than one more headline landmark — the kind of trip where one Temple Street or central Chongqing evening may shape the city's memory more than another daytime stop — move into [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) before you protect a market night just because the phrase sounds good in search.
+
+If the route is becoming more seasonal and you are wondering whether one early-summer holiday layer should improve the trip or simply make it more crowded, use [Dragon Boat Festival in China: Worth Planning Around or Too Crowded?](/topics/dragon-boat-festival-in-china-worth-planning-around-or-too-crowded/) before you let one festival label override the rest of the route logic.
+
+If the route is drifting the other way — toward a more scenic southwest highlands branch where walking, road time, and altitude matter more than another urban stop — move into [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) before you assume the Yunnan map is as easy as it looks.
+
+If that southwest branch is winning specifically because summer heat is pushing you toward a cooler June route, keep [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) and [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/) open before you let `cool weather` choose a route that still is not sequenced well.
+
+If the route is becoming more scenery-led through Hunan and the map is tempting you to stack one lantern-town finish onto one mountain stop, use [Zhangjiajie and Fenghuang: Can You Really Do Both Well on One Trip?](/topics/zhangjiajie-and-fenghuang-can-you-really-do-both-well-on-one-trip/) before you treat Fenghuang like a harmless same-day add-on.
+
+If the route is drifting toward a tropical island finish because `Sanya`, `visa-free Hainan`, or duty-free resort language suddenly looks easier than another city, move into [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) before you let policy headlines choose a stop that may not suit the rest of the trip.
+
+If Hainan is already winning and the next questions are no longer `should I go` but `which airport` and `which base`, keep [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) and [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) open before the island starts turning into unnecessary transfers.
+
+If the Hainan branch is already more mature and the route is now wobbling between `Haikou texture`, `Atlantis Sanya`, or `a Sanya + Wanning split`, the sharper next decisions are [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/), [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/), and [Should You Split Hainan Between Sanya and Wanning or Keep One Base?](/topics/should-you-split-hainan-between-sanya-and-wanning-or-keep-one-base/) before the island grows one stop too many.
+
+If the Hainan branch is becoming more specific through `visa-free Hainan rules`, `family island break`, or `Mission Hills Haikou`, the sharper next pages are [Hainan's Visa-Free Entry, Clearly Explained: Who Qualifies and What It Actually Covers](/topics/hainan-visa-free-entry-clearly-explained/), [Hainan With Kids: When an Island Break Helps More Than Another City Stop](/topics/hainan-with-kids-when-an-island-break-helps-more-than-another-city-stop/), and [Mission Hills Haikou: Real Stop for Non-Golf Travelers or Easy to Skip?](/topics/mission-hills-haikou-real-stop-for-non-golf-travelers-or-easy-to-skip/) before the island's broad search hype turns into fuzzy planning.
+
+If the Hainan branch is now acting more like an external-island comparison or a hotel-zone decision inside Sanya, the sharper next pages are [Sanya or Phuket? Which Beach Trip Fits Better If China Is Still the Main Event](/topics/sanya-or-phuket-which-beach-trip-fits-better-if-china-is-still-the-main-event/), [Sanya or Bali? Which Island Stop Makes More Sense When China Is the Main Trip](/topics/sanya-or-bali-which-island-stop-makes-more-sense-when-china-is-the-main-trip/), and [Yalong Bay, Haitang Bay, or Dadonghai? Where to Base a First Sanya Stay](/topics/yalong-bay-haitang-bay-or-dadonghai-where-to-base-a-first-sanya-stay/) before `China's Hawaii` search language turns into an underplanned island branch.
+
+If the route is drifting toward a Silk Road branch where one heritage anchor may need interpretation and not just transit logic — the kind of route where `Dunhuang` only pays off if it feels like more than a checklist stop — move into [Digital Dunhuang: Is the Museum Experience Worth Building Into a First Silk Road Trip?](/topics/digital-dunhuang-museum-experience-worth-it/) before you add a desert detour that the trip cannot really support.
+
+If the route is drifting toward a more decentralized shape — the kind of trip where one smaller city may add more value than another default giant — move into [Quanzhou, Shaoxing, or Guiyang? Which Lower-Hype China City Fits Your Trip Best](/topics/quanzhou-shaoxing-or-guiyang-which-city-fits-you/) before you add a wildcard stop that changes the route more than you expected.
+
+If the route is drifting toward South China and the real question is no longer simply `Hong Kong or Macau`, but whether the region should be `Hong Kong + Macau + Guangzhou`, `Hong Kong + Macau + Shenzhen`, or a slimmer three-stop version that does not fray, move into [How to Plan a South China Route with Hong Kong, Macau, and One Mainland Stop](/topics/how-to-plan-a-south-china-route-with-hong-kong-macau-and-one-mainland-stop/) before the map tempts you into one stop too many.
+
 ## Reduce uncertainty before you add more sights
 
 The strongest plans usually come from answering a few practical questions clearly before adding more attractions.
@@ -213,6 +247,22 @@ The strongest plans usually come from answering a few practical questions clearl
 ## Which page to read next
 
 - read [Best First City to Visit in China: Beijing, Shanghai, Chengdu, or Xi'an?](/topics/where-to-start/) if the first-stop city is still unclear
+- read [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/) if the route is becoming more architecture-led than big-city-led
+- read [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) if the route is becoming more experience-led through food culture than through another standard sightseeing stop
+- read [Wuhan or Chengdu? Which Food-Led China Stop Fits Your Trip Better](/topics/wuhan-or-chengdu-which-food-city-fits-your-trip/) if the route clearly wants one food-led city and the live problem is whether that should be a sharper Wuhan stop or a broader Chengdu stay
+- read [How to Plan a South China Route with Hong Kong, Macau, and One Mainland Stop](/topics/how-to-plan-a-south-china-route-with-hong-kong-macau-and-one-mainland-stop/) if the route is becoming more Greater-Bay-Area-shaped and you need to keep Hong Kong, Macau, and the mainland partner from collapsing into transfer churn
+- read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the route is drifting toward a tropical island chapter and you need to know whether Hainan really improves the trip or only sounds convenient in search
+- read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if Hainan is already in the route and the main choice has become the right island base
+- read [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) if the route is becoming more street-food-and-evening-led than attraction-led
+- read [Dragon Boat Festival in China: Worth Planning Around or Too Crowded?](/topics/dragon-boat-festival-in-china-worth-planning-around-or-too-crowded/) if early-summer dates are now making one seasonal holiday layer part of the route decision
+- read [Where to Watch Dragon Boat Races in China Without Warping Your Whole Trip](/topics/where-to-watch-dragon-boat-races-in-china-without-warping-your-whole-trip/) if the holiday is already part of your travel window and you want the cleanest city-fit answer
+- read [What Is Zongzi? And Which Kind Should You Actually Try in China?](/topics/what-is-zongzi-and-which-kind-should-you-actually-try-in-china/) if the seasonal-food side of the route feels more useful than another sightseeing block
+- read [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) if the route is becoming more scenic, active, and highlands-led than city-led
+- read [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) if summer dates are fixed and the live problem is which cooler Yunnan base should shape the route
+- read [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/) if the Yunnan highlands clearly are winning and you want the first practical route shape
+- read [Zhangjiajie and Fenghuang: Can You Really Do Both Well on One Trip?](/topics/zhangjiajie-and-fenghuang-can-you-really-do-both-well-on-one-trip/) if the route is becoming more scenery-led and you are tempted to pair mountains with one atmospheric old-town finish
+- read [Digital Dunhuang: Is the Museum Experience Worth Building Into a First Silk Road Trip?](/topics/digital-dunhuang-museum-experience-worth-it/) if the route is becoming more Silk-Road-and-heritage-led than default city-led
+- read [Quanzhou, Shaoxing, or Guiyang? Which Lower-Hype China City Fits Your Trip Best](/topics/quanzhou-shaoxing-or-guiyang-which-city-fits-you/) if the route is becoming more taste-driven and decentralized than default big-city-led
 - read [How Much Does a Trip to China Cost in 2026?](/topics/china-trip-cost-2026/) if route ambition is running ahead of the real budget
 - read [How Many Days Do You Need for Your First China Trip?](/topics/how-many-days-do-you-need-for-your-first-china-trip/) if total trip length is still more confusing than city choice
 - read [China Travel Mistakes First-Time Visitors Make](/topics/china-travel-mistakes-first-time-visitors-make/) if you want to sanity-check the whole route before you lock more moving parts

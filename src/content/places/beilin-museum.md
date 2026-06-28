@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "best-museums-in-xian-for-first-time-visitors"
   - "bell-tower-vs-south-gate-at-night-in-xian"
+heroImage: "/images/heroes/xian-beilin-museum.jpg"
+heroImageAlt: "Beilin Museum Worth It in Xi'an."
+heroImageAttributionName: "Hiroshi Miyazaki from Tokyo, Japan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xi%27an_beilin_museum_(4104930446).jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Xi'an"
   - "Beilin Museum"

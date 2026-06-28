@@ -18,6 +18,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "what-to-do-in-suzhou-at-night-for-first-time-visitors"
   - "best-things-to-do-in-suzhou-for-first-time-visitors"
+heroImage: "/images/heroes/suzhou-shantang-street.jpg"
+heroImageAlt: "Shantang Street in Suzhou."
+heroImageAttributionName: "Another Believer"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shantang_Street,_Suzhou_(December_2015)_-_10.JPG"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Old street"

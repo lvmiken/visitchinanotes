@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "shenzhen-3-day-itinerary"
   - "what-to-do-in-shenzhen-at-night-for-first-time-visitors"
   - "where-to-stay-in-shenzhen-for-first-time-visitors"
+heroImage: "/images/heroes/shenzhen-nantou-ancient-town.jpg"
+heroImageAlt: "Nantou Ancient Town in Shenzhen."
+heroImageAttributionName: "Iswzo"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E5%8D%97%E5%A4%B4%E5%8F%A4%E5%9F%8E%E5%8D%97%E9%97%A82022.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shenzhen"
   - "Nantou Ancient Town"

@@ -2,7 +2,7 @@
 title: "Best Chengdu Restaurants for First-Time Visitors"
 description: "Use this Chengdu restaurant guide to choose the right first-trip meals by style, from classic Sichuan dinners and noodles to polished restaurant nights and hot pot that actually fits the route."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-06-28
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -202,6 +202,8 @@ This is often the better answer when the sentence is:
 
 We want one everyday-style Chengdu meal that still feels worth seeking out.
 
+If the live search already is not about classic rooms or polished picks but about Chengdu `fly restaurants` and how to use one smaller `苍蝇小馆` meal without guessing blind, the narrower next page is [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/).
+
 ## 5. If you want the restaurant to fit a Yulin evening
 
 Some Chengdu meals are not only about the room.
@@ -260,6 +262,7 @@ The strongest answers are usually:
 - read [Best Chengdu Hot Pot for First-Time Visitors](/guides/best-chengdu-hotpot-for-first-time-visitors/) if the signature dinner still is the main decision
 - read [Best Chengdu Sichuan Restaurants for First-Time Visitors](/guides/best-chengdu-sichuan-restaurants-for-first-time-visitors/) if the live question specifically is which proper Sichuan table dinner deserves the one classic meal slot
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) if you still need the dish-level food structure before choosing restaurants
+- read [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/) if the real question is whether one smaller local `苍蝇小馆` meal deserves room beside the headline dinners
 - read [Best Chengdu Noodles for First-Time Visitors](/guides/best-chengdu-noodles-for-first-time-visitors/) if the classic dinner and hot pot questions are mostly solved and the useful missing layer is one everyday noodle meal
 - read [Best Chengdu Dumplings for First-Time Visitors](/guides/best-chengdu-dumplings-for-first-time-visitors/) if the classic dinner and hot pot questions are mostly solved and the useful missing layer is one calmer dumpling meal
 - read [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/) if the real goal is one local dinner-and-drinks night

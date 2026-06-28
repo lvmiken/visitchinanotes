@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-with-kids-for-first-time-visitors"
   - "how-many-days-in-beijing-for-first-time-visitors"
+heroImage: "/images/heroes/beijing-tongzhou-grand-canal.jpg"
+heroImageAlt: "Tongzhou Grand Canal in Beijing."
+heroImageAttributionName: "E2568"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_Grand_Canal_Museum_of_Beijing_3.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Beijing"
   - "Tongzhou Grand Canal"

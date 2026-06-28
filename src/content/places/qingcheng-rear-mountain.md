@@ -4,6 +4,11 @@ description: "Use this Qingcheng Rear Mountain guide to decide when the greener,
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "chengdu"
+heroImage: "/images/heroes/chengdu-qingcheng-rear-mountain.jpg"
+heroImageAlt: "A lush waterfall scene in Qingcheng Rear Mountain surrounded by dense green forest."
+heroImageAttributionName: "Leeshan Chung"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%9F%8E%E5%90%8E%E5%B1%B1%E7%80%91%E5%B8%83_-_panoramio.jpg"
+heroImageLicense: "CC BY 3.0"
 whoItsFor:
   - "first-time Chengdu visitors considering a greener, more atmospheric day trip instead of another city day"
   - "travelers deciding whether Qingcheng's rear mountain is worth the effort compared with Dujiangyan or staying in Chengdu"
@@ -87,7 +92,7 @@ Choose `Qingcheng Rear Mountain` if:
 - the day should feel greener, softer, and more walking-led
 - you care more about mountain mood than about engineering heritage
 
-Choose [Dujiangyan](/places/dujiangyan/) if:
+Choose [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if:
 
 - you need the smartest all-around first extra day
 - you want significance with easier justification

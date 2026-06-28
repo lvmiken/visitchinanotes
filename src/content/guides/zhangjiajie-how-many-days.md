@@ -52,6 +52,8 @@ If the day count is already workable and the next problem is how to handle arriv
 
 If the day count is already workable and the next problem is which scenic days, trains, or hotel base should be locked first, the practical next page is [What to Book in Advance for Zhangjiajie: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-zhangjiajie/).
 
+If the live temptation is not another mountain branch but whether to finish the stop with one atmospheric old-town chapter, the route-level answer is [Zhangjiajie and Fenghuang: Can You Really Do Both Well on One Trip?](/topics/zhangjiajie-and-fenghuang-can-you-really-do-both-well-on-one-trip/).
+
 If `2 days` is the version that already looks most realistic and the next question is how to sequence those days well, the practical next page is [A Practical 2-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-2-day-itinerary-for-first-time-visitors/).
 
 If `3 days` is the version that now looks most realistic and the next question is how to use that fuller stay without wasting the extra day, the practical next page is [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).

@@ -4,6 +4,11 @@ description: "Use this Xiying Film Studio guide to decide when Xi'an's film and 
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "xian"
+heroImage: "/images/heroes/xian-xiying-film-studio.jpg"
+heroImageAlt: "A cinematic urban scene at Xiying in Xi'an with bold signage and a modern creative atmosphere."
+heroImageAttributionName: "Nishino Asuka"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xiying_time.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Xi'an visitors who want one more contemporary or design-led layer beyond imperial and archaeological history"
   - "travelers deciding whether Xiying Film Studio deserves time over another museum or another pagoda-side evening"

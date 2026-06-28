@@ -4,6 +4,11 @@ description: "Decide whether the Two Rivers Cruise is worth it on a first Chongq
 publishDate: 2026-06-22
 updatedDate: 2026-06-22
 city: "chongqing"
+heroImage: "/images/heroes/chongqing-two-rivers-cruise.jpg"
+heroImageAlt: "Chongqing's illuminated riverside skyline at night, the kind of view travelers seek on the Two Rivers Cruise."
+heroImageAttributionName: "Zfzf"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E9%87%8D%E5%BA%86%E5%A4%9C%E6%99%AF%E7%85%A7%E7%89%87.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Chongqing visitors choosing one strong night-view experience"
   - "travelers deciding between the Two Rivers Cruise, Hongyadong, and Nanbin Road"

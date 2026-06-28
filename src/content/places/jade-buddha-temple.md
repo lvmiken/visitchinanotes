@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "how-many-days-in-shanghai-for-first-time-visitors"
   - "rainy-day-in-shanghai-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-jade-buddha-temple.jpg"
+heroImageAlt: "Jade Buddha Temple in Shanghai."
+heroImageAttributionName: "ermell"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:China-Schanghai-Jade_Buddha-Temple-5176573.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shanghai"
   - "Jade Buddha Temple"

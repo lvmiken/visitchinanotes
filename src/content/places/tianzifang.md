@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "where-to-eat-in-shanghai-for-first-time-visitors"
   - "what-to-do-in-shanghai-at-night"
+heroImage: "/images/heroes/shanghai-tianzifang.jpg"
+heroImageAlt: "Tianzifang in Shanghai."
+heroImageAttributionName: "钉钉"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Tianzifang,_Shanghai.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shanghai"
   - "Tianzifang"

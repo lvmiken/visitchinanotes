@@ -1,6 +1,6 @@
 ---
-title: "Beijing's Giant Egg: When the National Centre for the Performing Arts Is Worth a Stop"
-description: "Use this National Centre for the Performing Arts guide to decide whether Beijing's famous Giant Egg belongs on a first trip, whether it is worth seeing without a show, and how it fits the central core."
+title: "Beijing's Giant Egg: When the NCPA Is Worth a Stop"
+description: "Use this NCPA guide to decide whether Beijing's Giant Egg belongs on a first trip, whether it is worth seeing without a show, and how it fits the central core."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
 city: "beijing"
@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "tiananmen-square-for-foreign-visitors-reservation-security-check-and-flag-raising-reality"
   - "what-to-do-in-beijing-at-night"
+heroImage: "/images/heroes/beijing-national-centre-for-the-performing-arts.jpg"
+heroImageAlt: "Beijing's Giant Egg."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:National_Centre_for_the_Performing_Arts_-_54446779583.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Beijing"
   - "National Centre for the Performing Arts"

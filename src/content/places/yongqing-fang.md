@@ -4,6 +4,11 @@ description: "Decide whether Yongqing Fang is worth your time on a first Guangzh
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "guangzhou"
+heroImage: "/images/heroes/guangzhou-yongqing-fang.jpg"
+heroImageAlt: "Cantonese-style historic buildings and vivid colors along Yongqing Fang in Guangzhou."
+heroImageAttributionName: "Liuxingy"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E8%8D%94%E6%B9%BE_%E6%B0%B8%E5%BA%86%E5%9D%8A%E4%B9%8B%E3%80%8A%E5%B9%BF%E5%B7%9E%E6%B0%B8%E5%BA%86%E3%80%8B.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Guangzhou visitors deciding whether Yongqing Fang deserves one of their limited neighborhood or evening blocks"
   - "travelers comparing Yongqing Fang with Beijing Road, Shamian, or a Pearl River night cruise"

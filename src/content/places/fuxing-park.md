@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "a-shanghai-coffee-walk-through-anfu-julu-fumin-and-changle"
   - "how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors"
   - "where-to-eat-in-french-concession-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-fuxing-park.jpg"
+heroImageAlt: "Fuxing Park in Shanghai."
+heroImageAttributionName: "Jpbowen"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Fuxing_Park,_Shanghai.JPG"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shanghai"
   - "Fuxing Park"

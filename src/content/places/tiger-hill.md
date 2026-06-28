@@ -19,6 +19,11 @@ relatedGuideSlugs:
   - "suzhou-first-time-guide"
   - "best-things-to-do-in-suzhou-for-first-time-visitors"
   - "how-many-days-in-suzhou-for-first-time-visitors"
+heroImage: "/images/heroes/suzhou-tiger-hill.jpg"
+heroImageAlt: "Tiger Hill in Suzhou."
+heroImageAttributionName: "Chainwit"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024-Apr_Suzhou_-_Tiger_Hill_Scenic_Area_(Hu_Qiu)_%E8%99%8E%E4%B8%98_-_img_02.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Suzhou"
   - "Landmark"

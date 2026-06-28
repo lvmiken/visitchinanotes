@@ -2,7 +2,7 @@
 title: "What to Eat in Chengdu for First-Time Visitors"
 description: "Find out which Chengdu foods are actually worth your limited meals, from hotpot and chuanchuan to dan dan noodles, Zhong dumplings, mapo tofu, and the slower Sichuan dinners that make the city feel full."
 publishDate: 2026-06-21
-updatedDate: 2026-06-23
+updatedDate: 2026-06-28
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -93,6 +93,8 @@ If the real question now is not whether smaller snack foods deserve one of your 
 If the real question now is not the broader snack layer but which desserts actually help after a spicy dinner, a snack-heavy central walk, or a slower Yulin evening, the narrower next page is [Best Chengdu Desserts for First-Time Visitors](/guides/best-chengdu-desserts-for-first-time-visitors/).
 
 If the real question now is not the bigger food structure but how one Chengdu morning should actually work, the narrower next page is [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/).
+
+If the real question now is not the broad dish list but how to do one smaller, more local-feeling `苍蝇小馆` style meal without guessing blind, the narrower next page is [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/).
 
 ### Layer 3: fuller Sichuan table dishes
 
@@ -289,6 +291,7 @@ If the trip is short, many readers do well with:
 - read [Best Chengdu Desserts for First-Time Visitors](/guides/best-chengdu-desserts-for-first-time-visitors/) if the broader food structure is clear and the useful missing layer is one sweet finish after hotpot, snacks, or a slower evening
 - read [Where to Eat Breakfast in Chengdu for First-Time Visitors](/guides/where-to-eat-breakfast-in-chengdu-for-first-time-visitors/) if the useful missing layer is one local morning food stop rather than another big dinner
 - read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) if the next decision is where Chengdu's slower tea-house layer actually belongs in the trip
+- read [How to Eat at Chengdu Fly Restaurants Without Ordering Blind](/guides/how-to-eat-at-chengdu-fly-restaurants-without-ordering-blind/) if the next decision is whether one smaller local `苍蝇小馆` meal really belongs in the trip and how to do it well
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the food plan still depends on which city blocks deserve the best time
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if the city's overall role in the route still feels too broad
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if hotel area is still shaping where the most useful meals can realistically happen

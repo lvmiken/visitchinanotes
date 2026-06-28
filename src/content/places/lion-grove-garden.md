@@ -22,6 +22,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-suzhou-for-first-time-visitors"
   - "how-to-plan-a-suzhou-museum-and-pingjiang-road-half-day-for-first-time-visitors"
   - "humble-administrators-garden-or-lingering-garden-the-better-first-pick-in-suzhou"
+heroImage: "/images/heroes/suzhou-lion-grove-garden.jpg"
+heroImageAlt: "Lion Grove Garden in Suzhou."
+heroImageAttributionName: "King of Hearts"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Lion_Grove_Garden_Suzhou_November_2017_009.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Garden"

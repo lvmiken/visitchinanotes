@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "where-to-eat-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
   - "how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors"
+heroImage: "/images/heroes/chengdu-jinli.jpg"
+heroImageAlt: "Jinli in Chengdu."
+heroImageAttributionName: "Zairon"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chengdu_Jinli-Stra%C3%9Fe_09.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chengdu"
   - "Jinli"

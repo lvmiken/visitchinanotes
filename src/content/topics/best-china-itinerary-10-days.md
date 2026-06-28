@@ -56,6 +56,10 @@ This page is for travelers who know they have about ten days in China and need t
 - when does a classic first China route finally become realistic?
 - how do you use 10 days without wasting them on constant movement?
 
+If you already have a draft and want a cleaner yes-or-no reality check instead of broader route models, pair this with [Is Your 10-Day China Itinerary Realistic or Too Exhausting?](/topics/is-your-10-day-china-itinerary-realistic-or-too-exhausting/).
+
+If the trip already is clearly meant to be rail-led and the live search is not `best 10 days in China` in general but specifically `10-day China bullet train itinerary`, go next to [A 10-Day China Bullet Train Itinerary That Actually Works](/topics/a-10-day-china-bullet-train-itinerary-that-actually-works/).
+
 If you are still deciding whether 10 days is the right total trip length at all, read [How Many Days Do You Need for Your First China Trip?](/topics/how-many-days-do-you-need-for-your-first-china-trip/) first.
 
 ## The short answer

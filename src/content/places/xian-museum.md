@@ -4,6 +4,11 @@ description: "Decide whether Xi'an Museum is worth your time, when it is smarter
 publishDate: 2026-06-21
 updatedDate: 2026-06-21
 city: "xian"
+heroImage: "/images/heroes/xian-xian-museum.jpg"
+heroImageAlt: "Xiaoyan Pagoda rising beside the grounds of Xi'an Museum under a vivid blue sky."
+heroImageAttributionName: "Gary Todd from Xinzheng, China"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xi'an_Museum_and_Xiaoyan_Pagoda_(9924603733).jpg"
+heroImageLicense: "CC0"
 whoItsFor:
   - "first-time Xi'an visitors who want one museum without overloading the trip"
   - "travelers choosing between Xi'an Museum, Shaanxi History Museum, and skipping museums entirely"

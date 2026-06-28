@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better"
   - "beijing-4-day-itinerary"
+heroImage: "/images/heroes/beijing-jinshanling-great-wall.jpg"
+heroImageAlt: "Jinshanling Great Wall in Beijing."
+heroImageAttributionName: "rheins"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E9%87%91%E5%B1%B1%E5%B2%AD%E9%95%BF%E5%9F%8E_-_Jinshanling_Great_Wall_-_2015.08_-_panoramio.jpg"
+heroImageLicense: "CC BY 3.0"
 tags:
   - "Beijing"
   - "Great Wall"

@@ -28,6 +28,11 @@ relatedGuideSlugs:
   - "what-to-do-in-xintiandi-at-night-for-first-time-visitors"
   - "best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors"
   - "where-to-eat-in-shanghai-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-xintiandi.jpg"
+heroImageAlt: "Xintiandi in Shanghai."
+heroImageAttributionName: "Juan Antonio Segal"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xintiandi_Style_I,_Shanghai,_China_-_54272980778.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Shanghai"
   - "Xintiandi"

@@ -23,6 +23,11 @@ relatedGuideSlugs:
   - "beijing-first-time-guide"
   - "beijing-4-day-itinerary"
   - "what-to-do-in-beijing-at-night"
+heroImage: "/images/heroes/beijing-wangfujing-street.jpg"
+heroImageAlt: "People strolling along the wide Wangfujing pedestrian street lined with modern storefronts in Beijing."
+heroImageAttributionName: "TurnOnTheNight"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Wangfujing_Street_from_south_to_north_20251002150511.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Beijing"
   - "Wangfujing"

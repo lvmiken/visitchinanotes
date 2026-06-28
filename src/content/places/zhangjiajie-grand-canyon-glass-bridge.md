@@ -4,6 +4,11 @@ description: "Decide whether Zhangjiajie Grand Canyon Glass Bridge deserves one 
 publishDate: 2026-06-24
 updatedDate: 2026-06-24
 city: "zhangjiajie"
+heroImage: "/images/heroes/zhangjiajie-zhangjiajie-grand-canyon-glass-bridge.jpg"
+heroImageAlt: "The Zhangjiajie Grand Canyon Glass Bridge stretching across a dramatic green gorge."
+heroImageAttributionName: "Codas"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhangjiajie_Glass_Bridge_07.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "first-time Zhangjiajie visitors deciding whether one thrill-led canyon branch belongs in the stop"
   - "travelers comparing the Glass Bridge with deeper time in the forest park or Tianmen Mountain"

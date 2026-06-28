@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "chengdu-3-day-itinerary"
   - "how-to-plan-a-west-side-cultural-half-day-in-chengdu-for-first-time-visitors"
   - "where-to-drink-tea-in-chengdu-for-first-time-visitors"
+heroImage: "/images/heroes/chengdu-qingyang-palace.jpg"
+heroImageAlt: "Qingyang Palace in Chengdu."
+heroImageAttributionName: "Gary Todd from Xinzheng, China"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Qingyang_Palace_Kiln_(9958162875).jpg"
+heroImageLicense: "CC0"
 tags:
   - "Chengdu"
   - "Qingyang Palace"

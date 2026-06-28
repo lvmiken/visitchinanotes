@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "how-to-get-around-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
   - "yangtze-river-cableway-best-time-and-queue-reality"
+heroImage: "/images/heroes/chongqing-yangtze-river-cableway.jpg"
+heroImageAlt: "Yangtze River Cableway in Chongqing."
+heroImageAttributionName: "rheins"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E9%87%8D%E5%BA%86%E9%95%BF%E6%B1%9F%E7%B4%A2%E9%81%93_-_Chongqing_Yangtze_River_Cableway_-_2015.04_-_panoramio.jpg"
+heroImageLicense: "CC BY 3.0"
 tags:
   - "Chongqing"
   - "Yangtze River Cableway"

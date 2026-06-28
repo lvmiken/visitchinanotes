@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "chengdu-3-day-itinerary"
   - "how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors"
   - "kuanzhai-alley-or-jinli-for-first-time-visitors"
+heroImage: "/images/heroes/chengdu-wuhou-shrine.jpg"
+heroImageAlt: "Wuhou Shrine in Chengdu."
+heroImageAttributionName: "Suicasmo"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Wuhou_Shrine_20260513.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Chengdu"
   - "Wuhou Shrine"

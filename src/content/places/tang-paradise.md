@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
+heroImage: "/images/heroes/xian-tang-paradise.jpg"
+heroImageAlt: "Tang Paradise in Xi'an."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Tang_Paradise_2024_04.jpg"
+heroImageLicense: "CC BY 4.0"
 tags:
   - "Xi'an"
   - "Tang Paradise"

@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-3-day-itinerary"
   - "shanghai-hangzhou-day-trip-or-overnight"
+heroImage: "/images/heroes/shanghai-zhujiajiao-water-town.jpg"
+heroImageAlt: "Zhujiajiao Water Town from Shanghai."
+heroImageAttributionName: "Lloyd Tudor"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhujiajiao_ancient_water_town,_Nr._Shanghai,_China_-_1.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shanghai"
   - "Zhujiajiao"

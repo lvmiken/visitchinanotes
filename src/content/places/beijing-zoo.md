@@ -4,6 +4,11 @@ description: "A practical Beijing Zoo guide for first-time visitors who want to 
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 city: "beijing"
+heroImage: "/images/heroes/beijing-beijing-zoo.jpg"
+heroImageAlt: "A giant panda at Beijing Zoo surrounded by bamboo and greenery."
+heroImageAttributionName: "Liu Yang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Seeing_Panda_in_Beijing_Zoo.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 whoItsFor:
   - "families visiting Beijing for the first time"
   - "travelers deciding whether the zoo belongs in the route or whether it crowds out stronger Beijing sights"

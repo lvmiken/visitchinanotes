@@ -28,6 +28,11 @@ relatedGuideSlugs:
   - "rainy-day-in-chongqing-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
   - "how-to-get-around-chongqing-for-first-time-visitors"
+heroImage: "/images/heroes/chongqing-china-three-gorges-museum.jpg"
+heroImageAlt: "China Three Gorges Museum in Chongqing."
+heroImageAttributionName: "Eng.Justus Byebirooha"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Three_Gorges_Museum_China.JPG"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Chongqing"
   - "China Three Gorges Museum"

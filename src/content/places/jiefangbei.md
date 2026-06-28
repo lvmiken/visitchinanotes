@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-chongqing-at-night-for-first-time-visitors"
   - "where-to-eat-in-jiefangbei-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
+heroImage: "/images/heroes/chongqing-jiefangbei.jpg"
+heroImageAlt: "Jiefangbei in Chongqing."
+heroImageAttributionName: "HoweyYuan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Jiefangbei_CBD_20240721.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chongqing"
   - "Jiefangbei"

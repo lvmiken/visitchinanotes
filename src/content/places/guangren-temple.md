@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "rainy-day-in-xian-for-first-time-visitors"
+heroImage: "/images/heroes/xian-guangren-temple.jpg"
+heroImageAlt: "Guangren Temple in Xi'an."
+heroImageAttributionName: "沈澄心"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Guangren_Temple_20240807_64.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Xi'an"
   - "Guangren Temple"

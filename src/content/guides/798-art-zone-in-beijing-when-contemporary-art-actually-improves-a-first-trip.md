@@ -1,6 +1,6 @@
 ---
-title: "798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip"
-description: "Use this Beijing guide to decide whether 798 Art Zone deserves time on a first trip, what kind of traveler it fits best, and when it adds a better modern counterweight than one more palace, park, or shopping block."
+title: "798 Art Zone in Beijing: When It Fits a First Trip"
+description: "Use this 798 guide to decide whether Beijing's art district deserves time, who it suits best, and when it beats another palace, park, or shopping block."
 publishDate: 2026-06-27
 updatedDate: 2026-06-27
 city: "beijing"

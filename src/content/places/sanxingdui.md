@@ -28,6 +28,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-chengdu-for-first-time-visitors"
   - "best-day-trips-from-chengdu-for-first-time-visitors"
   - "what-to-book-in-advance-for-chengdu"
+heroImage: "/images/heroes/chengdu-sanxingdui.jpg"
+heroImageAlt: "Sanxingdui from Chengdu."
+heroImageAttributionName: "Gary Todd from Xinzheng, China"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Sanxingdui_(Probably_Dian)_Bronze_Serpents_(9950858545).jpg"
+heroImageLicense: "CC0"
 tags:
   - "Chengdu"
   - "Sanxingdui"

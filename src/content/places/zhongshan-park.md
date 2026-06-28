@@ -4,6 +4,11 @@ description: "A practical Zhongshan Park guide for first-time Beijing visitors w
 publishDate: 2026-06-19
 updatedDate: 2026-06-19
 city: "beijing"
+heroImage: "/images/heroes/beijing-zhongshan-park.jpg"
+heroImageAlt: "A pavilion and landscaped garden scenery inside Zhongshan Park in Beijing."
+heroImageAttributionName: "EditQ"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhongshan_Park%2C_Beijing_10.jpg"
+heroImageLicense: "CC0"
 whoItsFor:
   - "first-time Beijing visitors already planning the Tiananmen and Forbidden City area"
   - "travelers who want one easy central add-on without a long detour"

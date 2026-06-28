@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors"
   - "where-to-eat-in-french-concession-for-first-time-visitors"
   - "what-to-do-in-french-concession-at-night-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-french-concession.jpg"
+heroImageAlt: "French Concession in Shanghai."
+heroImageAttributionName: "Fabio Achilli from Milano, Italy"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:French_Concession,_Shanghai,_China_(9737788740).jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Shanghai"
   - "French Concession"

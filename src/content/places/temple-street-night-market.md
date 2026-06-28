@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-hong-kong-at-night"
   - "where-to-eat-near-temple-street-for-first-time-visitors"
   - "what-to-eat-in-hong-kong-for-first-time-visitors"
+heroImage: "/images/heroes/hong-kong-temple-street-night-market.jpg"
+heroImageAlt: "Temple Street Night Market in Hong Kong."
+heroImageAttributionName: "Deror_avi"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Temple_Street_night_market_IMG_4777.JPG"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Hong Kong"
   - "Temple Street"
@@ -59,6 +64,8 @@ Use this page if you are asking:
 - should I choose it over another skyline or island-side night?
 - is it useful for food, shopping, atmosphere, or all three?
 - how much time does it really need?
+
+If the broader question is no longer only whether `Temple Street` works in Hong Kong, but how to tell which kind of China night market is actually worth one of your evenings, keep [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) open too.
 
 If the live question already is no longer whether the district belongs but what should actually carry the meal there, the narrower execution page is [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/).
 

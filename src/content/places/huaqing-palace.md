@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "terracotta-army-half-day-from-xian"
+heroImage: "/images/heroes/xian-huaqing-palace.jpg"
+heroImageAlt: "Huaqing Palace in Xi'an."
+heroImageAttributionName: "CEphoto, Uwe Aranas"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Lintong_Xian_China_Huaqing-Pool-07.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Xi'an"
   - "Huaqing Palace"

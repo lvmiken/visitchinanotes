@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors"
   - "where-to-eat-in-chengdu-for-first-time-visitors"
   - "chengdu-3-day-itinerary"
+heroImage: "/images/heroes/chengdu-wenshu-monastery.jpg"
+heroImageAlt: "Wenshu Monastery in Chengdu."
+heroImageAttributionName: "Daderot"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Creatures_-_Wenshu_Monastery_-_Chengdu,_China_-_DSC05242.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Chengdu"
   - "Wenshu Monastery"

@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-chongqing-at-night-for-first-time-visitors"
   - "guanyinqiao-or-jiefangbei-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
+heroImage: "/images/heroes/chongqing-guanyinqiao.jpg"
+heroImageAlt: "Guanyinqiao in Chongqing."
+heroImageAttributionName: "Fxqf"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E8%A7%82%E9%9F%B3%E6%A1%A55.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chongqing"
   - "Guanyinqiao"
