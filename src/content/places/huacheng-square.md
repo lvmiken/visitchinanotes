@@ -32,6 +32,11 @@ tags:
   - "Huacheng Square"
   - "Zhujiang New Town"
   - "Skyline"
+heroImage: "/images/heroes/guangzhou-huacheng-square.jpg"
+heroImageAlt: "Huacheng Square in Guangzhou with the opera house and Zhujiang New Town skyline across the water."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Huacheng_Square_02518-Guangzhou_(32925131675).jpg"
+heroImageLicense: "CC BY 2.0"
 author: "Editorial Team"
 faq:
   - question: "Is Huacheng Square worth visiting for first-time visitors to Guangzhou?"

@@ -46,6 +46,8 @@ Use this page if you are asking:
 
 If the broader Beijing route still is not secure, start with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/).
 
+If the bigger question still is not `798 itself` but which modern Beijing branch deserves the trip's remaining time, the broader chooser is [How to Choose One Modern Beijing Detour: CBD, Olympic Park, 798, or Shougang?](/guides/how-to-choose-one-modern-beijing-detour-cbd-olympic-park-798-or-shougang/).
+
 ## The short answer
 
 For many first-time visitors, `798` is worth it when:
@@ -133,4 +135,5 @@ If the day still wants one polished modern evening after the art-district half d
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the city still needs a clearer overall shape before east Beijing gets real route space
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if the real question is where a selective east-side half day actually fits
 - read [Yonghe Temple and Wudaoying: A Better East Beijing Half Day Than Forcing Another Monument](/guides/yonghe-temple-and-wudaoying-a-better-east-beijing-half-day/) if the route wants an east-side day but with calmer cultural texture rather than contemporary art
+- read [Shougang Park in Beijing: The Industrial-Cool Detour That Shows a Different City](/places/shougang-park/) if the route wants a larger industrial-renewal landscape rather than an art-district half day
 - read [Best Bars in Beijing for First-Time Visitors: Sanlitun, Liangma River, or Shichahai?](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the district still needs a stronger modern evening follow-up

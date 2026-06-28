@@ -187,6 +187,7 @@ For many first-time visitors, it is better to skip Huaqiangbei cleanly than to f
 
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the city still is not fully shaped
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if you still are not sure the city has room for a Huaqiangbei block at all
+- read [Can You Really Visit DJI Sky City in Shenzhen?](/guides/can-you-really-visit-dji-sky-city-in-shenzhen/) if the trip wants Shenzhen's cleaner architecture-and-tech icon rather than the denser market version
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the district's real value depends on the hotel base
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the day now needs one stronger meal layer
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the electronics block is only the daytime half of a fuller Shenzhen day

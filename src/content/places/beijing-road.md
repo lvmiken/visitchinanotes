@@ -32,6 +32,11 @@ tags:
   - "Guangzhou"
   - "Beijing Road"
   - "Yuexiu"
+heroImage: "/images/heroes/guangzhou-beijing-road.jpg"
+heroImageAlt: "Pedestrians walking along Beijing Road in Guangzhou beneath lanterns and large shade trees."
+heroImageAttributionName: "钉钉"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Beijing_Road,_Guangzhou_18.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is Beijing Road worth visiting on a first trip to Guangzhou?"

@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-eat-in-macau-for-first-time-visitors"
   - "where-to-eat-around-senado-square-for-first-time-visitors"
   - "where-to-stay-in-macau-for-first-time-visitors"
+heroImage: "/images/heroes/macau-st-pauls.jpg"
+heroImageAlt: "The Ruins of St. Paul's facade in Macau rising above the stone steps on a bright day."
+heroImageAttributionName: "Jakub Hałun"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:20091003_Macau_Cathedral_of_Saint_Paul_6542.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Macau"
   - "Ruins of St. Paul's"

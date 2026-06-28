@@ -47,6 +47,8 @@ It is most useful if:
 
 If you are still comparing Beijing's two airports more broadly, keep [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) open too.
 
+If you already know you are flying through `Daxing` and the live question is not transfer logic but whether the terminal itself deserves extra attention, the companion page is [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/).
+
 ## The short answer
 
 For most first-time visitors:
@@ -183,5 +185,6 @@ At Daxing, late-night bus options are a real part of the arrival toolkit, not ju
 ## Which page to read next
 
 - read [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) if you are still comparing airport-arrival philosophy
+- read [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/) if you already know you are using `Daxing` and want to decide whether the terminal itself deserves any emotional or architectural weight
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your answer
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if the hotel base itself is still unsettled

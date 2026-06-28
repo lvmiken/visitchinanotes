@@ -75,6 +75,8 @@ If the day order mostly works but the meal layer still feels too generic, keep [
 
 If the whole South China route still is deciding between a stronger Hong Kong stop and a cleaner mainland extension, keep [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) open too.
 
+If the main uncertainty inside `Day 1` is how to use Futian well instead of letting it become random CBD time, keep [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) open too.
+
 If the day order mostly works but the evening side still feels too vague, keep [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) open too.
 
 If Day 1 may begin straight from Hong Kong, keep [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) open too.
@@ -142,6 +144,10 @@ This is the right day for:
 - `Civic Center`
 - `Lianhua Hill Park`
 - the wider `Ping An / COCO Park` side of the city
+
+If that central-core logic still feels too broad, the sharper companion page is [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/).
+
+If the district already is clearly happening and the real question becomes the exact walking order, the narrower execution page is [A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop](/guides/a-better-first-futian-half-day-lianhua-hill-civic-center-and-when-to-stop/).
 
 It is usually the wrong day for:
 
@@ -303,6 +309,9 @@ all in the same short stay.
 
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the city still needs to be judged against the wider route
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if you still are not fully sure whether Shenzhen should be 2, 3, or 4 days
+- read [Can You Really Visit DJI Sky City in Shenzhen?](/guides/can-you-really-visit-dji-sky-city-in-shenzhen/) if the route wants one more selective west-side tech landmark rather than another general district hour
+- read [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if Day 1 still needs a cleaner central-Shenzhen shape
+- read [A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop](/guides/a-better-first-futian-half-day-lianhua-hill-civic-center-and-when-to-stop/) if Day 1 already points to Futian and the missing piece is the exact half-day order
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the day structure works but the hotel base still does not
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the day structure works but the meal plan still feels too mall-generic
 - read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if the route still needs one clearer central-market or electronics-led half day

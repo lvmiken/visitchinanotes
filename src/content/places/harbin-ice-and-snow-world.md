@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "harbin-first-time-guide"
   - "best-things-to-do-in-harbin-for-first-time-visitors"
   - "harbin-where-to-stay"
+heroImage: "/images/heroes/harbin-ice-sophia-cathedral.jpg"
+heroImageAlt: "Pastel-lit ice replica of Saint Sophia Cathedral at Harbin Ice and Snow World under a bright winter sky."
+heroImageAttributionName: "Garosio33"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Harbin_Ice_%26_Snow_Festival_2026_-_Saint_Sophia_Cathedral.jpg"
+heroImageLicense: "CC0"
 tags:
   - "Harbin"
   - "Ice and Snow World"

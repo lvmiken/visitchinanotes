@@ -140,4 +140,5 @@ It often improves the trip most when:
 
 - read [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) if the broader hutong day still is the real decision
 - read [Qianmen for First-Time Visitors](/places/qianmen/) if the old-city anchor still is not settled
+- read [Dashilar in Beijing: The Old Commercial Quarter That Feels More Real Than Qianmen Alone](/places/dashilar/) if the route wants a more layered old-commercial quarter beside the same historic-core zone
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want to place this lane into a real walk instead of leaving it as a floating maybe

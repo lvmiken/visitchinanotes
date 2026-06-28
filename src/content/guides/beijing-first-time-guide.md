@@ -169,7 +169,11 @@ If the slower central day already is clearly becoming a park-led reset and the l
 
 If the route wants one calmer east-side cultural half day instead of another imperial block, the cleaner bridge page is [Yonghe Temple and Wudaoying: A Better East Beijing Half Day Than Forcing Another Monument](/guides/yonghe-temple-and-wudaoying-a-better-east-beijing-half-day/).
 
-If the trip still wants one more contemporary or design-led Beijing layer after the main anchors are secure, the selective modern-city branch is [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/).
+If the trip still wants one more contemporary or design-led Beijing layer after the main anchors are secure, start with [How to Choose One Modern Beijing Detour: CBD, Olympic Park, 798, or Shougang?](/guides/how-to-choose-one-modern-beijing-detour-cbd-olympic-park-798-or-shougang/) before jumping straight into one branch. If the creative version already is the likely fit, the more specific page is [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/).
+
+If the skyline version already is the likely fit and the specific live query is Beijing's tallest tower, go straight to [China Zun in Beijing: The Tallest Tower Matters More on the Skyline Than Inside It](/places/china-zun/) rather than treating the CBD as a vague office-district detour.
+
+If the skyline version already is the likely fit and the specific live query is the city's most famous looped modern landmark, go straight to [Beijing's Loop in the Sky: Why the CCTV Headquarters Is the CBD's Real Showstopper](/places/cctv-headquarters/).
 
 If Beijing still feels too sightseeing-heavy, add the food layer early instead of as an afterthought. [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) is often the page that turns "one more evening" into a real part of the trip, and [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) works after that when the duck meal itself becomes the actual decision.
 
@@ -194,6 +198,10 @@ If the live search starts even narrower from `Beijing hutong tour`, the cleaner 
 If the live question is already more tactical — `rickshaw price`, how to spot a thin tour, or when to stop paying and just walk — the sharper execution page is [Beijing Hutong Rickshaw Tours: Prices, Red Flags, and When Walking Is Better](/guides/beijing-hutong-rickshaw-prices-scams-and-when-to-just-walk/).
 
 If the route already has enough monuments and the live question is whether one more texture-rich but niche detour is worth it, the optional market branch is [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/).
+
+If you are arriving or departing through `Daxing` and want one modern-Beijing moment without spending a full city block on it, the arrival-side bonus page is [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/).
+
+If the trip already knows `Olympic Park` belongs and the real uncertainty is whether the `Bird's Nest` or `Water Cube` should carry the stop, the narrower page is [Bird's Nest or Water Cube? How to Use Beijing's Olympic Park Well](/guides/birds-nest-or-water-cube-how-to-use-beijings-olympic-park-well/).
 
 If the Great Wall day itself already is secure and the remaining question is whether the trip should upgrade from the easiest defaults to a quieter and more rugged-looking section, the narrower Wall page is [Jinshanling Great Wall: When the Quieter, Wilder-Looking Section Is Worth the Extra Effort](/places/jinshanling-great-wall/).
 
@@ -283,8 +291,13 @@ If your trip is shorter than that, Beijing often needs more decisiveness than tr
 - read [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/) if the hutong decision already is narrowing to whether the easy famous lane block helps or only adds crowds
 - read [Beijing Hutong Rickshaw Tours: Prices, Red Flags, and When Walking Is Better](/guides/beijing-hutong-rickshaw-prices-scams-and-when-to-just-walk/) if the narrower old-city concern is whether to pay for a rickshaw-style version or walk instead
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want that slower neighborhood layer turned into a real day plan
+- read [How to Choose One Modern Beijing Detour: CBD, Olympic Park, 798, or Shougang?](/guides/how-to-choose-one-modern-beijing-detour-cbd-olympic-park-798-or-shougang/) if the main anchors are already stable and the live question is which one modern-Beijing branch actually deserves your remaining time
+- read [Bird's Nest or Water Cube? How to Use Beijing's Olympic Park Well](/guides/birds-nest-or-water-cube-how-to-use-beijings-olympic-park-well/) if Olympic Park already is chosen and the remaining question is how to give the stop a clearer center of gravity
+- read [Beijing's Loop in the Sky: Why the CCTV Headquarters Is the CBD's Real Showstopper](/places/cctv-headquarters/) if the skyline branch already is chosen and the question has narrowed to Beijing's most famous modern building
+- read [China Zun in Beijing: The Tallest Tower Matters More on the Skyline Than Inside It](/places/china-zun/) if the skyline branch already is chosen and the question has narrowed to what Beijing's tallest tower actually adds
 - read [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/) if the city still needs one selective modern-cultural layer beyond the imperial and hutong defaults
 - read [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/) if the route already is secure and the live question is whether one market-texture detour is worth the time
+- read [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/) if the trip is using `Daxing` and you want to know whether the airport itself deserves any deliberate attention
 - read [Universal Beijing Resort for Foreign Passport Holders: Tickets, App, and Entry Without Last-Minute Panic](/guides/universal-beijing-for-foreign-passport-holders-tickets-app-and-entry/) if Universal is already in the plan and the practical worry is passport, reservation, or gate-readiness
 - read [Jinshanling After Dark: Night Tour, Camping Talk, and What Is Actually Realistic from Beijing](/guides/jinshanling-night-tour-or-camping-what-is-actually-realistic-from-beijing/) if the Wall query has moved from section choice to a more selective overnight or after-dark version
 - read [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) if the duck dinner itself is already the specific question

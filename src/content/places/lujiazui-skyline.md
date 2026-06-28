@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "shanghai-pudong-airport-to-city-center"
   - "shanghai-3-day-itinerary"
+heroImage: "/images/heroes/shanghai-north-bund.jpg"
+heroImageAlt: "Shanghai skyline at night seen from the North Bund with the Oriental Pearl Tower and Pudong towers illuminated."
+heroImageAttributionName: "David Zhang from Canada"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pudong_CBD_viewed_from_the_North_Bund_in_Shanghai.jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Shanghai"
   - "Lujiazui"

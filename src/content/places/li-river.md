@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "guilin-first-time-guide"
   - "yangshuo-first-time-guide"
   - "xingping-cormorant-fisherman-demo-worth-it-or-just-tourist-theater"
+heroImage: "/images/heroes/guilin-li-river-karst.jpg"
+heroImageAlt: "Cruise boats on the Li River in Guilin framed by classic karst peaks under a bright blue sky."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Guilin_Li_River.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Guilin"
   - "Li River"

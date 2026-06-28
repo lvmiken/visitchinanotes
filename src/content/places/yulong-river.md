@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "yangshuo-where-to-stay"
   - "yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window"
   - "how-to-use-moon-hill-on-a-first-yangshuo-trip-without-overcommitting-the-day"
+heroImage: "/images/heroes/yangshuo-yulong-river.jpg"
+heroImageAlt: "Bamboo rafts drifting along the Yulong River in Yangshuo with karst peaks rising behind them."
+heroImageAttributionName: "Jakub Hałun"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:20090502_Yangshuo_Yulong_River_6125.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Yangshuo"
   - "Yulong River"

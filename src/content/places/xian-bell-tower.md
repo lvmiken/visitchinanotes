@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "bell-tower-vs-south-gate-at-night-in-xian"
   - "bell-tower-vs-south-gate-where-to-stay-in-xian"
+heroImage: "/images/heroes/xian-bell-tower-panorama.jpg"
+heroImageAlt: "Xi'an Bell Tower glowing at dusk with sweeping traffic light trails circling the roundabout beneath a dramatic sky."
+heroImageAttributionName: "xiquinhosilva"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xi%27an_Bell_Tower_-_54075117224.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Xi'an"
   - "Bell Tower"

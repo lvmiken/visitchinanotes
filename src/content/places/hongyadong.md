@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-chongqing-at-night-for-first-time-visitors"
   - "chongqing-3-day-itinerary"
   - "what-to-book-in-advance-for-chongqing"
+heroImage: "/images/heroes/chongqing-hongyadong-night.jpg"
+heroImageAlt: "Hongyadong glowing at night in Chongqing with red lanterns, illuminated facades, and high-rises behind it."
+heroImageAttributionName: "Yumeto"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:20250521_Hongyadong_(223429).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Chongqing"
   - "Hongyadong"

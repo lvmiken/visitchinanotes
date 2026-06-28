@@ -112,6 +112,10 @@ This is usually the best base when the trip mainly wants:
 
 If `Futian` already is the likely base and the live question is not where to sleep but how to make one stronger central dinner work, go next to [Where to Eat on Bagua First Road for First-Time Visitors](/guides/where-to-eat-on-bagua-first-road-for-first-time-visitors/).
 
+If `Futian` already is the likely base and the live question is not where to sleep but how to make the district itself feel like a real skyline-and-city-core chapter, go next to [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/).
+
+If `Futian` already is the likely base and the live question has narrowed even further to the exact half-day route, go next to [A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop](/guides/a-better-first-futian-half-day-lianhua-hill-civic-center-and-when-to-stop/).
+
 The tradeoff is that Futian can feel more functional and business-like than the best west-side or waterfront stays.
 
 ### Choose Nanshan if
@@ -255,6 +259,7 @@ For most first-time visitors, those details matter more than sleeping nearest on
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if the base decision mostly is solved and the next live question is how to divide a 3-day Shenzhen stay by district
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the base decision partly depends on where the easiest good meals and dinner districts will be
 - read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if the base decision partly depends on whether one denser central-market day belongs in the stay
+- read [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if the base decision depends on whether Futian should be more than a convenient place to sleep
 - read [Where to Eat on Bagua First Road for First-Time Visitors](/guides/where-to-eat-on-bagua-first-road-for-first-time-visitors/) if you already expect to stay in `Futian` or more central Shenzhen and want one fuller dinner district to work well
 - read [Where to Eat in Dongmen for First-Time Visitors](/guides/where-to-eat-in-dongmen-for-first-time-visitors/) if you already expect to stay in `Luohu` and want one easy food-and-shopping night to work well
 - read [Where to Eat in Sea World for First-Time Visitors](/guides/where-to-eat-in-sea-world-for-first-time-visitors/) if you already expect to stay on the west side and want one easy Shekou dinner district to work well

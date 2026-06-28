@@ -22,6 +22,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "harbin-first-time-guide"
   - "best-things-to-do-in-harbin-for-first-time-visitors"
+heroImage: "/images/heroes/harbin-saint-sophia-cathedral.jpg"
+heroImageAlt: "Saint Sophia Cathedral in Harbin glowing against a snowy evening sky."
+heroImageAttributionName: "CEphoto, Uwe Aranas"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Saint_Sophia_Cathedral,_Harbin_8.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Harbin"
   - "Saint Sophia Cathedral"

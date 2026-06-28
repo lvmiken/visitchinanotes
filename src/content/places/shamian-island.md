@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-guangzhou-at-night-for-first-time-visitors"
   - "how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors"
   - "where-to-eat-near-yongqing-fang-for-first-time-visitors"
+heroImage: "/images/heroes/guangzhou-shamian-island.jpg"
+heroImageAlt: "A colonial-era building shaded by large banyan trees on Shamian Island in Guangzhou."
+heroImageAttributionName: "Rutger van der Maar"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shamian_003.jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Guangzhou"
   - "Shamian Island"

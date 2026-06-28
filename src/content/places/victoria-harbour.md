@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "hong-kong-3-day-itinerary"
   - "what-to-do-in-hong-kong-at-night"
   - "how-many-days-in-hong-kong-for-first-time-visitors"
+heroImage: "/images/heroes/hong-kong-skyline.jpg"
+heroImageAlt: "Night skyline of Hong Kong around Victoria Harbour."
+heroImageAttributionName: "Benh LIEU SONG (Flickr)"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hong Kong"
   - "Victoria Harbour"

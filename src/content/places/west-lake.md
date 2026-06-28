@@ -25,6 +25,11 @@ relatedGuideSlugs:
   - "hangzhou-day-trip-or-overnight"
   - "hangzhou-west-lake-planning"
   - "shanghai-hangzhou-day-trip-or-overnight"
+heroImage: "/images/heroes/hangzhou-leifeng-willow-west-lake.jpg"
+heroImageAlt: "Leifeng Pagoda rising above the trees across West Lake in Hangzhou with willow branches framing the water."
+heroImageAttributionName: "Yinweichen"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_and_Willow_Tree_across_West_Lake.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hangzhou"
   - "West Lake"

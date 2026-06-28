@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
+heroImage: "/images/heroes/xian-terracotta-army.jpg"
+heroImageAlt: "Rows of Terracotta Army warriors standing in Pit 1 at the Qin Shi Huang Mausoleum Museum in Xi'an."
+heroImageAttributionName: "Maros Mraz"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Terracotta_Army_Pit_1_-_2.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Xi'an"
   - "Terracotta Army"

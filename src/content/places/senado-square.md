@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-eat-in-macau-for-first-time-visitors"
   - "where-to-eat-around-senado-square-for-first-time-visitors"
   - "where-to-stay-in-macau-for-first-time-visitors"
+heroImage: "/images/heroes/macau-senado-square-day.jpg"
+heroImageAlt: "Senado Square in Macau with its wave-pattern pavement, pastel arcades, and busy daytime foot traffic."
+heroImageAttributionName: "Emcc83"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Largo_do_Senado_MO_03.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Macau"
   - "Senado Square"

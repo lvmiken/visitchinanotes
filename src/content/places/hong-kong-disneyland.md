@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "hong-kong-3-day-itinerary"
   - "how-many-days-in-hong-kong-for-first-time-visitors"
   - "hong-kong-where-to-stay"
+heroImage: "/images/heroes/hong-kong-disneyland-castle.jpg"
+heroImageAlt: "Castle of Magical Dreams at Hong Kong Disneyland under a bright sky."
+heroImageAttributionName: "Castleofmagicaldreams2020"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Castle_of_Magical_Dreams.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Hong Kong"
   - "Hong Kong Disneyland"

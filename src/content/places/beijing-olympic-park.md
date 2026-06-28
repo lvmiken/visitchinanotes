@@ -91,6 +91,10 @@ That is often when the visual payoff is strongest and the visit feels more like 
 
 If the trip needs better evening logic overall, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the better next page.
 
+If the real issue still is not `Olympic Park itself` but whether this is the right modern detour versus `CBD`, `798`, or `Shougang`, the broader chooser is [How to Choose One Modern Beijing Detour: CBD, Olympic Park, 798, or Shougang?](/guides/how-to-choose-one-modern-beijing-detour-cbd-olympic-park-798-or-shougang/).
+
+If the park already is likely and the live question has narrowed down to which icon should carry the stop, the sharper execution page is [Bird's Nest or Water Cube? How to Use Beijing's Olympic Park Well](/guides/birds-nest-or-water-cube-how-to-use-beijings-olympic-park-well/).
+
 ## How much time does it usually need?
 
 For many first-time visitors, Beijing Olympic Park works with:
@@ -136,5 +140,7 @@ It is often a weaker fit for:
 ## Which page to read next
 
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if Olympic Park is really an evening-decision question
+- read [Bird's Nest or Water Cube? How to Use Beijing's Olympic Park Well](/guides/birds-nest-or-water-cube-how-to-use-beijings-olympic-park-well/) if the stop already is likely and the real question now is which building should do the heavy lifting
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if the trip is deciding which broader family-friendly landmark blocks belong in the city
+- read [Shougang Park in Beijing: The Industrial-Cool Detour That Shows a Different City](/places/shougang-park/) if the trip wants a rougher, more industrial, more distinctive modern-Beijing contrast instead of the easier stadium-led version
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the wider route still needs stronger priorities

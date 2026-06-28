@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "shenzhen-3-day-itinerary"
   - "what-to-do-in-shenzhen-at-night-for-first-time-visitors"
   - "where-to-stay-in-shenzhen-for-first-time-visitors"
+heroImage: "/images/heroes/shenzhen-skyline.jpg"
+heroImageAlt: "Sunset skyline view over Shenzhen Bay and the Nanshan side of the city."
+heroImageAttributionName: "Wishds"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shenzhen_Skyline.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Shenzhen"
   - "Shenzhen Bay"

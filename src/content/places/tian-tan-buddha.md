@@ -29,6 +29,11 @@ tags:
   - "Hong Kong"
   - "Tian Tan Buddha"
   - "Lantau"
+heroImage: "/images/heroes/hong-kong-tian-tan-buddha.jpg"
+heroImageAlt: "The Tian Tan Buddha above the main stairway on Lantau Island under a bright blue sky."
+heroImageAttributionName: "Tessa Bury"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Tian_Tan_Buddha_Front_View.jpg"
+heroImageLicense: "CC BY 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is Tian Tan Buddha worth visiting on a first Hong Kong trip?"

@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-shanghai-for-first-time-visitors"
   - "best-shanghai-observation-deck-for-first-time-visitors"
   - "shanghai-tower-or-oriental-pearl-for-first-time-visitors"
+heroImage: "/images/heroes/shanghai-oriental-pearl.jpg"
+heroImageAlt: "Oriental Pearl Tower glowing over the Huangpu River and the Shanghai skyline at night."
+heroImageAttributionName: "Calvin Ge"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Oriental_Pearl_(22576716952).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Shanghai"
   - "Oriental Pearl Tower"

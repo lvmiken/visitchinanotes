@@ -23,6 +23,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "zhangjiajie-first-time-park-planning"
   - "zhangjiajie-how-many-days"
+heroImage: "/images/heroes/zhangjiajie-tianmen-mountain.jpg"
+heroImageAlt: "Winding mountain road on Tianmen Mountain in Zhangjiajie surrounded by vivid green cliffs."
+heroImageAttributionName: "王计"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Winding_road,_Tianmen_Mountain.jpg"
+heroImageLicense: "CC BY 2.5"
 tags:
   - "Zhangjiajie"
   - "Tianmen Mountain"

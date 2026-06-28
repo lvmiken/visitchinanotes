@@ -30,6 +30,11 @@ tags:
   - "Hong Kong"
   - "Star Ferry"
   - "Victoria Harbour"
+heroImage: "/images/heroes/hong-kong-star-ferry.jpg"
+heroImageAlt: "A Star Ferry crossing Victoria Harbour with Hong Kong's skyline in the background."
+heroImageAttributionName: "Alexkom000"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024-12-27_A_Star_Ferry_crosses_Victoria_Harbour_1.jpg"
+heroImageLicense: "CC BY 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is the Star Ferry worth it on a first trip to Hong Kong?"

@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
+heroImage: "/images/heroes/xian-city-wall.jpg"
+heroImageAlt: "A Xi'an City Wall gate tower rising above the old fortifications with the modern city skyline behind it."
+heroImageAttributionName: "edward stojakovic"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xi%27an_City_Wall_(11523944773).jpg"
+heroImageLicense: "CC BY 2.0"
 tags:
   - "Xi'an"
   - "City Wall"

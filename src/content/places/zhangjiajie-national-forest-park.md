@@ -23,6 +23,11 @@ relatedTopicSlugs:
 relatedGuideSlugs:
   - "zhangjiajie-first-time-park-planning"
   - "zhangjiajie-how-many-days"
+heroImage: "/images/heroes/zhangjiajie-mountains.jpg"
+heroImageAlt: "Misty sandstone peaks rising through the forest in Zhangjiajie."
+heroImageAttributionName: "chensiyuan"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Zhangjiajie"
   - "National forest park"

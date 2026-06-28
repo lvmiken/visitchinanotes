@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-eat-in-macau-for-first-time-visitors"
   - "where-to-eat-in-taipa-village-for-first-time-visitors"
   - "where-to-stay-in-macau-for-first-time-visitors"
+heroImage: "/images/heroes/macau-taipa-village.jpg"
+heroImageAlt: "A busy Taipa Village street in Macau glowing with shop signs and evening food-street energy."
+heroImageAttributionName: "travel oriented"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Macau_Taipa_Village_-_Rua_do_Cunha_(12354319294).jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Macau"
   - "Taipa Village"

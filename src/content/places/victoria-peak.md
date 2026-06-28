@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "hong-kong-3-day-itinerary"
   - "what-to-do-in-hong-kong-at-night"
   - "hong-kong-where-to-stay"
+heroImage: "/images/heroes/hong-kong-victoria-peak.jpg"
+heroImageAlt: "Panoramic daytime view from Victoria Peak over Hong Kong's skyline, Victoria Harbour, and green hillside foreground."
+heroImageAttributionName: "Dennis Tang"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:View_of_Hong_Kong_from_Victoria_Peak.jpg"
+heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Hong Kong"
   - "Victoria Peak"

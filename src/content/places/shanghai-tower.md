@@ -31,6 +31,11 @@ tags:
   - "Shanghai"
   - "Shanghai Tower"
   - "Skyline"
+heroImage: "/images/heroes/shanghai-tower-skyline.jpg"
+heroImageAlt: "Shanghai Tower rising over the Pudong skyline and Huangpu River at dusk."
+heroImageAttributionName: "Wilson Hui from Calgary, Canada"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shanghai_Skyline_from_the_Bund.jpg"
+heroImageLicense: "CC BY 2.0"
 author: "Editorial Team"
 faq:
   - question: "Is Shanghai Tower worth visiting in Shanghai?"

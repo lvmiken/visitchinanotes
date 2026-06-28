@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "guangzhou-3-day-itinerary"
   - "guangzhou-where-to-stay"
   - "where-to-eat-in-guangzhou-for-first-time-visitors"
+heroImage: "/images/heroes/guangzhou-canton-tower-night.jpg"
+heroImageAlt: "Canton Tower lit in rainbow colors above the Pearl River skyline in Guangzhou at night."
+heroImageAttributionName: "Daniel Lu"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Canton_Tower_at_night_Guangzhou_2024_dllu.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Guangzhou"
   - "Canton Tower"

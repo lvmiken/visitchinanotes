@@ -31,6 +31,11 @@ tags:
   - "Guangzhou"
   - "Pearl River"
   - "Night cruise"
+heroImage: "/images/heroes/guangzhou-pearl-river-night-cruise.jpg"
+heroImageAlt: "A brightly lit Pearl River sightseeing boat reflecting on the water at night in Guangzhou."
+heroImageAttributionName: "TONY LU"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pearl_River_Sightseeing_Boat_(Hua_Cheng).jpg"
+heroImageLicense: "CC BY-SA 4.0"
 author: "Editorial Team"
 faq:
   - question: "Is the Pearl River night cruise worth it for first-time visitors to Guangzhou?"

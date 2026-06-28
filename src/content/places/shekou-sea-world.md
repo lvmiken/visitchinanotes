@@ -27,6 +27,11 @@ relatedGuideSlugs:
   - "what-to-do-in-shenzhen-at-night-for-first-time-visitors"
   - "where-to-stay-in-shenzhen-for-first-time-visitors"
   - "where-to-eat-in-sea-world-for-first-time-visitors"
+heroImage: "/images/heroes/shenzhen-sea-world-ship.jpg"
+heroImageAlt: "The Minghua ship and surrounding Sea World plaza in Shekou, Shenzhen, seen from above on a clear day."
+heroImageAttributionName: "ChrisLo203"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Sea_World_in_Shekou_Shenzhen2021.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Shenzhen"
   - "Shekou Sea World"

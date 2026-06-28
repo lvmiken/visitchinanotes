@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "hangzhou-first-time-guide"
   - "hangzhou-day-trip-or-overnight"
   - "hangzhou-west-lake-planning"
+heroImage: "/images/heroes/hangzhou-lingyin-temple.jpg"
+heroImageAlt: "The main hall of Lingyin Temple in Hangzhou framed by tall trees and visitors in the foreground."
+heroImageAttributionName: "Armin Kuebelbeck"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Lingyin_temple_07b.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Hangzhou"
   - "Lingyin Temple"

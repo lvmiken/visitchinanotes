@@ -26,6 +26,11 @@ relatedGuideSlugs:
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "bell-tower-vs-south-gate-at-night-in-xian"
   - "bell-tower-vs-south-gate-where-to-stay-in-xian"
+heroImage: "/images/heroes/xian-south-gate.jpg"
+heroImageAlt: "Illuminated South Gate of Xi'an at night with bright light beams above the historic gate tower."
+heroImageAttributionName: "Dr. Mohammed Munshi"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:South_Gate_Barbican_Entrance_of_Xi%27an.jpg"
+heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Xi'an"
   - "South Gate"

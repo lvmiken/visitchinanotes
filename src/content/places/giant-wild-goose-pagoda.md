@@ -24,6 +24,11 @@ relatedGuideSlugs:
   - "xian-first-time-guide"
   - "best-things-to-do-in-xian-for-first-time-visitors"
   - "xian-2-day-itinerary"
+heroImage: "/images/heroes/xian-giant-wild-goose-pagoda.jpg"
+heroImageAlt: "Giant Wild Goose Pagoda in Xi'an lit by warm late-afternoon light against a clear sky."
+heroImageAttributionName: "Alex Kwok"
+heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Giant_Wild_Goose_Pagoda.jpg"
+heroImageLicense: "CC BY-SA 3.0"
 tags:
   - "Xi'an"
   - "Giant Wild Goose Pagoda"
