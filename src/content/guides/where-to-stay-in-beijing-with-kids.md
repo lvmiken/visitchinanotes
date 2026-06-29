@@ -70,6 +70,8 @@ With kids, the hotel area affects:
 
 That is why the family version of "where to stay" deserves its own answer.
 
+It also means station logic should be treated carefully. If the family is drifting toward one side of Beijing mainly because of `Beijing South` or `Beijing West`, make sure that really is a hotel problem and not the next rail-corridor problem in disguise.
+
 ## Best family bases in Beijing
 
 ## 1. Central Dongcheng is usually the safest default
@@ -253,3 +255,5 @@ If the base is chosen and the family already knows the stay should be four days,
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if hotel choice still depends on daily movement confidence
 - read [What to Book in Advance for Beijing With Kids](/guides/what-to-book-in-advance-for-beijing-with-kids/) if the base is mostly solved and you want the family booking order next
 - read [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/) if the hotel base is almost settled and you want to lock the rest of the trip in the right order
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the family hotel question still is really about supporting a later `Beijing South -> Shanghai Hongqiao` move
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the family hotel question still is really about supporting a later `Beijing West -> Xi'an North` move

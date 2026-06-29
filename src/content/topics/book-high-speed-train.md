@@ -108,6 +108,11 @@ Most first-time visitors do better when they think in route patterns instead of 
 Some common examples:
 
 - **Beijing to Xi'an** often works best when the train day is the main move, not a day with a full palace or museum block squeezed in first
+- **Beijing to Shanghai** is one of the clearest cases where the booking decision only becomes easy after you confirm whether the route should stay central-to-central by rail or shift toward airports instead
+- **Xi'an to Chengdu** often works best when Chengdu is genuinely meant to change the trip's mood rather than merely add one more famous city to the route
+- **Hong Kong West Kowloon to Guilin** often works best when `Guilin` is treated as the booking anchor and `Yangshuo` is treated separately as the softer scenic stay decision
+- **Hong Kong to Guangzhou** often works best when the trip really wants a fuller Cantonese city chapter rather than the lightest possible mainland extension
+- **Shanghai, Suzhou, and Hangzhou** often work best when the route decides clearly whether Suzhou stays a selective day-trip accent and whether Hangzhou gets the overnight that makes the branch feel restorative
 - **Shanghai to Hangzhou** often looks simple on paper, but it still works better once you know whether the stay is a day trip, overnight, or part of a wider rail chain
 - **Beijing into Shanxi** often looks easy once the rail is booked, but the real quality of the route still depends on whether the hotel bases and in-between architectural bridge stops already make sense
 - **Guangzhou within the Pearl River Delta** often depends more on station convenience and hotel location than on the headline train duration
@@ -187,4 +192,10 @@ For many first-time visitors, that is the real booking lesson.
 - read [China Bullet Train First Class or Second Class? What Tourists Actually Feel on the Day](/topics/china-bullet-train-first-class-or-second-class/) if the ticket is chosen and the real decision is the direct first-versus-second-class tradeoff
 - read [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/) if the ticket is chosen and the real anxiety is suitcase size, weight, or station-day friction
 - read [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/) if the train day itself still feels abstract
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the booking question is really about whether this exact flagship corridor should be rail or flight
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the booking question is really about Beijing West, Xi'an North, passport handling, and how to keep the Xi'an arrival day clean
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the booking question is really about whether this corridor earns a real train day and a real Chengdu chapter
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the booking question is really about West Kowloon clearance, Guilin gateway logic, and whether Yangshuo should be the softer first overnight
+- read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if the booking question is really about whether Hong Kong should hand off into a fuller Guangzhou city stay or a lighter alternative such as Shenzhen
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the booking question is really about whether this nearby-city branch should be one clean East China chain instead of two competing day trips
 - read [A First Shanxi Route That Actually Works: Pingyao, Yingxian, Hanging Temple, and Datong](/topics/first-shanxi-route-pingyao-yingxian-hanging-temple-datong/) if the ticketing question is really part of keeping a first Shanxi route coherent

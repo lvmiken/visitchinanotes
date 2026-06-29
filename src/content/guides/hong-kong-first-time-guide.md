@@ -62,6 +62,8 @@ If you already know the exact decision, the narrower page is usually better:
 - [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if Hong Kong already is in the route and the live question is how to turn the stay into a workable 3-day plan
 - [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if Hong Kong already is in the route and the live question is whether the evening should be skyline-led, cruise-led, bar-led, or market-led
 - [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the real issue is no longer whether Shenzhen belongs but how to cross into it cleanly
+- [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if the route already wants a fuller mainland city and the live question is whether the West Kowloon handoff still feels easy enough
+- [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the route wants Hong Kong to hand off directly into a scenic mainland chapter instead of another big city
 - [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the live question is whether Hong Kong should be the fuller stop or whether the route only needs Macau as a shorter contrast add-on
 - [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the live question is whether the route should lean standalone skyline city or mainland-modern extension
 - [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the live question is whether the second stop should be mainland-modern instead
@@ -122,6 +124,8 @@ If the live question is whether Hong Kong itself should win over Shenzhen, read 
 
 If the live question already is not `Hong Kong or Shenzhen` but `how do I actually cross into Shenzhen cleanly?`, go next to [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/).
 
+If the mainland branch already is leaning toward a fuller food city rather than the lightest possible border hop, the sharper rail handoff page is [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/). If the route instead wants Hong Kong to hand off directly into scenery, go to [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/).
+
 ## What most first-time visitors should prioritize
 
 The strongest first Hong Kong stay usually protects:
@@ -167,6 +171,8 @@ If the city role is clear and the real evening question becomes whether one loos
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if Hong Kong already is confirmed and the live question is whether the stay should be 2, 3, or 4 days
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if Hong Kong already is confirmed and the live question is where the base should be
 - read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the next live question is the mainland handoff
+- read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if the next live question is whether Hong Kong should hand off into a fuller mainland city by rail
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the next live question is whether Hong Kong should hand off into scenery instead of another urban stop
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if Hong Kong already is confirmed and the live question is how to protect the right meal types
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if Hong Kong already is confirmed and the live question is how the days should flow
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the broader city decision is basically settled and the live question is how evenings should actually work

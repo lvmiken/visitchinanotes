@@ -214,6 +214,8 @@ Use this rough logic:
 
 Many Xi'an transport problems that look like app problems are really hotel-location problems.
 
+And many searches that look like `Xi'an North transport` are really named-corridor searches in disguise. If the live problem is `Beijing West -> Xi'an North`, step out to [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/). If the live problem is whether Xi'an should stay compact before a later westbound rail move, step out to [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) before trying to solve it only as an in-city transport question.
+
 ## What this looks like on real Xi'an days
 
 ### Old-city day
@@ -263,4 +265,6 @@ That is why [How to Get From Xi'an to the Terracotta Army and Plan a Realistic H
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the biggest transport uncertainty is still the excursion day
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if app-based rides are still the practical blocker
 - read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if the transport question still is tangled up with payment readiness
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the live transport stress really is the `Beijing West -> Xi'an North` station pair rather than Xi'an city movement by itself
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the live transport stress really is whether Xi'an should hand off west by train after this stop
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the bigger problem is still how the city days fit together

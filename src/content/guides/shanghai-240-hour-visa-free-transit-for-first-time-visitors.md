@@ -95,6 +95,8 @@ If your real goal is only Shanghai itself, keep it simple first.
 
 If your real goal is already a Shanghai-plus extension, verify the live rules before you assume a Hangzhou, Suzhou, or Nanjing branch belongs inside the transit framework.
 
+If the stopover idea already is turning into a normal East China rail branch rather than one contained transit stay, the clearer route page is [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/). That is usually the better next read once the real question is route shape, not stopover legality.
+
 ## Why Shanghai is better than Beijing for some stopovers
 
 Shanghai is usually the better answer when:
@@ -141,3 +143,4 @@ You do not need to overcomplicate it beyond that.
 - read [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) if airport logic is still the part holding the plan back
 - read [How to Plan a Wukang Road and French Concession City Walk in Shanghai for First-Time Visitors](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) if the city-walk layer is what will make the stop memorable
 - read [Yu Garden, City God Temple, or French Concession: What Fits Your First Shanghai Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/) if the short stay still needs one more clear decision between old-core and concession-side Shanghai
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the stopover already is drifting into a normal Shanghai-plus-East-China trip and the real question is route shape rather than transit logic

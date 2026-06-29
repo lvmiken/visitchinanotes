@@ -1,6 +1,6 @@
 # Project Handoff
 
-Last updated: 2026-06-24
+Last updated: 2026-06-29
 
 ## 0. Quick Start For The Next Thread
 
@@ -47,10 +47,19 @@ Default workflow:
 Current local repo state at the moment this handoff was updated:
 
 - branch: `main`
-- latest pushed commit: `e227d38`
-- local uncommitted change: `PROJECT_HANDOFF.md`
+- latest pushed commit: `528f1ee` (`Expand editorial travel hubs and strengthen SEO linking`)
+- working tree was clean before this handoff update
+- after saving this handoff file, the expected local change is `PROJECT_HANDOFF.md` unless a later thread edits more files
 
-That means the code/content state is already pushed, and this handoff update itself is the only expected local change unless later work adds more.
+Current scale snapshot after the latest pushed batch:
+
+- destination hubs: `18`
+- guides: `544`
+- topics: `93`
+- places: `185`
+- latest successful local build: `859` HTML pages indexed by Pagefind
+
+That means the content state is already pushed to `main`, and this handoff update is the only expected local delta unless later work adds more edits.
 
 ## 1. Project Purpose
 
@@ -111,7 +120,9 @@ Key packages:
 
 - `astro`
 - `@astrojs/mdx`
+- `@astrojs/rss`
 - `@astrojs/sitemap`
+- `pagefind`
 - `zod`
 
 ## 5. Site Architecture
@@ -946,87 +957,122 @@ That is the main writing pattern to copy to other cities.
 
 ## 13. Current Build Behavior
 
-`npm run build` currently passes, but the repo has recurring Astro content warnings about duplicate ids.
+`npm run build` currently passes.
 
-Important context:
+Latest confirmed build state on `2026-06-29`:
 
-- these warnings have appeared across existing content and are not necessarily caused by the current thread's edits
-- they should not be ignored forever, but they are not the same thing as a broken production build
-- when changing content structure, run `npm run build` and confirm:
-  - the build still completes
-  - the expected routes still generate
-  - no new fatal errors were introduced
+- Astro build completed successfully
+- `859` pages were built
+- Pagefind indexed `859` pages
+- `sitemap-index.xml` was generated
+- `rss.xml` was generated
 
-Do not "fix" the warning situation casually by deleting content or renaming URLs without checking for SEO consequences first.
+Latest non-fatal build note:
+
+- `"/google51b67721ad70b186.html" has no <html> element`
+
+That warning is tied to the Google verification file and is not the same thing as a content-structure failure.
+
+Important duplicate-id context:
+
+- duplicate-id warnings did appear in earlier threads
+- they were previously confirmed to be cache-related in at least some cases
+- before treating a duplicate-id warning as a real source-content conflict, clear the generated Astro cache and rebuild
+- do not rename URLs, merge pages, or delete files casually just because an uncleared cache made the warning look worse than it is
+
+When changing content structure, run `npm run build` and confirm:
+
+- the build still completes
+- the expected routes still generate
+- Pagefind still indexes the expected page count range
+- no new fatal errors were introduced
 
 ## 14. Recommended Next Priorities
 
 If another thread continues this work, the most useful next steps are:
 
-1. Finish the most natural South China follow-up pages
-   - `star-ferry`
-   - `ruins-of-st-pauls`
-   - after that, consider one more Hong Kong or Macau supporting place only if it clearly answers a real first-time-visitor decision
+1. Strengthen the newest trend-driven clusters before opening too many more regions
+   - `Hainan`
+   - `Wuhan`
+   - `Shanxi`
+   - `Yunnan highlands`
+   - these now exist at topic level, but some still need more route-execution and place-support depth
 
-2. Keep strengthening search-intent-first city clusters instead of adding many new cities
-   - strongest next content targets after South China:
+2. Keep deepening the already-strong flagship cities with direct search-intent execution pages
+   - strongest continuing targets:
      - `Shanghai`
-     - `Xi'an`
-     - `Chengdu`
+     - `Beijing`
      - `Chongqing`
+     - `Xi'an`
+     - `Guilin / Yangshuo`
+   - the best next pages are usually not broad overviews, but narrow decision pages that answer:
+     - how to do this well
+     - what to pair it with
+     - what to skip
+     - whether the route actually fits in one day or one trip
 
-3. Use Beijing as the copyable template for what "complete enough" means
+3. Use Beijing and Shanghai as the quality bar for what "complete enough" means
    - city hub
    - first-time guide
    - where-to-stay
-   - itinerary
+   - itinerary support
    - airport-to-city where relevant
-   - 3 to 6 meaningful places
-   - practical planning support
-   - food / night / weather / family or niche support
+   - practical planning topics
+   - meaningful places
+   - child execution pages
+   - food / night / weather / family / niche support where the search intent is real
 
-4. Continue high-intent practical pages that can monetize later
-   - transport
-   - booking
-   - payment
-   - food-decision
-   - neighborhood-fit pages
+4. Keep building monetizable practical topics, but only when they solve real traveler friction
+   - visas and re-entry
+   - airport and rail execution
+   - luggage and booking rules
+   - payments and apps
+   - route realism
+   - food-decision pages
+   - district-fit pages
 
 5. Keep strengthening internal links inside existing clusters
    - especially:
      - city hub -> place
-     - place -> execution child
+     - city hub -> first-time guide / where-to-stay / itinerary
+     - place -> more specific execution child
+     - topic -> route or city hub
      - parent food/night pages -> district children
-     - route topics -> relevant city hubs
+     - comparison pages -> the narrower answer pages they are supposed to hand off to
 
-6. Finish Search Console hygiene if still incomplete
-   - verify ownership
-   - submit `https://visitchinanotes.com/sitemap-index.xml`
-   - request indexing for the strongest cluster pages, not everything at once
+6. Continue SEO hygiene as ongoing maintenance, not one-time cleanup
+   - check duplicate titles
+   - check broken internal markdown links
+   - avoid overly templated headlines
+   - keep title language differentiated enough that the site reads like an editorial product, not a content farm
+   - update `CONTENT_TODO.md` whenever a target page moves from idea to published page
 
-7. Keep analytics and deployment simple
+7. Keep analytics, sitemap, RSS, and deployment simple
    - GA4 is already installed
-   - do not duplicate tags
+   - sitemap is auto-generated
+   - RSS is auto-generated
    - Cloudflare Pages should keep auto-deploying from `main`
+   - do not duplicate tags or add heavy plugin complexity without a clear need
 
 ### Clean next-thread execution options
 
 If the next thread wants the safest immediate content move, pick one of these:
 
-1. South China completion
-   - add `star-ferry`
-   - add `ruins-of-st-pauls`
+1. Hainan continuation
+   - convert the newest Hainan topic cluster into a fuller planning system
+   - best follow-ups are execution pages around `Sanya`, `Haikou`, `Wanning`, or island logistics only when the intent is clean
 
-2. Shanghai strengthening
-   - improve or expand pages that better explain why Shanghai is compelling as China's biggest and most international city
-   - keep that framing tied to first-time-visitor decisions, not generic city praise
+2. Wuhan deepening
+   - Wuhan now has a hub and first editorial batch
+   - the safest next step is to add only the most obvious supporting place or route pages that strengthen breakfast, night, riverfront, and first-time-base logic
 
-3. Xi'an refinement
-   - add narrower adult decision pages such as `is-terracotta-army-worth-it-for-first-time-visitors`
-   - or deepen old-city / Beilin / museum support if the query intent is clean
+3. Shanghai / Beijing refinement
+   - keep improving the strongest flagship clusters with non-template search-intent pages
+   - especially pages where a narrower execution question now exists under a broader guide
 
-4. Chengdu continuation
-   - expand practical place and neighborhood support around panda, teahouse, food, and relaxed city rhythm decisions
+4. Guilin / Yangshuo / Yunnan continuation
+   - keep pairing scenic anchors with practical route-execution pages
+   - do not let scenic content drift into generic inspiration-only writing
 
 ## 15. Working Style and Product Expectations
 
@@ -1124,11 +1170,11 @@ If you are continuing from another thread, start here:
    - `/places/`
    - `robots.txt`
    - `sitemap-index.xml`
-3. Confirm Cloudflare production matches the latest push
+3. Confirm Cloudflare production matches commit `528f1ee` or whatever newer commit is on `main`
 4. Continue with either:
-   - SEO/analytics onboarding
-   - content cluster expansion
-   - lightweight lead-capture improvements
+   - SEO / internal-link maintenance
+   - content-cluster expansion
+   - route-execution or traveler-friction topics
 
 ## 20. What Another Thread Should Not Forget
 
@@ -1139,6 +1185,7 @@ These are the most important practical rules that have repeatedly mattered:
 - Do not update `updatedDate` unless the content changed in a meaningful way.
 - Do not casually change sitemap rules, indexing rules, or canonical logic.
 - Do not mass-publish overlapping thin pages.
+- Do not let titles collapse into one repeated template across a whole cluster.
 - Do not push after local work unless the user explicitly asks.
 - Always update `CONTENT_TODO.md` when publishing or re-scoping important target pages.
 - When in doubt, strengthen an existing cluster before opening a brand-new city.

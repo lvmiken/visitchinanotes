@@ -53,6 +53,8 @@ If the wider region still is not settled, keep [Guilin on a First Trip: What to 
 
 If the overnight already sounds likely and the remaining question is the best base, keep [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) open too.
 
+If the overnight question actually starts with `Hong Kong to Yangshuo by train`, pause one step. Many readers think they are deciding only whether Yangshuo deserves a night, when the real unresolved issue is whether the Hong Kong rail handoff should land in `Guilin` first or continue into a softer `Yangshuo` version. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/).
+
 ## The short answer
 
 For many first-time visitors, `Yangshuo overnight` is worth it when:
@@ -161,3 +163,4 @@ It improves the trip less when:
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both and now needs the cleaner tradeoff
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the overnight decision still depends on whether the whole region gets one day, two days, or three
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the overnight probably is happening and the broader town role still feels too abstract
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the overnight question really depends on whether the Hong Kong rail handoff should land in Guilin or continue toward Yangshuo

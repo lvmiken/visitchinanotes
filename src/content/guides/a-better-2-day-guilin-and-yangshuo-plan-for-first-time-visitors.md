@@ -44,6 +44,8 @@ Use this page if you are asking:
 - can the region still feel complete in a short version?
 - how much `Guilin city` should stay in the plan?
 
+If this `2-day` version is starting directly after Hong Kong by rail, solve that corridor shape first. The stronger route page is [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the real question still is how the mainland scenic chapter should begin.
+
 ## Day 1: Protect the real scenic answer, then let Yangshuo receive it
 
 For many first-time visitors, Day 1 should protect the region's strongest identity layer first.
@@ -94,4 +96,4 @@ That usually creates a better first memory than pretending both days should carr
 - read [Guilin or Yangshuo for the First Night: Which Base Makes the Region Easier?](/guides/guilin-or-yangshuo-for-the-first-night-which-base-makes-the-region-easier/) if the best overnight order still is unclear
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both the icon and the softer town version
 - read [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/) if Day 2 still feels too open
-
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the `2-day` chapter is supposed to start right after Hong Kong and the rail handoff still feels fuzzy

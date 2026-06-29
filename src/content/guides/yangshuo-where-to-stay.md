@@ -52,6 +52,8 @@ If the town itself still is not fully confirmed, start first with [Yangshuo on a
 
 If the broader regional hotel logic still is open, keep [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) open too.
 
+If this hotel choice actually starts with `Hong Kong to Yangshuo by train`, pause one step. Many readers search Yangshuo hotels first when the real unresolved question is whether the route should rail into `Guilin` and then sleep in `Yangshuo`, or protect a first night in Guilin instead. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) before forcing the hotel map to answer it.
+
 ## The short answer
 
 For many first-time visitors, the best Yangshuo hotel logic is:
@@ -113,6 +115,8 @@ Usually the better answer is:
 That is why central Yangshuo and the `West Street` side usually beat a prettier but more awkward map pin.
 
 If the whole overnight itself still needs a yes-or-no answer, the stronger next page is [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/).
+
+If the one-night question specifically depends on whether Yangshuo should be the first sleep-there answer after a Hong Kong rail handoff through Guilin, the sharper route page is [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/).
 
 ## If Yangshuo is 2 nights, calm becomes more competitive
 
@@ -184,3 +188,4 @@ That is where a **quieter countryside-style base** becomes much more defensible.
 - read [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/) if the base choice mainly depends on how much the town center should carry the night
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the hotel choice still depends on whether the town deserves a sleep-there version at all
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the real planning tension still is icon versus atmosphere
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the hotel choice really depends on whether Yangshuo should be the first overnight after the Hong Kong-to-mainland rail handoff

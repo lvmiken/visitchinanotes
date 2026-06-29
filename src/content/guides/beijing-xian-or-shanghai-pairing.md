@@ -58,6 +58,8 @@ It is often the better answer when:
 - you are comfortable with a route where the second city is still purposeful rather than relaxing
 - you want the intercity move to serve a clear historical arc instead of a dramatic mood change
 
+If that pairing already is chosen and the remaining uncertainty is no longer `Xi'an or Shanghai?` but `how do I make the corridor itself work cleanly?`, go directly to [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/).
+
 ## Choose Shanghai if you want a cleaner contrast
 
 Beijing and Shanghai usually make the stronger pair if you want:
@@ -73,6 +75,8 @@ It is often the better answer when:
 - Beijing already gives you enough historical weight
 - you want the second city to feel easier to navigate and more flexible in pace
 - the route should end with a softer urban rhythm instead of another monument-led stop
+
+If that pairing already is chosen and the remaining uncertainty is no longer `Xi'an or Shanghai?` but `should this flagship move be train or flight?`, go directly to [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/).
 
 ## Do not decide only by fame
 
@@ -112,4 +116,6 @@ Once that answer is clear, the transport and booking steps become much easier.
 - read [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) if the route is chosen but rail still feels abstract
 - read [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/) if the mode for the intercity move is still unsettled
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if the pairing is confirmed and you are nearly ready to purchase
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the route already clearly wants the history-heavy pair and the live blocker is the rail corridor itself
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the route already clearly wants the contrast-led pair and the live blocker is whether the move should be train or flight
 - read [Should Beijing Be Your First Stop in China?](/guides/beijing-first-china-stop/) if the route is still not even fully committed to Beijing as the anchor

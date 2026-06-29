@@ -47,6 +47,8 @@ It is most useful if:
 
 If you are still deciding what role Guangzhou should play in the trip, keep [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) open too.
 
+If this airport arrival matters mainly because Guangzhou is the first mainland landing before or after Hong Kong, solve that rail handoff early too. [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) is the better next read once the real question is how `West Kowloon`, `Guangzhou South`, and the first mainland day should fit together.
+
 ## The short answer
 
 For most first-time visitors:
@@ -192,3 +194,4 @@ That is useful because it explains why ride-hailing can still be easy here, but 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still want the broader arrival-day logic
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if the hotel base itself is still unclear
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your real solution
+- read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if this Guangzhou arrival is really part of a Hong Kong-to-mainland rail handoff rather than a standalone city landing

@@ -78,6 +78,8 @@ If those pieces still feel loose, use:
 - [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/)
 - [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/)
 
+If this short Beijing stop is already being paired with another flagship city, settle that corridor logic early too. Use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Shanghai is the second act, or [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if this Beijing block is really the front half of a history-led route.
+
 If you want the places cluster to support this itinerary instead of pulling you into separate decisions, use the place pages in day order:
 
 - `Day 1 central-core anchors`: [Forbidden City](/places/forbidden-city/), [Qianmen](/places/qianmen/), [Wangfujing](/places/wangfujing/)
@@ -284,6 +286,8 @@ That is enough for Beijing to feel serious, memorable, and human.
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if this short version needs to work for children, grandparents, or lower-energy pacing
 - read [Beijing 3-Day Itinerary With Kids for First-Time Visitors](/guides/beijing-3-day-itinerary-with-kids/) if the short stay needs the family execution version
 - read [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/) if bookings are now the main risk
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Beijing is only the first half of a Beijing-and-Shanghai trip and the next real decision is how to make that corridor work
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if this short Beijing stay is really leading straight into Xi'an and you want the cleaner train-versus-arrival-day logic before you lock both stops
 - read [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) if you want the trip to feel richer without just adding more sightseeing
 - read [Where to Eat Breakfast Near the Forbidden City in Beijing](/guides/where-to-eat-breakfast-near-forbidden-city-in-beijing/) if the Day 1 morning start still is not settled
 - read [Where to Eat Lunch Near the Forbidden City for First-Time Visitors](/guides/where-to-eat-lunch-near-forbidden-city-in-beijing/) if the Day 1 middle-of-the-day meal still is not settled

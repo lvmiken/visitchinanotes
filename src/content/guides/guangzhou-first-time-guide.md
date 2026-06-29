@@ -50,6 +50,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the live question is whether one easy central food-and-shopping district should carry a real evening
 - [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/)
 - [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/)
+- [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if Guangzhou already looks likely and the real blocker is whether the Hong Kong rail handoff still feels easy enough for a first mainland stop
 
 ## The short answer
 
@@ -85,6 +86,8 @@ That decision shapes:
 - how much energy should go into sightseeing versus meals and neighborhoods
 
 If the route still has to choose between Hong Kong and Shenzhen as the second stop, read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) before you lock the order.
+
+If Hong Kong already is confirmed and the next practical question is whether Guangzhou works as the first mainland rail handoff rather than only as an abstract pairing, the more precise route page is [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/).
 
 ## What most first-time visitors should prioritize
 
@@ -152,4 +155,5 @@ If the city already is confirmed and the live question becomes how to use your o
 - read [A Better French-Era Walk in Guangzhou: Why Shamian Works Best With Liwan](/guides/a-better-french-era-walk-in-guangzhou-why-shamian-works-best-with-liwan/) if the city is confirmed and the live question is how to give the heritage side one stronger, more coherent half day
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the broader city decision is basically settled and the live question is how evenings should actually work
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if Guangzhou is already confirmed
+- read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if Guangzhou already is winning and the remaining question is whether the West Kowloon rail handoff is the right first mainland move
 - read [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/) if Guangzhou is competing with Shanghai and you want the route tradeoff spelled out more directly

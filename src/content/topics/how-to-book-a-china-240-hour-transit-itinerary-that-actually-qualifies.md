@@ -163,6 +163,8 @@ The better order is:
 3. choose the stopover region
 4. only then shape the city stay
 
+If you notice that your "stopover" idea already depends on normal domestic-style route logic inside China, step out of transit mode before you keep booking around the wrong frame. For example, `Beijing + Xi'an`, `Beijing + Shanghai`, `Xi'an + Chengdu`, or `Shanghai + Suzhou + Hangzhou` are usually better solved as normal route pages rather than as transit add-ons that you hope will somehow still fit.
+
 ## The strongest first-time stopover instinct
 
 If this is your first time trying to use the policy, choose the stopover that is:
@@ -187,3 +189,8 @@ That is often why `Shanghai` beats a more romantic but harder stopover idea.
 - read [Can You Re-Enter China Visa-Free After Visiting Hong Kong?](/topics/can-you-re-enter-china-visa-free-after-visiting-hong-kong/) if the route is drifting from transit logic into a broader mainland-plus-Hong-Kong re-entry question
 - read [Shanghai Stopover Guide: Using China's 240-Hour Visa-Free Transit Well](/guides/shanghai-240-hour-visa-free-transit-for-first-time-visitors/) if you want the easiest first-time stopover city
 - read [Beijing 240-Hour Transit Guide: Great Wall, Forbidden City, and a Stopover That Works](/guides/beijing-240-hour-visa-free-transit-for-first-time-visitors/) if Beijing is the likely stopover
+- read [Xi'an 240-Hour Transit Guide: Terracotta Army, Old City, and a Smarter Stopover](/guides/xian-240-hour-visa-free-transit-for-first-time-visitors/) if you want a more compact heritage-heavy stopover city
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the plan already is behaving more like a normal Beijing-to-Xi'an trip than a pure transit stop
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the plan already is behaving more like a normal Beijing-and-Shanghai route than a contained stopover
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the plan already is drifting from a stopover into a normal western China rail chain
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the plan already is drifting from a stopover into a normal East China rail branch

@@ -129,6 +129,8 @@ Choose `Haikou` if:
 - golf or a calmer city start matters
 - the island itself is one of the trip's main subjects
 
+If the Haikou branch is becoming specifically family-shaped rather than general route logic, the sharper page is [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/).
+
 If you want to know whether Haikou's most obvious old-city layer actually justifies keeping the city in the route, go next to [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/).
 
 ### Who may regret Haikou
@@ -241,6 +243,7 @@ Those two decisions should almost never be made separately.
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if the base is almost chosen and now the airport choice needs to support it
 - read [After a Hainan Visa-Free Entry, Can You Continue to Mainland China?](/topics/can-you-travel-to-mainland-china-from-hainan-on-a-hainan-visa-free-entry/) if entry logic could still change whether Hainan stays standalone or connects to a larger route
 - read [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/) if you are trying to decide whether Haikou's old-city layer really earns time
+- read [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) if Haikou is only staying alive in the route because you are planning around children
 - read [Riyue Bay in Wanning: What a First Surf Lesson Actually Feels Like](/topics/riyue-bay-in-wanning-what-a-first-surf-lesson-actually-feels-like/) if `Wanning` is winning because of surf rather than because it simply sounds cooler
 - read [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/) if `Sanya` is winning and the live question is whether one branded attraction day improves the route
 - read [Wuzhizhou Island Diving in Sanya: Worth the Boat Ride or Too Packaged?](/topics/wuzhizhou-island-diving-in-sanya-worth-the-boat-ride-or-too-packaged/) if `Sanya` is winning and the next decision is whether one marine day deserves real trip time

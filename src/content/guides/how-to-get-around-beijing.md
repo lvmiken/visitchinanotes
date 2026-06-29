@@ -144,6 +144,8 @@ Use this rough logic:
 
 Many transport problems that seem like app problems are really hotel-location problems.
 
+And many searches that look like `Beijing South transport` or `Beijing West transfer` are really corridor searches in disguise. If the live problem is whether `Beijing South -> Shanghai Hongqiao` should be train rather than flight, step out to [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/). If the live problem is whether `Beijing West -> Xi'an North` should shape the stop, step out to [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) before trying to solve it only as an in-city transport question.
+
 ## Metro or Didi by situation
 
 ### Use metro first if
@@ -193,4 +195,6 @@ That is why the best transport strategy is usually the one that protects the day
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if the route needs different transport choices because of children, naps, or mixed family energy
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if app-based rides are still the practical blocker
 - read [Rainy Day in Beijing for First-Time Visitors](/guides/rainy-day-in-beijing-for-first-time-visitors/) if weather is what just changed the transport answer
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the live transport stress really is the `Beijing South -> Shanghai Hongqiao` station pair rather than Beijing city movement by itself
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the live transport stress really is the `Beijing West -> Xi'an North` station pair rather than Beijing city movement by itself
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if the bigger problem is still how the city days fit together

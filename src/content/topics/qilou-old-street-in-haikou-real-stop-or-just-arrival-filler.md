@@ -54,6 +54,10 @@ If the bigger base decision is still unsettled, keep [Sanya, Haikou, or Wanning?
 
 If Haikou is already in the route and your next doubt is not old-street value but whether the city's better-known leisure side deserves time, keep [Mission Hills Haikou: Real Stop for Non-Golf Travelers or Easy to Skip?](/topics/mission-hills-haikou-real-stop-for-non-golf-travelers-or-easy-to-skip/) nearby too.
 
+If this Haikou decision is mainly being made around children rather than around adults-only route logic, keep [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) nearby too.
+
+If that children-shaped decision is really about whether `Qilou` itself gives enough payoff for a family stop, keep [Is Qilou Old Street in Haikou Worth It With Kids?](/topics/is-qilou-old-street-in-haikou-worth-it-with-kids/) nearby too.
+
 ## The short answer
 
 For many first-time visitors, `Qilou Old Street` is worth it when:
@@ -172,5 +176,7 @@ That is the simplest honest rule.
 
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if you still have not decided whether Haikou deserves a real base
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if Haikou is currently winning because of the arrival logic
+- read [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) if the city is still in the route mainly because the family version of north Hainan might help
+- read [Is Qilou Old Street in Haikou Worth It With Kids?](/topics/is-qilou-old-street-in-haikou-worth-it-with-kids/) if the broader Qilou question has narrowed to children, snacks, and arrival-evening value
 - read [Should You Split Hainan Between Sanya and Wanning or Keep One Base?](/topics/should-you-split-hainan-between-sanya-and-wanning-or-keep-one-base/) if the island is already getting too fragmented and you need to simplify the route
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the broader Hainan branch still is not fully justified

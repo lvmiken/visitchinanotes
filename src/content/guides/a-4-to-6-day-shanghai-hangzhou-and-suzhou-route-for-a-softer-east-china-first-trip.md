@@ -50,6 +50,8 @@ That sequence is more satisfying than trying to squeeze Suzhou in before the rou
 
 If the remaining uncertainty already is not the route mood but the rail execution, use [Best Order for Shanghai, Hangzhou, Suzhou, and Nanjing by Train](/guides/best-order-for-shanghai-hangzhou-suzhou-and-nanjing-by-train/) for the sequencing logic and [How to Travel Between Shanghai, Hangzhou, Suzhou, and Nanjing Without Letting Train Days Wreck the Trip](/guides/how-to-travel-between-shanghai-hangzhou-suzhou-and-nanjing-without-letting-train-days-wreck-the-trip/) for the station-day logic.
 
+If the route mood already is right and the live search sounds more like `can Shanghai, Suzhou, and Hangzhou really work cleanly by train?`, the narrower intent page is [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/).
+
 ## The 4-day version: only if you keep it disciplined
 
 Use this only when East China is one segment of a bigger China trip.
@@ -149,6 +151,7 @@ Cut `Hangzhou` first if:
 ## Which page to read next
 
 - read [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/) if the route still is not sure this is the right branch
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the branch already is chosen and the remaining question is whether the rail shape itself still is the right one
 - read [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/) if Hangzhou still is the unstable piece
 - read [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) if Suzhou still is the unstable piece
 - read [A 6- to 8-Day Shanghai + Hangzhou + Suzhou + Nanjing Route That Still Feels Edited](/guides/a-6-to-8-day-shanghai-hangzhou-suzhou-and-nanjing-route-that-still-feels-edited/) if the real answer is that Nanjing still belongs after all

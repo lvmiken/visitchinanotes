@@ -34,6 +34,8 @@ This is one of the most useful Guilin-region decisions because it changes not ju
 
 This page was checked against current Guilin-region source material on **June 27, 2026**, including the current regional overview [About Guilin](https://visitguilin.org/travel-information/about-guilin/), the current regional structure page [Areas of Guilin](https://visitguilin.org/travel-information/about-guilin/areas-of-guilin/), current guidance around [West Street in Yangshuo](https://visitguilin.org/things-to-do/yangshuo-attractions/west-street/), and the current official Li River Scenic Area route material already used across this cluster. I am mainly using those sources to keep the base choice honest: Guilin functions as the gateway, while Yangshuo more often functions as the softer overnight mood.
 
+If this first-night question is really being created by a `Hong Kong -> Guilin` rail day, pause one step. Many readers think they are solving a hotel-order problem when the live issue is whether `West Kowloon`, `Guilin West`, and the first mainland night should point to `Guilin` or keep going toward `Yangshuo`. If that is the real blocker, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) first.
+
 ## The short answer
 
 Choose `Guilin` for the first night if:
@@ -84,4 +86,4 @@ That is usually better than romanticizing the map before the route itself is cle
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if Guilin is probably winning
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if Yangshuo is probably winning
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the first-night choice mainly depends on how the main scenic day is structured
-
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the first-night choice really depends on how a Hong Kong rail arrival should hand off into the region

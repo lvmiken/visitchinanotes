@@ -51,6 +51,8 @@ It is most useful if:
 
 If you are still solving the broader Beijing arrival philosophy, keep the parent page [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) open too.
 
+If Beijing already is only the first chapter of a fixed two-city route, solve that second move early too. Use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the route points toward Shanghai, or [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the route points toward Xi'an after arrival. For many readers, that is also the moment when `Beijing South` or `Beijing West` stops being a station search and becomes the real next route decision.
+
 ## The short answer
 
 For most first-time visitors:
@@ -185,3 +187,5 @@ Even a smooth transfer still counts as travel. Do not build the first day as if 
 - read [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) if you are still comparing arrival philosophy rather than this exact airport
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your answer
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if the hotel base itself is still unsettled
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the real next question after arrival is how `Beijing South` should hand off into Shanghai
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the real next question after arrival is how `Beijing West` should hand off into Xi'an

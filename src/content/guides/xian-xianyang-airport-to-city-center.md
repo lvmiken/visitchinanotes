@@ -53,6 +53,8 @@ If you are still solving the broader Xi'an trip shape rather than the airport tr
 
 If the real airport question is already tied to where you will stay, keep [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) open too, because Bell Tower, South Gate, and the wider old-city edge do not behave the same on arrival night.
 
+If Xi'an is not only the arrival city but the middle chapter of a rail route, solve that corridor question early too. Use [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if you are entering from Beijing, or [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the real route question is whether Chengdu should follow this arrival by rail.
+
 ## The short answer
 
 For most first-time visitors:
@@ -256,6 +258,8 @@ Many readers do well with:
 
 The **airport rail link** often gets stronger because the transport logic is more direct and less dependent on old-city last-mile movement.
 
+That does not automatically mean the hotel should move north. For many readers, `Xi'an North` appears in the search only because the route really is a `Beijing West -> Xi'an North` arrival or a later `Xi'an -> Chengdu` departure. If that is the live issue, solve the rail corridor first before letting one station name reshape the whole stop.
+
 ### If you are staying near Xiaozhai or the pagoda side
 
 The answer depends on how simple the transfer still is after rail.
@@ -291,5 +295,7 @@ Even a smooth Xi'an arrival still counts as real travel time. Do not build the f
 - read [Xi'an 240-Hour Transit Guide: Terracotta Army, Old City, and a Smarter Stopover](/guides/xian-240-hour-visa-free-transit-for-first-time-visitors/) if this arrival is part of a stopover-based Xi'an plan rather than a normal open-ended city stay
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if the airport transfer is solved and the next question is how you should move around the city during the rest of the stay
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the hotel base itself is still unsettled
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Xi'an is being entered from Beijing and the next live question is how that train arrival should shape the stop
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the next live question is whether Xi'an should continue into Chengdu by rail
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if the city stop is confirmed and you want the days in order
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your arrival answer

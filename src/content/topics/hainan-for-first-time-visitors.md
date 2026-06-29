@@ -64,6 +64,11 @@ If your Hainan search has already shifted from route shape into activity executi
 - [Cycling Around Hainan: Full Island Loop or a Shorter Coastal Slice?](/topics/cycling-around-hainan-full-loop-or-a-shorter-coastal-slice/) for the island-cycling question
 - [Wuzhizhou Island Diving in Sanya: Worth the Boat Ride or Too Packaged?](/topics/wuzhizhou-island-diving-in-sanya-worth-the-boat-ride-or-too-packaged/) for the marine-day-in-Sanya question
 
+If your Hainan search is starting to move inland beyond the coast, the next two useful child pages are:
+
+- [Hainan Tropical Rainforest National Park: Is It Worth Leaving the Coast for?](/topics/hainan-tropical-rainforest-national-park-is-it-worth-leaving-the-coast-for/) for the broader `is inland Hainan actually worth it` question
+- [Can You Climb Wuzhishan in Hainan, or Is It Better as a Rainforest Day?](/topics/can-you-climb-wuzhishan-in-hainan-or-is-it-better-as-a-rainforest-day/) for the more specific `can I really do a mountain day in Hainan` question
+
 If your Hainan search is narrowing again into city-shape and route-editing questions, the next three useful pages are:
 
 - [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/) for the `Haikou is it just transit` question
@@ -76,11 +81,43 @@ If your Hainan search is turning into a narrower execution question around polic
 - [Hainan With Kids: When an Island Break Helps More Than Another City Stop](/topics/hainan-with-kids-when-an-island-break-helps-more-than-another-city-stop/) for the `does the island really help a family route` question
 - [Mission Hills Haikou: Real Stop for Non-Golf Travelers or Easy to Skip?](/topics/mission-hills-haikou-real-stop-for-non-golf-travelers-or-easy-to-skip/) for the `is Mission Hills a real stop if I am not here mainly for golf` question
 
+If your Hainan search has already narrowed one level deeper into the family version of Haikou leisure, the next useful child page is:
+
+- [Mission Hills Haikou With Kids: Worth It or Too Much Resort Time?](/topics/mission-hills-haikou-with-kids-worth-it-or-too-much-resort-time/) for the `is Mission Hills actually good with kids` question
+
+If your Hainan search is sitting one level above that and the real issue is whether `Haikou with kids` deserves time at all, the next useful child page is:
+
+- [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) for the `should we keep Haikou with kids or go straight south` question
+
 If your Hainan search is now behaving more like a direct competitor comparison or a narrower Sanya hotel-base decision, the next three useful pages are:
 
 - [Sanya or Phuket? Which Beach Trip Fits Better If China Is Still the Main Event](/topics/sanya-or-phuket-which-beach-trip-fits-better-if-china-is-still-the-main-event/) for the `Hainan or Thailand` comparison
 - [Sanya or Bali? Which Island Stop Makes More Sense When China Is the Main Trip](/topics/sanya-or-bali-which-island-stop-makes-more-sense-when-china-is-the-main-trip/) for the `Hainan or Bali` comparison
 - [Yalong Bay, Haitang Bay, or Dadonghai? Where to Base a First Sanya Stay](/topics/yalong-bay-haitang-bay-or-dadonghai-where-to-base-a-first-sanya-stay/) for the `which part of Sanya should I actually stay in` question
+
+If your Hainan search has narrowed all the way into flagship hotel comparison rather than bay choice, the next useful child page is:
+
+- [Sanya EDITION or Capella Tufu Bay: Which Hainan Luxury Stay Fits Better?](/topics/sanya-edition-or-capella-tufu-bay-which-hainan-luxury-stay-fits-better/) for the `which luxury splurge actually fits my route` question
+
+If your Hainan search is becoming family-specific around one branded resort, the next useful child page is:
+
+- [Should Families Stay at Atlantis Sanya, or Just Visit for a Day?](/topics/should-families-stay-at-atlantis-sanya-or-just-visit-for-a-day/) for the `is Atlantis the hotel or just the outing` question
+
+If your Hainan search is narrowing further into spend logic around one branded resort, the next useful child page is:
+
+- [Atlantis Sanya Ticket Prices: When a Day Pass Makes Sense and When Staying Is Better](/topics/atlantis-sanya-ticket-prices-when-a-day-pass-makes-sense-and-when-staying-is-better/) for the `should I buy tickets or just stay there` question
+
+If your Hainan search has already narrowed to one Atlantis day and now behaves like a direct attraction-ticket comparison, the next useful child page is:
+
+- [Aquaventure Waterpark or Lost Chambers Aquarium? Which Atlantis Sanya Ticket Fits Better](/topics/aquaventure-waterpark-or-lost-chambers-aquarium-which-atlantis-sanya-ticket-fits-better/) for the `waterpark or aquarium` question
+
+If your Hainan search has shifted one layer wider again and the real question is whether `Haitang Bay` works even without Atlantis as the hotel anchor, the next useful child page is:
+
+- [Is Haitang Bay Worth It If You Are Not Staying at Atlantis?](/topics/is-haitang-bay-worth-it-if-you-are-not-staying-at-atlantis/) for the `Haitang Bay without Atlantis` question
+
+If your Hainan search is no longer about whether duty-free exists but whether you can use it without letting retail logic hijack the island stop, the next useful child page is:
+
+- [Can You Do Hainan Duty-Free Shopping Without Warping the Trip?](/topics/can-you-do-hainan-duty-free-shopping-without-warping-the-trip/) for the `can I shop without rebuilding the whole route around it` question
 
 ## Who this page is for
 
@@ -249,6 +286,8 @@ But it is still best treated as:
 
 - a bonus to a stay you already wanted
 - not the entire reason to reroute a first China trip
+
+If that has already become the live question rather than a side note, the narrower child page is [Can You Do Hainan Duty-Free Shopping Without Warping the Trip?](/topics/can-you-do-hainan-duty-free-shopping-without-warping-the-trip/).
 
 ## When Hainan actually improves a first route
 

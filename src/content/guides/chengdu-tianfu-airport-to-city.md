@@ -47,6 +47,8 @@ It is most useful if:
 
 If you still are deciding whether Chengdu is even the right stop, keep [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) open too.
 
+If Chengdu is not only the arrival city but the softer second act after Xi'an, solve that corridor question early too. [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) is the better page if the real live question is whether this arrival should happen as part of a rail handoff rather than as a standalone flight arrival.
+
 ## The short answer
 
 For most first-time visitors:
@@ -187,4 +189,5 @@ Airport bus only is great when the stop pattern fits your actual hotel area. If 
 - read [Chengdu Stopover Guide Under China's 240-Hour Transit Policy: Pandas, Tea, and Pace](/guides/chengdu-240-hour-visa-free-transit-for-first-time-visitors/) if this arrival is being shaped by a stopover-based route rather than a normal city stay
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if arrival timing is shaping which Chengdu experiences should stay core and which should stay optional
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the main arrival decision is whether the panda base should happen on the first full day or later
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if Chengdu already is being paired with Xi'an and the next live question is how that rail handoff should shape the stop
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your real solution

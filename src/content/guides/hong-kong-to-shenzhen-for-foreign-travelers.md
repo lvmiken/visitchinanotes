@@ -63,6 +63,8 @@ If the broader city choice still is not settled, start with [Hong Kong or Shenzh
 
 If the route already says yes to Shenzhen and the next live question is hotel base instead of border choice, go next to [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/).
 
+If the live route question already is not `Which Shenzhen checkpoint?` but `Should I skip the lighter border hop and take West Kowloon rail into a fuller mainland city instead?`, the better page is [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/).
+
 ## The short answer
 
 For many first-time visitors, the cleanest `Hong Kong -> Shenzhen` logic is:
@@ -205,3 +207,4 @@ That is often where `Futian` starts beating more random-sounding crossings.
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if the real question is day trip versus overnight
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if Hong Kong still is the anchor and Shenzhen is only the extension
 - read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) if the wider South China route still is not locked
+- read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if the live choice is no longer about checkpoints but about whether Shenzhen should give way to a fuller first mainland rail stop

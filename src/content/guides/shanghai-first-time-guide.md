@@ -61,11 +61,13 @@ If you already know the exact decision, the narrower page is usually more helpfu
 - [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/)
 - [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/)
 - [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/)
+- [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Beijing already is the other major stop and the real question is whether this flagship route should be rail or flight
 - [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/) if the main Shanghai question already is turning into which east-China extension the route genuinely needs
 - [A 5- to 7-Day Shanghai + Suzhou + Nanjing Route That Actually Flows](/guides/a-5-to-7-day-shanghai-suzhou-and-nanjing-route-that-actually-flows/) if the route already knows it wants more than one nearby rail stop but needs the sequence to stay intelligent
 - [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/) if the real next decision is no longer whether to leave Shanghai but which very different east-China branch deserves the next night
 - [A 6- to 8-Day Shanghai + Hangzhou + Suzhou + Nanjing Route That Still Feels Edited](/guides/a-6-to-8-day-shanghai-hangzhou-suzhou-and-nanjing-route-that-still-feels-edited/) if the route is broad enough to hold the fuller east-China arc and now needs sequencing discipline
 - [A 4- to 6-Day Shanghai + Hangzhou + Suzhou Route for a Softer East-China First Trip](/guides/a-4-to-6-day-shanghai-hangzhou-and-suzhou-route-for-a-softer-east-china-first-trip/) if the route already knows it wants the gentler Hangzhou-Suzhou branch and now needs the days to stop bleeding together
+- [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the route already wants all three cities in play and the real uncertainty is whether the branch should stay one clean rail shape or collapse into two rushed day trips
 - [A 5- to 7-Day Shanghai + Hangzhou + Nanjing Route With a Better Finish](/guides/a-5-to-7-day-shanghai-hangzhou-and-nanjing-route-with-a-better-finish/) if the route already knows it wants scenic relief plus a stronger historical close
 - [One Week in East China: How to Build It Without Rushing Every City](/guides/one-week-in-east-china-how-to-build-it-without-rushing-every-city/) if the route is being searched at the one-week level rather than city-by-city
 - [Best Order for Shanghai, Hangzhou, Suzhou, and Nanjing by Train](/guides/best-order-for-shanghai-hangzhou-suzhou-and-nanjing-by-train/) if the city set already is mostly clear and the real blocker is sequence
@@ -102,6 +104,8 @@ Shanghai is usually less ideal if your top priority is imperial history, a giant
 
 If the real next decision is no longer `Is Shanghai right?` but `How far should the east-China route extend once Shanghai is in?`, use [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/) when the scenic branch still is on the table, [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/) when Hangzhou already is out and the real choice is refinement versus depth, [A 5- to 7-Day Shanghai + Suzhou + Nanjing Route That Actually Flows](/guides/a-5-to-7-day-shanghai-suzhou-and-nanjing-route-that-actually-flows/) when the tighter three-city version already looks right, and [A 6- to 8-Day Shanghai + Hangzhou + Suzhou + Nanjing Route That Still Feels Edited](/guides/a-6-to-8-day-shanghai-hangzhou-suzhou-and-nanjing-route-that-still-feels-edited/) when the fuller east-China arc really does belong.
 
+If the city set already sounds like `Shanghai + Suzhou + Hangzhou` and the real question is not which city but which rail shape avoids two fake-efficient day trips, the sharper route-intent page is [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/).
+
 ## Who Shanghai is best for
 
 Shanghai is especially strong for travelers who want:
@@ -120,6 +124,8 @@ It is often a better choice than Beijing when:
 - you want a faster learning curve with metro, payments, food, and everyday movement
 
 If the route is still deciding between the two strongest first-trip defaults, [Beijing or Shanghai for First-Time Visitors?](/topics/beijing-or-shanghai-for-first-time-visitors/) is the right direct comparison.
+
+If Beijing already is confirmed elsewhere in the route and the remaining question is no longer `Beijing or Shanghai?` but `train or flight between them?`, the sharper corridor page is [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/).
 
 ## When Shanghai works especially well
 
@@ -253,6 +259,8 @@ If the dates are already fixed and you mainly want to protect a short city stay 
 
 If the route already is moving beyond Shanghai and the real question is which nearby rail city deserves the next night, use [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/) for the broad east-China choice, then narrow into [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/) for the scenic version, [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) for the classical-gardens version, or [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/) for the stronger historical-city version.
 
+If those branches already are decided and the live blocker is whether `Shanghai + Suzhou + Hangzhou` should be one clean rail branch at all, go next to [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/).
+
 If the city already feels chosen and the next real risk is not "Should I go?" but "What should I protect before arrival?", the next page is [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/). That page is the practical bridge between choosing Shanghai and actually locking the few reservations that matter.
 
 ## Keep the route compact
@@ -295,6 +303,8 @@ The fix is usually not "add more attractions." It is "use the city for the kind 
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and the live question is which stops truly deserve prime time
 - read [Best Time to Visit Shanghai for First-Time Visitors](/guides/best-time-to-visit-shanghai-for-first-time-visitors/) if dates are still flexible and season choice may change how the stop should work
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the city is chosen and the next problem is protecting the right bookings without overplanning
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Shanghai already is paired with Beijing and the next live question is whether this move should happen by train or flight
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the route already wants the softer east-China trio and the next question is whether the branch should be one overnight shape or two rushed excursions
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the city is chosen and the next practical question is how to move around it without friction
 - read [Shanghai Stopover Guide: Using China's 240-Hour Visa-Free Transit Well](/guides/shanghai-240-hour-visa-free-transit-for-first-time-visitors/) if Shanghai looks right but the live question is whether a transit-based stop still gives the city enough room to feel real
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if the dates are already fixed and you want a weather-proof backup before arriving

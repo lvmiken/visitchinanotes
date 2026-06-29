@@ -71,6 +71,8 @@ This plan works much better if you settle three things first:
 
 If those pieces are still loose, use [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/), [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/), and [Mutianyu Great Wall for First-Time Visitors: Why It Is Often the Best Beijing Wall Day](/places/mutianyu-great-wall/) before you over-polish the route.
 
+If this fuller Beijing stay is already being paired with another major stop, solve that corridor choice early too. Use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Shanghai is the next city, or [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the route is really building toward Xi'an after Beijing.
+
 If you want the place pages to support this itinerary instead of competing with it, use them in the same order as the days:
 
 - `Day 1 anchors`: [Forbidden City](/places/forbidden-city/), [Jingshan Park](/places/jingshan-park/), [Zhongshan Park](/places/zhongshan-park/), [Qianmen](/places/qianmen/), [Wangfujing](/places/wangfujing/)
@@ -357,6 +359,8 @@ That is what this structure is trying to do.
 - read [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) if you are still testing whether this fuller version is the right length
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if hotel location is still preventing the day structure from settling
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if this route needs to work for children without losing the main Beijing payoffs
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Beijing now is clearly one half of a Beijing-and-Shanghai route and the live question is how to make the transfer work well
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if this four-day Beijing stay is meant to lead into Xi'an and you want the cleanest passport, station, and arrival-day expectations first
 - read [Best Parks in Beijing for First-Time Visitors](/guides/best-parks-in-beijing-for-first-time-visitors/) if your calmer day still needs a better park choice
 - read [Where to Eat After Jingshan Park in Beijing](/guides/where-to-eat-after-jingshan-park-in-beijing/) if a slower Jingshan-led evening still needs its district choice
 - read [How to Plan a Trip to China Without Overbuilding Your Itinerary](/topics/plan-your-trip/) if the wider route is still too dense, not just Beijing itself

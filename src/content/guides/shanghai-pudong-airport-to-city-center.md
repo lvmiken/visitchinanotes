@@ -47,6 +47,8 @@ It is most useful if:
 
 If you are still comparing Pudong with Hongqiao or just want the broad parent page, keep [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) open too.
 
+If the arrival plan already depends on moving across to `Hongqiao` for a later train or using Shanghai as the front door to a softer East China branch, solve that route shape early too. [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) is the better next read once the real question is the branch beyond Shanghai, not the airport ride by itself.
+
 ## The short answer
 
 For most first-time visitors:
@@ -212,3 +214,4 @@ Airport bus is only great when the route matches your destination well. If you s
 - read [Shanghai Maglev or Metro? The Smarter Pudong Airport Choice for First-Time Visitors](/guides/shanghai-maglev-or-metro-the-smarter-pudong-airport-choice-for-first-time-visitors/) if the whole arrival is already narrowing to the rail-versus-rail decision
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your answer
 - read [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) if the hotel base itself is still unsettled
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the real post-arrival question already is how Shanghai should hand off into East China by rail

@@ -58,6 +58,8 @@ If the city itself still is not fully confirmed, start with [Guilin on a First T
 
 If the region already is confirmed and the live question now is what the stop should actually do, keep [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) open too.
 
+If this length question is being created by a planned `Hong Kong -> Guilin` rail handoff, pause one step. Many readers think they are only choosing between `1 day`, `2 days`, or `3 days`, when the real issue is whether `West Kowloon`, `Guilin West`, and the first mainland night should stay gateway-led or push toward `Yangshuo`. If that is the live blocker, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) first.
+
 ## The short answer
 
 For many first-time visitors:
@@ -189,3 +191,4 @@ It is weaker when the third day exists only because the route has not narrowed y
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the remaining choice is the best base for the city-side nights
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the trip cannot fully protect both and you need the cleaner tradeoff
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the region already is likely and the next question is how much the town itself deserves
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the length choice really depends on how the Hong Kong rail handoff should open the scenic chapter

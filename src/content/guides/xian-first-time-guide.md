@@ -64,6 +64,8 @@ If you already know the exact planning question, go narrower:
 - [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/)
 - [Best Time to Visit Xi'an for First-Time Visitors](/guides/best-time-to-visit-xian-for-first-time-visitors/)
 - [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/)
+- [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Beijing already is the first city and the real blocker is how to make the Xi'an rail arrival behave well
+- [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if Xi'an already looks right and the next route question is whether Chengdu should become the softer second mood after it
 - [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/)
 - [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/)
 - [Is Xi'an Bell Tower Worth Visiting for First-Time Visitors?](/places/xian-bell-tower/)
@@ -149,6 +151,8 @@ If Xi'an already feels chosen and the real question has become what actually des
 
 For many first-time routes, Xi'an is also the city where the rail decision becomes especially practical. If you are pairing it with Beijing or Shanghai, start with [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) if you are still judging whether rail fits the route, then use [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) once the city sequence is stable. If the booking is ready and the only open question is whether second class is enough, [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) is the clean next step.
 
+If the route already clearly means `Beijing -> Xi'an` and the live problem is not rail in general but station pair, passport flow, and arrival-day discipline, go directly to [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/). If Xi'an already is happening and the next question is whether Chengdu should become the softer second act by train, go to [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/).
+
 Xi'an also gets better when you decide early what kind of city you want it to be:
 
 - a tight 2-day history stop
@@ -217,6 +221,8 @@ If the family shortlist already is mostly clear and the live question has become
 - read [A Smarter Terracotta Army Day From Xi'an: Transport, Pit 1, and What Not to Stack on Top](/guides/a-smarter-terracotta-army-day-from-xian-transport-pit-1-and-what-not-to-stack-on-top/) if the Terracotta Army already is likely but the bigger question is how to make the whole excursion day work
 - read [Best Museums in Xi'an for First-Time Visitors](/guides/best-museums-in-xian-for-first-time-visitors/) if the route is mostly set and the next live question is whether one museum deserves a place
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if Xi'an is chosen but the route still is undecided between the efficient version and the fuller version
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Xi'an already is paired with Beijing and the live blocker is how to make that rail corridor behave
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if Xi'an already is secure and the next route question is whether Chengdu should follow it by train
 - read [Huashan Plank Walk from Xi'an: How Extreme It Feels and Who Should Leave It Alone](/guides/huashan-plank-walk-from-xian-how-extreme-is-it-really/) if Xi'an already is secure and the live question is whether the mountain extension should happen at all
 - read [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/) if the reservation still is not secure
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the excursion day still feels loose

@@ -156,4 +156,5 @@ That gives a much more honest answer.
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if the real decision is your broader app stack rather than Apple Maps alone
 - read [How to Stay Connected in China: eSIM, SIM, and Internet Prep](/topics/esim-and-internet/) if your real blocker is data and connectivity rather than map choice
 - read [Do You Need a VPN in China? What Travelers Should Know](/topics/do-you-need-a-vpn-in-china/) if the bigger phone question is blocked apps rather than navigation itself
+- read [Does Google Maps Work in Sanya, or Should You Use Apple Maps and AMap Instead?](/topics/does-google-maps-work-in-sanya-or-should-you-use-apple-maps-and-amap-instead/) if the map anxiety has already narrowed into a Hainan-specific arrival-and-resort question
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if your real anxiety is not the map brand but the first arrival transfer

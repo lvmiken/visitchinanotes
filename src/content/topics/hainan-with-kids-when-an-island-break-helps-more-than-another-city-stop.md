@@ -124,6 +124,8 @@ If the family version of Hainan is already definitely happening and the base sti
 
 If the family already knows `Sanya` is the answer and the live question is which part of Sanya gives the best first stay, keep [Yalong Bay, Haitang Bay, or Dadonghai? Where to Base a First Sanya Stay](/topics/yalong-bay-haitang-bay-or-dadonghai-where-to-base-a-first-sanya-stay/) open too.
 
+If the family version of that stay has already narrowed to the two classic resort bays, the sharper child page is [Yalong Bay or Haitang Bay With Kids: Which Sanya Base Fits Better?](/topics/yalong-bay-or-haitang-bay-with-kids-which-sanya-base-fits-better/).
+
 ## When Haikou helps a family route
 
 `Haikou` can still help, but usually for a narrower kind of family trip:
@@ -134,6 +136,18 @@ If the family already knows `Sanya` is the answer and the live question is which
 - travelers who like the idea of one calmer urban stop rather than a pure resort stay
 
 For many short family trips, though, Haikou is better as a deliberate supporting layer than as the main family answer.
+
+If the family only has `3 to 4 days` on the island and the real question is whether Haikou should disappear entirely, the sharper short-trip page is [On a 3 to 4 Day Hainan Trip With Kids, Should You Keep Haikou or Skip It?](/topics/on-a-3-to-4-day-hainan-trip-with-kids-should-you-keep-haikou-or-skip-it/).
+
+If the broader question is `should we keep Haikou with kids at all`, read [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) next.
+
+If that broader question is already solved and the family is now down to one arrival-day decision, the sharper child page is [After Landing in Haikou With Kids, Should You Stay the Night or Go Straight to Sanya?](/topics/after-landing-in-haikou-with-kids-should-you-stay-the-night-or-go-straight-to-sanya/).
+
+If the family is keeping Haikou mainly for one lighter city-texture block rather than for Mission Hills, the sharper child page is [Is Qilou Old Street in Haikou Worth It With Kids?](/topics/is-qilou-old-street-in-haikou-worth-it-with-kids/).
+
+If the family is already down to `Qilou versus Mission Hills`, the sharper comparison page is [Qilou Old Street or Mission Hills Haikou With Kids: Which Stop Fits Better?](/topics/qilou-old-street-or-mission-hills-haikou-with-kids-which-stop-fits-better/).
+
+If that supporting layer is already narrowing into `Mission Hills with kids` rather than `Haikou in general`, the sharper child page is [Mission Hills Haikou With Kids: Worth It or Too Much Resort Time?](/topics/mission-hills-haikou-with-kids-worth-it-or-too-much-resort-time/).
 
 ## When Wanning helps a family route
 
@@ -170,6 +184,8 @@ That aligns with what usually works in real life too.
 - a polished weather-safe-ish anchor inside the Sanya chapter
 
 If that decision is already specific, the narrower page is [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/).
+
+If the family question has narrowed one step further to `should we actually stay there or just go once`, the sharper child page is [Should Families Stay at Atlantis Sanya, or Just Visit for a Day?](/topics/should-families-stay-at-atlantis-sanya-or-just-visit-for-a-day/).
 
 ## Where Atlantis does not need to dominate
 
@@ -227,5 +243,13 @@ That is what the island is best at.
 
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the bigger issue still is whether the island belongs at all
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the family already knows Hainan is happening and now needs the right base
+- read [Yalong Bay or Haitang Bay With Kids: Which Sanya Base Fits Better?](/topics/yalong-bay-or-haitang-bay-with-kids-which-sanya-base-fits-better/) if the island is already clearly Sanya-led and the real family hotel choice is now between the two classic resort bays
+- read [On a 3 to 4 Day Hainan Trip With Kids, Should You Keep Haikou or Skip It?](/topics/on-a-3-to-4-day-hainan-trip-with-kids-should-you-keep-haikou-or-skip-it/) if the family has very limited island time and needs the cleanest short-trip answer first
+- read [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) if the family keeps circling north Hainan but still has not decided whether Haikou deserves a real stop
+- read [After Landing in Haikou With Kids, Should You Stay the Night or Go Straight to Sanya?](/topics/after-landing-in-haikou-with-kids-should-you-stay-the-night-or-go-straight-to-sanya/) if the family is now down to one practical arrival-day choice after a Haikou landing
+- read [Qilou Old Street or Mission Hills Haikou With Kids: Which Stop Fits Better?](/topics/qilou-old-street-or-mission-hills-haikou-with-kids-which-stop-fits-better/) if the Haikou branch is now clearly a city-texture-versus-contained-leisure choice
+- read [Is Qilou Old Street in Haikou Worth It With Kids?](/topics/is-qilou-old-street-in-haikou-worth-it-with-kids/) if the family version of Haikou is really one snacks-and-walk arrival-evening question
+- read [Mission Hills Haikou With Kids: Worth It or Too Much Resort Time?](/topics/mission-hills-haikou-with-kids-worth-it-or-too-much-resort-time/) if Haikou is still in the family route mainly because Mission Hills sounds useful
 - read [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/) if the live family question is really one resort-entertainment day
+- read [Should Families Stay at Atlantis Sanya, or Just Visit for a Day?](/topics/should-families-stay-at-atlantis-sanya-or-just-visit-for-a-day/) if the real decision is whether Atlantis deserves the family hotel budget itself
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if airport choice will shape how easy the family version feels from day one

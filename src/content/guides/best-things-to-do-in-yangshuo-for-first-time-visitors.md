@@ -52,6 +52,8 @@ Use this page if you are asking:
 
 If the town itself still is not fully confirmed, start first with [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/).
 
+If this shortlist is starting with `Hong Kong to Yangshuo by train`, pause one step. Many readers jump straight to `what to do in Yangshuo` when the real unresolved problem still is whether the rail handoff should land in `Guilin` first or continue into a softer Yangshuo version. If that is the live issue, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) first.
+
 ## The short answer
 
 For many first-time visitors, the strongest Yangshuo mix is:
@@ -142,3 +144,4 @@ Often the best mix is:
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the right shortlist now depends on your overnight base
 - read [Yulong River or Xingping: Which Yangshuo Side Trip Deserves Your Better Weather Window?](/guides/yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window/) if only one scenic half day can win
 - read [A Better Yangshuo Cycling Half-Day: Scenic Enough to Matter, Short Enough to Fit](/guides/a-better-yangshuo-cycling-half-day-for-first-time-visitors/) if the shortlist now wants one active countryside branch rather than another passive stop
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the shortlist really depends on whether Yangshuo should be the first scenic overnight after the Hong Kong rail handoff

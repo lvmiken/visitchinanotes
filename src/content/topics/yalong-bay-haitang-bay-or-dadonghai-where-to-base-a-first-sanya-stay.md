@@ -105,6 +105,14 @@ Choose `Haitang Bay` if:
 
 If the live question is now really `Atlantis or a freer Sanya day`, the narrower next page is [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/).
 
+If the zone question has become even narrower and you are really asking `does Haitang still work if Atlantis is not the hotel`, the sharper child page is [Is Haitang Bay Worth It If You Are Not Staying at Atlantis?](/topics/is-haitang-bay-worth-it-if-you-are-not-staying-at-atlantis/).
+
+If the zone question is really being shaped by `duty-free shopping` rather than by one hotel, the sharper child page is [Can You Do Hainan Duty-Free Shopping Without Warping the Trip?](/topics/can-you-do-hainan-duty-free-shopping-without-warping-the-trip/).
+
+If the zone question has already narrowed beyond `Haitang Bay` itself and into one flagship hotel comparison, the sharper child page is [Sanya EDITION or Capella Tufu Bay: Which Hainan Luxury Stay Fits Better?](/topics/sanya-edition-or-capella-tufu-bay-which-hainan-luxury-stay-fits-better/).
+
+If the family version of `Haitang Bay` is really being shaped by one Atlantis decision, the sharper companion page is [Should Families Stay at Atlantis Sanya, or Just Visit for a Day?](/topics/should-families-stay-at-atlantis-sanya-or-just-visit-for-a-day/).
+
 ## Dadonghai: the livelier, more urban beach answer
 
 `Dadonghai` is usually the answer for travelers who do not want to disappear entirely into resort geography.
@@ -139,6 +147,8 @@ For many families:
 - `Haitang Bay` gets stronger when Atlantis or bigger family compounds matter
 - `Dadonghai` works better for families who dislike being too isolated
 
+If the family choice is already down to the two classic first-time contenders rather than all three zones, the sharper child page is [Yalong Bay or Haitang Bay With Kids: Which Sanya Base Fits Better?](/topics/yalong-bay-or-haitang-bay-with-kids-which-sanya-base-fits-better/).
+
 If the broader family version of Hainan is still the real question, pair this page with [Hainan With Kids: When an Island Break Helps More Than Another City Stop](/topics/hainan-with-kids-when-an-island-break-helps-more-than-another-city-stop/).
 
 ## Which area fits couples or softer adult trips best
@@ -159,5 +169,9 @@ For many couples or slower adult trips:
 ## Which page to read next
 
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the broader Hainan base still is not settled
+- read [Yalong Bay or Haitang Bay With Kids: Which Sanya Base Fits Better?](/topics/yalong-bay-or-haitang-bay-with-kids-which-sanya-base-fits-better/) if the real family hotel choice has already narrowed to the two classic resort bays
+- read [Is Haitang Bay Worth It If You Are Not Staying at Atlantis?](/topics/is-haitang-bay-worth-it-if-you-are-not-staying-at-atlantis/) if Haitang Bay still looks tempting but Atlantis is not the stay
+- read [Can You Do Hainan Duty-Free Shopping Without Warping the Trip?](/topics/can-you-do-hainan-duty-free-shopping-without-warping-the-trip/) if shopping is one reason Haitang keeps beating the other bays
 - read [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/) if the Haitang side of the stay is being shaped by Atlantis
+- read [Sanya EDITION or Capella Tufu Bay: Which Hainan Luxury Stay Fits Better?](/topics/sanya-edition-or-capella-tufu-bay-which-hainan-luxury-stay-fits-better/) if your choice has narrowed from bay to flagship luxury resort
 - read [Hainan With Kids: When an Island Break Helps More Than Another City Stop](/topics/hainan-with-kids-when-an-island-break-helps-more-than-another-city-stop/) if the beach-base decision is really a family pacing question

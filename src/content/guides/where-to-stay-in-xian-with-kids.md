@@ -186,6 +186,8 @@ It is usually weaker when:
 
 For many first-time families, old-city logic is still the stronger answer overall.
 
+If that station-side push really comes from a named rail corridor, solve that corridor directly before moving the whole family base. [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) is the better next read when the real anxiety is `Beijing West -> Xi'an North`, while [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) is better when the real anxiety is protecting one compact Xi'an stop before continuing west.
+
 ## Think about the Terracotta Army return before you book
 
 One of the best family hotel tests is simple:
@@ -257,6 +259,8 @@ If the family base is mostly clear and the next question is which Xi'an days are
 - read [Where to Eat in Xi'an With Kids for First-Time Visitors](/guides/where-to-eat-in-xian-with-kids/) if the base is mostly solved and the next live problem is which meal districts will be easiest with children
 - read [Where to Eat Around Bell Tower and South Gate in Xi'an With Kids](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian-with-kids/) if the family base already clearly points to the calmer old city and you now need the narrower dinner-area decision
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if the family route still has not decided how much time Xi'an deserves
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the family hotel anxiety still is really about a `Beijing West -> Xi'an North` train arrival
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the family hotel question still is really about whether Xi'an should stay compact before continuing to Chengdu
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the hotel base is mostly solved and the next live question is how to sequence the fuller family days
 - read [How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors](/guides/how-to-get-around-xian/) if hotel choice still depends on daily movement confidence
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the family hotel logic still is too controlled by the excursion day

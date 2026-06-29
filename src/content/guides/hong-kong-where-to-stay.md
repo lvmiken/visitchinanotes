@@ -62,6 +62,8 @@ If trip length is still the main blocker, go first to [How Many Days in Hong Kon
 
 If the hotel choice mainly depends on how much food and breakfast rhythm should shape the stay, keep [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) open too.
 
+If the hotel shortlist is quietly being distorted by a planned mainland rail exit, pause one step. Many readers think they need to sleep near `West Kowloon` because the next chapter is `Guilin` or `Yangshuo`, when the real problem is whether that rail handoff should shape the route at all. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) before forcing the hotel map to solve it.
+
 ## The short answer
 
 For many first-time visitors, the best default is a **central MTR-friendly base** in either:
@@ -197,6 +199,8 @@ A cheaper or larger hotel farther out can look attractive on a map.
 
 But in a short Hong Kong trip, that often costs more than it saves.
 
+`West Kowloon` is one of the easiest places to overvalue for this reason. Booking the whole Hong Kong stay around one departure morning usually weakens the city more than it helps, unless the trip has an unusually early train or an awkward late-night arrival before departure.
+
 Check:
 
 - whether the hotel is truly close to a useful MTR station
@@ -227,6 +231,7 @@ For most first-time visitors, those details matter more than getting a slightly 
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the case for a Kowloon-side base depends on one easier market-and-food evening
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if the base is nearly settled and you want the days to flow
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the base decision still depends on whether Hong Kong itself should be the stronger stop
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the hotel choice is really being driven by whether a scenic mainland rail handoff should start from Hong Kong
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if hotel choice may change because Macau is being added too
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the wider South China route still may lean mainland instead of stretching Hong Kong too far
 

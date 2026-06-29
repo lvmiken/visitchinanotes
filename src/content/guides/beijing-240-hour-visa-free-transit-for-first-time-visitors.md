@@ -45,6 +45,8 @@ If the live question still is whether the policy itself works, start with [China
 
 If the live question is not transit at all but whether Beijing deserves normal trip time, keep [Beijing for First-Time Visitors: How Many Days, What to Prioritize, and Where to Stay](/guides/beijing-first-time-guide/) open too.
 
+If the stopover idea already is drifting toward a normal two-city China trip instead of one contained transit stop, step out of transit mode early. Use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the real plan is becoming `Beijing + Shanghai`, or [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the real plan is becoming a Beijing-to-Xi'an history route.
+
 ## The short answer
 
 Yes, Beijing can be an excellent 240-hour transit city for first-time visitors.
@@ -158,4 +160,6 @@ In those cases, [Shanghai Stopover Guide: Using China's 240-Hour Visa-Free Trans
 - read [Beijing for First-Time Visitors: How Many Days, What to Prioritize, and Where to Stay](/guides/beijing-first-time-guide/) if you are choosing whether Beijing deserves a bigger role in the trip
 - read [How to Get From Beijing Capital Airport to the City Center](/guides/beijing-capital-airport-to-city-center/) if arrival logistics are the real blocker
 - read [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/) if the city is likely happening and the booking pressure now matters more than city choice
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the stopover idea already is growing into a normal Beijing-and-Shanghai trip rather than a pure transit stay
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the stopover idea already is growing into a normal Beijing-and-Xi'an route rather than a contained transit chapter
 - read [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/) if the stop is clearly happening and the next real question is which Wall day belongs in it

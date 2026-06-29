@@ -52,6 +52,10 @@ Use this page if you are asking:
 
 If the broader Haikou question still is whether the city deserves real time at all, keep [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/) open too.
 
+If the real route pressure is specifically family-shaped rather than general non-golf logic, keep [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) nearby too.
+
+If the live question is specifically family-shaped rather than general non-golf route logic, the narrower child page is [Mission Hills Haikou With Kids: Worth It or Too Much Resort Time?](/topics/mission-hills-haikou-with-kids-worth-it-or-too-much-resort-time/).
+
 ## The short answer
 
 Mission Hills is worth real time when:
@@ -168,6 +172,8 @@ If you still have not settled whether Haikou itself deserves to carry more of th
 ## Which page to read next
 
 - read [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/) if the real question is still what Haikou itself contributes
+- read [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) if Haikou is staying alive in the route mainly because of children or mixed-age pacing
+- read [Mission Hills Haikou With Kids: Worth It or Too Much Resort Time?](/topics/mission-hills-haikou-with-kids-worth-it-or-too-much-resort-time/) if the family version of the stop is the real decision
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the bigger island-base decision is still open
 - read [Hainan With Kids: When an Island Break Helps More Than Another City Stop](/topics/hainan-with-kids-when-an-island-break-helps-more-than-another-city-stop/) if family pacing is why Mission Hills keeps sounding attractive
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the broader route still is not stable enough for Haikou side branches

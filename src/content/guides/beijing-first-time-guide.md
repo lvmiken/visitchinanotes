@@ -52,6 +52,8 @@ If you already know the exact problem, the narrower page is usually better:
 - [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/)
 - [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/)
 - [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/)
+- [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Shanghai already is the second city and the real question is whether this flagship corridor should be rail or flight
+- [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Xi'an already is the second city and the real question is whether the rail day and station pair still feel clean enough
 
 ## The short answer
 
@@ -150,6 +152,8 @@ Before polishing the itinerary, confirm:
 Those details usually matter more than squeezing in one extra landmark.
 
 If Beijing is being paired with Xi'an or Shanghai, this is also the moment to settle the route shape before you obsess over train details. Start with [Beijing With Xi'an or Shanghai for First-Time Visitors: Which Pairing Is Better?](/guides/beijing-xian-or-shanghai-pairing/) if the second city still is not fully decided. After that, the transport decision usually starts with [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/), then narrows into [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) once the city order and hotel logic are stable. If the remaining question is only comfort, [China Train Classes Explained: Second Class vs First Class vs Business](/topics/china-train-classes-explained/) is the right late-stage read.
+
+If the pairing already is chosen and the real remaining uncertainty is the corridor itself rather than rail in the abstract, go directly to [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) for the flagship modern-contrast branch or [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) for the history-corridor branch.
 
 If the biggest sight question is how much weight to give the Palace Museum itself, read [Forbidden City for First-Time Visitors: What to Prioritize and How to Avoid a Bad Visit](/places/forbidden-city/) before you decide what the central Beijing day should carry.
 
@@ -264,6 +268,8 @@ If your trip is shorter than that, Beijing often needs more decisiveness than tr
 - read [Best Time to Visit Beijing for First-Time Visitors](/guides/best-time-to-visit-beijing-for-first-time-visitors/) if the dates are still flexible and season choice is shaping the whole stop
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if daily movement still feels bigger than it should
 - read [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/) if the next problem is reservations, not city choice
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Beijing is set and the next live question is whether Shanghai should connect by train or flight
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Beijing is set and the next live question is how to make the Xi'an rail handoff behave cleanly
 - read [How to Lock a Forbidden City Day Without Letting Tickets Break the Whole Beijing Plan](/guides/how-to-lock-a-forbidden-city-day-without-letting-tickets-break-the-whole-beijing-plan/) if the Palace Museum already matters and the next question is how to shape the whole day around it well
 - read [Beijing 240-Hour Transit Guide: Great Wall, Forbidden City, and a Stopover That Works](/guides/beijing-240-hour-visa-free-transit-for-first-time-visitors/) if the city itself looks right but the live question is whether a stopover-based entry gives Beijing enough room to work
 - read [Mutianyu or Badaling? Which Great Wall Route Fits a First Beijing Trip Better](/guides/mutianyu-or-badaling-which-great-wall-route-fits-a-first-beijing-trip-better/) if the Wall day is clearly happening but the section choice still is not

@@ -148,6 +148,8 @@ If the base is nearly chosen and the next live question is what should actually 
 
 If the bigger concern is not only what to book but whether the base will keep metro, taxi, and late returns easy in practice, [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) is the most useful companion page.
 
+The same goes for station logic. If you are feeling pulled toward one side of Shanghai mainly because of `Hongqiao`, make sure that really is a hotel problem and not a route problem. [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) is the better next page when the live issue is `Beijing South -> Shanghai Hongqiao`, while [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) is better when the live issue is how `Shanghai Hongqiao` should hand off into East China.
+
 ## What to watch out for
 
 - overchoosing Pudong because it looks impressive in photos
@@ -170,4 +172,6 @@ If the bigger concern is not only what to book but whether the base will keep me
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the base is mostly solved and you want the movement logic next
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if weather risk is making you value a more central, easier-to-rescue base
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) if airport timing is shaping the hotel decision
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the hotel question still is really about how to support a later `Beijing South -> Shanghai Hongqiao` move
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the hotel question still is really about how `Shanghai Hongqiao` should hand off into a softer East China branch
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if the base is nearly settled and you want the days to flow

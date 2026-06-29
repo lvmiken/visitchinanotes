@@ -203,6 +203,7 @@ That keeps the route honest.
 
 ## Which page to read next
 
+- read [Can Foreigners Rent a Scooter in Sanya or Wanning?](/topics/can-foreigners-rent-a-scooter-in-sanya-or-wanning/) if your Wanning surf plan still depends on improvised local scooter freedom
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the larger Hainan base decision is still not fully stable
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if Wanning is likely and you need the cleanest island arrival logic
 - read [Cycling Around Hainan: Full Island Loop or a Shorter Coastal Slice?](/topics/cycling-around-hainan-full-loop-or-a-shorter-coastal-slice/) if the island is becoming more active and movement-led rather than resort-led

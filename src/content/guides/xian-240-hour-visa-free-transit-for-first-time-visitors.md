@@ -35,6 +35,8 @@ That is a very workable stopover shape.
 
 This guide was checked against Shanghai's official [240-Hour Visa-Free Transit hub](https://english.shanghai.gov.cn/en-240HourVisaFreeTransit/index.html), the Shaanxi entry in Shanghai's official [Travel Across China series](https://english.shanghai.gov.cn/en-TravelAcrossChina/20250509/06fd7be281da4991980fbdce51d9fcde.html), and the current [National Immigration Administration English portal](https://en.nia.gov.cn/), checked on **June 27, 2026**.
 
+If the stopover idea already is drifting toward a normal multi-city China route, leave transit mode early. Use [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Xi'an really is the second act after Beijing, or [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the real plan is already becoming Xi'an plus Chengdu rather than one contained stopover.
+
 ## The short answer
 
 Yes, Xi'an can be a very strong 240-hour transit city.
@@ -129,3 +131,5 @@ Beijing is bigger and broader. Xi'an is more compact and more obedient to a shor
 - read [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/) if airport arrival is the real blocker
 - read [Terracotta Army Half Day From Xi'an: What Actually Works](/guides/terracotta-army-half-day-from-xian/) if the route likely is happening and the Terracotta Army block still needs structure
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the stop needs one stronger evening layer after the main history block
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Xi'an already is acting more like Beijing's second city than a pure transit stop
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the stopover idea already is drifting into a normal Xi'an-and-Chengdu route

@@ -227,6 +227,8 @@ Use this rough logic:
 
 Many Shanghai transport problems that look like app problems are really hotel-location problems.
 
+And many searches that look like `Hongqiao transfer` are really route searches in disguise. If the live problem is whether `Beijing South -> Shanghai Hongqiao` should be rail rather than flight, step out to [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/). If the live problem is whether `Shanghai Hongqiao` should become the handoff into Suzhou or Hangzhou, step out to [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) before trying to solve it only as an in-city transport question.
+
 ## What this looks like on real Shanghai days
 
 ### Skyline day
@@ -283,4 +285,6 @@ If the family version of Shanghai is the real question, keep [Shanghai With Kids
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if app-based rides are still the practical blocker
 - read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if the transport question still is tangled up with payment readiness
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if weather is likely to change your transport choices fast
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the live transport stress really is the `Beijing South -> Shanghai Hongqiao` station pair rather than Shanghai city movement by itself
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the live transport stress really is whether `Shanghai Hongqiao` should hand off into a softer East China branch
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if the bigger problem is still how the city days fit together

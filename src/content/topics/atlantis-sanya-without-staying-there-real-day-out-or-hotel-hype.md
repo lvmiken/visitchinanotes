@@ -58,6 +58,18 @@ If the broader Hainan logic still is not stable, start first with [Hainan for Fi
 
 If the live question is broader than Atlantis itself and the whole island may now be turning into a family-shaped route decision, pair this page with [Hainan With Kids: When an Island Break Helps More Than Another City Stop](/topics/hainan-with-kids-when-an-island-break-helps-more-than-another-city-stop/).
 
+If the live question is no longer `should I visit Atlantis` but `which luxury stay in this orbit actually fits better`, the sharper hotel-comparison page is [Sanya EDITION or Capella Tufu Bay: Which Hainan Luxury Stay Fits Better?](/topics/sanya-edition-or-capella-tufu-bay-which-hainan-luxury-stay-fits-better/).
+
+If the live question is specifically `do I need to stay there with kids or is one day enough`, the sharper family page is [Should Families Stay at Atlantis Sanya, or Just Visit for a Day?](/topics/should-families-stay-at-atlantis-sanya-or-just-visit-for-a-day/).
+
+If the live question is becoming more transactional around `ticket price versus hotel value`, the sharper child page is [Atlantis Sanya Ticket Prices: When a Day Pass Makes Sense and When Staying Is Better](/topics/atlantis-sanya-ticket-prices-when-a-day-pass-makes-sense-and-when-staying-is-better/).
+
+If you already know you are visiting Atlantis for the day and only need to choose `waterpark or aquarium`, the narrower ticket-comparison child page is [Aquaventure Waterpark or Lost Chambers Aquarium? Which Atlantis Sanya Ticket Fits Better](/topics/aquaventure-waterpark-or-lost-chambers-aquarium-which-atlantis-sanya-ticket-fits-better/).
+
+If you already know you are visiting Atlantis for the day with kids and the more exact question is whether the aquarium alone is enough for one half-day outing, the narrower child page is [If You Are Not Staying at Atlantis Sanya, Is the Aquarium Enough for a Half Day With Kids?](/topics/if-you-are-not-staying-at-atlantis-sanya-is-the-aquarium-enough-for-a-half-day-with-kids/).
+
+If the real question is turning out not to be `Atlantis or no Atlantis` but `Haitang Bay with or without Atlantis as the hotel anchor`, the sharper bay-level child page is [Is Haitang Bay Worth It If You Are Not Staying at Atlantis?](/topics/is-haitang-bay-worth-it-if-you-are-not-staying-at-atlantis/).
+
 ## The short answer
 
 For many first-time visitors, Atlantis is worth a non-stay visit when:
@@ -168,6 +180,9 @@ That is the most honest split.
 ## Which page to read next
 
 - read [Wuzhizhou Island Diving in Sanya: Worth the Boat Ride or Too Packaged?](/topics/wuzhizhou-island-diving-in-sanya-worth-the-boat-ride-or-too-packaged/) if the real Sanya comparison is structured resort day versus marine activity day
+- read [Aquaventure Waterpark or Lost Chambers Aquarium? Which Atlantis Sanya Ticket Fits Better](/topics/aquaventure-waterpark-or-lost-chambers-aquarium-which-atlantis-sanya-ticket-fits-better/) if Atlantis is happening and only the attraction choice is still fuzzy
+- read [If You Are Not Staying at Atlantis Sanya, Is the Aquarium Enough for a Half Day With Kids?](/topics/if-you-are-not-staying-at-atlantis-sanya-is-the-aquarium-enough-for-a-half-day-with-kids/) if the family is leaning toward the aquarium and only needs the day-visitor half-day answer
+- read [Is Haitang Bay Worth It If You Are Not Staying at Atlantis?](/topics/is-haitang-bay-worth-it-if-you-are-not-staying-at-atlantis/) if the bigger question is whether Haitang Bay still works without Atlantis as the hotel base
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if you still have not settled whether Sanya is even the right Hainan base
 - read [Should You Split Hainan Between Sanya and Wanning or Keep One Base?](/topics/should-you-split-hainan-between-sanya-and-wanning-or-keep-one-base/) if Atlantis is only one sign that the island route may be getting too fragmented
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the broader Hainan shape still is more unstable than any one Sanya day

@@ -137,6 +137,8 @@ Use:
 - [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/)
 - [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/)
 
+If Chengdu already is being paired specifically with Xi'an, go one level narrower before you book. [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) is the better page when the real booking stress is not trains in general but whether this history-to-panda handoff should be a protected rail move at all.
+
 ## Book these if they are real priorities
 
 ## 4. Any non-negotiable day trip
@@ -268,6 +270,7 @@ That order usually creates a better Chengdu trip than trying to reserve half the
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if the hotel base still is not fixed
 - read [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/) if one of the real booking questions depends on whether metro is enough or whether you should pay more to protect a panda morning, hotel return, or rail transfer
 - read [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/) if arrival-day logistics still are shaping the whole stay
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the main booking blocker now is whether Chengdu should begin with a rail arrival from Xi'an
 - read [How Many Days in Chengdu for First-Time Visitors](/guides/how-many-days-in-chengdu-for-first-time-visitors/) if the booking order still depends on whether Chengdu should stay compact or grow into a fuller stop
 - read [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) and [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the main remaining question is which food plans deserve commitment and which should stay loose
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to place these reservations into an actual day order

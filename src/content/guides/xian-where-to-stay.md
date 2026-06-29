@@ -144,6 +144,8 @@ The area can be practical for rail logistics, but it usually weakens:
 - easy old-city strolling
 - the compact feel that makes Xi'an such a good short stop
 
+If this station-side instinct is really coming from a named rail corridor rather than a hotel preference, solve that route first. [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) is the better next page when the real stress is `Beijing West -> Xi'an North`, while [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) is the better page when the real stress is whether Xi'an should hand off west by train instead of pulling the whole hotel base north.
+
 ## Best area by trip style
 
 ### If Xi'an is only 2 days
@@ -262,6 +264,8 @@ Xi'an usually gets better when the base supports:
 - read [Best Time to Visit Xi'an for First-Time Visitors](/guides/best-time-to-visit-xian-for-first-time-visitors/) if season choice may affect whether you want a more walkable old-city stay or a slightly softer trip shape
 - read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) if the number of nights is still not fully decided
 - read [What to Book in Advance for Xi'an: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-xian/) if the stay is almost chosen and you want to protect only the bookings that actually deserve commitment
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the hotel question still is really about whether a `Beijing West -> Xi'an North` arrival should reshape the stop
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the hotel question still is really about whether Xi'an should stay compact before a westbound train continuation
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the excursion still is controlling too much of the stay
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if the live question is how to turn the base into a better evening and meal rhythm
 - read [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) if the hotel area is nearly settled and you want the meal districts to match it

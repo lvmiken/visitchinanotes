@@ -58,6 +58,8 @@ If the city itself still is not fully confirmed, start one step up with [Guilin 
 
 If the next live question is really hotel logic rather than sightseeing logic, keep [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) open too.
 
+If this shortlist is starting right after `Hong Kong`, solve the rail handoff first. Many readers search `best things to do in Guilin` when the real unresolved issue still is how `West Kowloon`, `Guilin West`, and the first scenic overnight should flow. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) before overbuilding the activity list.
+
 ## The short answer
 
 For many first-time visitors, the strongest Guilin mix is:
@@ -216,3 +218,4 @@ If that fuller version sounds right, keep [How Long Should You Stay in Guilin on
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if atmosphere and town rhythm are becoming more important
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the real next decision is the best base for the regional stop
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if Yangshuo already is likely and the overnight base now matters
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the shortlist really depends on how the Hong Kong rail arrival should hand off into Guilin and Yangshuo

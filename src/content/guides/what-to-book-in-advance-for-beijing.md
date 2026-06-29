@@ -138,6 +138,8 @@ Use:
 - [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/)
 - [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/)
 
+If the onward move already is one of the classic first-trip corridors, go one level narrower before you book. Use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the real booking stress is train versus flight on this flagship pair, or [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the real booking stress is the Beijing West to Xi'an North handoff and how not to distort the Xi'an arrival day.
+
 ## Book these if they are non-negotiable
 
 ## 5. National Museum of China
@@ -236,4 +238,6 @@ That order is usually much healthier than prebooking half the city.
 - read [Tiananmen Square for Foreign Visitors: Reservation, Security Check, and Flag-Raising Reality](/guides/tiananmen-square-for-foreign-visitors-reservation-security-check-and-flag-raising-reality/) if the central-Beijing stress is more about access friction than about ticket quotas
 - read [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) if the hotel base still is not fixed
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if the booking question is really tied to how the city days move
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the main booking pressure now is the onward Beijing-to-Shanghai move rather than another attraction
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the main booking pressure now is the onward Beijing-to-Xi'an rail handoff and how it changes the next city's first day
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want to place these bookings into a real day order

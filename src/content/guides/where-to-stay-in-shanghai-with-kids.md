@@ -81,6 +81,8 @@ With kids, the hotel area affects:
 
 That is why the family version of "where to stay" deserves its own answer.
 
+It also means station logic should be treated carefully. If the family is drifting toward one side of Shanghai mainly because of `Hongqiao`, make sure that really is a hotel problem and not the next rail-corridor problem in disguise.
+
 ## Best family bases in Shanghai
 
 ## 1. Central Puxi is usually the safest default
@@ -292,3 +294,5 @@ If the family base is mostly clear and the next question is what should actually
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if hotel choice still depends on weather backup strength
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the base is almost solved and you want the easiest family evening logic next
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) if arrival logistics still are shaping the hotel decision
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the family hotel question still is really about supporting a later `Beijing South -> Shanghai Hongqiao` move
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the family hotel question still is really about whether `Shanghai Hongqiao` should hand off into a softer East China branch

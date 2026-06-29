@@ -45,6 +45,8 @@ This pairing works well if you want:
 
 It is the stronger pair if the trip should feel varied and if a border-crossing step is acceptable inside the wider route.
 
+If that pair already is chosen and the remaining uncertainty is no longer `Hong Kong or Shenzhen?` but `does the West Kowloon to Guangzhou rail day actually feel smooth enough to use first?`, go directly to [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/).
+
 ## Pair Guangzhou with Shenzhen if friction reduction matters most
 
 This pairing works well if you want:
@@ -54,6 +56,8 @@ This pairing works well if you want:
 - one city centered on food and older urban texture, and one centered on newer districts and efficiency
 
 For some travelers, Shenzhen is the more practical match because the route logic stays cleaner even if the contrast is less dramatic than with Hong Kong.
+
+If the Shenzhen branch already is winning and the abstract pairing question is basically over, the more useful next page is [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/). That is where the route stops being a city-choice problem and becomes a checkpoint, mainland-entry, and first-district problem.
 
 ## Do not build the route around every nearby city
 
@@ -76,3 +80,7 @@ Whichever pairing you choose, do not turn the transfer day into a full sightseei
 - one smaller evening plan instead of another dense itinerary block
 
 That single decision usually matters more than squeezing in one extra attraction.
+
+If the Hong Kong branch already is winning and you need the narrower station-day version instead of this broader route-shaping page, the better next read is [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/).
+
+If the Shenzhen branch already is winning and you need the narrower border-day version instead of this broader route-shaping page, the better next read is [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/).

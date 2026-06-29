@@ -35,6 +35,8 @@ The difference usually comes down to whether the stay has a clear job.
 
 This page was checked against current Guilin-region source material on **June 27, 2026**, including Visit Guilin's current pages for [West Street](https://visitguilin.org/things-to-do/yangshuo-attractions/west-street/), [Yulong River](https://visitguilin.org/things-to-do/yangshuo-attractions/yulong-river/), [Moon Hill](https://visitguilin.org/things-to-do/yangshuo-attractions/moon-hill/), and broader current Guilin-region planning material already used across this cluster. I am mainly using those sources to keep the length question honest: Yangshuo is usually strongest as a selective scenic town, not as an infinitely stretchable destination.
 
+If this length question starts with `Hong Kong to Yangshuo by train`, pause one step. Many readers think they are only deciding between `1 night` and `2 nights`, when the real unresolved problem is whether the Hong Kong rail handoff should land in `Guilin` first or continue toward a softer `Yangshuo` version. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/).
+
 ## The short answer
 
 For many first-time visitors:
@@ -100,4 +102,4 @@ The town is strongest when it has a clear role, not when it is simply enlarged.
 - read [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/) if the length question now depends on what you would actually do
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the right trip length now depends on the overnight style
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the only real live question is whether one night is enough
-
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the `1 night` versus `2 nights` choice really depends on the Hong Kong-to-mainland rail handoff

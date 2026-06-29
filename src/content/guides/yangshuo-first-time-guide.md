@@ -52,6 +52,7 @@ If the narrower decision already is obvious, the more focused page is usually be
 - [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/)
 - [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/)
 - [Rainy Day in Yangshuo for First-Time Visitors: What Still Works When the Karst Disappears?](/guides/rainy-day-in-yangshuo-for-first-time-visitors/)
+- [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the route already opens in Hong Kong and the live question is whether Yangshuo should be the softer overnight after the rail handoff
 - [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/)
 - [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/)
 - [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/)
@@ -147,6 +148,8 @@ Usually that means:
 
 If the broader region still feels unclear, keep [Guilin on a First Trip: What to Prioritize and What Not to Overbuild](/guides/guilin-first-time-guide/) open too.
 
+If the broader region is clear but the live route question is whether Hong Kong should hand off directly into Yangshuo's softer rhythm via Guilin rail logic, the better corridor page is [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/).
+
 ## One night is usually the sweet spot
 
 For many first-time visitors, the cleanest first Yangshuo version is:
@@ -177,5 +180,6 @@ If the season is still open and you want the town to feel more breathable than m
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the real decision now is whether the town deserves a sleep-there version instead of a pass-through
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the overnight likely is happening and the next question is the best base
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both and you need the cleaner tradeoff
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if Yangshuo already looks likely and the remaining question is whether this should be the Hong Kong-to-mainland scenic rail branch
 - read [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/) if the overnight likely is happening and the next question is how much the town center really deserves
 - read [Guilin on a First Trip: What to Prioritize and What Not to Overbuild](/guides/guilin-first-time-guide/) if the region still feels too broad and you have not yet settled the role of Guilin versus Yangshuo

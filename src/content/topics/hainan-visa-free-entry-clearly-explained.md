@@ -50,6 +50,8 @@ This page was checked against current official sources on **June 28, 2026**, inc
 
 If your real question has already narrowed to `can I keep going from Hainan into mainland China`, the sharper next page is [After a Hainan Visa-Free Entry, Can You Continue to Mainland China?](/topics/can-you-travel-to-mainland-china-from-hainan-on-a-hainan-visa-free-entry/).
 
+If the main anxiety is even narrower and sounds more like `do I still need a travel agency or sponsored group`, the cleaner child page is [Do You Need a Travel Agency for Hainan Visa-Free Entry?](/topics/do-you-need-a-travel-agency-for-hainan-visa-free-entry/).
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -201,6 +203,7 @@ That default keeps the route conservative in the right way.
 ## Which page to read next
 
 - read [After a Hainan Visa-Free Entry, Can You Continue to Mainland China?](/topics/can-you-travel-to-mainland-china-from-hainan-on-a-hainan-visa-free-entry/) if your real fear is a broken island-plus-mainland route
+- read [Do You Need a Travel Agency for Hainan Visa-Free Entry?](/topics/do-you-need-a-travel-agency-for-hainan-visa-free-entry/) if your real confusion is whether Hainan still requires tour-company sponsorship
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if the island is happening and the next practical question is the arrival port
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the broader issue still is whether Hainan belongs at all
 - read [China Visa Basics for Tourists: What to Check Before You Build the Route](/topics/china-visa-basics/) if your passport's broader China entry logic still is not pinned down

@@ -49,6 +49,8 @@ If you are still comparing Beijing's two airports more broadly, keep [Beijing Ai
 
 If you already know you are flying through `Daxing` and the live question is not transfer logic but whether the terminal itself deserves extra attention, the companion page is [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/).
 
+If Beijing already is only the first chapter of a wider route, solve that second move early too. Use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the route then turns toward Shanghai, or [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the route then turns toward Xi'an. Many readers hit this page while still mixing up `airport arrival`, `Caoqiao transfer`, and the later `Beijing South` or `Beijing West` rail move, so it is worth separating those decisions early.
+
 ## The short answer
 
 For most first-time visitors:
@@ -188,3 +190,5 @@ At Daxing, late-night bus options are a real part of the arrival toolkit, not ju
 - read [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/) if you already know you are using `Daxing` and want to decide whether the terminal itself deserves any emotional or architectural weight
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your answer
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if the hotel base itself is still unsettled
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the real next route question after arrival is how `Beijing South` should hand off into Shanghai
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the real next route question after arrival is how `Beijing West` should hand off into Xi'an

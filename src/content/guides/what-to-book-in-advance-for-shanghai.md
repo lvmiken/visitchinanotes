@@ -127,6 +127,8 @@ Use:
 - [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/)
 - [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/)
 
+If that onward move already is one of the classic route-intent searches, go one level narrower before you book. Use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the real booking stress is whether Shanghai should connect to Beijing by rail at all, or [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the real booking stress is whether the softer nearby-city branch should be one clean rail chain instead of two rushed side trips.
+
 ## Book these if they are real priorities
 
 ## 4. Must-have museum visits, special exhibitions, or performance tickets
@@ -226,4 +228,6 @@ That order usually creates a better Shanghai trip than trying to reserve half th
 - read [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) if the ticket question is already turning into a whole-day route decision
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place these reservations into an actual day order
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if the next fragile piece is the onward rail move
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the real booking blocker now is the Beijing-Shanghai corridor rather than the Shanghai stay itself
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the real booking blocker now is whether the East China branch should stay one graceful rail shape at all
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if the booking question is partly about what should stay movable in bad weather

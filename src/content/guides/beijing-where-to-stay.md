@@ -223,6 +223,8 @@ In a large city, a hotel that looks close on the map can still produce slow door
 
 For most first-time travelers, those details matter more than saving a few blocks on one attraction morning.
 
+The same goes for station logic. If you are feeling pulled toward one side of Beijing mainly because of `Beijing South` or `Beijing West`, make sure that really is a hotel problem and not a route problem. [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) is the better next page when the live issue is `Beijing South -> Shanghai Hongqiao`, while [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) is better when the live issue is `Beijing West -> Xi'an North`.
+
 ## What to watch out for
 
 - very outer districts that only look cheap, not convenient
@@ -238,4 +240,6 @@ For most first-time travelers, those details matter more than saving a few block
 - read [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) if arrival-day logistics are shaping the hotel choice
 - read [Sanlitun in Beijing: Is It Worth Visiting, Staying, or Going Out?](/places/sanlitun/) if your hotel decision is really about modern Beijing, dining comfort, or nightlife
 - read [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the real tradeoff is whether staying near Sanlitun will improve the evenings enough to justify the base
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the hotel question still is really about how to support a later `Beijing South -> Shanghai Hongqiao` move
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the hotel question still is really about how to support a later `Beijing West -> Xi'an North` move
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if the base is nearly settled and you want the sightseeing days to fit together

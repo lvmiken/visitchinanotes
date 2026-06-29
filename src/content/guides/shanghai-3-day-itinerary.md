@@ -68,6 +68,8 @@ If the route shape is mostly clear and the next practical problem is what should
 
 If the route shape looks fine on paper but the live worry is whether the city will actually move smoothly from hotel to skyline day to neighborhood day, keep [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) open too.
 
+If Shanghai is already the second act after Beijing rather than a standalone city stop, settle that corridor question before you overbuild the days. [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) is the better page if the real live question is not Shanghai itself, but whether this city pair should be connected by train.
+
 If you want the place pages to support this itinerary instead of pulling you into separate decisions, use them in day order:
 
 - `Day 1 skyline and central-core anchors`: [The Bund](/places/the-bund/), [Lujiazui Skyline](/places/lujiazui-skyline/), [Yu Garden](/places/yu-garden/)
@@ -263,5 +265,7 @@ That is enough for the city to feel stylish, useful, and memorable without becom
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the itinerary is mostly clear and the next real risk is weak booking order
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the itinerary is mostly clear and the next real question is how the city moves in practice
 - read [Rainy Day in Shanghai for First-Time Visitors](/guides/rainy-day-in-shanghai-for-first-time-visitors/) if your dates are fixed and you want a realistic bad-weather fallback before you travel
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Shanghai is already being paired with Beijing and the real decision now is whether the rail corridor improves the route enough to shape both city stays
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if this three-day Shanghai stop may spill into one softer East China branch instead of staying city-only
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) if arrival logistics are shaping day one
 - read [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/) if you are wondering whether a fourth or fifth day should stay in Shanghai or spill into Hangzhou

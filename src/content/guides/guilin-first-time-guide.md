@@ -60,6 +60,7 @@ If the decision already has narrowed, the more focused page is usually better:
 - [One Guilin City Half-Day Before Yangshuo: What Is Actually Worth Doing?](/guides/one-guilin-city-half-day-before-yangshuo-what-is-actually-worth-doing/)
 - [One Guilin Night: Two Rivers and Four Lakes or Just Save Energy for the Li River?](/guides/one-guilin-night-two-rivers-and-four-lakes-or-just-save-energy-for-the-li-river/)
 - [Elephant Trunk Hill or Reed Flute Cave: Which Guilin Half-Day Is Actually Better?](/guides/elephant-trunk-hill-or-reed-flute-cave-which-guilin-half-day-is-actually-better/)
+- [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the route already starts in Hong Kong and the real question is how to hand off into the karst region without an airport day
 - [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/)
 - [Elephant Trunk Hill in Guilin: Best as a short city symbol, not your whole scenic answer](/places/elephant-trunk-hill/)
 - [Reed Flute Cave in Guilin: When the indoor detour actually helps](/places/reed-flute-cave/)
@@ -86,6 +87,8 @@ It is usually less worth forcing when:
 - the route only has room for big headline cities
 - nobody in the group really cares about river-and-karst scenery
 - the plan treats Guilin like a dense attraction city instead of a selective landscape stop
+
+If the route likely is opening in Hong Kong and the live planning question is whether Guilin can be the clean first mainland scenery handoff by rail, the sharper corridor page is [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/).
 
 ## The real first decision is Guilin alone or Guilin plus Yangshuo
 
@@ -175,6 +178,7 @@ If the route can protect only one major water-based scenic answer, the cleaner h
 - read [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) if Guilin already is happening and you want the clearest first-time shortlist
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the remaining question is the best base for the region
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the region is likely and the next live question is whether it deserves 1, 2, or 3 days
+- read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if Guilin already is likely and the remaining question is whether this should be the Hong Kong-to-mainland rail handoff
 - read [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/) if the route shape is broadly right but the season still is not
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the real decision is whether the region deserves one softer overnight instead of a faster pass-through
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the route mostly is choosing between a pass-through and a real town stay

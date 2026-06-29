@@ -134,6 +134,8 @@ Two extra nights usually means one of these pairs:
 
 If the pair already is decided and the real question now is sequencing rather than choosing, the sharper route pages are [A 4- to 6-Day Shanghai + Hangzhou + Suzhou Route for a Softer East-China First Trip](/guides/a-4-to-6-day-shanghai-hangzhou-and-suzhou-route-for-a-softer-east-china-first-trip/) for the softer branch and [A 5- to 7-Day Shanghai + Hangzhou + Nanjing Route With a Better Finish](/guides/a-5-to-7-day-shanghai-hangzhou-and-nanjing-route-with-a-better-finish/) for the scenic-plus-history branch.
 
+If the question already is even narrower than that and the route specifically means `Shanghai + Suzhou + Hangzhou by train`, the cleaner rail-intent page is [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/).
+
 The right pair depends on whether your missing layer is:
 
 - scenery
@@ -170,6 +172,7 @@ If the real search already is larger than `which city?` and closer to `how do I 
 - read [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) if Suzhou sounds likely but the route shape still is unresolved
 - read [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/) if Nanjing sounds likely but the route shape still is unresolved
 - read [A 4- to 6-Day Shanghai + Hangzhou + Suzhou Route for a Softer East-China First Trip](/guides/a-4-to-6-day-shanghai-hangzhou-and-suzhou-route-for-a-softer-east-china-first-trip/) if the route already knows it wants the softer Hangzhou-Suzhou branch
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if the real next question is whether that softer branch should be a single clean rail chain at all
 - read [A 5- to 7-Day Shanghai + Hangzhou + Nanjing Route With a Better Finish](/guides/a-5-to-7-day-shanghai-hangzhou-and-nanjing-route-with-a-better-finish/) if the route already knows it wants the broader Hangzhou-Nanjing branch
 - read [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/) if Hangzhou already is out and the real decision now is only between the more classical and more historical branches
 - read [A 6- to 8-Day Shanghai + Hangzhou + Suzhou + Nanjing Route That Still Feels Edited](/guides/a-6-to-8-day-shanghai-hangzhou-suzhou-and-nanjing-route-that-still-feels-edited/) if the real answer now is that the route wants the whole east-China arc

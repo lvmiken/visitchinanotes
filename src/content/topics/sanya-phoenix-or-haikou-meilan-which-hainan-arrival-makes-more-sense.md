@@ -110,6 +110,10 @@ This is usually the right arrival if:
 
 If `Haikou` is winning but you still are not sure the city itself deserves time, go next to [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/).
 
+If the live question is specifically family-shaped and has narrowed to `do we sleep in Haikou first or go south immediately`, the sharper child page is [After Landing in Haikou With Kids, Should You Stay the Night or Go Straight to Sanya?](/topics/after-landing-in-haikou-with-kids-should-you-stay-the-night-or-go-straight-to-sanya/).
+
+If the family has already decided to keep one Haikou night and now only needs to choose between airport convenience and a real central-Haikou evening, the sharper child page is [After a Haikou Landing With Kids, Should You Stay Near Meilan Airport or in Central Haikou?](/topics/after-a-haikou-landing-with-kids-should-you-stay-near-meilan-airport-or-in-central-haikou/).
+
 ## Where Wanning changes the equation
 
 `Wanning` is the page many newer Hainan travelers are really searching for, even when they start with a `Sanya` or `Haikou` flight query.
@@ -208,5 +212,7 @@ That is cleaner than trying to make one airport answer every version of the isla
 
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if Hainan is still only a possibility and not yet a committed route branch
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the island is happening and the real decision is where to stay
+- read [After Landing in Haikou With Kids, Should You Stay the Night or Go Straight to Sanya?](/topics/after-landing-in-haikou-with-kids-should-you-stay-the-night-or-go-straight-to-sanya/) if the family version of the airport choice has narrowed to one first-night decision
+- read [After a Haikou Landing With Kids, Should You Stay Near Meilan Airport or in Central Haikou?](/topics/after-a-haikou-landing-with-kids-should-you-stay-near-meilan-airport-or-in-central-haikou/) if the family has already chosen to sleep in Haikou and now needs the right overnight base
 - read [After a Hainan Visa-Free Entry, Can You Continue to Mainland China?](/topics/can-you-travel-to-mainland-china-from-hainan-on-a-hainan-visa-free-entry/) if entry logic, not airport logic, is the thing that could still break the route
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still need the broader arrival-day framework rather than the Hainan-specific airport choice

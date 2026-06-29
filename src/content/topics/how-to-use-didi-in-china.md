@@ -196,6 +196,7 @@ If the number cannot receive verification or is not convenient to use during the
 
 ## Which page to read next
 
+- read [Can You Take Didi From Sanya Airport With a Foreign Card?](/topics/can-you-take-didi-from-sanya-airport-with-a-foreign-card/) if the live question is no longer broad Didi setup but one specific Hainan airport arrival
 - read [Metro, Taxi, and Ride-Hailing in China: What First-Time Travelers Should Expect](/topics/metro-taxi-ridehailing/) if you are still deciding when Didi is worth it
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if you want Didi to sit inside a stronger payment-maps-phone setup before departure
 - read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if you want the broader payment-stack answer before deciding which wallet to trust inside Didi

@@ -100,6 +100,8 @@ If you already know the trip continues to another city, your hotel area should r
 
 This matters more in Guangzhou than in some cities because the city often succeeds by being both enjoyable and operationally useful at the same time.
 
+The same goes for station logic. If you are feeling pulled toward one side of Guangzhou mainly because of `Guangzhou South`, make sure that really is a hotel problem and not a route problem. [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) is the better next page when the live issue is `West Kowloon -> Guangzhou South`, rather than where to sleep inside Guangzhou itself.
+
 ## What to watch out for
 
 - picking a cheap hotel that weakens every dinner and return trip
@@ -107,6 +109,6 @@ This matters more in Guangzhou than in some cities because the city often succee
 - booking only for station access and making the actual city stay worse
 - forgetting that a short Guangzhou stop still needs evenings to work well
 
-If the transfer out of Guangzhou is the main issue, continue with [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/). If the hotel decision is mainly about arrival, go next to [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/). If the base is settled and you want the meals to start fitting the right districts, move to [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/). If the base is settled and you want the days to flow, move to [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/).
+If the transfer out of Guangzhou is the main issue, continue with [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/). If the hotel decision is mainly about arrival, go next to [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/). If the base is settled and you want the meals to start fitting the right districts, move to [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/). If the base is settled and you want the days to flow, move to [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/). If the hotel question still is really about how to support a `West Kowloon -> Guangzhou South` handoff, skip straight to [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/).
 
 If the base decision still depends on whether one easier central district should carry a real evening instead of leaving all the weight to the west side or the river, the narrower place page is [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/).

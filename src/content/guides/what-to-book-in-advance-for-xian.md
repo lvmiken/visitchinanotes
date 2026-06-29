@@ -145,6 +145,8 @@ Use:
 - [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/)
 - [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/)
 
+If the onward or inbound move already is one of the core history-route corridors, go one level narrower before you book. Use [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the real booking stress is Beijing West, Xi'an North, and how to protect the first Xi'an day, or [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the real booking stress is whether Chengdu should become the softer next act by rail.
+
 If the train timing still is shaping whether Xi'an should stay disciplined or fuller, keep [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) and [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) open too.
 
 ## Book these if they are real priorities
@@ -272,5 +274,7 @@ That order usually creates a better Xi'an trip than trying to reserve half the c
 - read [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/) if the ticket is sorted but the excursion day still feels loose
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the hotel base still is not fixed
 - read [How to Get From Xi'an Xianyang Airport to the City Center](/guides/xian-xianyang-airport-to-city-center/) if arrival-day logistics still are shaping the stay
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if the main booking blocker now is entering Xi'an cleanly from Beijing by train
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the main booking blocker now is whether Xi'an should continue into Chengdu by rail
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you want to place these reservations into an actual day order
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the booking order now needs to support the fuller Xi'an version

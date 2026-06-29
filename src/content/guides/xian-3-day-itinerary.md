@@ -88,6 +88,8 @@ If those choices are still loose, use:
 - [How to Book Terracotta Warriors Tickets Without Stress](/topics/how-to-book-terracotta-warriors-tickets/)
 - [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/)
 
+If Xi'an is really a middle chapter rather than a standalone stop, solve the train corridor logic early too. Use [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Beijing is the first act, or [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if Chengdu may be the softer second act after this fuller Xi'an stay.
+
 If food is one of the reasons you are giving Xi'an a third day, keep [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) open too.
 
 If the dish shortlist already feels clear and the live question is which part of Xi'an should actually carry those meals, use [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) too.
@@ -292,6 +294,8 @@ Two days is still strong. Three days is simply the better version when you want 
 - read [Huashan Plank Walk from Xi'an: How Extreme It Feels and Who Should Leave It Alone](/guides/huashan-plank-walk-from-xian-how-extreme-is-it-really/) if the 3-day version already looks too easy and you are testing whether the extra energy should go to Huashan
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the hotel base still is not settled
 - read [Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?](/guides/where-to-stay-near-giant-wild-goose-pagoda-vs-old-city-in-xian/) if the hotel answer depends on whether the fuller south-side version really is worth changing the base for
+- read [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Xi'an is being entered straight from Beijing and the train decision still is shaping how much Day 1 should try to do
+- read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if the next real route decision is whether this fuller Xi'an stop should continue into Chengdu by rail
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if the next practical decision is which meals actually deserve protection
 - read [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) if the meals are chosen but the districts still are not
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the route now needs a stronger evening layer instead of another daytime add-on

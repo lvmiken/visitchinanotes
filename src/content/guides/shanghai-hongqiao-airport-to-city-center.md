@@ -47,6 +47,8 @@ It is most useful if:
 
 If you are still deciding between the two Shanghai airports more broadly, keep [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) open too.
 
+If `Hongqiao` matters not only because you are landing there but because the route may continue by high-speed rail, solve that route question early too. [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) is often the better next read once the real live question is how Shanghai should hand off into East China rather than how to leave the airport. If the route instead is the classic capital-to-commercial-core corridor, use [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) before you let `Hongqiao` stay an airport-only keyword.
+
 ## The short answer
 
 For most first-time visitors:
@@ -180,3 +182,5 @@ For a normal central-Shanghai hotel arrival, metro or taxi is still usually the 
 - read [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/) if you are still comparing Hongqiao and Pudong
 - read [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) if the real uncertainty is hotel location
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if app-based rides are likely to be your arrival solution
+- read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if `Hongqiao` really matters because this Shanghai arrival also sits inside the capital-to-Shanghai rail corridor
+- read [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/) if Hongqiao already matters mainly as the rail-side handoff into a softer East China branch
