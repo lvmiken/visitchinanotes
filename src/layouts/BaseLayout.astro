@@ -33,6 +33,7 @@ const {
 const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const siteRoot = new URL("/", siteUrl).href;
 const googleAnalyticsId = "G-T75BH982CN";
+const googleAdSenseClient = "ca-pub-3494032806162873";
 const cookieConsentStorageKey = "ctn-cookie-consent";
 const consentScript = `
   (() => {
@@ -147,6 +148,11 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
 <html lang="en">
   <head>
     <script is:inline set:html={consentScript}></script>
+    <script
+      async
+      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${googleAdSenseClient}`}
+      crossorigin="anonymous"
+    ></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#0f766e" />
