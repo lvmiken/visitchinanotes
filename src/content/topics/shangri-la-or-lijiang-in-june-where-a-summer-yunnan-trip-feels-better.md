@@ -135,6 +135,8 @@ This is usually the best first-time answer when:
 
 If that route progression is the live question, the next page is [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/).
 
+If the more anxious version of that question is simply whether you should sleep in `Lijiang` before going up, use [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/).
+
 ## 2. Choose Shangri-La first if the highlands themselves are the point
 
 This is the better answer when:
@@ -163,6 +165,8 @@ If that fuller version is what you are really building, go next to [A Cooler 5-t
 
 If the route order already makes sense and the real missing piece is simply how to move between those three stops without exhausting the middle of the branch, go next to [How to Travel Between Lijiang, Tiger Leaping Gorge, and Shangri-La Without Breaking the Trip](/topics/how-to-travel-between-lijiang-tiger-leaping-gorge-and-shangri-la-without-breaking-the-trip/).
 
+If the fuller three-stop version suddenly feels like too much and the live question becomes whether June would work better as just `Lijiang + Shangri-La`, go next to [Should You Skip Tiger Leaping Gorge and Just Do Lijiang and Shangri-La?](/topics/should-you-skip-tiger-leaping-gorge-and-just-do-lijiang-and-shangri-la/).
+
 ## What first-time summer travelers most often get wrong
 
 - choosing Shangri-La only because it sounds cooler, without wanting the actual highland experience
@@ -183,7 +187,9 @@ If your route already is winning and the remaining question is clothes, keep [Wh
 ## Which page to read next
 
 - read [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) if the real question is route order rather than June alone
+- read [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/) if the broad comparison already makes sense and the missing decision now is how to handle the first night more gently
 - read [Tiger Leaping Gorge Hiking for First-Time Visitors: What Is Actually Realistic?](/topics/tiger-leaping-gorge-hiking-for-first-time-visitors/) if the route may become more active than scenic-town-led
 - read [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/) if you already know the trip wants the fuller highlands progression
+- read [Should You Skip Tiger Leaping Gorge and Just Do Lijiang and Shangri-La?](/topics/should-you-skip-tiger-leaping-gorge-and-just-do-lijiang-and-shangri-la/) if the June route now feels better as a calmer two-base highlands branch
 - read [How to Travel Between Lijiang, Tiger Leaping Gorge, and Shangri-La Without Breaking the Trip](/topics/how-to-travel-between-lijiang-tiger-leaping-gorge-and-shangri-la-without-breaking-the-trip/) if your only missing decision now is how to execute the corridor cleanly
 - read [Best Time to Visit China: Weather, Seasons, and First-Trip Advice](/topics/best-time-to-visit-china/) if the dates still can move and Yunnan is only one option

@@ -75,6 +75,8 @@ That order works because it lets:
 
 The route usually gets weaker when travelers try to flatten these three places into identical transport boxes.
 
+If the transport logic makes sense but the remaining anxiety is more human than logistical, use [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/) for the narrower first-night decision.
+
 ## What current transport reality actually looks like
 
 This page was checked against current source material on **June 28, 2026**, including the official [China Railway](https://www.china-railway.com.cn/english/news/202312/t20231201_131741.html) update on the `Lijiang–Shangri-La Railway`, which confirms that the line now links the corridor and explicitly frames it around major scenic areas including Tiger Leaping Gorge, plus the official Tiger Leaping Gorge scenic-area [Traffic Guide](http://www.tigerleapinggorge.com/TrafficGuide.html) and [How to Arrive](http://www.tigerleapinggorge.com/HowToArrive.html) pages. I am using those sources to anchor the corridor structure and the fact that the gorge still behaves like a route-shaped middle chapter rather than a seamless all-train sightseeing stop. Exact same-week transfer options, pickup methods, and timings should still be checked close to the day.
@@ -131,6 +133,8 @@ In this version, Tiger Leaping Gorge works as:
 
 This is often the better first-time answer for travelers who want the landscape without letting one day become too athletic or too fragile.
 
+If the exact route-shape problem is whether that middle chapter should stay a `Lijiang` day trip or become an overnight stop, read [Is Tiger Leaping Gorge Better as a Day Trip From Lijiang or an Overnight Stop?](/topics/is-tiger-leaping-gorge-better-as-a-day-trip-from-lijiang-or-an-overnight-stop/).
+
 ## 2. The overnight-gorge version
 
 This is stronger when:
@@ -142,6 +146,8 @@ This is stronger when:
 If this is your version, the route usually becomes much better when you stop treating the gorge like a transit inconvenience and start treating it like one of the branch's emotional anchors.
 
 If that hiking decision still is not settled, go next to [Tiger Leaping Gorge Hiking for First-Time Visitors: What Is Actually Realistic?](/topics/tiger-leaping-gorge-hiking-for-first-time-visitors/).
+
+If you are realizing the route does not actually want a middle chapter at all, step sideways instead to [How to Get From Lijiang to Shangri-La: Train or Car for First-Time Travelers](/topics/how-to-get-from-lijiang-to-shangri-la-train-or-car-for-first-time-travelers/).
 
 ## What usually breaks the trip
 
@@ -215,6 +221,9 @@ That usually creates a much better route than starting from ticket mechanics alo
 ## Which page to read next
 
 - read [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) if the opening base still is not fully settled
+- read [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/) if movement order already is clear and the real question now is how to make the first 24 to 48 hours less abrupt
+- read [Is Tiger Leaping Gorge Better as a Day Trip From Lijiang or an Overnight Stop?](/topics/is-tiger-leaping-gorge-better-as-a-day-trip-from-lijiang-or-an-overnight-stop/) if the corridor logic makes sense but the gorge itself still has not found the right day-trip versus overnight role
+- read [How to Get From Lijiang to Shangri-La: Train or Car for First-Time Travelers](/topics/how-to-get-from-lijiang-to-shangri-la-train-or-car-for-first-time-travelers/) if the transport stress is making you realize the calmer direct two-base branch may suit you better than the gorge corridor
 - read [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/) if you want the fuller seasonal route shape around this movement logic
 - read [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) if the route order itself still feels unstable
 - read [Tiger Leaping Gorge Hiking for First-Time Visitors: What Is Actually Realistic?](/topics/tiger-leaping-gorge-hiking-for-first-time-visitors/) if the middle chapter still needs a hiking-versus-scenic decision

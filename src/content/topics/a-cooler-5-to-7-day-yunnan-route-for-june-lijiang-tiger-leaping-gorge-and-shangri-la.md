@@ -104,6 +104,8 @@ That matters in June because even a cooler route can still feel tiring if it sta
 
 If your live doubt is whether June should open with Lijiang or Shangri-La, use [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) as the narrower comparison.
 
+If the broader summer comparison is already settled and you just need the calmer first-night answer, use [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/).
+
 ## Why Tiger Leaping Gorge belongs in the middle
 
 `Tiger Leaping Gorge` is not only a scenic stop.
@@ -119,6 +121,8 @@ Placed in the middle, it lets the trip:
 That is why the gorge usually works better as the route's hinge than as an awkward bolt-on.
 
 If the only unanswered question is whether the hiking side is realistic for your energy and shoes, use [Tiger Leaping Gorge Hiking for First-Time Visitors: What Is Actually Realistic?](/topics/tiger-leaping-gorge-hiking-for-first-time-visitors/).
+
+If the hiking part feels broadly possible and the real issue is whether the gorge should be a `Lijiang` day trip or an overnight chapter, use [Is Tiger Leaping Gorge Better as a Day Trip From Lijiang or an Overnight Stop?](/topics/is-tiger-leaping-gorge-better-as-a-day-trip-from-lijiang-or-an-overnight-stop/).
 
 If the route shape is right but the practical problem now is how to move between `Lijiang`, `Tiger Leaping Gorge`, and `Shangri-La` without turning the middle of the branch into a tiring logistics day, go next to [How to Travel Between Lijiang, Tiger Leaping Gorge, and Shangri-La Without Breaking the Trip](/topics/how-to-travel-between-lijiang-tiger-leaping-gorge-and-shangri-la-without-breaking-the-trip/).
 
@@ -151,6 +155,8 @@ Usually think in terms of:
 This version can work.
 
 It usually works only when you accept that the route is selective, not leisurely.
+
+If your exact five-day problem is whether `Shangri-La` still deserves to survive the cut, read [If You Only Have 5 Days in Yunnan, Should You Keep Shangri-La?](/topics/if-you-only-have-5-days-in-yunnan-should-you-keep-shangri-la/).
 
 ## 6 days: the balanced first-time version
 
@@ -223,7 +229,10 @@ If packing now feels like the bottleneck, use [China Packing List for First-Time
 ## Which page to read next
 
 - read [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) if the starting point still is not settled
+- read [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/) if the route shape already works and the next decision is how to make the opening night less brittle
 - read [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) if the order still feels abstract
 - read [Tiger Leaping Gorge Hiking for First-Time Visitors: What Is Actually Realistic?](/topics/tiger-leaping-gorge-hiking-for-first-time-visitors/) if the gorge layer still needs an honesty check
+- read [Is Tiger Leaping Gorge Better as a Day Trip From Lijiang or an Overnight Stop?](/topics/is-tiger-leaping-gorge-better-as-a-day-trip-from-lijiang-or-an-overnight-stop/) if the next decision is no longer whether to include the gorge, but how much route weight it really deserves
+- read [If You Only Have 5 Days in Yunnan, Should You Keep Shangri-La?](/topics/if-you-only-have-5-days-in-yunnan-should-you-keep-shangri-la/) if the route already is narrowing and the real pruning decision now is whether the short version can still carry Shangri-La well
 - read [How to Travel Between Lijiang, Tiger Leaping Gorge, and Shangri-La Without Breaking the Trip](/topics/how-to-travel-between-lijiang-tiger-leaping-gorge-and-shangri-la-without-breaking-the-trip/) if the route is chosen and the missing piece now is transport execution
 - read [China High-Speed Rail for Tourists: How It Works and What to Expect](/topics/high-speed-rail/) if your entry or exit into Yunnan still depends on rail confidence

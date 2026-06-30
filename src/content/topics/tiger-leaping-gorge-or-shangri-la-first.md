@@ -166,6 +166,8 @@ It means the order often feels more humane.
 
 If the trip already has clothing, layering, or active-day preparation worries, keep [What to Wear in China by Season and City](/topics/what-to-wear-in-china/) and [China Packing List for First-Time Visitors](/topics/china-packing-list-for-first-time-visitors/) nearby.
 
+If the route-order question already is mostly answered and the live doubt now is whether you should actually sleep in `Lijiang` before going higher, read [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/).
+
 ## How many nights this branch really needs
 
 For many first-time visitors, this part of Yunnan starts feeling coherent at:
@@ -214,6 +216,8 @@ This branch is probably too ambitious when:
 - you are treating road transfers as invisible
 - you want both meaningful hiking and meaningful Shangri-La time, but the schedule only supports a quick pass
 
+If that overbuilt version specifically is happening because the branch only has `5 days`, read [If You Only Have 5 Days in Yunnan, Should You Keep Shangri-La?](/topics/if-you-only-have-5-days-in-yunnan-should-you-keep-shangri-la/).
+
 That is often the real first-time mistake:
 
 not choosing the wrong order, but refusing to narrow the branch honestly.
@@ -239,6 +243,8 @@ But do not pretend both versions solve the same trip.
 
 They do not.
 
+If the gorge increasingly looks like the part you may not actually want, read [Should You Skip Tiger Leaping Gorge and Just Do Lijiang and Shangri-La?](/topics/should-you-skip-tiger-leaping-gorge-and-just-do-lijiang-and-shangri-la/).
+
 ## Season matters more here than on easier city routes
 
 This is one of the China route branches where weather and walking conditions change the answer more than many travelers expect.
@@ -250,7 +256,10 @@ If the season still is not locked, go next to [Best Time to Visit China: Weather
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if the bigger issue is whether Yunnan's highlands belong in the wider trip at all
 - read [Best Time to Visit China: Weather, Seasons, and First-Trip Advice](/topics/best-time-to-visit-china/) if weather and walking conditions still may change whether this branch is wise
 - read [Shangri-La or Lijiang in June? Where a Summer Yunnan Trip Feels Better](/topics/shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better/) if the highlands are being chosen mainly as a cooler summer route and the opening base still is not settled
+- read [Should You Start in Lijiang Before Shangri-La to Adjust to Altitude?](/topics/should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude/) if the route order is broadly clear and the narrower first-night decision has become the real blocker
 - read [A Cooler 5-to-7-Day Yunnan Route for June: Lijiang, Tiger Leaping Gorge, and Shangri-La](/topics/a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la/) if the route order mostly makes sense and you now need the first full summer version
+- read [If You Only Have 5 Days in Yunnan, Should You Keep Shangri-La?](/topics/if-you-only-have-5-days-in-yunnan-should-you-keep-shangri-la/) if the route shape already is narrowing and the real issue now is whether the short version can still justify Shangri-La
+- read [Should You Skip Tiger Leaping Gorge and Just Do Lijiang and Shangri-La?](/topics/should-you-skip-tiger-leaping-gorge-and-just-do-lijiang-and-shangri-la/) if the branch may work better by removing the gorge altogether rather than endlessly softening it
 - read [How to Travel Between Lijiang, Tiger Leaping Gorge, and Shangri-La Without Breaking the Trip](/topics/how-to-travel-between-lijiang-tiger-leaping-gorge-and-shangri-la-without-breaking-the-trip/) if the route order is chosen and the missing piece now is corridor execution
 - read [What to Wear in China by Season and City](/topics/what-to-wear-in-china/) if the route likely is happening and the next concern is how to prepare for colder mornings, sun, and moving between elevations
 - read [China Packing List for First-Time Visitors](/topics/china-packing-list-for-first-time-visitors/) if the bigger stress is not route theory but how to pack for an active multi-stop branch well

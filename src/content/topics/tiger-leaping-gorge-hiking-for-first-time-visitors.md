@@ -57,6 +57,8 @@ Use this page if you are asking:
 
 If the bigger route order is still not settled, keep [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) open too.
 
+If your route order is mostly fine and the narrower question is whether the gorge should stay a `Lijiang` day trip or become an overnight chapter, read [Is Tiger Leaping Gorge Better as a Day Trip From Lijiang or an Overnight Stop?](/topics/is-tiger-leaping-gorge-better-as-a-day-trip-from-lijiang-or-an-overnight-stop/).
+
 ## The short answer
 
 For many first-time visitors, the most realistic ladder looks like this:
@@ -240,6 +242,7 @@ That distinction usually clarifies everything.
 ## Which page to read next
 
 - read [Tiger Leaping Gorge or Shangri-La First? A Smarter Yunnan Highlands Route](/topics/tiger-leaping-gorge-or-shangri-la-first/) if the broader route order still is not fully secure
+- read [Is Tiger Leaping Gorge Better as a Day Trip From Lijiang or an Overnight Stop?](/topics/is-tiger-leaping-gorge-better-as-a-day-trip-from-lijiang-or-an-overnight-stop/) if the hiking question is now really a route-shape question about whether the gorge deserves its own night
 - read [China Packing List for First-Time Visitors: What to Bring](/topics/china-packing-list-for-first-time-visitors/) if the hike now feels likely and the practical support layer still is weak
 - read [What to Wear in China by Season and City](/topics/what-to-wear-in-china/) if the route is likely happening and the question is how to dress for variable mountain conditions without overpacking
 - read [Best Time to Visit China: Weather, Seasons, and First-Trip Advice](/topics/best-time-to-visit-china/) if season still may change whether the gorge should be hiked properly or only seen selectively
