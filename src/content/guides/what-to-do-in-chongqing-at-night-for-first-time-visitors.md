@@ -66,6 +66,8 @@ If the real question is no longer only the broader evening shape, but which skyl
 
 If the real question is narrower still and you mainly want one `drink with a view` instead of a full skyline session or a full nightlife district, the bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
 
+If the live search is more unusual and what you really want is one `moving` Chongqing night view through the train window instead of only another static photo stop, the narrower guide is [Chongqing Monorail Last Train Night View: Which Line Actually Works Best?](/guides/chongqing-monorail-last-train-night-view-which-line-actually-works-best/).
+
 If the weather is already changing whether the skyline, cruise, or river-view version still makes sense, keep [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) open too.
 
 If the live issue is less `which Chongqing evening` and more `is this the right city to carry my one real China night-market-style outing`, keep [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) open too.

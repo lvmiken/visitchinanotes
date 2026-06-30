@@ -170,6 +170,7 @@ Used badly, it is mostly waiting.
 
 - read [Liziba Station in Chongqing: Is It Worth It for First-Time Visitors?](/places/liziba-station/) if the broader value question still is open
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the real issue now is how to place Liziba inside a sensible city route
+- read [Chongqing Monorail Last Train Night View: Which Line Actually Works Best?](/guides/chongqing-monorail-last-train-night-view-which-line-actually-works-best/) if the live question has shifted from the station photo to whether one later rail ride itself deserves part of the night
 - read [Yangtze River Cableway in Chongqing: Best Time to Ride and How Bad the Queue Really Gets](/guides/yangtze-river-cableway-best-time-and-queue-reality/) if the live comparison is one short visual transport icon versus one fuller crossing experience
 - read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the next prime-time photo mission is the city's main night shot rather than another quick daylight stop
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you want to place Liziba inside a fuller version of the city
