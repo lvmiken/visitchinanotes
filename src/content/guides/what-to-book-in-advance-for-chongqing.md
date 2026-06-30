@@ -166,6 +166,8 @@ For many first-time visitors, the real risk is not missing a minor city sight.
 
 It is letting one fixed transport or excursion day collapse the whole route order.
 
+If that fixed outer-city day already looks likely, the two most useful Chongqing-specific bridge pages are [Wulong Karst from Chongqing for First-Time Visitors](/guides/wulong-karst-from-chongqing-for-first-time-visitors/) and [Wansheng Ordovician Park from Chongqing for First-Time Visitors](/guides/wansheng-ordovician-park-from-chongqing-for-first-time-visitors/). If you still are not sure whether Chongqing should leave the city at all, use [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) first.
+
 ## 5. One must-have dinner, rooftop, or polished nightlife reservation
 
 Not every Chongqing meal needs a reservation.
@@ -185,6 +187,7 @@ Use:
 - [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/)
 - [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/)
 - [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/)
+- [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/)
 
 ## What can usually stay flexible
 

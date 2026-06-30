@@ -64,6 +64,8 @@ If the real question is no longer the broader evening shape, but where one pract
 
 If the real question is no longer only the broader evening shape, but which skyline branch actually deserves one of your limited Chongqing nights, the narrower next page is [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/).
 
+If the real question is narrower still and you mainly want one `drink with a view` instead of a full skyline session or a full nightlife district, the bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
+
 If the weather is already changing whether the skyline, cruise, or river-view version still makes sense, keep [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) open too.
 
 If the live issue is less `which Chongqing evening` and more `is this the right city to carry my one real China night-market-style outing`, keep [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) open too.
@@ -192,6 +194,8 @@ If the meal side of that evening is the real question, keep [Where to Eat in Cho
 If the live question now is whether this calmer scenic version actually deserves one of your limited evenings instead of only sounding good in theory, the narrower page is [Nanbin Road in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanbin-road/).
 
 If the live question now is whether that scenic riverfront version should stay simple or expand into a `Yikeshu + Longmenhao + dinner` night, the narrower execution page is [How to Plan a Nanshan and Longmenhao Night in Chongqing for First-Time Visitors](/guides/how-to-plan-a-nanshan-and-longmenhao-night-in-chongqing-for-first-time-visitors/).
+
+If the live question now is even narrower and the night mainly needs one scenic drink instead of a full district or full viewpoint strategy, the bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
 
 ## 4. Livelier food-and-nightlife night: choose Guanyinqiao and 9th Street
 

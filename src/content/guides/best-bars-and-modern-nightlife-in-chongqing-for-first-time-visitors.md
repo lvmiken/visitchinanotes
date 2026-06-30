@@ -64,6 +64,8 @@ If the real question now is narrower than nightlife and you mainly want to decid
 
 If the real question now is not only whether `9th Street` is worth it in theory, but exactly how to use it as a later branch after dinner without forcing it into the wrong night, the sharper guide is [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/).
 
+If the real question now is not nightlife depth but where one `skyline drink` or `rooftop-style pause` should happen without turning the whole night into a venue chase, the narrower bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
+
 The mistake is expecting one Chongqing night district to solve all five jobs.
 
 ## Start with the kind of night you actually want
@@ -152,6 +154,8 @@ This is often stronger than Guanyinqiao or 9th Street if the group really wants:
 - one walk through a famous nighttime core
 - one drink that supports the skyline rather than replacing it
 
+If that exact `one drink with city lights` question is now the real search intent, the narrower next page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
+
 ## 4. Choose Nanbin Road if you want a scenic riverside drinks night
 
 Nanbin Road is usually not the strongest answer for a full nightlife crawl. It is the better answer when the night should feel:
@@ -229,6 +233,7 @@ After a day with too many steps, viewpoints, and central-core crowds, most reade
 
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if you still need the broader evening comparison
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the broader night structure already is clear and the real remaining choice is which of Chongqing's two most useful all-around evening districts fits better
+- read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the real decision is one cinematic drink with a view rather than a full nightlife district
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live question is whether the later-night branch deserves real trip time at all
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the later-night branch already sounds plausible and the real question is how to use it well
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the evening should start as a stronger Guanyinqiao dinner before deciding how much nightlife to add

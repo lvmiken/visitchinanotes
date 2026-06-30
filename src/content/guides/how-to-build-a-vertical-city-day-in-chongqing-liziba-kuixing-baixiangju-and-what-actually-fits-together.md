@@ -57,6 +57,8 @@ If the broader city still is not settled, keep [Chongqing Travel Guide for First
 
 If the live search is less about these exact stops and more about the broader phrase `Chongqing cyberpunk city walk`, the cleaner parent page is [Chongqing Cyberpunk City Walk: The Route That Makes the City Finally Click](/guides/chongqing-cyberpunk-city-walk-guide/).
 
+If the live search is even earlier than that and the real question is simply `why does Chongqing go from the 1st floor to the 22nd floor?`, the clearer bridge page is [Why Does Chongqing Go From 1st Floor to 22nd Floor? Where to See the City's Vertical Weirdness](/guides/why-does-chongqing-go-from-1st-floor-to-22nd-floor-and-where-to-see-it/).
+
 ## The short answer
 
 For many first-time visitors, the smartest vertical-city day is:

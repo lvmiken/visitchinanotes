@@ -2,7 +2,7 @@
 title: "How to Order Chongqing Hot Pot for First-Time Visitors"
 description: "Use this practical Chongqing hot pot guide to choose the right broth, spice level, dishes, and dipping sauce without overordering or turning your first hot pot night into a pain test."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-06-30
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -27,7 +27,7 @@ faq:
   - question: "What should first-time visitors order at Chongqing hot pot?"
     answer: "Many first-time visitors do best with one manageable broth, a few reliable meat and vegetable dishes, tofu or mushrooms, one starch if needed, and only one or two adventurous items instead of ordering every famous ingredient at once."
   - question: "Is Chongqing hot pot too spicy for tourists?"
-    answer: "It can be if the table jumps straight into the most intense full-red broth without adjustment. Many first-time visitors have a better experience when they control the broth choice, keep the order balanced, and use a simple dipping sauce."
+    answer: "It can be, and Chongqing's 'mild' can still feel very hot to many foreign visitors. First-time diners usually do better when they choose broth honestly, accept a split pot if needed, and build the meal around balance rather than bravery."
 ---
 
 `Chongqing hot pot` is one of the easiest meals in China to get very right or very wrong on a first trip.
@@ -94,6 +94,26 @@ iChongqing's hot pot coverage keeps returning to the core red-oil identity built
 That is not a weak choice.
 
 It is often the smartest first-time choice.
+
+## Is Chongqing "mild spicy" still too hot for many foreigners?
+
+Often, yes.
+
+This is one of the most useful things to understand before the meal starts.
+
+In Chongqing, `mild` does not always mean what many overseas travelers expect it to mean. A restaurant's less-intense red broth can still carry a lot of chili oil, beef tallow, and numbing heat.
+
+That means many first-time visitors do better when they ask a simpler question:
+
+`Do we want the full red-broth identity, or do we want a dinner we can enjoy all the way through?`
+
+For many foreign visitors, the best honest answer is:
+
+- choose the split pot
+- or choose the less intense version available
+- and let one or two bolder dishes carry the adventure instead of making the whole broth a punishment test
+
+If your table already knows it wants one of Chongqing's more atmospheric old-school hot pot settings, the next page is [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/).
 
 ## Do not build the order around only famous specialty items
 

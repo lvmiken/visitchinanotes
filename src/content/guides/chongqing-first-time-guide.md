@@ -48,6 +48,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/) if the route already includes Chongqing but the live decision is when the city will feel easiest and most rewarding
 - [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if the city is chosen but you still need a sharper shortlist before building the actual days
 - [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if the city already is chosen and the next need is a realistic default route
+- [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the city already is chosen and the real question now is whether a fourth day should go to Wulong, Wansheng, or simply a slower city day
 - [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/)
 - [Jiefangbei or Nanbin Road: Where to Stay in Chongqing for First-Time Visitors](/guides/jiefangbei-or-nanbin-road-where-to-stay-for-first-time-visitors/) if the hotel choice already has narrowed to central convenience versus a calmer river-view base
 - [How to Get From Chongqing Jiangbei Airport to the City Center](/guides/chongqing-jiangbei-airport-to-city-center/) if the city is chosen and the live question is how to protect the first evening from becoming an awkward airport arrival
@@ -95,6 +96,8 @@ If the city feels chosen but the live decision now is which season will make Cho
 
 If the city feels chosen but the live decision now is which Chongqing experiences actually deserve the strongest time blocks, the next page is [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/).
 
+If the city feels chosen and the real question now is whether a `4th day` should stay in Chongqing or become one bigger outer-city contrast day, the next page is [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/).
+
 If the city already feels chosen and the missing layer is food rather than viewpoints, go next to [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) and then [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/).
 
 If the city already feels chosen and the food question already is narrower than that because the table knows it wants one real hot pot night, the next page is [How to Order Chongqing Hot Pot for First-Time Visitors](/guides/how-to-order-chongqing-hot-pot-for-first-time-visitors/).
@@ -121,11 +124,15 @@ If the broader nightlife layer already is clear but the real question is whether
 
 If the city already feels chosen and the useful missing layer is which skyline branch actually deserves prime time, the next page is [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/).
 
+If the skyline side already is broadly clear but the real remaining question is where one polished `drink with a view` should happen without turning the night into a bar chase, the narrower bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
+
 If the skyline side already is secure and the real question now is whether the route needs one shorter vertical-city shock instead of another full evening block, the more focused urban-geometry pages are [Baixiangju](/places/baixiangju-apartment/) and [Kuixing Building Skybridge](/places/kuixing-building-skybridge/).
 
 If the live search is broader than one stop and the real question is which hidden-style Chongqing places are actually worth real route space, the editorial bridge page is [Hidden Places in Chongqing That Are Actually Worth the Detour](/guides/hidden-places-in-chongqing-that-are-actually-worth-the-detour/).
 
 If the live search phrase already is `Chongqing cyberpunk city walk` rather than one single stop, the cleaner landing page is [Chongqing Cyberpunk City Walk: The Route That Makes the City Finally Click](/guides/chongqing-cyberpunk-city-walk-guide/).
+
+If the live search phrase is the stranger `why does Chongqing go from the 1st floor to the 22nd floor?` or a broader `8D city` query, the cleaner bridge page is [Why Does Chongqing Go From 1st Floor to 22nd Floor? Where to See the City's Vertical Weirdness](/guides/why-does-chongqing-go-from-1st-floor-to-22nd-floor-and-where-to-see-it/).
 
 If the live question has moved beyond `which stops?` and into `how do these vertical-city places actually fit into one day?`, the stronger sequencing page is [How to Build a Vertical-City Day in Chongqing: Liziba, Kuixing, Baixiangju, and What Actually Fits Together](/guides/how-to-build-a-vertical-city-day-in-chongqing-liziba-kuixing-baixiangju-and-what-actually-fits-together/).
 
@@ -184,6 +191,7 @@ That usually creates a better experience than trying to race across the city col
 - read [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/) if the city is chosen but the real timing question is when night views, food evenings, and hill-heavy days will feel easiest
 - read [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if the city is chosen and you want a cleaner shortlist before you commit the skyline, food, and night layers to specific days
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if the city is chosen and you want the cleanest default way to place the skyline, food, and night layers into real days
+- read [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the city already clearly deserves a fourth day and the real question now is whether that day should go to Wulong, Wansheng, or a slower city version instead
 - read [How to Get From Chongqing Jiangbei Airport to the City Center](/guides/chongqing-jiangbei-airport-to-city-center/) if the city is chosen and the first arrival still feels more confusing than the sightseeing itself
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the city is chosen but the real practical concern is still whether rail, Didi, taxis, buses, and the hills will make the trip feel harder than it looks
 - read [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/) if the city is chosen and the next problem is protecting the right bookings without overplanning
@@ -198,6 +206,7 @@ That usually creates a better experience than trying to race across the city col
 - read [What Food Souvenirs to Buy in Chongqing for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-chongqing-for-first-time-visitors/) if the city is chosen and the next practical question is which edible Chongqing gift is actually worth buying before the onward train or flight
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the real question is which evening should be skyline-led, cruise-led, scenic, or livelier
 - read [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/) if the real question is which skyline branch deserves the best slot
+- read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the view already is chosen and the real question is how to turn it into one cinematic drink-led pause
 - read [Chongqing Cyberpunk City Walk: The Route That Makes the City Finally Click](/guides/chongqing-cyberpunk-city-walk-guide/) if the real question is how to turn the city's famous weird geometry into one route that actually holds together
 - read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the skyline choice already is narrowing specifically to one classic Hongyadong photo-led evening
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the night already should be a modern drinks-led evening

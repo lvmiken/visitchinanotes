@@ -170,7 +170,9 @@ This is the point where the cluster starts fitting together most naturally:
 - [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) for the district logic
 - [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) for the evening layer
 - [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if one night should lean more modern and drinks-led
+- [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the evening should be more view-led and polished than fully nightlife-led
 - [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) because the wrong base becomes more costly once the stay grows longer
+- [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the extra day may become `Wulong`, `Wansheng Ordovician`, or another deliberate outer-city branch
 
 ### Who benefits most from 4 days
 
@@ -198,6 +200,7 @@ This is the point where the cluster starts fitting together most naturally:
 - you want a fuller city rhythm
 - you care about evenings, food, and pacing as much as daytime photos
 - you want the city to feel broader without turning every day into a rush
+- you want the option of one real outer-city contrast day such as `Wulong` after the city itself already feels secure
 
 ## What usually makes people choose the wrong length
 
@@ -213,8 +216,10 @@ This is the point where the cluster starts fitting together most naturally:
 - read [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/) if season choice may change whether the city should stay a sharper stop or earn a slower extra day
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you are leaning toward the sweet-spot default version
+- read [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the reason you are leaning toward `4 days` is that you want one nature or thrill add-on outside the city
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the length decision mainly depends on whether the city deserves one or two serious food days
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the extra day mainly is being justified by district logic and food geography
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the whole stay still depends on how many real evenings Chongqing should get
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if one of those evenings specifically should become a more modern night out
+- read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the stay already has its skyline slot and the remaining question is how polished that evening should feel
 - read [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) if Chongqing's place in the wider route still depends on how the train segments feel in practice

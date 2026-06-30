@@ -47,6 +47,8 @@ Use this page if you are deciding:
 
 If the broader evening shape still is open, start one level up with [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/).
 
+If the live question is not the full skyline session but where to attach one polished `drink with a view` after the main photos are done, the narrower companion page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
+
 ## The short answer
 
 For many first-time visitors:
@@ -99,6 +101,8 @@ It is usually weaker when:
 - you want the second skyline night to feel calmer or more panoramic
 
 If that exact place decision still is open, the narrower next page is [Hongyadong in Chongqing: Is It Worth It for First-Time Visitors?](/places/hongyadong/).
+
+If the skyline anchor already is settled and the remaining question is whether the night should end with one central drink instead of another long walk, the sharper bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
 
 ## 2. A Two Rivers cruise for the stronger skyline event
 
@@ -246,6 +250,7 @@ Choose **Nanshan Yikeshu**.
 ## Which page to read next
 
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the broader evening structure still is open
+- read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the view is secure and the live question now is where one polished drink should happen
 - read [Hongyadong in Chongqing: Is It Worth It for First-Time Visitors?](/places/hongyadong/) if the main classic skyline anchor still is not settled
 - read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the skyline anchor is settled and the next live question is how to get the classic photo well
 - read [Yangtze River Cableway in Chongqing: Best Time to Ride and How Bad the Queue Really Gets](/guides/yangtze-river-cableway-best-time-and-queue-reality/) if the cableway already looks likely and you need the least painful timing window

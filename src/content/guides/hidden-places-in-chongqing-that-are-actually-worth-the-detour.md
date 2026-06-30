@@ -55,6 +55,8 @@ Use this page if you are asking:
 
 If the broader city structure still is not settled, keep [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/) open too.
 
+If the live search is not really `hidden places` but the more specific viral question `why does Chongqing go from the 1st floor to the 22nd floor?`, the cleaner bridge page is [Why Does Chongqing Go From 1st Floor to 22nd Floor? Where to See the City's Vertical Weirdness](/guides/why-does-chongqing-go-from-1st-floor-to-22nd-floor-and-where-to-see-it/).
+
 ## The short answer
 
 For many first-time visitors, the most worthwhile hidden-style Chongqing stops are:

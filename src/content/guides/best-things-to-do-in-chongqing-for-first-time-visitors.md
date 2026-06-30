@@ -196,6 +196,7 @@ If the evening itself already is the live decision, the next pages are:
 - [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/)
 - [Nanbin Road in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanbin-road/)
 - [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/)
+- [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/)
 - [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/)
 
 If the city already has one classic skyline-core night and the live question now is whether the stronger second skyline branch is a higher panorama instead of another riverfront block, the narrower page is [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/).
@@ -312,6 +313,8 @@ This is where Chongqing stops feeling like only a dramatic night stop and become
 
 If that is the version you want, [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) is still the cleanest execution page.
 
+If the route clearly has a `4th day` and the live question now is whether that extra day should become `Wulong`, `Wansheng Ordovician`, or simply a slower city finish, the cleaner bridge page is [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/).
+
 ## Common mistakes
 
 - treating every famous photo spot as an equal priority
@@ -326,6 +329,7 @@ If that is the version you want, [A Practical 3-Day Chongqing Itinerary for Firs
 - read [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/) if Chongqing still is being judged against other China stops
 - read [How Many Days in Chongqing for First-Time Visitors](/guides/how-many-days-in-chongqing-for-first-time-visitors/) if you still have not decided whether the city should stay sharp or grow into a fuller 3-day or 4-day stay
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you want to turn this shortlist into a realistic route
+- read [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the city shortlist already is mostly secure and the real decision now is whether a fourth day belongs outside Chongqing
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if the main remaining question is which hotel base makes these choices easiest
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the shortlist mostly is clear and the real concern is whether the city's rail, taxis, Didi, hills, and river crossings will make the route harder than it first looks
 - read [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/) if the shortlist is mostly clear and the next question is what to lock first
@@ -340,6 +344,7 @@ If that is the version you want, [A Practical 3-Day Chongqing Itinerary for Firs
 - read [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/) if the open question is whether the cruise deserves one of your real evening slots
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the next question is which evening should be classic, scenic, cruise-led, or nightlife-led
 - read [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/) if the next question is which skyline branch deserves prime time
+- read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the view already is chosen and the remaining question is where one cinematic drink fits best
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the live question is whether a higher panoramic skyline branch is stronger than another riverfront night
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the city already clearly deserves one drinks- or bars-led night
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live question is whether that drinks night should become a true later-night district

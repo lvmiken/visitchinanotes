@@ -53,6 +53,8 @@ If the city already is chosen and the live question now is which experiences tru
 
 If the broader decision still is whether Chongqing should be 2, 3, or 4 days before you even place these blocks, keep [How Many Days in Chongqing for First-Time Visitors](/guides/how-many-days-in-chongqing-for-first-time-visitors/) open too.
 
+If the city route mostly is clear but the live question now is whether a `4th day` should become `Wulong`, `Wansheng Ordovician`, or simply a slower Chongqing finish, keep [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) open too.
+
 If the day order looks mostly right but the live question is whether your dates will make this route feel comfortable or too humid and tiring, keep [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/) open too.
 
 If the shortlist is mostly clear and the remaining question is where to sleep so the city does not become harder than it should, keep [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) open too.
@@ -92,6 +94,8 @@ If the live question on this first evening is whether the classic `Hongyadong` b
 If the route already clearly wants the easiest central first-night food block, that usually means keeping the evening in the wider `Jiefangbei / Yuzhong` logic instead of trying to chase a more ambitious district on tired legs.
 
 If the first-night question still is not only where to eat but which skyline answer deserves the most valuable slot, the cleaner comparison page is [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/).
+
+If the skyline choice already is mostly secure and the live question is whether Day 1 should finish with one easier central drink rather than more walking, the narrower bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
 
 ### Day 2: Use the strongest food-and-night district, not the most crowded checklist
 
@@ -138,6 +142,8 @@ If the live question is whether the cruise is actually the right version of the 
 If the cruise already is chosen and the live question is the actual reservation process, use [How to Book a Two Rivers Cruise in Chongqing](/topics/how-to-book-two-rivers-cruise-in-chongqing/).
 
 If the same night clearly should lean more toward drinks and a modern night out, use [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/).
+
+If the same night should stay more cinematic than bar-heavy and the real question is where one skyline drink belongs, use [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
 
 If the same night clearly should lean even later and more nightlife-led than a broader `Guanyinqiao` dinner-and-drinks block, use [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/).
 
@@ -221,4 +227,4 @@ carry the structure.
 
 ## Related reads
 
-Pair this page with [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/), [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/), [How Many Days in Chongqing for First-Time Visitors](/guides/how-many-days-in-chongqing-for-first-time-visitors/), [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/), [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/), [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/), [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/), [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/), [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/), [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/), and [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/).
+Pair this page with [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/), [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/), [How Many Days in Chongqing for First-Time Visitors](/guides/how-many-days-in-chongqing-for-first-time-visitors/), [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/), [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/), [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/), [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/), [What to Book in Advance for Chongqing: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-chongqing/), [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/), [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/), [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/), [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/), and [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/).
