@@ -53,6 +53,8 @@ This page was checked against current English-language city-backed Chongqing sou
 
 If the broader Chongqing evening structure is still open, start one step up with [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/), [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/), and [Where to Eat in Jiefangbei for First-Time Visitors](/guides/where-to-eat-in-jiefangbei-for-first-time-visitors/).
 
+If the real search is less about `late` and more about whether the food stop still feels local instead of overly polished, keep [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/) open too.
+
 ## Who this page is for
 
 Use this page if you are asking:

@@ -111,6 +111,8 @@ If the live question now has narrowed from district choice to actually using `Ji
 
 If the live question now has narrowed from district choice to actually building one useful central snack session rather than one more dinner, the narrower next page is [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/).
 
+If the live question now has narrowed from district choice to how that snack or lighter night-food layer can feel more local and less performed, the narrower next page is [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/).
+
 If the live question now has narrowed from district choice to which kind of sweet stop fits the central evening after snacks or dinner, the narrower next page is [Best Chongqing Desserts for First-Time Visitors](/guides/best-chongqing-desserts-for-first-time-visitors/).
 
 It is usually weaker if you expect one central meal to explain the whole food identity of Chongqing by itself.
@@ -280,6 +282,7 @@ If the trip is short, many readers do well with:
 - read [Where to Eat on Nanbin Road for First-Time Visitors](/guides/where-to-eat-in-nanbin-road-for-first-time-visitors/) if the broader Chongqing food map is already clear and the next real question is how to use one scenic Nanbin Road dinner well
 - read [Where to Eat in Ciqikou for First-Time Visitors](/guides/where-to-eat-in-ciqikou-for-first-time-visitors/) if the broader Chongqing food map is already clear and the next real question is how to use one old-street snack, lunch, or tea block well
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the broader district map is clear and the next real question is whether Bayi Road, Jiaochangkou, or Ciqikou should carry the snack layer
+- read [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/) if the broader district map is clear and the next real question is how to make that snack or later food layer feel more local without chasing the wrong night market
 - read [Best Chongqing Desserts for First-Time Visitors](/guides/best-chongqing-desserts-for-first-time-visitors/) if the broader district map is clear and the next real question is whether the useful sweet stop belongs on a central night or a Ciqikou day
 - read [Where to Eat Late-Night Food in Chongqing for First-Time Visitors](/guides/where-to-eat-late-night-in-chongqing-for-first-time-visitors/) if the broader district map is clear and the next real question is whether Jiefangbei, Jiaochangkou, Guanyinqiao, or 9th Street actually fits one late-night food block
 - read [What Food Souvenirs to Buy in Chongqing for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-chongqing-for-first-time-visitors/) if the broader district map is clear and the next real question is which edible souvenirs are actually worth buying without turning the trip into snack shopping

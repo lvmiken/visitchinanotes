@@ -112,6 +112,8 @@ If the city already feels chosen and the food question already is narrower than 
 
 If the city already feels chosen and the food question already is narrower than that because the trip wants one useful central snack street or old-street snack block, the next page is [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/).
 
+If the city already feels chosen and the food question already is narrower than that because the real search is `more local`, `less touristy`, or `which street-food area still feels lived-in`, the next page is [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/).
+
 If the city already feels chosen and the food question already is more specific than that, the next page is [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the trip needs one broader local dinner-and-evening district beyond the skyline core.
 
 If the city already feels chosen and the food question already is more specific than that, the next page is [Where to Eat in Jiefangbei for First-Time Visitors](/guides/where-to-eat-in-jiefangbei-for-first-time-visitors/) if the trip needs the easiest central first-night dinner or skyline-core meal logic.
@@ -205,6 +207,7 @@ That usually creates a better experience than trying to race across the city col
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the next practical decision is which meals really deserve one of your limited Chongqing slots
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the city is chosen and the next practical question is which district should carry those meals
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the city is chosen and the next practical question is whether one `Bayi Road`, `Jiaochangkou`, or `Ciqikou` snack block would improve the trip
+- read [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/) if the city is chosen and the next practical question is how to make that snack or later food layer feel more local without chasing the wrong hidden-market fantasy
 - read [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/) if the city is chosen and the next food question is whether one underground hot-pot night really earns the extra effort
 - read [Where to Eat Late-Night Food in Chongqing for First-Time Visitors](/guides/where-to-eat-late-night-in-chongqing-for-first-time-visitors/) if the city is chosen and the next practical question is whether one real late-night food block belongs in the route at all
 - read [What Food Souvenirs to Buy in Chongqing for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-chongqing-for-first-time-visitors/) if the city is chosen and the next practical question is which edible Chongqing gift is actually worth buying before the onward train or flight

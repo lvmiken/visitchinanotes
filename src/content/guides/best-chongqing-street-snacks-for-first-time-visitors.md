@@ -40,6 +40,8 @@ If the broader Chongqing food plan is still open, start one step up with [What t
 
 If the real search started one level broader — not `which Chongqing snacks`, but `how do I find a China night market that is actually worth it` — keep [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) open too.
 
+If the search is narrower than that and really means `where can I find more local, non-touristy street food in Chongqing`, keep [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/) open too.
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -359,6 +361,7 @@ If the real question already is no longer which bites should be eaten now but wh
 
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the wider Chongqing food plan still is not settled
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if you now need to decide which district should carry each meal and snack block
+- read [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/) if the next decision is how to keep the snack layer more local-feeling without turning the trip into a fake hidden-market hunt
 - read [Where to Eat in Jiefangbei for First-Time Visitors](/guides/where-to-eat-in-jiefangbei-for-first-time-visitors/) if the real question is how to use `Bayi Road`, `Hongyadong`, and the central core without overbuilding the evening
 - read [Where to Eat in Ciqikou for First-Time Visitors](/guides/where-to-eat-in-ciqikou-for-first-time-visitors/) if the real question is how to use the old street for snacks, tea, or a lighter lunch
 - read [Best Chongqing Desserts for First-Time Visitors](/guides/best-chongqing-desserts-for-first-time-visitors/) if the snack layer is already clear and the next real question is whether `Shancheng tangyuan`, `lianggao`, `liangxia`, or `mahua` actually deserves the sweet slot

@@ -176,6 +176,8 @@ This matters because Chongqing often feels strongest when food stays tied to the
 
 If the real question already is no longer whether snacks matter but which kind of street-snack block actually deserves one evening or one old-street stop, go next to [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/).
 
+If the live search is narrower than that and really means `authentic` or `non-touristy` Chongqing street food, the sharper page is [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/).
+
 If the real question already is no longer whether Chongqing needs one lighter sweet layer but which desserts are actually worth protecting, go next to [Best Chongqing Desserts for First-Time Visitors](/guides/best-chongqing-desserts-for-first-time-visitors/).
 
 If the real question already is no longer what to eat in the city but what edible gift is actually worth taking home, go next to [What Food Souvenirs to Buy in Chongqing for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-chongqing-for-first-time-visitors/).
@@ -265,6 +267,7 @@ That already gives a fuller picture of Chongqing than making every meal equally 
 - read [Best Chongqing Xiaomian for First-Time Visitors](/guides/best-chongqing-xiaomian-for-first-time-visitors/) if the next decision is which noodle bowl actually deserves the city's one lighter or everyday-food slot
 - read [Where to Eat Breakfast in Chongqing for First-Time Visitors](/guides/where-to-eat-breakfast-in-chongqing-for-first-time-visitors/) if the next decision is whether one local breakfast outing actually improves the trip
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the next decision is whether Bayi Road, Jiaochangkou, or Ciqikou should carry the trip's snack-heavy food layer
+- read [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/) if the next decision is how to make that snack or late-food layer feel more local without forcing a fake hidden-market detour
 - read [Best Chongqing Desserts for First-Time Visitors](/guides/best-chongqing-desserts-for-first-time-visitors/) if the next decision is whether `Shancheng tangyuan`, `lianggao`, `liangxia`, or `mahua` actually deserves the city's sweet slot
 - read [What Food Souvenirs to Buy in Chongqing for First-Time Visitors](/guides/what-food-souvenirs-to-buy-in-chongqing-for-first-time-visitors/) if the next decision is which Chongqing food actually travels well enough to be worth taking to the next city or home
 - read [Best Chongqing Grilled Fish for First-Time Visitors](/guides/best-chongqing-grilled-fish-for-first-time-visitors/) if the next decision is which fuller second signature dinner actually deserves the grilled-fish slot
