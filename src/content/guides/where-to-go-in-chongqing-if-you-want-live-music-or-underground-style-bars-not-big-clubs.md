@@ -63,6 +63,8 @@ Use this page if you are asking:
 
 If the broader drinks-and-district question still is open, start one level up with [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/).
 
+If the word `underground` in your search really means bunker culture, bomb shelter bars, or cave-like reuse of wartime spaces rather than music-first rooms, keep [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) open too.
+
 ## The short answer
 
 For many first-time visitors, the cleanest split is:
@@ -239,6 +241,6 @@ If all three work, the night usually succeeds without needing to feel legendary.
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if you still are not sure whether the night should be music-first, bars-first, or later-night commercial
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the district already feels right and the missing piece is dinner before the music room
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the live debate still is music-first room versus later commercial nightlife branch
+- read [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) if the search is really about Chongqing's bunker-style reused spaces rather than livehouse or DJ-led nights
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the broader evening structure still matters more than one niche nightlife identity
 - read [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/) if the real blocker is not music taste but whether the city still feels manageable after 11 p.m.
-

@@ -213,6 +213,8 @@ That is often where these pages become more useful than people expect:
 - [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/)
 - [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/)
 
+If the rain is not only changing the route but exposing that everyone's legs are already done, the sharper recovery page is [Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long Day](/guides/where-to-get-a-foot-massage-or-overnight-spa-in-chongqing-after-a-long-day/).
+
 ## Option 4: use a farther museum only if the route already supports it
 
 Chongqing does have other indoor museum options beyond the central core, including natural-history and science-leaning choices.

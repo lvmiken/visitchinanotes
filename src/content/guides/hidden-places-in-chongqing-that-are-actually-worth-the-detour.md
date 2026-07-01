@@ -57,6 +57,8 @@ If the broader city structure still is not settled, keep [Chongqing Travel Guide
 
 If the live search is not really `hidden places` but the more specific viral question `why does Chongqing go from the 1st floor to the 22nd floor?`, the cleaner bridge page is [Why Does Chongqing Go From 1st Floor to 22nd Floor? Where to See the City's Vertical Weirdness](/guides/why-does-chongqing-go-from-1st-floor-to-22nd-floor-and-where-to-see-it/).
 
+If the hidden-place search is less about vertical geometry and more about reused factories, rust, and one industrial-creative stop, the narrower place page is [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/).
+
 ## The short answer
 
 For many first-time visitors, the most worthwhile hidden-style Chongqing stops are:
@@ -157,6 +159,22 @@ It is:
 
 That makes it one of the most useful `city logic` stops in Chongqing.
 
+## Option 5: Testbed 2 for the industrial-creative version of hidden Chongqing
+
+[Testbed 2](/places/testbed-2/) is the stronger answer when you want:
+
+- one repurposed-factory mood
+- one creative or design-led pause
+- one less polished layer of Chongqing that is not only about skyline or food
+
+It is often better for travelers who like:
+
+- old industrial texture
+- graffiti and reused buildings
+- one slower urban detour
+
+than for readers who only want the fastest `8D city` shock.
+
 ## Which hidden stop is best after Hongyadong?
 
 If the skyline night already is protected:
@@ -202,4 +220,5 @@ This is one of the easiest Chongqing mistakes:
 - read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if the cleanest quick public-space shock is the real goal
 - read [Liziba Station in Chongqing: Is It Worth It for First-Time Visitors?](/places/liziba-station/) if you want the easiest first hidden-style stop
 - read [Yangtze River Cableway in Chongqing: Is It Worth It for First-Time Visitors?](/places/yangtze-river-cableway/) if the route still needs one terrain-led crossing rather than another static photo stop
+- read [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/) if the route already has enough geometry and now wants one industrial-creative detour instead
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the bigger issue is still the evening structure, not the detours

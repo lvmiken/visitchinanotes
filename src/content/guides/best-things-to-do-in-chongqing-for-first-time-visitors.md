@@ -134,6 +134,8 @@ If the live query is not one exact stop but a broader `hidden places in Chongqin
 
 If the live query already has moved from `which odd stops matter?` to `which of them actually fit together in one real day?`, the stronger route page is [How to Build a Vertical-City Day in Chongqing: Liziba, Kuixing, Baixiangju, and What Actually Fits Together](/guides/how-to-build-a-vertical-city-day-in-chongqing-liziba-kuixing-baixiangju-and-what-actually-fits-together/).
 
+If the live query is less about pure geometry and more about industrial ruins, reused factories, and one creative-texture stop, the narrower place page is [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/).
+
 Why this matters:
 
 - it helps readers understand why Chongqing feels so different from Beijing, Shanghai, or Chengdu
@@ -339,6 +341,7 @@ If the route clearly has a `4th day` and the live question now is whether that e
 - read [Liziba Station Photo Spots: Best Viewing Platform, Timing, and What to Pair It With](/guides/liziba-station-photo-spots-best-viewing-platform-and-when-to-go/) if the stop already is happening and the live question is how to get the classic shot efficiently
 - read [Baixiangju in Chongqing: The Apartment Maze That Explains the City — If You Treat It Respectfully](/places/baixiangju-apartment/) if the route already has its main skyline and food layers and now wants one deeper residential-city detour
 - read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if the route already is central and you want one very short vertical-city stop instead of a longer detour
+- read [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/) if the shortlist still wants one industrial-creative texture stop beyond the skyline and food core
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the next question is which Chongqing meals truly deserve limited trip slots
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the next question is which district should carry the hot-pot night, the noodle stop, or the more atmospheric dinner
 - read [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/) if the open question is whether the cruise deserves one of your real evening slots
@@ -347,5 +350,7 @@ If the route clearly has a `4th day` and the live question now is whether that e
 - read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the view already is chosen and the remaining question is where one cinematic drink fits best
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the live question is whether a higher panoramic skyline branch is stronger than another riverfront night
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the city already clearly deserves one drinks- or bars-led night
+- read [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) if the city already deserves one more subcultural or underground evening beyond normal skyline and drinks choices
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live question is whether that drinks night should become a true later-night district
+- read [Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long Day](/guides/where-to-get-a-foot-massage-or-overnight-spa-in-chongqing-after-a-long-day/) if one of the best remaining Chongqing uses of time is actually recovery after the city's hills and night routes, not another attraction
 - read [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) if the shortlist is mostly clear and the real risk now is how weather and visibility should change the route

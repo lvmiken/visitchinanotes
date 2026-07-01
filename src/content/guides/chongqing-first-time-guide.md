@@ -122,6 +122,8 @@ If the city already feels chosen and the useful missing layer is how to turn nig
 
 If the broader nightlife layer already is clear but the real question is whether `9th Street` should be a true late branch or whether the night should stop earlier and better, the sharper bridge page is [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/).
 
+If the nightlife search already is more subcultural than that and has narrowed into Chongqing's bunker culture, underground shelters, or cave-like bar rooms, the next page is [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/).
+
 If the city already feels chosen and the useful missing layer is which skyline branch actually deserves prime time, the next page is [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/).
 
 If the skyline side already is broadly clear but the real remaining question is where one polished `drink with a view` should happen without turning the night into a bar chase, the narrower bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
@@ -131,6 +133,8 @@ If the skyline side already is secure and the real question now is whether the r
 If the live search is broader than one stop and the real question is which hidden-style Chongqing places are actually worth real route space, the editorial bridge page is [Hidden Places in Chongqing That Are Actually Worth the Detour](/guides/hidden-places-in-chongqing-that-are-actually-worth-the-detour/).
 
 If the live search phrase already is `Chongqing cyberpunk city walk` rather than one single stop, the cleaner landing page is [Chongqing Cyberpunk City Walk: The Route That Makes the City Finally Click](/guides/chongqing-cyberpunk-city-walk-guide/).
+
+If the live search is less about geometry and more about reused factories, rust, and an industrial-creative Chongqing layer, the narrower place page is [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/).
 
 If the live search phrase is the stranger `why does Chongqing go from the 1st floor to the 22nd floor?` or a broader `8D city` query, the cleaner bridge page is [Why Does Chongqing Go From 1st Floor to 22nd Floor? Where to See the City's Vertical Weirdness](/guides/why-does-chongqing-go-from-1st-floor-to-22nd-floor-and-where-to-see-it/).
 
@@ -210,11 +214,14 @@ That usually creates a better experience than trying to race across the city col
 - read [Chongqing Cyberpunk City Walk: The Route That Makes the City Finally Click](/guides/chongqing-cyberpunk-city-walk-guide/) if the real question is how to turn the city's famous weird geometry into one route that actually holds together
 - read [Hongyadong Photo Spots: Where to Shoot the “Spirited Away” View Without Wandering Blind](/guides/hongyadong-photo-spots-where-to-shoot-the-spirited-away-view-without-wandering-blind/) if the skyline choice already is narrowing specifically to one classic Hongyadong photo-led evening
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the night already should be a modern drinks-led evening
+- read [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) if the night already should lean more underground, bunker-like, or subcultural than the usual skyline-drinks answer
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the trip may want one late-night branch but the real question is whether that detour improves the route or only drains it
+- read [Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long Day](/guides/where-to-get-a-foot-massage-or-overnight-spa-in-chongqing-after-a-long-day/) if the next best Chongqing move may be recovery after the city's hills and night routes rather than another outing
 - read [Liziba Station in Chongqing: Is It Worth It for First-Time Visitors?](/places/liziba-station/) if the next narrower question is whether one short iconic urban stop deserves route space
 - read [Liziba Station Photo Spots: Best Viewing Platform, Timing, and What to Pair It With](/guides/liziba-station-photo-spots-best-viewing-platform-and-when-to-go/) if Liziba already is in play and the real issue is where to stand and how to pair it with the rest of the day
 - read [Baixiangju in Chongqing: The Apartment Maze That Explains the City — If You Treat It Respectfully](/places/baixiangju-apartment/) if the classic skyline and food layers already are secure and the route still wants one deeper residential-city stop
 - read [Kuixing Building Skybridge in Chongqing: The Ground-Level Roof Walk That Breaks Your Sense of Height](/places/kuixing-building-skybridge/) if the route already is central and you want one very short but memorable vertical-city detour
+- read [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/) if the route already has enough skyline and wants one industrial-creative or post-factory layer instead
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the next narrower question is whether the trip should upgrade to one higher panoramic skyline branch
 - read [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) if the city is chosen and the live concern is how to rescue the plan when weather, visibility, and hills start working against the route
 - read [Huguang Guild Hall in Chongqing: Is It Worth It for First-Time Visitors?](/places/huguang-guild-hall/) if the city is chosen and the next narrower question is whether Chongqing should include one immigrant-history and old-architecture stop

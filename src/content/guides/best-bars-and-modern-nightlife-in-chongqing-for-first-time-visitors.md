@@ -68,6 +68,8 @@ If the real question now is not nightlife depth but where one `skyline drink` or
 
 If the real question now is not only `which district` but `where do I go if I want live music, a livehouse, or smaller underground-style rooms instead of big clubs`, the narrower guide is [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/).
 
+If the real search is not generic bars at all and has already narrowed into `bomb shelter bars`, `bunker culture`, or cave-like underground rooms, the sharper guide is [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/).
+
 The mistake is expecting one Chongqing night district to solve all five jobs.
 
 ## Start with the kind of night you actually want
@@ -241,6 +243,7 @@ After a day with too many steps, viewpoints, and central-core crowds, most reade
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the broader night structure already is clear and the real remaining choice is which of Chongqing's two most useful all-around evening districts fits better
 - read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the real decision is one cinematic drink with a view rather than a full nightlife district
 - read [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/) if the real nightlife search is livehouse, techno, house, or a smaller room rather than generic bars
+- read [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) if the nightlife search is less about polished bars and more about Chongqing's bunker-style underground culture
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live question is whether the later-night branch deserves real trip time at all
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the later-night branch already sounds plausible and the real question is how to use it well
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the evening should start as a stronger Guanyinqiao dinner before deciding how much nightlife to add

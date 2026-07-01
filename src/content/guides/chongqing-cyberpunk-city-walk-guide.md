@@ -55,6 +55,8 @@ Use this page if you are asking:
 
 If Chongqing itself is still not chosen, keep [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/) open too.
 
+If your version of `cyberpunk` is less about vertical geometry and more about post-industrial rust, reused factory texture, or a creative ruins mood, keep [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Chongqing cyberpunk walk looks like this:
@@ -207,5 +209,6 @@ Chongqing does not need more help than that.
 
 - read [How to Build a Vertical-City Day in Chongqing: Liziba, Kuixing, Baixiangju, and What Actually Fits Together](/guides/how-to-build-a-vertical-city-day-in-chongqing-liziba-kuixing-baixiangju-and-what-actually-fits-together/) if your route now wants the more technical stop-by-stop version
 - read [Hidden Places in Chongqing That Are Actually Worth the Detour](/guides/hidden-places-in-chongqing-that-are-actually-worth-the-detour/) if the walk still needs one more selective under-the-skin stop
+- read [Testbed 2 in Chongqing: Is It Worth It for First-Time Visitors?](/places/testbed-2/) if the route's missing layer is not another geometry shock but one industrial-creative stop with reused-factory mood
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the walk is settled but the evening still is not
 - read [Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/) if the route already is good and the last missing piece is where the night should peak

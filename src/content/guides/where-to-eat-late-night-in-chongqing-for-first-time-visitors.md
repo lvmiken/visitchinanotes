@@ -73,6 +73,8 @@ For many first-time visitors, the strongest Chongqing late-night food structure 
 
 That usually works better than treating every Chongqing night like a challenge to stay out as late as possible.
 
+If the honest answer is that the group is too tired for one more food district, the better late-night Chongqing move may be recovery instead: [Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long Day](/guides/where-to-get-a-foot-massage-or-overnight-spa-in-chongqing-after-a-long-day/).
+
 ## Start with the real late-night question
 
 The best Chongqing late-night food question is usually not:

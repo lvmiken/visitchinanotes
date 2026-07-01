@@ -66,6 +66,8 @@ If the real question is no longer only the broader evening shape, but which skyl
 
 If the real question is narrower still and you mainly want one `drink with a view` instead of a full skyline session or a full nightlife district, the bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
 
+If the live search is less skyline-led and more about Chongqing's reused wartime shelters, bunker bars, or cave-like underground culture, the narrower guide is [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/).
+
 If the live search is more unusual and what you really want is one `moving` Chongqing night view through the train window instead of only another static photo stop, the narrower guide is [Chongqing Monorail Last Train Night View: Which Line Actually Works Best?](/guides/chongqing-monorail-last-train-night-view-which-line-actually-works-best/).
 
 If the live question now is not the broad evening shape at all but where to go if you hate big commercial clubs and mainly want a smaller live-music or underground-style night, the narrower guide is [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/).
@@ -73,6 +75,8 @@ If the live question now is not the broad evening shape at all but where to go i
 If the live blocker is no longer where to go but whether late-night `Didi`, QR menus, mini-program ordering, and paying after midnight are going to make the whole night stressful, the practical guide is [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/).
 
 If the real mood is quieter still and the question has narrowed to one calmer drinks, tea, or conversation-led night instead of Hongyadong crowds or 9th Street energy, the comparison page is [Ziwei Road or Nanbin Road: Which Calmer Chongqing Night Fits Better?](/guides/ziwei-road-or-nanbin-road-which-calmer-chongqing-night-fits-better/).
+
+If the real problem is no longer what to do, but whether your legs are done and the better Chongqing night might actually be a recovery block, the next page is [Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long Day](/guides/where-to-get-a-foot-massage-or-overnight-spa-in-chongqing-after-a-long-day/).
 
 If the weather is already changing whether the skyline, cruise, or river-view version still makes sense, keep [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) open too.
 
@@ -386,8 +390,10 @@ That already gives the city more range than leaving every night unplanned.
 - read [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/) if the real decision is which skyline branch deserves prime time
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the broader evening shape already is clear and the narrower remaining choice is whether the stronger night should be the easier skyline-core answer or the broader modern-urban answer
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the evening already should lean toward drinks, bars, or a more modern night out
+- read [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) if the evening search is really about bunker bars, cave-like beer rooms, or Chongqing's underground shelter culture rather than only skyline or cocktails
 - read [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/) if the real nightlife intent is music-first and anti-commercial rather than just finding a busy bar district
 - read [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/) if the bigger anxiety is not the district choice but whether the city still feels manageable once the night gets late
+- read [Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long Day](/guides/where-to-get-a-foot-massage-or-overnight-spa-in-chongqing-after-a-long-day/) if the better evening might be recovery, massage, or an all-in-one spa block instead of another district
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live issue is whether the later-night branch is actually worth the extra energy
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the live issue already is not whether 9th Street exists, but how to use it without wrecking a better night
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the live issue is whether one higher panoramic viewpoint is stronger than another riverfront night

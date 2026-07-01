@@ -152,6 +152,8 @@ That is why many first-time visitors end up liking Chongqing most when they:
 
 The city becomes more enjoyable when you stop trying to win every transport decision on cost alone.
 
+If the real problem is no longer movement but what to do after the city has already taken too much out of your legs, the better next page is [Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long Day](/guides/where-to-get-a-foot-massage-or-overnight-spa-in-chongqing-after-a-long-day/).
+
 ## Taxi and Didi solve similar problems, but Didi often removes the language friction
 
 The iChongqing car page says:

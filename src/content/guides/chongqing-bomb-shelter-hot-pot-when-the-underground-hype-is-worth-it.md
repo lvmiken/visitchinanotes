@@ -51,6 +51,8 @@ Use this page if you are asking:
 
 If the broader hot-pot restaurant choice still is open, keep [Best Chongqing Hot Pot for First-Time Visitors](/guides/best-chongqing-hotpot-for-first-time-visitors/) open too.
 
+If the underground idea already is bigger than dinner and you really want bunker bars, cave-like drinks rooms, or one more nightlife-led underground branch, keep [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) open too.
+
 ## The short answer
 
 For many first-time visitors, `bomb shelter hot pot` is worth it when:
@@ -167,5 +169,6 @@ It is usually weaker:
 
 - read [Best Chongqing Hot Pot for First-Time Visitors](/guides/best-chongqing-hotpot-for-first-time-visitors/) if the next practical question is which kind of room or district fits your dinner best
 - read [How to Order Chongqing Hot Pot for First-Time Visitors](/guides/how-to-order-chongqing-hot-pot-for-first-time-visitors/) if the restaurant style now feels clearer but the table still does not know how to order well
+- read [Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground Culture](/guides/where-to-go-in-chongqing-for-bomb-shelter-bars-bunkers-and-underground-culture/) if the underground shelter idea now wants to continue into drinks or nightlife instead of stopping at dinner
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the broader Chongqing food structure still is not settled
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the meal now sounds appealing but the wider evening still needs shape
