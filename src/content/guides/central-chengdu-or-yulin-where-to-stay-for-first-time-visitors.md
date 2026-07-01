@@ -57,6 +57,8 @@ If the district itself still feels abstract and you need to decide whether Yulin
 
 If the hotel choice mostly depends on whether the trip wants a calmer local evening or a livelier modern night, keep [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) open too.
 
+If the live hotel anxiety is specifically about queer-friendly comfort, mixed-crowd evenings, or whether Yulin really is the softer social answer, keep [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) open too.
+
 ## The short answer
 
 For many first-time visitors:
@@ -240,6 +242,7 @@ That is usually the safest answer.
 - read [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) if central Chengdu already feels right and the next live question is how to use that base for meals
 - read [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/) if Yulin already feels right and the next live question is how to use it for dinner or a softer local night
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the real hotel issue is which kind of modern evening you want near you
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the hotel choice is being shaped by queer-friendly comfort, softer mixed-crowd nightlife, or whether central convenience still beats Yulin
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the hotel area is mostly chosen and the next live decision is where dinner should actually happen
 - read [How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors](/guides/how-to-get-around-chengdu/) if the real blocker is how daily movement will feel from each base
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to place this hotel decision into Chengdu's strongest short-stay version

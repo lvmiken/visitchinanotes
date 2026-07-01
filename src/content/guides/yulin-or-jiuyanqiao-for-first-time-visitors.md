@@ -55,6 +55,8 @@ If the broader evening structure is still open, start with [What to Do in Chengd
 
 If the broader modern-night question already is active and you want the citywide parent before this district-versus-district decision, keep [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) open too.
 
+If this district choice is also really about queer-friendly comfort, mixed-crowd ease, or whether Chengdu's "gay-friendly" reputation points more toward a softer Yulin night than a bigger club push, keep [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) open too.
+
 If the broader city still feels too loose, keep [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) open too.
 
 ## The short answer
@@ -233,6 +235,7 @@ That is often smarter when:
 
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the broader evening structure is still open
 - read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if you want the broader citywide nightlife parent before locking the district choice
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the district question is really about queer-friendly comfort, softer social energy, or whether a club night should even be the main answer
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the calmer local-evening answer is starting to win
 - read [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if the livelier nightlife answer is starting to win
 - read [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/) if Yulin already is winning and the remaining question is how the bars side should actually work

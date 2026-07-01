@@ -60,6 +60,10 @@ Use this page if you are asking:
 
 If the broader evening structure still is open, start one level up with [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/).
 
+If the live search specifically comes through queer-friendly safety, mixed-crowd comfort, or Chengdu's "Gaydu" reputation instead of generic bars, the narrower companion page is [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/).
+
+If the live search already has narrowed further into drag shows, gay-club nights, or venue hooks such as `POSE` or `Butterfly`, the narrower child page is [Where to Go in Chengdu for Queer-Friendly Nightlife, Drag Shows, and Club Nights](/guides/where-to-go-in-chengdu-for-queer-friendly-nightlife-drag-shows-and-club-nights/).
+
 ## The short answer
 
 For many first-time visitors, the cleanest split is:
@@ -251,6 +255,8 @@ The strongest final-night answers are usually:
 ## Which page to read next
 
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the broader evening structure still is open
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the bars question is really about queer-friendly comfort, club versus softer mixed-crowd fit, or hotel-base anxiety
+- read [Where to Go in Chengdu for Queer-Friendly Nightlife, Drag Shows, and Club Nights](/guides/where-to-go-in-chengdu-for-queer-friendly-nightlife-drag-shows-and-club-nights/) if the nightlife search has already narrowed to drag, gay clubs, or whether venue names are still worth chasing
 - read [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/) if the neighborhood-bars version is already winning
 - read [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/) if the riverfront and photo-led nightlife answer is already winning
 - read [Where to Go in Chengdu if You Want Underground Electronic Music or Livehouses, Not Big Commercial Clubs](/guides/where-to-go-in-chengdu-if-you-want-underground-electronic-music-or-livehouses-not-big-commercial-clubs/) if music itself is the real reason you are going out

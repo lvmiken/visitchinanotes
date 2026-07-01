@@ -59,6 +59,8 @@ If the real question is mainly about meals, keep [Where to Eat in Chengdu for Fi
 
 If the real question already is no longer the broad evening shape but which Chengdu bars, nightlife districts, or music-led night actually fit a first trip, the narrower next page is [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/).
 
+If the live search is specifically about whether Chengdu feels comfortable for queer travelers and which kind of night is easiest to use, the narrower next page is [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/).
+
 ## The short answer
 
 For most first-time visitors, Chengdu nights work best when you use one of these four patterns:
@@ -315,6 +317,8 @@ That already gives the city more range than leaving every night unplanned.
 - read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the real question is how to use the whole panda-day second half instead of only the night
 - read [Best Sichuan Opera Show in Chengdu for First-Time Visitors](/guides/best-sichuan-opera-show-in-chengdu-for-first-time-visitors/) if the slower culture-led evening already is winning and the live question now is which show fits the trip better
 - read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if the evening already should lean toward drinks, bars, or a more modern night out
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the night decision is being shaped by queer-friendly comfort, social ease, or the city's "Gaydu" reputation
+- read [Where to Go in Chengdu for Queer-Friendly Nightlife, Drag Shows, and Club Nights](/guides/where-to-go-in-chengdu-for-queer-friendly-nightlife-drag-shows-and-club-nights/) if the night is no longer a broad bars question and has already narrowed to drag, gay-club, or same-week queer-event intent
 - read [How to Plan a Wuhou Shrine and Jinli Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors/) if the real question is how to run one traditional-core afternoon or evening well
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the real question is which district should carry the night
 - read [Jinli in Chengdu: Is It Worth Visiting on a First Trip?](/places/jinli/) if the real question is whether Jinli should be the traditional evening at all

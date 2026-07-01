@@ -78,6 +78,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Beyond People's Park: Where Chengdu's Older Tea-Room Atmosphere Still Feels Real](/guides/where-to-find-old-tea-room-chengdu-beyond-peoples-park/) if the broader tea question already is clear and the live decision now is whether a rougher, older tea-room detour such as [Pengzhen Old Teahouse](/places/pengzhen-old-teahouse/) actually deserves the extra travel time
 - [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/) if the missing layer is not just breakfast or tea in isolation but one softer half day that actually feels useful on a first trip
 - [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the city is chosen and the evening layer now needs a clearer shape
+- [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the evening question is specifically about queer-friendly comfort, hotel base, or whether Chengdu's relaxed reputation is real in practice
 - [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the city already feels secure and the real question is whether one extra day should go to Dujiangyan, Leshan, Sanxingdui, or nowhere
 - [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/) if the city is chosen but bad weather now is the practical question and you need to know which plans to keep, which to cut, and how to rescue the day without flattening the trip
 - [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/)
@@ -165,6 +166,8 @@ Once the city feels like the right fit, continue with [Best Area to Stay in Chen
 
 If the hotel question already has narrowed to Chengdu's safest practical base versus its stronger neighborhood-feeling base, the next page is [Central Chengdu or Yulin: Where Should First-Time Visitors Stay?](/guides/central-chengdu-or-yulin-where-to-stay-for-first-time-visitors/).
 
+If the city looks right but the real friction is whether Chengdu will feel comfortable as a queer traveler and which kind of night actually fits that version of the city, the next page is [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/).
+
 If the city already feels chosen but the live question is what actually deserves the best hours of the trip, the next page is [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/).
 
 If the panda morning already is clearly happening and the real question has shifted to what should happen after it, the next page is [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/).
@@ -250,6 +253,7 @@ If the city already feels chosen and the live question is how to keep the trip g
 - read [Best Time to Visit Chengdu for First-Time Visitors](/guides/best-time-to-visit-chengdu-for-first-time-visitors/) if dates are still flexible and the season choice may change how Chengdu feels
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if hotel choice is the real blocker
 - read [Central Chengdu or Yulin: Where Should First-Time Visitors Stay?](/guides/central-chengdu-or-yulin-where-to-stay-for-first-time-visitors/) if the hotel choice already has narrowed to convenience versus neighborhood atmosphere
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the live search is specifically about queer-friendly safety, nightlife fit, or whether Chengdu's reputation is more than a slogan
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if Chengdu is chosen and you want a cleaner shortlist before placing the days
 - read [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) if Chengdu is chosen and the live question is whether one museum deserves a place at all
 - read [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/) if Chengdu already is paired with Xi'an and the live question is whether the rail corridor itself is the right second-act move

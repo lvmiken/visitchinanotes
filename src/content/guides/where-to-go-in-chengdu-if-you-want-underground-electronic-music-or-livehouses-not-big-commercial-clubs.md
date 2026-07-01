@@ -63,6 +63,8 @@ Use this page if you are asking:
 
 If the broader bars-and-district decision still is open, start one level up with [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/).
 
+If the music-first search is also carrying queer-friendly comfort or mixed-crowd anxiety, keep [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) open too.
+
 ## The short answer
 
 For many first-time visitors, the cleanest rule is:
@@ -232,6 +234,7 @@ If all three work, the night usually succeeds without needing to become mytholog
 ## Which page to read next
 
 - read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if you still are not sure whether the night should be music-first, bars-first, or just easier and central
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the music-first branch is partly driven by wanting a more inclusive room or a more comfortable queer-traveler night
 - read [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/) if the music night should still begin as a neighborhood evening
 - read [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/) if the live debate still is underground room versus broader bar-night energy
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the district choice still matters more than the lineup choice

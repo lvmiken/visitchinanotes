@@ -66,6 +66,8 @@ Use this page if you are asking:
 
 If you still need the broader yes-or-no answer on the neighborhood itself, start first with [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/).
 
+If the reason Yulin appeals is really queer-friendly comfort, mixed-crowd ease, or Chengdu's "Gaydu" reputation rather than craft beer alone, keep [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Yulin nightlife structure is:
@@ -225,6 +227,7 @@ It gives you enough nightlife without making nightlife the entire job of the nig
 ## Which page to read next
 
 - read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if the broader nightlife structure still is open
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if Yulin is winning because the night needs to feel queer-friendly, mixed-crowd, and socially easier rather than just beer-led
 - read [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/) if the district already has won and the missing piece is the dinner itself
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the real question is whether the trip wants neighborhood rhythm or livelier bar energy
 - read [Where to Go in Chengdu if You Want Underground Electronic Music or Livehouses, Not Big Commercial Clubs](/guides/where-to-go-in-chengdu-if-you-want-underground-electronic-music-or-livehouses-not-big-commercial-clubs/) if the district sounds right but the real remaining question is whether the night should become more music-first

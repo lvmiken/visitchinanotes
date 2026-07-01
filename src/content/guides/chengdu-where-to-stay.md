@@ -180,6 +180,8 @@ If the hotel already clearly is central and the live question now is how to actu
 
 If the base decision mostly depends on whether the trip wants one local evening or one livelier nightlife push, the next page is [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/).
 
+If the hotel search is specifically about queer-friendly comfort, smoother late returns, or whether Chengdu's relaxed reputation should affect where you stay, the next page is [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/).
+
 If the base decision also needs to survive wet weather without turning every return into a hassle, the tactical companion page is [Rainy Day in Chengdu for First-Time Visitors: Panda Base, Museums, or Food?](/guides/rainy-day-in-chengdu-for-first-time-visitors/).
 
 ## Best base by trip style
@@ -245,6 +247,7 @@ The stronger version usually is to choose a base that keeps the *whole trip* eas
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the hotel area is nearly settled and you want meal districts to match it
 - read [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) if central Chengdu already is winning and you want the matching meal-execution page
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the hotel decision is really about which evenings should feel easiest
+- read [Is Chengdu Safe for Gay Travelers and Where Should You Go Out at Night?](/guides/is-chengdu-safe-for-gay-travelers-and-where-to-go-at-night/) if the stay question is really about queer-friendly comfort, socially easier neighborhoods, or how nightlife should fit a first trip
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the softer neighborhood-led hotel logic is starting to win
 - read [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if the livelier nightlife-led hotel logic is starting to win
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the real choice is which modern evening district deserves more weight
