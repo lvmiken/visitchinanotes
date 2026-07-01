@@ -68,6 +68,12 @@ If the real question is narrower still and you mainly want one `drink with a vie
 
 If the live search is more unusual and what you really want is one `moving` Chongqing night view through the train window instead of only another static photo stop, the narrower guide is [Chongqing Monorail Last Train Night View: Which Line Actually Works Best?](/guides/chongqing-monorail-last-train-night-view-which-line-actually-works-best/).
 
+If the live question now is not the broad evening shape at all but where to go if you hate big commercial clubs and mainly want a smaller live-music or underground-style night, the narrower guide is [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/).
+
+If the live blocker is no longer where to go but whether late-night `Didi`, QR menus, mini-program ordering, and paying after midnight are going to make the whole night stressful, the practical guide is [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/).
+
+If the real mood is quieter still and the question has narrowed to one calmer drinks, tea, or conversation-led night instead of Hongyadong crowds or 9th Street energy, the comparison page is [Ziwei Road or Nanbin Road: Which Calmer Chongqing Night Fits Better?](/guides/ziwei-road-or-nanbin-road-which-calmer-chongqing-night-fits-better/).
+
 If the weather is already changing whether the skyline, cruise, or river-view version still makes sense, keep [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) open too.
 
 If the live issue is less `which Chongqing evening` and more `is this the right city to carry my one real China night-market-style outing`, keep [How to Find Night Markets in China Without Ending Up in the Wrong One](/topics/how-to-find-night-markets-in-china/) open too.
@@ -249,6 +255,8 @@ If the live question already has narrowed even further to whether the later and 
 
 If the place itself already seems plausible but the real remaining question is how to use it as a late branch without sacrificing a better evening, the sharper guide is [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/).
 
+If the real nightlife search is less `which district is lively` and more `where do I go if I want live music or smaller underground-style rooms instead of big clubs`, the narrower guide is [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/).
+
 ## 5. Calmer panoramic evening: choose a Nanshan-style viewpoint night
 
 Official Chongqing nightlife pages specifically call out the Yikeshu viewing platform on Nanshan as a strong evening photo location.
@@ -378,9 +386,12 @@ That already gives the city more range than leaving every night unplanned.
 - read [Where to Get the Best Chongqing Skyline Views for First-Time Visitors](/guides/best-chongqing-skyline-views-for-first-time-visitors/) if the real decision is which skyline branch deserves prime time
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the broader evening shape already is clear and the narrower remaining choice is whether the stronger night should be the easier skyline-core answer or the broader modern-urban answer
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the evening already should lean toward drinks, bars, or a more modern night out
+- read [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/) if the real nightlife intent is music-first and anti-commercial rather than just finding a busy bar district
+- read [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/) if the bigger anxiety is not the district choice but whether the city still feels manageable once the night gets late
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live issue is whether the later-night branch is actually worth the extra energy
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the live issue already is not whether 9th Street exists, but how to use it without wrecking a better night
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if the live issue is whether one higher panoramic viewpoint is stronger than another riverfront night
+- read [Ziwei Road or Nanbin Road: Which Calmer Chongqing Night Fits Better?](/guides/ziwei-road-or-nanbin-road-which-calmer-chongqing-night-fits-better/) if the broader evening still should happen after dark but the trip no longer wants clubs, dense crowds, or a hard late finish
 - read [Rainy Day in Chongqing for First-Time Visitors](/guides/rainy-day-in-chongqing-for-first-time-visitors/) if the live decision is no longer only mood, but whether visibility, rain, and wet transfers should change the night entirely
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/) if the city's overall role in the route still feels too broad

@@ -53,6 +53,8 @@ Use this page if you are deciding:
 
 If the broader evening structure is still open, start with [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/).
 
+If the broader modern-night question already is active and you want the citywide parent before this district-versus-district decision, keep [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) open too.
+
 If the broader city still feels too loose, keep [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) open too.
 
 ## The short answer
@@ -101,6 +103,8 @@ It is usually weaker when:
 - the group would find a softer evening too tame
 - the trip already has enough food-led nights and needs one more contrast
 
+If the live question already is not whether Yulin beats Jiuyanqiao in theory, but how to use the district for craft beer, little bars, and a slower street night once it wins, the narrower next page is [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/).
+
 ## Choose Jiuyanqiao if you want the stronger nightlife answer
 
 Choose [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if you want:
@@ -120,6 +124,8 @@ It is usually weaker when:
 - nobody actually wants a later night
 - the next morning is the panda base, a train, or an early departure
 - the trip really needs an easier local dinner block instead
+
+If the live question already is not whether Jiuyanqiao beats Yulin in theory, but how to use the Anshun Bridge view and riverfront bars without turning the whole district into an overlong crawl, the narrower next page is [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/).
 
 ## Which one is better on a short Chengdu trip?
 
@@ -226,8 +232,11 @@ That is often smarter when:
 ## Which page to read next
 
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the broader evening structure is still open
+- read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if you want the broader citywide nightlife parent before locking the district choice
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the calmer local-evening answer is starting to win
 - read [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if the livelier nightlife answer is starting to win
+- read [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/) if Yulin already is winning and the remaining question is how the bars side should actually work
+- read [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/) if Jiuyanqiao already is winning and the remaining question is how to use the riverfront payoff well
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if dinner placement is still the real blocker
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you are ready to place the winning area into a real short route
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if Chengdu's overall role in the route still feels too broad

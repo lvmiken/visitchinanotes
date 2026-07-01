@@ -57,6 +57,8 @@ If your broader Chengdu structure is still unsettled, start with [Chengdu Travel
 
 If the real question is mainly about meals, keep [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) open too.
 
+If the real question already is no longer the broad evening shape but which Chengdu bars, nightlife districts, or music-led night actually fit a first trip, the narrower next page is [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/).
+
 ## The short answer
 
 For most first-time visitors, Chengdu nights work best when you use one of these four patterns:
@@ -172,6 +174,8 @@ If the real question now is whether Jiuyanqiao deserves the evening at all, how 
 
 If the live question already has narrowed to Chengdu's two main modern evening districts, the more focused comparison page is [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/).
 
+If the live question already is not only `Jiuyanqiao or Yulin`, but how to use the bridge view, riverside photo payoff, and one or two bars without forcing a full crawl, the narrower next page is [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/).
+
 ### Choose Yulin if you want the more local-feeling version
 
 `Yulin` usually works best when you want:
@@ -185,6 +189,8 @@ For many first-time visitors, Yulin is the better all-around answer when the tri
 If the real question now is whether Yulin deserves the evening at all, how long it needs, and when it beats Jiuyanqiao or Taikoo Li, the narrower next page is [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/).
 
 If the real question now is not whether Yulin deserves the evening, but how to use it for an actual dinner-and-drinks plan, the narrower execution page is [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/).
+
+If the real question now is not the dinner block but the craft-beer, little-bar, and slower neighborhood-night version of Yulin, the narrower nightlife page is [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/).
 
 If the food side of that night already is the real question, [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) is the narrower next page.
 
@@ -212,6 +218,8 @@ This is often the strongest choice when:
 This kind of night is often stronger than forcing one more crowded street just because it sounds famous.
 
 If the real question now is not whether a slower culture-led evening belongs in the trip at all, but which Chengdu opera show actually fits best, the narrower next page is [Best Sichuan Opera Show in Chengdu for First-Time Visitors](/guides/best-sichuan-opera-show-in-chengdu-for-first-time-visitors/).
+
+If the bars side of Chengdu still sounds attractive but the live search actually is for smaller rooms, livehouses, or underground electronic music instead of a generic nightlife district, the narrower next page is [Where to Go in Chengdu if You Want Underground Electronic Music or Livehouses, Not Big Commercial Clubs](/guides/where-to-go-in-chengdu-if-you-want-underground-electronic-music-or-livehouses-not-big-commercial-clubs/).
 
 ## Match the evening to the right day
 
@@ -306,11 +314,15 @@ That already gives the city more range than leaving every night unplanned.
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the real question is how much of Chengdu should be built around nightlife, old streets, culture, or food
 - read [What to Do After Chengdu Panda Base for First-Time Visitors](/guides/what-to-do-after-chengdu-panda-base-for-first-time-visitors/) if the real question is how to use the whole panda-day second half instead of only the night
 - read [Best Sichuan Opera Show in Chengdu for First-Time Visitors](/guides/best-sichuan-opera-show-in-chengdu-for-first-time-visitors/) if the slower culture-led evening already is winning and the live question now is which show fits the trip better
+- read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if the evening already should lean toward drinks, bars, or a more modern night out
 - read [How to Plan a Wuhou Shrine and Jinli Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors/) if the real question is how to run one traditional-core afternoon or evening well
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the real question is which district should carry the night
 - read [Jinli in Chengdu: Is It Worth Visiting on a First Trip?](/places/jinli/) if the real question is whether Jinli should be the traditional evening at all
 - read [Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?](/guides/kuanzhai-alley-or-jinli-for-first-time-visitors/) if the evening already should be traditional and the remaining question is which old-street area fits better
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the only real question left is which modern evening district should win the slot
+- read [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/) if the trip wants the neighborhood-bar version of Chengdu nightlife rather than only dinner geography
+- read [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/) if the trip wants the brighter riverfront-bar version instead of the more local Yulin version
+- read [Where to Go in Chengdu if You Want Underground Electronic Music or Livehouses, Not Big Commercial Clubs](/guides/where-to-go-in-chengdu-if-you-want-underground-electronic-music-or-livehouses-not-big-commercial-clubs/) if the real nightlife intent is music-first and anti-commercial rather than just finding a busy district
 - read [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) if the modern evening already has won and the next question is how to make central Chengdu meals actually work
 - read [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if the real question is whether the trip's livelier night should happen there or stay easier
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the real question is whether the trip's local evening should happen there or somewhere livelier

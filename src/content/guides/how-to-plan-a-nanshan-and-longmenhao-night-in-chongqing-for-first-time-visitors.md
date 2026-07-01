@@ -55,6 +55,8 @@ Use this page if you are asking:
 
 If the broader night choice still is open, start one level up with [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/).
 
+If the live question already is not how to build the fuller scenic route but whether a calmer adult night should stay more conversational and neighborhood-like instead, the better contrast page is [Ziwei Road or Nanbin Road: Which Calmer Chongqing Night Fits Better?](/guides/ziwei-road-or-nanbin-road-which-calmer-chongqing-night-fits-better/).
+
 ## The short answer
 
 For many first-time visitors, there are only three versions worth using:
@@ -250,5 +252,6 @@ In those cases, a cleaner dinner district often improves the trip more honestly 
 - read [Where to Eat on Nanbin Road for First-Time Visitors](/guides/where-to-eat-in-nanbin-road-for-first-time-visitors/) if the scenic-night structure is clear and the only real decision left is dinner
 - read [Nanshan Yikeshu Viewing Platform in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanshan-yikeshu-viewing-platform/) if you still are not sure the viewpoint deserves one of your limited evenings
 - read [Nanbin Road in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanbin-road/) if you want to know whether the calmer riverfront version is already enough without the extra Nanshan effort
+- read [Ziwei Road or Nanbin Road: Which Calmer Chongqing Night Fits Better?](/guides/ziwei-road-or-nanbin-road-which-calmer-chongqing-night-fits-better/) if the scenic branch sounds attractive but the real remaining choice is whether the night should stay visual on the river or soften into a calmer conversation-led district
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the broader evening choice still is open
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you want to place this night inside a realistic short trip

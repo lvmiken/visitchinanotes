@@ -50,6 +50,8 @@ If the broader food structure already is clear and the real question is which no
 
 If the real question already is not whether the spicy dinner should happen but whether that dinner should stay a bigger headline hot-pot night or become a lighter, more flexible skewer meal, the matching page is [Best Chengdu Chuanchuan for First-Time Visitors](/guides/best-chengdu-chuanchuan-for-first-time-visitors/).
 
+If the live question already is not only `which hot pot`, but whether the dinner should follow a bar night, a Jiuyanqiao stop, or a late culture night without turning the evening into chaos, keep [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) open too.
+
 If the restaurant choice already is mostly clear and the live question now is how to order the meal without turning dinner into a macho test, the sharper child page is [How to Order Chengdu Hot Pot Without Turning Dinner Into a Dare](/guides/how-to-order-chengdu-hot-pot-without-turning-dinner-into-a-dare/).
 
 ## Who this page is for
@@ -192,6 +194,8 @@ This is often where `Da Long Yi`, `Shu Jiu Xiang`, or another solid Yulin-side r
 
 If the district already is chosen, the next narrower page is [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/).
 
+If the district already is chosen and the real question now is how the bar side of that Yulin evening should work before or after the pot, the companion nightlife page is [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/).
+
 ## 6. Use Haidilao only if comfort and service matter more than local specificity
 
 TravelChinaGuide still notes `Haidilao` as a widely available Sichuan-origin chain known for service and broad familiarity.
@@ -243,6 +247,8 @@ It is often weaker:
 
 If the panda morning still is shaping what tonight can reasonably become, settle that first with [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/).
 
+If the live question now is whether the hot pot night should stay neighborhood-led in Yulin, turn riverfront and brighter in Jiuyanqiao, or stop being nightlife at all and follow a seated culture night, the better evening parent is [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/), with [Best Sichuan Opera Show in Chengdu for First-Time Visitors](/guides/best-sichuan-opera-show-in-chengdu-for-first-time-visitors/) as the calmer alternative.
+
 ## A fast decision guide
 
 Choose **Xiao Long Kan** if your real sentence sounds like:
@@ -287,5 +293,7 @@ Choose **Haidilao** if your real sentence sounds like:
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the main decision is still which district should carry the hot pot night
 - read [Where to Eat Near Chunxi Road and Taikoo Li in Chengdu for First-Time Visitors](/guides/where-to-eat-near-chunxi-road-and-taikoo-li-in-chengdu-for-first-time-visitors/) if the hot pot night must stay central and easy
 - read [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/) if the hot pot night should sit inside a more local evening district
+- read [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/) if the hot pot night already is likely to sit in Yulin and the remaining question is how the bars side should work before or after dinner
+- read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if the hot pot style is mostly clear and the bigger practical question is what kind of night should surround it
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the real question is whether the hot pot night should also become one of the trip's neighborhood evenings
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the restaurant style is mostly chosen and the next practical question is how the whole evening should feel

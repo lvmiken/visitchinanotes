@@ -54,6 +54,8 @@ If the broader nightlife layer still is not clear, start one level up with [Best
 
 If the bigger question still is not nightlife specifically but how evenings should work across the whole trip, keep [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) open too.
 
+If the live debate already is not `9th Street or not` but `commercial nightlife or a more music-first room`, the sharper contrast page is [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/).
+
 ## The short answer
 
 For many first-time visitors, `9th Street` pays off when:
@@ -130,6 +132,8 @@ The smarter approach is:
 - default to a `Didi` or clear taxi return instead of improvising after the energy is gone
 
 If the real anxiety now is not nightlife fit but everyday app logic, keep [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) and [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) open too.
+
+If the night already is plausible and the remaining blocker is specifically `Didi at 2 a.m.`, QR menus, late pickup logic, or mini-program payment friction, the narrower survival guide is [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/).
 
 The useful mindset is not:
 
@@ -225,7 +229,9 @@ The city does not need a forced after-party to feel memorable.
 
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the place itself still needs the broader yes-or-no decision
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the wider drinks-and-district choice still is open
+- read [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/) if the real question is whether a smaller music-first room would fit the trip better than a later commercial-nightlife branch
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the real question is whether dinner already should end the night
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the bigger evening structure still matters more than nightlife alone
 - read [Chongqing Bomb Shelter Hot Pot: When the Underground Hype Is Worth It](/guides/chongqing-bomb-shelter-hot-pot-when-the-underground-hype-is-worth-it/) if the trip really wants one memorable evening but the better answer may be atmospheric dinner rather than bars
+- read [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/) if the live hesitation is no longer taste but whether the return, menus, and payment stack will hold together after midnight
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if the yes-or-no answer already is clear and the only question is where this later night belongs

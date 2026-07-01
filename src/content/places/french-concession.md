@@ -2,7 +2,7 @@
 title: "French Concession in Shanghai: Is It Worth Visiting for First-Time Visitors?"
 description: "Decide whether the French Concession is worth your time, what makes it one of Shanghai's most livable and international-feeling neighborhoods, and how to fit it into a short first trip."
 publishDate: 2026-06-17
-updatedDate: 2026-06-23
+updatedDate: 2026-06-30
 city: "shanghai"
 whoItsFor:
   - "travelers who want a more lived-in side of Shanghai"
@@ -88,6 +88,8 @@ If the plan gives this area only a rushed hour between two distant sights, you p
 
 If the district already is clearly happening and the only live question is how to turn it into one practical walking route instead of vague wandering, the narrower execution page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/). If the route already is clearly day-led rather than attraction-led and the real search is for a more stylish coffee-and-street version of the same area, the sharper companion page is [A Shanghai Coffee Walk Through Anfu, Julu, Fumin, and Changle](/guides/a-shanghai-coffee-walk-through-anfu-julu-fumin-and-changle/).
 
+If the district already is clearly winning and the live question is not only dinner and walking but whether the night should tilt toward hidden cocktails, jazz, live music, or a broader after-dark branch, the next pages are [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/), [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/), and [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/) depending on whether the evening should stay cocktail-led, neighborhood-led, or music-first.
+
 If the route already feels full enough and the better question is whether it needs one quieter lived-in pause rather than one more lane, [Fuxing Park](/places/fuxing-park/) is usually the most useful short reset nearby.
 
 If the district already is clearly happening and the live question is whether one more design- or photo-led detour belongs around the broader neighborhood day, [1933 Old Millfun](/places/1933-old-millfun/) is the stronger architecture stop and [Zhapu Road Bridge](/places/zhapu-road-bridge/) is the cleaner short skyline-angle add-on. If the route wants a quieter old lane-house contrast rather than another polished food or shopping block, [Laoximen and Cité Bourgogne: Where Old Shanghai Still Feels Intimate](/guides/laoximen-and-cite-bourgogne-where-old-shanghai-still-feels-intimate/) is the more intimate detour.
@@ -125,6 +127,8 @@ If your hotel question already has narrowed to Shanghai's most common Puxi-side 
 - read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the live choice is classic skyline convenience versus slower neighborhood rhythm
 - read [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) if the district already is chosen and the live question is what kind of meal belongs there
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the district already is chosen and the live question is how to use the evening well
+- read [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/) if the district already is chosen and the live question is whether one hidden-bar stop should sharpen the evening
+- read [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/) if the district already is chosen but the night now wants a stronger music-first second act
 - read [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) if the district already is chosen and the live question is how to shape the best first walk through it
 - read [1933 Old Millfun in Shanghai: When This Strange Concrete Maze Is Worth Your Time](/places/1933-old-millfun/) if the neighborhood day already is happening and the live question is whether one architecture-led detour deserves time
 - read [Zhapu Road Bridge in Shanghai: A Short Photo Stop That Gets the Skyline Right](/places/zhapu-road-bridge/) if the neighborhood day already is happening and the live question is whether one cleaner skyline angle deserves a short stop

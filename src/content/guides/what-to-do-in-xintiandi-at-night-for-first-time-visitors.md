@@ -137,6 +137,8 @@ Choose this version if:
 
 If the live question is really bars versus cocktails versus a louder nightlife choice, the comparison page is [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/).
 
+If the group is now hesitating because Xintiandi sounds a little too compact or a little too staged, the cleaner contrast page is [What to Do in Jing'an at Night for First-Time Visitors](/guides/what-to-do-in-jingan-at-night-for-first-time-visitors/).
+
 ## 3. Use the stroll as a continuation, not as the whole reason to come
 
 Xintiandi usually works best when the walking supports the night instead of trying to become a major sightseeing block by itself.
@@ -277,6 +279,7 @@ Xintiandi is usually better when:
 - read [Where to Eat in Xintiandi for First-Time Visitors](/guides/where-to-eat-in-xintiandi-for-first-time-visitors/) if the main open question still is what kind of dinner belongs in the district
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the broader evening choice is still open
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the live decision is really about cocktails, bar districts, and how lively the night should become
+- read [What to Do in Jing'an at Night for First-Time Visitors](/guides/what-to-do-in-jingan-at-night-for-first-time-visitors/) if the live comparison is Xintiandi's compact polish versus Jing'an's broader easy-modern night
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the meal district itself still is the bigger question
 - read [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) if the trip may actually want a broader day-plus-evening district instead
 - read [The Bund in Shanghai: Best Time to Go for First-Time Visitors](/places/the-bund/) if the skyline timing itself is still the live question

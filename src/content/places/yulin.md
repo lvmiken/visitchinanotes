@@ -146,6 +146,8 @@ If the real question already is not whether Yulin deserves one evening, but whet
 
 If the real question already is not whether Yulin deserves time, but how to use it for dinner, cafes, or a slower local evening, the more focused food page is [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/).
 
+If the real question already is not the dinner plan but the bars-and-street-rhythm version of the district, the more focused nightlife page is [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/).
+
 ## Yulin vs Chunxi Road and Taikoo Li
 
 These areas solve different trip problems.
@@ -218,10 +220,12 @@ Yulin often disappoints when travelers:
 ## Which page to read next
 
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the real question is whether Yulin should beat Jiuyanqiao, Jinli, or Taikoo Li for one limited evening
+- read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if the neighborhood already looks plausible and the remaining question is how it compares with Chengdu's other nightlife shapes
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the only real decision left is which modern evening district fits better
 - read [Jiuyanqiao in Chengdu: Is It Worth Visiting on a First Trip?](/places/jiuyanqiao/) if the real question is whether the trip's livelier later night should happen there instead
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the real question is whether Yulin should carry dinner or only drinks and walking
 - read [Where to Eat in Yulin for First-Time Visitors](/guides/where-to-eat-in-yulin-for-first-time-visitors/) if the real question is how to turn Yulin into a practical dinner-and-walk block instead of only a vague local-neighborhood idea
+- read [Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu Night](/guides/where-to-go-in-yulin-for-craft-beer-little-bars-and-a-slower-chengdu-night/) if the real question is how to use Yulin once the bars side of the neighborhood matters as much as the dinner side
 - read [Central Chengdu or Yulin: Where Should First-Time Visitors Stay?](/guides/central-chengdu-or-yulin-where-to-stay-for-first-time-visitors/) if the real question is whether Yulin should shape the whole hotel strategy or stay as one evening district
 - read [Where to Drink Tea in Chengdu for First-Time Visitors](/guides/where-to-drink-tea-in-chengdu-for-first-time-visitors/) if the idea is to turn Yulin into a slower afternoon-to-evening neighborhood instead of only a night stop
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to know which day this neighborhood actually belongs on

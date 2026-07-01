@@ -66,6 +66,8 @@ If the real question now is not only whether `9th Street` is worth it in theory,
 
 If the real question now is not nightlife depth but where one `skyline drink` or `rooftop-style pause` should happen without turning the whole night into a venue chase, the narrower bridge page is [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/).
 
+If the real question now is not only `which district` but `where do I go if I want live music, a livehouse, or smaller underground-style rooms instead of big clubs`, the narrower guide is [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/).
+
 The mistake is expecting one Chongqing night district to solve all five jobs.
 
 ## Start with the kind of night you actually want
@@ -131,6 +133,8 @@ It is usually weaker when:
 
 If the live question now is whether `9th Street` itself really deserves one of your limited Chongqing nights or whether `Guanyinqiao` already solves the evening better, the narrower place page is [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/).
 
+If the live question is no longer whether `9th Street` sounds fun but whether it is the wrong answer for a more music-first or anti-commercial night, the sharper contrast page is [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/).
+
 ## 3. Choose Jiefangbei if you want an easier central drink with city energy
 
 Jiefangbei is usually not the first answer for bar-hopping.
@@ -180,6 +184,8 @@ It is usually weaker if the group specifically wants:
 - a later and more social finish
 
 If the live question now is whether Nanbin Road itself is worth protecting as one of your limited Chongqing evenings, the narrower page is [Nanbin Road in Chongqing: Is It Worth It for First-Time Visitors?](/places/nanbin-road/).
+
+If the river-view idea is winning mainly because the trip wants a calmer adult evening rather than a true nightlife mission, the better comparison page is [Ziwei Road or Nanbin Road: Which Calmer Chongqing Night Fits Better?](/guides/ziwei-road-or-nanbin-road-which-calmer-chongqing-night-fits-better/).
 
 ## 5. Choose the hotel area if energy is already gone
 
@@ -234,10 +240,13 @@ After a day with too many steps, viewpoints, and central-core crowds, most reade
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if you still need the broader evening comparison
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the broader night structure already is clear and the real remaining choice is which of Chongqing's two most useful all-around evening districts fits better
 - read [Where to Get Skyline Drinks in Chongqing for First-Time Visitors](/guides/where-to-get-skyline-drinks-in-chongqing-for-first-time-visitors/) if the real decision is one cinematic drink with a view rather than a full nightlife district
+- read [Where to Go in Chongqing if You Want Live Music or Underground-Style Bars, Not Big Clubs](/guides/where-to-go-in-chongqing-if-you-want-live-music-or-underground-style-bars-not-big-clubs/) if the real nightlife search is livehouse, techno, house, or a smaller room rather than generic bars
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live question is whether the later-night branch deserves real trip time at all
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the later-night branch already sounds plausible and the real question is how to use it well
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the evening should start as a stronger Guanyinqiao dinner before deciding how much nightlife to add
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the evening is mainly a dinner-district decision before the bar question
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the real question is still which meal should anchor the night
+- read [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/) if the bigger stress is not nightlife taste but late-night transport, QR ordering, and app payment friction
+- read [Ziwei Road or Nanbin Road: Which Calmer Chongqing Night Fits Better?](/guides/ziwei-road-or-nanbin-road-which-calmer-chongqing-night-fits-better/) if the trip still wants one adult evening out but the louder districts now sound like too much
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if hotel location will decide whether a late night feels easy or annoying
 - read [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/) if you want to keep the city's overall role in the route clear before adding a nightlife branch

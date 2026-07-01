@@ -2,7 +2,7 @@
 title: "Pudong or Puxi: Where to Stay in Shanghai for First-Time Visitors"
 description: "Compare Pudong and Puxi so first-time visitors can choose the better Shanghai hotel base based on skyline priorities, airport logistics, walkability, and how short the trip is."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-01
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -160,6 +160,8 @@ Choose **Puxi** if:
 
 If the real skyline question still is not about hotels, but about whether Pudong deserves time at all, read [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/).
 
+If the same skyline urge already is narrowing into `one polished drink with the view` rather than an observation deck or all-night district, the sharper child page is [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/).
+
 ## Which side is better for food and evenings?
 
 Usually **Puxi**.
@@ -178,6 +180,8 @@ Pudong can still work for polished hotel nights or one controlled skyline-led ev
 - you want Shanghai to feel livable rather than only impressive
 
 If the hotel question is really about how nights should feel, keep [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) open too.
+
+If the live night question is really `Where can I go out with the least friction, especially alone or on a first night?`, the better companion is [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/). If the trip instead wants a more culture-or-music-led Puxi evening, use [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/).
 
 ## Which side is better for airport logic?
 
@@ -211,6 +215,9 @@ If airport movement is the real driver, compare that with [How to Get From Shang
 
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if you still need the wider Bund-side versus French Concession versus People's Square view
 - read [Lujiazui Skyline for First-Time Visitors: How to Decide Whether the Deck View Is Worth the Time](/places/lujiazui-skyline/) if the bigger temptation still is whether Pudong deserves time at all
+- read [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/) if the choice keeps drifting toward Pudong because of one expensive skyline-drink fantasy
 - read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if the city structure still feels too broad
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the hotel choice is really about how evenings should feel
+- read [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/) if the hotel choice is really about easy social nightlife and a forgiving first night
+- read [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/) if the hotel choice is really about which side makes a music-led Puxi night easiest
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) if flight timing is shaping the stay more than sightseeing logic

@@ -2,7 +2,7 @@
 title: "Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly"
 description: "Plan a better Shanghai speakeasy night by choosing the right district, pacing the bar count, and treating hidden entrances as part of the mood rather than the whole point of the evening."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-06-30
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -87,6 +87,8 @@ Usually the right answers are:
 - a neighborhood night with one hidden-bar flourish
 - a final-night adult evening that feels distinctly Shanghai
 
+Searches that arrive through names such as `Speak Low`, `Laundry Co`, or `Sober Company` still usually need this same structural answer: one district, one anchor, and one continuation rather than a childish citywide secret-door hunt.
+
 ## Best districts for a first speakeasy night
 
 ### Xintiandi
@@ -157,5 +159,6 @@ Skip it when:
 
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the broader nightlife district still is the real decision
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the evening itself still needs a broader structure
+- read [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/) if the evening is no longer about hidden bars at all and is really a skyline-drinks decision
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the hidden-bar night should stay neighborhood-led
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the night should be more polished and contained

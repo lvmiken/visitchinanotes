@@ -2,7 +2,7 @@
 title: "Xintiandi in Shanghai: Is It Worth Visiting on a First Trip?"
 description: "Decide whether Xintiandi deserves dinner or nightlife time, who it suits best, and when it is a better Shanghai choice than one more Bund or mall-heavy block."
 publishDate: 2026-06-22
-updatedDate: 2026-06-23
+updatedDate: 2026-06-30
 city: "shanghai"
 whoItsFor:
   - "first-time Shanghai visitors deciding where one polished evening should happen"
@@ -78,6 +78,8 @@ It is usually less worth protecting when:
 - you want deeper local texture more than polished central convenience
 
 For many first-time visitors, Xintiandi is worth using as one well-placed evening, not treating like a must-see daytime landmark.
+
+If the district already sounds right but the real question is whether the evening should stay polished here or loosen into a more social expat-heavy cluster, the narrower contrast page is [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/).
 
 ## What Xintiandi is best for
 
@@ -184,6 +186,7 @@ It often improves the trip less when:
 - read [Where to Eat in Xintiandi for First-Time Visitors](/guides/where-to-eat-in-xintiandi-for-first-time-visitors/) if the district already is chosen and the live question is what kind of dinner belongs there
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the district already is chosen and the live question is how to use the evening well
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the live question is how polished or social the night should become
+- read [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/) if the live question is whether the night should stay compact and polished or become a more social, sports-friendly, all-in-one cluster
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the practical decision is what district should carry dinner
 - read [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) if the bigger decision is polished evening versus slower all-day district value
 - read [Nanjing Road in Shanghai: Is It Worth Your Time or Mostly a Convenience Stop?](/places/nanjing-road/) if the live choice is polished evening comfort versus classic central commercial energy

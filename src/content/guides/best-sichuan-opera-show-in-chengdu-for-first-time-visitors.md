@@ -63,6 +63,8 @@ Use this page if you are asking:
 
 If the broader evening structure still is open, keep [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) open too.
 
+If the broader bars-and-nightlife layer still is open and the question is whether this cultural night should beat a more modern evening instead, keep [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) open too.
+
 If the broader city still feels too loose, keep [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) and [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) open too.
 
 ## The short answer
@@ -241,6 +243,17 @@ The most useful tips usually are:
 - arrive early enough that entry does not feel rushed
 - expect tea, photos, or extra add-ons to vary by venue and ticket class
 
+For most first-time visitors, you do not need to obsess over one exact row as if face-changing only works from one seat.
+
+The more useful rule is:
+
+- sit close enough that facial and hand detail still reads clearly
+- but do not overpay for tiny seat differences before you even know whether this should be an opera night or a freer Chengdu evening
+
+If the live question now is not the show itself but whether tea-service atmosphere, ear-cleaning add-ons, and a more classic teahouse feeling are actually part of the appeal, the cleaner companion page is [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/).
+
+If the live question now is what the night should become after the show instead of forcing another long walk, the strongest food-led continuation is often [Best Chengdu Hot Pot for First-Time Visitors](/guides/best-chengdu-hotpot-for-first-time-visitors/), especially if the route wants one more late dinner rather than another full nightlife district.
+
 The most common mistake is over-researching tiny seat differences while ignoring the bigger trip-fit question:
 
 is this the right night for a seated culture block in the first place?
@@ -256,8 +269,11 @@ is this the right night for a seated culture block in the first place?
 ## Which page to read next
 
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the bigger evening structure still is not clear
+- read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if the real decision still is whether this culture night should beat a more modern Chengdu evening
 - read [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if you still are not sure whether a culture-led evening deserves one of Chengdu's limited time blocks at all
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if the broader city role still feels too broad
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to place the opera night into a real route
 - read [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/) if weather now is deciding whether a seated show is the smarter night
+- read [Heming Teahouse in Chengdu: What to Expect and Whether Ear Cleaning Is Worth It](/guides/heming-teahouse-in-chengdu-what-to-expect-and-whether-ear-cleaning-is-worth-it/) if the teahouse-style atmosphere and add-on culture around the evening still matter as much as the show itself
+- read [Best Chengdu Hot Pot for First-Time Visitors](/guides/best-chengdu-hotpot-for-first-time-visitors/) if the show itself is chosen and the next practical question is how the night should end
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the bigger open question still is dinner rather than the show itself

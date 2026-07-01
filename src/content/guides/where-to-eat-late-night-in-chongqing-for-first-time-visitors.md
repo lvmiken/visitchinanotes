@@ -177,6 +177,8 @@ For many first-time visitors, `9th Street` is not the best food answer. It is th
 
 If the real question already is whether the night should go that late at all, go next to [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/).
 
+If the real question now is not only whether the late-night branch is food-led or nightlife-led, but whether you can actually manage the `Didi`, QR ordering, and payment side once the night goes past midnight, the sharper logistics page is [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/).
+
 ## 5. Nanbin Road and Ciqikou are usually weaker late-night food answers
 
 These areas can still be enjoyable, but they usually solve different evening needs.
@@ -306,4 +308,5 @@ It gives you:
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the real question is which late snacks are actually worth eating
 - read [Best Chongqing Desserts for First-Time Visitors](/guides/best-chongqing-desserts-for-first-time-visitors/) if the real question is which sweet stop deserves the late-night slot
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the live decision is no longer only food, but whether the night should become a true drinks-and-nightlife evening
+- read [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/) if the late-night food plan already sounds right but the real anxiety is getting home, reading QR menus, or paying after midnight
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you want to place the late-night food layer into a realistic short Chongqing route

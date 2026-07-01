@@ -141,6 +141,8 @@ If that comparison still is the real decision, the next page is [Yulin in Chengd
 
 If the live question already has narrowed to Chengdu's two main modern evening districts and you want one direct choice instead of flipping between both place pages, the more focused comparison page is [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/).
 
+If the live question already is not whether Jiuyanqiao deserves the evening, but how to use the Anshun Bridge view, river walk, and bars without forcing a whole crawl, the more focused nightlife page is [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/).
+
 ## Jiuyanqiao vs Chunxi Road and Taikoo Li
 
 These areas solve different night problems.
@@ -213,8 +215,10 @@ Jiuyanqiao often disappoints when travelers:
 ## Which page to read next
 
 - read [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) if the real question is whether Jiuyanqiao should beat Yulin, Jinli, or Taikoo Li for one limited evening
+- read [Best Bars and Modern Nightlife in Chengdu for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chengdu-for-first-time-visitors/) if the district already looks plausible and the remaining question is how it compares with Chengdu's other nightlife shapes
 - read [Yulin or Jiuyanqiao: Which Chengdu Evening Area Is Better for First-Time Visitors?](/guides/yulin-or-jiuyanqiao-for-first-time-visitors/) if the only real decision left is which modern evening district fits better
 - read [Yulin in Chengdu: Is It Worth Visiting on a First Trip?](/places/yulin/) if the real question is whether the night should stay livelier or become more local and food-led
+- read [Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao Bars](/guides/where-to-go-in-chengdu-at-night-for-anshun-bridge-views-and-jiuyanqiao-bars/) if the real question is how to make the district's photo payoff and bar layer actually work in one evening
 - read [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) if the real question is whether dinner should happen around Jiuyanqiao or somewhere calmer
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you want to know which night this area actually belongs on
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if the broader role of Chengdu in the route still feels too broad

@@ -2,7 +2,7 @@
 title: "Best Bars and Modern Nightlife in Shanghai for First-Time Visitors"
 description: "A practical guide to Shanghai bars and modern nightlife for first-time visitors, including when to choose Xintiandi, Fumin Road, FOUND158, Jing'an, or a Bund-area rooftop-style night."
 publishDate: 2026-06-20
-updatedDate: 2026-06-23
+updatedDate: 2026-06-30
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -164,6 +164,8 @@ FOUND158 is often better than Xintiandi or Fumin Road when:
 - the night should feel social and open-ended
 - you do not want to keep deciding where to go next once the night starts
 
+If the live question already is not simply `Is FOUND158 one candidate?` but `When does it actually help a first-time visitor, a solo traveler, or a sports-led night?`, the narrower guide is [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/).
+
 ### When FOUND158 is weaker
 
 - if you want the most elegant or refined night
@@ -188,6 +190,8 @@ Official Shanghai nightlife material also keeps surfacing Jing'an as an active a
 
 If the live question already has narrowed from `Which nightlife district?` to `Is Jing'an itself the right polished modern answer?`, the more focused companion page is [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/).
 
+If the district already is winning and the live question now is how to actually use it at night without flattening it into `just another dinner`, the narrower execution page is [What to Do in Jing'an at Night for First-Time Visitors](/guides/what-to-do-in-jingan-at-night-for-first-time-visitors/).
+
 ## 5. Bund-adjacent rooftops or skyline drinks when the view still matters more than the crawl
 
 Some travelers do not really want a "bar night."
@@ -207,6 +211,8 @@ This type of night is strongest when:
 - the day already centered on [The Bund](/places/the-bund/)
 
 If the skyline itself still is the point but the live choice is whether that one upscale drink should happen on a rooftop or stay on the public north-side riverfront, the sharper comparison is [North Bund or Flair? Where Shanghai's Skyline Feels More Special](/guides/north-bund-or-flair-where-shanghais-skyline-feels-more-special/).
+
+If the real question already is broader than `Flair or not` and has become `How do I use one Bund-view rooftop drink without wasting the night on price, dress code, or the wrong mood?`, the narrower bridge page is [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/).
 
 It is weaker when:
 
@@ -254,6 +260,8 @@ Choose:
 - **Fumin Road** if you want the most enjoyable walkable neighborhood bar night
 - **FOUND158** if the night should feel livelier and more entertainment-led
 
+If what you actually want is neither a polished district nor a louder social cluster, but a music-first night around jazz, live performance, or underground electronic rooms, the narrower companion page is [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/).
+
 That single decision usually does more for the trip than trying to split one evening across multiple districts.
 
 ## Common mistakes
@@ -269,9 +277,13 @@ That single decision usually does more for the trip than trying to split one eve
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the night still might become a cruise, skyline walk, or museum-night plan instead of a bars-and-drinks evening
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if dinner district logic is still the bigger decision
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the group still has not decided what kind of dinner should anchor the night
+- read [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/) if the real question is whether one social, expat-heavy, sports-friendly nightlife cluster is smarter than a more polished district
+- read [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/) if the nightlife question is really a skyline-drinks decision in disguise
+- read [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/) if the real answer may be music-first rather than cocktails-first
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the night already is narrowing into a broader neighborhood dinner-and-drinks evening instead of a compact Xintiandi plan
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if Xintiandi already is winning and the next decision is how simple or how social the evening should become
 - read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the easier modern evening already is winning and the remaining question is whether Jing'an deserves the slot more than another district
+- read [What to Do in Jing'an at Night for First-Time Visitors](/guides/what-to-do-in-jingan-at-night-for-first-time-visitors/) if the easier modern evening already is winning and the next decision is whether the night should become dinner, cocktails, or a short Suzhou Creek continuation
 - read [Is Shanghai Safe at Night for Solo Female Travelers?](/guides/is-shanghai-safe-at-night-for-solo-female-travelers/) if the nightlife question is tangled up with solo-evening confidence, return ease, or district legibility
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place one nightlife evening into a real short-stay structure
 - read [French Concession](/places/french-concession/) if the bar night should feel more neighborhood-led
