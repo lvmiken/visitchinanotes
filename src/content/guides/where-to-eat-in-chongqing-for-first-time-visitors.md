@@ -138,6 +138,8 @@ It is often a better answer than the most crowded central-core blocks when:
 
 If the live question now has narrowed from district choice to actually using `Guanyinqiao` well for one meal, dessert continuation, or food-plus-drinks evening, the narrower next page is [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/).
 
+If the live question now has narrowed from district choice to a broader `where should we go for a more local dinner-and-street-life night` decision, the narrower next page is [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/).
+
 If the live decision now is no longer only where to eat, but whether a short first Chongqing trip should use `Guanyinqiao` or `Jiefangbei` for the more useful all-around evening district, the narrower next page is [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/).
 
 ## 3. Nanbin Road for one skyline dinner that is really about atmosphere
@@ -279,6 +281,7 @@ If the trip is short, many readers do well with:
 - read [Where to Eat in Jiefangbei for First-Time Visitors](/guides/where-to-eat-in-jiefangbei-for-first-time-visitors/) if the broader Chongqing food map is already clear and the next real question is how to use one central Jiefangbei meal well
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the route clearly wants one main dinner-and-evening district but you still are not sure whether the easier skyline-core answer or the broader modern-local answer fits better
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the broader Chongqing food map is already clear and the next real question is how to use one fuller Guanyinqiao meal well
+- read [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) if the broader Chongqing food map is already clear and the next real question is how to turn that second-night meal into a broader local-feeling evening
 - read [Where to Eat on Nanbin Road for First-Time Visitors](/guides/where-to-eat-in-nanbin-road-for-first-time-visitors/) if the broader Chongqing food map is already clear and the next real question is how to use one scenic Nanbin Road dinner well
 - read [Where to Eat in Ciqikou for First-Time Visitors](/guides/where-to-eat-in-ciqikou-for-first-time-visitors/) if the broader Chongqing food map is already clear and the next real question is how to use one old-street snack, lunch, or tea block well
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the broader district map is clear and the next real question is whether Bayi Road, Jiaochangkou, or Ciqikou should carry the snack layer

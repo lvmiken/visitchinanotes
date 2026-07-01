@@ -1,6 +1,6 @@
 # Content Todo
 
-Last updated: 2026-06-30
+Last updated: 2026-07-02
 
 ## Goal
 
@@ -22,6 +22,7 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 
 ## Recent maintenance
 
+- 2026-07-02: Added a narrower Chongqing neighborhood-evening page for `more local dinner`, `street-life night`, and softer `jianghu-cai mood` searches, then linked it back into the city's first-time, district-food, night-planning, and local-street-food layers so readers looking for one broader neighborhood-led dinner block beyond skyline nights, snack strips, or bars-first nightlife now land on a dedicated answer instead of being flattened into Guanyinqiao-only or generic late-night pages.
 - 2026-07-02: Added a narrower Chongqing food-intent page for `authentic / non-touristy street food` and linked it back into the city's first-time, food, snack, district-food, and late-night layers so readers chasing more local-feeling snack streets, neighborhood spillover, and everyday night-food rhythm no longer get flattened into generic Bayi Road or late-night pages.
 - 2026-07-02: Extended the Chongqing cluster with a new bunker-culture nightlife guide, a new foot-massage / overnight-spa recovery guide, and a new `Testbed 2` industrial-creative place page, then linked them back into the city's main night-planning, bars, bomb-shelter hot-pot, cyberpunk-walk, hidden-places, best-things, and first-time-guide layers so `bomb shelter bars`, `cave bars`, `bunker culture`, `Chongqing foot massage / overnight spa`, and `TESTBED 2` searches now land on dedicated answers instead of being flattened into generic nightlife or skyline coverage.
 - 2026-07-01: Added a dedicated Chengdu LGBTQ+ intent page around `Is Chengdu safe for gay travelers`, queer-friendly night fit, and hotel-base comfort, then linked it into the city's first-time, stay, Yulin-vs-Jiuyanqiao, broader nightlife, and music-first pages so `Gaydu`, `LGBTQ-friendly Chengdu hotels`, `POSE / drag / queer nightlife`, and softer mixed-crowd safety searches now land on one stable answer instead of getting flattened into generic bars coverage.

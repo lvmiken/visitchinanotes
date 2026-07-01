@@ -55,6 +55,8 @@ If the broader Chongqing evening structure is still open, start one step up with
 
 If the real search is less about `late` and more about whether the food stop still feels local instead of overly polished, keep [Where to Find More Local, Non-Touristy Street Food in Chongqing](/guides/where-to-find-more-local-non-touristy-street-food-in-chongqing/) open too.
 
+If the real search is not actually about eating after midnight but about building one broader `local dinner and street-life night`, keep [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) open too.
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -309,6 +311,7 @@ It gives you:
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the broader food district map still matters more than the late-night question
 - read [Where to Eat in Jiefangbei for First-Time Visitors](/guides/where-to-eat-in-jiefangbei-for-first-time-visitors/) if the likely late-night food block is attached to the skyline-core evening
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the likely late-night food block is attached to a fuller second-night dinner
+- read [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) if the real question is less about eating later and more about shaping a fuller neighborhood dinner-and-evening block from the start
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the real question is which late snacks are actually worth eating
 - read [Best Chongqing Desserts for First-Time Visitors](/guides/best-chongqing-desserts-for-first-time-visitors/) if the real question is which sweet stop deserves the late-night slot
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the live decision is no longer only food, but whether the night should become a true drinks-and-nightlife evening

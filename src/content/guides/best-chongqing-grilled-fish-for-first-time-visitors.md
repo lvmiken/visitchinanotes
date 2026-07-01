@@ -129,6 +129,8 @@ Choose Guanyinqiao grilled fish if:
 
 If the district itself is still the real question, keep [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) open too.
 
+If the dish already is chosen but the real question now is how to turn that Guanyinqiao dinner into a broader neighborhood-led evening, keep [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) open too.
+
 ## 3. Choose Nanbin Road or Longmenhao-side grilled fish if scenery should matter almost as much as the food
 
 This is the more atmospheric answer.
@@ -251,6 +253,7 @@ Choose **actual Wanzhou grilled fish in Wanzhou District** if your real sentence
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the broader meal shortlist still needs a clearer order
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the main decision is still which district should carry the grilled-fish night
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the trip already knows the stronger second-night dinner should happen there
+- read [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) if the grilled-fish dinner should become part of a broader local-feeling evening instead of only a one-stop meal
 - read [Where to Eat on Nanbin Road for First-Time Visitors](/guides/where-to-eat-in-nanbin-road-for-first-time-visitors/) if the trip already knows the grilled-fish night should be scenic and river-view-led
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the real question is how the grilled-fish dinner should fit the wider evening
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you want to place the grilled-fish dinner inside a realistic short route

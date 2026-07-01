@@ -197,6 +197,8 @@ This is often the stronger answer for:
 
 If the district decision is already narrowing, the next page is [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/).
 
+If the real question is no longer mainly `snacks` but a broader local-feeling dinner block with street life attached, the sharper next page is [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/).
+
 ## 4. Ciqikou is fine for old-street texture, but it is not your best `authentic local night` answer
 
 This is where many first-time visitors confuse:
@@ -293,6 +295,7 @@ It is usually weaker when:
 - read [Best Chongqing Street Snacks for First-Time Visitors](/guides/best-chongqing-street-snacks-for-first-time-visitors/) if the real question is which actual snack layer deserves the stop, not only which district sounds less touristy
 - read [Where to Eat Late-Night Food in Chongqing for First-Time Visitors](/guides/where-to-eat-late-night-in-chongqing-for-first-time-visitors/) if the evening already is running late and the remaining question is where the best practical extension belongs
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the route clearly wants one broader local dinner-and-snack evening beyond the skyline core
+- read [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) if the route clearly wants one broader neighborhood-led dinner-and-evening block rather than only a snack-first street-food hunt
 - read [Where to Eat in Jiefangbei for First-Time Visitors](/guides/where-to-eat-in-jiefangbei-for-first-time-visitors/) if the route still wants the easiest central answer but you need to use it more intelligently
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the broader meal structure still is not settled
 - read [Chongqing Travel Guide for First-Time Visitors](/guides/chongqing-first-time-guide/) if the real issue is still the city's overall shape rather than one food branch

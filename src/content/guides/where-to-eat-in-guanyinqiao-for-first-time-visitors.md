@@ -117,6 +117,8 @@ If the district already feels right and the real question now is how to order a 
 
 If the district already feels right but the real question now is whether a polished first-time brand, a stronger old-school room, or a scenic Nanshan version is the better use of the hot pot slot, keep [Best Chongqing Hot Pot for First-Time Visitors](/guides/best-chongqing-hotpot-for-first-time-visitors/) open too.
 
+If the district already feels right but the real question now is how to turn Guanyinqiao into a broader `more local dinner and street-life night` instead of only one table booking, keep [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) open too.
+
 ## 2. Use Guanyinqiao when the group needs variety and lower decision stress
 
 One reason Guanyinqiao is so useful is that it handles mixed groups well.
@@ -250,6 +252,7 @@ You usually do not need multiple Guanyinqiao food missions on the same short tri
 - read [Best Chongqing Grilled Fish for First-Time Visitors](/guides/best-chongqing-grilled-fish-for-first-time-visitors/) if the district is decided and the remaining question is whether grilled fish is the better second signature dinner than repeating hot pot
 - read [Best Chongqing Hot Pot for First-Time Visitors](/guides/best-chongqing-hotpot-for-first-time-visitors/) if the district is decided and the remaining question is which kind of Chongqing hot pot room fits the night best
 - read [How to Order Chongqing Hot Pot for First-Time Visitors](/guides/how-to-order-chongqing-hot-pot-for-first-time-visitors/) if the district is decided and the remaining question is how to make the hot pot dinner itself go well
+- read [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) if the district already feels right and the remaining question is how to shape a broader Guanyinqiao-led evening instead of only picking the table
 - read [Where to Eat Late-Night Food in Chongqing for First-Time Visitors](/guides/where-to-eat-late-night-in-chongqing-for-first-time-visitors/) if the district is decided and the remaining question is whether the Guanyinqiao dinner should naturally continue later or just stop there
 - read [Guanyinqiao or Jiefangbei: Which Chongqing Area Is Better for First-Time Visitors?](/guides/guanyinqiao-or-jiefangbei-for-first-time-visitors/) if the meal choice is still tied to the bigger district-and-evening choice
 - read [Best Bars and Modern Nightlife in Chongqing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-chongqing-for-first-time-visitors/) if the evening should continue into bars or a later modern night

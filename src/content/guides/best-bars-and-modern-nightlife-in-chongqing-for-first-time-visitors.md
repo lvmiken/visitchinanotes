@@ -109,6 +109,8 @@ Choose Guanyinqiao if:
 
 If the live question now is still more about dinner district than bars, the narrower food execution page is [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/).
 
+If the live question now is not really bars-first at all and the better fit is one broader `local dinner and street-life night`, the narrower page is [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/).
+
 ## 2. Choose 9th Street if you want the later nightlife answer
 
 Official Chongqing nightlife pages continue to describe 9th Street as a landmark of the city's night economy, and iChongqing's travel-information page still calls out its bars, dance clubs, and even late coffee options.
@@ -247,6 +249,7 @@ After a day with too many steps, viewpoints, and central-core crowds, most reade
 - read [9th Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/9th-street/) if the live question is whether the later-night branch deserves real trip time at all
 - read [9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off](/guides/9th-street-in-chongqing-after-dark-when-the-nightlife-detour-actually-pays-off/) if the later-night branch already sounds plausible and the real question is how to use it well
 - read [Where to Eat in Guanyinqiao for First-Time Visitors](/guides/where-to-eat-in-guanyinqiao-for-first-time-visitors/) if the evening should start as a stronger Guanyinqiao dinner before deciding how much nightlife to add
+- read [Where to Go in Chongqing for a More Local Dinner and Street-Life Night](/guides/where-to-go-in-chongqing-for-a-more-local-dinner-and-street-life-night/) if the evening should stay softer, more food-and-neighborhood-led, and less bars-first than the main nightlife branches on this page
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the evening is mainly a dinner-district decision before the bar question
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the real question is still which meal should anchor the night
 - read [How to Survive a Chongqing Night Out: Didi, Mini-Program Menus, and Paying After Midnight](/guides/how-to-survive-a-chongqing-night-out-didi-mini-program-menus-and-paying-after-midnight/) if the bigger stress is not nightlife taste but late-night transport, QR ordering, and app payment friction
