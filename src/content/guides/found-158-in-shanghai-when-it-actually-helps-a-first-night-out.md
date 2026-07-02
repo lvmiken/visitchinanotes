@@ -212,6 +212,7 @@ It is usually weaker:
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if FOUND158 is still only one candidate inside the broader nightlife decision
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the bigger evening question still is not settled
 - read [Is Shanghai Safe at Night for Solo Female Travelers?](/guides/is-shanghai-safe-at-night-for-solo-female-travelers/) if the real concern is solo confidence, return ease, or avoiding bad late-night drift
+- read [INS Land Shanghai: Is the Mega-Club Cluster Actually Worth a Night?](/guides/ins-land-shanghai-is-the-mega-club-cluster-actually-worth-a-night/) if FOUND158 now sounds too social-first and the real goal is one later, club-led multi-room night
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if you now want the easier polished alternative
 - read [What to Do in Jing'an at Night for First-Time Visitors](/guides/what-to-do-in-jingan-at-night-for-first-time-visitors/) if you now want the calmer adult alternative that still feels modern and easy
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the night now sounds better as a neighborhood dinner-and-drinks route

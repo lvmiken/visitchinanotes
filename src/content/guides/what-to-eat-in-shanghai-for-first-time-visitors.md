@@ -296,6 +296,7 @@ That already gives a fuller picture of Shanghai than repeating the same famous f
 ## Which page to read next
 
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the next decision is which district should carry the xiaolongbao meal, the neighborhood dinner, or the final-night dinner
+- read [Where to Go After Bars in Shanghai for Late-Night Dumplings, Shengjian, and a More Local Finish](/guides/where-to-go-after-bars-in-shanghai-for-late-night-dumplings-shengjian-and-a-more-local-finish/) if the real decision is not the main meal anymore but which Shanghai carb finish still feels good after drinks
 - read [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/) if the next real decision is which soup-dumpling stop is actually worth protecting
 - read [Where to Eat Shengjian in Shanghai for First-Time Visitors](/guides/where-to-eat-shengjian-in-shanghai-for-first-time-visitors/) if the next real decision is which practical breakfast-or-lunch shengjian stop fits the trip best
 - read [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/) if the next real decision is which everyday Shanghai noodle bowl deserves the calmer supporting meal slot

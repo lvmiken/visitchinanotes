@@ -284,6 +284,7 @@ That is when a more contained district may be the smarter answer.
 - read [French Concession in Shanghai: Is It Worth Visiting for First-Time Visitors?](/places/french-concession/) if the district itself still is the main decision
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the broader city evening still is open
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the live question is really about cocktails, bar streets, and how social the night should become
+- read [Where to Go After Bars in Shanghai for Late-Night Dumplings, Shengjian, and a More Local Finish](/guides/where-to-go-after-bars-in-shanghai-for-late-night-dumplings-shengjian-and-a-more-local-finish/) if the neighborhood evening already is chosen and the remaining question is whether to finish with dumplings, shengjian, noodles, or just one softer local stop
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the district choice is still not fully settled
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the live choice now is broader neighborhood rhythm versus cleaner polished ease
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place this neighborhood evening into a short real-world route

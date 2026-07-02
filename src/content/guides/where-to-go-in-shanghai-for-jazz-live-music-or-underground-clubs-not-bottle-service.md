@@ -164,6 +164,8 @@ It is usually weaker when:
 - no one in the group actually cares enough about the music
 - you are mainly looking for social ease rather than a real music-first room
 
+If the live question already has narrowed past `underground clubs in general` into `underground techno, lineup-first rooms, and less commercial dance floors`, the sharper child page is [Where to Go in Shanghai for Underground Techno and More Inclusive Dance Floors](/guides/where-to-go-in-shanghai-for-underground-techno-and-inclusive-dance-floors/).
+
 ## 4. Julu-Fumin-French Concession logic often supports music nights better than it first appears
 
 Official Shanghai nightlife coverage around `Julu Road` keeps surfacing exactly why this part of town is so useful:
@@ -244,6 +246,7 @@ It is usually weaker:
 
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the broader nightlife shape still matters more than one music-led niche
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the evening itself still could become skyline, dinner, or cruise rather than music-first
+- read [Where to Go in Shanghai for Underground Techno and More Inclusive Dance Floors](/guides/where-to-go-in-shanghai-for-underground-techno-and-inclusive-dance-floors/) if the real question has narrowed from jazz-or-live-music broadly into pure lineup-led electronic rooms
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the district is already winning and the remaining question is how to make the night flow
 - read [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/) if the real need is English-speaking social ease rather than a true music room
 - read [Is Shanghai Safe at Night for Solo Female Travelers?](/guides/is-shanghai-safe-at-night-for-solo-female-travelers/) if the music-night question is tangled up with return ease, solo confidence, or late-night logistics

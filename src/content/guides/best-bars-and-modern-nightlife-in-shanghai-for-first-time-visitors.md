@@ -166,6 +166,8 @@ FOUND158 is often better than Xintiandi or Fumin Road when:
 
 If the live question already is not simply `Is FOUND158 one candidate?` but `When does it actually help a first-time visitor, a solo traveler, or a sports-led night?`, the narrower guide is [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/).
 
+If the night is not really about an easy social cluster but about one later, club-led, multi-room complex where the group can keep changing energy without calling more cars, the sharper child page is [INS Land Shanghai: Is the Mega-Club Cluster Actually Worth a Night?](/guides/ins-land-shanghai-is-the-mega-club-cluster-actually-worth-a-night/).
+
 ### When FOUND158 is weaker
 
 - if you want the most elegant or refined night
@@ -262,6 +264,8 @@ Choose:
 
 If what you actually want is neither a polished district nor a louder social cluster, but a music-first night around jazz, live performance, or underground electronic rooms, the narrower companion page is [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/).
 
+If the live question is even narrower than that and has become `underground techno`, `lineup-first rooms`, or `less commercial dance floors`, the sharper child page is [Where to Go in Shanghai for Underground Techno and More Inclusive Dance Floors](/guides/where-to-go-in-shanghai-for-underground-techno-and-inclusive-dance-floors/).
+
 That single decision usually does more for the trip than trying to split one evening across multiple districts.
 
 ## Common mistakes
@@ -278,8 +282,11 @@ That single decision usually does more for the trip than trying to split one eve
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if dinner district logic is still the bigger decision
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the group still has not decided what kind of dinner should anchor the night
 - read [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/) if the real question is whether one social, expat-heavy, sports-friendly nightlife cluster is smarter than a more polished district
+- read [INS Land Shanghai: Is the Mega-Club Cluster Actually Worth a Night?](/guides/ins-land-shanghai-is-the-mega-club-cluster-actually-worth-a-night/) if the real question is whether one later club complex is smarter than bar-hopping across several districts
 - read [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/) if the nightlife question is really a skyline-drinks decision in disguise
 - read [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/) if the real answer may be music-first rather than cocktails-first
+- read [Where to Go in Shanghai for Underground Techno and More Inclusive Dance Floors](/guides/where-to-go-in-shanghai-for-underground-techno-and-inclusive-dance-floors/) if the real answer is a lineup-led electronic room rather than jazz, cocktails, or a bigger nightlife complex
+- read [Where to Go After Bars in Shanghai for Late-Night Dumplings, Shengjian, and a More Local Finish](/guides/where-to-go-after-bars-in-shanghai-for-late-night-dumplings-shengjian-and-a-more-local-finish/) if the night is already chosen and the remaining decision is how to land it well after drinks
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the night already is narrowing into a broader neighborhood dinner-and-drinks evening instead of a compact Xintiandi plan
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if Xintiandi already is winning and the next decision is how simple or how social the evening should become
 - read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the easier modern evening already is winning and the remaining question is whether Jing'an deserves the slot more than another district
