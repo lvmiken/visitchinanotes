@@ -149,6 +149,8 @@ If that modern-night decision is already the real question, use [Best Bars and M
 
 If the district already is clearly `Sanlitun` and the live problem is how to make one easy drinks night work without overbuilding it, the sharper child page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
 
+If the live search inside that modern-night branch is already narrower and less generic, especially `Jing-A`, `Great Leap`, `craft beer Beijing`, or `baijiu cocktails Beijing`, the better child page is [Where to Go in Beijing for Craft Beer, Jing-A, Great Leap, and Baijiu Cocktails](/guides/where-to-go-in-beijing-for-craft-beer-and-baijiu-cocktails-not-another-party-loop/).
+
 If the modern-night question is actually the opposite of easy cocktails and the live search is `Beijing livehouse`, `indie rock`, `punk`, `Dada`, `DDC`, `School Bar`, or `underground techno`, the sharper child page is [Where to Go in Beijing if You Want Livehouses, Indie Rock, or Underground Techno, Not Polished Cocktail Districts](/guides/where-to-go-in-beijing-if-you-want-livehouses-indie-rock-or-underground-techno-not-polished-cocktail-districts/).
 
 ## 4. Livelier dinner street night: choose Guijie
@@ -168,6 +170,8 @@ Guijie is often strongest after:
 - a day when the group still has energy and actually wants a noisier food street
 
 If that food-street night already is the live decision, use [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/).
+
+If the real search is not a restaurant strip at all but `Panjiayuan ghost market`, `midnight flea market`, or one weirder browse-plus-skewers night, the more selective child page is [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/).
 
 ## Match the evening to the right day
 
@@ -273,8 +277,10 @@ That already gives the city more range than leaving every night unplanned.
 - read [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the real decision is one lively late-dinner street
 - read [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the real decision is bars, cocktails, Western restaurants, or a more international-feeling night
 - read [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/) if the night already belongs to Sanlitun and the real question is how to keep the drinks plan simple and smooth
+- read [Where to Go in Beijing for Craft Beer, Jing-A, Great Leap, and Baijiu Cocktails](/guides/where-to-go-in-beijing-for-craft-beer-and-baijiu-cocktails-not-another-party-loop/) if the broader modern-night branch is already chosen and the real search is beer-first or baijiu-curious
 - read [Where to Go in Beijing if You Want Livehouses, Indie Rock, or Underground Techno, Not Polished Cocktail Districts](/guides/where-to-go-in-beijing-if-you-want-livehouses-indie-rock-or-underground-techno-not-polished-cocktail-districts/) if the real search is music-first and less polished than the usual bar-district answers
 - read [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/) if the modern-evening side already is chosen and the live question is how to use Beijing's riverfront answer well
+- read [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/) if the night should become stranger, rougher, and more browse-led than either Guijie or the main bar districts
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the old-core evening is already the real decision
 - read [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) if the easier central dinner stop is the real decision
 - read [Sanlitun in Beijing: Is It Worth Visiting, Staying, or Going Out?](/places/sanlitun/) if the modern dinner, bar, or Western-restaurant layer is the real decision

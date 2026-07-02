@@ -2,7 +2,7 @@
 title: "Guijie (Ghost Street) Food Guide for First-Time Visitors"
 description: "Use this practical Guijie food guide to decide whether Beijing's Ghost Street is worth your time, what it is best for, and how to fit crayfish, hotpot, and late-night dining into a first trip."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-02
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal or late-night block"
@@ -165,6 +165,8 @@ Guijie fits better as one of these:
 
 If the broader night structure still is not clear, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the stronger parent page.
 
+If your search is using the word `ghost` but what you really mean is `ghost market`, `midnight flea market`, or a stranger Panjiayuan-plus-skewers night rather than a restaurant strip, the better child page is [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/).
+
 ## A simple way to decide quickly
 
 Choose **Guijie** if your real sentence sounds like:
@@ -195,3 +197,4 @@ Skip Guijie for now if your real sentence sounds like:
 - read [Best Beijing Hotpot for First-Time Visitors](/guides/best-beijing-hotpot-for-first-time-visitors/) if the district is decided and the remaining question is the hotpot dinner itself
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the group may actually want a more polished modern dinner night
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the trip still needs one classic old-core food evening first
+- read [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/) if the live search is rougher, more browse-led, and less like a proper restaurant street

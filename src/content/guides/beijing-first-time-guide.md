@@ -185,6 +185,8 @@ If the bigger food question is what the trip should eat after the headline duck 
 
 If the district already is clearly `Sanlitun` and the remaining question is how to make one easy drinks night work without turning it into a venue chase, go straight to [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
 
+If the modern-evening branch already is chosen but the live search is narrower and more drinks-identity-led — `Jing-A`, `Great Leap`, `Capital Spirits`, `craft beer Beijing`, or `baijiu cocktails Beijing` — the sharper child page is [Where to Go in Beijing for Craft Beer, Jing-A, Great Leap, and Baijiu Cocktails](/guides/where-to-go-in-beijing-for-craft-beer-and-baijiu-cocktails-not-another-party-loop/).
+
 If the bigger missing piece is not only the meal but what Beijing evenings should actually feel like, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the cleaner next page.
 
 If the modern-evening question already is not about bars in general but whether one polished riverfront night should be a walk, a cruise, or only drinks, the narrower page is [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/).
@@ -204,6 +206,8 @@ If the live search starts even narrower from `Beijing hutong tour`, the cleaner 
 If the live question is already more tactical — `rickshaw price`, how to spot a thin tour, or when to stop paying and just walk — the sharper execution page is [Beijing Hutong Rickshaw Tours: Prices, Red Flags, and When Walking Is Better](/guides/beijing-hutong-rickshaw-prices-scams-and-when-to-just-walk/).
 
 If the route already has enough monuments and the live question is whether one more texture-rich but niche detour is worth it, the optional market branch is [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/).
+
+If that market curiosity already is winning and the live search is more specifically `Panjiayuan ghost market`, `midnight flea market`, or `late-night BBQ / chuan'r after Panjiayuan`, the narrower night child page is [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/).
 
 If you are arriving or departing through `Daxing` and want one modern-Beijing moment without spending a full city block on it, the arrival-side bonus page is [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/).
 
@@ -294,6 +298,7 @@ If your trip is shorter than that, Beijing often needs more decisiveness than tr
 - read [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/) if the modern-evening side already is in play and the real question is whether one polished riverfront night improves the route
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the real question is one modern dinner district rather than the whole nightlife strategy
 - read [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/) if the district already is Sanlitun and the live question is how to keep the drinks plan easy and natural
+- read [Where to Go in Beijing for Craft Beer, Jing-A, Great Leap, and Baijiu Cocktails](/guides/where-to-go-in-beijing-for-craft-beer-and-baijiu-cocktails-not-another-party-loop/) if the modern-night branch already is chosen and the live search is beer-first or baijiu-curious rather than general bars
 - read [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) if the trip still needs one slower neighborhood-and-atmosphere day
 - read [Yonghe Temple and Wudaoying: A Better East Beijing Half Day Than Forcing Another Monument](/guides/yonghe-temple-and-wudaoying-a-better-east-beijing-half-day/) if the route wants one calmer east-side half day with more temple-and-lane texture than another major anchor
 - read [Nanluoguxiang in Beijing: When an Easy Hutong Stop Helps — and When It Doesn't](/places/nanluoguxiang/) if the hutong decision already is narrowing to whether the easy famous lane block helps or only adds crowds
@@ -305,6 +310,7 @@ If your trip is shorter than that, Beijing often needs more decisiveness than tr
 - read [China Zun in Beijing: The Tallest Tower Matters More on the Skyline Than Inside It](/places/china-zun/) if the skyline branch already is chosen and the question has narrowed to what Beijing's tallest tower actually adds
 - read [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/) if the city still needs one selective modern-cultural layer beyond the imperial and hutong defaults
 - read [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/) if the route already is secure and the live question is whether one market-texture detour is worth the time
+- read [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/) if the route already has room for a niche market detour and the live search has shifted toward the night version plus a late skewer finish
 - read [Beijing Daxing Airport: Worth Arriving Early for the Architecture?](/guides/beijing-daxing-airport-worth-arriving-early-for-the-architecture/) if the trip is using `Daxing` and you want to know whether the airport itself deserves any deliberate attention
 - read [Universal Beijing Resort for Foreign Passport Holders: Tickets, App, and Entry Without Last-Minute Panic](/guides/universal-beijing-for-foreign-passport-holders-tickets-app-and-entry/) if Universal is already in the plan and the practical worry is passport, reservation, or gate-readiness
 - read [Jinshanling After Dark: Night Tour, Camping Talk, and What Is Actually Realistic from Beijing](/guides/jinshanling-night-tour-or-camping-what-is-actually-realistic-from-beijing/) if the Wall query has moved from section choice to a more selective overnight or after-dark version

@@ -2,7 +2,7 @@
 title: "Best Food Streets in Beijing: Qianmen, Niujie, Huguosi, Wangfujing, or Guijie?"
 description: "Compare the best food streets in Beijing for duck, snacks, halal food, late-night dining, and easy first-time sightseeing pairings, including Qianmen, Niujie, Huguosi, Wangfujing, and Guijie."
 publishDate: 2026-06-19
-updatedDate: 2026-06-25
+updatedDate: 2026-07-02
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 food blocks"
@@ -185,6 +185,8 @@ It is usually weaker if you need the night to feel iconic, scenic, or especially
 
 If Guijie is already the district you care about, the narrower child page is [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/).
 
+If your search uses `ghost market` instead of `Ghost Street`, and the real night should be more browse-led with a late skewer finish than a proper restaurant strip, the better child page is [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/).
+
 ## 6. Sanlitun: best for modern dinner, not for traditional snack hunting
 
 [Sanlitun](/places/sanlitun/) is the food district to choose when the trip wants:
@@ -300,6 +302,7 @@ The best final-night district is often:
 - read [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/) if the halal-food and pastry layer is the real decision
 - read [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) if the snack-focused old-Beijing stop is the real decision
 - read [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the lively late-dinner street is the real decision
+- read [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/) if the night should be stranger and more market-led than a normal food street
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the modern dinner district is the real decision
 - read [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) if the main question is matching meals to hotel area and route
 - read [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) if the duck meal is the one specific dinner that still decides the plan

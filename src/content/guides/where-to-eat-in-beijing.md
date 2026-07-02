@@ -2,7 +2,7 @@
 title: "Where to Eat in Beijing for First-Time Visitors"
 description: "Choose which Beijing neighborhoods should carry your key meals, from duck and old-city classics to Sanlitun dinners and practical places that fit real sightseeing days."
 publishDate: 2026-06-19
-updatedDate: 2026-06-23
+updatedDate: 2026-07-02
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -56,6 +56,8 @@ If the district choice mostly makes sense and you now want actual restaurant-sty
 If the district already is the decision, go one step narrower with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/), [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/), [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/), or [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the trip needs a livelier dinner-and-late-food street. If the district already is Qianmen and the missing decision is specifically the midday meal, the narrower execution page is [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/).
 
 If the real question is not traditional Beijing food but a more modern dinner, Western-restaurant fallback, or drinks-led evening, use [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) and [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/).
+
+If the live search inside that modern evening already is narrower — `Jing-A`, `Great Leap`, `craft beer Beijing`, `Capital Spirits`, or `baijiu cocktails Beijing` — the sharper drinks-led child page is [Where to Go in Beijing for Craft Beer, Jing-A, Great Leap, and Baijiu Cocktails](/guides/where-to-go-in-beijing-for-craft-beer-and-baijiu-cocktails-not-another-party-loop/).
 
 If the real decision is specifically one hotpot or instant-boiled mutton dinner, the narrower page is [Best Beijing Hotpot for First-Time Visitors](/guides/best-beijing-hotpot-for-first-time-visitors/).
 
@@ -201,6 +203,8 @@ This is often a better choice than another central convenience meal when:
 - the group wants one more energetic food block instead of one polished modern night
 
 If that is already the question, use [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) next.
+
+If the night should be weirder and more browse-led than a proper food street — `Panjiayuan ghost market`, `midnight flea market`, or one late `chuan'r` finish after the market rather than a restaurant strip — the better child page is [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/).
 
 ## 5. Sanlitun
 
@@ -350,6 +354,7 @@ That is why the right question is often not "where is the best place to eat?" It
 - read [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) if the snack-focused old-Beijing stop is already the real decision
 - read [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the trip needs one lively hotpot-or-late-food-street night
 - read [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the trip needs a stronger modern evening, Western-dining, or bar layer
+- read [Where to Go in Beijing for Craft Beer, Jing-A, Great Leap, and Baijiu Cocktails](/guides/where-to-go-in-beijing-for-craft-beer-and-baijiu-cocktails-not-another-party-loop/) if the modern-evening branch already is chosen and the real search is beer-first or baijiu-curious rather than dinner-district-first
 - read [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) if the modern dinner district is already the real decision
 - read [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) if the old-core evening is already the decision
 - read [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/) if the old-core district is already fixed and the midday meal is the real decision
@@ -357,6 +362,7 @@ That is why the right question is often not "where is the best place to eat?" It
 - read [Where to Eat Pastries and Snacks in Niujie for First-Time Visitors](/guides/where-to-eat-pastries-and-snacks-in-niujie-for-first-time-visitors/) if Niujie already is chosen and you want the narrower pastries-and-snacks branch
 - read [What to Do After Niujie in Beijing for First-Time Visitors](/guides/what-to-do-after-niujie-for-first-time-visitors/) if Niujie is already chosen and the live decision is how to use the rest of that day
 - read [Best Beijing Hotpot for First-Time Visitors](/guides/best-beijing-hotpot-for-first-time-visitors/) if the real decision is one instant-boiled mutton or copper-hotpot dinner
+- read [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/) if the late meal question really belongs to a market-led southeast-side night rather than a normal dinner district
 - read [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/) if duck is already the specific meal decision
 - read [Best Beijing Restaurants for First-Time Visitors](/guides/best-beijing-restaurants-for-first-time-visitors/) if you want actual restaurant picks once the district logic is clear
 - read [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) if hotel area is still shaping where meals can realistically happen
