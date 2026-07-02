@@ -75,6 +75,10 @@ If your Hainan search is narrowing again into city-shape and route-editing quest
 - [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/) for the `do I really need Atlantis` question
 - [Should You Split Hainan Between Sanya and Wanning or Keep One Base?](/topics/should-you-split-hainan-between-sanya-and-wanning-or-keep-one-base/) for the `two bases or one` question
 
+If your Hainan search has narrowed even further into `resort Sanya or surfier Wanning`, the next useful child page is:
+
+- [Sanya or Wanning? Which Hainan Coast Fits Better If You Want Resorts, Surfing, or a Looser Beach Scene](/topics/sanya-or-wanning-which-hainan-coast-fits-better-if-you-want-resorts-surfing-or-a-looser-beach-scene/) for the `easier beach resort or more scene-driven surf coast` question
+
 If your Hainan search is turning into a narrower execution question around policy, family fit, or Haikou's better-known leisure side, the next three useful pages are:
 
 - [Hainan's Visa-Free Entry, Clearly Explained: Who Qualifies and What It Actually Covers](/topics/hainan-visa-free-entry-clearly-explained/) for the `which Hainan visa-free rule am I actually looking at` question
@@ -350,6 +354,7 @@ The right trip still depends on:
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if Hainan is interesting but the whole route still is not disciplined enough
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if the island is happening and you want the cleanest arrival logic first
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the main question has narrowed from `should I go` to `where should I stay`
+- read [Sanya or Wanning? Which Hainan Coast Fits Better If You Want Resorts, Surfing, or a Looser Beach Scene](/topics/sanya-or-wanning-which-hainan-coast-fits-better-if-you-want-resorts-surfing-or-a-looser-beach-scene/) if Hainan is happening and the live question is specifically whether you want easier Sanya or a more surf-led Wanning coast
 - read [After a Hainan Visa-Free Entry, Can You Continue to Mainland China?](/topics/can-you-travel-to-mainland-china-from-hainan-on-a-hainan-visa-free-entry/) if the route includes both Hainan and later mainland cities and policy scope is the real risk
 - read [Best Time to Visit China for a First Trip](/topics/best-time-to-visit-china/) if the real question is whether the island improves the route only in certain seasons
 - read [China Visa Basics for Tourists: What to Check Before You Build the Route](/topics/china-visa-basics/) if the route still depends too heavily on an assumed `visa-free` reading

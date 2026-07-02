@@ -80,6 +80,8 @@ The temptation makes sense.
 - surf identity
 - a more specific coastal personality
 
+If the real decision is still one level earlier than `split or not` and you first need to decide whether your trip actually wants the Sanya coast or the Wanning coast, the sharper comparison page is [Sanya or Wanning? Which Hainan Coast Fits Better If You Want Resorts, Surfing, or a Looser Beach Scene](/topics/sanya-or-wanning-which-hainan-coast-fits-better-if-you-want-resorts-surfing-or-a-looser-beach-scene/).
+
 On paper, that looks like the perfect Hainan pairing.
 
 In practice, it only works if the trip has enough time and conviction for both moods.

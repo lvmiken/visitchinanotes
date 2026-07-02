@@ -164,6 +164,8 @@ Choose `Wanning` if:
 
 If that surf question is already specific rather than hypothetical, go next to [Riyue Bay in Wanning: What a First Surf Lesson Actually Feels Like](/topics/riyue-bay-in-wanning-what-a-first-surf-lesson-actually-feels-like/).
 
+If the live question is not `Wanning or the whole island` but specifically `Wanning or Sanya`, the sharper coast-comparison page is [Sanya or Wanning? Which Hainan Coast Fits Better If You Want Resorts, Surfing, or a Looser Beach Scene](/topics/sanya-or-wanning-which-hainan-coast-fits-better-if-you-want-resorts-surfing-or-a-looser-beach-scene/).
+
 ### Who may regret Wanning
 
 You may regret `Wanning` if:
@@ -245,6 +247,7 @@ Those two decisions should almost never be made separately.
 - read [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/) if you are trying to decide whether Haikou's old-city layer really earns time
 - read [Haikou With Kids: Is a North Hainan Family Stop Worth It?](/topics/haikou-with-kids-is-a-north-hainan-family-stop-worth-it/) if Haikou is only staying alive in the route because you are planning around children
 - read [Riyue Bay in Wanning: What a First Surf Lesson Actually Feels Like](/topics/riyue-bay-in-wanning-what-a-first-surf-lesson-actually-feels-like/) if `Wanning` is winning because of surf rather than because it simply sounds cooler
+- read [Sanya or Wanning? Which Hainan Coast Fits Better If You Want Resorts, Surfing, or a Looser Beach Scene](/topics/sanya-or-wanning-which-hainan-coast-fits-better-if-you-want-resorts-surfing-or-a-looser-beach-scene/) if the real decision has narrowed from three Hainan bases to the two southern coasts most travelers actually compare
 - read [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/) if `Sanya` is winning and the live question is whether one branded attraction day improves the route
 - read [Wuzhizhou Island Diving in Sanya: Worth the Boat Ride or Too Packaged?](/topics/wuzhizhou-island-diving-in-sanya-worth-the-boat-ride-or-too-packaged/) if `Sanya` is winning and the next decision is whether one marine day deserves real trip time
 - read [Cycling Around Hainan: Full Island Loop or a Shorter Coastal Slice?](/topics/cycling-around-hainan-full-loop-or-a-shorter-coastal-slice/) if the island is becoming more movement-led and active than resort-led
