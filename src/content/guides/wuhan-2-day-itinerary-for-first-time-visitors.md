@@ -2,7 +2,7 @@
 title: "A Practical 2-Day Wuhan Itinerary for First-Time Visitors"
 description: "Use this two-day Wuhan plan to balance one real guozao morning, one coherent city block, and one fuller second layer without turning the stop into a cross-river checklist."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-02
 city: "wuhan"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -141,6 +141,10 @@ For many first-time visitors, the two strongest Day 2 directions are:
 
 They work because they add contrast rather than just more breakfast or more movement.
 
+If that calmer or more cultural Day 2 version starts needing one serious indoor layer rather than only another walk or meal, keep [Hubei Provincial Museum in Wuhan: Is It Worth It for First-Time Visitors?](/places/hubei-provincial-museum/) open too.
+
+If the fuller version starts needing one softer open-air branch rather than another meal or museum block, keep [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) open too.
+
 ## Option A: Use Day 2 as the fuller food day
 
 This is often the strongest default.
@@ -174,6 +178,8 @@ This version works best when it still respects one rule:
 do not turn Day 2 into a revenge checklist for everything skipped on Day 1.
 
 It should still feel edited.
+
+If the broader city-rhythm version is starting to turn into a more symbolic Wuchang branch because of `Yellow Crane Tower`, keep [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) nearby too.
 
 ## A strong default version for most first-time visitors
 
@@ -229,6 +235,9 @@ Lean harder into:
 
 - read [How Many Days in Wuhan for First-Time Visitors](/guides/how-many-days-in-wuhan-for-first-time-visitors/) if you still are not sure whether Wuhan should stay at `1 day` or become a fuller `2-day` stop
 - read [A Practical 1-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-1-day-itinerary-for-first-time-visitors/) if your route may need the sharper version instead
+- read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if the second day may include a more symbolic Wuchang stop and you need to decide whether that classic landmark really improves the trip
+- read [Hubei Provincial Museum in Wuhan: Is It Worth It for First-Time Visitors?](/places/hubei-provincial-museum/) if the second day may need one stronger indoor Chu-culture layer instead of only another meal or riverfront block
+- read [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) if the second day may need one softer scenic half day instead of only another museum or meal branch
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if the day flow works but the hotel base still does not
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the first-day breakfast block still needs tighter structure
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the route is basically set and the next question is which meals deserve the limited slots

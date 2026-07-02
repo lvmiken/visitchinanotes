@@ -2,7 +2,7 @@
 title: "Best Bars and Modern Nightlife in Shanghai for First-Time Visitors"
 description: "A practical guide to Shanghai bars and modern nightlife for first-time visitors, including when to choose Xintiandi, Fumin Road, FOUND158, Jing'an, or a Bund-area rooftop-style night."
 publishDate: 2026-06-20
-updatedDate: 2026-06-30
+updatedDate: 2026-07-02
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -146,7 +146,7 @@ It is especially good at:
 - one more grown-up or relaxed cocktail evening
 - travelers who like the idea of bars but not the idea of a loud club district
 
-If the live question already is not `Which nightlife district?` but `How do I actually use the wider French Concession evening well?`, the narrower execution page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/). If the district already is chosen and the real search intent is `hidden cocktail bars` rather than general nightlife, the narrower follow-up is [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/).
+If the live question already is not `Which nightlife district?` but `How do I actually use the wider French Concession evening well?`, the narrower execution page is [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/). If the district already is chosen and the real search intent is `hidden cocktail bars` rather than general nightlife, the narrower follow-up is [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/). If the search has narrowed all the way to `Julu Road nightlife`, `bars near Julu Road`, or the wider `Julu-Fumin-Changle` bar-street cluster, the sharper street-level child page is [Julu Road at Night in Shanghai: When the Bar-Street Drift Actually Pays Off](/guides/julu-road-at-night-in-shanghai-when-the-bar-street-drift-actually-pays-off/).
 
 ## 3. FOUND158 for the louder all-in-one nightlife cluster
 
@@ -288,6 +288,7 @@ That single decision usually does more for the trip than trying to split one eve
 - read [Where to Go in Shanghai for Underground Techno and More Inclusive Dance Floors](/guides/where-to-go-in-shanghai-for-underground-techno-and-inclusive-dance-floors/) if the real answer is a lineup-led electronic room rather than jazz, cocktails, or a bigger nightlife complex
 - read [Where to Go After Bars in Shanghai for Late-Night Dumplings, Shengjian, and a More Local Finish](/guides/where-to-go-after-bars-in-shanghai-for-late-night-dumplings-shengjian-and-a-more-local-finish/) if the night is already chosen and the remaining decision is how to land it well after drinks
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the night already is narrowing into a broader neighborhood dinner-and-drinks evening instead of a compact Xintiandi plan
+- read [Julu Road at Night in Shanghai: When the Bar-Street Drift Actually Pays Off](/guides/julu-road-at-night-in-shanghai-when-the-bar-street-drift-actually-pays-off/) if the live question is no longer `French Concession generally` but the specific Julu-Fumin-Changle bar-street branch
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if Xintiandi already is winning and the next decision is how simple or how social the evening should become
 - read [Jing'an in Shanghai: Is It Worth Visiting on a First Trip?](/places/jingan/) if the easier modern evening already is winning and the remaining question is whether Jing'an deserves the slot more than another district
 - read [What to Do in Jing'an at Night for First-Time Visitors](/guides/what-to-do-in-jingan-at-night-for-first-time-visitors/) if the easier modern evening already is winning and the next decision is whether the night should become dinner, cocktails, or a short Suzhou Creek continuation

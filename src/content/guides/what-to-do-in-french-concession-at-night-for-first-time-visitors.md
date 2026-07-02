@@ -2,7 +2,7 @@
 title: "What to Do in the French Concession at Night for First-Time Visitors"
 description: "Use this French Concession night guide to decide whether your evening should be dinner on Jinxian Road, cocktails around Fumin or Julu Road, a slower Wukang-area walk, or a simpler neighborhood finish."
 publishDate: 2026-06-23
-updatedDate: 2026-06-26
+updatedDate: 2026-07-02
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -160,6 +160,8 @@ We want one nice second act after dinner, not a whole bar crawl.
 
 If the live question is really narrowing into bars, cocktails, and how lively the district should become, the stronger companion page is [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/).
 
+If the live question already is no longer `French Concession at night broadly` but the much narrower `Julu Road nightlife`, `bars near Julu Road`, or `how should I use the Julu-Fumin-Changle cluster`, the sharper child page is [Julu Road at Night in Shanghai: When the Bar-Street Drift Actually Pays Off](/guides/julu-road-at-night-in-shanghai-when-the-bar-street-drift-actually-pays-off/).
+
 ## 4. Use a slower Wukang-side or leafy-lane walk when the night should stay calm
 
 Not every French Concession evening needs cocktails.
@@ -285,6 +287,7 @@ That is when a more contained district may be the smarter answer.
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the broader city evening still is open
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the live question is really about cocktails, bar streets, and how social the night should become
 - read [Where to Go After Bars in Shanghai for Late-Night Dumplings, Shengjian, and a More Local Finish](/guides/where-to-go-after-bars-in-shanghai-for-late-night-dumplings-shengjian-and-a-more-local-finish/) if the neighborhood evening already is chosen and the remaining question is whether to finish with dumplings, shengjian, noodles, or just one softer local stop
+- read [Julu Road at Night in Shanghai: When the Bar-Street Drift Actually Pays Off](/guides/julu-road-at-night-in-shanghai-when-the-bar-street-drift-actually-pays-off/) if the wider neighborhood answer now needs a more specific street-level nightlife version
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the district choice is still not fully settled
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the live choice now is broader neighborhood rhythm versus cleaner polished ease
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place this neighborhood evening into a short real-world route

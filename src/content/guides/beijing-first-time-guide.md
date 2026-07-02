@@ -2,7 +2,7 @@
 title: "Beijing for First-Time Visitors: How Many Days, What to Prioritize, and Where to Stay"
 description: "Use this Beijing guide to decide how many days to stay, what to prioritize first, where to stay, and how to keep the city from feeling too big or too tiring."
 publishDate: 2026-06-14
-updatedDate: 2026-06-26
+updatedDate: 2026-07-02
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "3 to 5 days"
@@ -188,6 +188,8 @@ If the district already is clearly `Sanlitun` and the remaining question is how 
 If the bigger missing piece is not only the meal but what Beijing evenings should actually feel like, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the cleaner next page.
 
 If the modern-evening question already is not about bars in general but whether one polished riverfront night should be a walk, a cruise, or only drinks, the narrower page is [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/).
+
+If the live search is narrower and less polished than that — `Beijing livehouse`, `School Bar`, `DDC`, `Dada`, `Zhao Dai`, `indie rock`, or `underground techno` — the right child page is [Where to Go in Beijing if You Want Livehouses, Indie Rock, or Underground Techno, Not Polished Cocktail Districts](/guides/where-to-go-in-beijing-if-you-want-livehouses-indie-rock-or-underground-techno-not-polished-cocktail-districts/). That branch usually works best only after the trip already protected one easier Beijing evening elsewhere.
 
 If the missing part is not another monument but one slower old-Beijing layer, [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) is usually the better decision page and [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) is the better route page once you want to actually place that day in the trip.
 

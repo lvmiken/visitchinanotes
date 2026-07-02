@@ -2,7 +2,7 @@
 title: "A Practical 1-Day Wuhan Itinerary for First-Time Visitors"
 description: "Use this one-day Wuhan plan to protect one real guozao morning, one coherent city block, and one useful evening without turning a short stop into a river-crossing checklist."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-02
 city: "wuhan"
 guideStage: "build-itinerary"
 tripLength: "1 day"
@@ -153,6 +153,8 @@ Choose this if:
 
 This version is usually weaker when squeezed into a day that already began somewhere else.
 
+If the reason you are even choosing the Wuchang branch is `Yellow Crane Tower`, keep [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) open too, because the tower is usually best as one edited symbolic stop, not as proof that the whole day should become attraction-first.
+
 For many readers, the city improves when the route chooses one side well rather than both sides badly.
 
 ## Midday: Add one fuller food layer, not another random landmark
@@ -232,6 +234,7 @@ It lets the city win the way it usually wins: through one good morning, one cohe
 ## Which page to read next
 
 - read [How Many Days in Wuhan for First-Time Visitors](/guides/how-many-days-in-wuhan-for-first-time-visitors/) if you are still unsure whether this sharper version is enough
+- read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if the one-day route only works by choosing a more symbolic Wuchang branch and you need to know whether that trade is actually worth it
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if the route is mostly right but the base still may weaken it
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the day shape is clear and the next live question is the breakfast execution
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the day shape is clear and the next question is which meals actually deserve the slots

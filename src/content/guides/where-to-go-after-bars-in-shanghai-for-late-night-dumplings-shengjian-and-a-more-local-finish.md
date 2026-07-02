@@ -176,6 +176,8 @@ Not:
 
 If the district itself still is the real question, keep [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) open too.
 
+If the district already is chosen but the live question is even narrower, especially `Julu Road nightlife` turning into `what should we do after Julu bars`, the cleaner handoff page is [Julu Road at Night in Shanghai: When the Bar-Street Drift Actually Pays Off](/guides/julu-road-at-night-in-shanghai-when-the-bar-street-drift-actually-pays-off/).
+
 ## 6. After Xintiandi, a cleaner brighter finish often beats a “hardcore” one
 
 After `Xintiandi`, many groups are not really looking for the roughest possible late-night local scene.
@@ -292,6 +294,7 @@ That is when the smarter move may be:
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the nightlife district still matters more than the food ending
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the broader evening shape still is not secure
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the late-night food question is really part of one wider Julu-Fumin-Changle night
+- read [Julu Road at Night in Shanghai: When the Bar-Street Drift Actually Pays Off](/guides/julu-road-at-night-in-shanghai-when-the-bar-street-drift-actually-pays-off/) if the food question actually belongs to one more specific Julu-led bar-street night
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the late-night food question is really part of one polished district evening
 - read [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/) if the night may actually be a social-cluster choice before it becomes a food-ending choice
 - read [Where to Eat Xiaolongbao in Shanghai for First-Time Visitors](/guides/where-to-eat-xiaolongbao-in-shanghai-for-first-time-visitors/) if the late-night question is making you realize the trip still has not placed its one proper xiaolongbao meal well
@@ -299,4 +302,3 @@ That is when the smarter move may be:
 - read [Where to Eat Noodles in Shanghai for First-Time Visitors](/guides/where-to-eat-noodles-in-shanghai-for-first-time-visitors/) if the real answer probably is warmth and ease rather than one more dumpling stop
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the district itself still is the bigger meal decision
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place one late finish into a realistic short route
-

@@ -2,7 +2,7 @@
 title: "Beijing Bars for First-Time Visitors: Sanlitun, Liangma River, or Shichahai?"
 description: "Choose the right Beijing bar district for cocktails, wine, riverside drinks, or a softer lakeside night, with practical guidance on Sanlitun, Liangma River, and Shichahai."
 publishDate: 2026-06-20
-updatedDate: 2026-06-25
+updatedDate: 2026-07-02
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -97,6 +97,8 @@ Choose Sanlitun if:
 - this is the final evening or a contrast night after heavy sightseeing
 
 If the district already is clearly winning and the live search has narrowed to `Sanlitun bars`, how to make the night feel easy, or whether you need a rigid venue list at all, the sharper child page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
+
+If the opposite is true and the real search is not polished cocktails at all but `School Bar`, `DDC`, `Dada`, `Zhao Dai`, `Beijing livehouse`, or `underground techno`, the sharper child page is [Where to Go in Beijing if You Want Livehouses, Indie Rock, or Underground Techno, Not Polished Cocktail Districts](/guides/where-to-go-in-beijing-if-you-want-livehouses-indie-rock-or-underground-techno-not-polished-cocktail-districts/).
 
 ## 2. Choose Liangma River if you want a polished scenic night
 
@@ -209,6 +211,7 @@ After [Mutianyu Great Wall](/places/mutianyu-great-wall/) or [Badaling Great Wal
 
 - read [Sanlitun in Beijing: Is It Worth Visiting, Staying, or Going Out?](/places/sanlitun/) if the modern district itself is the main decision
 - read [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/) if Sanlitun already is the district and the only remaining question is how to use it well for one easy drinks night
+- read [Where to Go in Beijing if You Want Livehouses, Indie Rock, or Underground Techno, Not Polished Cocktail Districts](/guides/where-to-go-in-beijing-if-you-want-livehouses-indie-rock-or-underground-techno-not-polished-cocktail-districts/) if the real search is music-first, room-first, and deliberately less polished than Sanlitun cocktails
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if you still need the broader evening comparison
 - read [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/) if the broader nightlife choice is already clear and the real question is how to use Beijing's polished riverfront night well
 - read [What to Do in Shichahai at Night for First-Time Visitors](/guides/what-to-do-in-shichahai-at-night-for-first-time-visitors/) if the live question is the softer lakeside old-city night itself

@@ -2,7 +2,7 @@
 title: "How Many Days in Wuhan for First-Time Visitors"
 description: "See whether Wuhan needs 1, 2, or 3 days, what a short first visit can realistically cover, and when breakfast culture, river-city pacing, and a second food layer start justifying more time."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-02
 city: "wuhan"
 guideStage: "plan-stay"
 tripLength: "1 to 3 days"
@@ -53,6 +53,8 @@ Use this page if you are asking:
 - when does extra time add real value instead of just loosening the route?
 
 If the city itself still is not fully confirmed, start with [Wuhan for First-Time Visitors: Why Breakfast Culture Alone Can Justify the Stop](/guides/wuhan-first-time-guide/).
+
+If the city is already confirmed and the real question now is what actually deserves time inside those days, keep [Best Things to Do in Wuhan for First-Time Visitors](/guides/best-things-to-do-in-wuhan-for-first-time-visitors/) open too.
 
 If the real reason Wuhan is even on the map is breakfast culture, keep [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) open too.
 
@@ -205,6 +207,7 @@ It is weaker when the extra time only exists because of a train schedule.
 ## Which page to read next
 
 - read [Wuhan for First-Time Visitors: Why Breakfast Culture Alone Can Justify the Stop](/guides/wuhan-first-time-guide/) if the broader route-fit question still is not settled
+- read [Best Things to Do in Wuhan for First-Time Visitors](/guides/best-things-to-do-in-wuhan-for-first-time-visitors/) if the number of days is nearly settled and the next question is which Wuhan experiences should actually fill them
 - read [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) if the whole stay still depends on whether breakfast culture is a strong enough reason to stop
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the length is mostly decided and the next question is where the morning should actually happen
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the length is mostly decided and the next question is how to use the city's food layer well

@@ -2,7 +2,7 @@
 title: "Wuhan at Night for First-Time Visitors: River Views, Dinner, or Just an Easier Evening?"
 description: "Choose between a riverfront night, a food-led evening, or a simpler hotel-side finish in Wuhan based on your energy, which side of the city you are already on, and how much you want the night to feel like an event."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-02
 city: "wuhan"
 guideStage: "build-itinerary"
 tripLength: "1 to 2 evenings"
@@ -197,6 +197,26 @@ If the food side of the night is the real question, keep these pages open:
 - [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/)
 - [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/)
 
+## When a landmark night actually fits
+
+Most Wuhan evenings do not need a formal attraction.
+
+But if the night should feel more staged, more scenic, or more Wuchang-specific, `Yellow Crane Tower` also has a separate night-tour version promoted by the city.
+
+That can work when:
+
+- dinner already is solved
+- the group wants one more theatrical landmark night
+- you are already on the Wuchang side
+
+It is usually weaker when the night mainly needs:
+
+- easy river atmosphere
+- one practical meal
+- or less movement after a full day
+
+If that landmark-night question has become specific, go next to [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/).
+
 ## Common Wuhan night mistakes
 
 - treating Wuhan like it needs a bars-first nightlife strategy
@@ -208,6 +228,7 @@ If the food side of the night is the real question, keep these pages open:
 ## Which page to read next
 
 - read [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/) if the evening shape is clear and the next question is which side of the city should carry dinner
+- read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if the evening may become a more scenic Wuchang landmark night and you need to know whether that is actually better than a simpler riverfront or dinner-led finish
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the evening shape is clear and the next question is which meal deserves the night
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if the night still depends too much on which side of the city you are sleeping on
 - read [A Practical 1-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-1-day-itinerary-for-first-time-visitors/) if Wuhan only gets one real day and the evening needs to fit that tighter structure
