@@ -68,6 +68,8 @@ If the hotel base is still fuzzy, keep [Best Area to Stay in Guangzhou for First
 
 If the trip still is not fully shaped day by day, keep [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) open too.
 
+If the live question already is not `what kind of evening` but `which district actually works for bars or drinks`, keep [Best Bars and Modern Nightlife in Guangzhou for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-guangzhou-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For most first-time visitors, Guangzhou nights work best when you use one of these four patterns:
@@ -125,6 +127,8 @@ If the live question now is whether the cruise itself really deserves one of you
 If the live question now is whether the landmark itself deserves time before you escalate to a cruise, the narrower companion page is [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/).
 
 If the live question is the cleaner skyline tradeoff itself rather than either page in isolation, the sharper chooser page is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
+
+If the live question is no longer which skyline format fits best but whether either one needs an early reservation on your dates, the sharper logistics page is [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/).
 
 If the live question is whether one easier modern skyline walk around `Zhujiang New Town` already is enough, the narrower companion page is [Huacheng Square in Guangzhou: Is It Worth It for First-Time Visitors?](/places/huacheng-square/).
 
@@ -232,6 +236,8 @@ It is usually weaker when:
 - the hotel is nowhere near the riverside
 - everyone is too tired for a more optional continuation
 
+If the live question is no longer the whole evening menu but whether `Taikoo Cang` itself deserves one of your limited nights, the narrower place page is [Taikoo Cang Wharf in Guangzhou: Is It Worth It for First-Time Visitors?](/places/taikoo-cang-wharf/).
+
 ## Match the evening to the right day
 
 ## Best evening after the arrival day
@@ -322,8 +328,11 @@ That already gives the city more range than leaving every evening unplanned.
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if you want to see where one or two evenings actually fit inside a short stay
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/) if the real question is whether the city has enough room for both a skyline night and a more neighborhood-led night
+- read [Best Bars and Modern Nightlife in Guangzhou for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-guangzhou-for-first-time-visitors/) if the evening shape already is clear and the next question is where drinks, bars, or a more modern night actually fit
+- read [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/) if the evening shape is clear and the next question is whether the tower, cruise, or one meal needs to be reserved early
 - read [Where to Eat on Beijing Road for First-Time Visitors](/guides/where-to-eat-on-beijing-road-for-first-time-visitors/) if the main decision now is what kind of central Guangzhou meal block should carry one easier night
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the main decision now is whether the easiest central district night is actually the right use of one limited evening
+- read [Taikoo Cang Wharf in Guangzhou: Is It Worth It for First-Time Visitors?](/places/taikoo-cang-wharf/) if the broader evening shape is set and the remaining question is whether one riverfront drinks continuation deserves the slot
 - read [Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening](/guides/beijing-road-or-a-pearl-river-night-cruise-which-guangzhou-night-earns-your-one-free-evening/) if the live choice is easy central night versus skyline event night
 - read [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/) if the main decision now is whether the old-Guangzhou branch deserves one of your limited city blocks
 - read [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/) if the main decision now is whether the event-style river night is stronger than a simpler district evening

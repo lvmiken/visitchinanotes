@@ -45,7 +45,7 @@ It becomes a very good answer when the route actually wants:
 
 ## Source check
 
-This page was checked against current Harbin visitor-facing source material on **June 26, 2026**, including the current Harbin overview [Harbin Fact Sheet](https://www.icefestivalharbin.com/article-p18-harbin-fact-sheet.html), the current Harbin FAQ page [Frequently Asked Questions about Harbin & Harbin Ice Festival](https://www.icefestivalharbin.com/faqs.html), and current attraction pages for [Harbin Ice and Snow World](https://www.icefestivalharbin.com/attraction-p7-harbin-ice-and-snow-world.html), [Central Street](https://www.icefestivalharbin.com/attraction-p1-central-street.html), and [Saint Sophia Cathedral](https://www.icefestivalharbin.com/attraction-p20-saint-sophia-cathedral.html). I am mainly using those sources to keep the city's role honest: Harbin is a winter-led destination whose strongest version depends on timing, cold tolerance, and one real night anchor. Exact season openings, ticket rules, and weather severity can still change.
+This page was checked against current Harbin visitor-facing source material on **July 4, 2026**, including the current Harbin overview [Harbin Fact Sheet](https://www.icefestivalharbin.com/article-p18-harbin-fact-sheet.html), the current Harbin FAQ page [Frequently Asked Questions about Harbin & Harbin Ice Festival](https://www.icefestivalharbin.com/faqs.html), and current attraction pages for [Harbin Ice and Snow World](https://www.icefestivalharbin.com/attraction-p7-harbin-ice-and-snow-world.html), [Central Street](https://www.icefestivalharbin.com/attraction-p1-central-street.html), [Saint Sophia Cathedral](https://www.icefestivalharbin.com/attraction-p20-saint-sophia-cathedral.html), [Sun Island Park](https://www.icefestivalharbin.com/attraction-p24-sun-island-park.html), and [Zhaolin Park](https://www.icefestivalharbin.com/attraction-p3-zhaolin-park.html). I am mainly using those sources to keep the city's role honest: Harbin is a winter-led destination whose strongest version depends on timing, cold tolerance, one real night anchor, and whether any extra winter branch genuinely improves the stay. Exact season openings, ticket rules, and weather severity can still change.
 
 ## Who this guide is for
 
@@ -60,9 +60,13 @@ If the decision already has narrowed, the more focused page is usually better:
 
 - [Harbin Ice Festival for First-Time Visitors: When the Winter Spectacle Is Worth the Whole Detour](/guides/harbin-ice-festival-for-first-time-visitors/)
 - [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/)
+- [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/)
+- [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/)
 - [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/)
 - [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/)
 - [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/)
+- [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/)
+- [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/)
 - [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/)
 - [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/)
 - [Zhongyang Street in Winter: Where to Walk, What to Eat, and How to Stay Warm](/guides/zhongyang-street-in-winter-where-to-walk-what-to-eat-and-how-to-stay-warm/)
@@ -126,6 +130,7 @@ The city usually feels fuller when the trip also protects:
 
 - one walk through [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/)
 - one shorter visual-cultural stop such as [Saint Sophia Cathedral in Harbin: A Short Stop, a Photo Stop, or a Real Priority?](/places/saint-sophia-cathedral/)
+- one softer extra winter branch such as [Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?](/places/sun-island-park/) only if the stay is long enough to carry it
 - one hotel base that still makes returns easy in the cold
 
 That is often what turns Harbin into a city chapter instead of one attraction errand.
@@ -168,7 +173,12 @@ It is often weaker for:
 ## Which page to read next
 
 - read [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) if Harbin is likely and you want the clearest first-time shortlist
+- read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if Harbin looks likely but the route still has not decided whether the stop should stay tight or breathe a little
+- read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if arrival-day friction still makes the stop feel harder than it should
 - read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if Harbin already is likely and the live issue is ticket logic
 - read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if cold-weather packing still feels like the real blocker
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the remaining question is the best base in the cold
+- read [Sun Island or Ice and Snow World: Which Harbin Winter Stop Fits Better?](/guides/sun-island-or-ice-and-snow-world-which-harbin-winter-stop-fits-better/) if the city already looks likely and the real next question is whether Harbin needs one softer winter branch beyond the flagship night
+- read [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/) if Harbin is likely and the next question is how to keep the meals useful in winter rather than overbuilt
+- read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the stop now looks likely and the real next decision is how many evenings Harbin should actually carry
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the real decision is whether the city's biggest winter icon should carry the stop

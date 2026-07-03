@@ -137,6 +137,12 @@ If the old core already is secure and the live question becomes whether one olde
 
 If the old core already is secure and the real question becomes whether a softer second-day contrast belongs, the more focused place page is [Taipa Village in Macau: Is It Worth It for First-Time Visitors?](/places/taipa-village/).
 
+If the old core already is secure and the real question becomes whether the trip wants an even calmer village-and-coastal branch instead of the more practical Taipa layer, the more focused place page is [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/).
+
+If the old core already is secure and the real question becomes whether Macau also wants one polished resort-side contrast instead of only the softer Taipa branch, the more focused place page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
+If the old core already is secure and the real question becomes whether the trip wants one symbolic skyline stop rather than a fuller resort-side branch, the more focused place page is [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
+
 ## Common mistakes on a first Macau trip
 
 - stretching the stay because the city looks easy on the map
@@ -155,6 +161,9 @@ If the old core already is secure and the real question becomes whether a softer
 - read [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/) if the live decision is whether Macau's most famous landmark should get protected time inside the old-core day
 - read [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/) if the live decision is whether the peninsula side deserves one deeper spiritual-and-heritage extension
 - read [Taipa Village in Macau: Is It Worth It for First-Time Visitors?](/places/taipa-village/) if the live decision is whether the trip deserves one softer second-day contrast branch
+- read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the live decision is whether the trip deserves one quieter village-and-coastal branch beyond the safer Taipa answer
+- read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the live decision is whether the trip deserves one polished resort-and-entertainment contrast branch
+- read [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/) if the live decision is whether the trip deserves one symbolic skyline-and-landmark branch
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the real decision still is whether Macau should be the contrast stop or whether Hong Kong should carry the bigger city chapter
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the route is really choosing between compact heritage contrast and a modern mainland city
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the route may want more food depth and a larger mainland stop

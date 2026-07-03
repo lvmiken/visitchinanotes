@@ -126,6 +126,10 @@ Choose `Cotai` if:
 
 For many first-timers, Taipa and Cotai are best used together lightly, not confused as the same thing.
 
+If that exact contrast still is the blocker, the companion page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
+If the real question is whether the trip should go even calmer than Taipa instead of brighter or busier, the companion page is [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/).
+
 ## What is Taipa best for?
 
 Taipa Village usually works best for:
@@ -178,6 +182,8 @@ It improves the trip less when:
 
 - read [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/) if the district already is chosen and the live question is what should actually carry the meal
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if you want to place Taipa inside a real short stay
+- read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the real comparison still is softer neighborhood texture versus a more polished resort-side branch
+- read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the real comparison still is practical second-day neighborhood texture versus an even calmer village-and-coastal branch
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the real question still is what kind of meal branch Macau should protect
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the trip still may need the old core to carry the more important first meal
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the city itself still feels too broad

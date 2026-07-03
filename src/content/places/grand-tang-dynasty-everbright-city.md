@@ -124,6 +124,8 @@ If the live question already is not whether the south side deserves one scenic n
 
 If the broader south-side answer already is yes and the live question now is whether `Hanfu` will make the night feel magical or just more complicated, the sharper child page is [Hanfu at Xi'an's Everbright City: When It Adds Magic and When It Just Adds Hassle](/guides/hanfu-at-xian-everbright-city-when-it-adds-magic-and-when-it-just-adds-hassle/).
 
+If the broader south-side answer already is yes and the live question now is when to arrive, how long to stay, and whether dinner should happen before the walk, the sharper execution page is [After Dark in Grand Tang Dynasty Everbright City: How to Do Xi'an's Flashiest Night Without Losing Your Whole Evening](/guides/after-dark-in-grand-tang-dynasty-everbright-city-how-to-do-xians-flashiest-night-without-losing-your-whole-evening/).
+
 ## Everbright City vs another old-city night
 
 Choose `Everbright City` if:
@@ -193,6 +195,7 @@ It is often weaker for:
 
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the broader night structure still is the main decision
 - read [Hanfu at Xi'an's Everbright City: When It Adds Magic and When It Just Adds Hassle](/guides/hanfu-at-xian-everbright-city-when-it-adds-magic-and-when-it-just-adds-hassle/) if the south-side evening already looks right and the remaining question is whether a Hanfu makeover improves the night or only complicates it
+- read [After Dark in Grand Tang Dynasty Everbright City: How to Do Xi'an's Flashiest Night Without Losing Your Whole Evening](/guides/after-dark-in-grand-tang-dynasty-everbright-city-how-to-do-xians-flashiest-night-without-losing-your-whole-evening/) if the area already is winning and the remaining question is the practical after-dark sequence
 - read [Tang Paradise in Xi'an: Is It Worth It for First-Time Visitors?](/places/tang-paradise/) if the live south-side choice is scenic open-air walk versus a fuller theatrical evening
 - read [Grand Tang Dynasty Everbright City or Tang Paradise: Which Xi'an Night Fits a First Trip Better?](/guides/grand-tang-dynasty-everbright-city-or-tang-paradise-for-first-time-visitors/) if the real question is which pagoda-side scenic night format the route actually wants
 - read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if you still are not sure whether the trip is full enough for a south-side night branch

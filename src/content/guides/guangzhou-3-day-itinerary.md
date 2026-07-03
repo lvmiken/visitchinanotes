@@ -44,6 +44,12 @@ This plan is best for travelers who:
 
 If you are still deciding whether Guangzhou should even be in the route, start with [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/). If the main blocker is the hotel base, keep [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) open too.
 
+If the route role is clear but the shortlist itself still feels too broad, keep [Best Things to Do in Guangzhou for First-Time Visitors](/guides/best-things-to-do-in-guangzhou-for-first-time-visitors/) open too.
+
+If the route shape mostly works but movement between the west side, central core, and skyline side still feels too fuzzy, keep [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/) open too.
+
+If the route shape mostly works but the live question becomes which parts of these three days deserve advance booking, keep [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/) open too.
+
 If the day structure mostly works but the evening side still feels too vague, keep [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) open too.
 
 If the live question is less about evenings and more about which district should carry each meal across the stay, keep [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) open too.
@@ -122,6 +128,8 @@ Why this works:
 
 If this final day ends up leaning west-side rather than transfer-first, the cleaner food companion is [Where to Eat Near Yongqing Fang for First-Time Visitors](/guides/where-to-eat-near-yongqing-fang-for-first-time-visitors/).
 
+If the trip already has its easier district night and skyline night and the final live question is whether a more riverfront drinks continuation deserves the remaining slot, the narrower page is [Taikoo Cang Wharf in Guangzhou: Is It Worth It for First-Time Visitors?](/places/taikoo-cang-wharf/).
+
 ## Let the city breathe
 
 Guangzhou can feel underwhelming when travelers expect every hour to revolve around one headline landmark. It usually feels more memorable when food, street life, and transit-smart movement are treated as the main structure of the stay.
@@ -137,8 +145,12 @@ Guangzhou can feel underwhelming when travelers expect every hour to revolve aro
 
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if the hotel base is still not doing enough work
 - read [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/) if you are still unsure whether three days is too much or too little
+- read [Best Things to Do in Guangzhou for First-Time Visitors](/guides/best-things-to-do-in-guangzhou-for-first-time-visitors/) if the day count is basically right and the next question is which Guangzhou blocks deserve protection
+- read [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/) if the route is basically right and the next question is how to keep those days coherent without too much district-hopping
+- read [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/) if the day order is mostly set and the next decision is which reservations actually deserve early attention
 - read [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) if the route is basically set and the next decision is how meals should be distributed by district
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the live decision is whether one easy central district should carry a real evening
 - read [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) if the live decision is whether the classic skyline landmark deserves one protected block
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the route works in daytime but still needs one stronger river, food, or old-city evening
+- read [Taikoo Cang Wharf in Guangzhou: Is It Worth It for First-Time Visitors?](/places/taikoo-cang-wharf/) if the short trip already has its basic evenings and the final live question is whether a calmer riverfront drinks branch deserves the remaining slot
 - read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) if the next city is still unsettled

@@ -52,6 +52,10 @@ If the town itself still is not fully confirmed, start first with [Yangshuo on a
 
 If the broader regional hotel logic still is open, keep [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) open too.
 
+If the hotel choice mainly depends on whether you want the easiest `West Street` dinners or a calmer scenic-day meal rhythm, keep [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/) open too.
+
+If the hotel choice mainly depends on whether you want the easiest town-center evening or a quieter stop that shuts down earlier, keep [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/) open too.
+
 If this hotel choice actually starts with `Hong Kong to Yangshuo by train`, pause one step. Many readers search Yangshuo hotels first when the real unresolved question is whether the route should rail into `Guilin` and then sleep in `Yangshuo`, or protect a first night in Guilin instead. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) before forcing the hotel map to answer it.
 
 ## The short answer
@@ -156,6 +160,10 @@ That is why the hotel should still support after-dark use, not only daytime scen
 
 For many first-time visitors, that is exactly why the `West Street` side stays so strong.
 
+If the live question now is not just where to sleep but which part of Yangshuo should carry the key meals that hotel choice unlocks, the direct next page is [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/).
+
+If the live question now is how much evening energy that hotel choice can realistically support, the direct next page is [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/).
+
 ## Best base by trip shape
 
 ## If Yangshuo is one night after the Li River
@@ -186,6 +194,8 @@ That is where a **quieter countryside-style base** becomes much more defensible.
 ## Which page to read next
 
 - read [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/) if the base choice mainly depends on how much the town center should carry the night
+- read [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/) if the base choice now mostly depends on whether your key meals should stay central, countryside-side, or attached to one scenic branch
+- read [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/) if the base choice now mostly depends on whether the overnight should stay easy and central or remain quieter and lighter after dark
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the hotel choice still depends on whether the town deserves a sleep-there version at all
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the real planning tension still is icon versus atmosphere
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the hotel choice really depends on whether Yangshuo should be the first overnight after the Hong Kong-to-mainland rail handoff

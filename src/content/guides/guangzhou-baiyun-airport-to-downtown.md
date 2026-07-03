@@ -193,5 +193,7 @@ That is useful because it explains why ride-hailing can still be easy here, but 
 
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if you still want the broader arrival-day logic
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if the hotel base itself is still unclear
+- read [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/) if the airport transfer is solved and the next question is how you should move around the city during the rest of the stay
+- read [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/) if the airport transfer is solved and the next question is which parts of the stay deserve early reservations versus which should stay flexible
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if ride-hailing is likely to be your real solution
 - read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if this Guangzhou arrival is really part of a Hong Kong-to-mainland rail handoff rather than a standalone city landing

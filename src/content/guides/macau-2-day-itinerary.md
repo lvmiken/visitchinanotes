@@ -190,6 +190,10 @@ If the trip wants a more relaxed and human-scale continuation, protect `Taipa`.
 
 If the trip wants a more glamorous or entertainment-led continuation, lean more toward `Cotai`.
 
+If the live question on Day 2 already is not whether the resort side exists but whether it deserves protected time at all, the more focused companion page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
+If the live question on Day 2 is narrower than that and really is whether one symbolic skyline stop should replace or support the broader resort-side branch, the more focused companion page is [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
+
 If the live question on Day 2 already has narrowed from `Should Taipa be in the plan?` to `What should we actually eat there?`, the more focused companion page is [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/).
 
 ### Optional Day 2 softer branch: Coloane only if the trip truly wants calm
@@ -205,6 +209,8 @@ MGTO's `Coloane Village` material still frames it as a tranquility-led route, an
 But this is usually a preference branch, not the default first-time Day 2 answer.
 
 For many readers, `Taipa` is the safer second-day use of time.
+
+If that calmer branch still is genuinely live, the narrower place page is [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/).
 
 ## A strong default version for most first-time visitors
 
@@ -267,6 +273,9 @@ Keep the old-core route more selective after the essentials.
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the Day 1 heritage-core meal is the main live decision now
 - read [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/) if the Day 1 old-core landmark decision itself is the main live question now
 - read [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/) if the Day 2 Taipa meal is the main live decision now
+- read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the Day 2 question is whether the route deserves one quieter village-and-coastal branch instead of a fuller Taipa or Cotai block
+- read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the Day 2 question is whether one polished resort-side finish is actually worth protecting
+- read [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/) if the Day 2 question is whether one skyline-and-symbol stop is enough instead of a fuller resort-side branch
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the city still needs to be judged against the wider route
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the real issue still is whether Macau itself should win over Hong Kong
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if Macau mainly is being added as part of a wider two-city South China sequence

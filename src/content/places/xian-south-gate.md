@@ -111,6 +111,8 @@ This is often when South Gate feels most useful:
 
 If the real question already is how that evening compares directly with Bell Tower, go next to [Bell Tower or South Gate at Night: Which Xi'an Old-City Area Fits Better?](/guides/bell-tower-vs-south-gate-at-night-in-xian/).
 
+If the old-city answer already is yes and the real question is specifically whether South Gate beats Bell Tower for one drinks-led continuation, go next to [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/).
+
 ## When South Gate is probably secondary
 
 South Gate is often secondary when:
@@ -200,5 +202,6 @@ It often fits naturally with:
 - read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if you still are deciding whether South Gate is a real Xi'an priority or mainly part of the wider old-city logic
 - read [Bell Tower or South Gate: Where Should You Stay in Xi'an?](/guides/bell-tower-vs-south-gate-where-to-stay-in-xian/) if the live question is whether South Gate should shape your hotel base
 - read [Where to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian/) if South Gate already belongs in the route and the next decision is dinner
+- read [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/) if South Gate already belongs in the route and the next decision is whether it really fits the drinks side better than Bell Tower
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you still are comparing South Gate against Xi'an's stronger in-city historical anchor
 - read [Is Xi'an Bell Tower Worth Visiting for First-Time Visitors?](/places/xian-bell-tower/) if the real old-city decision is whether you want calmer wall-side rhythm or more central landmark energy

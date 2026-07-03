@@ -58,6 +58,8 @@ If the city is already confirmed and the real question now is what actually dese
 
 If the real reason Wuhan is even on the map is breakfast culture, keep [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) open too.
 
+If one late airport arrival or one early departure is what keeps distorting the length decision, keep [Wuhan Tianhe Airport to City Center for First-Time Visitors: Metro, Taxi, or Didi?](/guides/wuhan-tianhe-airport-to-city-center/) open too.
+
 ## The short answer
 
 For many first-time visitors:
@@ -164,6 +166,7 @@ This is where Wuhan can become:
 - more food-layered
 - more weather-resilient
 - more museum- or riverfront-friendly
+- more open to one calmer supporting branch like [Guiyuan Temple in Wuhan: Is It Worth Visiting on a First Trip?](/places/guiyuan-temple/)
 - more believable as a lived-in central-China stop
 
 ### What 3 days usually gives you
@@ -208,11 +211,14 @@ It is weaker when the extra time only exists because of a train schedule.
 
 - read [Wuhan for First-Time Visitors: Why Breakfast Culture Alone Can Justify the Stop](/guides/wuhan-first-time-guide/) if the broader route-fit question still is not settled
 - read [Best Things to Do in Wuhan for First-Time Visitors](/guides/best-things-to-do-in-wuhan-for-first-time-visitors/) if the number of days is nearly settled and the next question is which Wuhan experiences should actually fill them
+- read [Guiyuan Temple in Wuhan: Is It Worth Visiting on a First Trip?](/places/guiyuan-temple/) if the fuller `2-day` or `3-day` Wuhan version may want one calmer Hanyang-side supporting stop
 - read [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) if the whole stay still depends on whether breakfast culture is a strong enough reason to stop
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the length is mostly decided and the next question is where the morning should actually happen
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the length is mostly decided and the next question is how to use the city's food layer well
 - read [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/) if the length is mostly decided and the next question is which districts should carry those meals
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if the number of nights is mostly settled and the next question is which side of the city should carry the stay
+- read [Wuhan Tianhe Airport to City Center for First-Time Visitors: Metro, Taxi, or Didi?](/guides/wuhan-tianhe-airport-to-city-center/) if the number of nights still depends too much on how punishing the arrival or departure day will feel
+- read [What to Book in Advance for Wuhan: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-wuhan/) if the length is mostly decided and the next question is which parts of the stop actually need protecting
 - read [A Practical 1-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-1-day-itinerary-for-first-time-visitors/) if Wuhan only gets one full day and now needs a cleaner route
 - read [A Practical 2-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-2-day-itinerary-for-first-time-visitors/) if Wuhan gets the fuller short-stay version and now needs a cleaner route
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if Wuhan sounds right but the wider route still may be too crowded

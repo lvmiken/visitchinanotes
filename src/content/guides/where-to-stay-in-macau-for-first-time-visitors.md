@@ -135,6 +135,10 @@ This is often better than the Macau Peninsula when the trip wants Macau to feel 
 - a polished overnight
 - or a heritage-plus-resort mix
 
+If the live question now is no longer where to sleep but whether the resort side itself deserves one of your limited Macau blocks, go next to [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
+If the live question is not a whole resort-side branch but whether one symbolic skyline landmark would be enough, go next to [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
+
 The tradeoff is that the old heritage core will no longer feel like it is right outside your hotel door.
 
 ### Choose Taipa if
@@ -171,6 +175,8 @@ Choose this area if you want:
 - a slower family or retreat feel
 
 It is weaker if the whole trip is short and the heritage core still is the real priority.
+
+If the live question now is no longer where to sleep but whether the quieter village side itself deserves real trip time, go next to [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/).
 
 ## Macau Peninsula or Cotai: how to decide quickly
 
@@ -220,6 +226,10 @@ If the base question is really whether `Taipa` deserves a softer second-day meal
 
 If the base question also depends on whether the peninsula side should carry one deeper heritage extension rather than only the square-and-Ruins version of old Macau, the more focused place page is [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/).
 
+If the base question also depends on whether one polished resort-side evening or hotel-led contrast would genuinely add value, the more focused place page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
+If the base question instead depends on whether one cleaner skyline symbol would add enough modern contrast without fully leaning resort-side, the more focused place page is [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
+
 ## What to watch out for
 
 - choosing a hotel only for price and making every day harder
@@ -235,7 +245,10 @@ If the base question also depends on whether the peninsula side should carry one
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the hotel choice still depends on how food-heavy the stop should be
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the case for a Macau Peninsula base depends on keeping the heritage-core meal easy
 - read [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/) if the case for a Taipa base depends on one softer neighborhood food day
+- read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the case for a Coloane base depends on whether that quieter village-and-coastal branch deserves real trip time
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if the base decision mostly is solved and the next live question is how to divide a short Macau stay between the old core and the newer south-side districts
+- read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the case for a resort-side base depends on whether the district itself deserves real trip time
+- read [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/) if the case for a modern-side base depends on whether one skyline-and-symbol stop would actually be enough
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the base decision still depends on whether Macau itself should be the shorter contrast stop
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if hotel choice may change because Hong Kong still might carry the main South China chapter
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the route may lean toward a modern mainland stop instead of a resort-side Macau stay

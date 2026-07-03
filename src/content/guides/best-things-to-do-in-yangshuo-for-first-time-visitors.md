@@ -54,6 +54,10 @@ If the town itself still is not fully confirmed, start first with [Yangshuo on a
 
 If this shortlist is starting with `Hong Kong to Yangshuo by train`, pause one step. Many readers jump straight to `what to do in Yangshuo` when the real unresolved problem still is whether the rail handoff should land in `Guilin` first or continue into a softer Yangshuo version. If that is the live issue, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) first.
 
+If the activity shape already is mostly clear and the live question now is which part of Yangshuo should actually carry the meals, keep [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/) open too.
+
+If the daytime shape already is mostly clear and the live question now is how much of the overnight should happen after dark, keep [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Yangshuo mix is:
@@ -74,6 +78,12 @@ It works best when:
 - Yangshuo already has one night
 - you want dinner, walking, and people-watching without extra planning
 - the town needs one social center of gravity
+
+If the evening probably is happening and the real remaining question is whether dinner should stay right here or move outward, the food page is [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/).
+
+If the real remaining question is whether this should be the whole evening or just one branch inside a larger night, the night parent is [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/).
+
+If the trip likely wants a more deliberate event night rather than the easier street version, the narrower place page is [Impression Liu Sanjie in Yangshuo: Is the Night Show Worth It for First-Time Visitors?](/places/impression-liu-sanjie-show/).
 
 ## 2. Yulong River is often the best soft scenic half day
 
@@ -98,6 +108,8 @@ It usually wins when:
 - only one stronger side trip can fit
 
 If the live question is choosing between the two main scenic branches, go directly to [Yulong River or Xingping: Which Yangshuo Side Trip Deserves Your Better Weather Window?](/guides/yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window/).
+
+If `Xingping` already is winning and the remaining question is whether one elevated sunrise panorama deserves the extra effort, the narrower place page is [Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?](/places/xianggong-mountain/).
 
 ## 4. Moon Hill is only a priority if the trip wants one active branch
 
@@ -142,6 +154,10 @@ Often the best mix is:
 
 - read [How Long Should You Stay in Yangshuo on a First Trip?](/guides/how-many-days-in-yangshuo-for-first-time-visitors/) if the shortlist still depends on whether Yangshuo gets one day or two
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the right shortlist now depends on your overnight base
+- read [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/) if the shortlist is mostly set and the next job is assigning the easy dinner, countryside lunch, or Xingping-side meal to the right part of the stop
+- read [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/) if the shortlist is mostly set and the next job is deciding whether the overnight should be a simple West Street night, a show night, or an earlier stop
+- read [Impression Liu Sanjie in Yangshuo: Is the Night Show Worth It for First-Time Visitors?](/places/impression-liu-sanjie-show/) if the shortlist is mostly set and the remaining question is whether the event-style Yangshuo night really deserves the evening
 - read [Yulong River or Xingping: Which Yangshuo Side Trip Deserves Your Better Weather Window?](/guides/yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window/) if only one scenic half day can win
+- read [Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?](/places/xianggong-mountain/) if the iconic-river branch likely is winning and the remaining question is whether one pre-dawn panorama adds enough
 - read [A Better Yangshuo Cycling Half-Day: Scenic Enough to Matter, Short Enough to Fit](/guides/a-better-yangshuo-cycling-half-day-for-first-time-visitors/) if the shortlist now wants one active countryside branch rather than another passive stop
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the shortlist really depends on whether Yangshuo should be the first scenic overnight after the Hong Kong rail handoff

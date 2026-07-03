@@ -63,6 +63,8 @@ If Harbin itself still is not fully confirmed, start first with [Harbin for Firs
 
 If the real winter question already is ticketed evenings, keep [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) open too.
 
+If the real winter question also depends on how the airport arrival or the nights should actually work, keep [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) and [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the best Harbin winter clothing system is:
@@ -234,3 +236,5 @@ Those are harder to improvise calmly once the trip has already started.
 - read [Harbin Ice Festival for First-Time Visitors: When the Winter Spectacle Is Worth the Whole Detour](/guides/harbin-ice-festival-for-first-time-visitors/) if the real question is whether the winter trip is worth doing at all
 - read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if the outfit plan depends on the main evening anchor
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the next question is how to reduce winter friction once you arrive
+- read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if the next question is how to reduce cold exposure before the trip even really begins
+- read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the clothing plan now looks workable and the next question is how ambitious the evenings should be

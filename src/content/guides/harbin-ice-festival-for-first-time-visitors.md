@@ -45,7 +45,7 @@ For many first-time visitors, the strongest answer is yes — but only when the 
 
 ## Source check
 
-This page was checked against current Harbin visitor-facing source material on **June 26, 2026**, including the current overview [Harbin Fact Sheet](https://www.icefestivalharbin.com/article-p18-harbin-fact-sheet.html), the current [Frequently Asked Questions about Harbin & Harbin Ice Festival](https://www.icefestivalharbin.com/faqs.html), and the current attraction page for [Harbin Ice and Snow World](https://www.icefestivalharbin.com/attraction-p7-harbin-ice-and-snow-world.html). I am mainly using those sources to keep the festival framing honest: the Harbin Ice Festival search usually leads travelers into a wider winter-city chapter, with Ice and Snow World acting as the clearest flagship experience. Exact seasonal openings, pricing, and weather severity can still change.
+This page was checked against current Harbin visitor-facing source material on **July 4, 2026**, including the current overview [Harbin Fact Sheet](https://www.icefestivalharbin.com/article-p18-harbin-fact-sheet.html), the current [Frequently Asked Questions about Harbin & Harbin Ice Festival](https://www.icefestivalharbin.com/faqs.html), the current attraction page for [Harbin Ice and Snow World](https://www.icefestivalharbin.com/attraction-p7-harbin-ice-and-snow-world.html), and the current pages for [Sun Island Park](https://www.icefestivalharbin.com/attraction-p24-sun-island-park.html) and [Zhaolin Park Ice Lantern Art Fair](https://www.icefestivalharbin.com/attraction-p16-zhaolin-park-ice-lantern-art-fair.html). I am mainly using those sources to keep the festival framing honest: the Harbin Ice Festival search usually leads travelers into a wider winter-city chapter, with Ice and Snow World acting as the clearest flagship experience and smaller branches such as Sun Island and Zhaolin Park acting as support rather than co-headliners. Exact seasonal openings, pricing, and weather severity can still change.
 
 ## Who this page is for
 
@@ -88,6 +88,7 @@ In practice, the query usually points to a fuller winter chapter built around:
 - one flagship night at [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/)
 - one central-city day around [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/)
 - one shorter visual support stop such as [Saint Sophia Cathedral in Harbin: A Short Stop, a Photo Stop, or a Real Priority?](/places/saint-sophia-cathedral/)
+- and only then, if the stay is longer, one softer support branch such as [Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?](/places/sun-island-park/) or [Zhaolin Park Ice Lantern Fair in Harbin: A Real Winter Night or Too Small Next to Ice and Snow World?](/places/zhaolin-park/)
 
 That is why the stronger Harbin trip usually feels like a small winter chapter, not a single venue errand.
 
@@ -178,6 +179,7 @@ If the real blocker is not festival value but whether you are dressed strongly e
 ## Which page to read next
 
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the real question now is whether the festival's flagship venue deserves your best evening
+- read [Sun Island or Ice and Snow World: Which Harbin Winter Stop Fits Better?](/guides/sun-island-or-ice-and-snow-world-which-harbin-winter-stop-fits-better/) if the festival already sounds likely but the route still needs to decide whether Harbin deserves a softer second winter branch
 - read [Harbin for First-Time Visitors: When the Winter Spectacle Is Worth Building a Trip Around](/guides/harbin-first-time-guide/) if the broader city still needs to earn its place in the route
 - read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if you already know the flagship venue matters and now need the practical booking logic
 - read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if cold preparation still feels more important than the itinerary itself

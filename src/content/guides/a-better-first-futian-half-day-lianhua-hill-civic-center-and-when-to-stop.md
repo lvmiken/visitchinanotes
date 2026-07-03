@@ -96,6 +96,8 @@ This is often the strongest opening because it gives you:
 
 It is especially useful if Shenzhen still feels abstract on Day 1.
 
+If the only remaining question is whether the hill itself really deserves a protected stop, the narrower place page is [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/).
+
 ### 2. Civic Center and the central axis for structure
 
 After the hill, use the `Civic Center` side to give the district form.
@@ -193,6 +195,7 @@ If you still have evening energy and want to stay central, let dinner carry the 
 ## Which page to read next
 
 - read [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if the bigger question still is why Futian belongs in the trip at all
+- read [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/) if the route order already is clear and the real question is whether the skyline overview itself earns the uphill start
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if this half day now needs to be placed inside a fuller route
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the next decision is whether this central half day should flow into a Futian night or hand off to another district
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the route works but the hotel base still is not settled

@@ -53,6 +53,8 @@ If the wider region still is not settled, keep [Guilin on a First Trip: What to 
 
 If the overnight already sounds likely and the remaining question is the best base, keep [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) open too.
 
+If the overnight already sounds likely and the remaining question is where the useful meals should land, keep [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/) open too.
+
 If the overnight question actually starts with `Hong Kong to Yangshuo by train`, pause one step. Many readers think they are deciding only whether Yangshuo deserves a night, when the real unresolved issue is whether the Hong Kong rail handoff should land in `Guilin` first or continue into a softer `Yangshuo` version. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/).
 
 ## The short answer
@@ -95,6 +97,8 @@ Choose `Yangshuo overnight` if:
 If that evening logic already is the live question, the narrower next page is [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/).
 
 If the hotel choice now matters more than the sightseeing question, the direct follow-up page is [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/).
+
+If the overnight is basically chosen and the practical question now is where dinner, lunch, or beer-fish time should actually go, the better execution page is [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/).
 
 ## Skip the overnight if the route needs to stay sharp
 
@@ -160,6 +164,7 @@ It improves the trip less when:
 
 - read [West Street in Yangshuo: When It Is Worth Your Evening](/places/yangshuo-west-street/) if the overnight already is likely and the next question is how much the town center really deserves
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the overnight likely is happening and the next planning choice is the best base
+- read [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/) if the overnight likely is happening and the next planning choice is where the easiest dinner and scenic-day meals should actually go
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both and now needs the cleaner tradeoff
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the overnight decision still depends on whether the whole region gets one day, two days, or three
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the overnight probably is happening and the broader town role still feels too abstract

@@ -118,6 +118,10 @@ It is usually not enough if you want:
 - both the historic core and Taipa to breathe
 - one better evening that is not rushed
 
+If the live question already is whether that one selective `Cotai` look should stay in the plan at all, the narrower place page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
+If the live question is even narrower and really is whether one symbolic skyline stop deserves time inside the extra day, the narrower place page is [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
+
 ## Why 2 days is often the sweet spot
 
 For many first-time visitors, `2 days` is the best Macau answer.
@@ -163,6 +167,8 @@ Three days in Macau usually only makes sense if you deliberately want:
 - more time in `Taipa` or `Coloane`
 - family pace
 - more entertainment, shopping, or relaxation than a standard first trip needs
+
+If the real question hiding inside that extra day is whether `Coloane` itself actually adds enough value, the narrower place page is [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/).
 
 This is not the default first-time answer.
 
@@ -214,6 +220,9 @@ That usually creates a better route than forcing too many similar city walks acr
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if Macau still is being judged against other route options
 - read [Best Area to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) if the trip length is nearly decided and the hotel base is the next live question
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if you already know the stay should be `2 days` and now need a route that keeps old Macau and Taipa or Cotai in balance
+- read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the extra time mainly depends on whether one polished resort-side block would genuinely improve the stay
+- read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the extra time mainly depends on whether one quieter village-and-coastal branch would genuinely improve the stay
+- read [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/) if the extra time mainly depends on whether one skyline-led landmark stop would genuinely improve the stay
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the stay length still depends on whether Macau itself should win in the route
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the extra Macau day mainly is being justified by whether Hong Kong is being cut too short
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the route may prefer a modern mainland stop instead of a slower second Macau day

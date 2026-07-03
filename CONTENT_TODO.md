@@ -1,6 +1,6 @@
 # Content Todo
 
-Last updated: 2026-07-02
+Last updated: 2026-07-04
 
 ## Goal
 
@@ -22,6 +22,36 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 
 ## Recent maintenance
 
+- 2026-07-04: Added a dedicated Hong Kong denser-shopping-and-city-energy place page for `Causeway Bay`, then linked it back into the city's first-time, stay, 3-day, night-planning, food, Wan Chai, and hub layers so `Causeway Bay Hong Kong worth it / should you stay in Causeway Bay / Causeway Bay vs Wan Chai / Causeway Bay nightlife / Causeway Bay shopping district` searches now land on a direct district answer instead of being flattened into the broader stay page, night guide, or Wan Chai-only island-side wording.
+- 2026-07-04: Added a dedicated Hong Kong broader-island-night place page for `Wan Chai`, then linked it back into the city's first-time, stay, 3-day, night-planning, food, Temple Street, West Kowloon, and hub layers so `Wan Chai Hong Kong worth it / Wan Chai nightlife / should you stay in Wan Chai / Wan Chai vs Temple Street / Wan Chai vs West Kowloon` searches now land on a direct district answer instead of being flattened into the broader night guide, stay page, or Hong Kong-wide itinerary language.
+- 2026-07-04: Added a dedicated Hong Kong calmer-waterfront place page for `West Kowloon Cultural District`, then linked it back into the city's first-time, stay, 3-day, night-planning, and hub layers so `West Kowloon Cultural District worth it / West Kowloon at night / calmer Hong Kong waterfront / should you stay near West Kowloon` searches now land on a direct arts-and-harbour answer instead of being flattened into the broader night guide, stay page, or Hong Kong-wide itinerary language.
+- 2026-07-04: Added a dedicated Macau calm-branch place page for `Coloane Village`, then linked it back into the city's first-time, trip-length, stay, itinerary, Taipa, Cotai, and hub layers so `Coloane Macau / Coloane Village / quiet Macau / Coloane vs Taipa / Coloane vs Cotai` searches now land on a direct village-and-coastal answer instead of being left as a passing mention inside broader stay and 2-day planning copy.
+- 2026-07-04: Added a dedicated Macau skyline-symbol place page for `Macau Tower`, then linked it back into the city's first-time, trip-length, stay, itinerary, Cotai, and hub layers so `Macau Tower / worth it / day or night / tower vs Cotai` searches now land on a direct landmark answer instead of being flattened into broader resort-side, stay, and 2-day planning copy only.
+- 2026-07-04: Opened a new Macau resort-side place-anchor branch with `Cotai Strip`, then linked it back into the city's first-time, trip-length, stay, itinerary, Taipa, Senado, and hub layers so `Cotai Macau / Cotai Strip / should first-timers stay in Cotai / resort side worth it` searches now land on a direct contrast page instead of being flattened into broader stay, itinerary, and Taipa-versus-old-core copy only.
+- 2026-07-04: Added a dedicated Shenzhen central-park place page for `Lianhua Hill Park`, then linked it back into the city's first-time, Futian-core, half-day, stay, itinerary, and hub layers so `Lianhua Hill Park Shenzhen / Futian skyline view / easy hill / worth it` searches now land on a direct central-day anchor instead of being flattened into broader Futian route and skyline guides only.
+- 2026-07-04: Added a dedicated Shenzhen creative-nightlife place page for `OCT-LOFT`, then linked it back into the city's first-time, night-planning, itinerary, stay, and hub layers so `OCT Loft Shenzhen / B10 Live / Shenzhen creative district / arts nightlife` searches now land on a direct district answer instead of being flattened into the broader night parent or west-side district comparisons.
+- 2026-07-04: Added a dedicated Yangshuo sunrise-panorama place page for `Xianggong Mountain`, then linked it back into the town's first-time, shortlist, trip-length, Xingping-photo, Xingping-side-trip, and city-hub layers so `Xianggong Mountain / sunrise viewpoint / Li River panorama / worth waking up` searches now land on a direct elevated-detour answer instead of being flattened into broader Xingping, 20 RMB, and Yangshuo planning pages.
+- 2026-07-04: Added a dedicated Guilin regional detour page for `Longji Rice Terraces`, then linked it back into the city's first-time, shortlist, day-count, short-itinerary, and hub layers so `Longji / Longsheng / rice terraces from Guilin worth it` searches now land on a direct full-day-branch answer instead of being flattened into broader Guilin-or-Yangshuo planning pages.
+- 2026-07-04: Added a dedicated Yangshuo night-event place page for `Impression Liu Sanjie`, then linked it back into the town's night-planning, shortlist, and hub layers so `Yangshuo night show / Impression Liu Sanjie / Impression Sister Liu worth it` searches now land on a direct event-night answer instead of being flattened into the broader night guide or West Street branch.
+- 2026-07-04: Opened a new Guilin place-anchor batch with `Zhengyang Walking Street`, then linked it back into the city's first-time, shortlist, food, night, first-night-comparison, and hub layers so `Guilin walking street / easy central night / food-and-walk first night` searches now land on a direct pedestrian-core answer instead of being flattened into the broader food page, night guide, or the Two Rivers and Four Lakes branch.
+- 2026-07-04: Added a narrower Guangzhou riverside-nightlife place page for `Taikoo Cang Wharf`, then linked it back into the city's first-time, broad night-planning, bars, itinerary, and hub layers so `Taikoo Cang Guangzhou / riverside bars / Pearl River nightlife district` searches now land on a direct waterfront-district answer instead of being flattened into the broader bars parent, the Pearl River cruise page, or generic night-planning language.
+- 2026-07-04: Opened a new Harbin place-and-comparison layer with `Sun Island`, `Zhaolin Park / Ice Lantern Fair`, and a narrower `Sun Island vs Ice and Snow World` chooser, then linked those pages back into the city's first-time, best-things, stay-length, stay, ice-festival, night, and hub layers so Harbin now catches the missing `second winter branch / lighter central winter night / should we do the softer daytime snow stop or the main night spectacle` searches instead of flattening every winter decision into the existing three-page core.
+- 2026-07-04: Deepened the Xi'an nightlife branch with a new `best bars and modern nightlife` parent plus narrower child pages for `South Gate vs Bell Tower drinks`, `craft beer / jazz / softer night`, and `Everbright City after dark`, then linked them back into the city's first-time, broad night-planning, Bell Tower, South Gate, Everbright City, and hub layers so Xi'an now catches the missing drinks-led and softer-after-dark search intents instead of flattening every evening into the broader old-city night parent.
+- 2026-07-04: Added five core Harbin execution pages for `airport to city`, `how many days`, `where to eat`, `what to do at night`, and `what to book in advance`, then linked them back into the city's first-time, stay, shortlist, winter-packing, ticketing, and hub layers so Harbin now catches the practical first-trip arrival, pacing, food, evening, and reservation anxieties that were previously missing between the existing attraction-led winter pages.
+- 2026-07-04: Added a narrower Guilin `first night: Two Rivers and Four Lakes vs Zhengyang Walking Street` execution page, then linked it back into the city's first-time, food, night, and hub layers so `Guilin first night / Two Rivers and Four Lakes vs food street / arrival night Guilin` searches now land on a direct first-evening chooser instead of being split between the broader night parent and the separate save-energy page.
+- 2026-07-04: Added a narrower Yangshuo `West Street after dark` execution page, then linked it back into the new Yangshuo night parent, the West Street place page, and the town hub so `West Street Yangshuo nightlife / after dark / bars / how long to stay` searches now land on a timing-and-use answer instead of stopping at the broader worth-it page or parent night guide.
+- 2026-07-04: Added a Yangshuo `what to do at night` parent page, then linked it back into the town's first-time, stay, food, shortlist, and hub layers so `Yangshuo at night / West Street nightlife / Impression Liu Sanjie / one-night Yangshuo evening` searches now land on a real evening parent instead of jumping straight into the narrower West Street place page or leaving the overnight shape implied only inside stay and food content.
+- 2026-07-03: Added a Yangshuo `where to eat` execution page, then linked it back into the town's first-time, stay, shortlist, overnight, and hub layers so `where to eat in Yangshuo / West Street dinner / countryside lunch / Xingping meal / should the overnight keep food simple` searches now land on a district-and-day answer instead of stopping at overnight, side-trip, and atmosphere pages only.
+- 2026-07-03: Added a Guilin `what to do at night` parent page, then linked it back into the region's first-time, stay, food, shortlist, and hub layers so `Guilin at night / Two Rivers and Four Lakes / Zhengyang Walking Street / should you save energy for the Li River` searches now land on a real evening parent instead of jumping straight into one narrow cruise-versus-rest page.
+- 2026-07-03: Added a Guilin `where to eat` execution page, then linked it back into the region's first-time, stay, shortlist, and hub layers so `where to eat in Guilin / Guilin rice noodles / central Guilin dinner / should the better dinner wait for Yangshuo` searches now land on a district-and-day answer instead of stopping at scenic planning pages only.
+- 2026-07-03: Added a Guangzhou `bars / modern nightlife` child page, then linked it back into the city's first-time, stay, shortlist, night-planning, and hub layers so `Guangzhou bars / nightlife / skyline drinks / Taikoo Cang / easy central night` searches now land on a dedicated drinks-first answer instead of being flattened into the broader night parent or skyline chooser pages.
+- 2026-07-03: Added a Guangzhou `what to book in advance` execution page, then linked it back into the city's first-time, stay, airport, get-around, itinerary, night, shortlist, and hub layers so `Guangzhou reservations / Canton Tower tickets / Pearl River cruise booking / hotel-or-rail first` searches now land on a dedicated planning answer instead of being left scattered across airport, transport, and evening pages.
+- 2026-07-03: Added a Guangzhou `how to get around` execution page, then linked it back into the city's first-time, stay, airport, shortlist, 3-day, and hub layers so `Guangzhou metro / Didi / taxi / day pass / district-hopping` searches now land on a dedicated logistics answer instead of being left implied inside hotel, airport, or night pages.
+- 2026-07-03: Added a Guangzhou `best things to do` shortlist page, then linked it back into the city's first-time, trip-length, 3-day, and hub layers so broader `what to do in Guangzhou` searchers now land on a true priority-order parent instead of being split between route-fit, food-only, night-only, or district child pages.
+- 2026-07-03: Added a Wuhan `Guiyuan Temple` place page, then linked it back into the city's first-time, trip-length, shortlist, 2-day, and hub layers so `Guiyuan Temple / Wuhan temple / calmer Hanyang-side stop` searches now land on a dedicated answer instead of being flattened into the broader Wuhan shortlist or left implied inside generic supporting-layer language.
+- 2026-07-03: Added three more Wuhan place / evening-intent pages for `Wuhan Yangtze River night cruise`, `Jianghan Road Pedestrian Street`, and `Tanhualin`, then linked them back into the city's first-time, best-things, stay, 2-day, night, food, and city-hub layers so Wuhan now catches the core `special river night`, `easy Hankou evening`, and `softer Wuchang historic-street` searches instead of flattening those intents into the broader night, stay, and shortlist pages.
+- 2026-07-03: Added three missing Wuhan execution pages for `Tianhe Airport -> city`, `how to get around Wuhan`, and `what to book in advance for Wuhan`, then linked them back into the city's first-time, stay, trip-length, itinerary, best-things, night, and city-hub layers so the Wuhan cluster now catches the core arrival, movement, and reservation anxieties that show up before travelers ever decide on deeper place pages.
+- 2026-07-03: Audited city-level content coverage across `guides`, `places`, and the existing city hubs, then defined the next city catch-up sequence so the site's expansion is driven by missing execution layers and thin place coverage instead of only continuing to deepen the already-dense Beijing and Shanghai clusters.
 - 2026-07-02: Added two narrower Beijing child pages for `craft beer / Jing-A / Great Leap / baijiu cocktails` and `Panjiayuan ghost market / midnight flea market / late-night chuan'r`, then linked them back into the city's first-time, night-planning, bars, food, Panjiayuan, and hub layers so sharper drinks-identity searches and stranger market-night searches now land on dedicated answers instead of being flattened into Sanlitun cocktails, Guijie food-street logic, or the daytime Panjiayuan page alone.
 - 2026-07-02: Added a narrower Beijing nightlife child page for `livehouses`, `indie rock`, `School Bar`, `DDC`, `Dada`, `Zhao Dai`, and `underground techno`, then linked it back into the city's main night-planning, bars, and first-time-guide layers so music-first and less-polished Beijing nightlife searches now land on a dedicated answer instead of being flattened into Sanlitun cocktails or generic modern-night coverage.
 - 2026-07-02: Added an East Lake scenic anchor page for Wuhan, then linked it back into the city's first-time, shortlist, stay, and 2-day layers so `East Lake / Wuhan greenway / softer scenic branch` searchers now land on a dedicated worth-it answer instead of forcing that intent into museum, landmark, or generic shortlist language.
@@ -65,6 +95,235 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 - 2026-06-29: Continued the same route-intent weave into `Hong Kong`, `Guilin`, and `Yangshuo` stay guides so `West Kowloon`, `Guilin West`, and `Hong Kong to Yangshuo by train` searches now hand off more cleanly from hotel-choice pages into the named scenic rail corridor topic instead of getting stuck as fake neighborhood problems.
 - 2026-06-29: Pushed that Guilin-region rail weave another layer deeper into `first night`, `2-day plan`, and `Yangshuo overnight` execution pages, so readers now have a cleaner path from `Hong Kong -> Guilin / Yangshuo` corridor intent into the exact overnight-order and short-itinerary decisions they search next.
 - 2026-06-29: Extended the same Guilin-region rail weave into `how many days` and `best things to do` pages, so travelers now can move from the named `Hong Kong West Kowloon -> Guilin / Yangshuo` corridor page into time-allocation and activity-priority decisions without losing the rail-arrival context.
+
+## City Coverage Catch-Up Plan
+
+This plan comes from the current city inventory, not from generic expansion ideas. The goal is to keep the site's strongest cities deep, while making sure thinner cities have enough `first-time -> execution -> place` structure to convert search intent cleanly.
+
+### Batch C1: Wuhan execution and place catch-up
+
+Reason:
+
+- `Wuhan` now has a usable first layer, but it is still thin overall.
+- It especially lacks `airport`, `get around`, `book in advance`, and a wider set of place anchors.
+- This is the cleanest city to upgrade next because the parent structure already exists.
+
+Status update:
+
+- `airport`, `get around`, `book in advance`, `night cruise`, `Jianghan Road`, `Tanhualin`, and `Guiyuan Temple` are now done.
+- C1 can now be treated as complete unless a new Wuhan intent gap becomes more urgent than moving to the next city batch.
+
+Suggested pages:
+
+1. `Wuhan Tianhe Airport to City Center for First-Time Visitors`
+2. `How to Get Around Wuhan for First-Time Visitors`
+3. `What to Book in Advance for Wuhan`
+4. `Wuhan Yangtze River Night Cruise for First-Time Visitors`
+5. `Guiyuan Temple for First-Time Visitors`
+6. `Jianghan Road Pedestrian Street for First-Time Visitors`
+7. `Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?`
+
+Progress:
+
+- `done`: `Wuhan Tianhe Airport to City Center for First-Time Visitors`
+- `done`: `How to Get Around Wuhan for First-Time Visitors`
+- `done`: `What to Book in Advance for Wuhan`
+- `done`: `Wuhan Yangtze River Night Cruise for First-Time Visitors`
+- `done`: `Jianghan Road Pedestrian Street for First-Time Visitors`
+- `done`: `Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?`
+- `done`: `Guiyuan Temple for First-Time Visitors`
+
+### Batch C2: Guangzhou core execution gap fill
+
+Reason:
+
+- `Guangzhou` has enough broad travel identity to deserve a fuller execution layer.
+- It is still missing a true `best things` parent plus several practical first-trip support pages.
+- This is a high-utility cluster because Guangzhou already pairs well with Hong Kong, Shenzhen, and south-China route topics.
+
+Status update:
+
+- `best things`, `how to get around`, `what to book in advance`, and a narrower nightlife child page are now done.
+- `airport` already existed before this batch.
+- C2 can now be treated as complete unless a more specific Guangzhou nightlife child such as `Taikoo Cang / riverside bars` becomes more urgent than moving to the next city batch.
+
+Suggested pages:
+
+1. `Best Things to Do in Guangzhou for First-Time Visitors`
+2. `Guangzhou Baiyun Airport to City Center`
+3. `How to Get Around Guangzhou for First-Time Visitors`
+4. `What to Book in Advance for Guangzhou`
+5. one narrower `Guangzhou nightlife / bars / Pearl River vs district night` child page after the above basics are in place
+
+Progress:
+
+- `done`: `Best Things to Do in Guangzhou for First-Time Visitors`
+- `done`: `Guangzhou Baiyun Airport to City Center`
+- `done`: `How to Get Around Guangzhou for First-Time Visitors`
+- `done`: `What to Book in Advance for Guangzhou`
+- `done`: one narrower `Guangzhou nightlife / bars / Pearl River vs district night` child page
+
+### Batch C3: Guilin and Yangshuo local-use layer
+
+Reason:
+
+- `Guilin / Yangshuo` already catch scenic-route demand, but the city-use layer is still too thin.
+- They need more `where to eat`, `at night`, and `base / transfer / local rhythm` pages so readers do not stop at scenery-only planning.
+
+Suggested pages:
+
+1. `Where to Eat in Guilin for First-Time Visitors`
+2. `What to Do in Guilin at Night for First-Time Visitors`
+3. `Where to Eat in Yangshuo for First-Time Visitors`
+4. `What to Do in Yangshuo at Night for First-Time Visitors`
+5. one `Yangshuo West Street after dark` child page
+6. one `Guilin first night / Two Rivers and Four Lakes vs food street` execution page
+
+Progress:
+
+- `done`: `Where to Eat in Guilin for First-Time Visitors`
+- `done`: `What to Do in Guilin at Night for First-Time Visitors`
+- `done`: `Where to Eat in Yangshuo for First-Time Visitors`
+- `done`: `What to Do in Yangshuo at Night for First-Time Visitors`
+- `done`: `Yangshuo West Street after dark`
+- `done`: `Guilin first night / Two Rivers and Four Lakes vs food street`
+
+### Batch C4: Harbin first-time skeleton completion
+
+Reason:
+
+- `Harbin` is still very thin and mostly attraction-led.
+- It needs a stronger first-time support skeleton before more selective winter or festival pages make sense.
+
+Status update:
+
+- `airport`, `how many days`, `where to eat`, `what to do at night`, and `what to book in advance` are now done.
+- the optional `weather / winter-survival` support layer is already effectively covered by the existing `What to Wear in Harbin at -20°C Without Overpacking` page.
+- C4 can now be treated as complete unless a more urgent Harbin gap appears around additional place anchors such as a calmer riverfront, Gogol Street, or another city-use branch.
+
+Suggested pages:
+
+1. `Harbin Airport to City Center`
+2. `How Many Days in Harbin for First-Time Visitors`
+3. `Where to Eat in Harbin for First-Time Visitors`
+4. `What to Do in Harbin at Night for First-Time Visitors`
+5. `What to Book in Advance for Harbin`
+6. one weather- or winter-survival execution page if the above core layer is stable
+
+Progress:
+
+- `done`: `Harbin Airport to City Center`
+- `done`: `How Many Days in Harbin for First-Time Visitors`
+- `done`: `Where to Eat in Harbin for First-Time Visitors`
+- `done`: `What to Do in Harbin at Night for First-Time Visitors`
+- `done`: `What to Book in Advance for Harbin`
+- `done`: one weather- or winter-survival execution page
+
+### Batch C5: Xi'an nightlife and softer after-dark branch
+
+Reason:
+
+- `Xi'an` is already rich in history, museums, rail, and food.
+- Its weak point is still the narrower nightlife and after-dark execution layer compared with Beijing, Shanghai, Chengdu, and Chongqing.
+- This is a good "deepen a mature city" batch after the thinner-city catch-up work above.
+
+Suggested pages:
+
+1. `Best Bars and Modern Nightlife in Xi'an for First-Time Visitors`
+2. `South Gate or Bell Tower for Drinks at Night in Xi'an`
+3. `Where to Go in Xi'an for Craft Beer, Jazz, or a Softer Night`
+4. one `after dark in Datang Everbright City` child-execution page if nightlife starts collapsing into one broad tourist strip
+
+Progress:
+
+- `done`: `Best Bars and Modern Nightlife in Xi'an for First-Time Visitors`
+- `done`: `South Gate or Bell Tower for Drinks at Night in Xi'an`
+- `done`: `Where to Go in Xi'an for Craft Beer, Jazz, or a Softer Night`
+- `done`: one `after dark in Datang Everbright City` child-execution page
+
+### Batch C6: Harbin winter place-anchor catch-up
+
+Reason:
+
+- `Harbin` now has a usable first-time execution skeleton, but its place layer still over-relied on only `Ice and Snow World`, `Zhongyang Street`, and `Saint Sophia`.
+- The missing gap was not another broad parent. It was a more realistic second winter branch and one lighter central winter-night branch.
+- This is the right moment to deepen Harbin with a small set of place anchors and one comparison page instead of opening random extra guides.
+
+Status update:
+
+- `Sun Island`, `Zhaolin Park / Ice Lantern Fair`, and the narrower `Sun Island vs Ice and Snow World` comparison page are now done.
+- C6 can now be treated as complete unless a more specific Harbin winter branch such as `Gogol Street`, `Stalin Park`, or another family-heavy venue becomes more urgent than moving to the next city or regional batch.
+
+Suggested pages:
+
+1. `Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?`
+2. `Zhaolin Park Ice Lantern Fair in Harbin`
+3. `Sun Island or Ice and Snow World: Which Harbin Winter Stop Fits Better?`
+
+Progress:
+
+- `done`: `Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?`
+- `done`: `Zhaolin Park Ice Lantern Fair in Harbin`
+- `done`: `Sun Island or Ice and Snow World: Which Harbin Winter Stop Fits Better?`
+
+### Batch C7: Guilin and Yangshuo place-anchor catch-up
+
+Reason:
+
+- `Guilin` and `Yangshuo` now have enough hub, route-shaping, food, and night-planning coverage that the next bottleneck is no longer another broad guide.
+- Both clusters still underperform on direct `place` intent, especially around the exact districts and scenic add-ons readers search after they already understand the broader region.
+- This batch should bias toward the anchors already doing work inside existing guides, so the internal-link graph gets denser instead of opening unrelated new branches.
+
+Status update:
+
+- `Guilin` now has the missing central food-and-evening district anchor plus one stronger optional scenic detour beyond the core `Li River / Elephant Trunk Hill / Reed Flute Cave` trio.
+- `Yangshuo` now has the missing higher-intent night event page plus the sunrise-photo branch that foreign readers search very specifically.
+- C7 can now be treated as complete unless a later pass shows a real need for a narrower Guilin- or Yangshuo-side comparison page.
+
+Suggested pages:
+
+1. `Zhengyang Walking Street in Guilin: Is It Worth It for First-Time Visitors?`
+2. `Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?`
+3. `Impression Liu Sanjie in Yangshuo: Is It Worth It for First-Time Visitors?`
+4. `Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?`
+
+Progress:
+
+- `done`: `Zhengyang Walking Street in Guilin: Is It Worth It for First-Time Visitors?`
+- `done`: `Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?`
+- `done`: `Impression Liu Sanjie in Yangshuo: Is It Worth It for First-Time Visitors?`
+- `done`: `Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?`
+
+### Batch C8: Macau place-anchor catch-up
+
+Reason:
+
+- `Macau` already has a usable first-time, stay, food, and 2-day planning layer, but it still is thin on direct `place` intent.
+- The biggest visible gap is the resort-side branch that current Macau guides keep referencing as `Cotai`, but without a standalone landing page.
+- This batch should deepen Macau by turning its most repeated contrast districts into direct search-entry pages before opening broader extra guide layers.
+
+Status update:
+
+- the two clearest immediate gaps, `Cotai Strip` and `Macau Tower`, are now done.
+- `Coloane Village` is now done too, which closes the main Macau place-anchor catch-up batch for now.
+
+Suggested pages:
+
+1. `Cotai Strip in Macau: Is It Worth It for First-Time Visitors?`
+2. `Macau Tower: Is It Worth It for First-Time Visitors?`
+3. `Coloane Village in Macau: Is It Worth It for First-Time Visitors?`
+
+Progress:
+
+- `done`: `Cotai Strip in Macau: Is It Worth It for First-Time Visitors?`
+- `done`: `Macau Tower: Is It Worth It for First-Time Visitors?`
+- `done`: `Coloane Village in Macau: Is It Worth It for First-Time Visitors?`
+
+## Working rule for the next batches
+
+- Do not start with more Beijing or Shanghai broad parents unless a very specific search-intent gap is clearly visible.
+- For thinner cities, prefer `airport / get around / book in advance / best things / where to eat / what to do at night` before adding too many comparison pages.
+- When a city has fewer than about `5` place pages, bias toward adding `places` before over-expanding niche `guides`.
 
 ## Current Release Plan
 
@@ -575,6 +834,7 @@ Use this section for narrower city-cluster pages that sit outside the original 3
 | done | South China | Avenue of Stars in Hong Kong: is it worth it for first-time visitors | `src/content/places/avenue-of-stars.md` | New Hong Kong harbourfront place page that turns the default Tsim Sha Tsui skyline block into a direct worth-it and route-fit answer, so the Hong Kong hub, itinerary, and night pages now have a true waterfront anchor instead of leaving the city's easiest iconic evening buried inside broader harbour guidance only. |
 | done | South China | Star Ferry in Hong Kong: is it worth it for first-time visitors | `src/content/places/star-ferry.md` | New Hong Kong harbour-crossing place page that turns the ferry from a generic skyline-side transfer into a direct worth-it and route-fit answer, so the Hong Kong hub, itinerary, and night pages now have a true harbour-movement anchor instead of leaving that classic first-time decision buried inside broader evening and city guides. |
 | done | South China | Temple Street Night Market in Hong Kong: is it worth it for first-time visitors | `src/content/places/temple-street-night-market.md` | New Hong Kong Kowloon-night place page that turns Temple Street from a generic night-market mention into a direct worth-it and route-fit answer, so the Hong Kong hub, itinerary, night, and Temple-Street food pages now have a true district-level anchor instead of leaving the city's strongest market-evening branch vague. |
+| done | South China | Causeway Bay in Hong Kong: is it worth it for first-time visitors | `src/content/places/causeway-bay.md` | New Hong Kong denser-island-side place page that turns Causeway Bay from a passing `Wan Chai / Causeway Bay` stay-and-night phrase into a direct worth-it and route-fit answer around shopping, brighter city energy, and whether this branch is actually better than another harbour repeat or a broader Wan Chai night. |
 | done | South China | Senado Square in Macau: is it worth it for first-time visitors | `src/content/places/senado-square.md` | New Macau heritage-core place page that turns Senado Square from a generic old-core mention into a direct worth-it and route-fit answer, so the Macau hub, itinerary, stay, and food pages now have a true Day-1 anchor instead of leaving the city's most important historic center implied only inside broader guides. |
 | done | South China | Ruins of St. Paul's in Macau: is it worth it for first-time visitors | `src/content/places/ruins-of-st-pauls.md` | New Macau landmark place page that turns the city's most famous façade from a generic old-core mention into a direct worth-it and route-fit answer, so the Macau hub, itinerary, and heritage-food pages now have a true icon-level child page instead of leaving that first-time decision buried inside broader old-core guidance. |
 | done | South China | A-Ma Temple in Macau: is it worth it for first-time visitors | `src/content/places/a-ma-temple.md` | New deeper-heritage place page that turns A-Ma Temple from a supporting official-tourism mention into a direct worth-it and route-fit answer, so the Macau cluster now has a true older spiritual anchor beyond Senado Square and the Ruins instead of leaving that depth layer implied only inside broader first-time and itinerary guidance. |
@@ -649,9 +909,13 @@ Use this section for narrower city-cluster pages that sit outside the original 3
 | done | Yangshuo | West Street in Yangshuo | `src/content/places/yangshuo-west-street.md` | New Yangshuo evening-and-town-core decision page that turns West Street from a generic famous-street mention into a direct how-much-time and when-it-actually-helps answer, so the Yangshuo cluster now has a true atmosphere anchor instead of leaving the town center as only a future supporting note. |
 | done | Guilin | How long should you stay in Guilin on a first trip | `src/content/guides/how-many-days-in-guilin-for-first-time-visitors.md` | New trip-length decision page that turns the loose Guilin-region timing question into a direct 1-day versus 2-day versus fuller 3-day answer, so the new Guilin cluster now has a true stay-length layer instead of leaving the river-and-Yangshuo tradeoff buried only inside broader entry guides. |
 | done | Yangshuo | Is Yangshuo worth an overnight for first-time visitors | `src/content/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors.md` | New overnight-decision page that turns Yangshuo from a vague maybe-we-sleep-there town into a direct pass-through-versus-real-overnight answer, so the Guilin-region cluster now has a true town-stay child page instead of leaving its most important pacing choice implied only inside broader city guides. |
+| done | Yangshuo | Where to eat in Yangshuo for first-time visitors | `src/content/guides/where-to-eat-in-yangshuo-for-first-time-visitors.md` | New Yangshuo district-food execution page that turns the broad `where should we eat` layer into a practical West-Street-versus-countryside-versus-Xingping meal map, so the cluster now handles real dinner-and-lunch placement instead of leaving food logic dissolved inside overnight, sightseeing, and town-atmosphere pages only. |
+| done | Yangshuo | What to do in Yangshuo at night for first-time visitors | `src/content/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors.md` | New Yangshuo evening parent page that turns the broad `what should we do at night` layer into a practical West-Street-versus-Impression-Sister-Liu-versus-keep-it-light decision, so the cluster now handles the town's real after-dark planning instead of leaving that intent flattened into the West Street place page or broader overnight logic only. |
+| done | Yangshuo | West Street in Yangshuo after dark: how to use the town's easiest night well | `src/content/guides/west-street-in-yangshuo-after-dark-how-to-use-the-towns-easiest-night-well.md` | New narrower Yangshuo after-dark child page that turns the still-buried `West Street nightlife / bars / how long should we stay` query into a direct execution answer around dinner timing, one-drink restraint, and when to stop, so the cluster now catches a sharper town-center night intent instead of forcing it into the broader West Street worth-it page or evening parent. |
 | done | Guilin | Li River cruise or extra time in Yangshuo for first-time visitors | `src/content/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors.md` | New regional tradeoff page that turns the Guilin cluster's most honest short-trip tension into a direct icon-versus-atmosphere choice, so readers can decide between the classic scenic cruise and a fuller Yangshuo rhythm without pretending both always fit equally well. |
 | done | Guilin | Best things to do in Guilin on a first trip: the scenic shortlist that actually matters | `src/content/guides/best-things-to-do-in-guilin-for-first-time-visitors.md` | New Guilin itinerary-shortlist page that turns the loose `what should we actually do here` intent into a cleaner Li-River-versus-Yangshuo-versus-city-support hierarchy, so the cluster now has a real broad planning page instead of leaving readers to piece the region together from only entry, day-count, and single-place pages. |
 | done | Guilin | Where to stay in Guilin on a first trip: central convenience or a faster scenic handoff | `src/content/guides/guilin-where-to-stay.md` | New Guilin hotel-base page that turns the fuzzy city-versus-gateway-versus-Yangshuo split into a direct hotel-logic answer, so the Guilin cluster now captures one of the highest-intent first-trip planning searches instead of leaving stay decisions implied inside broader region pages only. |
+| done | Guilin | Two Rivers and Four Lakes or Zhengyang Walking Street: which Guilin first night fits better | `src/content/guides/two-rivers-and-four-lakes-or-zhengyang-walking-street-which-guilin-first-night-fits-better.md` | New narrower Guilin arrival-night comparison page that turns the still-buried `first night cruise or food street` query into a direct first-evening answer around polished river-night versus easier central dinner-and-walk logic, so the cluster now catches one more real arrival-night planning intent instead of forcing it into the broader night parent or the separate save-energy page. |
 | done | Yangshuo | Where to stay in Yangshuo on a first trip: West Street ease or a quieter countryside base | `src/content/guides/yangshuo-where-to-stay.md` | New Yangshuo hotel-base page that turns the short-stay `town center or calmer scenic base` question into a direct first-time hotel decision, so the Yangshuo cluster now has a true overnight-support page instead of leaving hotel logic buried inside wider overnight and West Street pages only. |
 | done | Harbin | Harbin for first-time visitors: when the winter spectacle is worth building a trip around | `src/content/guides/harbin-first-time-guide.md` | New Harbin entry guide that turns the city from a report-only winter keyword into a real route-fit landing page around seasonality, cold tolerance, and whether the city deserves a first-trip detour at all, so the site now has a true north-winter gateway instead of leaving Harbin completely uncovered. |
 | done | Harbin | Best things to do in Harbin on a first trip: what actually earns the cold | `src/content/guides/best-things-to-do-in-harbin-for-first-time-visitors.md` | New Harbin itinerary-shortlist page that turns the loose `what should we actually do in Harbin` query into a cleaner Ice-and-Snow-World-versus-central-city hierarchy, so the cluster now has a broad planning page instead of only future single-place possibilities. |

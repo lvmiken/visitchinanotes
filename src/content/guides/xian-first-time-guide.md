@@ -75,7 +75,10 @@ If you already know the exact planning question, go narrower:
 - [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/)
 - [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/)
 - [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/)
+- [Best Bars and Modern Nightlife in Xi'an for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-xian-for-first-time-visitors/)
 - [Bell Tower or South Gate at Night: Which Xi'an Old-City Area Fits Better?](/guides/bell-tower-vs-south-gate-at-night-in-xian/)
+- [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/)
+- [Where to Go in Xi'an for Craft Beer, Jazz, or a Softer Night](/guides/where-to-go-in-xian-for-craft-beer-jazz-or-a-softer-night/)
 - [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/)
 
 ## The short answer
@@ -183,6 +186,8 @@ If the dishes already are clear and the more practical question is where those m
 
 If the route already works in the daytime but the city still does not feel full enough after dark, [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) is the best next page because it turns the Muslim Quarter, easier old-city dinners, and the pagoda-side evening layer into actual choices instead of leftover time.
 
+If the night layer already looks necessary and the live question is not broad evening shape but whether Xi'an should use one drinks-led old-city night, one softer beer-or-jazz room, or one polished Qujiang continuation, the next pages are [Best Bars and Modern Nightlife in Xi'an for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-xian-for-first-time-visitors/), [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/), and [Where to Go in Xi'an for Craft Beer, Jazz, or a Softer Night](/guides/where-to-go-in-xian-for-craft-beer-jazz-or-a-softer-night/).
+
 If the route already feels historically complete but still a little too formal, [Guangren Temple](/places/guangren-temple/) is the quieter sacred supporting stop and [Xiying Film Studio](/places/xiying-film-studio/) is the more creative urban-contrast stop.
 
 If the route already is clearly leaning toward the fuller Xi'an version, [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) is now the cleanest execution page because it turns the Terracotta Army, old city, food, and pagoda-side or museum layer into one coherent route instead of leaving the third day vague.
@@ -229,6 +234,10 @@ If the family shortlist already is mostly clear and the live question has become
 - read [What to Eat in Xi'an for First-Time Visitors](/guides/what-to-eat-in-xian-for-first-time-visitors/) if the city now needs a stronger food layer instead of more abstract sightseeing
 - read [Where to Eat in Xi'an for First-Time Visitors](/guides/where-to-eat-in-xian-for-first-time-visitors/) if the meal layer is chosen but the districts still are not
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the missing layer now is how the city should feel after dark
+- read [Best Bars and Modern Nightlife in Xi'an for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-xian-for-first-time-visitors/) if the city now needs a more modern drinks-and-evening branch beyond food and old-city walking
+- read [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/) if the old city already is chosen and the remaining night question is which drinks mood fits better
+- read [Where to Go in Xi'an for Craft Beer, Jazz, or a Softer Night](/guides/where-to-go-in-xian-for-craft-beer-jazz-or-a-softer-night/) if the city now needs one quieter adult night instead of another old-city walk or scenic branch
+- read [After Dark in Grand Tang Dynasty Everbright City: How to Do Xi'an's Flashiest Night Without Losing Your Whole Evening](/guides/after-dark-in-grand-tang-dynasty-everbright-city-how-to-do-xians-flashiest-night-without-losing-your-whole-evening/) if the pagoda-side night already looks likely and the remaining issue is execution, not the yes-or-no choice
 - read [Guangren Temple in Xi'an: A Quieter Sacred Stop Beyond the Main Checklist](/places/guangren-temple/) if the route already is secure and the live question is whether Xi'an needs one calmer spiritual layer
 - read [Xiying Film Studio in Xi'an: When the Film Compound Adds a Different Side of the City](/places/xiying-film-studio/) if the route already is secure and the live question is whether Xi'an needs one more creative or design-led contrast
 - read [Xi'an With Kids for First-Time Visitors](/guides/xian-with-kids-for-first-time-visitors/) if the trip now needs the broader family version of Xi'an before the narrower activity, booking, or itinerary decisions

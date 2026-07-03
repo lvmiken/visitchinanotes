@@ -137,6 +137,7 @@ That second layer can come from:
 
 - a little more river time
 - a little more town rhythm
+- one sunrise-first panorama through [Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?](/places/xianggong-mountain/)
 - or one selective staged-atmosphere pause
 
 It does **not** usually need:
@@ -173,6 +174,7 @@ That usually creates a better memory than treating every famous Xingping image l
 ## Which page to read next
 
 - read [Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide](/guides/where-is-the-20-rmb-view-in-yangshuo-a-practical-photo-stop-guide/) if the live question is still the exact banknote-view execution
+- read [Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?](/places/xianggong-mountain/) if the Xingping side trip already looks likely and the remaining question is whether one elevated dawn panorama makes it feel fuller
 - read [Xingping's Cormorant Fisherman Demo: A Real Yangshuo Memory or Just Tourist Theater?](/guides/xingping-cormorant-fisherman-demo-worth-it-or-just-tourist-theater/) if the only remaining question is whether the staged fisherman stop adds enough
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the side trip still depends on whether Yangshuo gets a real overnight rhythm
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the whole region still has one major unresolved tradeoff

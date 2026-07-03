@@ -56,6 +56,10 @@ If the city itself still is not fully settled, start with [Wuhan for First-Time 
 
 If the real reason Wuhan is in the route is still breakfast culture, keep [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) open too.
 
+If the live problem still is not the hotel side itself but the first airport transfer, keep [Wuhan Tianhe Airport to City Center for First-Time Visitors: Metro, Taxi, or Didi?](/guides/wuhan-tianhe-airport-to-city-center/) open too.
+
+If the hotel choice mainly feels hard because city movement still looks fuzzy, keep [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) nearby too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Wuhan hotel logic is:
@@ -129,6 +133,8 @@ If the hotel choice is drifting toward Wuchang mainly because of that landmark, 
 If Wuchang is becoming more attractive because the trip may also want one serious indoor cultural layer near East Lake, keep [Hubei Provincial Museum in Wuhan: Is It Worth It for First-Time Visitors?](/places/hubei-provincial-museum/) open too.
 
 If Wuchang is becoming more attractive because the trip wants one softer scenic branch around East Lake itself, keep [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) open too.
+
+If Wuchang is becoming more attractive because the trip wants one softer historic-street layer rather than a museum or lake block, keep [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/) open too.
 
 ## Do not stay near a station just because the stop is short
 
@@ -227,9 +233,13 @@ It works especially well if:
 ## Which page to read next
 
 - read [How Many Days in Wuhan for First-Time Visitors](/guides/how-many-days-in-wuhan-for-first-time-visitors/) if the number of nights is still not fully settled
+- read [Wuhan Tianhe Airport to City Center for First-Time Visitors: Metro, Taxi, or Didi?](/guides/wuhan-tianhe-airport-to-city-center/) if the base still depends too much on how painful the arrival transfer will feel
+- read [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) if the base still depends too much on whether the city can be handled mostly by metro or needs more Didi support
 - read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if Wuchang only becomes attractive because you want one symbolic landmark and need to know whether that really justifies the base shift
 - read [Hubei Provincial Museum in Wuhan: Is It Worth It for First-Time Visitors?](/places/hubei-provincial-museum/) if the base may shift toward Wuchang because you want one stronger museum or Chu-culture branch
 - read [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) if the base may shift toward Wuchang because you want one softer scenic or greenway-style branch
+- read [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/) if the base may shift toward Wuchang because you want one softer historic-street layer rather than another museum or lake branch
+- read [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/) if the base may stay in Hankou because you mainly want one easy practical evening rather than a heavier Wuchang branch
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the hotel choice mostly depends on how the breakfast morning should work
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the base is nearly settled and now you want the food layer to fit it
 - read [A Practical 1-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-1-day-itinerary-for-first-time-visitors/) if the hotel choice mostly depends on whether one short Wuhan day can still flow well

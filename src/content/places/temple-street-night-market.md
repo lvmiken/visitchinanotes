@@ -133,6 +133,8 @@ Choose `Temple Street` if:
 
 That is why Temple Street often wins as the more casual Kowloon night, while Central or Wan Chai win as more polished island-side nights.
 
+If the real comparison still is specifically about Wan Chai rather than a broader island-side idea, the companion page is [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
+
 ## What Temple Street is best for
 
 Temple Street usually works best for:
@@ -191,6 +193,7 @@ It improves the trip less when:
 
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the district already is chosen and the live question is what should actually carry the meal
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the broader evening structure still is not settled
+- read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the real choice still is looser Kowloon market energy versus a broader island-side nightlife-and-neighborhood branch
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place Temple Street inside a real short stay
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the real question still is what kind of food evening Hong Kong should have at all
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city itself still feels too broad

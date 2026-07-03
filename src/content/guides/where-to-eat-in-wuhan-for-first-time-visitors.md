@@ -103,6 +103,8 @@ For many short stays, this is the best `all-around food default`.
 
 If the live question already is not only where the meals should happen but which side of the city should carry the hotel, the sharper next page is [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/).
 
+If the live question already is not only where to eat on the Hankou side but whether one easy central evening block there is enough, the sharper support page is [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/).
+
 ## 2. Wuchang for one symbolic breakfast or selective food block
 
 Wuchang can absolutely work well.
@@ -124,6 +126,8 @@ It is usually weaker when:
 For many first-time visitors, Wuchang is a good `one-key-meal` side, not the whole food strategy.
 
 If the live question already is specifically how to use the morning there well, the cleaner execution page is [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/).
+
+If the live question already is whether that Wuchang side also deserves one softer neighborhood layer beyond breakfast or landmarks, the sharper support page is [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/).
 
 ## 3. Near the hotel after the arrival day or the most transfer-heavy day
 
@@ -221,6 +225,8 @@ That already gives Wuhan a much clearer food geography.
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the next decision is which foods are actually worth protecting before you assign them to districts
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the next useful layer is one morning food stop that fits a real city day
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if hotel area is still shaping where meals can realistically happen
+- read [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/) if the meal geography is mostly clear and the live question now is whether one easy Hankou evening block already solves dinner
+- read [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/) if the meal geography is mostly clear and the live question now is whether one softer Wuchang-side neighborhood block should carry a slower supporting meal
 - read [A Practical 1-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-1-day-itinerary-for-first-time-visitors/) if you want to place the meals into a real short route
 - read [A Practical 2-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-2-day-itinerary-for-first-time-visitors/) if the trip already gets two days and you want the meals to fit that fuller structure
 - read [Wuhan at Night for First-Time Visitors: River Views, Dinner, or Just an Easier Evening?](/guides/what-to-do-in-wuhan-at-night-for-first-time-visitors/) if the dinner districts are mostly clear and the remaining question is what the evening itself should become

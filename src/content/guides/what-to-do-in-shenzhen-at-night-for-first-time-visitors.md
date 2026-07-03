@@ -240,6 +240,8 @@ It is usually weaker when:
 - the trip mainly wants easiest logistics
 - everyone is too tired for a more optional creative detour
 
+If the live question now is whether `OCT-LOFT` itself really deserves one of your limited Shenzhen evenings, the narrower place page is [OCT-LOFT in Shenzhen: Is It Worth It for First-Time Visitors?](/places/oct-loft-shenzhen/).
+
 ## Match the evening to the right day
 
 ## Best evening after the arrival day
@@ -321,6 +323,7 @@ That already gives Shenzhen much more range than leaving every night unplanned.
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the night shape mostly works but the dinner choice still does not
 - read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if one night may follow a more central `Futian` or `Huaqiangbei` day and you want that sequence to feel intentional
 - read [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if the district already points toward Futian and the live question is how much real skyline-and-city-core time it deserves
+- read [OCT-LOFT in Shenzhen: Is It Worth It for First-Time Visitors?](/places/oct-loft-shenzhen/) if the live question is whether one creative bars-and-live-music district deserves to beat a simpler mall-or-waterfront night
 - read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the evening plan depends on arriving from Hong Kong without burning the whole night on the border
 - read [Where to Eat on Bagua First Road for First-Time Visitors](/guides/where-to-eat-on-bagua-first-road-for-first-time-visitors/) if the night already points toward central Shenzhen and the live question is which fuller dinner district should carry it
 - read [Where to Eat in Sea World for First-Time Visitors](/guides/where-to-eat-in-sea-world-for-first-time-visitors/) if `Sea World` is already the chosen district and the dinner style still is not

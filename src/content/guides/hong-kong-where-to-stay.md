@@ -45,7 +45,7 @@ A weak base makes even a short stay feel like too much ferry, MTR, and backtrack
 
 ## Source check
 
-This page was checked against current official sources on **June 23, 2026**, including the Hong Kong Tourism Board's [Traveller Essentials](https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials.html), current [Getting Around Hong Kong](https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html) guide, official [Neighbourhoods hub](https://www.discoverhongkong.com/eng/neighbourhoods.html), [Old Town Central](https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html), [Sham Shui Po](https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html), [West Kowloon](https://www.discoverhongkong.com/eng/neighbourhoods/west-kowloon.html), [Wan Chai](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai.html), and MTR's official [tourist overview](https://www.mtr.com.hk/en/customer/tourist/travelling_in_hk.html) plus [tourist ticket information](https://www.mtr.com.hk/en/customer/tickets/day_pass_tourist.html). I am mainly using those sources to keep the district roles and transit assumptions honest. Hotel quality, live pricing, and exact station-to-hotel walking comfort can still vary a lot.
+This page was checked against current official sources on **June 23, 2026**, including the Hong Kong Tourism Board's [Traveller Essentials](https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials.html), current [Getting Around Hong Kong](https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html) guide, official [Neighbourhoods hub](https://www.discoverhongkong.com/eng/neighbourhoods.html), [Old Town Central](https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html), [Sham Shui Po](https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html), [West Kowloon](https://www.discoverhongkong.com/eng/neighbourhoods/west-kowloon.html), [Wan Chai](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai.html), [Causeway Bay](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai/causeway-bay-insiders-favourites.html), and MTR's official [tourist overview](https://www.mtr.com.hk/en/customer/tourist/travelling_in_hk.html) plus [tourist ticket information](https://www.mtr.com.hk/en/customer/tickets/day_pass_tourist.html). I am mainly using those sources to keep the district roles and transit assumptions honest. Hotel quality, live pricing, and exact station-to-hotel walking comfort can still vary a lot.
 
 ## Who this page is for
 
@@ -143,6 +143,8 @@ This is usually better as a preference choice than a default first-time choice.
 
 HKTB's neighborhood material still frames [Wan Chai](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai.html) and nearby [Causeway Bay](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai/causeway-bay-insiders-favourites.html) as strong shopping, food, and city-energy districts, which is why this area can work so well for travelers who know evenings and urban rhythm matter.
 
+Use `Wan Chai` if bars and a broader nightlife district matter more, and use `Causeway Bay` if shopping and brighter retail-heavy city energy matter more.
+
 Choose this base when:
 
 - the trip is not only about classic harbor views
@@ -150,6 +152,10 @@ Choose this base when:
 - you expect to come back after dinner and still want the area itself to feel active
 
 It is weaker if the whole trip is basically a tight first-time skyline-and-neighborhood sampler and you want the safest possible answer.
+
+If the live question now is not only `should we stay here?` but `does Wan Chai itself deserve protected trip time beyond hotel convenience?`, go next to [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
+
+If the live question now is not only `should we stay here?` but `does Causeway Bay itself deserve protected trip time or the stronger shopping-led branch?`, go next to [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/).
 
 ## Kowloon or Hong Kong Island: how to decide quickly
 
@@ -201,6 +207,8 @@ But in a short Hong Kong trip, that often costs more than it saves.
 
 `West Kowloon` is one of the easiest places to overvalue for this reason. Booking the whole Hong Kong stay around one departure morning usually weakens the city more than it helps, unless the trip has an unusually early train or an awkward late-night arrival before departure.
 
+If the live question now is not where to sleep but whether the calmer arts-and-harbour district itself deserves protected trip time, go next to [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/).
+
 Check:
 
 - whether the hotel is truly close to a useful MTR station
@@ -226,6 +234,9 @@ For most first-time visitors, those details matter more than getting a slightly 
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the hotel choice mainly depends on what kind of evening you want the base to support
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the base decision mainly depends on whether Tsim Sha Tsui should support one useful classic crossing
 - read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the base decision mainly depends on how much the trip should revolve around the harbour itself
+- read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the base decision partly depends on whether the trip should protect one calmer arts-and-harbour branch rather than only a train-convenience district
+- read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the base decision partly depends on whether the trip should protect one broader island-side nightlife-and-neighborhood branch
+- read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the base decision partly depends on whether the trip should protect one denser shopping-and-city-energy island-side branch
 - read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if hotel location may change because the trip wants one full park day without weakening the city stay too much
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the case for a Hong Kong Island base depends on one stronger island-side food day or night
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the case for a Kowloon-side base depends on one easier market-and-food evening

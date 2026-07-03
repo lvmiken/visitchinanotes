@@ -159,7 +159,31 @@ It is usually weaker when:
 
 If the real planning problem already is not `what to do` but `where should we sleep so the region flows better?`, the stronger next page is [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/).
 
-## 5. Do not overbuild the city if the route already has its answer
+If the real planning problem already is not `what to do` but `which meals belong in Guilin city before or after the scenic work`, the stronger next page is [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/).
+
+If the real planning problem already is not `what to do` but `how should the one Guilin evening actually work`, the stronger next page is [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/).
+
+If the broader night layer already is mostly clear and the remaining question is whether the easiest central pedestrian-core answer deserves the evening itself, the narrower place page is [Zhengyang Walking Street in Guilin: Is It Worth It for First-Time Visitors?](/places/zhengyang-walking-street/).
+
+## 5. Longji Rice Terraces is the right extra branch only when the trip truly has room
+
+[Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/) can be a beautiful add-on, but it is rarely the default next move on the shortest first trip.
+
+It is strongest when:
+
+- Guilin gets more than the bare-minimum version
+- the trip wants mountain terraces and village texture, not only river scenery
+- the route can spare a full day for a longer detour
+
+It is usually weaker when:
+
+- the stop still has not protected the `Li River`
+- the better missing piece is really `Yangshuo`
+- the extra day only exists because one more famous name appeared on the map
+
+For many first-time visitors, Longji is the right `third-day or terrace-first` branch, not the automatic second-day answer.
+
+## 6. Do not overbuild the city if the route already has its answer
 
 This is one of the easiest Guilin mistakes.
 
@@ -217,5 +241,9 @@ If that fuller version sounds right, keep [How Long Should You Stay in Guilin on
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the iconic scenic answer still should lead
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if atmosphere and town rhythm are becoming more important
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the real next decision is the best base for the regional stop
+- read [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/) if the scenic shortlist is mostly clear and the next question is which meals belong in Guilin city versus Yangshuo
+- read [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/) if the scenic shortlist is mostly clear and the next question is how to use the one Guilin evening without overbuilding it
+- read [Zhengyang Walking Street in Guilin: Is It Worth It for First-Time Visitors?](/places/zhengyang-walking-street/) if the scenic shortlist is mostly clear and the remaining question is whether the easiest central evening branch deserves the slot itself
+- read [Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/) if the shortlist is mostly clear and the remaining question is whether the rice-terrace branch deserves a full regional day
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if Yangshuo already is likely and the overnight base now matters
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the shortlist really depends on how the Hong Kong rail arrival should hand off into Guilin and Yangshuo

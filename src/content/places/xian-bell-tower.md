@@ -108,6 +108,8 @@ This is often when Bell Tower feels most useful:
 
 If your real question is how that evening should feel against South Gate, go next to [Bell Tower or South Gate at Night: Which Xi'an Old-City Area Fits Better?](/guides/bell-tower-vs-south-gate-at-night-in-xian/).
 
+If the old-city answer already is yes and the real question is specifically whether Bell Tower beats South Gate for one drinks-led continuation, go next to [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/).
+
 ## When Bell Tower is probably secondary
 
 Bell Tower is often secondary when:
@@ -197,5 +199,6 @@ It often fits naturally with:
 - read [Best Things to Do in Xi'an for First-Time Visitors](/guides/best-things-to-do-in-xian-for-first-time-visitors/) if you still are deciding whether Bell Tower deserves one of Xi'an's limited priority slots at all
 - read [Bell Tower or South Gate: Where Should You Stay in Xi'an?](/guides/bell-tower-vs-south-gate-where-to-stay-in-xian/) if the live question is whether Bell Tower should shape your hotel base
 - read [Where to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian/) if Bell Tower already belongs in the route and the next decision is dinner
+- read [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/) if Bell Tower already belongs in the route and the next decision is whether it really fits the drinks side better than South Gate
 - read [Xi'an City Wall for First-Time Visitors: When It Adds More Value Than Another Museum Block](/places/xian-city-wall/) if you still are comparing Bell Tower against Xi'an's stronger in-city historical anchor
 - read [Muslim Quarter for First-Time Visitors: When It Adds Real Xi'an Atmosphere and When It Just Adds Crowds](/places/muslim-quarter/) if the real old-city decision is whether you want central landmark logic or one livelier food-and-atmosphere block

@@ -152,6 +152,8 @@ This is where the stop can become:
 - one true `Yangshuo` overnight rhythm
 - one less compressed arrival, departure, or softer scenic-support day
 
+That extra day is also where a more selective branch like [Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/) can start making sense without breaking the rest of the region.
+
 Three days is strongest when the route deliberately wants this region to feel like a real chapter.
 
 It is weaker when the third day exists only because the route has not narrowed yet.
@@ -188,6 +190,7 @@ It is weaker when the third day exists only because the route has not narrowed y
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the main live decision is whether the river itself should carry the stop
 - read [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) if the stop is confirmed and you want the clearest shortlist
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the real decision is whether the region gets much better with one softer overnight
+- read [Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/) if the live question is whether a third Guilin-region day should become a terrace detour instead of more city or Yangshuo time
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the remaining choice is the best base for the city-side nights
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the trip cannot fully protect both and you need the cleaner tradeoff
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the region already is likely and the next question is how much the town itself deserves

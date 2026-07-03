@@ -157,6 +157,7 @@ It usually weakens when travelers try to inflate it into a full-day destination.
 
 ## Which page to read next
 
+- read [West Street in Yangshuo After Dark: How to Use the Town's Easiest Night Well](/guides/west-street-in-yangshuo-after-dark-how-to-use-the-towns-easiest-night-well/) if the street already is likely and the next question is how long to stay after dark, whether one drink is enough, and when to stop
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the bigger decision still is whether Yangshuo deserves a night at all
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the overnight branch itself still needs a direct yes-or-no answer
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the overnight is likely and the remaining decision is the best base

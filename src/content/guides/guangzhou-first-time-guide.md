@@ -44,9 +44,13 @@ This page is best for travelers who are still trying to answer the broad Guangzh
 
 If you already know the exact decision, the narrower page is usually better:
 
+- [Best Things to Do in Guangzhou for First-Time Visitors](/guides/best-things-to-do-in-guangzhou-for-first-time-visitors/)
 - [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/)
 - [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/)
+- [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/)
+- [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/)
 - [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/)
+- [Best Bars and Modern Nightlife in Guangzhou for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-guangzhou-for-first-time-visitors/)
 - [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the live question is whether one easy central food-and-shopping district should carry a real evening
 - [How to Get From Guangzhou Baiyun Airport to Downtown](/guides/guangzhou-baiyun-airport-to-downtown/)
 - [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/)
@@ -109,6 +113,8 @@ If the trip still needs one old-Guangzhou neighborhood branch that feels more ro
 
 If the trip instead still needs one easier central evening branch that keeps food, walking, and practical old-core geography together, the narrower page is [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/).
 
+If the trip already has those easier night answers and the live question becomes whether Guangzhou deserves one more riverside drinks branch, the narrower page is [Taikoo Cang Wharf in Guangzhou: Is It Worth It for First-Time Visitors?](/places/taikoo-cang-wharf/).
+
 If the old-city question already is not whether the west side matters but how to turn `Liwan`, `Yongqing Fang`, and `Shamian` into one useful half day, the cleaner execution page is [How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors](/guides/how-to-plan-a-liwan-and-shamian-half-day-in-guangzhou-for-first-time-visitors/).
 
 If the west-side branch already is winning and the live question becomes whether the calmer finish really should be `Shamian`, the narrower page is [Shamian Island in Guangzhou: Is It Worth It for First-Time Visitors?](/places/shamian-island/).
@@ -146,14 +152,18 @@ If the city already is confirmed and the live question becomes how to use your o
 
 ## Which page to read next
 
+- read [Best Things to Do in Guangzhou for First-Time Visitors](/guides/best-things-to-do-in-guangzhou-for-first-time-visitors/) if Guangzhou is already in the route and the next question is what actually deserves the limited blocks
 - read [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/) if the route role is clear but the stay length is not
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if hotel location is the real blocker
+- read [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/) if Guangzhou is already in the route and the next anxiety is whether daily movement will feel easier by metro, taxi, or Didi
+- read [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/) if the city is already in the route and the next question is which parts of the stay actually need early reservations
 - read [Where to Eat in Guangzhou for First-Time Visitors](/guides/where-to-eat-in-guangzhou-for-first-time-visitors/) if the city is confirmed and the next decision is how to assign meals to the right districts
 - read [Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha](/guides/where-to-eat-dim-sum-in-guangzhou-when-you-only-have-one-real-yum-cha/) if the city is confirmed and one protected yum cha is the live food decision
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the city is confirmed and the live decision is whether one easy central evening district deserves real time
 - read [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) if the city is confirmed and the live question is whether the main skyline landmark deserves one protected block
 - read [A Better French-Era Walk in Guangzhou: Why Shamian Works Best With Liwan](/guides/a-better-french-era-walk-in-guangzhou-why-shamian-works-best-with-liwan/) if the city is confirmed and the live question is how to give the heritage side one stronger, more coherent half day
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the broader city decision is basically settled and the live question is how evenings should actually work
+- read [Best Bars and Modern Nightlife in Guangzhou for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-guangzhou-for-first-time-visitors/) if the evening question has narrowed from broad night planning to one drinks-first or more modern nightlife choice
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if Guangzhou is already confirmed
 - read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if Guangzhou already is winning and the remaining question is whether the West Kowloon rail handoff is the right first mainland move
 - read [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/) if Guangzhou is competing with Shanghai and you want the route tradeoff spelled out more directly

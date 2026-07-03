@@ -39,7 +39,7 @@ Hong Kong is one of the easiest big-city stops in Asia to turn into a strong `3-
 
 ## Source check
 
-This page was checked against current official sources on **June 23, 2026**, including the Hong Kong Tourism Board's main [Travel Guide](https://www.discoverhongkong.com/eng/travel-guide.html), current [Top Picks and attractions](https://www.discoverhongkong.com/eng/attractions.html), official [Neighbourhoods hub](https://www.discoverhongkong.com/eng/neighbourhoods.html), [Old Town Central](https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html), [Wan Chai](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai.html), [West Kowloon](https://www.discoverhongkong.com/eng/neighbourhoods/west-kowloon.html), [Sham Shui Po](https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html), HKTB's [Getting Around Hong Kong](https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html) guide, and MTR's official [tourist transport overview](https://www.mtr.com.hk/en/customer/tourist/travelling_in_hk.html). I am mainly using those sources to keep the district roles, movement logic, and first-time route structure honest. Exact opening hours, queue patterns, and weather can still change.
+This page was checked against current official sources on **June 23, 2026**, including the Hong Kong Tourism Board's main [Travel Guide](https://www.discoverhongkong.com/eng/travel-guide.html), current [Top Picks and attractions](https://www.discoverhongkong.com/eng/attractions.html), official [Neighbourhoods hub](https://www.discoverhongkong.com/eng/neighbourhoods.html), [Old Town Central](https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html), [Wan Chai](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai.html), [Causeway Bay](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai/causeway-bay-insiders-favourites.html), [West Kowloon](https://www.discoverhongkong.com/eng/neighbourhoods/west-kowloon.html), [Sham Shui Po](https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html), HKTB's [Getting Around Hong Kong](https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html) guide, and MTR's official [tourist transport overview](https://www.mtr.com.hk/en/customer/tourist/travelling_in_hk.html). I am mainly using those sources to keep the district roles, movement logic, and first-time route structure honest. Exact opening hours, queue patterns, and weather can still change.
 
 ## Who this itinerary is for
 
@@ -148,6 +148,8 @@ Use it for:
 - `Old Town Central` style walking
 - and, if energy is still good, a later move toward `Wan Chai` or `Causeway Bay`
 
+Use `Wan Chai` if the continuation should feel more bars-and-dinner-led, and use `Causeway Bay` if it should feel denser, brighter, and more shopping-led.
+
 Why this works:
 
 - the city feels much better once you stop forcing only postcard logic
@@ -165,6 +167,10 @@ For many readers, this becomes the day they remember most clearly, even if Day 1
 If Day 1 was the `Hong Kong makes sense now` day, Day 2 is usually the `Hong Kong is enjoyable now` day.
 
 If the live question on this island-side day already has narrowed from `How should Day 2 feel?` to `What should we actually eat in Central and SoHo?`, the more focused companion page is [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/).
+
+If the live question on this island-side day already has narrowed from `Should we continue toward Wan Chai or Causeway Bay?` to `Is Wan Chai itself the right broader urban branch?`, the more focused companion page is [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
+
+If the live question on this island-side day already has narrowed from `Should we continue toward Wan Chai or Causeway Bay?` to `Is Causeway Bay itself the right denser shopping-and-city-energy branch?`, the more focused companion page is [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/).
 
 ## Day 3: Kowloon culture, markets, and a final food-led finish
 
@@ -190,6 +196,8 @@ Why this works:
 - `one softer museum-or-culture block + one last easy food evening`
 
 The final day should feel selective, not like a cleanup operation for everything you skipped on Days 1 and 2.
+
+If the live question on this Kowloon day already has narrowed from `Should West Kowloon be in the plan?` to `Is that calmer cultural waterfront branch actually worth one of our best short-trip windows?`, the more focused companion page is [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/).
 
 If the live question on this Kowloon day already has narrowed from `Should Temple Street be in the plan?` to `What should we actually eat there?`, the more focused companion page is [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/).
 
@@ -274,6 +282,9 @@ That is enough for the city to feel dense, legible, and memorable without becomi
 - read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) if the real question is whether the stay should open into Lantau at all
 - read [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the Lantau question is more scenic-ride-led than landmark-led
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the Hong Kong Island meal slot is the main live decision on Day 2
+- read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the Day 2 or final-evening question is whether the trip deserves one broader island-side nightlife-and-neighborhood branch
+- read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the Day 2 or final-evening question is whether the trip deserves one denser shopping-and-city-energy Hong Kong Island branch
+- read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the Day 3 Kowloon-side question is whether the trip deserves one calmer arts-and-harbour branch instead of another market or skyline repeat
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the Day 3 Kowloon market branch itself still is not settled
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the Kowloon food-and-market slot is the main live decision on Day 3
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city still needs to be judged against the rest of the route

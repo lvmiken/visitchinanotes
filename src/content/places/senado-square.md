@@ -129,6 +129,8 @@ Choose `Cotai` if:
 
 For most first-timers, Cotai is a supporting contrast, not the clearest first explanation of Macau.
 
+If that exact resort-side contrast still is the blocker, the companion page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
 ## What is Senado Square best for?
 
 Senado Square usually works best for:
@@ -181,6 +183,7 @@ It improves the trip less when:
 
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the district already is chosen and the live question is what should actually carry the meal
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if you want to place the old core inside a real short stay
+- read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the live choice still is heritage-first Macau versus a more polished resort-side contrast
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the heritage-core food layer still feels too vague
 - read [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/) if the live question is whether the peninsula side deserves one deeper heritage extension
 - read [Where to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) if the value of Senado Square still depends on where the base should be

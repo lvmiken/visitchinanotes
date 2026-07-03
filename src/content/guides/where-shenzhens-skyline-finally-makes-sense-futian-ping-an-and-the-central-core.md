@@ -96,7 +96,7 @@ It is just incomplete.
 
 For many first-time visitors, `Ping An` matters most when it helps you understand the wider central core:
 
-- the hill-and-civic side through `Lianhua Hill Park` and the `Civic Center`
+- the hill-and-civic side through [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/) and the `Civic Center`
 - the commercial side through `COCO Park`, `PAFC Mall`, and the surrounding grid
 - the evening continuation that makes central Shenzhen feel easy rather than overplanned
 
@@ -188,6 +188,7 @@ It is weaker for:
 ## Which page to read next
 
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if you want to place Futian correctly inside a fuller short stay
+- read [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/) if the live question has narrowed to whether the easy skyline hill itself really deserves one of your short-trip hours
 - read [A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop](/guides/a-better-first-futian-half-day-lianhua-hill-civic-center-and-when-to-stop/) if the district already is chosen and the missing piece is the exact half-day execution
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the value of Futian still depends on whether it should also be your hotel base
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the district is likely but the evening branch still is not settled

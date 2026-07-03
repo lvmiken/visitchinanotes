@@ -75,6 +75,8 @@ Most readers need:
 
 Once you think that way, it becomes much easier to see why some Wuhan experiences are core priorities and others are better treated as selective upgrades.
 
+If the shortlist is becoming clear but the movement between those blocks still is not, the sharper support page is [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/).
+
 ## 1. Breakfast culture is still the clearest Wuhan anchor
 
 For many first-time visitors, the strongest thing to do in Wuhan is still to protect one real `guozao` morning.
@@ -145,6 +147,8 @@ This matters because Wuhan often feels fuller at night when:
 
 If the live question already is no longer what deserves daylight but how to use Wuhan after dark, the next page is [Wuhan at Night for First-Time Visitors: River Views, Dinner, or Just an Easier Evening?](/guides/what-to-do-in-wuhan-at-night-for-first-time-visitors/).
 
+If the city specifically needs one more event-like evening instead of just another easy dinner-and-walk block, the narrower page is [Wuhan Yangtze River Night Cruise: Is It Worth It for First-Time Visitors?](/places/wuhan-yangtze-river-night-cruise/).
+
 ## 4. A fuller food layer beyond breakfast is one of the best upgrades
 
 Breakfast is the anchor, but it should not be the whole story.
@@ -190,6 +194,12 @@ For many first-time visitors, the most defensible version of that indoor cultura
 
 If the trip needs the opposite answer, meaning more air and less museum weight, [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) is often the cleaner scenic branch because it gives Wuhan one real outdoor rhythm layer without pretending the whole stop should become a giant lake day.
 
+If the trip needs the softer answer to stay urban rather than scenic, [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/) is often the cleaner supporting neighborhood branch because it adds texture without asking the route to become a whole museum or lake day.
+
+If the trip instead needs the calmer religious answer on the Hanyang side rather than another scenic, museum, or street-texture branch, [Guiyuan Temple in Wuhan: Is It Worth Visiting on a First Trip?](/places/guiyuan-temple/) is often the cleaner reflective supporting stop.
+
+If the trip instead needs the easier practical central evening that keeps food and walking on the Hankou side, [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/) is often the cleaner low-friction answer.
+
 ## 6. The hotel base changes the shortlist more than many readers expect
 
 Unlike some flatter cities, Wuhan does not reward ignoring where you sleep.
@@ -214,8 +224,14 @@ If the live question now is less about `what to do` and more about `which side o
 
 - read [Wuhan for First-Time Visitors: Why Breakfast Culture Alone Can Justify the Stop](/guides/wuhan-first-time-guide/) if Wuhan itself still is not fully confirmed
 - read [How Many Days in Wuhan for First-Time Visitors](/guides/how-many-days-in-wuhan-for-first-time-visitors/) if the shortlist feels right but the number of nights is still not
+- read [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) if the shortlist is clear and the next real problem is whether the city can hold those blocks without too much transport friction
 - read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if the city may need one symbolic Wuchang landmark and you want to judge that call honestly
 - read [Hubei Provincial Museum in Wuhan: Is It Worth It for First-Time Visitors?](/places/hubei-provincial-museum/) if the trip may need one stronger indoor cultural layer beyond food and one landmark
 - read [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) if the trip may need one softer outdoor branch beyond food, museums, and one landmark
+- read [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/) if the trip may need one softer urban-texture branch instead of another museum, meal, or scenic half day
+- read [Guiyuan Temple in Wuhan: Is It Worth Visiting on a First Trip?](/places/guiyuan-temple/) if the trip may need one calmer Hanyang-side temple branch instead of another museum, scenic, or street-texture stop
+- read [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/) if the city may need one easier Hankou-side evening block rather than another formal attraction
 - read [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) if breakfast is the real reason Wuhan is even on the map
 - read [What to Do in Wuhan at Night for First-Time Visitors: River Views, Dinner, or Just an Easier Evening?](/guides/what-to-do-in-wuhan-at-night-for-first-time-visitors/) if the broad shortlist is clear and the remaining question is how the city should feel after dark
+- read [Wuhan Yangtze River Night Cruise: Is It Worth It for First-Time Visitors?](/places/wuhan-yangtze-river-night-cruise/) if the broad shortlist is clear and the remaining question is whether one evening should become a special river event
+- read [What to Book in Advance for Wuhan: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-wuhan/) if the broad shortlist is clear and the remaining question is how much of it should actually be locked before arrival

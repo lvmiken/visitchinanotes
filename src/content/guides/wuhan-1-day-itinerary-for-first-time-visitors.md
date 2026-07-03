@@ -73,6 +73,10 @@ If the base still is not settled, read [Best Area to Stay in Wuhan for First-Tim
 
 If the whole stop still depends on whether breakfast culture is strong enough to anchor the city, keep [Wuhan Breakfast Culture: How to Do Guozao Without Guessing Blind](/topics/wuhan-breakfast-culture-how-to-do-guozao/) open too.
 
+If arrival-day friction still is large enough to warp the whole day, read [Wuhan Tianhe Airport to City Center for First-Time Visitors: Metro, Taxi, or Didi?](/guides/wuhan-tianhe-airport-to-city-center/) first.
+
+If the day shape works in theory but the city still looks too wide on the ground, keep [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) open too.
+
 ## The short version of the route
 
 For many first-time visitors, the strongest `1-day` Wuhan shape is:
@@ -236,6 +240,8 @@ It lets the city win the way it usually wins: through one good morning, one cohe
 - read [How Many Days in Wuhan for First-Time Visitors](/guides/how-many-days-in-wuhan-for-first-time-visitors/) if you are still unsure whether this sharper version is enough
 - read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if the one-day route only works by choosing a more symbolic Wuchang branch and you need to know whether that trade is actually worth it
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if the route is mostly right but the base still may weaken it
+- read [Wuhan Tianhe Airport to City Center for First-Time Visitors: Metro, Taxi, or Didi?](/guides/wuhan-tianhe-airport-to-city-center/) if the one-day route still depends too much on how the airport handoff will feel
+- read [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) if the one-day route is mostly right but the intra-city movement still looks wider than it should
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the day shape is clear and the next live question is the breakfast execution
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the day shape is clear and the next question is which meals actually deserve the slots
 - read [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/) if the day shape is clear and the next question is which side of the city should carry those meals

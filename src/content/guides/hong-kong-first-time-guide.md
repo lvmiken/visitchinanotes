@@ -159,6 +159,12 @@ If the city role is clear and the live branch question becomes `full Disneyland 
 
 If the city role is clear and the real evening question becomes whether one looser Kowloon market night belongs at all, the more focused place page is [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/).
 
+If the city role is clear and the real later-evening question becomes whether one calmer arts-and-harbour branch belongs after the classic skyline layer already worked, the more focused place page is [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/).
+
+If the city role is clear and the real later-evening or stay-base question becomes whether one broader Hong Kong Island nightlife-and-neighborhood branch belongs beyond Central alone, the more focused place page is [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
+
+If the city role is clear and the real island-side question becomes whether one denser shopping-and-modern-city branch belongs beyond Central alone, the more focused place page is [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/).
+
 ## Common mistakes on a first Hong Kong trip
 
 - treating Hong Kong like it needs a long checklist to justify itself
@@ -186,6 +192,9 @@ If the city role is clear and the real evening question becomes whether one loos
 - read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) if the live outlying-day question is whether Lantau deserves one of your limited Hong Kong blocks
 - read [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the Lantau decision is more about scenic ride value than the Buddha itself
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the live decision is whether one market-led Kowloon evening belongs at all
+- read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the live decision is whether the trip deserves one calmer arts-and-harbour branch beyond the classic skyline and market answers
+- read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the live decision is whether the trip deserves one broader Hong Kong Island evening or stay-base branch beyond Central alone
+- read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the live decision is whether the trip deserves one denser shopping-and-city-energy Hong Kong Island branch beyond Central alone
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the remaining route question is whether Hong Kong should stay the main stop or give way to a shorter Macau contrast
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the next question is whether the route should add a fast mainland city
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the real decision still is which side of the pairing should win

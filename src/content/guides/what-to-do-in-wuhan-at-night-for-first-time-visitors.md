@@ -59,6 +59,8 @@ If the real question is mostly about meals, keep [Where to Eat in Wuhan for Firs
 
 If the hotel base is still fuzzy, keep [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) open too.
 
+If the evening anxiety is mostly about getting back cleanly rather than choosing the mood itself, keep [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For most first-time visitors, Wuhan nights work best when you use one of these three patterns:
@@ -105,6 +107,8 @@ This is often the cleanest evening after:
 - your main breakfast-led day
 - an arrival afternoon that still has some energy left
 - a short trip that only has room for one clearly memorable evening
+
+If that easier night already is narrowing toward one central Hankou block with dinner and people-flow rather than a broader river decision, the narrower page is [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/).
 
 For many first-time visitors, this is the best answer when the evening should feel:
 
@@ -217,6 +221,8 @@ It is usually weaker when the night mainly needs:
 
 If that landmark-night question has become specific, go next to [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/).
 
+If the scenic-night question is not really about a landmark but about whether the river itself should become the event, go next to [Wuhan Yangtze River Night Cruise: Is It Worth It for First-Time Visitors?](/places/wuhan-yangtze-river-night-cruise/).
+
 ## Common Wuhan night mistakes
 
 - treating Wuhan like it needs a bars-first nightlife strategy
@@ -228,9 +234,13 @@ If that landmark-night question has become specific, go next to [Yellow Crane To
 ## Which page to read next
 
 - read [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/) if the evening shape is clear and the next question is which side of the city should carry dinner
+- read [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/) if the evening shape is clear and the next question is whether one easy Hankou-side block already solves the night
 - read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if the evening may become a more scenic Wuchang landmark night and you need to know whether that is actually better than a simpler riverfront or dinner-led finish
+- read [Wuhan Yangtze River Night Cruise: Is It Worth It for First-Time Visitors?](/places/wuhan-yangtze-river-night-cruise/) if the evening may become a more scenic river event and you need to know whether that is actually better than a simpler riverfront or dinner-led finish
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the evening shape is clear and the next question is which meal deserves the night
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if the night still depends too much on which side of the city you are sleeping on
+- read [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) if the evening idea is fine but the real blocker is how to return without one more clumsy transfer
+- read [What to Book in Advance for Wuhan: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-wuhan/) if the night may depend on one exact tower or cruise product instead of a flexible dinner-and-river evening
 - read [A Practical 1-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-1-day-itinerary-for-first-time-visitors/) if Wuhan only gets one real day and the evening needs to fit that tighter structure
 - read [A Practical 2-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-2-day-itinerary-for-first-time-visitors/) if Wuhan gets the fuller short-stay version and the evening needs to fit the broader shape
 - read [Wuhan for First-Time Visitors: Why Breakfast Culture Alone Can Justify the Stop](/guides/wuhan-first-time-guide/) if the broader route-fit question still is not fully settled

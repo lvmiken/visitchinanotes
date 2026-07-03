@@ -51,6 +51,8 @@ If the bigger question is still the whole Xi'an evening structure, start with [W
 
 If the bigger question is actually hotel base rather than the evening itself, the narrower hotel page is [Bell Tower or South Gate: Where Should You Stay in Xi'an?](/guides/bell-tower-vs-south-gate-where-to-stay-in-xian/).
 
+If the bigger question already is not broad old-city evening mood but specifically one drinks-led continuation, keep [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/) open too.
+
 ## The short answer
 
 For many first-time visitors:
@@ -197,4 +199,5 @@ This matters because some travelers force Bell Tower versus South Gate too early
 - read [What to Do in Xi'an at Night for First-Time Visitors](/guides/what-to-do-in-xian-at-night-for-first-time-visitors/) if the broader night structure is still open
 - read [Bell Tower or South Gate: Where Should You Stay in Xi'an?](/guides/bell-tower-vs-south-gate-where-to-stay-in-xian/) if the real decision is your hotel base, not only tonight
 - read [Where to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors](/guides/where-to-eat-around-bell-tower-and-south-gate-in-xian/) if the district is chosen and the meal decision is next
+- read [South Gate or Bell Tower for Drinks at Night in Xi'an](/guides/south-gate-or-bell-tower-for-drinks-at-night-in-xian/) if the broader district mood is already clear and the real remaining question is where one old-city drinks continuation should happen
 - read [Xi'an Muslim Quarter Food Guide for First-Time Visitors](/guides/xian-muslim-quarter-food-guide-for-first-time-visitors/) if the real old-city night should be the food-street version instead

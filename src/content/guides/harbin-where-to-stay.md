@@ -56,6 +56,8 @@ If the hotel choice mainly depends on what the city should actually do, keep [Be
 
 If the hotel choice also depends on how serious the cold still feels in your head, keep [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) open too, because winter clothing confidence changes how much distance and friction a base can realistically absorb.
 
+If the base choice still depends on arrival-day pain or on how many nights Harbin should actually get, keep [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) and [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the best Harbin hotel logic is:
@@ -108,6 +110,8 @@ It becomes weaker when:
 - the city is supposed to feel more balanced than venue-led
 
 If the live question already is whether the venue itself justifies that kind of hotel strategy, go narrower with [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/).
+
+If the reason you are even considering the north-bank side is a calmer daytime branch rather than the flagship night, keep [Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?](/places/sun-island-park/) open too.
 
 ## A short Harbin trip usually needs one better base, not one closer venue
 
@@ -167,5 +171,10 @@ That is where `Songbei` becomes more competitive, but it still should be a delib
 
 - read [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/) if the best central base now looks likely and the next question is how much the district itself deserves
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the hotel logic mainly depends on the main winter venue
+- read [Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?](/places/sun-island-park/) if a north-bank daytime branch may be the only real argument for a less central base
 - read [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) if the city needs a clearer first-time structure before you commit to a base
 - read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if winter-packing confidence still may decide whether a slightly less convenient base is realistic for you
+- read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if the base choice still depends on whether the arrival should stay door-to-door easy
+- read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if the hotel question still changes with whether Harbin is only a quick winter stop or a fuller 3-day stay
+- read [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/) if the base is nearly settled and the next question is which district should carry the meals
+- read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the base is nearly settled and the next question is which evening the hotel should make easiest

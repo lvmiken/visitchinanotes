@@ -94,6 +94,8 @@ TravelChinaGuide's cruise page specifically says the cruise passes `Yellow Cloth
 
 For many first-time visitors, that is enough.
 
+If the route actually wants the broader panorama from above rather than the banknote icon itself, the cleaner next page is [Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?](/places/xianggong-mountain/).
+
 ## Best dedicated version if you want the photo as a real stop: Xingping
 
 If the trip wants more than a pass-by look, `Xingping` is the cleaner branch.
@@ -156,6 +158,7 @@ It is weaker when:
 
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the real question still is whether the cruise alone already solves the icon
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both the main cruise and a fuller Yangshuo stay
+- read [Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?](/places/xianggong-mountain/) if the banknote photo itself is not enough and the trip wants the elevated sunrise panorama too
 - read [Xingping Beyond the Banknote: A Better Yangshuo Side Trip Than Just Chasing the 20 RMB View](/guides/xingping-beyond-the-banknote-a-better-yangshuo-side-trip-than-just-chasing-the-20-rmb-view/) if the photo stop already looks likely and the remaining problem is how to shape the wider Xingping branch well
 - read [Yangshuo Rock Climbing for Beginners: Where to Start and When It Fits a Short Trip](/guides/yangshuo-rock-climbing-for-beginners-where-to-start-and-when-it-fits-a-short-trip/) if the route already has the photo stop covered and the real question is whether one active half day suits Yangshuo better than one more passive scenic branch
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the 20 RMB stop still depends on whether the town deserves a real overnight

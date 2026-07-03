@@ -55,6 +55,10 @@ If the city itself still is not fully confirmed, start first with [Guilin on a F
 
 If the bigger question still is not the hotel but what the region should actually do, keep [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) open too.
 
+If the bigger question already is not the hotel but which meals belong in central Guilin versus which should wait for Yangshuo, keep [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/) open too.
+
+If the bigger question already is not the hotel but whether central Guilin should carry one real evening or simply stay light before the river chapter, keep [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/) open too.
+
 If the hotel choice mostly is being driven by a planned `Hong Kong -> Guilin` rail arrival, pause one step. Many readers start searching Guilin hotels when the real unresolved question is whether the first mainland night should stay in `Guilin` or continue to `Yangshuo` after `West Kowloon` and `Guilin West`. If that is the live issue, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) before treating this as a pure neighborhood decision.
 
 ## The short answer
@@ -200,6 +204,8 @@ That is where a second Guilin night becomes less automatic and `Yangshuo` become
 ## Which page to read next
 
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the hotel decision still depends on whether the region gets one day, two days, or three
+- read [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/) if the base is nearly settled and the next question is which meals central Guilin should carry before the scenic branch moves on
+- read [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/) if the base is nearly settled and the next question is whether Guilin deserves a more polished night or a lighter central finish
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the hotel choice mainly depends on whether the cruise is the core of the stop
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the overnight may shift from Guilin to Yangshuo
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the base choice really depends on a Hong Kong rail handoff and whether Guilin or Yangshuo should take the first night

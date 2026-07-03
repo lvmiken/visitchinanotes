@@ -67,6 +67,8 @@ If the whole stop still depends on whether the breakfast layer really is strong 
 
 If the route shape mostly works but the meal structure still does not, keep [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) and [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/) open too.
 
+If the two-day version still feels fragile because of arrival, departure, or cross-city movement, keep [Wuhan Tianhe Airport to City Center for First-Time Visitors: Metro, Taxi, or Didi?](/guides/wuhan-tianhe-airport-to-city-center/) and [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) open too.
+
 ## The short version
 
 For many first-time visitors, the strongest Wuhan `2-day` plan looks like this:
@@ -144,6 +146,10 @@ They work because they add contrast rather than just more breakfast or more move
 If that calmer or more cultural Day 2 version starts needing one serious indoor layer rather than only another walk or meal, keep [Hubei Provincial Museum in Wuhan: Is It Worth It for First-Time Visitors?](/places/hubei-provincial-museum/) open too.
 
 If the fuller version starts needing one softer open-air branch rather than another meal or museum block, keep [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) open too.
+
+If the fuller version starts needing one softer urban-texture branch rather than another meal, museum, or greenway block, keep [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/) open too.
+
+If the fuller version starts needing one calmer spiritual Hanyang-side branch rather than another museum, scenic, or street-texture stop, keep [Guiyuan Temple in Wuhan: Is It Worth Visiting on a First Trip?](/places/guiyuan-temple/) open too.
 
 ## Option A: Use Day 2 as the fuller food day
 
@@ -238,7 +244,12 @@ Lean harder into:
 - read [Yellow Crane Tower in Wuhan: Is It Worth It for First-Time Visitors?](/places/yellow-crane-tower/) if the second day may include a more symbolic Wuchang stop and you need to decide whether that classic landmark really improves the trip
 - read [Hubei Provincial Museum in Wuhan: Is It Worth It for First-Time Visitors?](/places/hubei-provincial-museum/) if the second day may need one stronger indoor Chu-culture layer instead of only another meal or riverfront block
 - read [East Lake in Wuhan: Is It Worth It for First-Time Visitors?](/places/east-lake/) if the second day may need one softer scenic half day instead of only another museum or meal branch
+- read [Tanhualin in Wuhan: Is It Worth Visiting on a First Trip?](/places/tanhualin/) if the second day may need one softer urban-texture branch instead of only another museum, meal, or scenic half day
+- read [Guiyuan Temple in Wuhan: Is It Worth Visiting on a First Trip?](/places/guiyuan-temple/) if the second day may need one calmer Hanyang-side temple branch instead of only another museum, meal, or scenic half day
+- read [Jianghan Road Pedestrian Street in Wuhan: Is It Worth It for First-Time Visitors?](/places/jianghan-road-pedestrian-street/) if the second day may need one easier central evening block instead of another more structured night product
 - read [Best Area to Stay in Wuhan for First-Time Visitors](/guides/wuhan-where-to-stay/) if the day flow works but the hotel base still does not
+- read [How to Get Around Wuhan for First-Time Visitors](/guides/how-to-get-around-wuhan-for-first-time-visitors/) if the two-day structure is clear but the movement between those blocks still needs simplifying
+- read [What to Book in Advance for Wuhan: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-wuhan/) if the two-day structure is clear but the remaining question is which rail or night blocks deserve protection
 - read [Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing Game](/guides/where-to-eat-breakfast-in-wuhan-for-first-time-visitors/) if the first-day breakfast block still needs tighter structure
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the route is basically set and the next question is which meals deserve the limited slots
 - read [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/) if the itinerary shape is clear and the next problem is which districts should carry which meals

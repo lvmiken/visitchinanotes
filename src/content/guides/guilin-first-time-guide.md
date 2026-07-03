@@ -54,6 +54,10 @@ If the decision already has narrowed, the more focused page is usually better:
 - [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/)
 - [Guilin or Yangshuo for the First Night: Which Base Makes the Region Easier?](/guides/guilin-or-yangshuo-for-the-first-night-which-base-makes-the-region-easier/)
 - [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/)
+- [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/)
+- [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/)
+- [Two Rivers and Four Lakes or Zhengyang Walking Street: Which Guilin First Night Fits Better?](/guides/two-rivers-and-four-lakes-or-zhengyang-walking-street-which-guilin-first-night-fits-better/)
+- [Zhengyang Walking Street in Guilin: Is It Worth It for First-Time Visitors?](/places/zhengyang-walking-street/)
 - [A Better 2-Day Guilin and Yangshuo Plan for First-Time Visitors](/guides/a-better-2-day-guilin-and-yangshuo-plan-for-first-time-visitors/)
 - [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/)
 - [Rainy Day in Guilin for First-Time Visitors: Keep the City Light or Protect the River?](/guides/rainy-day-in-guilin-for-first-time-visitors/)
@@ -165,6 +169,8 @@ If the region already is winning but the live tradeoff is whether to protect the
 
 If the route can protect only one major water-based scenic answer, the cleaner hierarchy page is [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/).
 
+If the trip already knows it wants one fuller mountain-terrace branch rather than only river-and-town logic, the narrower scenic detour page is [Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/).
+
 ## Common mistakes on a first Guilin trip
 
 - planning Guilin as if it should work like a major city attraction checklist
@@ -178,8 +184,13 @@ If the route can protect only one major water-based scenic answer, the cleaner h
 - read [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) if Guilin already is happening and you want the clearest first-time shortlist
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the remaining question is the best base for the region
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the region is likely and the next live question is whether it deserves 1, 2, or 3 days
+- read [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/) if Guilin already is happening and the next question is which meals belong in central Guilin, by the riverside, or should simply wait for Yangshuo
+- read [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/) if Guilin already is happening and the next question is whether the city deserves a polished evening, an easy central night, or simply a lighter finish
+- read [Zhengyang Walking Street in Guilin: Is It Worth It for First-Time Visitors?](/places/zhengyang-walking-street/) if Guilin already is happening and the main remaining question is whether the easiest central evening branch deserves the night itself
+- read [Two Rivers and Four Lakes or Zhengyang Walking Street: Which Guilin First Night Fits Better?](/guides/two-rivers-and-four-lakes-or-zhengyang-walking-street-which-guilin-first-night-fits-better/) if Guilin already is happening and the next question is the arrival-night version specifically
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if Guilin already is likely and the remaining question is whether this should be the Hong Kong-to-mainland rail handoff
 - read [Best Time to Visit Guilin and Yangshuo: When the Karst Region Actually Feels Right](/guides/best-time-to-visit-guilin-and-yangshuo-for-first-time-visitors/) if the route shape is broadly right but the season still is not
+- read [Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/) if the route is broadly right and the remaining question is whether one fuller mountain-detour day deserves space
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the real decision is whether the region deserves one softer overnight instead of a faster pass-through
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the route mostly is choosing between a pass-through and a real town stay
 - read [Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo](/guides/li-river-cruise-or-yulong-river-rafting-which-scenic-day-fits-better/) if the river hierarchy still feels unresolved and you need one cleaner first scenic answer

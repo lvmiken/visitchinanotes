@@ -82,6 +82,8 @@ Central `Guilin` usually belongs only if:
 
 If that version fits better, the practical page is [One Guilin City Half-Day Before Yangshuo: What Is Actually Worth Doing?](/guides/one-guilin-city-half-day-before-yangshuo-what-is-actually-worth-doing/).
 
+If the live temptation is to replace this whole tighter `2-day` structure with a rice-terrace detour, pause there. [Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/) is usually a better `3-day` or `terrace-first` branch than a clean fit inside the standard short Guilin-and-Yangshuo version.
+
 ## The simplest 2-day rule
 
 Use this rule:

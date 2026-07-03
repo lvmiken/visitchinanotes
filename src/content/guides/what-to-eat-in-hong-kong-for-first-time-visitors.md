@@ -276,6 +276,10 @@ This is the day that often makes Hong Kong food feel most day-to-day and least s
 
 If the live question already is not `what should I eat in Hong Kong?` but `what exactly should I do with the Central and SoHo meal slot?`, the narrower execution page is [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/).
 
+If the live question on the island-side day is less about dishes and more about whether a broader Wan Chai continuation actually improves the route, the more focused district page is [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
+
+If the live question on the island-side day is less about dishes and more about whether a denser shopping-and-city-energy `Causeway Bay` continuation improves the route, the more focused district page is [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/).
+
 ### Best food logic for the Kowloon market or Temple Street day
 
 If the day stays on the Kowloon side and leans toward `Yau Ma Tei`, `Temple Street`, or a more local-feeling evening, this is often the best place for:
@@ -328,6 +332,8 @@ That already gives a fuller picture of Hong Kong than repeating the same polishe
 - read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if one whole day in the stay may become simpler and more family- or park-led than city-food-led
 - read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) and [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the meal plan depends on whether the trip opens into a Lantau day
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the Hong Kong Island food slot is the main live decision now
+- read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the food plan partly depends on whether one broader island-side evening or neighborhood branch belongs after Central
+- read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the food plan partly depends on whether one denser shopping-and-city-energy island-side branch belongs after Central
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the Kowloon food-and-market night is the main live decision now
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if you still are not sure whether the city has enough room for both a dim sum layer and a broader street-food or district-food layer
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city itself still feels too broad

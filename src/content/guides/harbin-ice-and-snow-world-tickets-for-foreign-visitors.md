@@ -61,6 +61,8 @@ If Harbin itself still is not fully confirmed, go one step wider first with [Har
 
 If the bigger winter question still is whether the festival is worth the detour at all, keep [Harbin Ice Festival for First-Time Visitors: When the Winter Spectacle Is Worth the Whole Detour](/guides/harbin-ice-festival-for-first-time-visitors/) open too.
 
+If the booking question also depends on whether the airport arrival and the rest of the Harbin stay are realistic enough, keep [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) and [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest booking order is:
@@ -199,3 +201,6 @@ They also check:
 - read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if the ticket decision still depends on cold tolerance
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the real question now is whether the park itself deserves the evening
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if hotel logic still is the weak link
+- read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if the ticket decision still depends on whether the arrival or return plan is too messy
+- read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if you still have not decided whether Harbin is only a one-night winter stop or something slightly fuller
+- read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the booking question is really part of a broader decision about how Harbin evening should work

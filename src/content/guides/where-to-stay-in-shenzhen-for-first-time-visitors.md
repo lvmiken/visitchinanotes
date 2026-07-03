@@ -114,6 +114,8 @@ If `Futian` already is the likely base and the live question is not where to sle
 
 If `Futian` already is the likely base and the live question is not where to sleep but how to make the district itself feel like a real skyline-and-city-core chapter, go next to [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/).
 
+If `Futian` already is the likely base and the live question is whether the easiest hilltop overview deserves one of your short-trip hours before the towers below, go next to [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/).
+
 If `Futian` already is the likely base and the live question has narrowed even further to the exact half-day route, go next to [A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop](/guides/a-better-first-futian-half-day-lianhua-hill-civic-center-and-when-to-stop/).
 
 The tradeoff is that Futian can feel more functional and business-like than the best west-side or waterfront stays.
@@ -139,6 +141,8 @@ Choose this area if you want:
 This is often better than Futian when the trip wants Shenzhen to feel like more than a clean transfer city.
 
 If the live question now is whether the polished west-side lifestyle branch deserves real planning time, the narrower place page is [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/).
+
+If the live question now is whether the west-side stay should also support one more creative bars-and-live-music night rather than only polished dinners or waterfront ease, the narrower place page is [OCT-LOFT in Shenzhen: Is It Worth It for First-Time Visitors?](/places/oct-loft-shenzhen/).
 
 The tradeoff is that if your main priority is older border convenience or central station logic, Nanshan is not the simplest answer.
 
@@ -260,11 +264,13 @@ For most first-time visitors, those details matter more than sleeping nearest on
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the base decision partly depends on where the easiest good meals and dinner districts will be
 - read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if the base decision partly depends on whether one denser central-market day belongs in the stay
 - read [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if the base decision depends on whether Futian should be more than a convenient place to sleep
+- read [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/) if the base decision depends on whether one easy skyline-overview stop makes the central stay more worthwhile
 - read [Where to Eat on Bagua First Road for First-Time Visitors](/guides/where-to-eat-on-bagua-first-road-for-first-time-visitors/) if you already expect to stay in `Futian` or more central Shenzhen and want one fuller dinner district to work well
 - read [Where to Eat in Dongmen for First-Time Visitors](/guides/where-to-eat-in-dongmen-for-first-time-visitors/) if you already expect to stay in `Luohu` and want one easy food-and-shopping night to work well
 - read [Where to Eat in Sea World for First-Time Visitors](/guides/where-to-eat-in-sea-world-for-first-time-visitors/) if you already expect to stay on the west side and want one easy Shekou dinner district to work well
 - read [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/) if your base decision depends on whether the trip wants one polished west-side skyline-and-lifestyle branch
 - read [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if your base decision depends on whether the trip wants one calmer waterfront district
+- read [OCT-LOFT in Shenzhen: Is It Worth It for First-Time Visitors?](/places/oct-loft-shenzhen/) if your base decision depends on whether the trip wants one more creative west-side nightlife branch
 - read [Dongmen Old Street in Shenzhen: Is It Worth It for First-Time Visitors?](/places/dongmen-old-street/) if your base decision depends on whether one older Luohu-side shopping-and-snack district should carry part of the stay
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the base decision mainly depends on whether the trip wants easy central dinners, west-side polish, Sea World, or a more creative night
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the base decision still depends on whether Shenzhen itself should be the stronger stop
