@@ -137,6 +137,8 @@ If the real south-side decision is not neighborhood texture versus resort polish
 
 If the modern-side question is even narrower and really is `one symbolic skyline stop or one fuller resort district?`, the companion page is [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
 
+If the modern-side question is not whether the district belongs but whether one paid spectacle night is the real reason to keep it, the companion page is [House of Dancing Water in Macau: Is It Worth It for First-Time Visitors?](/guides/house-of-dancing-water-in-macau-is-it-worth-it-for-first-time-visitors/).
+
 ## Should you stay in Cotai?
 
 Often yes, but only if that is how you really want Macau to feel.
@@ -204,6 +206,7 @@ It is the place that keeps a longer short stay from feeling one-note.
 - read [Taipa Village in Macau: Is It Worth It for First-Time Visitors?](/places/taipa-village/) if the real choice still is polished resort side versus softer neighborhood texture
 - read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the real choice still is polished resort side versus a quieter village-and-coastal branch
 - read [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/) if the real choice still is one singular skyline landmark versus a fuller resort-side branch
+- read [House of Dancing Water in Macau: Is It Worth It for First-Time Visitors?](/guides/house-of-dancing-water-in-macau-is-it-worth-it-for-first-time-visitors/) if the real choice still is one paid spectacle night versus a simpler broader resort-side branch
 - read [Senado Square in Macau: Is It Worth It for First-Time Visitors?](/places/senado-square/) if the real choice still is old-core meaning versus modern resort contrast
 - read [How Many Days in Macau for First-Time Visitors](/guides/how-many-days-in-macau-for-first-time-visitors/) if the answer still depends on whether the stay can support one more controlled south-side chapter
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the trip still needs to decide whether Macau should lean heritage food, Taipa food texture, or a more polished hotel-side meal

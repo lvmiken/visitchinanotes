@@ -183,5 +183,7 @@ This is especially true for travelers who already know they prefer Qingdao calm 
 - read [Qingdao Travel Guide for First-Time Visitors](/guides/qingdao-first-time-guide/) if the city still is not fully justified
 - read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if you need the festival to sit inside a fuller Qingdao plan
 - read [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) if the event changes the hotel logic
+- read [What to Book in Advance for Qingdao: Hotels, Trains, and Summer Festival Plans](/guides/what-to-book-in-advance-for-qingdao/) if the event is starting to affect hotel timing, rail timing, or how early you should lock the trip
+- read [Dengzhou Road Beer Street in Qingdao: Is It Worth It for First-Time Visitors?](/places/dengzhou-road-beer-street/) if the live question is not the summer flagship event but the simpler year-round beer-and-dinner branch
 - read [Qingdao Beer Museum: Is It Worth It for First-Time Visitors?](/places/qingdao-beer-museum/) if the trip wants beer culture but not necessarily the full festival-night version
 - read [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/) if the real value of the city still depends on seafood and everyday food, not only festival drinking

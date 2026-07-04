@@ -57,6 +57,12 @@ If the broader decision still is whether Hong Kong itself should win over Shenzh
 
 If the broader question still is not day order but trip length, keep [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) open too.
 
+If the day structure is not fully settled because the shortlist itself still feels too broad, keep [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) open too.
+
+If the day structure mostly works but the movement between districts still feels too abstract, keep [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) open too.
+If the day structure mostly works but the live question becomes what needs to be booked before this 3-day version actually works smoothly, keep [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) open too.
+If the first night still feels abstract because the airport arrival itself is not solved, keep [Hong Kong Airport to City Center for First-Time Visitors: Airport Express, Bus, or Taxi?](/guides/hong-kong-airport-to-city-center/) open too.
+
 If the day structure mostly works but evenings still feel too vague, keep [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) open too.
 
 If the day structure mostly works but the meal layer still feels too abstract, keep [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) open too.
@@ -131,6 +137,8 @@ as if there were no energy cost.
 
 If the live question already is not `should Day 1 carry one skyline branch?` but `should that elevated skyline branch actually be Victoria Peak?`, the more focused companion page is [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/).
 
+If the live question already is not whether Day 1 should start on the Kowloon side but whether `Tsim Sha Tsui` itself deserves to be the district backbone, the more focused companion page is [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/).
+
 If the live question already is not whether Day 1 needs one classic skyline answer but whether the easiest Tsim Sha Tsui harbourfront version is enough by itself, the more focused companion page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
 
 If the live question already is not whether Day 1 needs one classic harbour layer but whether that should be one simple crossing instead of another promenade block, the more focused companion page is [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/).
@@ -168,6 +176,10 @@ If Day 1 was the `Hong Kong makes sense now` day, Day 2 is usually the `Hong Kon
 
 If the live question on this island-side day already has narrowed from `How should Day 2 feel?` to `What should we actually eat in Central and SoHo?`, the more focused companion page is [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/).
 
+If the live question on this island-side day already has narrowed from `Should Day 2 stay in Central?` to `Does Central itself deserve to carry the Hong Kong Island district layer?`, the more focused companion page is [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/).
+
+If the live question on this island-side day already has narrowed from `Should Day 2 continue beyond Central?` to `Does the calmer extension in Sheung Wan actually improve the route?`, the more focused companion page is [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/).
+
 If the live question on this island-side day already has narrowed from `Should we continue toward Wan Chai or Causeway Bay?` to `Is Wan Chai itself the right broader urban branch?`, the more focused companion page is [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
 
 If the live question on this island-side day already has narrowed from `Should we continue toward Wan Chai or Causeway Bay?` to `Is Causeway Bay itself the right denser shopping-and-city-energy branch?`, the more focused companion page is [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/).
@@ -198,6 +210,10 @@ Why this works:
 The final day should feel selective, not like a cleanup operation for everything you skipped on Days 1 and 2.
 
 If the live question on this Kowloon day already has narrowed from `Should West Kowloon be in the plan?` to `Is that calmer cultural waterfront branch actually worth one of our best short-trip windows?`, the more focused companion page is [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/).
+
+If the live question on this Kowloon day already has narrowed from `Should Sham Shui Po be in the plan?` to `Is that more grounded local-food-and-street branch actually worth one of our short-trip blocks?`, the more focused companion page is [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/).
+
+If the live question on this Kowloon day already has narrowed from `Should Mong Kok be in the plan?` to `Is that denser market-and-shopping district actually worth one of our short-trip blocks?`, the more focused companion page is [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/).
 
 If the live question on this Kowloon day already has narrowed from `Should Temple Street be in the plan?` to `What should we actually eat there?`, the more focused companion page is [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/).
 
@@ -270,9 +286,13 @@ That is enough for the city to feel dense, legible, and memorable without becomi
 
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the hotel base still is not right
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if you still are not sure whether this stay should be 2, 3, or 4 days
+- read [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if the route shape mostly works and the next live question is which districts, viewpoints, and detours actually deserve protection
+- read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if the route shape mostly works and the next live question is how MTR, ferries, and selective taxi use should actually carry the days
+- read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if the route shape mostly works and the next live question is which parts of this 3-day version actually deserve early reservations
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the route is basically set and the next decision is which meal types should actually shape the stay
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the day structure is mostly fine and the live question is how to make one or two evenings actually count
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the skyline branch on Day 1 is the main live decision now
+- read [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/) if the main Day 1 or hotel-base question is whether the classic Kowloon harbourfront district should carry the trip's opening logic
 - read [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/) if the live question is whether the classic Tsim Sha Tsui skyline block itself deserves one of your best short-trip windows
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the live question is whether one harbour crossing on Day 1 or Day 2 should be deliberate instead of just functional
 - read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the main unresolved choice is which harbour format should carry the trip's skyline payoff
@@ -282,9 +302,13 @@ That is enough for the city to feel dense, legible, and memorable without becomi
 - read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) if the real question is whether the stay should open into Lantau at all
 - read [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the Lantau question is more scenic-ride-led than landmark-led
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the Hong Kong Island meal slot is the main live decision on Day 2
+- read [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/) if the main Day 2 question is whether the trip should keep its island-side district logic centered on Central
+- read [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/) if the main Day 2 question is whether the trip should extend that island-side logic into a calmer older-textured district instead of keeping it only in Central
 - read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the Day 2 or final-evening question is whether the trip deserves one broader island-side nightlife-and-neighborhood branch
 - read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the Day 2 or final-evening question is whether the trip deserves one denser shopping-and-city-energy Hong Kong Island branch
 - read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the Day 3 Kowloon-side question is whether the trip deserves one calmer arts-and-harbour branch instead of another market or skyline repeat
+- read [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/) if the Day 3 Kowloon-side question is whether the trip deserves one more grounded local-food-and-street district beyond Tsim Sha Tsui and Temple Street
+- read [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/) if the Day 3 Kowloon-side question is whether the trip deserves one denser shopping-and-market district beyond the classic harbourfront
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the Day 3 Kowloon market branch itself still is not settled
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the Kowloon food-and-market slot is the main live decision on Day 3
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city still needs to be judged against the rest of the route

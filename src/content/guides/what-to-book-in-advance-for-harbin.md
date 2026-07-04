@@ -164,6 +164,29 @@ Use:
 
 - [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/)
 
+## 6. Heavier outside-the-city winter branches only if they really happen
+
+This is the point many Harbin plans get distorted.
+
+If the route is opening a bigger winter detour such as:
+
+- [China's Snow Town from Harbin: Is It Worth the Long Winter Detour for First-Time Visitors?](/places/chinas-snow-town/)
+- or [Yabuli Ski Resort from Harbin: Is It Worth It for First-Time Visitors?](/places/yabuli-ski-resort/)
+
+then that branch usually deserves earlier protection than many smaller Harbin city details.
+
+That is because the real risk is not one missed cafe or one less famous support stop.
+
+It is losing:
+
+- the right overnight
+- the right transport window
+- or the branch itself
+
+Only protect these early when they are genuinely part of your trip, not because they sound famous on the same winter map.
+
+If the trip still has not decided which of those two heavier branches is even the right one, the comparison page is [China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?](/guides/snow-town-or-yabuli-which-harbin-winter-detour-fits-better/).
+
 ## What can usually stay flexible
 
 Much of Harbin becomes better when it stays light.
@@ -218,5 +241,10 @@ That order usually creates a better Harbin trip than booking too many smaller pi
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the hotel base still is not fixed
 - read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if arrival-day friction is the real reason the booking question feels bigger than it should
 - read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if the booking order still depends on whether Harbin should stay compact or grow into a fuller stop
+- read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the booking order still depends on whether a central base or a north-bank venue strategy will shape the movement
+- read [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) if the booking order mostly is clear and the remaining question is how the short stay should actually flow
 - read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the real fragile piece is how much structure your one or two evenings actually need
 - read [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/) if the real remaining question is which part of the city should carry the meals once the core bookings are protected
+- read [China's Snow Town from Harbin: Is It Worth the Long Winter Detour for First-Time Visitors?](/places/chinas-snow-town/) if the booking pressure mostly comes from a possible overnight village detour rather than from Harbin city itself
+- read [Yabuli Ski Resort from Harbin: Is It Worth It for First-Time Visitors?](/places/yabuli-ski-resort/) if the booking pressure mostly comes from a ski-resort branch rather than the Harbin city stay
+- read [China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?](/guides/snow-town-or-yabuli-which-harbin-winter-detour-fits-better/) if the booking pressure mostly comes from knowing you want one outer winter branch but not yet which one

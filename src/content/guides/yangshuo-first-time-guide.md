@@ -49,6 +49,8 @@ If the narrower decision already is obvious, the more focused page is usually be
 - [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/)
 - [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/)
 - [How Long Should You Stay in Yangshuo on a First Trip?](/guides/how-many-days-in-yangshuo-for-first-time-visitors/)
+- [Guilin Liangjiang Airport to City Center or Yangshuo: Shuttle, Taxi, or First-Night Transfer?](/guides/guilin-liangjiang-airport-to-city-center-or-yangshuo/)
+- [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/)
 - [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/)
 - [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/)
 - [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/)
@@ -188,6 +190,8 @@ If the season is still open and you want the town to feel more breathable than m
 - read [Yangshuo Rock Climbing for Beginners: Where to Start and When It Fits a Short Trip](/guides/yangshuo-rock-climbing-for-beginners-where-to-start-and-when-it-fits-a-short-trip/) if the town already is likely and the live question is whether one active outdoor half day adds more than another scenic stop
 - read [A Better Yangshuo Cycling Half-Day: Scenic Enough to Matter, Short Enough to Fit](/guides/a-better-yangshuo-cycling-half-day-for-first-time-visitors/) if the trip wants one active countryside branch without turning the day into a full sport outing
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the real decision now is whether the town deserves a sleep-there version instead of a pass-through
+- read [Guilin Liangjiang Airport to City Center or Yangshuo: Shuttle, Taxi, or First-Night Transfer?](/guides/guilin-liangjiang-airport-to-city-center-or-yangshuo/) if Yangshuo already looks likely and the next question is whether the airport should hand off straight into the town on night one
+- read [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/) if Yangshuo already looks likely and the next question is which nights, river blocks, or show-style plans actually deserve early booking
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the overnight likely is happening and the next question is the best base
 - read [Where to Eat in Yangshuo for First-Time Visitors](/guides/where-to-eat-in-yangshuo-for-first-time-visitors/) if the overnight likely is happening and the next question is where the easy dinner, countryside lunch, or Xingping-side meal should actually land
 - read [What to Do in Yangshuo at Night for First-Time Visitors](/guides/what-to-do-in-yangshuo-at-night-for-first-time-visitors/) if the overnight likely is happening and the next question is whether the town should stay simple at night or carry one more deliberate evening

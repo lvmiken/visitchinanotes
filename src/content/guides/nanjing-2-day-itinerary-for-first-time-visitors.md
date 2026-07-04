@@ -26,6 +26,10 @@ faq:
 
 This is the Nanjing version that usually feels strongest for first-time visitors.
 
+If Day 1 begins with a same-day flight rather than a hotel wake-up inside the city, keep [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) open too, because a messy arrival can steal exactly the time this itinerary needs most.
+
+If the route already looks right but the next problem is which hotel, train, or major history stop deserves early commitment, keep [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) open too.
+
 ## Day 1: central history plus a real evening
 
 Start with one main historical anchor:
@@ -72,6 +76,8 @@ If Day 1 used [Presidential Palace](/places/presidential-palace/), Day 2 can sti
 ## Which page to read next
 
 - read [What to Do in Nanjing at Night for First-Time Visitors](/guides/what-to-do-in-nanjing-at-night-for-first-time-visitors/) if the evening still needs refining
+- read [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) if the first live constraint is how much of Day 1 survives after landing
+- read [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) if the day order is mostly right and the next question is what deserves early commitment
 - read [Confucius Temple and the Qinhuai River in Nanjing: Is It Worth Your Best Evening?](/places/confucius-temple-and-qinhuai-river/) if the night layer still needs a yes-or-no decision
 - read [One Good Nanjing Night: Qinhuai, Laomendong, and When Not to Overbuild It](/guides/one-good-nanjing-night-qinhuai-laomendong-and-when-not-to-overbuild-it/) if the evening already is old-city-shaped but still needs a cleaner stop point
 - read [Nanjing Massacre Memorial: When It Belongs on a First Trip](/places/nanjing-massacre-memorial/) if Day 1 may carry a heavier modern-history anchor and you still need to know whether that choice improves the trip

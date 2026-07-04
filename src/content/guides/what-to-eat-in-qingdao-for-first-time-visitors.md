@@ -53,6 +53,8 @@ If the city already is confirmed and the live question now is which parts of Qin
 
 If the real question is not what to eat but which part of Qingdao should carry which meal, the next page is [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/).
 
+If the meal choice already is turning into an evening-shape decision, keep [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Qingdao food structure is:
@@ -159,6 +161,8 @@ For many first-time visitors, one of the best Qingdao food moves is:
 This is why Qingdao often feels best when one evening becomes the seafood-and-beer night instead of trying to spread that identity thinly across every meal.
 
 If the live question already is whether the beer-history branch itself deserves time, the narrower next page is [Qingdao Beer Museum: Is It Worth It for First-Time Visitors?](/places/qingdao-beer-museum/).
+
+If the live question already is not the museum but where a beer-and-seafood evening should actually happen, the narrower place page is [Dengzhou Road Beer Street in Qingdao: Is It Worth It for First-Time Visitors?](/places/dengzhou-road-beer-street/).
 
 If the trip is happening in festival season and you need to know whether the larger beer event actually helps the food side of the city, go next to [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/).
 

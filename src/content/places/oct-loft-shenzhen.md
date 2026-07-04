@@ -144,6 +144,8 @@ Choose `OCT-LOFT` if:
 
 That is why `Sea World` is often the better relaxed night and `OCT-LOFT` is often the better creative night.
 
+If the live question is no longer only this creative child branch but whether the wider west-side district deserves real route space first, go next to [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/).
+
 ## OCT-LOFT vs Nantou Ancient Town
 
 Choose [Nantou Ancient Town in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nantou-ancient-town/) if:
@@ -211,6 +213,7 @@ It becomes weaker when travelers try to make the district carry an entire day ju
 
 ## Which page to read next
 
+- read [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/) if the live question is whether the whole west-side parent district deserves one of your best Shenzhen blocks before you choose the exact child branch
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the broader evening structure still is open
 - read [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if the west-side night choice still is creative district versus calmer waterfront
 - read [Nantou Ancient Town in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nantou-ancient-town/) if the west-side night choice still is live-music atmosphere versus old-meets-new texture

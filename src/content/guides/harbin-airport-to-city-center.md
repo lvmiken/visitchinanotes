@@ -142,7 +142,9 @@ Airport bus becomes a weaker first-night answer when:
 - the weather is harsh enough that standing outside feels costly
 - you are staying on a less natural branch such as a venue-led `Songbei` stay
 
-If the whole city-movement question is now broader than the airport itself, go next to [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) and [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/), because Harbin transfers change what the first night can honestly hold.
+If the whole city-movement question is now broader than the airport itself, go next to [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/), [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/), and [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/), because Harbin transfers change what the first night can honestly hold.
+
+If the arrival answer mostly is clear and the real remaining question is how to use a short Harbin stop without wasting Day 1, keep [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) open too.
 
 ## Which option should most readers choose?
 
@@ -182,6 +184,8 @@ If the arrival logic is what still makes Harbin feel too hard, keep [What to Wea
 
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the transfer choice still depends on the hotel area
 - read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if the transfer question is already turning into a broader stay-shape decision
+- read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the airport answer is mostly clear and the remaining problem is how Harbin movement should work after arrival
+- read [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) if the transfer answer is mostly clear and the next problem is what Day 1 and Day 2 should actually hold
 - read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the airport timing is already deciding what the first evening can actually support
 - read [What to Book in Advance for Harbin: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-harbin/) if the arrival question is already blending into hotel, rail, or winter-night booking decisions
 - read [Harbin for First-Time Visitors: When the Winter Spectacle Is Worth Building a Trip Around](/guides/harbin-first-time-guide/) if the broader route-fit question still is not settled

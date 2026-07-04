@@ -147,6 +147,8 @@ Choose `Nantou Ancient Town` if:
 
 That is why many good Shenzhen days actually use both, with Nantou earlier and Sea World later.
 
+If the live question is no longer only this texture child branch but whether the wider west-side district deserves real route space first, go next to [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/).
+
 ## Nantou vs Dongmen
 
 Choose `Dongmen Old Street` if:
@@ -198,6 +200,7 @@ Nantou becomes weaker when travelers:
 
 ## Which page to read next
 
+- read [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/) if the live question is whether the whole west-side parent district deserves one of your best Shenzhen blocks before you choose the exact child branch
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if you want to place Nantou into a real short stay
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the live question still is Nantou versus Sea World versus Shenzhen Bay and Houhai
 - read [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if the west-side choice still is texture versus calmer waterfront

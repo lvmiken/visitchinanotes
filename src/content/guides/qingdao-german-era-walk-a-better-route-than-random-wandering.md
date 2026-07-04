@@ -131,6 +131,10 @@ Then the route gets overloaded with:
 
 The better move is to let one walk tell the story.
 
+If the old-core commercial spine itself still feels too vague, the narrower district page is [Zhongshan Road in Qingdao: Is It Worth It for First-Time Visitors?](/places/zhongshan-road-qingdao/).
+
+If the walking route already works and the remaining question is only whether the snack-heavy child stop deserves the ending, the narrower place page is [Pichaiyuan in Qingdao: Is It Worth It for First-Time Visitors?](/places/pichaiyuan/).
+
 ## Best use by trip length
 
 ### If Qingdao is only 2 days
@@ -173,6 +177,8 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [Badaguan in Qingdao: Is It Worth Visiting for First-Time Visitors?](/places/badaguan/) if the greener villa extension is the part you still are not sure about
+- read [Zhongshan Road in Qingdao: Is It Worth It for First-Time Visitors?](/places/zhongshan-road-qingdao/) if the old-core commercial street layer still feels underdefined
+- read [Pichaiyuan in Qingdao: Is It Worth It for First-Time Visitors?](/places/pichaiyuan/) if the walk mostly works and the live question is whether the food-heavy old-core ending deserves the time
 - read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if this walk still needs to compete against the rest of the city's shortlist
 - read [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) if the route now needs to fit inside a real short stay
 - read [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/) if the walking route already works and the next decision is where the meal should land

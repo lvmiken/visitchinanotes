@@ -62,6 +62,10 @@ If trip length is still the main blocker, go first to [How Many Days in Hong Kon
 
 If the hotel choice mainly depends on how much food and breakfast rhythm should shape the stay, keep [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) open too.
 
+If the hotel choice mainly depends on which Hong Kong blocks actually deserve protected time, keep [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) open too.
+
+If the hotel choice mainly depends on how much MTR, ferry, tram, or taxi friction the stay can absorb, keep [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) open too.
+
 If the hotel shortlist is quietly being distorted by a planned mainland rail exit, pause one step. Many readers think they need to sleep near `West Kowloon` because the next chapter is `Guilin` or `Yangshuo`, when the real problem is whether that rail handoff should shape the route at all. If that is the live question, use [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) before forcing the hotel map to solve it.
 
 ## The short answer
@@ -79,6 +83,10 @@ After that, the choice usually becomes:
 - stay in **Wan Chai or Causeway Bay** only if you know island-side evenings and shopping will really shape the trip
 
 The biggest mistake is booking a hotel too far from the district rhythm you actually want.
+
+If the broader reservation question already is not only `where should we sleep?` but `what else in Hong Kong actually deserves advance booking after the hotel is solved?`, keep [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) open too.
+
+If the base decision still depends on whether `Airport Express`, airport bus, or taxi will make the first hotel arrival feel easiest, keep [Hong Kong Airport to City Center for First-Time Visitors: Airport Express, Bus, or Taxi?](/guides/hong-kong-airport-to-city-center/) open too.
 
 ## Pick your base by the kind of Hong Kong trip you want
 
@@ -100,6 +108,8 @@ Why it works:
 
 If the live question already is not just `Which base is easiest?` but `Which harbour move will this base actually make feel worthwhile?`, the natural companion pages are [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) and [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/).
 
+If the live question already is not only whether Tsim Sha Tsui is easiest but whether the district itself deserves to act as the trip's classic Kowloon parent, the more focused companion page is [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/).
+
 This is usually the best base when the trip mainly wants:
 
 - one strong skyline night
@@ -108,6 +118,8 @@ This is usually the best base when the trip mainly wants:
 - a short `2 to 3 day` version of Hong Kong
 
 The tradeoff is that some parts of Tsim Sha Tsui can feel more visitor-facing and less neighborhood-led than the best Hong Kong Island bases.
+
+If the live question already is not only `Is Tsim Sha Tsui the safest base?` but `do we still need one more grounded Kowloon district beyond the harbourfront later in the trip?`, the more focused companion page is [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/).
 
 ## Choose Central or Sheung Wan if
 
@@ -131,6 +143,10 @@ This is often better than Tsim Sha Tsui when the trip wants Hong Kong to feel mo
 The tradeoff is that the harbor panorama is not as instantly built into every walk unless you deliberately go to it.
 
 That is also why this base usually works best for travelers who want to choose their harbour windows deliberately instead of living inside them all day.
+
+If the live question already is not only `Should we sleep here?` but `does Central itself deserve to be one of the trip's main district blocks?`, the more focused companion page is [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/).
+
+If the live question already is not only `Should we sleep here?` but `would the calmer adjacent base actually be better in Sheung Wan?`, the more focused companion page is [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/).
 
 ## Choose Wan Chai or Causeway Bay if
 
@@ -199,6 +215,10 @@ If that hotel decision is already narrowing into `Central and Sheung Wan should 
 
 If the hotel decision is really about whether a Kowloon base should support one easier market-led night, the more focused child page is [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/).
 
+If the hotel decision is really about whether the Kowloon side should include one more grounded district block instead of only skyline or market logic, the more focused district page is [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/).
+
+If the hotel decision is really about whether the Kowloon side should lean into denser market-and-shopping energy instead of the classic harbourfront default, the more focused district page is [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/).
+
 ## Avoid overvaluing outer convenience
 
 A cheaper or larger hotel farther out can look attractive on a map.
@@ -230,11 +250,20 @@ For most first-time visitors, those details matter more than getting a slightly 
 
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city itself still feels too broad
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if the hotel choice still depends on whether the stay is 2, 3, or 4 days
+- read [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if the hotel choice is almost solved and the next live question is which Hong Kong blocks actually deserve your limited time
+- read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if the hotel choice is almost solved and the next live question is whether the base still makes the city's transport feel easy
+- read [Hong Kong Airport to City Center for First-Time Visitors: Airport Express, Bus, or Taxi?](/guides/hong-kong-airport-to-city-center/) if the hotel choice still depends on which base creates the easiest first-night arrival from HKIA
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the hotel choice still depends on how food-heavy the stay should be
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the hotel choice mainly depends on what kind of evening you want the base to support
+- read [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/) if the base decision mainly depends on whether the classic Kowloon harbourfront district should carry the stay
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the base decision mainly depends on whether Tsim Sha Tsui should support one useful classic crossing
 - read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the base decision mainly depends on how much the trip should revolve around the harbour itself
 - read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the base decision partly depends on whether the trip should protect one calmer arts-and-harbour branch rather than only a train-convenience district
+- read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if the hotel base is almost decided and the next live question is which other Hong Kong bookings actually matter
+- read [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/) if the base decision partly depends on whether the Kowloon side should include one more grounded local-food-and-street district beyond the classic harbourfront
+- read [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/) if the base decision partly depends on whether the Kowloon side should lean more into denser shopping-and-market energy than the classic harbourfront default
+- read [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/) if the base decision partly depends on whether the stay should lean harder into a walkable and food-strong Hong Kong Island district
+- read [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/) if the base decision partly depends on whether the stay should lean into a calmer and more textured island-side base than Central
 - read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the base decision partly depends on whether the trip should protect one broader island-side nightlife-and-neighborhood branch
 - read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the base decision partly depends on whether the trip should protect one denser shopping-and-city-energy island-side branch
 - read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if hotel location may change because the trip wants one full park day without weakening the city stay too much

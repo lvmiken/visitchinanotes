@@ -46,20 +46,29 @@ This page is best for travelers who still are trying to answer the broad Qingdao
 If you already know the exact decision, the narrower page is usually better:
 
 - [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/)
+- [How Many Days in Qingdao for First-Time Visitors](/guides/how-many-days-in-qingdao-for-first-time-visitors/)
+- [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/)
+- [What to Book in Advance for Qingdao: Hotels, Trains, and Summer Festival Plans](/guides/what-to-book-in-advance-for-qingdao/)
+- [Qingdao Jiaodong Airport to City for First-Time Visitors: Metro Line 8, Taxi, or Rail?](/guides/qingdao-jiaodong-airport-to-city-center/)
 - [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/)
 - [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/)
+- [Yunxiao Road or Minjiang Road for a First Seafood Dinner in Qingdao?](/guides/yunxiao-road-or-minjiang-road-for-a-first-seafood-dinner-in-qingdao/)
+- [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/)
 - [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/)
 - [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/)
 - [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/)
 - [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/)
 - [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/)
 - [Zhanqiao Pier in Qingdao: Is It Worth Visiting on a First Trip?](/places/zhanqiao-pier/)
+- [Zhongshan Road in Qingdao: Is It Worth It for First-Time Visitors?](/places/zhongshan-road-qingdao/)
+- [Pichaiyuan in Qingdao: Is It Worth It for First-Time Visitors?](/places/pichaiyuan/)
 - [May Fourth Square in Qingdao: Is It Worth Visiting on a First Trip?](/places/may-fourth-square/)
 - [Olympic Sailing Center in Qingdao: Is It Worth It for First-Time Visitors?](/places/olympic-sailing-center/)
 - [Badaguan in Qingdao: Is It Worth Visiting for First-Time Visitors?](/places/badaguan/)
 - [No.1 Bathing Beach in Qingdao: Is It Worth It for First-Time Visitors?](/places/no1-bathing-beach/)
 - [Laoshan from Qingdao: Is It Worth a Day for First-Time Visitors?](/places/laoshan-mountain/)
 - [Qingdao Beer Museum: Is It Worth It for First-Time Visitors?](/places/qingdao-beer-museum/)
+- [Dengzhou Road Beer Street in Qingdao: Is It Worth It for First-Time Visitors?](/places/dengzhou-road-beer-street/)
 
 ## The short answer
 
@@ -93,6 +102,10 @@ Travelers sometimes underrate Qingdao because they compare it against cities bui
 
 Two or three days is enough for most first visits. That gives enough room for waterfront walks, a neighborhood-based hotel choice, and a more relaxed city rhythm without dragging the wider route off balance.
 
+If the broad answer now is clearly "yes, Qingdao belongs," but the live planning question has narrowed to whether the city should be `1`, `2`, or `3` days, go next to [How Many Days in Qingdao for First-Time Visitors](/guides/how-many-days-in-qingdao-for-first-time-visitors/).
+
+If Qingdao already is confirmed and the next practical anxiety is whether the city will feel simple to use between the station, the old coast, the eastern waterfront, and possible dinner returns, go next to [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/).
+
 ## Common mistakes on a first Qingdao trip
 
 - expecting Qingdao to compete with Beijing or Shanghai on attraction density
@@ -103,10 +116,15 @@ Two or three days is enough for most first visits. That gives enough room for wa
 ## Which page to read next
 
 - read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if the city is confirmed and you want the clearest shortlist before locking the days
+- read [How Many Days in Qingdao for First-Time Visitors](/guides/how-many-days-in-qingdao-for-first-time-visitors/) if Qingdao is confirmed but the trip length still is not
 - read [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/) if the city is confirmed and the old-town architecture layer still feels too vague
 - read [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/) if the trip is happening in summer and the live question is whether the festival actually improves the stop
 - read [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/) if the city is confirmed and the next live question is how to use your limited seafood and beer meals well
 - read [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/) if the city is confirmed and the next live question is which district should carry the seafood dinner or snack block
+- read [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/) if the city is confirmed and the next live question is which evening actually improves the stop
 - read [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) if hotel area is the next decision
+- read [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/) if Qingdao is confirmed but the real hesitation is station transfers, district-hopping, or whether the city will feel easy on a short stay
+- read [What to Book in Advance for Qingdao: Hotels, Trains, and Summer Festival Plans](/guides/what-to-book-in-advance-for-qingdao/) if Qingdao is confirmed and the next anxiety is what needs to be locked early versus what should stay flexible
+- read [Qingdao Jiaodong Airport to City for First-Time Visitors: Metro Line 8, Taxi, or Rail?](/guides/qingdao-jiaodong-airport-to-city-center/) if Qingdao is confirmed and the next anxiety is how the first transfer from the airport should actually work
 - read [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) if Qingdao already is confirmed
 - read [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/) if you still are deciding where it belongs

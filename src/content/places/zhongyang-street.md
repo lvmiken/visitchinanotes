@@ -92,6 +92,8 @@ It gives the city:
 
 That often matters more than people expect.
 
+If the central district already is doing its job and the remaining question becomes whether the day deserves one calmer `Songhua River` continuation rather than another whole district, the narrower support page is [Stalin Park in Harbin: Is It Worth It for First-Time Visitors?](/places/stalin-park/).
+
 ## Zhongyang Street vs one more winter detour
 
 Choose `Zhongyang Street` if:
@@ -153,6 +155,7 @@ It usually weakens when travelers reduce it to a pure walk-through.
 ## Which page to read next
 
 - read [Saint Sophia Cathedral in Harbin: A Short Stop, a Photo Stop, or a Real Priority?](/places/saint-sophia-cathedral/) if the central day likely is happening and the next question is whether the cathedral adds enough
+- read [Stalin Park in Harbin: Is It Worth It for First-Time Visitors?](/places/stalin-park/) if the central day already is working and the next question is whether it needs one calmer riverfront continuation
 - read [Zhongyang Street in Winter: Where to Walk, What to Eat, and How to Stay Warm](/guides/zhongyang-street-in-winter-where-to-walk-what-to-eat-and-how-to-stay-warm/) if the district already is chosen and the real question is how to handle the winter walk without random cold wandering
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the district now looks like the best base and the hotel choice is next
 - read [Harbin Ice and Snow World: When the Signature Winter Night Really Pays Off](/places/harbin-ice-and-snow-world/) if the remaining tension still is central-city rhythm versus the main winter icon

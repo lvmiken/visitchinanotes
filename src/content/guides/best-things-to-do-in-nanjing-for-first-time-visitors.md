@@ -25,6 +25,8 @@ faq:
 
 Nanjing usually rewards structure more than volume.
 
+If the shortlist is becoming real and the next problem is which pieces deserve early commitment, keep [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) open too.
+
 ## The strongest first-time Nanjing shortlist
 
 ### 1. Protect one evening around [Confucius Temple and the Qinhuai River](/places/confucius-temple-and-qinhuai-river/)
@@ -110,6 +112,7 @@ Many first-time Nanjing routes become cleaner once two direct comparisons are ha
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if the city already has enough time
 - read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if this shortlist is being used for a same-day Shanghai rail detour
 - read [How Many Days in Nanjing for First-Time Visitors](/guides/how-many-days-in-nanjing-for-first-time-visitors/) if the length still is not fixed
+- read [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) if the shortlist is mostly right and the next question is which pieces deserve early commitment
 - read [Rainy Day in Nanjing: How to Rescue a First Trip Without Losing the City's Historical Core](/guides/rainy-day-in-nanjing-for-first-time-visitors/) if weather may change whether the city should stay monument-led or pivot indoor
 - read [How to Visit the Nanjing Massacre Memorial as an English-Speaking Visitor](/guides/how-to-visit-the-nanjing-massacre-memorial/) if the real next decision is how to include the memorial respectfully and practically
 - read [Nanjing Massacre Memorial: When It Belongs on a First Trip](/places/nanjing-massacre-memorial/) if the real next decision is whether a solemn modern-history stop improves the city or overloads it

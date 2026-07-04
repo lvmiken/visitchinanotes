@@ -147,6 +147,8 @@ Choose `Shenzhen Bay and Houhai` if:
 
 That is why the two west-side branches are complementary rather than interchangeable.
 
+If the live question is no longer only this polished child branch but whether the wider west-side district deserves real route space first, go next to [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/).
+
 ## Shenzhen Bay and Houhai vs Nantou Ancient Town
 
 Choose `Nantou Ancient Town` if:
@@ -199,8 +201,10 @@ This branch becomes weaker when travelers:
 
 ## Which page to read next
 
+- read [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/) if the live question is whether the whole west-side parent district deserves one of your best Shenzhen blocks before you choose the exact child branch
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the broader evening structure still is open
 - read [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if the west-side decision still is polished bayfront versus calmer waterfront
+- read [Houhai or Sea World: Which Shenzhen West-Side Night Fits First-Time Visitors Better?](/guides/houhai-or-sea-world-which-shenzhen-west-side-night-fits-first-time-visitors-better/) if the live question already is a direct polished-versus-relaxed west-side comparison
 - read [Nantou Ancient Town in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nantou-ancient-town/) if the west-side decision still is polished modern-city versus creative historical texture
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if you want to place Shenzhen Bay and Houhai inside a real short stay
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the value of this branch still depends on whether your base makes the west side easy enough

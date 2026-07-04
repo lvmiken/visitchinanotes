@@ -2,7 +2,7 @@
 title: "High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?"
 description: "Compare high-speed rail and flights in China by door-to-door time, hotel location, luggage friction, and which option keeps the route easier."
 publishDate: 2026-06-14
-updatedDate: 2026-06-21
+updatedDate: 2026-07-04
 planningMoment: "book-transport"
 whenToRead: "Best read when you are close to locking in intercity moves and need to compare comfort, timing, and transfer friction."
 affectsCities:
@@ -143,6 +143,8 @@ A route that looks like an obvious flight win can become less attractive if:
 - the destination airport-to-city transfer is its own stress point
 
 This is why [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) often matters before you decide the transport mode.
+
+Once the mode decision starts changing the actual route, open the destination hub that sits on the other end of the segment. [Harbin](/destinations/harbin/) is a classic example where a long transfer can quietly decide whether the winter chapter is still worth it, [Guilin](/destinations/guilin/) and [Yangshuo](/destinations/yangshuo/) matter when the real question is gateway versus scenic overnight, and [Nanjing](/destinations/nanjing/), [Hong Kong](/destinations/hong-kong/), or [Shenzhen](/destinations/shenzhen/) are often the better next pages when the transport choice is really deciding what kind of city experience comes next.
 
 ## What first-time travelers often underestimate
 

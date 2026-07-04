@@ -9,9 +9,11 @@ const sitemapExcludedPathnames = new Set([
   "/authors/",
   "/authors/editorial-team/",
   "/contribute/",
+  "/disclaimer/",
   "/editorial-policy/",
   "/plan-help/",
   "/privacy/",
+  "/search/",
 ]);
 
 const projectRoot = path.dirname(fileURLToPath(import.meta.url));

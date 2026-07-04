@@ -59,6 +59,10 @@ If you already know the exact decision, the narrower page is usually better:
 
 - [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if Hong Kong already is in the route and the live question is whether the city needs 2, 3, or 4 days
 - [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if Hong Kong already is in the route and the live question is whether Tsim Sha Tsui or Hong Kong Island should be the base
+- [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if Hong Kong already is in the route and the live question is which sights, districts, and detours actually deserve your limited time
+- [Hong Kong Airport to City Center for First-Time Visitors: Airport Express, Bus, or Taxi?](/guides/hong-kong-airport-to-city-center/) if Hong Kong already is in the route and the live question is how to handle the airport arrival without weakening the first night
+- [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if Hong Kong already is in the route and the live question is when MTR is enough and when ferries, buses, trams, or taxis actually improve the trip
+- [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if Hong Kong already is in the route and the live question is which reservations actually matter and which should stay flexible
 - [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if Hong Kong already is in the route and the live question is how to turn the stay into a workable 3-day plan
 - [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if Hong Kong already is in the route and the live question is whether the evening should be skyline-led, cruise-led, bar-led, or market-led
 - [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the real issue is no longer whether Shenzhen belongs but how to cross into it cleanly
@@ -107,6 +111,10 @@ That choice shapes:
 
 If Hong Kong already is confirmed and the only real question left is trip length, go next to [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/).
 If the stay length already is clear and the hotel area is the real blocker, go next to [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/).
+If the city already is confirmed and the live question becomes which Hong Kong blocks truly deserve protected time, go next to [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/).
+If the city already is confirmed and the live question becomes how MTR, ferries, taxis, and district shape should actually work together, go next to [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/).
+If the city already is confirmed and the live question becomes how to get from the airport to the hotel with the least-friction first-night route, go next to [Hong Kong Airport to City Center for First-Time Visitors: Airport Express, Bus, or Taxi?](/guides/hong-kong-airport-to-city-center/).
+If the city already is confirmed and the live question becomes what actually needs booking early and what Hong Kong should keep flexible, go next to [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/).
 If the stay length and hotel area already are mostly clear, go next to [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/).
 If the trip already is clearly food-led and the live question becomes which Hong Kong foods actually deserve protected meal slots, go next to [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/).
 
@@ -143,6 +151,8 @@ If the city role is already clear and the live question becomes what you should 
 
 If the city role is clear and the real sightseeing question becomes whether one elevated skyline branch deserves protecting, the more focused place page is [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/).
 
+If the city role is clear and the real district question becomes whether the classic Kowloon harbour-and-stay answer should be Tsim Sha Tsui itself, the more focused place page is [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/).
+
 If the city role is clear and the real harbourfront question becomes whether one classic Tsim Sha Tsui skyline block deserves protected time, the more focused place page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
 
 If the city role is clear and the real harbour question becomes whether one simple classic crossing deserves real time, the more focused place page is [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/).
@@ -161,6 +171,14 @@ If the city role is clear and the real evening question becomes whether one loos
 
 If the city role is clear and the real later-evening question becomes whether one calmer arts-and-harbour branch belongs after the classic skyline layer already worked, the more focused place page is [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/).
 
+If the city role is clear and the real Kowloon neighborhood question becomes whether one more grounded local-food-and-street branch belongs beyond Tsim Sha Tsui and Temple Street, the more focused place page is [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/).
+
+If the city role is clear and the real denser Kowloon market-and-shopping question becomes whether `Mong Kok` itself deserves one of the trip's main district blocks, the more focused place page is [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/).
+
+If the city role is clear and the real Hong Kong Island neighborhood question becomes whether `Central` itself deserves to carry the walk-and-eat district layer beyond only one meal, the more focused place page is [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/).
+
+If the city role is clear and the real Hong Kong Island neighborhood question becomes whether one calmer adjacent district belongs after `Central` is already making sense, the more focused place page is [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/).
+
 If the city role is clear and the real later-evening or stay-base question becomes whether one broader Hong Kong Island nightlife-and-neighborhood branch belongs beyond Central alone, the more focused place page is [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
 
 If the city role is clear and the real island-side question becomes whether one denser shopping-and-modern-city branch belongs beyond Central alone, the more focused place page is [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/).
@@ -176,6 +194,10 @@ If the city role is clear and the real island-side question becomes whether one 
 
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if Hong Kong already is confirmed and the live question is whether the stay should be 2, 3, or 4 days
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if Hong Kong already is confirmed and the live question is where the base should be
+- read [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if Hong Kong already is confirmed and the live question is which sights and district branches actually deserve your best short-trip windows
+- read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if Hong Kong already is confirmed and the live question is how the city should actually move once the main blocks are chosen
+- read [Hong Kong Airport to City Center for First-Time Visitors: Airport Express, Bus, or Taxi?](/guides/hong-kong-airport-to-city-center/) if Hong Kong already is confirmed and the live question is how to protect the arrival without creating a messy first night
+- read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if Hong Kong already is confirmed and the live question is which parts of the stay deserve early reservations and which should stay looser
 - read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the next live question is the mainland handoff
 - read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if the next live question is whether Hong Kong should hand off into a fuller mainland city by rail
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the next live question is whether Hong Kong should hand off into scenery instead of another urban stop
@@ -183,6 +205,7 @@ If the city role is clear and the real island-side question becomes whether one 
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if Hong Kong already is confirmed and the live question is how the days should flow
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the broader city decision is basically settled and the live question is how evenings should actually work
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the live decision is whether one elevated skyline branch should beat another district or harbour session
+- read [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/) if the live decision is whether the classic Kowloon harbourfront-and-hotel answer should shape the whole stay
 - read [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/) if the live decision is whether one classic Tsim Sha Tsui harbourfront block should beat another skyline move or another neighborhood evening
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the live decision is whether one simple harbour crossing should beat another MTR transfer or another stretch of promenade time
 - read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the remaining skyline question is which harbour format should actually carry your best Hong Kong window
@@ -193,6 +216,10 @@ If the city role is clear and the real island-side question becomes whether one 
 - read [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the Lantau decision is more about scenic ride value than the Buddha itself
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the live decision is whether one market-led Kowloon evening belongs at all
 - read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the live decision is whether the trip deserves one calmer arts-and-harbour branch beyond the classic skyline and market answers
+- read [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/) if the live decision is whether the trip deserves one more grounded Kowloon district for local food, themed streets, and everyday texture
+- read [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/) if the live decision is whether the trip deserves one denser Kowloon market-and-shopping district beyond the harbourfront
+- read [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/) if the live decision is whether the trip deserves one more walkable and food-strong Hong Kong Island district beyond only a skyline session
+- read [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/) if the live decision is whether the trip deserves one calmer and more textured Hong Kong Island extension after Central already makes sense
 - read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the live decision is whether the trip deserves one broader Hong Kong Island evening or stay-base branch beyond Central alone
 - read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the live decision is whether the trip deserves one denser shopping-and-city-energy Hong Kong Island branch beyond Central alone
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the remaining route question is whether Hong Kong should stay the main stop or give way to a shorter Macau contrast

@@ -204,6 +204,8 @@ Trying to make that same night carry one extra difficult restaurant mission ofte
 
 If the evening itself still needs shape first, the next page is [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/).
 
+If the meal districts mostly make sense but the winter movement between them still does not, the next page is [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/).
+
 ## Common mistakes
 
 - chasing one famous meal too far from the actual day
@@ -216,6 +218,7 @@ If the evening itself still needs shape first, the next page is [What to Do in H
 
 - read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the meal districts are mostly clear and the next question is how the evening itself should work
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the meal logic still depends on the hotel base
+- read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the district choices are mostly right but the winter transfer logic between hotel, dinner, and venue still feels weak
 - read [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/) if the central food answer now looks likely and the next question is how much time that district deserves
 - read [A Better Harbin Central Winter Half Day: Zhongyang Street, Saint Sophia, and When to Step Back Indoors](/guides/a-better-harbin-central-winter-half-day-zhongyang-street-saint-sophia-and-when-to-step-back-indoors/) if the food districts are mostly clear and the live question is how to use the central block well before assigning the meal
 - read [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) if the city still needs its broader first-time shortlist before you finalize the food layer

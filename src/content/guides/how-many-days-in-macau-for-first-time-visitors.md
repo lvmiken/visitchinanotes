@@ -58,6 +58,12 @@ If Macau itself is still not fully confirmed, start with [Macau for First-Time V
 
 If the hotel base is still the real blocker, keep [Best Area to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) open too.
 
+If the stay length is almost clear but the real question becomes which Macau blocks actually deserve the limited time, keep [Best Things to Do in Macau for First-Time Visitors](/guides/best-things-to-do-in-macau-for-first-time-visitors/) open too.
+
+If the stay length is almost clear but the real question becomes how to move between the right Macau sides without wasting time, keep [How to Get Around Macau for First-Time Visitors](/guides/how-to-get-around-macau-for-first-time-visitors/) open too.
+
+If the stay length is almost clear but the real question becomes which hotel, transport, or show pieces actually need early locking, keep [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) open too.
+
 ## The short answer
 
 For many first-time visitors:
@@ -219,6 +225,7 @@ That usually creates a better route than forcing too many similar city walks acr
 
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if Macau still is being judged against other route options
 - read [Best Area to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) if the trip length is nearly decided and the hotel base is the next live question
+- read [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) if the trip length is nearly decided and the next live question is which parts of that version actually need to be locked early
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if you already know the stay should be `2 days` and now need a route that keeps old Macau and Taipa or Cotai in balance
 - read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the extra time mainly depends on whether one polished resort-side block would genuinely improve the stay
 - read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the extra time mainly depends on whether one quieter village-and-coastal branch would genuinely improve the stay

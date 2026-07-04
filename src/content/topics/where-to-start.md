@@ -2,7 +2,7 @@
 title: "Best First City to Visit in China: Beijing, Shanghai, Chengdu, or Xi'an?"
 description: "Compare Beijing, Shanghai, Chengdu, and Xi'an to decide which city is best for your first trip to China and how many stops to plan."
 publishDate: 2026-06-14
-updatedDate: 2026-06-21
+updatedDate: 2026-07-04
 planningMoment: "choose-route"
 whenToRead: "Best read before you choose the first city or decide how many stops to include."
 affectsCities:
@@ -66,6 +66,8 @@ If you already know the likely first stop, go narrower instead of staying here t
 - [Shanghai for First-Time Visitors: Why It Works So Well as a China Entry Point](/guides/shanghai-first-time-guide/)
 - [Chengdu for First-Time Visitors: Slow the Pace and Plan Around Food](/guides/chengdu-first-time-guide/)
 - [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/)
+
+If your shortlist has already moved beyond the default four, switch quickly into the relevant destination hub instead of staying inside abstract comparison mode. [Harbin](/destinations/harbin/) is the right winter-city branch to open early, [Guilin](/destinations/guilin/) and [Yangshuo](/destinations/yangshuo/) are the cleaner scenic pair to compare side by side, [Hong Kong](/destinations/hong-kong/) and [Macau](/destinations/macau/) help when the trip is drifting south, and [Nanjing](/destinations/nanjing/) or [Qingdao](/destinations/qingdao/) are often the more useful next tabs once the route wants an East China or northern-coast extension.
 
 ## Start with the trip you actually want
 
@@ -164,6 +166,8 @@ If the likely first stop is already `Shanghai` and the real question is what a s
 If your real comparison is between the two biggest first-trip defaults, go next to [Beijing or Shanghai for First-Time Visitors?](/topics/beijing-or-shanghai-for-first-time-visitors/).
 
 If your real comparison is between East China ease and South China food-and-route logic, go next to [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/).
+
+If the route already is no longer about the very first city but about which second-layer stop should earn its place, open the destination hubs for [Shenzhen](/destinations/shenzhen/), [Nanjing](/destinations/nanjing/), or [Qingdao](/destinations/qingdao/) before you keep collecting disconnected route fragments.
 
 If your route is drifting away from the usual tier-one shortlist because what you really want is older architecture, temple timber, and a more discovery-led north-China branch, go next to [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/).
 

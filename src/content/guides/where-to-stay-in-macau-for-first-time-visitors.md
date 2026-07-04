@@ -64,9 +64,19 @@ If Macau itself is still not confirmed, start first with [Macau for First-Time V
 
 If trip length is still the main blocker, go first to [How Many Days in Macau for First-Time Visitors](/guides/how-many-days-in-macau-for-first-time-visitors/).
 
+If the base decision still depends on how you actually cross over from Hong Kong, keep [Hong Kong to Macau for First-Time Visitors: Ferry or HZMB Bridge Bus?](/guides/hong-kong-to-macau-for-first-time-visitors-ferry-or-hzmb-bus/) open too.
+
 If the trip already is clearly a fuller short stay and the live question is how the days should actually be laid out around these hotel bases, keep [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) open too.
 
 If the hotel choice mainly depends on how food-heavy the stay should be, keep [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) open too.
+
+If the base choice depends on which Macau blocks really deserve protected sightseeing time, keep [Best Things to Do in Macau for First-Time Visitors](/guides/best-things-to-do-in-macau-for-first-time-visitors/) open too.
+
+If the base choice also depends on what kind of evening the trip wants to make easiest, keep [What to Do in Macau at Night for First-Time Visitors](/guides/what-to-do-in-macau-at-night-for-first-time-visitors/) open too.
+
+If the base choice also depends on how practical the day-to-day movement between the peninsula, Taipa, Cotai, and the hotel should feel, keep [How to Get Around Macau for First-Time Visitors](/guides/how-to-get-around-macau-for-first-time-visitors/) open too.
+
+If the base choice also depends on which hotel dates, cross-border links, or show tickets actually deserve advance commitment, keep [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) open too.
 
 ## The short answer
 
@@ -136,6 +146,8 @@ This is often better than the Macau Peninsula when the trip wants Macau to feel 
 - or a heritage-plus-resort mix
 
 If the live question now is no longer where to sleep but whether the resort side itself deserves one of your limited Macau blocks, go next to [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
+
+If the live question is even narrower and really is whether one paid spectacle night is the real reason to lean resort-side, go next to [House of Dancing Water in Macau: Is It Worth It for First-Time Visitors?](/guides/house-of-dancing-water-in-macau-is-it-worth-it-for-first-time-visitors/).
 
 If the live question is not a whole resort-side branch but whether one symbolic skyline landmark would be enough, go next to [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
 
@@ -228,6 +240,8 @@ If the base question also depends on whether the peninsula side should carry one
 
 If the base question also depends on whether one polished resort-side evening or hotel-led contrast would genuinely add value, the more focused place page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
 
+If the base question depends even more specifically on whether one paid show night is the real reason to sleep on the resort side, the more focused guide page is [House of Dancing Water in Macau: Is It Worth It for First-Time Visitors?](/guides/house-of-dancing-water-in-macau-is-it-worth-it-for-first-time-visitors/).
+
 If the base question instead depends on whether one cleaner skyline symbol would add enough modern contrast without fully leaning resort-side, the more focused place page is [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
 
 ## What to watch out for
@@ -242,12 +256,15 @@ If the base question instead depends on whether one cleaner skyline symbol would
 
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the city itself still feels too broad
 - read [How Many Days in Macau for First-Time Visitors](/guides/how-many-days-in-macau-for-first-time-visitors/) if the hotel choice still depends on whether the stay is 1 or 2 days
+- read [Hong Kong to Macau for First-Time Visitors: Ferry or HZMB Bridge Bus?](/guides/hong-kong-to-macau-for-first-time-visitors-ferry-or-hzmb-bus/) if the base choice still depends on which Hong Kong-to-Macau arrival chain fits the hotel side better
+- read [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) if the hotel choice is almost solved and the next live question is which parts of the stop actually need to be locked early
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the hotel choice still depends on how food-heavy the stop should be
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the case for a Macau Peninsula base depends on keeping the heritage-core meal easy
 - read [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/) if the case for a Taipa base depends on one softer neighborhood food day
 - read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the case for a Coloane base depends on whether that quieter village-and-coastal branch deserves real trip time
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if the base decision mostly is solved and the next live question is how to divide a short Macau stay between the old core and the newer south-side districts
 - read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the case for a resort-side base depends on whether the district itself deserves real trip time
+- read [House of Dancing Water in Macau: Is It Worth It for First-Time Visitors?](/guides/house-of-dancing-water-in-macau-is-it-worth-it-for-first-time-visitors/) if the case for a resort-side base depends on whether one paid spectacle night is the real reason to sleep there
 - read [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/) if the case for a modern-side base depends on whether one skyline-and-symbol stop would actually be enough
 - read [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the base decision still depends on whether Macau itself should be the shorter contrast stop
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if hotel choice may change because Hong Kong still might carry the main South China chapter

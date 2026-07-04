@@ -167,5 +167,6 @@ It improves the trip less when:
 ## Which page to read next
 
 - read [Badaguan in Qingdao: Is It Worth Visiting for First-Time Visitors?](/places/badaguan/) if the live choice is indoor beer branch versus stronger scenic walking
+- read [Dengzhou Road Beer Street in Qingdao: Is It Worth It for First-Time Visitors?](/places/dengzhou-road-beer-street/) if the real question is whether the museum should stay an indoor stop or turn into a fuller beer-and-night branch
 - read [Zhanqiao Pier in Qingdao: Is It Worth Visiting on a First Trip?](/places/zhanqiao-pier/) if the real choice is supporting museum versus symbolic waterfront stop
 - read [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) if you want to place the museum inside a real short stay

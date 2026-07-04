@@ -2,7 +2,7 @@
 title: "How to Plan a South China Route with Hong Kong, Macau, and One Mainland Stop"
 description: "Plan a first South China route around Hong Kong, Macau, and either Guangzhou or Shenzhen with clearer city roles, better pacing, and fewer border-shaped mistakes."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-04
 planningMoment: "choose-route"
 whenToRead: "Best read when Hong Kong and Macau are both tempting, but you still need to decide whether the mainland partner should be Guangzhou or Shenzhen and whether the whole route is becoming too fragmented."
 affectsCities:
@@ -118,6 +118,8 @@ It gives the route:
 It is usually the better mainland partner when the route wants simplicity and momentum.
 
 Use: [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/).
+
+If the city roles are already becoming clear, open the destination hubs side by side now: [Hong Kong](/destinations/hong-kong/), [Macau](/destinations/macau/), [Guangzhou](/destinations/guangzhou/), and [Shenzhen](/destinations/shenzhen/). Those pages are usually the fastest way to keep the route grounded once the names stop being theoretical.
 
 ## The most useful South China rule
 

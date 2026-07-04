@@ -2,7 +2,7 @@
 title: "Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?"
 description: "Decide whether to take high-speed rail from Hong Kong West Kowloon to Guilin or Yangshuo by understanding co-location, passport timing, and why Guilin is usually the booking anchor while Yangshuo is often the softer real destination."
 publishDate: 2026-06-29
-updatedDate: 2026-06-29
+updatedDate: 2026-07-04
 planningMoment: "book-transport"
 whenToRead: "Best once Hong Kong is already in the route and the real question is how to turn it into one clean mainland scenic chapter instead of another airport or border headache."
 affectsCities:
@@ -143,6 +143,8 @@ In many trips, Yangshuo is the part people remember more warmly.
 It means the route works best when the rail search and the scenic-base search are not forced to do the same job.
 
 If the Guilin region itself still is not fully chosen, use [Guilin on a First Trip: What to Prioritize and What Not to Overbuild](/guides/guilin-first-time-guide/) and [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) next.
+
+If you want the route-level landing pages instead of only single guide angles, keep the [Hong Kong](/destinations/hong-kong/), [Guilin](/destinations/guilin/), and [Yangshuo](/destinations/yangshuo/) destination hubs open side by side while you decide the first-night base and the shape of the scenic chapter.
 
 ## What departure day at West Kowloon actually feels like
 

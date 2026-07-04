@@ -69,9 +69,19 @@ If the real question still is whether Macau deserves only `1 day` or a fuller `2
 
 If the hotel base is still not right, keep [Best Area to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) open too.
 
+If the city already is confirmed but the real question becomes which Macau stops actually deserve protection before you lay out the days, keep [Best Things to Do in Macau for First-Time Visitors](/guides/best-things-to-do-in-macau-for-first-time-visitors/) open too.
+
+If the city already is confirmed but the real question becomes how to move between the right sides cleanly once the route is chosen, keep [How to Get Around Macau for First-Time Visitors](/guides/how-to-get-around-macau-for-first-time-visitors/) open too.
+
+If the city already is confirmed but the real question becomes which parts of the 2-day version should actually be locked before arrival, keep [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) open too.
+
+If the route still depends on whether Day 1 can carry a real Macau block after arriving from Hong Kong, keep [Hong Kong to Macau for First-Time Visitors: Ferry or HZMB Bridge Bus?](/guides/hong-kong-to-macau-for-first-time-visitors-ferry-or-hzmb-bus/) open too.
+
 If the broader decision still is whether Macau itself should win over a fuller Hong Kong stay, keep [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) open too.
 
 If the day structure mostly works but the meal layer still feels too abstract, keep [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) open too.
+
+If the day structure mostly works but the evening layer still feels too vague, keep [What to Do in Macau at Night for First-Time Visitors](/guides/what-to-do-in-macau-at-night-for-first-time-visitors/) open too.
 
 ## The short version
 
@@ -192,6 +202,8 @@ If the trip wants a more glamorous or entertainment-led continuation, lean more 
 
 If the live question on Day 2 already is not whether the resort side exists but whether it deserves protected time at all, the more focused companion page is [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/).
 
+If the live question on Day 2 is narrower than that and really is whether the polished contrast should become a paid spectacle night, the more focused companion page is [House of Dancing Water in Macau: Is It Worth It for First-Time Visitors?](/guides/house-of-dancing-water-in-macau-is-it-worth-it-for-first-time-visitors/).
+
 If the live question on Day 2 is narrower than that and really is whether one symbolic skyline stop should replace or support the broader resort-side branch, the more focused companion page is [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/).
 
 If the live question on Day 2 already has narrowed from `Should Taipa be in the plan?` to `What should we actually eat there?`, the more focused companion page is [Where to Eat in Taipa Village for First-Time Visitors](/guides/where-to-eat-in-taipa-village-for-first-time-visitors/).
@@ -269,6 +281,8 @@ Keep the old-core route more selective after the essentials.
 
 - read [Best Area to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) if the day flow works but the hotel base still does not
 - read [How Many Days in Macau for First-Time Visitors](/guides/how-many-days-in-macau-for-first-time-visitors/) if you still are not sure whether Macau should stay at 1 day or become a fuller 2-day stop
+- read [Hong Kong to Macau for First-Time Visitors: Ferry or HZMB Bridge Bus?](/guides/hong-kong-to-macau-for-first-time-visitors-ferry-or-hzmb-bus/) if the route still depends on how much Day 1 survives after the Hong Kong-to-Macau crossing
+- read [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) if the route shape mostly works and the next live question is which hotel, transport, or evening pieces deserve advance commitment
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if the route is basically set and the next decision is which meal types should actually shape the stay
 - read [Where to Eat Around Senado Square for First-Time Visitors](/guides/where-to-eat-around-senado-square-for-first-time-visitors/) if the Day 1 heritage-core meal is the main live decision now
 - read [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/) if the Day 1 old-core landmark decision itself is the main live question now

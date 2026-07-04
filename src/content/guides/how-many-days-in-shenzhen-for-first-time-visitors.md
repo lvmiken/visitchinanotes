@@ -56,6 +56,12 @@ If Shenzhen itself is still not fully confirmed, start with [Shenzhen Travel Gui
 
 If the real decision still is not length but whether Hong Kong should win instead, keep [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) open too.
 
+If the trip length is almost clear but the real question becomes which Shenzhen districts and branches actually deserve those days, keep [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/) open too.
+
+If the length mostly is clear but the live question becomes whether the city is easy enough to move through for that plan, keep [How to Get Around Shenzhen for First-Time Visitors](/guides/how-to-get-around-shenzhen-for-first-time-visitors/) open too.
+
+If the day count mostly is clear but the live question becomes which parts of the stay should be locked early and which can stay loose, keep [What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days](/guides/what-to-book-in-advance-for-shenzhen/) open too.
+
 ## The short answer
 
 For many first-time visitors:
@@ -228,7 +234,13 @@ In most first-time South China trips, that fourth day is often better spent on:
 
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if Shenzhen still is being judged against other route options
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if Shenzhen already is confirmed and the next real question is whether Futian, Nanshan, Shekou, or Luohu fits best
+- read [Futian or Nanshan: Which Shenzhen Area Fits First-Time Visitors Better?](/guides/futian-or-nanshan-which-shenzhen-area-fits-first-time-visitors-better/) if Shenzhen already is confirmed and the next real question has narrowed to the two strongest default bases
+- read [Futian or Luohu: Which Shenzhen Base Fits First-Time Visitors Better?](/guides/futian-or-luohu-which-shenzhen-base-fits-first-time-visitors-better/) if Shenzhen already is confirmed and the next real question has narrowed to safer central Futian versus east-side border practicality
+- read [How to Get Around Shenzhen for First-Time Visitors](/guides/how-to-get-around-shenzhen-for-first-time-visitors/) if the day count mostly is solved and the next live question is whether metro, Didi, and district spread still make the plan realistic
+- read [What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days](/guides/what-to-book-in-advance-for-shenzhen/) if the day count mostly is solved and the next live question is which parts of that plan actually deserve early booking
+- read [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/) if the trip length is nearly decided and the next live question is which Shenzhen blocks actually deserve those days
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if you already know the stay should be `3 days` and now need a district-based plan that does not waste time
+- read [Houhai or Sea World: Which Shenzhen West-Side Night Fits First-Time Visitors Better?](/guides/houhai-or-sea-world-which-shenzhen-west-side-night-fits-first-time-visitors-better/) if the stay is long enough for a west-side night and the remaining choice is skyline polish versus calmer dinner rhythm
 - read [Are Shajing Oysters Worth a Detour for First-Time Visitors?](/guides/is-shajing-oysters-worth-a-detour-for-first-time-visitors/) if the extra Shenzhen day partly is being justified by one seafood-specific Bao'an branch
 - read [Is Guangming Roast Squab Worth a Detour for First-Time Visitors?](/guides/is-guangming-roast-squab-worth-a-detour-for-first-time-visitors/) if the extra Shenzhen day partly is being justified by one dish-specific specialty branch
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the stay length still depends on whether Shenzhen itself should win in the route

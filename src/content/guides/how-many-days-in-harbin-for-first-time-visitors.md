@@ -130,7 +130,9 @@ That is where the city usually becomes:
 
 This is often the version where Harbin stops feeling like a bold niche choice and starts feeling like a smart route contrast.
 
-If the live question already is how to assign the evenings and meals inside those days, the next pages are [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) and [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/).
+If the live question already is how to assign movement, evenings, and meals inside those days, the next pages are [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/), [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/), and [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/).
+
+If the live question already is not only whether `2 days` is enough but what that version should actually look like, the sharper next page is [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/).
 
 ## When 3 days becomes worth it
 
@@ -150,6 +152,14 @@ This is where Harbin can become:
 - one real winter night
 - one full central day
 - one softer extra layer for meals, recovery, or one additional branch such as [Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?](/places/sun-island-park/)
+
+If the extra branch you mean is not another winter venue but one more secondary urban corridor, the narrower place page is [Gogol Street in Harbin: Is It Worth It for First-Time Visitors?](/places/gogol-street/).
+
+If the extra branch you mean is not another corridor either but one calmer `Songhua River` extension off the central side, the narrower place page is [Stalin Park in Harbin: Is It Worth It for First-Time Visitors?](/places/stalin-park/).
+
+If the extra branch you mean is not another daytime corridor at all but one smaller central winter-lantern night instead of the full flagship evening, the narrower place page is [Zhaolin Park Ice Lantern Fair in Harbin: A Real Winter Night or Too Small Next to Ice and Snow World?](/places/zhaolin-park/).
+
+If the extra branch you mean is a much heavier outside-the-city winter detour rather than another Harbin-side support layer, the sharper pages are [China's Snow Town from Harbin: Is It Worth the Long Winter Detour for First-Time Visitors?](/places/chinas-snow-town/) and [Yabuli Ski Resort from Harbin: Is It Worth It for First-Time Visitors?](/places/yabuli-ski-resort/). If the real question already is which one better justifies the longer version, the comparison page is [China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?](/guides/snow-town-or-yabuli-which-harbin-winter-detour-fits-better/).
 
 Three days is strongest when the route deliberately wants winter atmosphere, not only one famous photo set.
 
@@ -189,6 +199,13 @@ It is weaker when the extra day exists only because the transport schedule is aw
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the number of nights is mostly clear and the next decision is the base
 - read [Sun Island or Ice and Snow World: Which Harbin Winter Stop Fits Better?](/guides/sun-island-or-ice-and-snow-world-which-harbin-winter-stop-fits-better/) if the number of days mainly changes because you are trying to decide whether Harbin deserves a softer second winter branch
 - read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if arrival-day friction still is shaping how much Harbin time feels realistic
+- read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the day count is mostly clear but the central-versus-Songbei movement still feels harder than it should
+- read [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) if `2 days` now looks right and the next question is how to use them well
+- read [Zhaolin Park Ice Lantern Fair in Harbin: A Real Winter Night or Too Small Next to Ice and Snow World?](/places/zhaolin-park/) if the day count still depends on whether Harbin should keep the flagship night or step down to a smaller central winter stop
 - read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the real next question is how one or two Harbin evenings should actually work
 - read [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/) if the length is mostly decided and the next question is how to keep meals useful in the cold
 - read [What to Book in Advance for Harbin: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-harbin/) if the trip length is mostly clear and the next question is which parts of the stay really need protecting
+- read [Stalin Park in Harbin: Is It Worth It for First-Time Visitors?](/places/stalin-park/) if the extra time mainly exists for one calmer central riverfront layer rather than another full district or winter venue
+- read [China's Snow Town from Harbin: Is It Worth the Long Winter Detour for First-Time Visitors?](/places/chinas-snow-town/) if the extra time mainly exists for one bigger overnight winter branch outside the city
+- read [Yabuli Ski Resort from Harbin: Is It Worth It for First-Time Visitors?](/places/yabuli-ski-resort/) if the extra time mainly exists for one ski-resort detour rather than another Harbin city day
+- read [China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?](/guides/snow-town-or-yabuli-which-harbin-winter-detour-fits-better/) if the extra time mainly exists for one outer winter branch and you still have not decided which one actually fits

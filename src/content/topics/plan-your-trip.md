@@ -2,7 +2,7 @@
 title: "How to Plan Your First China Trip Without Overbuilding the Route"
 description: "Use this first China trip planning guide to decide how many cities fit, when trains or flights start controlling the route, and what to lock first."
 publishDate: 2026-06-14
-updatedDate: 2026-06-21
+updatedDate: 2026-07-04
 planningMoment: "choose-route"
 whenToRead: "Best read once you know your rough trip length but before you book hotels, trains, or domestic flights."
 affectsCities:
@@ -207,6 +207,8 @@ That order prevents a lot of avoidable rework.
 If the route is one week long and the live problem now is simply `how many cities is too many?`, go next to [How Many Cities in One Week in China Is Too Many?](/topics/how-many-cities-in-one-week-in-china-is-too-many/).
 
 If the route is already clearly East China, do not stay only at the national level. Move into the regional planning layer with [How to Plan an East China Itinerary for First-Time Visitors](/topics/east-china-itinerary-basics-for-first-time-visitors/), then narrow further into [Where to Stay on an East China Multi-City Route](/topics/where-to-stay-on-an-east-china-multi-city-route/), [What to Book in Advance for an East China Trip](/topics/what-to-book-in-advance-for-an-east-china-trip/), and [Best Time to Visit East China for a Multi-City Trip](/topics/best-time-for-an-east-china-route/).
+
+Once one candidate stop survives the first round of cuts, open its destination hub instead of only collecting isolated articles. [Harbin](/destinations/harbin/) is the clearer landing page when the route may add a winter-city chapter, [Guilin](/destinations/guilin/) and [Yangshuo](/destinations/yangshuo/) work better when the trip wants a softer scenic pair, [Hong Kong](/destinations/hong-kong/), [Macau](/destinations/macau/), and [Shenzhen](/destinations/shenzhen/) are useful once South China stops stop feeling abstract, and [Nanjing](/destinations/nanjing/) or [Qingdao](/destinations/qingdao/) are often the right next hubs when an East China or north-coast add-on begins to harden.
 
 If the route is drifting the other way — toward old architecture, cave temples, and a province-shaped north-China branch instead of another default city pair — move into [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/) before you start booking disconnected stops.
 

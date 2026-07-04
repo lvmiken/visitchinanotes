@@ -51,9 +51,15 @@ If the bigger question still is whether Qingdao belongs in the route at all, sta
 
 If the city already is confirmed and the live question now is where to stay, keep [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) open too.
 
+If the shortlist already looks right but the real doubt is whether Qingdao can be used smoothly without too much cross-city movement, keep [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/) open too.
+
+If the bigger question still is not priority but whether Qingdao should be a `1-day`, `2-day`, or `3-day` stop at all, keep [How Many Days in Qingdao for First-Time Visitors](/guides/how-many-days-in-qingdao-for-first-time-visitors/) open too.
+
 If the route already is mostly chosen and you want the days in order, keep [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) open too.
 
 If the trip may happen in summer and the live question is whether festival timing should shape the city at all, keep [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/) open too.
+
+If the city already is confirmed and the live question is which evening type actually fits the stop, keep [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/) open too.
 
 ## The short answer
 
@@ -211,6 +217,8 @@ This often gives the trip more personality than squeezing in another weaker attr
 
 That matters because Qingdao is not trying to win by density. It usually wins by letting the route slow down gracefully.
 
+If the evening side of the city now looks more important than one more daytime stop, the narrower parent page is [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/).
+
 ## What makes Qingdao feel full on a 2-day trip?
 
 On a 2-day Qingdao trip, the strongest structure usually is:
@@ -226,4 +234,12 @@ The mistake is thinking a short Qingdao trip must also carry the mountain day, e
 
 If you are building that sharper version now, [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) is still the best execution page for the short-stay model, while [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/) helps if the route role still is not fully settled.
 
+If the shortlist now is clear but the open question becomes whether `Laoshan` or a fuller food-and-waterfront rhythm pushes Qingdao from `2 days` to `3`, the narrower next page is [How Many Days in Qingdao for First-Time Visitors](/guides/how-many-days-in-qingdao-for-first-time-visitors/).
+
 If the real open question is how to make Qingdao's European-influenced old fabric feel coherent instead of random, the next page is [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/).
+
+If the shortlist itself is clear but the city still feels too stretched on the map, the next page is [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/).
+
+If the shortlist already points toward the older core and the live question is whether that branch should really be carried by Zhongshan Road, go narrower with [Zhongshan Road in Qingdao: Is It Worth It for First-Time Visitors?](/places/zhongshan-road-qingdao/).
+
+If the old-core branch already makes sense and the real question is only whether one snack-heavy child stop deserves the supporting slot, go narrower with [Pichaiyuan in Qingdao: Is It Worth It for First-Time Visitors?](/places/pichaiyuan/).

@@ -14,7 +14,7 @@ keyTakeaways:
   - "A strong first Hong Kong food plan usually includes one dim sum meal, one cha chaan teng breakfast or light meal, one roast-meat meal, one noodle or congee stop, and one snack-or-market continuation."
   - "Hong Kong is not only about one polished Cantonese dinner. Cha chaan teng breakfasts, roast goose, wonton noodles, egg tarts, fish-ball snacks, and dai pai dong or seafood nights often make the city feel fuller."
   - "Many first-time visitors get better results from protecting a few distinct Hong Kong meal types than from chasing too many famous names across both sides of the harbour."
-  - "Temple Street, harbour districts, and Hong Kong Island food areas all solve different jobs, so the smartest meal often depends on the day rather than on a single most-famous restaurant."
+  - "Temple Street, Sham Shui Po, harbour districts, and Hong Kong Island food areas all solve different jobs, so the smartest meal often depends on the day rather than on a single most-famous restaurant."
 relatedTopicSlugs:
   - "metro-taxi-ridehailing"
   - "what-apps-you-need-for-a-china-trip"
@@ -58,6 +58,8 @@ Use this page if you are asking:
 If the bigger question still is whether Hong Kong should even be in the route, start with [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/).
 
 If the day structure mostly works but you still need to decide which evenings should become skyline-led and which should become market- or district-led, keep [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) open too.
+
+If the meal layer mostly makes sense but the trip still lacks a clean broader sightseeing priority order, keep [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) open too.
 
 ## The short answer
 
@@ -276,13 +278,17 @@ This is the day that often makes Hong Kong food feel most day-to-day and least s
 
 If the live question already is not `what should I eat in Hong Kong?` but `what exactly should I do with the Central and SoHo meal slot?`, the narrower execution page is [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/).
 
+If the live question on the island-side day is less about dishes and more about whether `Central` itself deserves to carry one main district block, the more focused district page is [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/).
+
+If the live question on the island-side day is less about dishes and more about whether one calmer and more textured continuation belongs after Central, the more focused district page is [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/).
+
 If the live question on the island-side day is less about dishes and more about whether a broader Wan Chai continuation actually improves the route, the more focused district page is [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/).
 
 If the live question on the island-side day is less about dishes and more about whether a denser shopping-and-city-energy `Causeway Bay` continuation improves the route, the more focused district page is [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/).
 
 ### Best food logic for the Kowloon market or Temple Street day
 
-If the day stays on the Kowloon side and leans toward `Yau Ma Tei`, `Temple Street`, or a more local-feeling evening, this is often the best place for:
+If the day stays on the Kowloon side and leans toward `Sham Shui Po`, `Yau Ma Tei`, `Temple Street`, or a more local-feeling evening, this is often the best place for:
 
 - one snack continuation
 - one claypot-rice or dai pai dong-style meal
@@ -291,6 +297,10 @@ If the day stays on the Kowloon side and leans toward `Yau Ma Tei`, `Temple Stre
 This is usually the day where the city feels most flexible and least formal.
 
 If the live question already is not `should Temple Street be part of the trip?` but `what should we actually eat there?`, the narrower execution page is [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/).
+
+If the live question on the Kowloon side is less about one later market night and more about whether a fuller local-food-and-street district belongs in the plan, the more focused district page is [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/).
+
+If the live question on the Kowloon side is less about one later market night and more about whether a denser market-and-shopping district should carry one snack-and-browse block, the more focused district page is [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/).
 
 ### Best food logic for the extra Disneyland or Lantau day
 
@@ -325,6 +335,8 @@ That already gives a fuller picture of Hong Kong than repeating the same polishe
 ## Which page to read next
 
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if one of these meals is really competing with a skyline, cruise, market, or district evening choice
+- read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if the remaining food question is whether one dinner actually deserves a reservation or whether the city should stay more flexible
+- read [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if the food plan still depends on which districts and detours actually deserve the trip's best windows
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place these meals into a real short-stay route
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the hotel base still may shape which meal layers are realistic
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if your harbour-day meal depends on whether one classic crossing already is part of the route
@@ -332,8 +344,12 @@ That already gives a fuller picture of Hong Kong than repeating the same polishe
 - read [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/) if one whole day in the stay may become simpler and more family- or park-led than city-food-led
 - read [Tian Tan Buddha: When a Lantau Detour Earns Its Place on a First Trip](/places/tian-tan-buddha/) and [Ngong Ping 360: When the Cable Car Improves a First Hong Kong Trip](/places/ngong-ping-360/) if the meal plan depends on whether the trip opens into a Lantau day
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the Hong Kong Island food slot is the main live decision now
+- read [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/) if the food plan partly depends on whether the stay should protect one stronger walkable Hong Kong Island district beyond only a meal slot
+- read [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/) if the food plan partly depends on whether one calmer Hong Kong Island extension should carry more of the cafe-and-walk day after Central
 - read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the food plan partly depends on whether one broader island-side evening or neighborhood branch belongs after Central
 - read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the food plan partly depends on whether one denser shopping-and-city-energy island-side branch belongs after Central
+- read [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/) if the food plan partly depends on whether one more grounded Kowloon district should carry snacks, cha chaan teng stops, and local street texture
+- read [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/) if the food plan partly depends on whether one denser Kowloon market-and-shopping district should carry the snack-and-browse layer
 - read [Where to Eat Near Temple Street for First-Time Visitors](/guides/where-to-eat-near-temple-street-for-first-time-visitors/) if the Kowloon food-and-market night is the main live decision now
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if you still are not sure whether the city has enough room for both a dim sum layer and a broader street-food or district-food layer
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the city itself still feels too broad

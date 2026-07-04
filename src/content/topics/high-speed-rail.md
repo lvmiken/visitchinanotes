@@ -2,7 +2,7 @@
 title: "China High-Speed Rail for Tourists: How It Works and What to Expect"
 description: "Learn how China high-speed rail works for tourists, when trains beat flights, what station days feel like, and which booking steps matter most."
 publishDate: 2026-06-14
-updatedDate: 2026-06-19
+updatedDate: 2026-07-04
 planningMoment: "book-transport"
 whenToRead: "Best read when you are comparing city combinations or getting close to booking intercity transport."
 affectsCities:
@@ -99,6 +99,8 @@ If the rail question is cross-border but city-led rather than scenic-led, the cl
 If the rail question is not one long corridor but one short East-China chain, the cleaner next page is [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/). That page exists for the traveler whose real blocker is not the train system itself, but which version of this nearby-city branch stays graceful once Shanghai, Suzhou, and Hangzhou all start competing for time.
 
 For many readers, these rail decisions are not abstract. They sit inside real sample routes such as [Beijing, Xi'an, or Shanghai: Which Pairing Makes the Best First China Route?](/guides/beijing-xian-or-shanghai-pairing/) and short-stop city planning pages like [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/).
+
+Once the rail corridor itself starts looking right, switch from generic transport reading into the destination hubs the train day is actually serving. [Hong Kong](/destinations/hong-kong/), [Guilin](/destinations/guilin/), and [Yangshuo](/destinations/yangshuo/) are especially useful when a cross-border scenic handoff is forming, while [Nanjing](/destinations/nanjing/) and [Shenzhen](/destinations/shenzhen/) are often the stronger next pages when the rail move is really about what kind of city chapter should come next.
 
 ## When high-speed rail usually beats flying
 

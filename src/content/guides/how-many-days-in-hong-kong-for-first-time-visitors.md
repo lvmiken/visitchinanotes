@@ -53,6 +53,11 @@ Use this page if you are asking:
 
 If the city itself is still not fully confirmed, start with [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/). If Hong Kong already is confirmed and the only real decision left is trip length, this page is the narrower next step.
 
+If the trip length is almost clear but the real question becomes which Hong Kong blocks actually deserve protection inside those days, keep [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) open too.
+
+If the trip length is almost clear but the real question becomes how much cross-harbour movement, MTR time, or taxi cleanup that version can realistically absorb, keep [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) open too.
+If the trip length is almost clear but the real question becomes which Hong Kong pieces actually deserve advance booking for that version of the stay, keep [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) open too.
+
 ## The short answer
 
 For many first-time visitors:
@@ -234,6 +239,9 @@ If the extra day is not automatically a park day and the real branch choice is `
 
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if Hong Kong still is being judged against other route options
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the trip length is nearly decided and the hotel base is the next live question
+- read [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if the trip length is nearly decided and the next live question is which sights, districts, and detours actually deserve those days
+- read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if the trip length is nearly decided and the next live question is whether that version of Hong Kong still moves cleanly by MTR and selective ferry use
+- read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if the trip length is nearly decided and the next live question is how much of that version should actually be locked early
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you are leaning toward the default 3-day version and want the days to flow
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the stay length decision really depends on whether the route has room for both a skyline night and a more district-led evening
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the shortest version of the trip depends on whether one useful classic crossing already solves enough of the harbour layer

@@ -60,6 +60,11 @@ If the hotel base is still fuzzy, keep [Best Area to Stay in Hong Kong for First
 
 If the trip still is not fully shaped day by day, keep [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) open too.
 
+If the evening question still depends on which Hong Kong blocks actually deserve your limited daytime windows, keep [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) open too.
+
+If the evening question still depends on whether MTR, ferries, or taxi should carry the awkward return, keep [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) open too.
+If the evening question still depends on whether a harbour cruise, special dinner, or one timed skyline product should actually be booked ahead, keep [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) open too.
+
 If the live question is not only what to do at night but what Hong Kong foods deserve the best breakfast, lunch, dinner, and snack slots overall, keep [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) open too.
 
 ## The short answer
@@ -130,6 +135,8 @@ It is usually weaker when:
 
 If the live question is not whether the city needs one classic skyline night but whether the easiest Tsim Sha Tsui harbourfront version is enough by itself, the more focused place page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
 
+If the live question is not only which harbour format should carry the skyline, but whether `Tsim Sha Tsui` itself deserves to be the district parent for your classic Hong Kong night, the more focused place page is [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/).
+
 If the live question is not whether the city needs one harbour block, but whether that block should include one simple classic crossing, the more focused place page is [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/).
 
 If the live question is not whether the city needs one skyline night but which harbour format should actually carry it, the broader place page is [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/).
@@ -191,6 +198,10 @@ It is usually weaker when:
 - the group prefers markets, snacks, or a more local-feeling night
 
 If the live question already is not whether `Central and Lan Kwai Fong` belong in the evening, but what should actually carry dinner there, the narrower execution page is [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/).
+
+If the live question already is not only about the evening but whether `Central` itself deserves to act as one of the trip's main district answers, the more focused place page is [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/).
+
+If the live question already is less about Central's polished core and more about whether the calmer older extension next door deserves daytime space before the evening starts, the more focused place page is [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/).
 
 If the live question already is whether the city still needs one elevated skyline branch before dinner-and-drinks starts competing for time, the more focused place page is [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/).
 
@@ -329,6 +340,8 @@ Dinner should usually be the main event when:
 
 That is often where `Central`, `Wan Chai`, `Causeway Bay`, or `Temple Street` outperform another attempt to overwork the harbour.
 
+If the live question is less about skyline repetition and more about whether one denser Kowloon market-and-shopping district belongs before or after dinner, the more focused district page is [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/).
+
 ## When the skyline matters more than the meal
 
 The skyline usually matters more when:
@@ -361,14 +374,21 @@ That already gives the city more range than leaving every night unplanned.
 ## Which page to read next
 
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to see where one or two evenings actually fit inside a short stay
+- read [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if the broader sightseeing shortlist still is not stable enough for the night choice to feel easy
+- read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if the night choice still depends on whether the return should be ferry-led, MTR-led, or simply cleaned up by taxi
+- read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if the night choice still depends on whether a cruise, special dinner, or one timed skyline branch deserves early commitment
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if the real question is whether the city has enough room for both a skyline night and a district-led night
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the evening decision is also tied to whether dinner should be dim sum, roast meats, Temple Street snacks, or a stronger local-food night
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the remaining skyline decision is elevated panorama versus harbour or cruise
+- read [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/) if the remaining district decision is whether the classic Kowloon harbourfront-and-hotel answer should shape the whole night or stay
 - read [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/) if the remaining skyline decision is whether the easiest harbourfront version already solves the whole classic Hong Kong night
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the remaining harbour decision is whether one simple crossing should replace another underground transfer or one more promenade repeat
 - read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the real remaining question is which harbour experience should carry the city's biggest night payoff
 - read [Temple Street Night Market in Hong Kong: Is It Worth It for First-Time Visitors?](/places/temple-street-night-market/) if the remaining district decision is whether a Kowloon market night belongs at all
+- read [Mong Kok in Hong Kong: Is It Worth It for First-Time Visitors?](/places/mong-kok/) if the remaining district decision is whether one denser Kowloon market-and-shopping district belongs instead of another skyline repeat
+- read [Central in Hong Kong: Is It Worth It for First-Time Visitors?](/places/central-hong-kong/) if the remaining district decision is whether a walkable and food-strong Hong Kong Island district should carry more of the trip than another skyline repeat
+- read [Sheung Wan in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sheung-wan/) if the remaining district decision is whether one calmer and older-textured Hong Kong Island extension belongs before another skyline or market-led night
 - read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the remaining district decision is whether one broader island-side nightlife-and-neighborhood evening belongs instead of another skyline or market-led night
 - read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the remaining district decision is whether one denser shopping-and-city-energy island-side evening belongs instead of another skyline or market-led night
 - read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the remaining district decision is whether one calmer arts-and-harbour evening belongs instead of another skyline or nightlife-led night

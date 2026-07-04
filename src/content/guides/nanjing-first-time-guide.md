@@ -43,6 +43,10 @@ If the city already is chosen and the live question is what deserves priority, g
 
 If the city already is chosen and the live question is which season makes the stop easiest, go to [Best Time to Visit Nanjing for First-Time Visitors](/guides/best-time-to-visit-nanjing-for-first-time-visitors/).
 
+If the city already is chosen and the live question is how to land cleanly from `Lukou Airport` before the hotel or first evening starts, use [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/).
+
+If the city already is chosen and the live question is what actually deserves early commitment before the trip, use [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/).
+
 If the city already is chosen and the real question is how to move between station, central sights, and the Qinhuai evening cleanly, use [How to Get Around Nanjing for First-Time Visitors](/guides/how-to-get-around-nanjing-for-first-time-visitors/).
 
 If the city already is chosen and the live question is which foods actually deserve your limited meals, use [What to Eat in Nanjing for First-Time Visitors](/guides/what-to-eat-in-nanjing-for-first-time-visitors/).
@@ -139,6 +143,8 @@ For many first-time visitors:
 - read [How to Visit the Nanjing Massacre Memorial as an English-Speaking Visitor](/guides/how-to-visit-the-nanjing-massacre-memorial/) if the live question is one serious modern-history museum rather than the whole city
 - read [Nanjing Massacre Memorial: When It Belongs on a First Trip](/places/nanjing-massacre-memorial/) if the deeper question is whether that solemn stop belongs in your version of Nanjing at all
 - read [How Many Days in Nanjing for First-Time Visitors](/guides/how-many-days-in-nanjing-for-first-time-visitors/) if the city is chosen but the length is not
+- read [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) if the city is chosen but the first live problem is the airport arrival itself
+- read [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) if the city is chosen but the live question is how much of the stay should be locked before departure
 - read [Best Area to Stay in Nanjing for First-Time Visitors](/guides/nanjing-where-to-stay/) if the live decision is hotel base
 - read [Best Time to Visit Nanjing for First-Time Visitors](/guides/best-time-to-visit-nanjing-for-first-time-visitors/) if dates are still flexible and season choice may change how the stop should work
 - read [How to Get Around Nanjing for First-Time Visitors](/guides/how-to-get-around-nanjing-for-first-time-visitors/) if the city is chosen and the next practical question is how to move around it without friction

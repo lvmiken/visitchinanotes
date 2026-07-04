@@ -116,6 +116,8 @@ Choose `Sea World` if:
 
 That is why `Shenzhen Bay and Houhai` are often the stronger stylish-modern answer, while Sea World is often the stronger relaxed-social answer.
 
+If the live question is no longer only this calmer child branch but whether the wider west-side district deserves real route space first, go next to [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/).
+
 ## Sea World vs Futian
 
 Choose `Futian` if:
@@ -202,8 +204,10 @@ Sea World becomes weaker when travelers:
 
 ## Which page to read next
 
+- read [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/) if the live question is whether the whole west-side parent district deserves one of your best Shenzhen blocks before you choose the exact child branch
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the broader evening structure still is open
 - read [Where to Eat in Sea World for First-Time Visitors](/guides/where-to-eat-in-sea-world-for-first-time-visitors/) if the district already is chosen and the live question is what should actually carry the meal
 - read [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/) if the west-side choice still is polished bayfront versus calmer waterfront
+- read [Houhai or Sea World: Which Shenzhen West-Side Night Fits First-Time Visitors Better?](/guides/houhai-or-sea-world-which-shenzhen-west-side-night-fits-first-time-visitors-better/) if the live question already is a direct polished-versus-relaxed west-side comparison
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if you want to place Sea World inside a real short stay
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the value of Sea World still depends on whether your base makes the west side easy enough

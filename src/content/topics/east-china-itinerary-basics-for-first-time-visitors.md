@@ -2,7 +2,7 @@
 title: "How to Plan an East China Itinerary for First-Time Visitors"
 description: "Plan an East China trip around Shanghai, Hangzhou, Suzhou, and Nanjing with clearer city roles, better pacing, and the right number of stops."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-04
 planningMoment: "choose-route"
 whenToRead: "Best read when East China is already the likely region for your first China trip, but the city mix and overall route shape are still unclear."
 affectsCities:
@@ -128,6 +128,8 @@ It gives the route:
 It is usually the right answer when the route wants more substance, not just more prettiness.
 
 Use: [Nanjing for First-Time Visitors: Why the City Deserves More Than a Fast Box-Ticking Stop](/guides/nanjing-first-time-guide/).
+
+If the East China cast is already mostly set, open the destination hubs for [Shanghai](/destinations/shanghai/), [Hangzhou](/destinations/hangzhou/), [Suzhou](/destinations/suzhou/), and especially [Nanjing](/destinations/nanjing/) before you keep collecting route fragments. Those hub pages usually make it easier to judge whether the region still needs softness, refinement, or a heavier final chapter.
 
 ## The most common East China route shapes
 

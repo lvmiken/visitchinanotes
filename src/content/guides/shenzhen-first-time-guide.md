@@ -52,17 +52,26 @@ If you already know the exact decision, the narrower page is usually better:
 
 - [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if the live question is whether Shenzhen needs only 1 day, the default 2 days, or a fuller 3-day version
 - [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the live question is whether Futian, Nanshan, Shekou, or Luohu should be the base
+- [Futian or Nanshan: Which Shenzhen Area Fits First-Time Visitors Better?](/guides/futian-or-nanshan-which-shenzhen-area-fits-first-time-visitors-better/) if the live question has already narrowed to the city's two strongest default bases
+- [Futian or Luohu: Which Shenzhen Base Fits First-Time Visitors Better?](/guides/futian-or-luohu-which-shenzhen-base-fits-first-time-visitors-better/) if the live question has already narrowed to safer central Futian versus east-side border practicality
+- [Shenzhen Airport to City Center for First-Time Visitors: Metro Line 11, Taxi, or Airport Express Bus?](/guides/shenzhen-airport-to-city-center/) if the live question is how to land smoothly before the city even starts
+- [How to Get Around Shenzhen for First-Time Visitors](/guides/how-to-get-around-shenzhen-for-first-time-visitors/) if the live question is whether metro is enough, when Didi actually helps, and how much district sprawl changes the stay
+- [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/) if the city already is confirmed and the live question is which Shenzhen districts and branches actually deserve your best short-trip windows
+- [What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days](/guides/what-to-book-in-advance-for-shenzhen/) if the live question is what actually deserves early commitment and what should stay flexible
 - [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if the city already is confirmed and the live question is how to turn 3 days into a usable district-based route
 - [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the real blocker is not Shenzhen itself but how the border should actually be handled
 - [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if the live question is whether Shenzhen deserves one technology-and-market district instead of only polished skyline areas
 - [Can You Really Visit DJI Sky City in Shenzhen?](/guides/can-you-really-visit-dji-sky-city-in-shenzhen/) if the live question is whether Shenzhen's most famous tech headquarters is a real stop or mostly an architecture detour
 - [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if the live question is how to make central Shenzhen feel legible instead of reducing Futian to random malls and towers
+- [Futian in Shenzhen: Is It Worth It for First-Time Visitors?](/places/futian-shenzhen/) if the live question is whether the whole central district deserves real time or should also become the hotel base
 - [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/) if the live question is whether the easiest skyline-overview hill in Futian actually deserves time
 - [A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop](/guides/a-better-first-futian-half-day-lianhua-hill-civic-center-and-when-to-stop/) if the live question is no longer whether Futian belongs but how to actually execute it well
+- [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/) if the live question is whether the whole west-side parent district deserves real time before you split it into Houhai, Sea World, Nantou, or OCT-LOFT
 - [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/) if the live question is whether Shenzhen deserves one polished modern skyline-and-lifestyle branch instead of only a practical CBD version
 - [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if the live question is whether one relaxed waterfront dinner-and-walk night belongs at all
 - [Nantou Ancient Town in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nantou-ancient-town/) if the live question is whether the city needs one softer old-meets-new district instead of another anonymous modern block
 - [Dongmen Old Street in Shenzhen: Is It Worth It for First-Time Visitors?](/places/dongmen-old-street/) if the live question is whether one older Luohu-side shopping-and-snack district belongs in the stay
+- [Luohu in Shenzhen: Is It Worth It for First-Time Visitors?](/places/luohu-shenzhen/) if the live question is whether the whole east-side border-and-station district helps the route or only looks convenient on a map
 - [OCT-LOFT in Shenzhen: Is It Worth It for First-Time Visitors?](/places/oct-loft-shenzhen/) if the live question is whether one creative district for cocktails, art spaces, or live music belongs in the city at all
 - [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if the live question is which meals actually make Shenzhen feel distinct instead of interchangeable with other modern city stops
 - [Where to Eat in Dongmen for First-Time Visitors](/guides/where-to-eat-in-dongmen-for-first-time-visitors/) if the live question is whether the Luohu side should be a snack-and-shopping night or just stay a station-adjacent convenience block
@@ -124,6 +133,8 @@ If the winner already is Shenzhen and the real stress now is the border itself, 
 
 If the route already says yes to Shenzhen and the live issue is no longer whether the city belongs, but where the hotel should actually be, go next to [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/).
 
+If the route already says yes to Shenzhen and the live issue is no longer the broad hotel guide but the narrower `Futian or Nanshan` split, go next to [Futian or Nanshan: Which Shenzhen Area Fits First-Time Visitors Better?](/guides/futian-or-nanshan-which-shenzhen-area-fits-first-time-visitors-better/).
+
 ## What most first-time visitors should prioritize
 
 The strongest first Shenzhen stay usually protects:
@@ -140,11 +151,15 @@ If the daytime structure already looks fine but the city still feels too abstrac
 
 If the city already is confirmed and the real question becomes which district should carry one memorable polished-modern block, the narrower place page is [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/).
 
+If the city already is confirmed and the real question becomes whether the wider `Nanshan` side should carry one real district chapter before you choose the exact child branch, the narrower place page is [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/).
+
 If the city already is confirmed and the real question becomes whether one relaxed west-side dinner-and-walk branch should carry an evening, the narrower place page is [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/).
 
 If the city already is confirmed and the real question becomes whether Shenzhen needs one softer old-meets-new layer, the narrower place page is [Nantou Ancient Town in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nantou-ancient-town/).
 
 If the city already is confirmed and the real question becomes whether one older shopping-and-snack Luohu district belongs in the stay, the narrower place page is [Dongmen Old Street in Shenzhen: Is It Worth It for First-Time Visitors?](/places/dongmen-old-street/).
+
+If the city already is confirmed and the real question becomes whether the wider `Luohu` side helps as an arrival base, border-side first night, or station-linked practical district, the narrower place page is [Luohu in Shenzhen: Is It Worth It for First-Time Visitors?](/places/luohu-shenzhen/).
 
 If the city already is confirmed and the real question becomes whether one creative adult-night district deserves real route space, the narrower place page is [OCT-LOFT in Shenzhen: Is It Worth It for First-Time Visitors?](/places/oct-loft-shenzhen/).
 
@@ -153,6 +168,14 @@ If the city already is confirmed and the real question becomes whether one dense
 If the city already is confirmed and the real question becomes whether one architecture-led tech icon deserves a selective detour, the narrower page is [Can You Really Visit DJI Sky City in Shenzhen?](/guides/can-you-really-visit-dji-sky-city-in-shenzhen/).
 
 If the city already is confirmed and the real question becomes how to make `Futian`, `Ping An`, and the central core feel like a real city chapter instead of a generic business district, the narrower page is [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/).
+
+If the city already is confirmed and the real question becomes whether `Futian` as a whole is the right first-time district parent before you start splitting it into skyline guide, Lianhua Hill, or half-day execution, the narrower place page is [Futian in Shenzhen: Is It Worth It for First-Time Visitors?](/places/futian-shenzhen/).
+
+If the city already is confirmed and the real question becomes which Shenzhen blocks should actually stay core before you start adding narrower district branches, go next to [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/).
+
+If the city already is confirmed and the real question becomes how to move between those districts without turning Shenzhen into a transfer-heavy blur, go next to [How to Get Around Shenzhen for First-Time Visitors](/guides/how-to-get-around-shenzhen-for-first-time-visitors/).
+
+If the city already is confirmed and the real question becomes what needs advance booking before those districts are even locked, go next to [What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days](/guides/what-to-book-in-advance-for-shenzhen/).
 
 If the city already is confirmed and the real question becomes whether the easiest `Futian` hilltop overview deserves space before the CBD below, the narrower place page is [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/).
 
@@ -169,21 +192,31 @@ If the city already is confirmed and the real question becomes the exact half-da
 
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if the live question is which side of the pairing should carry the trip
 - read [Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works](/guides/hong-kong-to-shenzhen-for-foreign-travelers/) if the live question is the border itself
+- read [Shenzhen Airport to City Center for First-Time Visitors: Metro Line 11, Taxi, or Airport Express Bus?](/guides/shenzhen-airport-to-city-center/) if the live question is the airport arrival itself rather than movement inside the city
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is how long the city should actually get
+- read [How to Get Around Shenzhen for First-Time Visitors](/guides/how-to-get-around-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is how to keep metro, Didi, and district spread from making the stay feel wider than it needs to
+- read [What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days](/guides/what-to-book-in-advance-for-shenzhen/) if Shenzhen already is likely and the live question is which hotel, train, border, or theme-park pieces deserve early commitment
+- read [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is which parts of the city actually deserve your limited time
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if Shenzhen already is likely and the live question is how to make a fuller short stay feel intentional instead of scattered
 - read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is whether one technology-market block belongs at all
 - read [Can You Really Visit DJI Sky City in Shenzhen?](/guides/can-you-really-visit-dji-sky-city-in-shenzhen/) if Shenzhen already is likely and the live question is whether one architecture-led tech landmark is actually practical
 - read [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if Shenzhen already is likely and the live question is whether the central skyline district deserves real route space
+- read [Futian in Shenzhen: Is It Worth It for First-Time Visitors?](/places/futian-shenzhen/) if Shenzhen already is likely and the live question is whether the whole central district deserves one of your best blocks or should also become the base
 - read [Lianhua Hill Park in Shenzhen: Is It Worth It for First-Time Visitors?](/places/lianhua-hill-park/) if Shenzhen already is likely and the live question is whether the easiest Futian skyline overview should anchor the central day
 - read [A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop](/guides/a-better-first-futian-half-day-lianhua-hill-civic-center-and-when-to-stop/) if Shenzhen already is likely and the live question is the exact Futian walking order
+- read [Nanshan in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nanshan-shenzhen/) if Shenzhen already is likely and the live question is whether the wider west-side parent district deserves a real district day before you choose Houhai, Sea World, Nantou, or OCT-LOFT
 - read [Shenzhen Bay and Houhai in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shenzhen-bay-and-houhai/) if Shenzhen already is likely and the live question is whether one polished west-side modern branch deserves real time
 - read [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if Shenzhen already is likely and the live question is whether one relaxed waterfront district should carry an evening
+- read [Houhai or Sea World: Which Shenzhen West-Side Night Fits First-Time Visitors Better?](/guides/houhai-or-sea-world-which-shenzhen-west-side-night-fits-first-time-visitors-better/) if Shenzhen already is likely and the live question has already narrowed to the west side's two strongest evening branches
 - read [Nantou Ancient Town in Shenzhen: Is It Worth It for First-Time Visitors?](/places/nantou-ancient-town/) if Shenzhen already is likely and the live question is whether the city needs one softer historical-and-creative texture layer
 - read [Dongmen Old Street in Shenzhen: Is It Worth It for First-Time Visitors?](/places/dongmen-old-street/) if Shenzhen already is likely and the live question is whether one Luohu-side shopping-and-snack district should make the cut
+- read [Luohu in Shenzhen: Is It Worth It for First-Time Visitors?](/places/luohu-shenzhen/) if Shenzhen already is likely and the live question is whether the whole east-side border-and-station district deserves real route space
+- read [Futian or Luohu: Which Shenzhen Base Fits First-Time Visitors Better?](/guides/futian-or-luohu-which-shenzhen-base-fits-first-time-visitors-better/) if Shenzhen already is likely and the live question has narrowed to the central default versus the east-side practical exception
 - read [OCT-LOFT in Shenzhen: Is It Worth It for First-Time Visitors?](/places/oct-loft-shenzhen/) if Shenzhen already is likely and the live question is whether one cocktails-and-live-music district should beat a simpler west-side or central night
 - read [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is which meals deserve real time
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if Shenzhen already is likely and the live question is whether evenings should be central, west-side, waterfront, or more creative
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is where the hotel base should be
+- read [Futian or Nanshan: Which Shenzhen Area Fits First-Time Visitors Better?](/guides/futian-or-nanshan-which-shenzhen-area-fits-first-time-visitors-better/) if Shenzhen already is likely and the live question has narrowed to the city's two strongest default bases
 - read [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) if the route still is deciding between a stronger standalone city and a cleaner mainland extension
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if the next question is whether the second mainland stop should be more food-led and traditional
 - read [Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize](/guides/macau-first-time-guide/) if the route may prefer a shorter contrast city instead of another modern urban chapter

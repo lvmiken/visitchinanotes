@@ -63,6 +63,10 @@ If the trip already is happening and the real blocker is practical winter readin
 
 If the city shortlist is already feeling right but the stay length still is not, keep [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) open too.
 
+If the shortlist mostly is right but movement between the central city and winter venues still feels fuzzy, keep [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) open too.
+
+If the shortlist already makes sense and the remaining question is how a short Harbin stay should actually flow across two days, keep [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors, the strongest Harbin mix is:
@@ -146,6 +150,22 @@ The city often feels better when:
 
 It often feels worse when every block requires another big cold-weather transfer.
 
+## 4. Zhaolin Park is usually the smaller winter-night alternative, not another core anchor
+
+[Zhaolin Park Ice Lantern Fair in Harbin: A Real Winter Night or Too Small Next to Ice and Snow World?](/places/zhaolin-park/) can absolutely help the right Harbin trip.
+
+It is strongest when:
+
+- the route wants a more central and shorter winter-lantern night
+- the flagship night feels too heavy for arrival timing or cold tolerance
+- the trip wants something more specific than only `Zhongyang Street`, but less demanding than `Ice and Snow World`
+
+It is usually weaker when:
+
+- the city still needs its clearest flagship payoff
+- the stop can protect only one true evening
+- travelers are hoping for Harbin's biggest spectacle from the smaller lantern fair
+
 ## Best Harbin shortlist by trip length
 
 ## If Harbin is only 2 days
@@ -174,6 +194,12 @@ If that softer extra layer is the part still missing in your head, the sharper s
 
 If the softer extra layer you mean is specifically the calmer north-bank branch rather than just more food or recovery time, the more direct next page is [Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?](/places/sun-island-park/).
 
+If the softer extra layer you mean is one more urban-texture branch rather than another winter venue, the more direct next page is [Gogol Street in Harbin: Is It Worth It for First-Time Visitors?](/places/gogol-street/).
+
+If the softer extra layer you mean is not another street at all but one calmer `Songhua River` continuation off the central side, the more direct next page is [Stalin Park in Harbin: Is It Worth It for First-Time Visitors?](/places/stalin-park/).
+
+If the softer extra layer you mean is no longer inside Harbin city at all but one heavier outside-the-city winter branch, the sharper detour pages are [China's Snow Town from Harbin: Is It Worth the Long Winter Detour for First-Time Visitors?](/places/chinas-snow-town/) and [Yabuli Ski Resort from Harbin: Is It Worth It for First-Time Visitors?](/places/yabuli-ski-resort/). If the real choice already is `which detour belongs`, the comparison page is [China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?](/guides/snow-town-or-yabuli-which-harbin-winter-detour-fits-better/).
+
 ## Common mistakes
 
 - treating Harbin like it needs a huge attraction checklist
@@ -187,10 +213,18 @@ If the softer extra layer you mean is specifically the calmer north-bank branch 
 - read [Zhongyang Street in Harbin: When Central Street Deserves More Than a Quick Walk](/places/zhongyang-street/) if the city needs a stronger central-day anchor
 - read [Zhongyang Street in Winter: Where to Walk, What to Eat, and How to Stay Warm](/guides/zhongyang-street-in-winter-where-to-walk-what-to-eat-and-how-to-stay-warm/) if the district already is chosen and the next real question is how to structure the winter walk well
 - read [A Better Harbin Central Winter Half Day: Zhongyang Street, Saint Sophia, and When to Step Back Indoors](/guides/a-better-harbin-central-winter-half-day-zhongyang-street-saint-sophia-and-when-to-step-back-indoors/) if the main live problem is how to combine Harbin's two easiest central priorities into one smarter winter block
+- read [Zhaolin Park Ice Lantern Fair in Harbin: A Real Winter Night or Too Small Next to Ice and Snow World?](/places/zhaolin-park/) if the main live decision is whether Harbin should use a smaller central winter-lantern night instead of the full flagship evening
 - read [Sun Island in Harbin: Is It Worth It Beyond Ice and Snow World?](/places/sun-island-park/) if Harbin already has its main night and central day but the stay still may want one softer winter branch
+- read [Gogol Street in Harbin: Is It Worth It for First-Time Visitors?](/places/gogol-street/) if Harbin already has its main night and central day but the stay still may want one softer city-texture branch
+- read [Stalin Park in Harbin: Is It Worth It for First-Time Visitors?](/places/stalin-park/) if Harbin already has its main night and central day but the stay still may want one calmer riverfront extension instead of another bigger branch
+- read [China's Snow Town from Harbin: Is It Worth the Long Winter Detour for First-Time Visitors?](/places/chinas-snow-town/) if Harbin already has its main night and central day but the stay still may want one heavier fairytale-village branch beyond the city
+- read [Yabuli Ski Resort from Harbin: Is It Worth It for First-Time Visitors?](/places/yabuli-ski-resort/) if Harbin already has its main night and central day but the stay still may want one ski-resort detour rather than another city layer
+- read [China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?](/guides/snow-town-or-yabuli-which-harbin-winter-detour-fits-better/) if Harbin already has its main night and central day but the stay still has not decided which bigger outer winter branch actually improves the trip
 - read [Harbin Ice and Snow World Tickets: What Foreign Visitors Should Actually Book](/guides/harbin-ice-and-snow-world-tickets-for-foreign-visitors/) if the city is already chosen and the next question is how to book the main winter night cleanly
 - read [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/) if cold tolerance still may change which Harbin plans are realistic
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the real next decision is the hotel base
 - read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if the shortlist is mostly clear but the stop still may be too short or too long
+- read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the priorities are mostly clear but the city still needs a cleaner central-versus-Songbei movement plan
+- read [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) if the priorities are clear and the next question is how to sequence them in one strong short stay
 - read [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/) if the attraction priorities are mostly clear and the next question is how to attach the right meals to them
 - read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the shortlist is mostly clear and the remaining uncertainty is how the evenings should actually work

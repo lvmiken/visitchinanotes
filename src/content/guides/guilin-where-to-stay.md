@@ -55,6 +55,12 @@ If the city itself still is not fully confirmed, start first with [Guilin on a F
 
 If the bigger question still is not the hotel but what the region should actually do, keep [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) open too.
 
+If the base is mostly right but the next practical problem is how `Guilin Railway Station`, `Guilin North`, `Guilin West`, and the later `Yangshuo` handoff should actually be handled, keep [How to Get Around Guilin for First-Time Visitors](/guides/how-to-get-around-guilin-for-first-time-visitors/) open too.
+
+If the base question already starts at `Liangjiang Airport`, especially if the first night might skip central Guilin and go straight to Yangshuo, keep [Guilin Liangjiang Airport to City Center or Yangshuo: Shuttle, Taxi, or First-Night Transfer?](/guides/guilin-liangjiang-airport-to-city-center-or-yangshuo/) open too.
+
+If the base question already is not only map logic but which hotel, river, and Yangshuo pieces actually deserve early booking, keep [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/) open too.
+
 If the bigger question already is not the hotel but which meals belong in central Guilin versus which should wait for Yangshuo, keep [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/) open too.
 
 If the bigger question already is not the hotel but whether central Guilin should carry one real evening or simply stay light before the river chapter, keep [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/) open too.
@@ -204,6 +210,9 @@ That is where a second Guilin night becomes less automatic and `Yangshuo` become
 ## Which page to read next
 
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the hotel decision still depends on whether the region gets one day, two days, or three
+- read [How to Get Around Guilin for First-Time Visitors](/guides/how-to-get-around-guilin-for-first-time-visitors/) if the base is nearly settled but the station and city-movement logic still is not
+- read [Guilin Liangjiang Airport to City Center or Yangshuo: Shuttle, Taxi, or First-Night Transfer?](/guides/guilin-liangjiang-airport-to-city-center-or-yangshuo/) if the base is nearly settled but the airport-to-hotel or airport-to-Yangshuo handoff still is not
+- read [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/) if the base is nearly settled and the next question is which nights, trains, or scenic blocks deserve early protection
 - read [Where to Eat in Guilin for First-Time Visitors](/guides/where-to-eat-in-guilin-for-first-time-visitors/) if the base is nearly settled and the next question is which meals central Guilin should carry before the scenic branch moves on
 - read [What to Do in Guilin at Night for First-Time Visitors](/guides/what-to-do-in-guilin-at-night-for-first-time-visitors/) if the base is nearly settled and the next question is whether Guilin deserves a more polished night or a lighter central finish
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the hotel choice mainly depends on whether the cruise is the core of the stop

@@ -71,6 +71,8 @@ Use this page if you are asking:
 
 If the district already is chosen and the live question is what kind of meal should carry it, the narrower execution page is [Where to Eat in Dongmen for First-Time Visitors](/guides/where-to-eat-in-dongmen-for-first-time-visitors/).
 
+If the live question is wider than one shopping street and you still need to decide whether the whole east-side `Luohu` district helps your route at all, the broader companion page is [Luohu in Shenzhen: Is It Worth It for First-Time Visitors?](/places/luohu-shenzhen/).
+
 ## The short answer
 
 For many first-time visitors, yes, `Dongmen Old Street` is worth it.
@@ -201,5 +203,6 @@ Dongmen becomes weaker when travelers:
 - read [Where to Eat in Dongmen for First-Time Visitors](/guides/where-to-eat-in-dongmen-for-first-time-visitors/) if the district already is chosen and the live question is how to use the food layer well
 - read [What to Do in Shenzhen at Night for First-Time Visitors](/guides/what-to-do-in-shenzhen-at-night-for-first-time-visitors/) if the broader evening structure still is open
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the value of Dongmen still depends on whether a Luohu base makes it easy enough
+- read [Luohu in Shenzhen: Is It Worth It for First-Time Visitors?](/places/luohu-shenzhen/) if the real question is whether the whole east-side district helps more than just this one shopping block
 - read [Shekou Sea World in Shenzhen: Is It Worth It for First-Time Visitors?](/places/shekou-sea-world/) if the live choice still is cheaper Luohu energy versus calmer waterfront
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if the city itself still feels too broad

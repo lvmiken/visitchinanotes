@@ -121,6 +121,8 @@ This is often the least romantic crossing.
 
 It is also often one of the most useful.
 
+If the live question now is not the checkpoint itself but whether that `Luohu` side of Shenzhen is actually a good first district after you cross, the narrower place page is [Luohu in Shenzhen: Is It Worth It for First-Time Visitors?](/places/luohu-shenzhen/).
+
 ### Choose Futian if the stay is central and rail-friendly
 
 EyeShenzhen's current guide describes `Futian Checkpoint` as best for direct Hong Kong MTR access and a more central Shenzhen landing.
@@ -204,6 +206,8 @@ That is often where `Futian` starts beating more random-sounding crossings.
 
 - read [Shenzhen Travel Guide for First-Time Visitors](/guides/shenzhen-first-time-guide/) if Shenzhen itself still is not fully shaped
 - read [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the border choice depends on the hotel base
+- read [Luohu in Shenzhen: Is It Worth It for First-Time Visitors?](/places/luohu-shenzhen/) if the crossing likely is `Lo Wu / Luohu` and the next question is whether the east-side district itself deserves real route space
+- read [Futian or Luohu: Which Shenzhen Base Fits First-Time Visitors Better?](/guides/futian-or-luohu-which-shenzhen-base-fits-first-time-visitors-better/) if the crossing likely is rail-led and the next question is which of the two easiest post-crossing bases actually fits the stay better
 - read [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if the real question is day trip versus overnight
 - read [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/) if Hong Kong still is the anchor and Shenzhen is only the extension
 - read [Guangzhou with Hong Kong or Shenzhen: How to Shape the Route](/guides/guangzhou-hong-kong-or-shenzhen-route/) if the wider South China route still is not locked

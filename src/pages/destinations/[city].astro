@@ -12,6 +12,28 @@ import { guideStages } from "../../lib/guideStages";
 import { findCityEntry, getCitySlug, uniqueCityEntries } from "../../lib/cityEntries";
 import { getCitySocialImage } from "../../lib/socialImages";
 
+const broadTopicFallbacks = {
+  "choose-route": ["plan-your-trip", "where-to-start"],
+  "solve-basics": [],
+  "book-transport": ["high-speed-rail", "train-vs-flight", "airport-to-city"],
+};
+
+function formatList(items) {
+  if (items.length === 0) {
+    return "";
+  }
+
+  if (items.length === 1) {
+    return items[0];
+  }
+
+  if (items.length === 2) {
+    return `${items[0]} and ${items[1]}`;
+  }
+
+  return `${items.slice(0, -1).join(", ")}, and ${items.at(-1)}`;
+}
+
 export async function getStaticPaths() {
   const cities = await getCollection("cities");
 
@@ -47,57 +69,118 @@ const featuredPlaceQuickLinks = relatedPlaces.slice(0, 4);
 
 const allTopics = await getCollection("topics", ({ data }) => !data.draft);
 const citySlug = getCitySlug(city);
-const relevantTopics = allTopics
+const featuredTopicOrder = new Map(city.data.featuredTopicSlugs.map((slug, index) => [slug, index]));
+const topicSignals = allTopics
   .map((topic) => {
     let score = 0;
+    const isFeaturedTopic = city.data.featuredTopicSlugs.includes(topic.slug);
+    const matchesFeaturedCity = topic.data.featuredCitySlugs.includes(citySlug);
+    const matchesAffectedCity = topic.data.affectsCities.includes(city.data.name);
+    const hasDirectCityMatch = matchesFeaturedCity || matchesAffectedCity;
+    const hasAnyCityMatch = isFeaturedTopic || hasDirectCityMatch;
 
-    if (city.data.featuredTopicSlugs.includes(topic.slug)) {
+    if (!hasAnyCityMatch) {
+      return null;
+    }
+
+    if (isFeaturedTopic) {
       score += 100;
     }
 
-    if (topic.data.featuredCitySlugs.includes(citySlug)) {
+    if (matchesFeaturedCity) {
       score += 70;
     }
 
-    if (topic.data.affectsCities.includes(city.data.name)) {
+    if (matchesAffectedCity) {
       score += 40;
     }
 
-    if (topic.data.planningMoment === "solve-basics") {
+    if (hasDirectCityMatch && topic.data.planningMoment === "solve-basics") {
       score += 8;
     }
 
-    if (topic.data.planningMoment === "book-transport") {
+    if (hasDirectCityMatch && topic.data.planningMoment === "book-transport") {
       score += 6;
     }
 
-    return { topic, score };
+    return {
+      topic,
+      score,
+      isFeaturedTopic,
+      hasDirectCityMatch,
+    };
   })
-  .sort((a, b) => {
-    if (b.score !== a.score) {
-      return b.score - a.score;
-    }
+  .filter(Boolean);
 
-    return b.topic.data.publishDate.valueOf() - a.topic.data.publishDate.valueOf();
-  })
-  .map(({ topic }) => topic)
-  .slice(0, 8);
+function compareTopicSignals(a, b) {
+  if (b.score !== a.score) {
+    return b.score - a.score;
+  }
+
+  const featuredOrderA = featuredTopicOrder.get(a.topic.slug) ?? Number.POSITIVE_INFINITY;
+  const featuredOrderB = featuredTopicOrder.get(b.topic.slug) ?? Number.POSITIVE_INFINITY;
+
+  if (featuredOrderA !== featuredOrderB) {
+    return featuredOrderA - featuredOrderB;
+  }
+
+  const dateA = a.topic.data.updatedDate ?? a.topic.data.publishDate;
+  const dateB = b.topic.data.updatedDate ?? b.topic.data.publishDate;
+
+  return dateB.valueOf() - dateA.valueOf();
+}
+
+function pickTopicsForMoment(planningMoment, limit) {
+  const momentSignals = topicSignals.filter((signal) => signal.topic.data.planningMoment === planningMoment);
+  const directMatches = momentSignals.filter((signal) => signal.hasDirectCityMatch).sort(compareTopicSignals);
+  const featuredMatches = momentSignals.filter((signal) => signal.isFeaturedTopic).sort(compareTopicSignals);
+  const fallbackMatches = (broadTopicFallbacks[planningMoment] ?? [])
+    .map((slug) => allTopics.find((topic) => topic.slug === slug && topic.data.planningMoment === planningMoment))
+    .filter(Boolean);
+  const selected = [];
+  const seen = new Set();
+
+  for (const group of [
+    directMatches.map((signal) => signal.topic),
+    fallbackMatches,
+    featuredMatches.map((signal) => signal.topic),
+  ]) {
+    for (const topic of group) {
+      if (seen.has(topic.slug)) {
+        continue;
+      }
+
+      seen.add(topic.slug);
+      selected.push(topic);
+
+      if (selected.length >= limit) {
+        return selected;
+      }
+    }
+  }
+
+  return selected;
+}
+
+const chooseRouteTopics = pickTopicsForMoment("choose-route", 2);
+const arrivalTopics = pickTopicsForMoment("solve-basics", 2);
+const transportTopics = pickTopicsForMoment("book-transport", 2);
 
 const topicMomentsForCity = [
   {
     title: `Before You Finalize ${city.data.name}`,
     description: "Read these first if you are still deciding whether this city fits the route and how it should be used.",
-    topics: relevantTopics.filter((topic) => topic.data.planningMoment === "choose-route").slice(0, 2),
+    topics: chooseRouteTopics,
   },
   {
     title: "Before Arrival",
     description: "These topics reduce day-one friction around entry, internet, payment, and getting into the city smoothly.",
-    topics: relevantTopics.filter((topic) => topic.data.planningMoment === "solve-basics").slice(0, 2),
+    topics: arrivalTopics,
   },
   {
     title: "Before You Book Transport",
     description: "Use these when rail, flights, airport transfers, or intercity timing start to shape the route.",
-    topics: relevantTopics.filter((topic) => topic.data.planningMoment === "book-transport").slice(0, 2),
+    topics: transportTopics,
   },
 ].filter((group) => group.topics.length > 0);
 
@@ -136,22 +219,39 @@ const practicalGuides = relatedGuides
   })
   .map(({ guide }) => guide)
   .slice(0, 4);
+const choiceGuide =
+  relatedGuides.find((guide) => guide.data.guideStage === "choose-destination") ?? relatedGuides[0];
+const stayGuide =
+  practicalGuides.find((guide) => guide.slug.includes("where-to-stay")) ??
+  relatedGuides.find((guide) => guide.data.guideStage === "plan-stay");
+const logisticsGuide =
+  practicalGuides.find((guide) =>
+    ["airport-to-city", "how-to-get-around", "what-to-book-in-advance"].some((token) =>
+      guide.slug.includes(token),
+    ),
+  ) ??
+  relatedGuides.find((guide) => guide.data.guideStage === "solve-logistics");
+const routeTopic = chooseRouteTopics[0];
+const basicsTopic = arrivalTopics[0];
+const primaryPlace = relatedPlaces[0];
+const secondaryPlace = relatedPlaces[1];
+const tripPaceNarrative = city.data.tripPace.endsWith(".")
+  ? city.data.tripPace
+  : `${city.data.tripPace}.`;
 
 const clusterSteps = [
   {
     title: `Decide whether ${city.data.name} fits the trip`,
     description: `Start with pages that help you judge pace, trip length, and whether ${city.data.name} should be a main stop or an add-on.`,
-    links: [
-      ...relatedGuides
-        .filter((guide) => guide.data.guideStage === "choose-destination")
-        .map((guide) => ({
-          href: `/guides/${guide.slug}/`,
-          label: guide.data.title,
-          kind: "Guide",
-        })),
-      ...relevantTopics
-        .filter((topic) => topic.data.planningMoment === "choose-route")
-        .map((topic) => ({
+      links: [
+        ...relatedGuides
+          .filter((guide) => guide.data.guideStage === "choose-destination")
+          .map((guide) => ({
+            href: `/guides/${guide.slug}/`,
+            label: guide.data.title,
+            kind: "Guide",
+          })),
+        ...chooseRouteTopics.map((topic) => ({
           href: `/topics/${topic.slug}/`,
           label: topic.data.title,
           kind: "Topic",
@@ -194,10 +294,7 @@ const clusterSteps = [
   {
     title: "Lock in practical details",
     description: "Use supporting topic pages once payments, rail timing, and booking assumptions start to shape what is realistic.",
-    links: relevantTopics
-      .filter((topic) =>
-        ["solve-basics", "book-transport"].includes(topic.data.planningMoment),
-      )
+    links: [...arrivalTopics, ...transportTopics]
       .map((topic) => ({
         href: `/topics/${topic.slug}/`,
         label: topic.data.title,
@@ -294,6 +391,83 @@ const socialImage = getCitySocialImage(city);
       />
     </section>
   )}
+
+  <section class="section-block">
+    <h2 class="section-title">How {city.data.name} Fits A First Trip</h2>
+    <div class="card-surface narrative-block">
+      <p>
+        {city.data.name} is usually strongest for travelers who want{" "}
+        <strong>{formatList(city.data.idealFor)}</strong>. Most first-time visits work best when the city is given{" "}
+        <strong>{city.data.suggestedStay}</strong>, because that is normally enough space to protect the main payoff
+        without making the route feel padded.
+      </p>
+      <p>
+        {tripPaceNarrative} For many readers,
+        the real planning question is not just whether to go, but what role the stop should play in the wider route.
+        If you are still deciding that part, start with{" "}
+        {choiceGuide ? <a href={`/guides/${choiceGuide.slug}/`}>{choiceGuide.data.title}</a> : city.data.seoTitle}
+        {routeTopic && (
+          <>
+            {" "}and{" "}
+            <a href={`/topics/${routeTopic.slug}/`}>{routeTopic.data.title}</a>
+          </>
+        )}
+        .
+      </p>
+      <p>
+        {city.data.name} also becomes easier once you decide early whether it should pair with{" "}
+        <strong>{formatList(city.data.pairWith)}</strong> or carry more weight on its own. That is usually the point
+        where hotel area, transfer timing, and one or two anchor places start mattering more than the raw attraction
+        count.
+        {stayGuide && (
+          <>
+            {" "}A good next move is{" "}
+            <a href={`/guides/${stayGuide.slug}/`}>{stayGuide.data.title}</a>
+          </>
+        )}
+        {logisticsGuide && (
+          <>
+            {" "}plus{" "}
+            <a href={`/guides/${logisticsGuide.slug}/`}>{logisticsGuide.data.title}</a>
+          </>
+        )}
+        {basicsTopic && (
+          <>
+            {" "}so the practical side stays realistic alongside{" "}
+            <a href={`/topics/${basicsTopic.slug}/`}>{basicsTopic.data.title}</a>
+          </>
+        )}
+        .
+      </p>
+      {(primaryPlace || secondaryPlace) && (
+        <p>
+          Once one specific sight or district starts shaping the day, move from general planning into place pages.
+          {primaryPlace && (
+            <>
+              {" "}Most first-time visitors begin with{" "}
+              <a href={`/places/${primaryPlace.slug}/`}>{primaryPlace.data.title}</a>
+            </>
+          )}
+          {secondaryPlace && (
+            <>
+              {" "}and{" "}
+              <a href={`/places/${secondaryPlace.slug}/`}>{secondaryPlace.data.title}</a>
+            </>
+          )}
+          {" "}before they lock the day order.
+        </p>
+      )}
+      {city.data.planningPriorities.length > 0 && (
+        <ul class="narrative-checklist">
+          {city.data.planningPriorities.map((priority) => (
+            <li>
+              <strong>{priority.title}:</strong> {priority.description}
+            </li>
+          ))}
+        </ul>
+      )}
+    </div>
+  </section>
 
   <section class="section-block">
     <h2 class="section-title">Start Here in {city.data.name}</h2>
@@ -458,6 +632,19 @@ const socialImage = getCitySocialImage(city);
 </BaseLayout>
 
 <style>
+  .narrative-block p + p {
+    margin-top: 1rem;
+  }
+
+  .narrative-checklist {
+    margin: 1.25rem 0 0;
+    padding-left: 1.2rem;
+  }
+
+  .narrative-checklist li + li {
+    margin-top: 0.7rem;
+  }
+
   .hub-link-list {
     margin: 1rem 0 0;
     padding: 0;

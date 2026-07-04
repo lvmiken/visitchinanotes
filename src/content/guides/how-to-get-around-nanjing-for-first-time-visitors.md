@@ -40,6 +40,8 @@ It is that travelers mix together:
 
 This page was checked against current official English-language city material on **June 26, 2026**, including the Nanjing government transport hub [Transportation](https://english.nanjing.gov.cn/LivinginNanjing/Transportation/), the official metro how-to page [How to buy tickets for Nanjing Metro](https://english.nanjing.gov.cn/LivinginNanjing/Transportation/202405/t20240508_4660988.html), and the official [Service Guide for Foreigners](https://english.nanjing.gov.cn/LINKS/ServiceGuideforForeigners/202405/P020241213555830235764.pdf), which explains metro, bus, Alipay QR use, and ride-hailing basics for foreign travelers. I also checked the official scenic-page transport note for [Dr. Sun Yat-sen's Mausoleum](https://english.nanjing.gov.cn/IWantto/Travel/PlacestoGo/ScenicSpots/), which confirms metro-linked access to one of the city's biggest landmarks.
 
+If the live question still is only the airport arrival itself, the narrower page is [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/).
+
 ## The short answer
 
 For many first-time visitors, the strongest Nanjing transport pattern is:
@@ -114,6 +116,7 @@ If the stay is overnight, read [Best Area to Stay in Nanjing for First-Time Visi
 ## Which page to read next
 
 - read [Best Area to Stay in Nanjing for First-Time Visitors](/guides/nanjing-where-to-stay/) if the hotel base still is open
+- read [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) if the real transport problem still starts before the city at the airport itself
 - read [Xinjiekou or Confucius Temple: Where to Stay in Nanjing for First-Time Visitors](/guides/xinjiekou-or-confucius-temple-where-to-stay-in-nanjing-for-first-time-visitors/) if the hotel question already is narrower
 - read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if the route shape already is fixed and the next question is how the rail version should function once you arrive
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if you want transport logic inside a real route
