@@ -2,7 +2,7 @@
 title: "What to Do in Hong Kong at Night for First-Time Visitors"
 description: "Choose between the Tsim Sha Tsui waterfront, a harbour cruise, Central, Temple Street, Causeway Bay, Wan Chai, or West Kowloon based on your energy and how iconic or relaxed the night should feel."
 publishDate: 2026-06-23
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -34,6 +34,8 @@ faq:
 
 Hong Kong at night is one of the clearest reasons the city works so well for first-time visitors.
 
+If you want the broader route-role page with Hong Kong's pairings, guides, and district clusters collected together while you shape the evenings, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
+
 The trick is not trying to do every famous evening idea at once.
 
 Most weak Hong Kong nights fail for one of two reasons:
@@ -57,6 +59,7 @@ Use this page if you are asking:
 If your broader Hong Kong structure is still unsettled, start with [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/).
 
 If the hotel base is still fuzzy, keep [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) open too.
+If the hotel base is already narrowed to `Central` or `Tsim Sha Tsui`, keep [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/) open too.
 
 If the trip still is not fully shaped day by day, keep [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) open too.
 
@@ -378,6 +381,7 @@ That already gives the city more range than leaving every night unplanned.
 - read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if the night choice still depends on whether the return should be ferry-led, MTR-led, or simply cleaned up by taxi
 - read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if the night choice still depends on whether a cruise, special dinner, or one timed skyline branch deserves early commitment
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if hotel base is what will decide whether evenings feel easy or annoying
+- read [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/) if the evening decision is really a base decision between Hong Kong's easiest skyline side and its strongest dinner-and-walking side
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if the real question is whether the city has enough room for both a skyline night and a district-led night
 - read [What to Eat in Hong Kong for First-Time Visitors](/guides/what-to-eat-in-hong-kong-for-first-time-visitors/) if the evening decision is also tied to whether dinner should be dim sum, roast meats, Temple Street snacks, or a stronger local-food night
 - read [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/) if the remaining skyline decision is elevated panorama versus harbour or cruise

@@ -119,7 +119,7 @@ Choose `Tsim Sha Tsui` if:
 
 That is why `Central` is usually the stronger Hong Kong Island texture answer, while `Tsim Sha Tsui` is usually the stronger first iconic answer.
 
-If that exact contrast still is live, the companion pages are [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/) and [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/).
+If that exact contrast still is live, the companion pages are [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/), [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/), and [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/).
 
 ## Central vs Sheung Wan
 
@@ -239,6 +239,7 @@ It is the place that often makes Hong Kong deeper on the second day.
 - read [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/) if the live question already is what should actually carry the meal there
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place Central inside a realistic short stay
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the district question is spilling into the hotel decision
+- read [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/) if the real choice is no longer whether Central is worth a district block, but whether it should actually beat Tsim Sha Tsui as the hotel base
 - read [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/) if the real choice still is classic harbourfront answer versus more lived-in Hong Kong Island rhythm
 - read [Wan Chai in Hong Kong: Is It Worth It for First-Time Visitors?](/places/wan-chai/) if the real choice still is more edited walk-and-eat Central versus a broader nightlife district
 - read [Causeway Bay in Hong Kong: Is It Worth It for First-Time Visitors?](/places/causeway-bay/) if the real choice still is curated neighborhood rhythm versus denser shopping-and-city-energy

@@ -1,6 +1,6 @@
 # Content Todo
 
-Last updated: 2026-07-04
+Last updated: 2026-07-05
 
 ## Goal
 
@@ -22,6 +22,7 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 
 ## Recent maintenance
 
+- 2026-07-05: Added a dedicated Hong Kong base-comparison page for `Central vs Tsim Sha Tsui`, then linked it back into the city's first-time, stay, 3-day, night, both district-parent place pages, and hub layers so `Central or Tsim Sha Tsui / stay in Central or Tsim Sha Tsui / Hong Kong Island or Kowloon first time / best Hong Kong base for first-time visitors` searches now land on a direct two-way answer instead of bouncing between the broader stay guide and separate district parents.
 - 2026-07-05: Added a dedicated Shenzhen base-comparison page for `Futian vs Luohu`, then linked it back into the city's first-time, stay, trip-length, Hong Kong-crossing, both district-parent place pages, and hub layers so `Futian or Luohu / stay in Futian or Luohu / Lo Wu vs Futian / safer Shenzhen base after Hong Kong` searches now land on a direct two-way answer instead of bouncing between broader hotel guidance and separate district parents.
 - 2026-07-05: Added a dedicated Shenzhen west-side evening comparison page for `Houhai vs Sea World`, then linked it back into the city's first-time, shortlist, stay, trip-length, transport, itinerary, night, both west-side child-place pages, the Nanshan parent, and hub layers so `Houhai or Sea World / Shenzhen Bay or Sea World / best west-side night Shenzhen / polished skyline night vs calmer waterfront dinner` searches now land on a direct two-way answer instead of bouncing between separate place pages only.
 - 2026-07-04: Added a dedicated Shenzhen comparison page for `Futian vs Nanshan`, then linked it back into the city's first-time, stay, trip-length, transport, itinerary, both district-parent place pages, and hub layers so `Futian or Nanshan / stay in Futian or Nanshan / Shenzhen CBD vs west side / which Shenzhen base is better` searches now land on a direct two-way answer instead of bouncing between the broader stay guide and separate district parents.

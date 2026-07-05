@@ -117,7 +117,7 @@ Choose `Central` if:
 
 That is why `Tsim Sha Tsui` is usually the stronger first answer and `Central` is usually the stronger texture-and-rhythm answer.
 
-If that exact contrast still is live, the broader companion pages are [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) and [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/).
+If that exact contrast still is live, the broader companion pages are [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/), [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/), and [Where to Eat in Central and SoHo for First-Time Visitors](/guides/where-to-eat-in-central-and-soho-for-first-time-visitors/).
 
 ## Tsim Sha Tsui vs West Kowloon
 
@@ -221,6 +221,7 @@ It only becomes overrated when people keep using it after it already has done it
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the real question is whether one classic crossing should replace another underground transfer or promenade repeat
 - read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the real question is which harbour format should carry the skyline payoff
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the district question is spilling into the hotel decision
+- read [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/) if the real question is no longer whether Tsim Sha Tsui is worth it, but whether it should actually beat Central as the base
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you want to place Tsim Sha Tsui inside a realistic short stay
 - read [West Kowloon Cultural District in Hong Kong: Is It Worth It for First-Time Visitors?](/places/west-kowloon-cultural-district/) if the real choice still is busier classic harbourfront versus a calmer cultural waterfront variation
 - read [Sham Shui Po in Hong Kong: Is It Worth It for First-Time Visitors?](/places/sham-shui-po/) if the real choice still is classic first-time Kowloon versus a more grounded local-texture Kowloon branch

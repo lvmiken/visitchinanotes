@@ -2,7 +2,7 @@
 title: "Hong Kong 3-Day Itinerary for First-Time Visitors"
 description: "Use this Hong Kong 3-day itinerary to plan a first trip around Tsim Sha Tsui, Central and Sheung Wan, one strong skyline night, and one realistic Kowloon culture day without wasting time on unnecessary backtracking."
 publishDate: 2026-06-23
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -37,6 +37,8 @@ faq:
 
 Hong Kong is one of the easiest big-city stops in Asia to turn into a strong `3-day` trip, but the itinerary works best when you plan by district rhythm instead of trying to clear a giant sightseeing checklist.
 
+If you want the broader route-role page with Hong Kong's pairings, guides, and district clusters collected together while you pressure-test the day flow, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
+
 ## Source check
 
 This page was checked against current official sources on **June 23, 2026**, including the Hong Kong Tourism Board's main [Travel Guide](https://www.discoverhongkong.com/eng/travel-guide.html), current [Top Picks and attractions](https://www.discoverhongkong.com/eng/attractions.html), official [Neighbourhoods hub](https://www.discoverhongkong.com/eng/neighbourhoods.html), [Old Town Central](https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html), [Wan Chai](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai.html), [Causeway Bay](https://www.discoverhongkong.com/eng/neighbourhoods/wan-chai/causeway-bay-insiders-favourites.html), [West Kowloon](https://www.discoverhongkong.com/eng/neighbourhoods/west-kowloon.html), [Sham Shui Po](https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html), HKTB's [Getting Around Hong Kong](https://www.discoverhongkong.com/eng/travel-guide/traveller-essentials/getting-around.html) guide, and MTR's official [tourist transport overview](https://www.mtr.com.hk/en/customer/tourist/travelling_in_hk.html). I am mainly using those sources to keep the district roles, movement logic, and first-time route structure honest. Exact opening hours, queue patterns, and weather can still change.
@@ -52,6 +54,7 @@ This plan is best for travelers who:
 If Hong Kong still is not fully confirmed, start with [Hong Kong for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/hong-kong-first-time-guide/).
 
 If the hotel base is still not right, keep [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) open too.
+If the hotel base is already narrowed to Hong Kong's two clearest first-time answers, keep [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/) open too.
 
 If the broader decision still is whether Hong Kong itself should win over Shenzhen, keep [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/) open too.
 
@@ -138,6 +141,7 @@ as if there were no energy cost.
 If the live question already is not `should Day 1 carry one skyline branch?` but `should that elevated skyline branch actually be Victoria Peak?`, the more focused companion page is [Victoria Peak in Hong Kong: Is It Worth It for First-Time Visitors?](/places/victoria-peak/).
 
 If the live question already is not whether Day 1 should start on the Kowloon side but whether `Tsim Sha Tsui` itself deserves to be the district backbone, the more focused companion page is [Tsim Sha Tsui in Hong Kong: Is It Worth It for First-Time Visitors?](/places/tsim-sha-tsui/).
+If the live question already is not whether Day 1 belongs on the Kowloon side at all but whether the hotel should actually sleep in `Tsim Sha Tsui` or shift the whole stay toward `Central`, the sharper companion page is [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/).
 
 If the live question already is not whether Day 1 needs one classic skyline answer but whether the easiest Tsim Sha Tsui harbourfront version is enough by itself, the more focused companion page is [Avenue of Stars in Hong Kong: Is It Worth It for First-Time Visitors?](/places/avenue-of-stars/).
 
@@ -285,6 +289,7 @@ That is enough for the city to feel dense, legible, and memorable without becomi
 ## Which page to read next
 
 - read [Best Area to Stay in Hong Kong for First-Time Visitors](/guides/hong-kong-where-to-stay/) if the hotel base still is not right
+- read [Central or Tsim Sha Tsui: Which Hong Kong Base Fits First-Time Visitors Better?](/guides/central-or-tsim-sha-tsui-which-hong-kong-base-fits-first-time-visitors-better/) if the hotel base mainly comes down to Hong Kong's easiest Kowloon answer versus its strongest island-side answer
 - read [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) if you still are not sure whether this stay should be 2, 3, or 4 days
 - read [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) if the route shape mostly works and the next live question is which districts, viewpoints, and detours actually deserve protection
 - read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if the route shape mostly works and the next live question is how MTR, ferries, and selective taxi use should actually carry the days
