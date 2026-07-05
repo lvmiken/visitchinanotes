@@ -2,7 +2,7 @@
 title: "What to Do in Shanghai at Night for First-Time Visitors"
 description: "Choose between the Bund, a Huangpu River cruise, Xintiandi, the French Concession, Jing'an, or a show-style evening based on your energy, hotel area, and how polished you want the night to feel."
 publishDate: 2026-06-20
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Shanghai at night is one of the clearest reasons the city works so well for first-time visitors.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you shape the evenings, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 The trick is not trying to do every famous evening idea at once.
 

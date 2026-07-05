@@ -2,7 +2,7 @@
 title: "Guilin Liangjiang Airport to City Center or Yangshuo: Shuttle, Taxi, or First-Night Transfer?"
 description: "Compare Guilin airport shuttles, taxi or Didi, and the direct Yangshuo airport bus for first-time visitors deciding between central Guilin, Guilin North, or going straight to Yangshuo."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "solve-logistics"
 tripLength: "arrival day"
@@ -35,6 +35,8 @@ faq:
 ---
 
 If you are landing at **Guilin Liangjiang International Airport (KWL)**, the first real decision is not only:
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 `How do I get into town?`
 

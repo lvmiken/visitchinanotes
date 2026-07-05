@@ -2,7 +2,7 @@
 title: "What to Do in Xi'an at Night for First-Time Visitors"
 description: "Choose the Xi'an night plan that fits your trip, whether you want Muslim Quarter energy, Bell Tower and South Gate, the pagoda side, or Tang Paradise."
 publishDate: 2026-06-21
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Xi'an at night is one of the main reasons the city can feel fuller than a simple history stop.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you shape the evenings, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That matters because many short Xi'an trips protect the Terracotta Army and the daytime old-city layer, but leave the evenings vague. Then the city feels thinner than it really is.
 

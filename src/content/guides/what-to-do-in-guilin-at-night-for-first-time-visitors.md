@@ -2,7 +2,7 @@
 title: "What to Do in Guilin at Night for First-Time Visitors"
 description: "Choose between Two Rivers and Four Lakes, Zhengyang Walking Street, a lighter central Guilin evening, or simply saving energy for the Li River so your Guilin night fits the region."
 publishDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Guilin at night is one of those travel questions that sounds smaller than it is.
+
+If you want the route role, city guides, and core Guilin place pages collected in one view while you shape the evening, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 That is because the evening usually decides whether Guilin feels:
 

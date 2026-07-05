@@ -2,7 +2,7 @@
 title: "Best Things to Do in Qingdao for First-Time Visitors"
 description: "Find out which things to do in Qingdao are actually worth your limited time, how to choose between symbolic waterfront stops, slower coastal walks, a mountain day, and lighter culture, and how to build a fuller first trip without overcomplicating the city."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "qingdao"
 guideStage: "build-itinerary"
 tripLength: "2 to 3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Qingdao are usually not the ones that create the longest list.
+
+If you want the broader cluster page with Qingdao's route role, supporting guides, and place pages together while you shortlist the city, keep the [Qingdao destination hub](/destinations/qingdao/) open too.
 
 They are the ones that let the city do what it is actually good at: giving a first China trip one lighter coastal rhythm, one memorable seafront image, one slower walking block, and enough room that the stop still feels restorative instead of overbuilt.
 

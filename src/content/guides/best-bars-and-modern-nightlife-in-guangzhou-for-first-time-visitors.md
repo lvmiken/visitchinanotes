@@ -2,7 +2,7 @@
 title: "Best Bars and Modern Nightlife in Guangzhou for First-Time Visitors"
 description: "Choose between Beijing Road, Canton Tower and Zhujiang New Town, Taikoo Cang, and a looser old-city night so your Guangzhou bars or nightlife plan actually fits the trip."
 publishDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Guangzhou nightlife is easy to misread from a distance.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 The city is not weak at night.
 

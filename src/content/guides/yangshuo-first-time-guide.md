@@ -2,7 +2,7 @@
 title: "Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through"
 description: "Plan a first trip to Yangshuo with advice on whether it deserves an overnight, how it fits with Guilin, and what the town adds beyond the Li River cruise itself."
 publishDate: 2026-06-26
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "choose-destination"
 tripLength: "1 to 2 days"
@@ -30,6 +30,8 @@ faq:
 ---
 
 `Yangshuo` is often the part of the Guilin region that travelers remember most warmly.
+
+If you want the broader cluster page with Yangshuo's route role, supporting guides, and place pages together, keep the [Yangshuo destination hub](/destinations/yangshuo/) open while you plan.
 
 Not because it is the biggest name.
 

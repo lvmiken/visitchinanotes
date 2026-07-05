@@ -2,7 +2,7 @@
 title: "Li River Cruise or Yulong River Rafting? The Better First Scenic Day in Guilin and Yangshuo"
 description: "Choose between the Li River cruise and Yulong River rafting by comparing iconic scenery, pace, logistics, and what each one actually adds to a first Guilin and Yangshuo trip."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "1 scenic day"
@@ -32,6 +32,8 @@ faq:
 ---
 
 The easiest mistake in the Guilin region is assuming every pretty river experience is doing the same job.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 It is not.
 

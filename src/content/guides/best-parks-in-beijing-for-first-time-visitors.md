@@ -2,7 +2,7 @@
 title: "Best Parks in Beijing for First-Time Visitors"
 description: "A practical guide to the best parks in Beijing for first-time visitors, including which park fits the imperial core, which one deserves a half day, and which ones are best as slower add-ons."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 park block"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Beijing has enough good parks to make the wrong choice surprisingly easy.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That sounds dramatic, but it is true. A park can make the trip breathe better, or it can quietly take time away from something the route needed more.
 

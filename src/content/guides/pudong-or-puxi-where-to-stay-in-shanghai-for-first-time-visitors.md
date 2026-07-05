@@ -2,7 +2,7 @@
 title: "Pudong or Puxi: Where to Stay in Shanghai for First-Time Visitors"
 description: "Compare Pudong and Puxi so first-time visitors can choose the better Shanghai hotel base based on skyline priorities, airport logistics, walkability, and how short the trip is."
 publishDate: 2026-06-23
-updatedDate: 2026-07-01
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -34,6 +34,8 @@ faq:
 ---
 
 This is one of the most useful Shanghai hotel questions because many first-time visitors do not really choose between two hotel districts.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 They choose between two different versions of the city.
 

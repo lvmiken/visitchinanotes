@@ -2,7 +2,7 @@
 title: "How to Get Around Xi'an: Metro, Taxi, and Didi for First-Time Visitors"
 description: "Learn when Xi'an metro is enough, when taxi or Didi saves time, and how your hotel area changes transport on a short first trip."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Xi'an transport is usually easier than first-time visitors expect.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you solve transport, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That is exactly why the city gets better when you stop overplanning it.
 

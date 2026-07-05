@@ -2,7 +2,7 @@
 title: "Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?"
 description: "Choose where to stay in Guilin for a first trip by comparing central Guilin, simpler transit-led bases, and the point where staying in Yangshuo is actually the better scenic answer."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "plan-stay"
 tripLength: "1 to 2 nights"
@@ -33,6 +33,8 @@ faq:
 ---
 
 In Guilin, where you stay matters less as a luxury question and more as a route-shape question.
+
+If you want the route role, city guides, and core Guilin place pages collected in one view while you compare bases, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 A strong base makes the region feel easy.
 

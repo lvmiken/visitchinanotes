@@ -2,7 +2,7 @@
 title: "Best Chongqing Street Snacks for First-Time Visitors"
 description: "Decide which Chongqing street snacks are actually worth trying, whether Bayi Road or Ciqikou fits your route better, and when a snack block should support the trip instead of replacing a real meal."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 snack block or 1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chongqing street snacks are worth trying, but they work best when they stay in their lane.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 They are usually not the main reason to come to the city, and they usually should not replace the meals that define a first Chongqing trip. What they do very well is add texture: one central snack street after dark, one old-street bite during a slower afternoon, one dessert stop that keeps the evening moving.
 

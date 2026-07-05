@@ -2,7 +2,7 @@
 title: "A Practical 3-Day Chongqing Itinerary for First-Time Visitors"
 description: "Use this practical 3-day Chongqing itinerary to combine skyline views, food districts, a realistic Yuzhong day, one stronger night plan, and one lighter buffer day without wasting energy on too many cross-city moves."
 publishDate: 2026-06-22
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Chongqing usually feels better when the itinerary protects the city's intensity instead of forcing it into a flat-city sightseeing template.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 That matters because many first-time visitors either rush it into one chaotic skyline stop or overload it with too many separate viewpoints, old streets, and dinner districts.
 

@@ -2,7 +2,7 @@
 title: "Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors"
 description: "Compare the Bund side and French Concession so first-time visitors can choose the better Shanghai hotel base for skyline nights, walkable food, easier evenings, and short-trip efficiency."
 publishDate: 2026-06-23
-updatedDate: 2026-07-01
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -34,6 +34,8 @@ faq:
 ---
 
 This is one of the most useful Shanghai hotel decisions because both choices can look right on paper.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 They simply optimize for different versions of the trip.
 

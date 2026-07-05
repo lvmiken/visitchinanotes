@@ -2,7 +2,7 @@
 title: "Where to Stay in Xi'an for a Short First Trip"
 description: "Compare South Gate, Bell Tower, the old city, and the pagoda side to choose the best Xi'an hotel area for a short first trip."
 publishDate: 2026-06-14
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "plan-stay"
 tripLength: "2 to 3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Xi'an is at its best when the hotel base makes the whole stop feel compact and coherent.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you compare bases, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That matters because Xi'an is usually strongest on a short stay. The right base does not only save transport time. It protects the shape of the trip:
 

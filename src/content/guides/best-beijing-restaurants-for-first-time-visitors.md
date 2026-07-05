@@ -2,7 +2,7 @@
 title: "Best Beijing Restaurants for First-Time Visitors"
 description: "Use this Beijing restaurant guide to choose the right first-trip meals by style, from classic duck and copper hotpot to modern Beijing dinners and lively late-night restaurant picks."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The best Beijing restaurants are not one universal list.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 They are a set of different answers to different first-trip problems:
 

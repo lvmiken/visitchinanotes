@@ -2,7 +2,7 @@
 title: "What to Eat in Chongqing for First-Time Visitors"
 description: "Find out which Chongqing foods are actually worth your limited meals, from hot pot and xiaomian to grilled fish, street snacks, and the heavier local dinners that make the city feel full."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chongqing food should not be reduced to one boiling hot-pot session.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 Hot pot absolutely matters, and for many first-time visitors it deserves a real protected place in the trip. But if every meal becomes another chili challenge, the city starts feeling narrower and more exhausting than it should.
 

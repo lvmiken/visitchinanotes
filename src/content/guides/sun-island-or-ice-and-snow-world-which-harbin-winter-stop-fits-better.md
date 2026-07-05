@@ -2,7 +2,7 @@
 title: "Sun Island or Ice and Snow World: Which Harbin Winter Stop Fits Better?"
 description: "Compare Sun Island and Ice and Snow World for a first Harbin trip, decide which winter branch deserves protected time, and avoid building a short Harbin stay around two attractions trying to do the same job."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "1 winter block"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The `Sun Island vs Ice and Snow World` question is really a Harbin trip-shape question in disguise.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 It sounds like a simple attraction comparison.
 

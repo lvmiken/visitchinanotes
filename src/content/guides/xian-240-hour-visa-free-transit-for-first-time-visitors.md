@@ -2,7 +2,7 @@
 title: "Xi'an 240-Hour Transit Guide: Terracotta Army, Old City, and a Smarter Stopover"
 description: "Use Xi'an well on China's 240-hour transit policy, with practical advice on fitting the Terracotta Army, the old city, and airport logistics into a real stopover."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -28,6 +28,8 @@ faq:
 ---
 
 Xi'an is one of the most underrated stopover cities for first-time visitors because its structure is unusually clear.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 You do not need to solve a giant megacity. You need to solve one famous excursion, one usable old city, and one food-and-evening layer.
 

@@ -2,7 +2,7 @@
 title: "How to Get Around Harbin for First-Time Visitors"
 description: "See when Harbin Metro is the best default, when taxi or Didi is smarter in winter, why Songbei venue days should be treated separately, and how to keep Harbin movement simple on a first trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Harbin is not one of China's hardest cities to move around.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 It just punishes a badly planned transfer more harshly than a warmer city does.
 

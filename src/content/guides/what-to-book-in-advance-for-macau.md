@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations"
 description: "See which Macau hotels, show tickets, transport links, and reservations actually need advance booking, what can stay flexible, and how to avoid overbooking a short first trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Not everything in Macau needs to be booked in advance.
+
+If you want the broader route-role page with Macau's pairings, guides, and district clusters collected together while you decide what to lock early, keep the [Macau destination hub](/destinations/macau/) open too.
 
 That is exactly why this page matters.
 

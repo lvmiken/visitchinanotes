@@ -2,7 +2,7 @@
 title: "Yulong River rafting in Yangshuo: When the easy scenic half-day is worth it"
 description: "Decide whether Yulong River rafting is the right Yangshuo half day, when it beats one more town hour, and when Xingping still deserves the stronger scenic slot instead."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "solve-logistics"
 tripLength: "1 half day"
@@ -27,6 +27,8 @@ faq:
 ---
 
 `Yulong River rafting` is often the cleanest version of the Yangshuo countryside day.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 That is why it matters more than it first appears.
 
@@ -79,4 +81,3 @@ Choose [Xingping Ancient Town: Go for the river edge, not the old-street fantasy
 - read [Yulong River in Yangshuo: The calm countryside half-day that often beats one more town hour](/places/yulong-river/) if the broader place-level decision still is open
 - read [Yulong River or Xingping: Which Yangshuo Side Trip Deserves Your Better Weather Window?](/guides/yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window/) if rafting still is competing with the iconic river branch
 - read [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/) if the wider Yangshuo shortlist still needs editing
-

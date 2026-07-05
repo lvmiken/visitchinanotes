@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Beijing: Tickets, Trains, and Reservations"
 description: "See which Beijing tickets, trains, and reservations need advance booking, what can stay flexible, and which choices most affect a short first trip."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Not everything in Beijing needs to be booked in advance.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you decide what to lock early, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That is exactly why this page matters. The city gets easier when you stop treating every sight equally and start protecting the few items that actually control the route.
 

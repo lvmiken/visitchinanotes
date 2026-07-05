@@ -2,7 +2,7 @@
 title: "A Better First Futian Half Day: Lianhua Hill, Civic Center, and When to Stop"
 description: "Use this practical Futian half-day guide to shape Lianhua Hill, Civic Center, and the Ping An side into one clean first-time Shenzhen route without letting the district dissolve into random mall time."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "half day"
@@ -36,6 +36,8 @@ faq:
 ---
 
 The easiest way to waste `Futian` is to treat it like a district where every tall building deserves equal attention.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 They do not.
 

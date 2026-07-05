@@ -2,7 +2,7 @@
 title: "What to Do in Yangshuo at Night for First-Time Visitors"
 description: "Choose between a West Street evening, the Impression Sister Liu show, a shorter town-center night, or simply keeping Yangshuo calm so the overnight supports the wider Guilin region."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Yangshuo at night is one of those travel questions that sounds simple until you realize the evening often decides what kind of stop Yangshuo becomes.
+
+If you want the broader cluster page with Yangshuo's route role, supporting guides, and place pages together while you shape the evening, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 It can feel like:
 

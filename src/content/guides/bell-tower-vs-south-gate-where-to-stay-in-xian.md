@@ -2,7 +2,7 @@
 title: "Bell Tower or South Gate: Where Should You Stay in Xi'an?"
 description: "Compare Bell Tower and South Gate so first-time visitors can choose the better Xi'an hotel base for walkability, food, evening atmosphere, and a short 2- or 3-day trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "plan-stay"
 tripLength: "2 to 3 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Once you know you want to stay in Xi'an's old city, the real hotel decision usually gets smaller and more important at the same time.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 It becomes:
 

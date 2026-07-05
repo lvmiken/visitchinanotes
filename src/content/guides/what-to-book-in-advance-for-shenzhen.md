@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days"
 description: "See which Shenzhen hotels, rail or border links, theme park days, and reservations actually deserve advance booking, what can stay flexible, and how to avoid overplanning a short first trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Not everything in Shenzhen needs to be booked in advance.
+
+If you want the broader route-role page with Shenzhen's pairings, guides, and district clusters collected together while you decide what to lock early, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 That is exactly why this page matters.
 

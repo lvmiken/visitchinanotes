@@ -2,7 +2,7 @@
 title: "Yongqing Fang or Shamian Island? Which Guangzhou Heritage Walk Fits a First Trip Better"
 description: "Compare Yongqing Fang and Shamian Island so first-time Guangzhou visitors can choose between the stronger old-Xiguan core and the calmer heritage finish without wasting a west-side half day."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 half day decision"
@@ -32,6 +32,8 @@ faq:
 ---
 
 This is one of Guangzhou's most useful smaller decisions because both places sound cultural, photogenic, and west-side.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 But they do not do the same job.
 

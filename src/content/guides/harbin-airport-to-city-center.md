@@ -2,7 +2,7 @@
 title: "Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?"
 description: "Compare Harbin Taiping Airport to city center options for first-time visitors, including airport bus, taxi, Didi, and when a winter arrival should stay as simple as possible."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "solve-logistics"
 tripLength: "arrival day"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Harbin Taiping International Airport is not a transfer you want to leave emotionally unfinished.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 In a mild-weather city, a slightly awkward final leg often is annoying but manageable.
 

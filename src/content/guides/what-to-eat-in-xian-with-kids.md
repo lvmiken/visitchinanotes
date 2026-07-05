@@ -2,7 +2,7 @@
 title: "What to Eat in Xi'an With Kids for First-Time Visitors"
 description: "Use this family Xi'an food guide to decide what to eat with kids, including the easiest noodle meals, best quick bites, when yangrou paomo is worth it, and which famous foods are too heavy for the wrong moment."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -32,6 +32,8 @@ faq:
 ---
 
 What to eat in Xi'an with kids is usually not the same question as what adults should eat on a food-first trip.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 Families are not only choosing the most famous dish.
 

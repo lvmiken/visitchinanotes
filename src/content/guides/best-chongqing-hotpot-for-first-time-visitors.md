@@ -2,7 +2,7 @@
 title: "Best Chongqing Hot Pot for First-Time Visitors"
 description: "Find out where first-time visitors should eat Chongqing hot pot, including easy central picks, stronger old-school Yuzhong options, and scenic Nanshan hot pot nights that feel worth the extra effort."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chongqing hot pot is one of the few meals in China that can justify building a whole evening around it.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 That does not mean every famous restaurant is worth the same effort.
 

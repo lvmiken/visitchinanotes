@@ -2,7 +2,7 @@
 title: "Best Chengdu Desserts for First-Time Visitors"
 description: "Choose which Chengdu desserts are actually worth trying, from Lai Tangyuan and bingfen to San Da Pao and cold cakes, and decide when sweets belong after hotpot, snacks, or a slower Yulin evening."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 dessert stop or 1 sweet layer"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Chengdu desserts matter for a very practical reason.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 The city is full of meals that are rich, oily, numbing, spicy, or all four at once. That means one good sweet finish can do more than satisfy a sugar craving. It can reset the whole day.
 

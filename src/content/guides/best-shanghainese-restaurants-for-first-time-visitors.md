@@ -2,7 +2,7 @@
 title: "Best Shanghainese Restaurants for First-Time Visitors"
 description: "Use this Shanghainese restaurant guide to choose the right first-trip dinner, from classic Lao Zheng Xing and lively Lan Xin to more polished Fu 1039 and Fu 1088."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The strongest Shanghai food trips usually do not come from repeating dumplings.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 They come from protecting **one real Shanghainese dinner**.
 

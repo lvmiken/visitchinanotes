@@ -2,7 +2,7 @@
 title: "Should You Stay Near Giant Wild Goose Pagoda or in Xi'an's Old City?"
 description: "Compare Xi'an's old city and Giant Wild Goose Pagoda side so first-time visitors can choose the hotel base that actually fits a short trip, a fuller 3-day stay, and the city's real day-to-day rhythm."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 This is one of the most important Xi'an hotel decisions that looks small on a map but changes the whole feel of the trip.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 The real question is not which area is more famous.
 

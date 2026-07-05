@@ -2,7 +2,7 @@
 title: "What to Do in Chengdu at Night for First-Time Visitors"
 description: "Choose between Jinli, Chunxi Road and Taikoo Li, Jiuyanqiao, Yulin, or a teahouse and Sichuan opera night based on your energy, hotel area, and how lively or cultural you want the evening to feel."
 publishDate: 2026-06-21
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Chengdu at night is one of the clearest reasons the city feels richer than a simple panda stop.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 That matters because many first-time visitors protect the panda morning and one food night, but never decide what the evenings are actually for.
 

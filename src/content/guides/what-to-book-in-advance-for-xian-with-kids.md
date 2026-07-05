@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Xi'an With Kids"
 description: "Use this Xi'an family booking guide to decide what to reserve first, what can stay flexible, and which bookings actually protect a short trip with kids."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Families often make one of two Xi'an booking mistakes.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 They either assume almost nothing needs planning because Xi'an is shorter and more compact than Beijing, or they overreact to one famous sight and start locking every museum, meal, and evening before they even know the family's pace.
 

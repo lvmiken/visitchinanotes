@@ -2,7 +2,7 @@
 title: "Where to Eat in Xi'an for First-Time Visitors"
 description: "Find the best area to eat in Xi'an for a first trip, whether you want Muslim Quarter snacks, old-city dinners, noodle meals, or easier pagoda-side and modern-district options."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in Xi'an is usually a district question before it becomes a restaurant question.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That matters because Xi'an is one of the easiest China cities to over-romanticize through food. Readers arrive expecting one giant snack-street answer, then end up either under-eating or overloading one evening.
 

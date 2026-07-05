@@ -2,7 +2,7 @@
 title: "Where to Eat in Yangshuo for First-Time Visitors"
 description: "Choose which part of Yangshuo should carry your key meals, from West Street's easiest first dinner to Yulong-side lunches, Xingping side-trip meals, and the point where atmosphere matters more than restaurant hunting."
 publishDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Where to eat in Yangshuo is usually a day-shape question before it becomes a restaurant question.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 That matters because Yangshuo is not at its best when you treat every meal like a separate scenic errand. On a short first trip, the stronger result usually comes from eating in the place that already fits the river, countryside, or town rhythm of the day.
 

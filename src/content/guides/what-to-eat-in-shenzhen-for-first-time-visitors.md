@@ -2,7 +2,7 @@
 title: "What to Eat in Shenzhen for First-Time Visitors"
 description: "Learn which Shenzhen foods are most worth your limited meals, from dim sum and roast goose to Shajing oysters, Guangming roast squab, Hakka dishes, Chaoshan beef hot pot, and one seafood night."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Shenzhen food is easiest to misunderstand if you expect it to behave like Guangzhou.
+
+If you want the broader route-role page with Shenzhen's pairings, guides, and district clusters collected together while you plan meals, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 Guangzhou rewards you with a more obvious classic Cantonese ladder. Shenzhen is more modern, more mixed, and more district-dependent.
 

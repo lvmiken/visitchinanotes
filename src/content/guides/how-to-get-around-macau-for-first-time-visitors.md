@@ -2,7 +2,7 @@
 title: "How to Get Around Macau for First-Time Visitors"
 description: "Learn when walking is the best answer in Macau, when buses or hotel shuttles help, when taxi is worth paying for, and why the city gets harder only when you keep forcing too many sides into the same day."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Macau transport usually looks simpler on paper than it feels in a real trip.
+
+If you want the broader route-role page with Macau's pairings, guides, and district clusters collected together while you solve transport, keep the [Macau destination hub](/destinations/macau/) open too.
 
 That is not because the city is huge.
 

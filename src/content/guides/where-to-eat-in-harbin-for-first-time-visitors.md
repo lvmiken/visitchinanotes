@@ -2,7 +2,7 @@
 title: "Where to Eat in Harbin for First-Time Visitors"
 description: "Choose which Harbin areas should carry your key meals, from Zhongyang Street convenience and one Russian-style meal to warming Dongbei dinners and the point where food should stay near the hotel."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Where to eat in Harbin is usually a winter-pace question before it becomes a restaurant question.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 That matters because Harbin is not a city where the best meal automatically comes from the most famous address.
 

@@ -2,7 +2,7 @@
 title: "What to Eat in Xi'an for First-Time Visitors"
 description: "Use this practical Xi'an food guide to decide which dishes actually deserve your limited meals, from biangbiang noodles and roujiamo to yangrou paomo, dumplings, and Muslim Quarter snacks."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Xi'an is one of the easiest cities in China to remember through food.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan meals, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That is part of what makes the city so useful on a first trip. The history may bring people in, but the food is often what makes the stop feel fuller and more distinct than "Terracotta Army plus one old street."
 

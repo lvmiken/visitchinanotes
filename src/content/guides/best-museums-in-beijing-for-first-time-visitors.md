@@ -2,7 +2,7 @@
 title: "Best Museums in Beijing for First-Time Visitors"
 description: "A practical guide to the best museums in Beijing for first-time visitors, including when to choose the Palace Museum, the National Museum of China, Capital Museum, or a smaller cultural museum instead of overloading the trip."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 museum block"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Beijing can support a very strong museum trip, but most first-time visitors do not need to turn it into one.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That is the first useful thing to say clearly.
 

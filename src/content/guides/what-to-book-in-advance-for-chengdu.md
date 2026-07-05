@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Chengdu: Tickets, Trains, and Reservations"
 description: "See which Chengdu tickets, trains, and reservations need advance booking, what can stay flexible, and which choices matter most on a short first trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Not everything in Chengdu needs to be booked in advance.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 That is exactly why this page matters.
 

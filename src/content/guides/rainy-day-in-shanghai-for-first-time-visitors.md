@@ -2,7 +2,7 @@
 title: "Rainy Day in Shanghai for First-Time Visitors"
 description: "Use this practical rainy-day Shanghai guide to decide which plans to keep, when to switch to museums, how to rescue a Bund or French Concession day, and how to stop bad weather from flattening a short first trip."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Rain does not automatically ruin Shanghai.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 What usually ruins Shanghai is trying to force a riverfront or neighborhood-heavy day exactly as planned after the weather has already changed what the city is good at.
 

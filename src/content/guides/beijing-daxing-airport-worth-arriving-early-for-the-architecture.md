@@ -2,7 +2,7 @@
 title: "Beijing Daxing Airport: Worth Arriving Early for the Architecture?"
 description: "Decide whether Beijing Daxing Airport's architecture deserves extra time, who should arrive early on purpose, and when the terminal is a bonus rather than a detour."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "30 to 90 minutes"
@@ -34,6 +34,8 @@ faq:
 ---
 
 `Beijing Daxing Airport` is one of the rare airports in China that people ask about almost like a sight.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That instinct is not silly.
 

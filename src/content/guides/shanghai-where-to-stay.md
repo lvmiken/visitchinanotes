@@ -2,7 +2,7 @@
 title: "Best Area to Stay in Shanghai for First-Time Visitors"
 description: "Compare the Bund side, People's Square, the French Concession, and Pudong to see which Shanghai base fits a first trip, your airport transfers, and the kind of city experience you want."
 publishDate: 2026-06-14
-updatedDate: 2026-07-01
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -28,6 +28,8 @@ faq:
 ---
 
 In Shanghai, where you stay shapes the feel of the trip more than the raw number of attractions nearby. A good base makes the city feel smooth and intuitive; a bad one makes even a short trip feel oddly fragmented.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you compare bases, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 ## Who this page is for
 

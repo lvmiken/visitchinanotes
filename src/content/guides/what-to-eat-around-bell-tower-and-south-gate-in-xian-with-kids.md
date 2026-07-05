@@ -2,7 +2,7 @@
 title: "What to Eat Around Bell Tower and South Gate in Xi'an With Kids"
 description: "Use this family Xi'an old-city food guide to decide what to eat around Bell Tower and South Gate with kids, including the safest noodle meals, calmer dumpling dinners, and when this area beats the Muslim Quarter."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 to 4 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 What to eat around Bell Tower and South Gate with kids is not exactly the same question as where to eat there.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 Once parents know the family probably needs the calmer old city instead of one louder Muslim Quarter block, the next question becomes:
 

@@ -2,7 +2,7 @@
 title: "What to Eat in Beijing Besides Peking Duck"
 description: "Find out what first-time visitors should eat in Beijing besides Peking duck, including zhajiangmian, copper hotpot, halal classics, snacks, and which dishes are most worth your limited meals."
 publishDate: 2026-06-19
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 If you only eat one duck dinner in Beijing and then stop thinking about food, you will still have a good trip.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 But you will also miss one of the most useful things about eating in the city: Beijing is much better when food has at least one second and third layer.
 

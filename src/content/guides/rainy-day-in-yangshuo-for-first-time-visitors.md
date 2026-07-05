@@ -2,7 +2,7 @@
 title: "Rainy day in Yangshuo for first-time visitors: What still works when the karst disappears?"
 description: "Use this rainy-day Yangshuo guide to decide whether to keep Yulong River, Xingping, West Street, or Moon Hill, and how to rescue a short stay when the scenery turns wet and low-contrast."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -29,6 +29,8 @@ faq:
 ---
 
 Rain in `Yangshuo` changes the town differently from rain in `Guilin`.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 In Guilin, the city often gets reduced to support.
 
@@ -118,4 +120,3 @@ Rain often turns that from `energizing` into `unnecessary`.
 - read [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/) if the rainy-day choice is exposing a bigger shortlist problem
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the weather disruption now makes hotel base matter more
 - read [How Long Should You Stay in Yangshuo on a First Trip?](/guides/how-many-days-in-yangshuo-for-first-time-visitors/) if the real issue is whether Yangshuo needs more breathing room
-

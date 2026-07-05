@@ -2,7 +2,7 @@
 title: "What to Eat in Beijing for First-Time Visitors"
 description: "Learn which Beijing foods are most worth your limited meals, from Peking duck and zhajiangmian to copper hotpot, classic snacks, and some of the regional Chinese cuisines the capital does especially well."
 publishDate: 2026-06-19
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Beijing food should not be reduced to one roast duck dinner.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan meals, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 Duck matters, and for many first-time visitors it absolutely deserves a real place in the trip. But Beijing is more useful than that. It is one of the few cities where you can treat food in two different ways at once:
 

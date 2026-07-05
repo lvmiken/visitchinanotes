@@ -2,7 +2,7 @@
 title: "How to Get Around Guangzhou for First-Time Visitors"
 description: "Learn when Guangzhou Metro is the best default, when Didi or taxi saves time, and why district choice matters more than many first-time visitors expect in this big but practical South China city."
 publishDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Guangzhou transport usually looks bigger before the trip than it feels on the ground.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That is because the real problem is not whether the city has enough infrastructure.
 

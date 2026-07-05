@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links"
 description: "See which Hong Kong hotels, Disneyland tickets, Peak Tram or Ngong Ping tickets, airport or rail links, and dinner reservations actually deserve advance booking on a first trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Not everything in Hong Kong deserves an advance booking.
+
+If you want the broader route-role page with Hong Kong's pairings, guides, and district clusters collected together while you decide what to lock early, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 That is exactly why this page matters.
 

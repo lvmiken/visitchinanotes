@@ -2,7 +2,7 @@
 title: "A Slower Day in Old Beijing: An Itinerary That Actually Works"
 description: "Use this old-Beijing itinerary to build one slower city day around hutongs, Beihai Park, Qianmen, snacks, and an evening that still belongs to the same part of the city instead of feeling patched on."
 publishDate: 2026-06-19
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 day"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Beijing often becomes more memorable when one day stops chasing headline weight and starts improving the feel of the trip.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That does not mean a meaningless filler day. It means building one route where hutongs, parks, old-core walking, and food actually work together.
 

@@ -2,7 +2,7 @@
 title: "Guilin on a First Trip: What to Prioritize and What Not to Overbuild"
 description: "Plan a first trip to Guilin with advice on route role, stay length, and whether the stop should focus on the Li River, Yangshuo, or just a short scenic break."
 publishDate: 2026-06-26
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -30,6 +30,8 @@ faq:
 ---
 
 Guilin is one of those China stops people often name correctly but imagine too vaguely.
+
+If you want the route role, city guides, and core Guilin place pages collected in one view while you read, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 They say `Guilin`.
 

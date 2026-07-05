@@ -2,7 +2,7 @@
 title: "China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?"
 description: "Choose between Snow Town and Yabuli from Harbin based on whether you want a fairy-tale overnight, a real ski day, or no outer detour at all on a short first winter trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "3 to 4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 `Snow Town` and `Yabuli` often get lumped together because both sit outside `Harbin` on the same broader winter map.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 That is exactly how first-time visitors end up choosing the wrong one.
 

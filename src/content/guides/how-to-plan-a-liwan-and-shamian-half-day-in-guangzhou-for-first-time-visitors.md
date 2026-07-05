@@ -2,7 +2,7 @@
 title: "How to Plan a Liwan and Shamian Half Day in Guangzhou for First-Time Visitors"
 description: "Use this practical Guangzhou west-side half day to decide whether Yongqing Fang and Shamian belong together, when to add a Liwan meal stop, and how to keep one heritage branch atmospheric without wasting a full day."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -40,6 +40,8 @@ faq:
 ---
 
 This is one of the most useful Guangzhou route questions once the city already has its easy answers.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 Not because `Liwan`, `Yongqing Fang`, and `Shamian` are the city's biggest headline landmarks.
 

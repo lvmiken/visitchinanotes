@@ -2,7 +2,7 @@
 title: "Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold"
 description: "Find out which things to do in Harbin are actually worth your limited time, how to choose between Ice and Snow World and the central city, and how to build a first trip that feels stronger than a cold checklist."
 publishDate: 2026-06-26
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "2 to 3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Harbin are usually not the highest number of snowy names you can fit into one cold-weather itinerary.
+
+If you want the broader route-role page with Harbin's winter logic, supporting guides, and place clusters collected together while you shortlist the city, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 They are the pieces that make the city feel coherent:
 

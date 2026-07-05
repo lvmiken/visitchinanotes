@@ -2,7 +2,7 @@
 title: "How to Get Around Beijing for First-Time Visitors: Metro, Taxi, and Didi"
 description: "Learn how to get around Beijing with metro, taxi, and Didi, including when each option is easiest for tourists, airport arrivals, and long sightseeing days."
 publishDate: 2026-06-19
-updatedDate: 2026-06-25
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Beijing transport is not confusing because the city lacks options. It becomes tiring when the route ignores the size of the city.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you solve transport, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That is why the first Beijing transport decision is not "metro or taxi?" It is usually "did I build the day in a way that needs less transport pain?"
 

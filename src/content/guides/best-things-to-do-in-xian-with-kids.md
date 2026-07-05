@@ -2,7 +2,7 @@
 title: "Best Things to Do in Xi'an With Kids"
 description: "Find out which things to do in Xi'an with kids are actually worth the time, which ones fit younger children better, and how to build a family-friendly first trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Xi'an with kids are usually not the longest or most serious sightseeing blocks.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 They are the ones that give the family a clear payoff without using up all the energy needed for the rest of the trip.
 

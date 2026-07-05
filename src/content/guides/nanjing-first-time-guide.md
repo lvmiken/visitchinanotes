@@ -2,7 +2,7 @@
 title: "Nanjing for First-Time Visitors: Why the City Deserves More Than a Fast Box-Ticking Stop"
 description: "Use this Nanjing guide to decide whether the city belongs in your route, how much time it really needs, and which mix of historical sites and evening districts makes a first visit feel complete."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "nanjing"
 guideStage: "choose-destination"
 tripLength: "1 to 2 days"
@@ -27,6 +27,8 @@ faq:
 ---
 
 Nanjing is one of the easiest Chinese cities to underrate from a distance.
+
+If you want the broader route-role page with Nanjing's supporting guides, pairings, and place pages in one view, keep the [Nanjing destination hub](/destinations/nanjing/) open too.
 
 It looks, on paper, like a convenient east-China rail stop. In practice, it often becomes one of the route's more grounded and memorable historical cities when you give it enough room.
 

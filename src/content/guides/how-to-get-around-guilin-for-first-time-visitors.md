@@ -2,7 +2,7 @@
 title: "How to Get Around Guilin for First-Time Visitors"
 description: "Learn when Guilin buses are enough, when taxi or ride-hailing saves time, how walking fits central Guilin best, and why Yangshuo should be treated as a regional transfer decision rather than ordinary city movement."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Guilin transport usually is not hard because the city lacks options.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 It gets fuzzy because travelers try to make one transport idea solve very different jobs:
 

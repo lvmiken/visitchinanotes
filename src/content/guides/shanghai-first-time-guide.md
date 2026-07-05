@@ -2,7 +2,7 @@
 title: "Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize"
 description: "Use this Shanghai guide to decide how many days to stay, where to stay, which neighborhoods matter most, and when Shanghai is the right first stop in China."
 publishDate: 2026-06-14
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "choose-destination"
 tripLength: "2 to 4 days"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Shanghai is not only one of the easiest first cities in China. It is also one of the country's most compelling big-city experiences: a place where futuristic skyline, historic riverfront architecture, former-concession streets, serious food, shopping, nightlife, and fast everyday convenience all sit in the same trip.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you shape the city, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That matters because some first-time visitors hear that Shanghai is "easy" and assume that means "less interesting." In practice, Shanghai is often the city that shows modern urban China most clearly and most comfortably.
 

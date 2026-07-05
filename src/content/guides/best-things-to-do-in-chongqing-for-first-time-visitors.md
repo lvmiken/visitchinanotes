@@ -2,7 +2,7 @@
 title: "Best Things to Do in Chongqing for First-Time Visitors"
 description: "Find out which things to do in Chongqing are actually worth your limited time, how to choose between Hongyadong, Jiefangbei, Ciqikou, skyline nights, and food districts, and how to build a fuller first trip without wasting energy on too many hills and river crossings."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -35,6 +35,8 @@ faq:
 ---
 
 The best things to do in Chongqing are usually not the longest list of famous photo points.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 They are the experiences that help the city do what it is actually good at: one dramatic skyline opening, one route that makes the terrain and rivers feel real, one proper food-led evening, and enough breathing room that Chongqing still feels intense in a good way instead of only tiring.
 

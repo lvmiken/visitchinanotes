@@ -2,7 +2,7 @@
 title: "Guangzhou Travel Guide for First-Time Visitors"
 description: "A practical Guangzhou travel guide for first-time visitors, including who the city suits best, how many days it needs, and when it works well in a South China route."
 publishDate: 2026-06-14
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "choose-destination"
 tripLength: "2 to 4 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Guangzhou makes the most sense when you choose it for what it is, not for what other big China cities already do better. It is usually stronger as a food, neighborhood, and South China route city than as a landmark-first blockbuster.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 ## Who this guide is for
 

@@ -2,7 +2,7 @@
 title: "Best things to do in Yangshuo on a first trip: The shortlist that keeps the town scenic, not scattered"
 description: "Find the best things to do in Yangshuo for first-time visitors, from Yulong River and Xingping to West Street and Moon Hill, without turning the stop into a random list of pretty names."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "1 to 2 days"
@@ -30,6 +30,8 @@ faq:
 ---
 
 The best things to do in `Yangshuo` are usually not the longest list.
+
+If you want the broader cluster page with Yangshuo's route role, supporting guides, and place pages together while you shortlist the town, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 They are the pieces that make the town feel coherent:
 

@@ -2,7 +2,7 @@
 title: "Best Shanghai Observation Deck for First-Time Visitors"
 description: "Compare Shanghai Tower, Oriental Pearl, Jinmao Tower, and the no-ticket Bund option so first-time visitors can choose the best Shanghai skyline view for their trip length, weather, and budget tolerance."
 publishDate: 2026-06-22
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 skyline block"
@@ -34,6 +34,8 @@ faq:
 ---
 
 This is one of the most practical Shanghai questions because many first-time visitors know they want a skyline moment, but do not know whether that means:
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 - paying for one major observation deck
 - choosing the most famous tower

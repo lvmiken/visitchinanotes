@@ -2,7 +2,7 @@
 title: "A Better French-Era Walk in Guangzhou: Why Shamian Works Best With Liwan"
 description: "Use this Guangzhou walk guide to understand why Shamian's French-era architecture works best as part of a wider Liwan half day, not as an isolated photo errand, and how to keep the route elegant instead of thin."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -32,6 +32,8 @@ faq:
 ---
 
 `Shamian` is one of those Guangzhou places that people often search for correctly and use slightly wrong.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 They search for:
 

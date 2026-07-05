@@ -2,7 +2,7 @@
 title: "Best Chengdu Dumplings for First-Time Visitors"
 description: "Choose which Chengdu dumpling stop fits your trip best, from classic dumpling specialists and more polished dinner-friendly rooms to flexible dumpling-wonton shops and side-order Zhong dumplings inside a fuller Sichuan meal."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 meal"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Hotpot is Chengdu's headline dinner.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 Noodles are often the city's most useful everyday bowl.
 

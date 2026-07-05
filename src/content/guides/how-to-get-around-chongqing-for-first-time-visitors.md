@@ -2,7 +2,7 @@
 title: "How to Get Around Chongqing for First-Time Visitors"
 description: "Learn when Chongqing rail transit is easiest, when Didi or taxi saves energy, and how hills, river crossings, and hotel area change transport much more than the map first suggests."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Chongqing transport usually feels hardest before the trip starts.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 Then most visitors arrive and discover a more useful truth: the city is not hard because it lacks transport. It feels hard because the same map distance can mean a river crossing, a hill, several escalators, or a long final uphill walk.
 

@@ -2,7 +2,7 @@
 title: "Best Time to Visit Xi'an for First-Time Visitors"
 description: "Decide whether spring, summer, autumn, or winter is best for Xi'an, including walking comfort, holiday pressure, and when the city wall, old city, and Terracotta Army feel easiest."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "plan-stay"
 tripLength: "timing decision"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Xi'an usually feels best when the weather helps the city stay compact.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That matters more here than many travelers expect. Xi'an is one of the easiest major China stops to shape into a short route, but much of its value still comes from being outside and moving through real places:
 

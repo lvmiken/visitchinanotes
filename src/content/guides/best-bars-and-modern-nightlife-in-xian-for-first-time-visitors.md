@@ -2,7 +2,7 @@
 title: "Best Bars and Modern Nightlife in Xi'an for First-Time Visitors"
 description: "Choose between South Gate, Bell Tower, Qujiang, and a softer craft-beer or jazz-style night so your Xi'an bars or nightlife plan actually fits a short first trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Xi'an nightlife is easy to misread from a distance.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 The city is not weak at night.
 

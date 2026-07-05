@@ -2,7 +2,7 @@
 title: "Best Things to Do in Macau for First-Time Visitors"
 description: "Find out which things to do in Macau are actually worth your limited time, how to choose between the heritage core, Taipa, Cotai, and Macau Tower, and how to build a first trip that feels edited instead of scattered."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "build-itinerary"
 tripLength: "1 to 2 days"
@@ -38,6 +38,8 @@ faq:
 ---
 
 The best things to do in Macau are usually not the highest number of famous names you can force into one short stop.
+
+If you want the broader route-role page with Macau's pairings, guides, and district clusters collected together while you shortlist the city, keep the [Macau destination hub](/destinations/macau/) open too.
 
 They are the pieces that make the city feel legible:
 

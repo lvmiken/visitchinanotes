@@ -2,7 +2,7 @@
 title: "Best Museums in Xi'an With Kids"
 description: "Find the best museums in Xi'an with kids, including when Shaanxi History Museum is worth it, when Xi'an Museum is the easier family choice, and when skipping museums entirely makes the trip better."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 indoor block"
@@ -32,6 +32,8 @@ faq:
 ---
 
 The best museum in Xi'an with kids is usually not the most famous museum.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 It is the one that fits the child's age, the family's energy, and the job that indoor time needs to do in the trip.
 

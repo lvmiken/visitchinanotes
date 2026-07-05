@@ -2,7 +2,7 @@
 title: "How Many Days in Guangzhou for a First Trip?"
 description: "Decide how many days to spend in Guangzhou based on food priorities, pace, nearby add-ons, and whether the city is a short stop or a bigger South China base."
 publishDate: 2026-06-17
-updatedDate: 2026-06-18
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -29,6 +29,8 @@ faq:
 ---
 
 Guangzhou is not a city that needs the longest stay. It is a city that needs the right stay length for the role it plays in the route.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 ## The short answer
 

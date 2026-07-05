@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Xi'an: Tickets, Trains, and Reservations"
 description: "See which Xi'an tickets, trains, and reservations need advance booking, what can stay flexible, and which choices matter most on a short first trip."
 publishDate: 2026-06-20
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Not everything in Xi'an needs to be booked in advance.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you decide what to lock early, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That is exactly why this page matters.
 

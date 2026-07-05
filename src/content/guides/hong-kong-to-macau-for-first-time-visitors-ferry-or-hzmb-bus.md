@@ -2,7 +2,7 @@
 title: "Hong Kong to Macau for First-Time Visitors: Ferry or HZMB Bridge Bus?"
 description: "Compare the Hong Kong to Macau ferry and HZMB shuttle bus, see when each route works best, and learn the cleanest way to reach Macau from Hong Kong city or Hong Kong International Airport."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "solve-logistics"
 tripLength: "arrival day"
@@ -35,6 +35,8 @@ faq:
 ---
 
 The best Hong Kong to Macau transfer is not the one that sounds most dramatic on paper.
+
+If you want the broader route-role page with Macau's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Macau destination hub](/destinations/macau/) open too.
 
 It is the one that still feels clean after you factor in:
 

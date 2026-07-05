@@ -2,7 +2,7 @@
 title: "Where Is the 20 RMB View in Yangshuo? A Practical Xingping Photo Stop Guide"
 description: "Find the real 20 RMB Li River view near Xingping, understand whether it is worth a dedicated stop, and choose the cleanest way to see it by cruise, raft, or a short Xingping branch."
 publishDate: 2026-06-26
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "solve-logistics"
 tripLength: "1 stop"
@@ -39,6 +39,8 @@ faq:
 ---
 
 The `20 RMB view` is one of those China travel queries that sounds simple until you are actually in Yangshuo and realize nobody means quite the same thing.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 This page makes it simpler.
 

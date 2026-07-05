@@ -2,7 +2,7 @@
 title: "A Better Yangshuo Cycling Half-Day: Scenic Enough to Matter, Short Enough to Fit"
 description: "Use this practical Yangshuo cycling guide to decide whether a bike half day belongs in your trip, which countryside areas make the best first loop, and when cycling adds more than another passive photo stop."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "half day"
@@ -31,6 +31,8 @@ faq:
 ---
 
 `Yangshuo cycling` is one of those ideas that becomes much better once you stop imagining it as exercise and start using it as route design.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 Done well, it is not a workout trophy.
 

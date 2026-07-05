@@ -2,7 +2,7 @@
 title: "Where to Eat Around Senado Square for First-Time Visitors"
 description: "Use this Senado Square food guide to choose between a classic old-Macau noodle stop, a fuller heritage-core sit-down meal, or a lighter snack-and-dessert continuation without turning the day into only bakery queues."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 heritage-core food block"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat around `Senado Square` is usually not a question about the single best restaurant.
+
+If you want the broader route-role page with Macau's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Macau destination hub](/destinations/macau/) open too.
 
 It is a question about what job the old core meal should do for the trip.
 

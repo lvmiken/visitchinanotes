@@ -2,7 +2,7 @@
 title: "How Many Days in Beijing for First-Time Visitors"
 description: "See what 2, 3, 4, or 5 days in Beijing really gives you, and which trip length works best for first-time visitors who want the Great Wall, the imperial core, food, and a calmer extra day."
 publishDate: 2026-06-19
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Beijing is one of those cities where trip length changes the whole experience.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you decide the stay length, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 Two people can both say they "did Beijing," but one may have had a rich first-trip experience while the other spent half the stay recovering from a plan that was too ambitious.
 

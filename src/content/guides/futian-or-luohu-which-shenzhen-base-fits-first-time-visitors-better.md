@@ -34,6 +34,8 @@ faq:
 
 This is one of Shenzhen's most practical first-time decisions because both areas can sound convincing before the trip becomes real.
 
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
+
 Both can offer:
 
 - rail logic

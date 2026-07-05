@@ -2,7 +2,7 @@
 title: "Xi'an 3-Day Itinerary With Kids for First-Time Visitors"
 description: "Use this 3-day Xi'an itinerary with kids to combine the Terracotta Army, the City Wall, and one realistic third day without making the trip too heavy."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Three days in Xi'an with kids can work very well, but only if the trip stays honest about what children actually enjoy and remember.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 The goal is not to collect every major historical site. The goal is to protect the parts that still feel vivid after the trip:
 

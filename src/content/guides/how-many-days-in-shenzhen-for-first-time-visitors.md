@@ -2,7 +2,7 @@
 title: "How Many Days in Shenzhen for First-Time Visitors"
 description: "See what 1, 2, 3, or 4 days in Shenzhen really gives you, and which trip length works best for first-time visitors who want a modern city stop, a Hong Kong pairing, or one extra coastal layer."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "plan-stay"
 tripLength: "1 to 4 days"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Shenzhen is one of the easiest China cities to overestimate and underestimate at the same time.
+
+If you want the broader route-role page with Shenzhen's pairings, guides, and district clusters collected together while you decide the stay length, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 Some travelers give it too little time and only see a station-to-mall version of the city.
 

@@ -2,7 +2,7 @@
 title: "What to Do in Shichahai at Night for First-Time Visitors"
 description: "Use this Shichahai night guide to decide whether to do a lakeside walk, dinner near Yinding Bridge, Yandai Xiejie, a boat ride, or a casual bar stop, and learn when this old-city evening is better than Qianmen or Sanlitun."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Shichahai at night is one of the easiest Beijing evenings to get mostly right and accidentally overbuild at the same time.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That is because the area already gives you a lot:
 

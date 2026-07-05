@@ -2,7 +2,7 @@
 title: "How to Get From Guangzhou Baiyun Airport to Downtown"
 description: "A practical guide to getting from Guangzhou Baiyun Airport to central Guangzhou, including when Metro Line 3 is the smartest choice, when taxi or Didi is easier, and why terminal differences matter more than many first-time visitors expect."
 publishDate: 2026-06-18
-updatedDate: 2026-06-18
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -31,6 +31,8 @@ faq:
 ---
 
 If you are landing at **Guangzhou Baiyun International Airport (CAN)**, the right transfer depends first on **which terminal you are using**, and only then on budget or speed.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 This guide uses current Guangzhou airport transport guidance checked on **June 18, 2026**, including recent public updates after the opening of Terminal 3.
 

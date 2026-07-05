@@ -2,7 +2,7 @@
 title: "Yangshuo for One Night: When an Overnight Stay Is Worth It"
 description: "Decide whether Yangshuo deserves a real overnight, when one night adds much more than a quick pass-through, and when the Guilin region is better kept sharper instead."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "plan-stay"
 tripLength: "1 night"
@@ -31,6 +31,8 @@ faq:
 ---
 
 This is one of the most useful Guilin-region questions because `Yangshuo` can sound optional on paper and feel essential in practice.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 Not always.
 

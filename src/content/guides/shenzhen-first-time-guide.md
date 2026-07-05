@@ -2,7 +2,7 @@
 title: "Shenzhen Travel Guide for First-Time Visitors"
 description: "Plan a first trip to Shenzhen with practical advice on stay length, route fit, and when the city works best with Hong Kong, Guangzhou, or Macau."
 publishDate: 2026-06-23
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "choose-destination"
 tripLength: "1 to 3 days"
@@ -36,6 +36,8 @@ faq:
 ---
 
 Shenzhen makes the most sense when you choose it for what it does well: modern city energy, easy regional connections, and a smoother mainland chapter after or before Hong Kong.
+
+If you want the city-level overview with Shenzhen's route role, related guides, and district pages all in one place, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 This page was checked against current official sources on **June 23, 2026**, including Shenzhen Government Online's [Travel Guide](https://www.sz.gov.cn/en_szgov/travel/guide/index.html), the official English portal [EyeShenzhen](https://www.eyeshenzhen.com/), and the official Shenzhen city-area guide for [Nanshan CBD](https://www.sz.gov.cn/en_szgov/travel/areas/content/post_10684425.html). Practical details can still change, so live transport and district checks should be your final step.
 

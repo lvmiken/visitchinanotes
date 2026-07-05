@@ -2,7 +2,7 @@
 title: "Best Chengdu Cafes for First-Time Visitors"
 description: "Choose where Chengdu cafes actually fit your trip, from Taikoo Li and Chunxi Road to Yulin and Wenshu side, and decide when coffee helps more than another snack, tea stop, or heavy meal."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 to 2 cafe blocks"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Chengdu does not need to become a coffee trip to use cafes well.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 That matters because the city gives first-time visitors two very different kinds of pause:
 

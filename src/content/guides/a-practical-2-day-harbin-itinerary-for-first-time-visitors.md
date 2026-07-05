@@ -2,7 +2,7 @@
 title: "A Practical 2-Day Harbin Itinerary for First-Time Visitors"
 description: "Use this two-day Harbin plan to protect one central winter day, one real Ice and Snow World night, and a cleaner hotel-and-transport rhythm that keeps the cold from breaking the trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Two days is often where Harbin finally starts feeling worth the cold.
+
+If you want the broader route-role page with Harbin's winter logic, supporting guides, and place clusters collected together while you pressure-test the day flow, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 One day can still work.
 

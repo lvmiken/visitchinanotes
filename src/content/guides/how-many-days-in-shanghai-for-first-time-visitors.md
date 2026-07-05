@@ -2,7 +2,7 @@
 title: "How Many Days in Shanghai for First-Time Visitors"
 description: "See what 2, 3, 4, or 5 days in Shanghai really gives you, and which trip length works best for first-time visitors who want skyline views, neighborhoods, food, and maybe Disneyland or a side trip."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Shanghai is one of the few major cities in China where a shorter stay can still feel complete, because the city packs an unusual amount of skyline, food, architecture, shopping, and neighborhood contrast into a relatively easy first-time format.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you decide the stay length, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That is the good news.
 

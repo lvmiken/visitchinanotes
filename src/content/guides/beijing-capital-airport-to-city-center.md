@@ -2,7 +2,7 @@
 title: "How to Get From Beijing Capital Airport to the City Center"
 description: "Compare the Capital Airport Express, taxi, Didi, and airport buses so you can choose the best way from Beijing Capital Airport to the city center for your arrival time, luggage, and hotel area."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -31,6 +31,8 @@ faq:
 ---
 
 If you are landing at **Beijing Capital International Airport (PEK)**, the best airport-to-city option depends less on one universal "best transfer" and more on three practical questions:
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you solve the first arrival, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 - how tired will you be after landing?
 - how much luggage will you have?

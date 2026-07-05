@@ -2,7 +2,7 @@
 title: "Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?"
 description: "Choose where to stay in Yangshuo for a first trip by comparing West Street convenience with a calmer countryside-style base, and decide which version fits a one-night or two-night stop better."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "plan-stay"
 tripLength: "1 to 2 nights"
@@ -32,6 +32,8 @@ faq:
 ---
 
 In Yangshuo, the best hotel is usually not the one that looks most scenic on a map.
+
+If you want the broader cluster page with Yangshuo's route role, supporting guides, and place pages together, keep the [Yangshuo destination hub](/destinations/yangshuo/) open alongside this stay guide.
 
 It is the one that matches the version of Yangshuo you are actually building.
 

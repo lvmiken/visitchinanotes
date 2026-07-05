@@ -2,7 +2,7 @@
 title: "Best Chengdu Chuanchuan for First-Time Visitors"
 description: "Use this Chengdu chuanchuan guide to decide whether skewers beat hot pot on your first trip, when to choose a central easy meal or a fuller Yulin-style evening, and what kind of chuanchuan experience actually fits the route."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 lunch or 1 dinner"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chuanchuan is one of the easiest Chengdu foods to underestimate.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 Many first-time visitors know they should eat hot pot, and then treat chuanchuan like a smaller copy.
 

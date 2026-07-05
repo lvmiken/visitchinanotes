@@ -2,7 +2,7 @@
 title: "House of Dancing Water in Macau: Is It Worth It for First-Time Visitors?"
 description: "Decide whether House of Dancing Water deserves one of your Macau evenings, when it beats a simpler Cotai night or Macau Tower, and when a short first trip should skip the show."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -40,6 +40,8 @@ faq:
 ---
 
 `House of Dancing Water` is one of the few Macau nights that can be both touristy and genuinely useful.
+
+If you want the broader route-role page with Macau's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Macau destination hub](/destinations/macau/) open too.
 
 That is because it solves a real first-trip question:
 

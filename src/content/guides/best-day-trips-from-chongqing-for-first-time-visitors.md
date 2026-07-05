@@ -2,7 +2,7 @@
 title: "Best Day Trips from Chongqing for First-Time Visitors"
 description: "Choose whether Chongqing should stay city-focused or expand into Wulong Karst or Wansheng Ordovician Park, and see which extra day actually improves a first trip instead of just adding more transfers."
 publishDate: 2026-06-30
-updatedDate: 2026-06-30
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 extra day"
@@ -35,6 +35,8 @@ faq:
 ---
 
 The best day trip from Chongqing is usually the one you only add after the city itself already feels complete.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 That matters because Chongqing is one of the easiest China stops to overbuild. The city already has skyline nights, vertical-city oddities, heavier food, and enough movement intensity that a short first trip can feel full without leaving town.
 

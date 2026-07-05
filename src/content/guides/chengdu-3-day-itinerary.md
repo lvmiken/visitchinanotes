@@ -2,7 +2,7 @@
 title: "A Practical 3-Day Chengdu Itinerary for First-Time Visitors"
 description: "A realistic three-day Chengdu itinerary for first-time visitors who want food, one anchor attraction, and a city pace that still feels relaxed."
 publishDate: 2026-06-17
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Chengdu usually feels better when the itinerary protects the city's slower rhythm instead of forcing it into a megacity sightseeing template.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 ## Who this is for
 

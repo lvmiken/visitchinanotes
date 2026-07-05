@@ -2,7 +2,7 @@
 title: "Shamian Island Walk in Guangzhou: What to See Without Random Wandering"
 description: "A practical Guangzhou Shamian walking guide for first-time visitors, including how to use the island well, what kind of route makes sense, and why Shamian works better as a selective heritage walk than an overbuilt detour."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "45 to 90 minutes"
@@ -34,6 +34,8 @@ faq:
 ---
 
 `Shamian Island` gets worse the more vaguely you use it.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That is why some travelers leave saying it was elegant and calming, while others leave wondering why they crossed the city for a walk that never fully started.
 

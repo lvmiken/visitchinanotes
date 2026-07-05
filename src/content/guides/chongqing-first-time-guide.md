@@ -2,7 +2,7 @@
 title: "Chongqing Travel Guide for First-Time Visitors"
 description: "A practical Chongqing travel guide for first-time visitors, including who the city suits best, how many days it needs, and how to handle the terrain, food, and intensity."
 publishDate: 2026-06-14
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "choose-destination"
 tripLength: "2 to 4 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Chongqing is memorable precisely because it does not feel flat, simple, or interchangeable. The city usually works best for travelers who want intensity, food, night views, and a place that feels visually unlike the rest of the route.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 ## Who this guide is for
 

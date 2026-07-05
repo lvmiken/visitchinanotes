@@ -2,7 +2,7 @@
 title: "Two Rivers and Four Lakes or Zhengyang Walking Street: Which Guilin First Night Fits Better?"
 description: "Choose between a polished Two Rivers and Four Lakes evening and an easier Zhengyang Walking Street first night in Guilin based on arrival energy, dinner plans, and what tomorrow still needs."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 This is one of the most practical Guilin choices because both options are good, but they solve very different arrival-night problems.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 One gives you:
 

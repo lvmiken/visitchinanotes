@@ -2,7 +2,7 @@
 title: "A better 2-day Guilin and Yangshuo plan for first-time visitors"
 description: "Use this 2-day Guilin and Yangshuo plan to keep the region scenic, coherent, and realistic, with a cleaner balance between Li River logic, Yangshuo atmosphere, and limited city-side time."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -29,6 +29,8 @@ faq:
 ---
 
 `2 days` is enough for `Guilin + Yangshuo`.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 It is just not enough for every version of Guilin and Yangshuo at once.
 

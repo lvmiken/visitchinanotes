@@ -2,7 +2,7 @@
 title: "Yulong River or Xingping: Which Yangshuo side trip deserves your better weather window?"
 description: "Compare Yulong River and Xingping so first-time Yangshuo visitors can choose between a softer countryside half day and a more iconic Li River branch."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -28,6 +28,8 @@ faq:
 ---
 
 This is one of the best Yangshuo tradeoffs because both options are good.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 They are just good in very different ways.
 
@@ -84,4 +86,3 @@ That is usually cleaner than pretending both solve the same problem.
 - read [Yulong River in Yangshuo: The calm countryside half-day that often beats one more town hour](/places/yulong-river/) if the softer side-trip answer is probably right
 - read [Xingping Ancient Town: Go for the river edge, not the old-street fantasy](/places/xingping-ancient-town/) if the iconic-river side-trip answer is probably right
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the broader shape of Yangshuo still needs editing
-

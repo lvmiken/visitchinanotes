@@ -2,7 +2,7 @@
 title: "How Many Days in Hong Kong for First-Time Visitors"
 description: "See what 2, 3, 4, or 5 days in Hong Kong really gives you, and which trip length works best for first-time visitors who want skyline views, neighborhoods, food, and maybe one slower side layer."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Hong Kong is one of the easiest major Asia cities to compress without making the trip feel empty.
+
+If you want the broader route-role page with Hong Kong's pairings, guides, and district clusters collected together while you decide the stay length, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 That is the good news.
 

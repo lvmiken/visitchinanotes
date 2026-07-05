@@ -2,7 +2,7 @@
 title: "Where to Eat Near Temple Street for First-Time Visitors"
 description: "Use this Temple Street food guide to choose between a fuller claypot-rice or seafood dinner, quick local snacks, a more adventurous beef-offal stop, or a sweet finish after a Kowloon market night."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 market-led evening"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat near `Temple Street` is usually not a question about the single best restaurant.
+
+If you want the broader route-role page with Hong Kong's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 It is a question about what job this part of Kowloon should do for the trip.
 

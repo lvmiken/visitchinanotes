@@ -2,7 +2,7 @@
 title: "One Guilin city half-day before Yangshuo: What is actually worth doing?"
 description: "Plan one useful Guilin city half day before Yangshuo without turning the stop into filler, and choose the right mix of Elephant Trunk Hill, Reed Flute Cave, or a softer evening."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -27,6 +27,8 @@ faq:
 ---
 
 If you have `one Guilin city half day` before `Yangshuo`, the goal is not to prove the city has endless attractions.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 The goal is to use the city well without losing the scenic plot.
 
@@ -105,4 +107,3 @@ Then move on cleanly.
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the next day still needs to be protected properly
 - read [Elephant Trunk Hill or Reed Flute Cave: Which Guilin Half-Day Is Actually Better?](/guides/elephant-trunk-hill-or-reed-flute-cave-which-guilin-half-day-is-actually-better/) if you still are down to those two city-side choices
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the bigger question is how much the overnight on the other side should matter
-

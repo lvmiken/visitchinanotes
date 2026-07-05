@@ -2,7 +2,7 @@
 title: "Are Shajing Oysters Worth a Detour for First-Time Visitors?"
 description: "Decide whether Shajing oysters deserve a real Shenzhen detour based on trip length, Bao'an route fit, seafood interest, and whether one famous local specialty will actually improve the trip."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "1 specialty meal decision"
@@ -32,6 +32,8 @@ faq:
 ---
 
 `Shajing oysters` are one of the clearest foods that make Shenzhen feel like Shenzhen.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 They are also one of the easiest specialties to overforce into the wrong trip.
 

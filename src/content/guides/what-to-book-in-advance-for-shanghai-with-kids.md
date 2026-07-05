@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Shanghai With Kids"
 description: "A practical Shanghai family booking guide covering what to reserve first, what can stay flexible, and which advance plans matter most when traveling with kids."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Families often make one of two Shanghai booking mistakes.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 They either reserve almost nothing and leave the one child-led highlight too late, or they reserve too much and end up dragging the whole trip behind a timetable that no longer fits the family's energy.
 

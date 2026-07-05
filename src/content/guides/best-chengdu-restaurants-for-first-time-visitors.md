@@ -2,7 +2,7 @@
 title: "Best Chengdu Restaurants for First-Time Visitors"
 description: "Use this Chengdu restaurant guide to choose the right first-trip meals by style, from classic Sichuan dinners and noodles to polished restaurant nights and hot pot that actually fits the route."
 publishDate: 2026-06-23
-updatedDate: 2026-06-28
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The best Chengdu restaurants are not one universal list.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 They are a set of different answers to different first-trip problems:
 

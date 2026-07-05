@@ -2,7 +2,7 @@
 title: "How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors"
 description: "Learn when Shanghai metro is easiest, when Didi or taxi saves time, whether ferries are worth using, and how hotel area can make the city feel smooth or surprisingly tiring."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Shanghai transport is usually easy, but the city feels easiest when travelers stop trying to pick one perfect transport mode for every situation.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you solve transport, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That is the whole point of this page.
 

@@ -2,7 +2,7 @@
 title: "Yangshuo Rock Climbing for Beginners: Where to Start and When It Fits a Short Trip"
 description: "Use this practical Yangshuo climbing guide to decide whether a beginner-friendly climbing session belongs in your trip, which areas are the easiest first pick, and when Moon Hill or other crags add more than another generic scenic detour."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "half day"
@@ -34,6 +34,8 @@ faq:
 ---
 
 `Yangshuo rock climbing` sounds like a niche add-on until you understand what makes the region special.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 The landscape here is not only pretty.
 

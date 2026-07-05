@@ -2,7 +2,7 @@
 title: "Shanghai Airport to City for First-Time Visitors: Pudong vs Hongqiao Arrival Guide"
 description: "Compare the best Shanghai airport to city options for first-time visitors, including Pudong vs Hongqiao, metro vs taxi, and how to avoid a rough first evening."
 publishDate: 2026-06-17
-updatedDate: 2026-06-25
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -29,6 +29,8 @@ faq:
 ---
 
 Shanghai is one of the easier first landings in China, but the arrival still goes better when travelers choose based on the real airport-to-hotel journey rather than on one headline transport idea.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 ## Who this is for
 

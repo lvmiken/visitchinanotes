@@ -2,7 +2,7 @@
 title: "Where to Eat in Xi'an With Kids for First-Time Visitors"
 description: "Use this family Xi'an food guide to choose where to eat with kids, including when South Gate or Bell Tower is easiest, when the Muslim Quarter is too much, and when the pagoda side is the better family dinner answer."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in Xi'an with kids is usually not a restaurant-ranking problem.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 It is a pacing problem.
 

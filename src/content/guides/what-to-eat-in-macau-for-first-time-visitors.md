@@ -2,7 +2,7 @@
 title: "What to Eat in Macau for First-Time Visitors"
 description: "Learn which Macau foods are most worth your limited meals, from Portuguese egg tarts and pork chop buns to minchi, African chicken, Macanese dishes, dim sum, congee, and local street snacks."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Macau food should not be reduced to one egg tart box and one rushed Senado Square snack stop.
+
+If you want the broader route-role page with Macau's pairings, guides, and district clusters collected together while you plan meals, keep the [Macau destination hub](/destinations/macau/) open too.
 
 Portuguese egg tarts absolutely matter, and for many first-time visitors they deserve a real place in the trip. But if every food decision turns into another bakery queue or another tiny snack, the city starts feeling smaller than it should.
 

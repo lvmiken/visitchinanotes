@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Shanghai: Tickets, Trains, and Reservations"
 description: "See which Shanghai tickets, trains, and reservations need advance booking, what can stay flexible, and which choices matter most on a short first trip."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Not everything in Shanghai needs to be booked in advance.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you decide what to lock early, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That is exactly why this page matters.
 

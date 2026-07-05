@@ -2,7 +2,7 @@
 title: "Rainy Day in Beijing for First-Time Visitors"
 description: "A practical rainy day Beijing guide for first-time visitors, including which plans to keep, when to switch to museums, how to use indoor backup options, and how to stop bad weather from wrecking the trip."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Rain in Beijing does not automatically ruin the day.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 What usually ruins the day is panic-switching without deciding which part of the plan actually matters most.
 

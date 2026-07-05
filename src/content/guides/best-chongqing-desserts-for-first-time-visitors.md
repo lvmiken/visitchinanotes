@@ -2,7 +2,7 @@
 title: "Best Chongqing Desserts for First-Time Visitors"
 description: "Choose which Chongqing desserts are actually worth trying, from Shancheng tangyuan and lianggao to Ciqikou mahua, and decide whether sweets belong on a Jiaochangkou night or a Ciqikou old-street stop."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 dessert stop or 1 sweet layer"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chongqing is famous for heat, chili, and heavier meals, which is exactly why its dessert layer matters more than many first-time visitors expect.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 You usually do not come here for a dessert-first trip. But one good sweet finish after a snack-heavy night, one cooling bowl on a hot afternoon, or one edible souvenir from Ciqikou can make the whole food side of the city feel more rounded.
 

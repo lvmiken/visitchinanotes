@@ -2,7 +2,7 @@
 title: "A Practical 2-Day Qingdao Itinerary for a First Visit"
 description: "Use this two-day Qingdao plan to keep a first coastal stop relaxed, with waterfront time, neighborhood pacing, and realistic arrival and departure flow."
 publishDate: 2026-06-17
-updatedDate: 2026-06-18
+updatedDate: 2026-07-05
 city: "qingdao"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Qingdao feels best when the itinerary protects the city's lighter rhythm instead of forcing it to behave like a checklist-heavy capital.
+
+If you want the broader cluster page with Qingdao's route role, supporting guides, and place pages together while you pressure-test the day flow, keep the [Qingdao destination hub](/destinations/qingdao/) open too.
 
 ## Who this itinerary is for
 

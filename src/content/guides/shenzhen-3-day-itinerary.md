@@ -2,7 +2,7 @@
 title: "Shenzhen 3-Day Itinerary for First-Time Visitors"
 description: "Use this Shenzhen 3-day itinerary to plan Futian, Nanshan, and one flexible coastal or shopping day without overbuilding the route or wasting time on scattered cross-city jumps."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -38,6 +38,8 @@ faq:
 ---
 
 Shenzhen is one of the easiest China cities to make efficient but forgettable.
+
+If you want the broader route-role page with Shenzhen's pairings, guides, and district clusters collected together while you pressure-test the day flow, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 That usually happens when the route becomes:
 

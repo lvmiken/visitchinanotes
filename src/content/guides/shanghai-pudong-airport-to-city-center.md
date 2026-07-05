@@ -2,7 +2,7 @@
 title: "How to Get From Shanghai Pudong Airport to the City Center"
 description: "Compare Metro Line 2, Maglev, taxi, Didi, and late-night buses so you can choose the best way from Shanghai Pudong Airport to the city center for your arrival time, luggage, and hotel area."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -31,6 +31,8 @@ faq:
 ---
 
 If you are landing at **Shanghai Pudong International Airport (PVG)**, the real question is not "What transport exists?" The real question is which route gets you to your hotel with the least stress after a long flight.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you solve the first arrival, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 This guide is based on current official Shanghai Airport transport information checked on **June 17, 2026**. Operating details can change, so live airport signs and official transport staff still win on the day.
 

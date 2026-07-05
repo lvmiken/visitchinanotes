@@ -2,7 +2,7 @@
 title: "Where to Eat in Shanghai for First-Time Visitors"
 description: "Choose which Shanghai neighborhoods should carry your key meals, from xiaolongbao and casual classics to Bund-view dinners, French Concession cafes, and a stronger final-night restaurant."
 publishDate: 2026-06-20
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in Shanghai is usually a district question before it becomes a restaurant question.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That matters because Shanghai is not a city where the best meal automatically comes from the most famous address. On a short trip, the stronger result usually comes from eating in the area that already fits the day.
 

@@ -2,7 +2,7 @@
 title: "Can You Really Visit DJI Sky City in Shenzhen?"
 description: "Decide whether DJI Sky City is a real Shenzhen stop, what kind of visit is realistic, and when it works better as an architecture detour."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "20 to 60 minutes"
@@ -34,6 +34,8 @@ faq:
 ---
 
 `DJI Sky City` is one of those Shenzhen places that people often imagine as a full attraction when it usually works better as a very controlled detour.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 That does not make it weak.
 

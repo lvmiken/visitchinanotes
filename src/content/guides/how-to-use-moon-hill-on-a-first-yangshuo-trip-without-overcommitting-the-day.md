@@ -2,7 +2,7 @@
 title: "How to use Moon Hill on a first Yangshuo trip without overcommitting the day"
 description: "Plan Moon Hill on a first Yangshuo trip without letting one active climb crowd out the countryside, town rhythm, or more important Li River choices."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -27,6 +27,8 @@ faq:
 ---
 
 `Moon Hill` usually improves Yangshuo only when you stop treating it like a mandatory checklist item.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 The useful question is:
 
@@ -76,4 +78,3 @@ If the route wants activity, then `Moon Hill` makes sense.
 - read [Moon Hill in Yangshuo: Worth it when you want a real climb, not just another photo stop](/places/moon-hill/) if you still need the direct place-level answer
 - read [Yulong River or Xingping: Which Yangshuo Side Trip Deserves Your Better Weather Window?](/guides/yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window/) if Moon Hill still is competing with softer or more iconic alternatives
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the broader Yangshuo structure still needs work
-

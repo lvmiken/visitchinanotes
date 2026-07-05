@@ -2,7 +2,7 @@
 title: "What to Eat in Shanghai for First-Time Visitors"
 description: "Learn which Shanghai foods are most worth your limited meals, from xiaolongbao and shengjian to scallion oil noodles, seasonal specialties, and polished Shanghainese dinners."
 publishDate: 2026-06-20
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Shanghai food should not be reduced to one basket of soup dumplings.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan meals, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 Xiaolongbao absolutely matters, and for many first-time visitors it deserves a real place in the trip. But if every meal turns into another dumpling stop, the city starts feeling flatter than it should.
 

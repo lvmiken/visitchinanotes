@@ -2,7 +2,7 @@
 title: "Best Shanghai Restaurants for First-Time Visitors"
 description: "Use this Shanghai restaurant guide to choose the right first-trip meals by style, from classic xiaolongbao and shengjian stops to proper Shanghainese dinners and polished restaurant nights."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The best Shanghai restaurants are not one universal list.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 They are different answers to different first-trip problems:
 

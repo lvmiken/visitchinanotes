@@ -2,7 +2,7 @@
 title: "What to Do in Xi'an at Night With Kids for First-Time Visitors"
 description: "Use this Xi'an family night guide to decide between South Gate, Bell Tower, the Muslim Quarter, and the pagoda side, plus when to keep the evening simple after the Terracotta Army."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -34,6 +34,8 @@ faq:
 ---
 
 What to do in Xi'an at night with kids is usually not a nightlife question.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 It is a pacing question.
 

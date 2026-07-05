@@ -2,7 +2,7 @@
 title: "Where to Eat in the French Concession for First-Time Visitors"
 description: "Use this French Concession food guide to choose between a proper Shanghainese dinner, refined xiaolongbao, a simple noodle stop, or one dinner that naturally rolls into drinks."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 lunch-to-evening block"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in the French Concession is usually not a question about the single best restaurant.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 It is a question about what kind of meal this district should carry for the trip.
 

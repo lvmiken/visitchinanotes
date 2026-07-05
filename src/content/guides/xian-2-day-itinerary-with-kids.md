@@ -2,7 +2,7 @@
 title: "Xi'an 2-Day Itinerary With Kids for First-Time Visitors"
 description: "Use this 2-day Xi'an itinerary with kids to plan the Terracotta Army, the City Wall, and one easier food or evening layer without overloading the trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Two days in Xi'an with kids can work very well, but only if the trip stops trying to act like a compressed 3-day itinerary.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 The goal of the short family version is not to prove that children can handle every famous historical stop.
 

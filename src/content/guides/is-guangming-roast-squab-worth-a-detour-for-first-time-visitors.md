@@ -2,7 +2,7 @@
 title: "Is Guangming Roast Squab Worth a Detour for First-Time Visitors?"
 description: "Decide whether Guangming roast squab deserves a real Shenzhen detour based on trip length, route shape, food priorities, and whether one famous local specialty will actually improve the trip."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "1 specialty meal decision"
@@ -32,6 +32,8 @@ faq:
 ---
 
 `Guangming roast squab` is one of those foods that can make Shenzhen feel more specific.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 It is also one of those foods that can easily become a bad detour if the route is too short.
 

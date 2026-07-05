@@ -2,7 +2,7 @@
 title: "Where to Eat in Beijing for First-Time Visitors"
 description: "Choose which Beijing neighborhoods should carry your key meals, from duck and old-city classics to Sanlitun dinners and practical places that fit real sightseeing days."
 publishDate: 2026-06-19
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Where to eat in Beijing is usually a district question before it becomes a restaurant question.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That is the difference between a meal that makes the trip feel richer and a meal that turns into one more exhausting transfer.
 

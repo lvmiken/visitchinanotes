@@ -2,7 +2,7 @@
 title: "Best Chongqing Grilled Fish for First-Time Visitors"
 description: "Decide which Chongqing grilled fish experience fits your trip best, from easy downtown Wanzhou-style dinners and broader Guanyinqiao evenings to scenic Nanbin Road fish nights and true Three Gorges detours."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -31,6 +31,8 @@ faq:
 ---
 
 If hot pot is Chongqing's headline dinner, grilled fish is often the meal that stops the trip from feeling repetitive.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 That matters more than it sounds.
 

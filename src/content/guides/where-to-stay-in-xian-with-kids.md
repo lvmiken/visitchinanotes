@@ -2,7 +2,7 @@
 title: "Where to Stay in Xi'an With Kids for First-Time Visitors"
 description: "Choose where to stay in Xi'an with kids by comparing South Gate, Bell Tower, and the pagoda side for walkability, meals, and easier family evenings."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The best family hotel in Xi'an is usually not the one with the biggest room, and not even the one with the lowest nightly rate.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 It is the one that makes the hard parts of the trip easier:
 

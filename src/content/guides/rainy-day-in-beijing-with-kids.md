@@ -2,7 +2,7 @@
 title: "Rainy Day in Beijing With Kids: Best Indoor Things to Do"
 description: "Find the best indoor things to do in Beijing with kids on a rainy day, plus when to keep booked plans, when to pivot, and how to avoid an exhausting day."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Rain does not automatically ruin a Beijing family day.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 What usually ruins it is trying to preserve the exact same plan after the weather, the children's energy, and the transport reality have all changed.
 

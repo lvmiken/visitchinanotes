@@ -2,7 +2,7 @@
 title: "How to Get From Xi'an Xianyang Airport to the City Center"
 description: "Compare taxi, Didi, airport rail, and airport bus from Xi'an Xianyang Airport so first-time visitors can choose the easiest route to Bell Tower, South Gate, or central Xi'an."
 publishDate: 2026-06-19
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -31,6 +31,8 @@ faq:
 ---
 
 If you are landing at **Xi'an Xianyang International Airport (XIY)**, the best route into central Xi'an depends less on one universal "best transfer" and more on three simple questions:
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you solve the first arrival, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 - how tired will you be after landing?
 - how much luggage will you have?

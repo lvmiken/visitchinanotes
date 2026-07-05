@@ -2,7 +2,7 @@
 title: "How long should you stay in Yangshuo on a first trip?"
 description: "Work out how many days Yangshuo deserves on a first trip, when one night is enough, when two nights pays off, and when the town becomes too much for the wider route."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "plan-stay"
 tripLength: "1 to 2 days"
@@ -28,6 +28,8 @@ faq:
 ---
 
 `Yangshuo` is one of those places that can feel either perfectly judged or strangely overextended.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 The difference usually comes down to whether the stay has a clear job.
 

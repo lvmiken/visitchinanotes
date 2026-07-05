@@ -2,7 +2,7 @@
 title: "What to Eat Around Bell Tower and South Gate in Xi'an for First-Time Visitors"
 description: "Use this Xi'an old-city food guide to decide what to eat around Bell Tower and South Gate, including the best noodle meals, dumpling dinners, heavier specialties, and when this calmer area beats the Muslim Quarter."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 to 4 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 What to eat around Bell Tower and South Gate is a different question from where to eat there.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 Once travelers know they want the calmer old city instead of one louder Muslim Quarter session, the next decision usually becomes:
 

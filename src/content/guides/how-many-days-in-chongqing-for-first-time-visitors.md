@@ -2,7 +2,7 @@
 title: "How Many Days in Chongqing for First-Time Visitors"
 description: "See whether Chongqing needs 2, 3, or 4 days, what a short first visit can realistically cover, and when extra time starts adding real value instead of just more stairs and transfers."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Chongqing is one of the easiest major China cities to get wrong by trip length.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 Some first-time visitors only give it one rushed skyline evening and a quick meal, which makes the city feel more tiring than memorable. Others try to stretch the stay without deciding what the extra day is actually for, which makes the route heavier without making Chongqing better.
 

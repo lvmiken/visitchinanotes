@@ -2,7 +2,7 @@
 title: "What to Do in Xintiandi at Night for First-Time Visitors"
 description: "Use this Xintiandi night guide to decide whether your evening should be dinner, cocktails, a shorter stroll, or a polished final-night plan, and learn when Xintiandi is better than the Bund, Fumin Road, or Jing'an."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Xintiandi at night is one of the easiest Shanghai evenings to enjoy and one of the easiest to overbuild.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That is because the district already solves a lot at once:
 

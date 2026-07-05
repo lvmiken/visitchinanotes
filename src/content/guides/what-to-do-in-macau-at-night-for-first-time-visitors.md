@@ -2,7 +2,7 @@
 title: "What to Do in Macau at Night for First-Time Visitors"
 description: "Choose between the Macau Peninsula heritage core, Taipa Village, Cotai, Macau Tower, or a calmer Coloane finish based on your energy, hotel area, and how polished or grounded the night should feel."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "build-itinerary"
 tripLength: "1 to 2 evenings"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Macau at night works best when you stop asking it to behave like a giant nightlife capital.
+
+If you want the broader route-role page with Macau's pairings, guides, and district clusters collected together while you shape the evenings, keep the [Macau destination hub](/destinations/macau/) open too.
 
 Its real strength is narrower and more useful:
 

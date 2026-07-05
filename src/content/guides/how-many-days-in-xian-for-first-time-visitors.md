@@ -2,7 +2,7 @@
 title: "How Many Days in Xi'an for First-Time Visitors"
 description: "Learn whether Xi'an needs 1, 2, or 3 days, what a short stop can realistically cover, and when a longer stay starts adding real value."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "plan-stay"
 tripLength: "1 to 3 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Xi'an is one of the easiest major China stops to fit into a first-time route because it usually does not need many days to feel worthwhile.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you decide the stay length, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That is part of its strength.
 

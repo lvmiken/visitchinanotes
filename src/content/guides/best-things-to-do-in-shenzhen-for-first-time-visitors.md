@@ -2,7 +2,7 @@
 title: "Best Things to Do in Shenzhen for First-Time Visitors"
 description: "Find out which things to do in Shenzhen are actually worth your limited time, how to choose between Futian, Shenzhen Bay, Huaqiangbei, Nantou, Shekou, and OCT-LOFT, and how to build a first trip that feels edited instead of generic."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 The best things to do in Shenzhen are usually not the highest number of famous names you can force into one short stay.
+
+If you want the broader route-role page with Shenzhen's pairings, guides, and district clusters collected together while you shortlist the city, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 They are the pieces that make the city feel legible:
 

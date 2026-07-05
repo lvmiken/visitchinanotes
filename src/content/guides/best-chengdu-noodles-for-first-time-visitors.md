@@ -2,7 +2,7 @@
 title: "Best Chengdu Noodles for First-Time Visitors"
 description: "Choose which Chengdu noodle stop fits your trip best, from flexible all-around bowls and old-school dan dan noodles to richer za jiang noodles and calmer flat-noodle soup comfort meals."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 meal"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Hotpot is the meal that headlines Chengdu.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 Noodles are the bowl that makes the city feel everyday, local, and actually lived in.
 

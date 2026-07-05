@@ -2,7 +2,7 @@
 title: "What to Do in Shenzhen at Night for First-Time Visitors"
 description: "Choose between Futian CBD, Shenzhen Bay, Shekou Sea World, Nantou Ancient Town, and OCT-LOFT based on your hotel area, energy, and whether you want skyline views, dinner, live music, or a more relaxed night."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Shenzhen is one of those cities that can feel too polished in daylight and much more useful after dark.
+
+If you want the broader route-role page with Shenzhen's pairings, guides, and district clusters collected together while you shape the evenings, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 That is not because every night needs to become nightlife.
 

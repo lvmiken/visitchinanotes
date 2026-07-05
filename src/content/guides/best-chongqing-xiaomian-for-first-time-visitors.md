@@ -2,7 +2,7 @@
 title: "Best Chongqing Xiaomian for First-Time Visitors"
 description: "Decide which Chongqing xiaomian bowl fits your trip best, from classic breakfast noodles and old-school bench shops to Ciqikou-side bowls, specialty Daping noodles, and beefier south-side comfort bowls."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 meal"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Hot pot is the meal that headlines Chongqing.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 Xiaomian is the bowl that makes the city feel lived in.
 

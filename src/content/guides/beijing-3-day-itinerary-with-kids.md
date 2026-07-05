@@ -2,7 +2,7 @@
 title: "Beijing 3-Day Itinerary With Kids for First-Time Visitors"
 description: "A practical 3-day Beijing itinerary with kids, including how to combine the Forbidden City, Mutianyu Great Wall, and one calmer park or food-led day without overloading the family."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Three days in Beijing with kids can work very well, but only if the trip is honest about what a short family version can and cannot do.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 The goal is not to empty the trip. The goal is to protect the parts children are most likely to actually remember.
 

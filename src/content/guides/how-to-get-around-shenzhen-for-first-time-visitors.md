@@ -2,7 +2,7 @@
 title: "How to Get Around Shenzhen for First-Time Visitors"
 description: "Learn when Shenzhen Metro is the best default, when taxi or Didi saves time, how to think about Futian versus Nanshan versus Shekou movement, and why a disciplined hotel base matters more than many first-time visitors expect."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Shenzhen transport usually looks wider before the trip than it feels on the ground.
+
+If you want the broader route-role page with Shenzhen's pairings, guides, and district clusters collected together while you solve transport, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 That is because the real problem is not whether the city has enough infrastructure.
 

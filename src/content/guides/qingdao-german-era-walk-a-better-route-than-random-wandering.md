@@ -2,7 +2,7 @@
 title: "Qingdao's German-Era Walk: A Better Route Than Random Wandering"
 description: "Use a cleaner Qingdao old-town and Badaguan walk to see the city's German-era layer without zigzagging the coast, wasting transfers, or mistaking every colonial-looking block for a must-do."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "qingdao"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 hours"
@@ -38,6 +38,8 @@ faq:
 ---
 
 `Qingdao's German-era side` is easy to undersell and easy to do badly.
+
+If you want the broader route-role page with Qingdao's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Qingdao destination hub](/destinations/qingdao/) open too.
 
 Undersell it, and the city feels flatter than it should.
 

@@ -2,7 +2,7 @@
 title: "Where to Eat in Dongmen for First-Time Visitors"
 description: "Use this Dongmen food guide to decide whether the area should carry your street-snack crawl, a casual cheap dinner, Dongmending Food Street stop, or one easy Luohu shopping night."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 casual evening"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in `Dongmen` is usually not a question about the single best restaurant.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 It is a question about what job this area should do for the trip.
 

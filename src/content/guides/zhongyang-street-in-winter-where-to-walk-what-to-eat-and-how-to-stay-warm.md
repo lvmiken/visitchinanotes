@@ -2,7 +2,7 @@
 title: "Zhongyang Street in Winter: Where to Walk, What to Eat, and How to Stay Warm"
 description: "Plan a better Zhongyang Street winter walk with practical advice on where the street actually pays off, what to eat without random cold wandering, and how long to stay outside before Harbin stops being fun."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 hours"
@@ -34,6 +34,8 @@ faq:
 ---
 
 `Zhongyang Street` in winter is not hard because the street is weak.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 It is hard because people keep planning it like a normal pedestrian street in normal weather.
 

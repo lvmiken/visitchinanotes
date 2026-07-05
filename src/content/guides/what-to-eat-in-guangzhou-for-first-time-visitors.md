@@ -2,7 +2,7 @@
 title: "What to Eat in Guangzhou for First-Time Visitors"
 description: "Learn which Guangzhou foods are most worth your limited meals, from dim sum and roast goose to claypot rice, soup-and-noodle stops, old Xiguan snacks, and one proper Cantonese dinner."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Guangzhou food should not be reduced to one dim sum basket.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 Dim sum absolutely matters, and for many first-time visitors it deserves a real place in the trip. But if every meal turns into another dim sum or generic Cantonese room, the city starts feeling narrower than it should.
 

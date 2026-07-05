@@ -2,7 +2,7 @@
 title: "Best Things to Do in Xi'an for First-Time Visitors"
 description: "Find out which things to do in Xi'an are actually worth the time, which ones should anchor a short trip, and what to skip when the route is tight."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Xi'an are usually not the longest list of famous names.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you shortlist the city, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 They are the stops that give a short first trip the clearest shape: one major excursion, one in-city historical anchor, one food-and-evening layer, and only then any extra museum or pagoda-side depth.
 

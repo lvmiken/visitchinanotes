@@ -2,7 +2,7 @@
 title: "Xi'an 2-Day Itinerary for First-Time Visitors"
 description: "Use this practical 2-day Xi'an itinerary to fit in the Terracotta Army, the old city, food, and one realistic evening without overloading a short trip."
 publishDate: 2026-06-14
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Two days is often the Xi'an sweet spot.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That is long enough to let the city feel distinct, but short enough that every wrong add-on shows immediately.
 

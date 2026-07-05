@@ -2,7 +2,7 @@
 title: "Beijing Road or a Pearl River Night Cruise? Which Guangzhou Night Earns Your One Free Evening"
 description: "Compare Beijing Road and a Pearl River night cruise so first-time Guangzhou visitors can choose between the easier central dinner-and-walk night and the more event-like skyline evening."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 evening decision"
@@ -33,6 +33,8 @@ faq:
 ---
 
 This is one of Guangzhou's most useful evening decisions because both options can be good and both can disappoint if used for the wrong job.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 For many first-time visitors, the question is not:
 

@@ -2,7 +2,7 @@
 title: "What to Eat in Hong Kong for First-Time Visitors"
 description: "Learn which Hong Kong foods are most worth your limited meals, from dim sum and cha chaan teng breakfasts to roast goose, wonton noodles, street snacks, and one seafood or dai pai dong-style dinner."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Hong Kong food should not be reduced to one dim sum basket and one skyline dinner.
+
+If you want the broader route-role page with Hong Kong's pairings, guides, and district clusters collected together while you plan meals, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 Dim sum absolutely matters, and for many first-time visitors it deserves a real place in the trip. But if every meal turns into another polished Cantonese-room session, the city starts feeling narrower than it should.
 

@@ -2,7 +2,7 @@
 title: "Rainy day in Guilin for first-time visitors: Keep the city light or protect the river?"
 description: "Use this rainy-day Guilin guide to decide when to keep a short city plan, when to pivot toward indoor stops, and when the smarter move is simply to protect the Li River or Yangshuo instead."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -29,6 +29,8 @@ faq:
 ---
 
 Rain in `Guilin` usually does not destroy the stop.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 What destroys the stop is forgetting that `Guilin` itself is often the supporting layer, not the main scenic reason you came.
 
@@ -134,4 +136,3 @@ That can save the regional chapter better than one stubborn wet checklist.
 - read [Reed Flute Cave in Guilin: When the indoor detour actually helps](/places/reed-flute-cave/) if an indoor city-side half day is probably the right rescue
 - read [One Guilin Night: Two Rivers and Four Lakes or Just Save Energy for the Li River?](/guides/one-guilin-night-two-rivers-and-four-lakes-or-just-save-energy-for-the-li-river/) if the real issue now is the evening
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the next day still needs protecting properly
-

@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Beijing With Kids"
 description: "A practical Beijing family booking guide covering what to reserve first, what can stay flexible, and which advance plans matter most when traveling with kids."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Families often make one of two Beijing booking mistakes.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 They either reserve far too little and risk losing the one thing the children were excited about, or they reserve far too much and end up dragging the whole trip behind a timetable that no longer fits the family's energy.
 

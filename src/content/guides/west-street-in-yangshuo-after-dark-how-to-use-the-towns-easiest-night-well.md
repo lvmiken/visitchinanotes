@@ -2,7 +2,7 @@
 title: "West Street in Yangshuo After Dark: How to Use the Town's Easiest Night Well"
 description: "Plan a better West Street night in Yangshuo with advice on dinner timing, bars and walking, how long to stay, and when the town-center evening is enough without forcing bigger nightlife."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 If West Street is going to carry your Yangshuo night, the most useful question is not whether it exists.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 It is how to stop it from becoming either:
 

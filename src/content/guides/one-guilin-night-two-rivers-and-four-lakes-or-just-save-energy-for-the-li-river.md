@@ -2,7 +2,7 @@
 title: "One Guilin night: Two Rivers and Four Lakes or just save energy for the Li River?"
 description: "Decide whether a Guilin night cruise or lake walk is worth your only city evening, or whether the smarter move is to keep the night light and protect the Li River instead."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -27,6 +27,8 @@ faq:
 ---
 
 This is a very real Guilin decision because the city often gives you just enough evening to do something — but not always enough evening to do everything well.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 ## Source check
 
@@ -69,4 +71,3 @@ That is especially true if the answer you really came for is [Li River Cruise fr
 - read [Two Rivers and Four Lakes in Guilin: Best as a city-side evening, not a replacement for the Li River](/places/two-rivers-and-four-lakes/) if the polished city-night answer is probably right
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if tomorrow's flagship scenic day still needs protecting
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the evening answer depends on where you are sleeping
-

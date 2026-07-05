@@ -2,7 +2,7 @@
 title: "Elephant Trunk Hill or Reed Flute Cave: Which Guilin half-day is actually better?"
 description: "Compare Elephant Trunk Hill and Reed Flute Cave so first-time Guilin visitors can choose the better city-side half day without weakening the wider Li River and Yangshuo plan."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -29,6 +29,8 @@ faq:
 ---
 
 This is the Guilin city question that matters once you accept one important truth:
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 `the city itself is usually support, not the region's final scenic payoff.`
 
@@ -112,4 +114,3 @@ Guilin usually improves most when the city side stays useful and selective.
 - read [One Guilin City Half-Day Before Yangshuo: What Is Actually Worth Doing?](/guides/one-guilin-city-half-day-before-yangshuo-what-is-actually-worth-doing/) if you want the cleaner city-side day shape
 - read [Li River Cruise from Guilin to Yangshuo: When It Earns a Full Scenic Day](/places/li-river/) if the regional scenic hierarchy still is not locked
 - read [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) if the wider Guilin shortlist still needs editing
-

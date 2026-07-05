@@ -2,7 +2,7 @@
 title: "Beijing for First-Time Visitors: How Many Days, What to Prioritize, and Where to Stay"
 description: "Use this Beijing guide to decide how many days to stay, what to prioritize first, where to stay, and how to keep the city from feeling too big or too tiring."
 publishDate: 2026-06-14
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "3 to 5 days"
@@ -36,6 +36,8 @@ faq:
 ---
 
 Beijing is one of the most rewarding first stops in China, but it also punishes vague planning more than some other big cities do. The trip usually works best when you group each day by district instead of trying to cross the city for every headline sight.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you shape the city, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 ## Who this guide is for
 

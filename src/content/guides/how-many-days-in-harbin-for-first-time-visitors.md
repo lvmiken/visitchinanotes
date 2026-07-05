@@ -2,7 +2,7 @@
 title: "How Many Days in Harbin for First-Time Visitors"
 description: "See whether Harbin needs 1, 2, or 3 days, what a short first winter visit can realistically cover, and when the city earns more time than one ice-spectacle night."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "plan-stay"
 tripLength: "1 to 3 days"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Harbin is one of those cities where people often ask the wrong version of the time question.
+
+If the length question still keeps drifting back into `Should Harbin even be in the route?`, switch briefly to the [Harbin destination hub](/destinations/harbin/) so the stay length, key guides, and winter place pages sit in one cleaner planning view.
 
 They ask:
 

@@ -2,7 +2,7 @@
 title: "Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay"
 description: "Decide whether Xi'an belongs in your route, how many days to give it, what to see first, and which hotel base fits a short first trip."
 publishDate: 2026-06-14
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Xi'an is often the answer when travelers want history, but do not want that history to come with an overwhelming city scale.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you shape the city, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 It is also better than many first-time visitors expect at something else: feeling complete in a short stay. Xi'an usually works because the city can combine one major headline excursion, one compact old-city day, and one very recognizable food identity without demanding a long stop.
 

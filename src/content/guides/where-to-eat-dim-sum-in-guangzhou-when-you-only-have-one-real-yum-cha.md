@@ -2,7 +2,7 @@
 title: "Where to Eat Dim Sum in Guangzhou When You Only Have One Real Yum Cha"
 description: "Choose the right one-and-only dim sum meal in Guangzhou by matching it to Beijing Road, Liwan and Panxi, or your hotel side, instead of chasing random 'best dim sum' lists across the city."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 meal"
@@ -39,6 +39,8 @@ faq:
 ---
 
 If Guangzhou gives you only one real `yum cha`, that meal should be chosen like a route decision, not like a trophy.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That is the whole point of this page.
 

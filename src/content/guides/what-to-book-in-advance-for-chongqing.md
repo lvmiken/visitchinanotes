@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Chongqing: Tickets, Trains, and Reservations"
 description: "See which Chongqing tickets, trains, and reservations actually need advance booking, what can stay flexible, and how to protect the right parts of a short first trip without overplanning the city."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Not everything in Chongqing needs to be booked in advance.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 That is exactly why this page matters.
 

@@ -2,7 +2,7 @@
 title: "Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters"
 description: "Find out which things to do in Guilin are actually worth your limited time, how to choose between the Li River, Yangshuo, and a shorter city-side stay, and how to keep the region scenic without overbuilding it."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 days"
@@ -34,6 +34,8 @@ faq:
 ---
 
 The best things to do in Guilin are usually not the longest list.
+
+If you want the route role, city guides, and core Guilin place pages collected in one view while you shortlist the region, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 They are the pieces that make the region feel honest on a first trip:
 

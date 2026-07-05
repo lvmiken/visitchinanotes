@@ -2,7 +2,7 @@
 title: "Macau 2-Day Itinerary for First-Time Visitors"
 description: "Use this Macau 2-day itinerary to plan one heritage-centered day and one Taipa or Cotai day without rushing the city or wasting time on scattered resort and old-town jumps."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "build-itinerary"
 tripLength: "2 days"
@@ -36,6 +36,8 @@ faq:
 ---
 
 Macau is one of the easiest short-stop cities in Asia to improve dramatically just by adding one night.
+
+If you want the broader route-role page with Macau's pairings, guides, and district clusters collected together while you pressure-test the day flow, keep the [Macau destination hub](/destinations/macau/) open too.
 
 That matters because many first-time visitors only see a compressed version:
 

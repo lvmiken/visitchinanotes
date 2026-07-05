@@ -2,7 +2,7 @@
 title: "Should You Stay Near Shanghai Disneyland or in Central Shanghai?"
 description: "Compare Disney-area hotels, central Shanghai bases, and split-stay logic so you can choose what actually works for a first Shanghai trip with Disneyland in the plan."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The wrong answer here is not always "Disney-area hotels."
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 The wrong answer is usually letting one park day take over the hotel logic for the entire Shanghai trip.
 

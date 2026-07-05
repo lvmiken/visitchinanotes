@@ -2,7 +2,7 @@
 title: "Best Things to Do in Shanghai With Kids"
 description: "A practical guide to the best things to do in Shanghai with kids, including which family attractions are really worth the time, which ones fit younger children better, and how to build a fuller first trip without overpacking every day."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Shanghai with kids are usually not the ones that look most impressive on a map.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 They are the ones that give the family a clear payoff without draining all the energy needed for the rest of the trip.
 

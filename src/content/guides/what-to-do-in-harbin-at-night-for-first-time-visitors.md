@@ -2,7 +2,7 @@
 title: "What to Do in Harbin at Night for First-Time Visitors"
 description: "Choose between Harbin Ice and Snow World, Zhongyang Street after dark, a shorter Saint Sophia evening, or a lighter hotel-side night so your Harbin evening fits the cold."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -30,6 +30,8 @@ faq:
 ---
 
 Harbin at night is one of those travel questions that sounds smaller than it is.
+
+If you want the broader route-role page with Harbin's winter logic, supporting guides, and place clusters collected together while you shape the evening, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 That is because the evening usually decides whether Harbin feels:
 

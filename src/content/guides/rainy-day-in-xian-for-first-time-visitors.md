@@ -2,7 +2,7 @@
 title: "Rainy Day in Xi'an for First-Time Visitors"
 description: "Use this rainy-day Xi'an guide to decide which outdoor plans to keep, when to switch to museums, and how to protect a short first trip from bad weather."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Rain in Xi'an does not automatically ruin the day.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 What usually ruins the day is panic-switching without deciding which part of the plan actually matters most.
 

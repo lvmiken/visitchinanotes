@@ -2,7 +2,7 @@
 title: "West Street or a quieter countryside base: Which Yangshuo stay works better for 2 nights?"
 description: "Choose between West Street convenience and a quieter countryside base for a 2-night Yangshuo stay, and decide which version gives the town the right balance of ease, scenery, and breathing room."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "plan-stay"
 tripLength: "2 nights"
@@ -28,6 +28,8 @@ faq:
 ---
 
 `2 nights` is exactly where the Yangshuo hotel question becomes interesting.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 On one night, the town center usually wins easily.
 
@@ -85,4 +87,3 @@ If Day 2 is:
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if you still need the broader non-2-night version
 - read [How Long Should You Stay in Yangshuo on a First Trip?](/guides/how-many-days-in-yangshuo-for-first-time-visitors/) if the hotel question still depends on whether the town really deserves the second night
 - read [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/) if the right base still depends on what the second day should actually do
-

@@ -2,7 +2,7 @@
 title: "Macau for First-Time Visitors: How Many Days, Route Fit, and What to Prioritize"
 description: "Plan a first trip to Macau with practical advice on stay length, route fit, and when the city works best with Hong Kong, Shenzhen, or Guangzhou."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "choose-destination"
 tripLength: "1 to 2 days"
@@ -36,6 +36,8 @@ faq:
 ---
 
 Macau usually works best when the trip does not ask it to be bigger than it is.
+
+If you want Macau's route fit, supporting guides, and place pages gathered in one easier planning view, keep the [Macau destination hub](/destinations/macau/) open alongside this guide.
 
 Its strength is compact contrast:
 

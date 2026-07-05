@@ -2,7 +2,7 @@
 title: "How to Get Around Hong Kong for First-Time Visitors"
 description: "Learn when MTR is the best default, when ferries or trams actually improve the trip, when taxi is worth paying for, and why a good hotel base matters more than many first-time visitors expect in Hong Kong."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Hong Kong transport usually looks more complicated before the trip than it feels on the ground.
+
+If you want the broader route-role page with Hong Kong's pairings, guides, and district clusters collected together while you solve transport, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 That is because first-time visitors often assume they need to master:
 

@@ -2,7 +2,7 @@
 title: "Best Chengdu Snacks for First-Time Visitors"
 description: "Choose which Chengdu snacks are actually worth trying, from Long Chao Shou and Zhong dumplings to Lai Tangyuan, bean curd jelly, and the snack districts that fit a real first trip best."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 snack block or 1 lighter meal"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chengdu snacks are worth trying, but they work best when they stay in their lane.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 They usually are not the main reason to come to the city, and they usually should not replace the meals that define a first Chengdu trip. What they do very well is add texture: one lighter central snack session, one traditional-street bite, one sweet stop that keeps the day feeling Chengdu without turning into another full dinner.
 

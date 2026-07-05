@@ -2,7 +2,7 @@
 title: "Where to Eat in Taipa Village for First-Time Visitors"
 description: "Use this Taipa Village food guide to choose between a real Macanese meal, a Portuguese dinner, a pork chop bun stop, or a dessert-and-snack continuation around Rua do Cunha."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 softer food-led half day"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in `Taipa Village` is usually not a question about the single best restaurant.
+
+If you want the broader route-role page with Macau's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Macau destination hub](/destinations/macau/) open too.
 
 It is a question about what job this softer south-side district should do for the trip.
 

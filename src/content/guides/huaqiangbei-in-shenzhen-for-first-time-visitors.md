@@ -2,7 +2,7 @@
 title: "Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day"
 description: "Use this first-time Huaqiangbei guide to decide whether Shenzhen's electronics district is actually worth your time, who should go, how long to spend there, and how to avoid turning curiosity into chaos."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 hours"
@@ -34,6 +34,8 @@ faq:
 ---
 
 `Huaqiangbei` is one of the clearest places where Shenzhen stops feeling abstract.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 The city suddenly becomes physical:
 

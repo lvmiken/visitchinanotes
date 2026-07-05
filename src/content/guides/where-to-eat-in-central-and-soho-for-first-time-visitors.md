@@ -2,7 +2,7 @@
 title: "Where to Eat in Central and SoHo for First-Time Visitors"
 description: "Use this Central and SoHo food guide to choose between a cha chaan teng breakfast, a classic Cantonese or dim sum meal, roast goose in Central, or a dinner that can roll into a Hong Kong Island night."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 evening"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in `Central` and `SoHo` is usually not a question about the single best restaurant.
+
+If you want the broader route-role page with Hong Kong's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 It is a question about what job this district should do for the trip.
 

@@ -2,7 +2,7 @@
 title: "Best Chengdu Sichuan Restaurants for First-Time Visitors"
 description: "Use this Chengdu Sichuan restaurant guide to choose the right first-trip table dinner, from dependable home-style classics and central easy picks to polished splurge meals that still feel rooted in Sichuan cooking."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The easiest Chengdu food mistake is to let the city become only hot pot plus one noodle stop.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 That is not because hot pot is overrated.
 

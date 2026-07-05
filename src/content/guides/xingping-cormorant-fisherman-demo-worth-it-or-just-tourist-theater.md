@@ -2,7 +2,7 @@
 title: "Xingping's Cormorant Fisherman Demo: A Real Yangshuo Memory or Just Tourist Theater?"
 description: "Use this Yangshuo guide to decide whether the Xingping cormorant fisherman demo deserves time, what kind of photo stop it really is, and when it works better as a supporting river detail than a stand-alone mission."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "15 to 45 minutes"
@@ -34,6 +34,8 @@ faq:
 ---
 
 The `cormorant fisherman` stop near `Xingping` is one of those Yangshuo-region ideas that becomes better as soon as you describe it honestly.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 It is usually not:
 

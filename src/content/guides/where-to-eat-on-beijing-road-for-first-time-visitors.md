@@ -2,7 +2,7 @@
 title: "Where to Eat on Beijing Road for First-Time Visitors"
 description: "Use this Beijing Road food guide to choose between a classic Cantonese meal, Wenming Road noodle and soup stops, or one easier food-and-shopping night without turning central Guangzhou into random grazing."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Beijing Road is one of the easiest places in Guangzhou to make food feel useful.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That is not the same thing as saying it is the city's deepest or most atmospheric food district.
 

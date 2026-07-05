@@ -2,7 +2,7 @@
 title: "What to Eat in Chengdu for First-Time Visitors"
 description: "Find out which Chengdu foods are actually worth your limited meals, from hotpot and chuanchuan to dan dan noodles, Zhong dumplings, mapo tofu, and the slower Sichuan dinners that make the city feel full."
 publishDate: 2026-06-21
-updatedDate: 2026-06-28
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chengdu food should not be reduced to one boiling red pot.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 Hotpot absolutely matters, and for many first-time visitors it deserves a real place in the trip. But if every meal turns into another spicy challenge, the city starts feeling narrower than it should.
 

@@ -2,7 +2,7 @@
 title: "How Many Days in Chengdu for First-Time Visitors"
 description: "See whether Chengdu needs 2, 3, 4, or 5 days, what a short first visit can realistically cover, and when pandas, food, slower city time, or side trips start justifying extra days."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Chengdu is one of the easiest major China cities to misjudge by trip length.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 Some first-time visitors assume it only needs a quick panda stop and one hotpot dinner. Others try to give it so many days that the route starts losing momentum for no clear reason.
 

@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Guangzhou: Tickets, Trains, and Reservations"
 description: "See which Guangzhou tickets, trains, and reservations need advance booking, what can stay flexible, and which choices matter most on a short first trip."
 publishDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Not everything in Guangzhou needs to be booked in advance.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That is exactly why this page matters.
 

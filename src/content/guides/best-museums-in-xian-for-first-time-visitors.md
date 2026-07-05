@@ -2,7 +2,7 @@
 title: "Best Museums in Xi'an for First-Time Visitors"
 description: "Compare the best museums in Xi'an for first-time visitors so you can choose between Shaanxi History Museum, Xi'an Museum, and Beilin Museum without overloading a short trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 museum block"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Xi'an can support a very strong museum day, but most first-time visitors do not need to turn the city into one.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That is the first useful thing to say clearly.
 

@@ -2,7 +2,7 @@
 title: "What to Do in Jing'an at Night for First-Time Visitors"
 description: "Use this Jing'an night guide to decide whether your Shanghai evening should become dinner, cocktails, Suzhou Creek lights, or one smoother final-night plan instead of another skyline or nightlife detour."
 publishDate: 2026-07-01
-updatedDate: 2026-07-01
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -36,6 +36,8 @@ faq:
 ---
 
 `Jing'an at night` is one of those Shanghai searches that usually means something more practical than it first sounds.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 Most travelers are not asking:
 

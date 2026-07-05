@@ -2,7 +2,7 @@
 title: "Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?"
 description: "Compare the Li River cruise with extra time in Yangshuo so first-time visitors can choose the better Guilin-region use of limited days, budget, and scenic energy."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "1 key regional tradeoff"
@@ -32,6 +32,8 @@ faq:
 ---
 
 This is the Guilin-region question that separates `the postcard version` from `the lived version`.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 Neither answer is wrong.
 

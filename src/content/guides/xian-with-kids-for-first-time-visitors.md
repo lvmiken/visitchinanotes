@@ -2,7 +2,7 @@
 title: "Xi'an With Kids for First-Time Visitors"
 description: "Use this Xi'an with kids guide to decide what to prioritize, what to cut, and how to pace the Terracotta Army day without making the trip too heavy."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Xi'an can be a very good family city, but only if you stop planning it like a history exam.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 Many parents see the Terracotta Army, the city wall, the Muslim Quarter, the museums, the pagoda side, and maybe Huaqing Palace, then assume the trip has to become a nonstop sequence of culturally important stops.
 

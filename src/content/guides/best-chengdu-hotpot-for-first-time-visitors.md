@@ -2,7 +2,7 @@
 title: "Best Chengdu Hot Pot for First-Time Visitors"
 description: "Find out where first-time visitors should eat Chengdu hot pot, including easy central picks, stronger Yulin-style nights, and when a classic spicy dinner fits better than chuanchuan or a calmer Sichuan meal."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Chengdu hot pot is one of the meals that can justify building a whole evening around it.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 That does not mean every famous restaurant is worth equal effort.
 

@@ -2,7 +2,7 @@
 title: "A Better Harbin Central Winter Half Day: Zhongyang Street, Saint Sophia, and When to Step Back Indoors"
 description: "Use this Harbin winter route to combine Zhongyang Street and Saint Sophia Cathedral into one smarter central half day, with realistic cold pacing, food logic, and a clearer sense of when the city still feels magical instead of merely freezing."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -34,6 +34,8 @@ faq:
 ---
 
 Harbin's central winter half day often goes wrong for a very simple reason:
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 people plan it like a normal city stroll.
 

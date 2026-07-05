@@ -2,7 +2,7 @@
 title: "Where to Eat in Guangzhou for First-Time Visitors"
 description: "Choose which Guangzhou districts should carry your key meals, from Beijing Road easy dinners and Wenming Road bowls to Yongqing Fang west-side food, Pearl River nights, and polished Tianhe fallback meals."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "2 to 6 meals"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in Guangzhou is usually a district question before it becomes a restaurant question.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That matters because Guangzhou is not a city where the best meal automatically comes from the most famous address. On a short trip, the stronger result usually comes from eating in the area that already fits the day.
 

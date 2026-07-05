@@ -2,7 +2,7 @@
 title: "Tian Tan Buddha or Victoria Peak? The Better Hong Kong Detour for a First Trip"
 description: "Compare Tian Tan Buddha and Victoria Peak so first-time Hong Kong visitors can choose between a calmer Lantau branch and the city's strongest panoramic skyline payoff."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "1 major half day or day branch"
@@ -38,6 +38,8 @@ faq:
 ---
 
 This is one of the most revealing Hong Kong planning decisions because it tells you what kind of trip you are really building.
+
+If you want the broader route-role page with Hong Kong's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 Choose `Victoria Peak`, and you are saying:
 

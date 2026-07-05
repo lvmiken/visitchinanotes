@@ -2,7 +2,7 @@
 title: "Shenzhen Futian Guide: Ping An and the Central Core"
 description: "Use this Futian guide to decide whether Shenzhen's central core deserves real time, how Ping An, Civic Center, and Lianhua Hill fit together, and when Futian works best."
 publishDate: 2026-06-28
-updatedDate: 2026-06-28
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 hours"
@@ -35,6 +35,8 @@ faq:
 ---
 
 `Futian` is where Shenzhen stops being a name on a border route and starts becoming a city you can actually read.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 That is why it matters.
 

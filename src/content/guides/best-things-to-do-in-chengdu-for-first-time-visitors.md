@@ -2,7 +2,7 @@
 title: "Best Things to Do in Chengdu for First-Time Visitors"
 description: "Find out which things to do in Chengdu are actually worth your limited time, how to choose between pandas, tea-house city rhythm, old-street areas, and food-led evenings, and how to build a fuller first trip without rushing the city."
 publishDate: 2026-06-21
-updatedDate: 2026-06-28
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Chengdu are usually not the ones that create the longest checklist.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 They are the ones that help the city do what it is actually good at: one memorable anchor morning, one slower city block, one satisfying food night, and enough breathing room that Chengdu still feels like Chengdu instead of a compressed sightseeing exercise.
 

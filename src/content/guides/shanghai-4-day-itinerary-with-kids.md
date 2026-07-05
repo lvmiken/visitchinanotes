@@ -2,7 +2,7 @@
 title: "Shanghai 4-Day Itinerary With Kids for First-Time Visitors"
 description: "A practical Shanghai 4-day itinerary with kids, including how to balance Disneyland, the Bund, one indoor family day, and one easier neighborhood or buffer day without exhausting the trip."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Shanghai with kids gets much better once the trip stops trying to behave like an adult-only weekend with children tacked on.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 The strongest family version is not empty. It is simply more honest about where the energy should go.
 

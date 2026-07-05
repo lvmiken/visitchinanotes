@@ -2,7 +2,7 @@
 title: "Xingping Beyond the Banknote: A Better Yangshuo Side Trip Than Just Chasing the 20 RMB View"
 description: "Use this Xingping and Yangshuo guide to decide whether the 20 RMB view, the cormorant fisherman demo, or a lighter river-town rhythm actually deserves your time, and how to stop one famous photo from swallowing the whole side trip."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "yangshuo"
 guideStage: "build-itinerary"
 tripLength: "1 half day"
@@ -34,6 +34,8 @@ faq:
 ---
 
 The easiest way to make `Xingping` smaller than it should be is to treat it like nothing more than a banknote errand.
+
+If you want the broader route-role page with Yangshuo's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Yangshuo destination hub](/destinations/yangshuo/) open too.
 
 The easiest way to make it larger than it deserves is to ask it to carry the whole Yangshuo chapter.
 

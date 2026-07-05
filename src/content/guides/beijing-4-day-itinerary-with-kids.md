@@ -2,7 +2,7 @@
 title: "Beijing 4-Day Itinerary With Kids for First-Time Visitors"
 description: "A practical 4-day Beijing itinerary with kids, including how to balance the Forbidden City, Mutianyu Great Wall, park time, easier evenings, and one indoor backup without exhausting the family."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Beijing with kids gets much better once the trip stops trying to behave like an adult-only checklist.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 The strongest family version is not empty. It is simply more deliberate about where the effort goes.
 

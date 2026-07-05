@@ -2,7 +2,7 @@
 title: "Hong Kong Disneyland or a Lantau Day: Which Gives a First Trip More Range?"
 description: "Compare Hong Kong Disneyland with a Lantau day built around Tian Tan Buddha and Ngong Ping 360, so first-time visitors can choose between a full park day and Hong Kong's strongest scenic-cultural contrast."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "1 full day branch"
@@ -40,6 +40,8 @@ faq:
 ---
 
 This is one of the clearest Hong Kong route-shaping decisions because it is really a choice between two very different versions of the city.
+
+If you want the broader route-role page with Hong Kong's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 Choose `Hong Kong Disneyland`, and the day becomes:
 

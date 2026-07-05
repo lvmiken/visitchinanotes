@@ -2,7 +2,7 @@
 title: "How to Get From Shanghai Hongqiao Airport to the City Center"
 description: "Compare metro, taxi, and Didi options from Shanghai Hongqiao Airport to the city center, and see why Hongqiao is usually the easier first arrival for short Shanghai trips."
 publishDate: 2026-06-18
-updatedDate: 2026-06-18
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -31,6 +31,8 @@ faq:
 ---
 
 If you are landing at **Shanghai Hongqiao International Airport (SHA)**, you are in a much easier position than many first-time visitors imagine.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 This guide uses current Shanghai Airport Authority transport information published by the Shanghai government and checked on **June 18, 2026**.
 

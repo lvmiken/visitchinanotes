@@ -2,7 +2,7 @@
 title: "What to Do in the French Concession at Night for First-Time Visitors"
 description: "Use this French Concession night guide to decide whether your evening should be dinner on Jinxian Road, cocktails around Fumin or Julu Road, a slower Wukang-area walk, or a simpler neighborhood finish."
 publishDate: 2026-06-23
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The French Concession at night is one of the easiest Shanghai evenings to enjoy and one of the easiest to blur into something shapeless.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That is because the district already offers a lot:
 

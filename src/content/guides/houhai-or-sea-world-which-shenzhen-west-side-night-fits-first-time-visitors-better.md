@@ -34,6 +34,8 @@ faq:
 
 Once you know the Shenzhen west side belongs in the trip, the evening decision often gets smaller and more important at the same time.
 
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
+
 It becomes:
 
 - `Houhai / Shenzhen Bay`

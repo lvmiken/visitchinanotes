@@ -2,7 +2,7 @@
 title: "How Many Days in Macau for First-Time Visitors"
 description: "See what 1, 2, or 3 days in Macau really gives you, and which trip length works best for first-time visitors who want heritage streets, food, and a selective resort or entertainment layer."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "macau"
 guideStage: "plan-stay"
 tripLength: "1 to 3 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Macau is one of the easiest cities in this project to overbuild.
+
+If you want the broader route-role page with Macau's pairings, guides, and district clusters collected together while you decide the stay length, keep the [Macau destination hub](/destinations/macau/) open too.
 
 That usually happens when travelers assume:
 

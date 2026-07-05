@@ -2,7 +2,7 @@
 title: "Guilin or Yangshuo for the first night: Which base makes the region easier?"
 description: "Choose whether Guilin or Yangshuo should get the first night on a first trip, and decide which base makes the region flow better without adding unnecessary transfers."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "plan-stay"
 tripLength: "1 first-night decision"
@@ -29,6 +29,8 @@ faq:
 ---
 
 This is one of the most useful Guilin-region decisions because it changes not just where you sleep, but what the whole chapter feels like.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 ## Source check
 

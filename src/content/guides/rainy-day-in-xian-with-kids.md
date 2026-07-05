@@ -2,7 +2,7 @@
 title: "Rainy Day in Xi'an With Kids: Best Indoor Things to Do"
 description: "Find the best indoor things to do in Xi'an with kids on a rainy day, plus when to keep the Terracotta Army plan, when to pivot indoors, and how to avoid an exhausting family day."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Rain does not automatically ruin a Xi'an family day.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 What usually ruins it is trying to keep the exact same plan after the weather, the children's energy, and the transport reality have all changed.
 

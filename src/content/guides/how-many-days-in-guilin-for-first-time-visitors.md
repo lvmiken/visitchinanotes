@@ -2,7 +2,7 @@
 title: "How Long Should You Stay in Guilin on a First Trip?"
 description: "See whether Guilin needs 1, 2, or 3 days, what a short first visit can realistically cover, and when the region gets much better with a Li River and Yangshuo version instead of a rushed city-only stop."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "plan-stay"
 tripLength: "1 to 3 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Guilin is easy to misjudge by trip length because travelers often mix three different ideas together:
+
+If the day-count question still keeps blurring `Guilin city`, `Li River`, and `Yangshuo` together, the [Guilin destination hub](/destinations/guilin/) is the cleaner page to keep open while you sort the region's actual shape.
 
 - `Guilin city`
 - the `Li River`

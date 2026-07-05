@@ -2,7 +2,7 @@
 title: "Best Bars and Modern Nightlife in Chengdu for First-Time Visitors"
 description: "Compare Yulin, Jiuyanqiao, central Chengdu, and Chengdu's more underground music-led nights so you can choose the right bars, drinks, or nightlife branch without mistaking the city for one generic party scene."
 publishDate: 2026-06-30
-updatedDate: 2026-06-30
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Chengdu nightlife is one of the easiest parts of the city to misunderstand from a distance.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 The city is not weak at night.
 

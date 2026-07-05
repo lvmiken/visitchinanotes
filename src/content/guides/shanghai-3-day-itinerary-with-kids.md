@@ -2,7 +2,7 @@
 title: "Shanghai 3-Day Itinerary With Kids for First-Time Visitors"
 description: "A practical Shanghai 3-day itinerary with kids, including when Disneyland deserves one full day, what to do on the other two days, and how to keep the trip realistic for first-time families."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Three days in Shanghai with kids can feel full, polished, and genuinely fun.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 The trick is not to do everything. The trick is to give each day one clear job, so the family gets a real Shanghai experience without spending the whole trip recovering from queues, transfers, and late decisions.
 

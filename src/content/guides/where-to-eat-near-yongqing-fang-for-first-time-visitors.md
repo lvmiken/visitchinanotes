@@ -2,7 +2,7 @@
 title: "Where to Eat Near Yongqing Fang for First-Time Visitors"
 description: "Decide where to eat near Yongqing Fang, whether to choose a classic old-style Cantonese meal, Yixin chicken, claypot rice, noodles, or a lighter Liwan snack-and-dessert continuation."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 meal"
@@ -38,6 +38,8 @@ faq:
 ---
 
 Food near `Yongqing Fang` matters because this part of Guangzhou usually works as a mood-led half day, not a completion exercise.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That means the meal should help the branch feel:
 

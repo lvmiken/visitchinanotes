@@ -2,7 +2,7 @@
 title: "How to Get Around Chengdu: Metro, Taxi, Didi, and Panda Shuttles for First-Time Visitors"
 description: "Learn when Chengdu metro is easiest, when Didi or taxi saves time, how panda-base transport really works, and why hotel area matters more than trying to master every bus route."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "solve-logistics"
 tripLength: "whole stay"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Chengdu transport is usually easier than first-time visitors expect, but it works best when you stop trying to force one mode to solve every part of the stay.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 For most trips, Chengdu works best when:
 

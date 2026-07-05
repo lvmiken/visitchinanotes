@@ -2,7 +2,7 @@
 title: "Guangzhou with Hong Kong or Shenzhen: How to Shape the Route"
 description: "A practical South China planning guide for deciding whether Guangzhou pairs better with Hong Kong or Shenzhen, and how to keep the route from turning into transfer-heavy friction."
 publishDate: 2026-06-17
-updatedDate: 2026-06-17
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "solve-logistics"
 tripLength: "3 to 5 days across two Pearl River Delta stops"
@@ -30,6 +30,8 @@ faq:
 ---
 
 Guangzhou becomes much easier to use well when you decide early whether the second South China stop should be Hong Kong or Shenzhen.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 If the live question still is `Hong Kong versus Shenzhen` in the abstract, start with [Hong Kong or Shenzhen: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-shenzhen-for-first-time-visitors/). This page is better once Guangzhou already is confirmed and the route only needs the second stop.
 

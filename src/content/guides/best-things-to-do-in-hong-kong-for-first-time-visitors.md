@@ -2,7 +2,7 @@
 title: "Best Things to Do in Hong Kong for First-Time Visitors"
 description: "Find out which things to do in Hong Kong are actually worth your limited time, how to choose between the harbour, Victoria Peak, Central, Kowloon districts, and Lantau, and how to build a first trip that feels edited instead of scattered."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "hong-kong"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 The best things to do in Hong Kong are usually not the highest number of famous names you can force into one short stay.
+
+If you want the broader route-role page with Hong Kong's pairings, guides, and district clusters collected together while you shortlist the city, keep the [Hong Kong destination hub](/destinations/hong-kong/) open too.
 
 They are the pieces that make the city feel legible:
 

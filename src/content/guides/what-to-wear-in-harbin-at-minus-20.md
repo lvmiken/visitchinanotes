@@ -2,7 +2,7 @@
 title: "What to Wear in Harbin at -20°C Without Overpacking"
 description: "Pack for Harbin winter with a realistic first-time guide to layers, gloves, boots, face protection, and what actually matters when the city is around -20°C."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -34,6 +34,8 @@ faq:
 ---
 
 If you are worried about dressing for `Harbin at -20°C`, that worry is reasonable.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 This is not one of those destinations where vague winter packing advice is enough.
 

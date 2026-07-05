@@ -2,7 +2,7 @@
 title: "What to Do in Guangzhou at Night for First-Time Visitors"
 description: "Choose between Canton Tower and the Pearl River, Beijing Road, Yongqing Fang and Xiguan, or Taikoo Cang based on your hotel area, food plans, and whether you want skyline views, shopping, or a slower old-Guangzhou evening."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Guangzhou is one of the clearest examples of a city that often makes more sense after dinner.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 That is not because every night needs to become nightlife.
 

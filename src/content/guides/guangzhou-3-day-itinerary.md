@@ -2,7 +2,7 @@
 title: "A Practical 3-Day Guangzhou Itinerary for First-Time Visitors"
 description: "Use this three-day Guangzhou plan to balance Cantonese food neighborhoods, city rhythm, and a manageable first-time route without forcing too many disconnected sights."
 publishDate: 2026-06-17
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Guangzhou is easiest to enjoy when the route stays grounded in districts and meals. The trip should feel full, but not in the same way a Beijing or Shanghai itinerary feels full.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 ## Who this itinerary is for
 

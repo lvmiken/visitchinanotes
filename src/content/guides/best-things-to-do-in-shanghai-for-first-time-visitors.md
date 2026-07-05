@@ -2,7 +2,7 @@
 title: "Best Things to Do in Shanghai for First-Time Visitors"
 description: "Find out which things to do in Shanghai are actually worth your limited time, how to choose between skyline, neighborhoods, old-core sights, museums, and nightlife, and how to build a fuller first trip without overpacking it."
 publishDate: 2026-06-21
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Shanghai are usually not the longest list of famous names.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you shortlist the city, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 They are the pieces that make the city feel complete on a short first trip: one iconic skyline block, one slower neighborhood day, one selective traditional or indoor layer, and one evening or food decision that gives the city some real personality after dark.
 

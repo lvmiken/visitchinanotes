@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights"
 description: "See which Guilin hotels, trains, Li River cruise plans, Yangshuo nights, and Longji side trips actually deserve advance booking, and what can stay flexible on a first trip."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Not everything in Guilin deserves an advance booking.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 That is exactly why this page matters.
 

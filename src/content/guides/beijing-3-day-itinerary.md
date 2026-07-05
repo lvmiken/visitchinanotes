@@ -2,7 +2,7 @@
 title: "Beijing 3-Day Itinerary for First-Time Visitors"
 description: "Use this Beijing 3-day itinerary to fit the Forbidden City, the Great Wall, food, and one calmer city day into a first trip without turning every day into heavy transport."
 publishDate: 2026-06-19
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Three days in Beijing can work very well, but only if the itinerary accepts that this is a selective first trip, not a complete Beijing masterclass.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you pressure-test the day flow, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 The city starts feeling bad when travelers try to force a four-day list into three days and then blame Beijing for being too big.
 

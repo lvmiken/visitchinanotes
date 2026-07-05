@@ -2,7 +2,7 @@
 title: "Where to Eat in Guilin for First-Time Visitors"
 description: "Choose which Guilin areas should carry your key meals, from easy central Guilin dinners and rice-noodle mornings to riverside evenings and the point where Yangshuo is the better dinner answer."
 publishDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-07-05
 city: "guilin"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 meals"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat in Guilin is usually a route question before it becomes a restaurant question.
+
+If you want the broader route-role page with Guilin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guilin destination hub](/destinations/guilin/) open too.
 
 That matters because Guilin is not a city where the best meal automatically comes from the most famous address. On a short first trip, the stronger result usually comes from eating in the part of the city or region that already fits the day.
 

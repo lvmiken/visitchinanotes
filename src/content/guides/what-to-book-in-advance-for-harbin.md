@@ -2,7 +2,7 @@
 title: "What to Book in Advance for Harbin: Tickets, Trains, and Reservations"
 description: "See which Harbin tickets, trains, hotels, and winter-night plans need advance booking, what can stay flexible, and how to protect a short first trip without over-reserving it."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "solve-logistics"
 tripLength: "before the trip"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Not everything in Harbin needs to be booked in advance.
+
+If you want the broader route-role page with Harbin's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Harbin destination hub](/destinations/harbin/) open too.
 
 That is exactly why this page matters.
 

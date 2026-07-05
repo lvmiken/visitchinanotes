@@ -2,7 +2,7 @@
 title: "Beijing 4-Day Itinerary for First-Time Visitors"
 description: "Use this Beijing 4-day itinerary to cover the Forbidden City, the Great Wall, temple or park time, better food stops, and evenings that still feel enjoyable on a first trip."
 publishDate: 2026-06-17
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "4 days"
@@ -30,6 +30,8 @@ faq:
 ---
 
 Beijing feels much easier when the plan respects geography.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 This version is written for travelers who want the city to feel rich and rewarding without turning every day into a cross-town survival test.
 

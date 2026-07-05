@@ -2,7 +2,7 @@
 title: "Where to Get the Best Chongqing Skyline Views for First-Time Visitors"
 description: "Compare Hongyadong, Nanbin Road, the Two Rivers cruise, Nanshan Yikeshu, and other Chongqing skyline options so first-time visitors can choose the right night view for a short trip."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 skyline sessions"
@@ -31,6 +31,8 @@ faq:
 ---
 
 This is one of the most important Chongqing decisions because skyline time is where many first trips either become memorable or start repeating themselves.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 The mistake is not caring about the skyline too much.
 

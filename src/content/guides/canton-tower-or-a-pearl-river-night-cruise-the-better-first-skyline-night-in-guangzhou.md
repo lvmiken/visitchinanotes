@@ -2,7 +2,7 @@
 title: "Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou"
 description: "Compare Canton Tower and a Pearl River night cruise so first-time Guangzhou visitors can choose the better skyline night for flexibility, views, weather, and short-trip value."
 publishDate: 2026-06-27
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 evening decision"
@@ -33,6 +33,8 @@ faq:
 ---
 
 This is one of Guangzhou's most useful skyline decisions because both options can work well, but only one usually fits the trip you actually have.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 The live question is rarely:
 

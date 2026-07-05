@@ -2,7 +2,7 @@
 title: "Hong Kong to Shenzhen for Foreign Travelers: Which Crossing, Which Visa Rule, and What Actually Works"
 description: "Plan a Hong Kong to Shenzhen crossing with practical advice on visas, border choices, rail versus road logic, and the crossing patterns that actually work for first-time foreign visitors."
 publishDate: 2026-06-26
-updatedDate: 2026-06-26
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "solve-logistics"
 tripLength: "same day to 2 days across two South China stops"
@@ -35,6 +35,8 @@ faq:
 ---
 
 `Hong Kong to Shenzhen` sounds easy because the cities sit so close together.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 And in one sense, it is easy.
 

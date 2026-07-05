@@ -2,7 +2,7 @@
 title: "Yunxiao Road or Minjiang Road for a First Seafood Dinner in Qingdao?"
 description: "Choose between Yunxiao Road and Minjiang Road for your first Qingdao seafood dinner, based on atmosphere, flexibility, evening fit, and how much structure a short coastal trip really needs."
 publishDate: 2026-07-04
-updatedDate: 2026-07-04
+updatedDate: 2026-07-05
 city: "qingdao"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -38,6 +38,8 @@ faq:
 ---
 
 Once you know `one real seafood dinner` belongs in Qingdao, the food question often gets smaller and more important at the same time.
+
+If you want the broader route-role page with Qingdao's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Qingdao destination hub](/destinations/qingdao/) open too.
 
 It becomes:
 

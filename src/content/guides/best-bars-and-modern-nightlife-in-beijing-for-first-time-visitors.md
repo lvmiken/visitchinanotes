@@ -2,7 +2,7 @@
 title: "Beijing Bars for First-Time Visitors: Sanlitun, Liangma River, or Shichahai?"
 description: "Choose the right Beijing bar district for cocktails, wine, riverside drinks, or a softer lakeside night, with practical guidance on Sanlitun, Liangma River, and Shichahai."
 publishDate: 2026-06-20
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 If your Beijing trip needs one evening that feels more modern, social, and internationally familiar, this is usually the page that matters.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That does not mean Beijing nightlife should dominate the trip. It means many first-time visitors get real value from one well-chosen modern evening, especially after several days of palaces, parks, museums, and early starts.
 

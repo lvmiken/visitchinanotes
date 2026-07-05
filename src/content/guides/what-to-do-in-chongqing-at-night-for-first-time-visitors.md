@@ -2,7 +2,7 @@
 title: "What to Do in Chongqing at Night for First-Time Visitors"
 description: "Choose between Jiefangbei and Hongyadong, a Two Rivers cruise, Nanbin Road, Guanyinqiao and 9th Street, or a calmer Nanshan skyline night based on your energy, hotel area, and how atmospheric or lively you want the evening to feel."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Chongqing at night is one of the clearest reasons the city belongs in a first China trip.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 The trick is not trying to do every famous night-view idea at once.
 

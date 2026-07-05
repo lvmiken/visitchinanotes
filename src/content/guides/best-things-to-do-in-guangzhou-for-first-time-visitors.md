@@ -2,7 +2,7 @@
 title: "Best Things to Do in Guangzhou for First-Time Visitors"
 description: "Find out which things to do in Guangzhou are actually worth your limited time, how to choose between food, heritage districts, skyline nights, and easier central evenings, and how to build a fuller first trip without turning the city into a random attraction checklist."
 publishDate: 2026-07-03
-updatedDate: 2026-07-03
+updatedDate: 2026-07-05
 city: "guangzhou"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Guangzhou are usually not the biggest list of famous names.
+
+If you want the broader route-role page with Guangzhou's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Guangzhou destination hub](/destinations/guangzhou/) open too.
 
 They are the blocks that help the city do what it is actually good at:
 

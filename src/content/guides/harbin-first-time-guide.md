@@ -2,7 +2,7 @@
 title: "Harbin for First-Time Visitors: When the Winter Spectacle Is Worth Building a Trip Around"
 description: "Plan a first trip to Harbin with practical advice on winter timing, route role, stay length, and whether the city is really worth the cold for your version of a first China trip."
 publishDate: 2026-06-26
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "harbin"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -30,6 +30,8 @@ faq:
 ---
 
 Harbin is one of the clearest examples in China of a city that becomes truly persuasive only once you accept what it is for.
+
+If you want the city-level cluster page with Harbin's route role, supporting guides, and place pages in one view, keep the [Harbin destination hub](/destinations/harbin/) open alongside this guide.
 
 It is not usually the best answer for:
 

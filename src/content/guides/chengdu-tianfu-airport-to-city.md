@@ -2,7 +2,7 @@
 title: "Chengdu Tianfu Airport to City for First-Time Visitors: Metro, Taxi, or Airport Bus?"
 description: "Compare Chengdu Tianfu Airport to city options for first-time visitors, including Metro Line 18, taxi, Didi, and the airport bus to Chunxi Road or IFS."
 publishDate: 2026-06-18
-updatedDate: 2026-06-25
+updatedDate: 2026-07-05
 city: "chengdu"
 guideStage: "solve-logistics"
 whoItsFor:
@@ -31,6 +31,8 @@ faq:
 ---
 
 If you are landing at **Chengdu Tianfu International Airport (TFU)**, the most important thing to know is that the airport is **far from central Chengdu**. The route into the city is completely manageable, but it is not the kind of arrival where travelers should pretend the airport transfer is a tiny final detail.
+
+If you want the broader route-role page with Chengdu's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chengdu destination hub](/destinations/chengdu/) open too.
 
 This guide uses current public airport transport guidance checked on **June 18, 2026**. Operating details can change, so live airport signs and on-site staff still win on the day.
 

@@ -2,7 +2,7 @@
 title: "Xi'an 3-Day Itinerary for First-Time Visitors"
 description: "Use this practical 3-day Xi'an itinerary to combine the Terracotta Army, the old city, food, museum or pagoda-side time, and one fuller evening without rushing the trip."
 publishDate: 2026-06-21
-updatedDate: 2026-06-27
+updatedDate: 2026-07-05
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Three days is where Xi'an often starts feeling like a real city, not only a famous excursion plus one old street.
+
+If you want the broader route-role page with Xi'an's supporting guides, itineraries, and place clusters collected together while you pressure-test the day flow, keep the [Xi'an destination hub](/destinations/xian/) open too.
 
 That matters because Xi'an is very good at short trips, but a tighter version can still leave readers wondering whether they really saw the city or only completed the obligation stops.
 

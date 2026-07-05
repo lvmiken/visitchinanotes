@@ -2,7 +2,7 @@
 title: "Best Things to Do in Beijing With Kids"
 description: "A practical guide to the best things to do in Beijing with kids, including which headline sights are really worth it, which ones fit younger children better, and how to build a family-friendly first trip without overpacking every day."
 publishDate: 2026-06-19
-updatedDate: 2026-06-19
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "2 to 5 days"
@@ -33,6 +33,8 @@ faq:
 ---
 
 The best things to do in Beijing with kids are usually not the longest sightseeing days.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you shortlist family priorities, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 They are the ones that give the family a strong payoff without draining all the energy needed for the rest of the trip.
 

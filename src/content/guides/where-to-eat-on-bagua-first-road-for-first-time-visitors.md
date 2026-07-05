@@ -2,7 +2,7 @@
 title: "Where to Eat on Bagua First Road for First-Time Visitors"
 description: "Use this Bagua First Road food guide to decide whether the area should carry your regional Chinese dinner, Chaoshan beef hot pot, crayfish or barbecue night, or one easy central group meal."
 publishDate: 2026-06-24
-updatedDate: 2026-06-24
+updatedDate: 2026-07-05
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 dinner-heavy evening"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Where to eat on `Bagua First Road` is usually not a question about one famous restaurant.
+
+If you want the broader route-role page with Shenzhen's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shenzhen destination hub](/destinations/shenzhen/) open too.
 
 It is a question about what job this district should do for the trip.
 

@@ -2,7 +2,7 @@
 title: "Best Bars and Modern Nightlife in Shanghai for First-Time Visitors"
 description: "A practical guide to Shanghai bars and modern nightlife for first-time visitors, including when to choose Xintiandi, Fumin Road, FOUND158, Jing'an, or a Bund-area rooftop-style night."
 publishDate: 2026-06-20
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Shanghai is one of the easiest cities in China to enjoy after dark if you choose the right kind of night.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 That is the real decision.
 

@@ -2,7 +2,7 @@
 title: "Shanghai 3-Day Itinerary for First-Time Visitors"
 description: "Use this Shanghai 3-day itinerary to plan a first trip around the Bund, the French Concession, classic food stops, and one realistic Pudong or museum block without wasting time on cross-city detours."
 publishDate: 2026-06-14
-updatedDate: 2026-07-01
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -29,6 +29,8 @@ faq:
 ---
 
 Shanghai is one of the easiest cities in China to turn into a strong three-day trip, but the itinerary works best when you plan by neighborhood rhythm instead of chasing every famous stop.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you pressure-test the day flow, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 ## Who this itinerary is for
 

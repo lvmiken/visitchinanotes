@@ -2,7 +2,7 @@
 title: "Where to Eat Breakfast in Shanghai for First-Time Visitors"
 description: "Use this Shanghai breakfast guide to decide when a local breakfast is worth the effort, what to eat, which areas fit a first-time route, and when hotel breakfast is still the smarter move."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 morning food stops"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Breakfast in Shanghai is one of the easiest ways to make the city feel more local without turning the trip into a food marathon.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 It matters because Shanghai mornings can go in two very different directions:
 

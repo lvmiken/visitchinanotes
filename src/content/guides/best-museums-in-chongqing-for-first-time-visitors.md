@@ -2,7 +2,7 @@
 title: "Best Museums in Chongqing for First-Time Visitors"
 description: "Compare the best museums in Chongqing for first-time visitors so you can choose between the China Three Gorges Museum, the Hongyan Revolutionary History Museum, and the Natural History Museum without overloading a short trip."
 publishDate: 2026-06-22
-updatedDate: 2026-06-22
+updatedDate: 2026-07-05
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 museum block"
@@ -32,6 +32,8 @@ faq:
 ---
 
 Chongqing can support a very good museum day, but most first-time visitors do not need to turn the city into one.
+
+If you want the broader route-role page with Chongqing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Chongqing destination hub](/destinations/chongqing/) open too.
 
 That is the first useful thing to say clearly.
 

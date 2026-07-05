@@ -2,7 +2,7 @@
 title: "Best Beijing Dumplings for First-Time Visitors"
 description: "Use this Beijing dumpling guide to choose the right first-trip dumpling meal, from Bao Yuan and Liu Ma Ma to Du Yi Chu's shaomai and easier casual options that fit real sightseeing days."
 publishDate: 2026-06-23
-updatedDate: 2026-06-23
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal"
@@ -31,6 +31,8 @@ faq:
 ---
 
 Beijing dumplings are usually not the first thing foreign visitors put on the itinerary.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That is exactly why they can be so useful.
 

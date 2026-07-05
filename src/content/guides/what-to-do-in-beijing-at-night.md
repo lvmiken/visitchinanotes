@@ -2,7 +2,7 @@
 title: "What to Do in Beijing at Night for First-Time Visitors"
 description: "Choose between Qianmen, Wangfujing, Guijie, and Sanlitun for a Beijing evening that actually fits the day you already had, based on dinner plans, energy, hotel area, and whether the night should feel historic, food-led, or modern."
 publishDate: 2026-06-19
-updatedDate: 2026-07-02
+updatedDate: 2026-07-05
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 evenings"
@@ -33,6 +33,8 @@ faq:
 ---
 
 Beijing at night is usually less about finding one giant must-see spectacle and more about making the trip feel complete after the daytime landmarks are done.
+
+If you want the broader route-role page with Beijing's supporting guides, itineraries, and place clusters collected together while you shape the evenings, keep the [Beijing destination hub](/destinations/beijing/) open too.
 
 That is why many weak Beijing itineraries feel strangely flat. They protect the famous daytime sights, but leave the evenings shapeless.
 

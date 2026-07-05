@@ -2,7 +2,7 @@
 title: "Where to Stay in Shanghai With Kids for First-Time Visitors"
 description: "A practical guide to where to stay in Shanghai with kids, including why central Puxi is often the safest family base, when the French Concession works better, and when Pudong or the Disney area is worth the tradeoff."
 publishDate: 2026-06-20
-updatedDate: 2026-06-20
+updatedDate: 2026-07-05
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -31,6 +31,8 @@ faq:
 ---
 
 The best family hotel in Shanghai is usually not the one with the best skyline photo, and not even the one with the biggest room.
+
+If you want the broader route-role page with Shanghai's supporting guides, itineraries, and place clusters collected together while you plan the details here, keep the [Shanghai destination hub](/destinations/shanghai/) open too.
 
 It is the one that makes the hard parts of the day easier:
 
