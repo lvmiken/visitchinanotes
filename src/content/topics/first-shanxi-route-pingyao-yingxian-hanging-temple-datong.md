@@ -114,7 +114,7 @@ It is the place that teaches the route how to slow down.
 - Buddhist art and cave-monument weight
 - a bigger sense of northern depth
 
-It often feels more satisfying after Pingyao than before it.
+It often feels more satisfying after Pingyao than before it. If the real question already has narrowed to Datong's main payoff, the sharper child page is [Yungang Grottoes: Is It Worth Visiting on a First Shanxi Trip?](/places/yungang-grottoes/).
 
 ## How to think about Yingxian and the Hanging Temple
 
@@ -134,7 +134,7 @@ Think:
 
 That is the cleaner question.
 
-For many travelers, the answer is yes.
+For many travelers, the answer is yes. If the answer is yes but you still need to decide what exactly survives that bridge, use [Yingxian Wood Pagoda: When This Architecture Stop Really Earns Its Place](/places/yingxian-wood-pagoda/) and [Hanging Temple in Shanxi: Is It Worth the Detour for First-Time Visitors?](/places/hanging-temple-in-shanxi/) as the narrower keep-or-cut pages.
 
 ## The best first-time version: 3 nights
 
@@ -239,6 +239,9 @@ That structure usually ages much better than a louder but messier version.
 ## Which page to read next
 
 - read [Shanxi for First-Time Visitors: Why China's Old Architecture Feels So Fresh Again](/topics/shanxi-for-first-time-visitors/) if the province still feels interesting but not fully chosen
+- read [Yungang Grottoes: Is It Worth Visiting on a First Shanxi Trip?](/places/yungang-grottoes/) if the route shape mostly works and the remaining doubt is whether Datong's biggest monument deserves protected time
+- read [Yingxian Wood Pagoda: When This Architecture Stop Really Earns Its Place](/places/yingxian-wood-pagoda/) if the route shape mostly works and the remaining doubt is whether the timber-architecture bridge still belongs
+- read [Hanging Temple in Shanxi: Is It Worth the Detour for First-Time Visitors?](/places/hanging-temple-in-shanxi/) if the route shape mostly works and the remaining doubt is whether the cliffside drama still belongs
 - read [China High-Speed Rail for Tourists: How It Works and What to Expect](/topics/high-speed-rail/) if the route shape is starting to work but station-day realism still is not
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if Shanxi is chosen and the next job is locking the intercity moves without booking the wrong station logic
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if Shanxi looks right but the wider China route still needs subtraction before you add a province-shaped branch

@@ -2,7 +2,7 @@
 title: "People's Square in Shanghai: Is It Worth Real Time or Mainly a Smart Base Area?"
 description: "Decide whether People's Square deserves real time on a first Shanghai trip, when it works better as a practical central block, and how it compares with the Bund, Nanjing Road, or a slower neighborhood day."
 publishDate: 2026-06-22
-updatedDate: 2026-06-23
+updatedDate: 2026-07-07
 city: "shanghai"
 whoItsFor:
   - "first-time Shanghai visitors deciding whether People's Square is a real stop or mainly a useful central base"
@@ -157,6 +157,12 @@ It usually does not need to become a big stand-alone mission unless the broader 
 
 If the district already is chosen and the live question is how to solve breakfast, lunch, or one easy central dinner without making the route heavier, the narrower execution page is [Where to Eat Near People's Square in Shanghai for First-Time Visitors](/guides/where-to-eat-near-peoples-square-in-shanghai-for-first-time-visitors/).
 
+If your live question is not whether to visit People's Square but whether to sleep here, compare [People's Square or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) before treating central convenience as an automatic hotel win.
+
+If the live choice already is not `People's Square or French Concession` but `People's Square or Bund side`, the sharper stay-comparison page is [People's Square or Bund Side: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-bund-side-where-to-stay-in-shanghai-for-first-time-visitors/).
+
+If the live choice already is not `People's Square or French Concession` but `People's Square or Jing'an`, the sharper stay-comparison page is [People's Square or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 ## When does it improve the trip most?
 
 People's Square often improves the trip most when:
@@ -182,6 +188,9 @@ It often improves the trip less when:
 ## Which page to read next
 
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the real question is whether this district should shape the hotel base
+- read [People's Square or Bund Side: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-bund-side-where-to-stay-in-shanghai-for-first-time-visitors/) if the live decision is easiest central structure versus classic skyline-side access
+- read [People's Square or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the live decision is whether easiest central structure should win over stronger neighborhood rhythm
+- read [People's Square or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/) if the live decision is whether easiest central structure should win over a more polished modern hotel base
 - read [Nanjing Road in Shanghai: Is It Worth Your Time or Mostly a Convenience Stop?](/places/nanjing-road/) if the live choice is central practicality versus central commercial energy
 - read [Shanghai Museum for First-Time Visitors: When It Adds More Than Just Another Indoor Stop](/places/shanghai-museum/) if the area already looks useful and the museum decision now matters most
 - read [Where to Eat Near People's Square in Shanghai for First-Time Visitors](/guides/where-to-eat-near-peoples-square-in-shanghai-for-first-time-visitors/) if the district already is chosen and the live decision is what kind of meal should happen here

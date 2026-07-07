@@ -57,3 +57,5 @@ If the live temptation is not another mountain branch but whether to finish the 
 If `2 days` is the version that already looks most realistic and the next question is how to sequence those days well, the practical next page is [A Practical 2-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-2-day-itinerary-for-first-time-visitors/).
 
 If `3 days` is the version that now looks most realistic and the next question is how to use that fuller stay without wasting the extra day, the practical next page is [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).
+
+If the day count now looks plausible for adults but the real question is how much of that version still works with older travelers, the practical next page is [Zhangjiajie for Elderly Parents: What to Keep, Cut, and Simplify](/guides/zhangjiajie-for-elderly-parents-what-to-keep-cut-and-simplify/).

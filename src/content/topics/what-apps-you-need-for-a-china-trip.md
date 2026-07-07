@@ -287,6 +287,7 @@ Even a well-prepared trip gets smoother when you also keep:
 
 - read [Alipay or WeChat Pay for Tourists in China? What to Set Up First](/topics/alipay-wechat-pay/) if payment is still the biggest blocker
 - read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if the payment question is broader than choosing one app
+- read [Can Foreign Cards Work at China Night Markets and Street Stalls?](/topics/can-foreign-cards-work-at-china-night-markets-and-street-stalls/) if the phone stack mostly is ready and the only remaining payment doubt is how tiny market and snack-street purchases actually work
 - read [How to Stay Connected in China: eSIM, SIM, and Internet Prep](/topics/esim-and-internet/) if the whole phone-readiness question still feels messy
 - read [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/) if the app question is really about making arrival day work smoothly
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if local transport is the app you are most nervous about

@@ -124,7 +124,7 @@ It is strongest for:
 
 It is strongest for:
 
-- the Yungang Grottoes
+- the [Yungang Grottoes](/places/yungang-grottoes/)
 - a more monumental northern-historical feel
 - anchoring the western or northern end of the route
 
@@ -132,13 +132,13 @@ It is strongest for:
 
 `Yingxian` is not a city stop in the same way. It is an architecture stop.
 
-It matters because it gives the trip one of the clearest `this is why we came to Shanxi` moments.
+It matters because it gives the trip one of the clearest `this is why we came to Shanxi` moments. If that exact stop already is the live question, the sharper child page is [Yingxian Wood Pagoda: When This Architecture Stop Really Earns Its Place](/places/yingxian-wood-pagoda/).
 
 ### Hanging Temple
 
 The `Hanging Temple` is the dramatic bridge piece.
 
-It is visually famous, but it works best when attached to a wider Datong-facing route rather than treated like a floating standalone mission.
+It is visually famous, but it works best when attached to a wider Datong-facing route rather than treated like a floating standalone mission. If the real decision already is whether the drama is worth the detour, the sharper child page is [Hanging Temple in Shanxi: Is It Worth the Detour for First-Time Visitors?](/places/hanging-temple-in-shanxi/).
 
 ## Who usually loves Shanxi most
 
@@ -209,6 +209,9 @@ Shanxi is probably the wrong next move when:
 ## Which page to read next
 
 - read [A First Shanxi Route That Actually Works: Pingyao, Yingxian, Hanging Temple, and Datong](/topics/first-shanxi-route-pingyao-yingxian-hanging-temple-datong/) if Shanxi already feels likely and the real blocker is route shape
+- read [Yungang Grottoes: Is It Worth Visiting on a First Shanxi Trip?](/places/yungang-grottoes/) if the northern-anchor question has narrowed to whether Datong's cave-art payoff is strong enough to justify real time
+- read [Yingxian Wood Pagoda: When This Architecture Stop Really Earns Its Place](/places/yingxian-wood-pagoda/) if the route already wants the middle bridge but still needs a cleaner yes-or-no on the timber-architecture stop
+- read [Hanging Temple in Shanxi: Is It Worth the Detour for First-Time Visitors?](/places/hanging-temple-in-shanxi/) if the route already wants the middle bridge but still needs a cleaner yes-or-no on the cliffside drama stop
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if Shanxi is interesting but the wider China route still is not disciplined enough
 - read [China High-Speed Rail for Tourists: How It Works and What to Expect](/topics/high-speed-rail/) if Shanxi looks likely and rail comfort is now the practical hurdle
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if the province is chosen and the next question is how to lock the intercity moves cleanly

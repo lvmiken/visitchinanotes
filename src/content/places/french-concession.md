@@ -88,6 +88,8 @@ If the plan gives this area only a rushed hour between two distant sights, you p
 
 If the district already is clearly happening and the only live question is how to turn it into one practical walking route instead of vague wandering, the narrower execution page is [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/). If the route already is clearly day-led rather than attraction-led and the real search is for a more stylish coffee-and-street version of the same area, the sharper companion page is [A Shanghai Coffee Walk Through Anfu, Julu, Fumin, and Changle](/guides/a-shanghai-coffee-walk-through-anfu-julu-fumin-and-changle/).
 
+If your live question is not whether to visit French Concession but whether to sleep here, compare [People's Square or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) before treating district charm as an automatic hotel answer.
+
 If the district already is clearly winning and the live question is not only dinner and walking but whether the night should tilt toward hidden cocktails, jazz, live music, or a broader after-dark branch, the next pages are [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/), [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/), and [Where to Go in Shanghai for Jazz, Live Music, or Underground Clubs, Not Bottle Service](/guides/where-to-go-in-shanghai-for-jazz-live-music-or-underground-clubs-not-bottle-service/) depending on whether the evening should stay cocktail-led, neighborhood-led, or music-first.
 
 If the route already feels full enough and the better question is whether it needs one quieter lived-in pause rather than one more lane, [Fuxing Park](/places/fuxing-park/) is usually the most useful short reset nearby.
@@ -114,6 +116,8 @@ Travelers who want a smoother, more atmospheric Shanghai stay often end up happi
 
 If your hotel question already has narrowed to Shanghai's most common Puxi-side tradeoff, compare it directly on [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/).
 
+If the skyline side already is out and the real remaining hotel choice is `French Concession or Jing'an`, the sharper comparison page is [French Concession or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/french-concession-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 ## Common mistakes
 
 - treating the district like a box-checking attraction zone
@@ -124,7 +128,9 @@ If your hotel question already has narrowed to Shanghai's most common Puxi-side 
 ## Which page to read next
 
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if this district is influencing your hotel decision
+- read [People's Square or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the live stay decision is easiest central base versus stronger neighborhood rhythm
 - read [Bund Side or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/) if the live choice is classic skyline convenience versus slower neighborhood rhythm
+- read [French Concession or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/french-concession-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/) if the live choice is slower neighborhood rhythm versus easier polished modern comfort
 - read [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/) if the district already is chosen and the live question is what kind of meal belongs there
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if the district already is chosen and the live question is how to use the evening well
 - read [Shanghai Speakeasy Bars: How to Plan One Hidden-Bar Night Without Making It Silly](/guides/shanghai-speakeasy-bars-how-to-plan-one-hidden-bar-night-without-making-it-silly/) if the district already is chosen and the live question is whether one hidden-bar stop should sharpen the evening

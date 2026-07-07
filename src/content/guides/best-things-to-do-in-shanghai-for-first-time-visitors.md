@@ -2,7 +2,7 @@
 title: "Best Things to Do in Shanghai for First-Time Visitors"
 description: "Find out which things to do in Shanghai are actually worth your limited time, how to choose between skyline, neighborhoods, old-core sights, museums, and nightlife, and how to build a fuller first trip without overpacking it."
 publishDate: 2026-06-21
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -199,6 +199,8 @@ If the route already is leaning indoor, central, or stay-convenient, [People's S
 
 If the trip wants a quieter and shorter reflective stop rather than one more major museum block, [Jade Buddha Temple](/places/jade-buddha-temple/) is often the cleaner supporting page because it gives Shanghai one calmer temple layer without pretending that every first trip needs another big-ticket sight.
 
+If the route wants a more selective modern-history layer instead of another general museum, especially for Korean travelers or readers searching for the city's independence-history connection, the sharper niche page is [Former Site of the Korean Provisional Government in Shanghai: Is It Worth Visiting on a First Trip?](/places/former-site-of-the-korean-provisional-government-in-shanghai/).
+
 ## 6. Shanghai Disneyland is a full-day branch, not a central-city add-on
 
 For many first-time visitors, [Shanghai Disneyland](/places/shanghai-disneyland/) is either one of the trip's clearest full-day wins or not worth protecting at all.
@@ -265,7 +267,7 @@ That already gives Shanghai a clear identity.
 
 The mistake is thinking a short Shanghai trip must also carry every tower, shopping street, river cruise, and museum to feel worthwhile.
 
-If you are building that sharper version now, [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) still is the best execution page for the fuller short-stay model, while [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) helps if you still may cut it back.
+If you are building that sharper version now, [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) still is the best execution page for the fuller short-stay model, [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) is the stronger next page when the city already has room to breathe, and [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) helps if you still may cut it back.
 
 ## What makes Shanghai feel richer on a 3-day or 4-day trip?
 
@@ -280,6 +282,7 @@ On a 3-day or 4-day Shanghai trip, the stronger extras often are:
 - one selective [1933 Old Millfun](/places/1933-old-millfun/) or [Zhapu Road Bridge](/places/zhapu-road-bridge/) detour when the trip wants architecture or a stronger photo angle more than another shopping street
 - one optional [Shanghai Disneyland](/places/shanghai-disneyland/) day only if the trip truly wants that entertainment branch
 - one selective [Zhujiajiao Water Town](/places/zhujiajiao-water-town/) outing only if the stay is long enough that the city itself already feels secure
+- one practical [fabric-market tailoring block](/guides/shanghai-fabric-market-custom-suits-for-first-time-visitors/) only if a custom shirt, suit, or coat genuinely matters more than another skyline or neighborhood half day
 - one slower district half day that is not forced to justify itself like a headline sight
 
 This is where Shanghai starts to show its real depth.
@@ -300,8 +303,10 @@ It stops being only the easy first city and becomes one of the most enjoyable ur
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if Shanghai still is being judged against other China stops
 - read [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) if you still have not decided whether the city should stay sharp or go fuller
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to turn this shortlist into a realistic route
+- read [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) if the city already has room for a fuller stay and you want a better fourth-day structure than just shopping drift or an impulsive side trip
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the main remaining question is which district should anchor the trip
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the shortlist is mostly clear and the next question is what to lock first
+- read [Shanghai Fabric Market Custom Suits for First-Time Visitors](/guides/shanghai-fabric-market-custom-suits-for-first-time-visitors/) if the shortlist mostly works and the live question is whether one practical made-to-measure shopping block deserves room
 - read [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/) if the attractions mostly are chosen and the next concern is whether the city will move smoothly in practice
 - read [What to Eat in Shanghai for First-Time Visitors](/guides/what-to-eat-in-shanghai-for-first-time-visitors/) if the missing layer now is what Shanghai meals actually deserve limited trip slots
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the attractions mostly are chosen and the meal districts are not

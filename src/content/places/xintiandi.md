@@ -158,6 +158,8 @@ For many first-time visitors, Xintiandi works well with:
 
 It usually does not need to become a long daytime mission unless the day already belongs nearby.
 
+If the day already belongs on this side of Shanghai and the live question is whether one smaller history stop adds meaning before dinner or after walking time, the sharper companion page is [Former Site of the Korean Provisional Government in Shanghai: Is It Worth Visiting on a First Trip?](/places/former-site-of-the-korean-provisional-government-in-shanghai/).
+
 ## When does it improve the trip most?
 
 Xintiandi often improves the trip most when:
@@ -185,6 +187,7 @@ It often improves the trip less when:
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the wider evening structure still is not settled
 - read [Where to Eat in Xintiandi for First-Time Visitors](/guides/where-to-eat-in-xintiandi-for-first-time-visitors/) if the district already is chosen and the live question is what kind of dinner belongs there
 - read [What to Do in Xintiandi at Night for First-Time Visitors](/guides/what-to-do-in-xintiandi-at-night-for-first-time-visitors/) if the district already is chosen and the live question is how to use the evening well
+- read [Former Site of the Korean Provisional Government in Shanghai: Is It Worth Visiting on a First Trip?](/places/former-site-of-the-korean-provisional-government-in-shanghai/) if the district already is chosen and the live question is whether one shorter modern-history stop belongs nearby before the evening
 - read [Best Bars and Modern Nightlife in Shanghai for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-shanghai-for-first-time-visitors/) if the live question is how polished or social the night should become
 - read [FOUND158 in Shanghai: When It Actually Helps a First Night Out](/guides/found-158-in-shanghai-when-it-actually-helps-a-first-night-out/) if the live question is whether the night should stay compact and polished or become a more social, sports-friendly, all-in-one cluster
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the practical decision is what district should carry dinner

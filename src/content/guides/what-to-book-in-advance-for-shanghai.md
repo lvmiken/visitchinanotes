@@ -222,12 +222,14 @@ That order usually creates a better Shanghai trip than trying to reserve half th
 - leaving Disneyland too late even though it is one of the trip anchors
 - letting train timing stay vague until it starts damaging the city order
 - reserving too many small blocks and removing all weather or energy flexibility
+- turning one fabric-market idea into a rigid wardrobe project before the city days are even secure
 
 ## Which page to read next
 
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the hotel base still is not fixed
 - read [How to Buy Shanghai Disneyland Tickets for First-Time Visitors](/guides/how-to-buy-shanghai-disneyland-tickets-for-first-time-visitors/) if Disney is the real booking blocker
 - read [How to Plan Shanghai Disneyland for First-Time Visitors](/guides/how-to-plan-shanghai-disneyland-for-first-time-visitors/) if the ticket question is already turning into a whole-day route decision
+- read [Shanghai Fabric Market Custom Suits for First-Time Visitors](/guides/shanghai-fabric-market-custom-suits-for-first-time-visitors/) if the booking question now is whether one tailoring errand belongs and how much time it should really consume
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you want to place these reservations into an actual day order
 - read [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) if the next fragile piece is the onward rail move
 - read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if the real booking blocker now is the Beijing-Shanghai corridor rather than the Shanghai stay itself

@@ -58,6 +58,8 @@ Use this page if you are asking:
 
 If the broader China route still is unstable, step back first to [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/).
 
+If your route already is stable enough that the live anxiety is no longer `should we do Dunhuang at all?` but `how do foreign travelers actually protect the Mogao date?`, the practical companion page is [Mogao Caves Booking for Foreigners: What to Know Before You Build a Dunhuang Stop](/guides/mogao-caves-booking-for-foreigners/).
+
 ## The short answer
 
 For many first-time visitors, `Digital Dunhuang` is worth it when one of these is true:
@@ -231,6 +233,7 @@ That is usually the cleanest rule.
 ## Which page to read next
 
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if the real issue is whether a Silk Road branch belongs in the wider trip at all
+- read [Mogao Caves Booking for Foreigners: What to Know Before You Build a Dunhuang Stop](/guides/mogao-caves-booking-for-foreigners/) if the route already wants Mogao and the real remaining problem is how to lock the visit cleanly
 - read [Best First City to Visit in China: Beijing, Shanghai, Chengdu, or Xi'an?](/topics/where-to-start/) if the route still is too broad and Dunhuang remains only one possible wildcard rather than a committed branch
 - read [Best Time to Visit China: Weather, Seasons, and First-Trip Advice](/topics/best-time-to-visit-china/) if weather and route comfort still may change whether a desert-and-heritage branch is wise
 - read [How Many Days Do You Need for Your First China Trip?](/topics/how-many-days-do-you-need-for-your-first-china-trip/) if the real question is whether the route has enough room to give Dunhuang any meaningful depth at all

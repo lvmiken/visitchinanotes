@@ -2,7 +2,7 @@
 title: "How Many Days in Shanghai for First-Time Visitors"
 description: "See what 2, 3, 4, or 5 days in Shanghai really gives you, and which trip length works best for first-time visitors who want skyline views, neighborhoods, food, and maybe Disneyland or a side trip."
 publishDate: 2026-06-20
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "shanghai"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -150,6 +150,8 @@ This is where Shanghai often becomes:
 - one flexible museum or old-core day
 - one extra half-day or full day for food, shopping, weather recovery, or a softer pace
 
+That is exactly where [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) becomes the cleaner execution page, because the real job of the fourth day is usually not `more famous names` but `better city rhythm`.
+
 This is the point where the places cluster starts fitting more naturally into the stay instead of competing with each other:
 
 - [The Bund](/places/the-bund/) and [Lujiazui Skyline](/places/lujiazui-skyline/) for the skyline layer
@@ -224,6 +226,7 @@ That usually creates a better East China rhythm than forcing five dense Shanghai
 
 - read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if Shanghai still is being ranked against other route options
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are leaning toward the sweet-spot default version
+- read [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) if you already know the stay should be fuller and you want the cleaner city-first structure
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) if arrival logistics may change whether a shorter stay still feels worthwhile
 - read [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/) if the extra day is mainly being justified by an East China extension

@@ -48,6 +48,8 @@ Use this page if you are asking:
 
 If the city itself is still not fully confirmed, start with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/). If Beijing is already confirmed and you only need the right length, this page is the narrower decision.
 
+If the real uncertainty is no longer stay length but which Beijing experiences actually deserve the protected days, the sharper companion page is [Best Things to Do in Beijing for First-Time Visitors](/guides/best-things-to-do-in-beijing-for-first-time-visitors/).
+
 ## The short answer
 
 For many first-time visitors:
@@ -233,6 +235,7 @@ If the answer already is clearly four days, the narrower execution page is [Beij
 ## Which page to read next
 
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the city still is not fully ranked inside the wider route
+- read [Best Things to Do in Beijing for First-Time Visitors](/guides/best-things-to-do-in-beijing-for-first-time-visitors/) if the stay length is nearly settled and you now need the right shortlist inside those days
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you are leaning toward the shorter strong version
 - read [Beijing 3-Day Itinerary With Kids for First-Time Visitors](/guides/beijing-3-day-itinerary-with-kids/) if the shorter answer is already clear and you want the family execution version
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want the most balanced default version

@@ -188,6 +188,7 @@ Use the narrower child pages based on the next decision you need to make:
 
 - read [Can Tourists Use Alipay in China? A Step-by-Step Setup Guide](/topics/can-tourists-use-alipay-in-china/) if Alipay is likely to be your main wallet
 - read [Can Tourists Use WeChat Pay in China? What Actually Works](/topics/can-tourists-use-wechat-pay-in-china/) if you want to understand the more practical merchant-payment reality of WeChat Pay
+- read [Can Foreign Cards Work at China Night Markets and Street Stalls?](/topics/can-foreign-cards-work-at-china-night-markets-and-street-stalls/) if the live question is whether either wallet really is necessary for snack streets, dessert stalls, and other tiny purchases
 - read [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) if you still need the broader answer about how to combine wallets, cash, and cards safely
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if payments are only one part of the phone setup you still need to finish
 - read [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/) if the real blocker is keeping the phone connected and usable all day

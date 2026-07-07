@@ -67,6 +67,8 @@ Use this page if you are asking:
 
 If the live question still is mainly the **daytime** market itself, start first with [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/).
 
+If the search is not about antiques or the night browse at all but about `Panjiayuan glasses city`, cheap replacement frames, or a same-day-or-overnight optical errand in the same broad area, the separate practical page is [Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/).
+
 If the broader evening structure still is open, keep [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) open too.
 
 ## The short answer
@@ -230,6 +232,7 @@ Choose Guijie instead if your real sentence is:
 ## Which page to read next
 
 - read [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/) if the daytime market still is the bigger yes-or-no decision
+- read [Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/) if the real Panjiayuan-area search is practical and optical rather than browse-led and nocturnal
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if this stranger night is still only one candidate inside a broader Beijing evening decision
 - read [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) if the real search is a more restaurant-led late-night food street
 - read [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) if the bigger problem is still which Beijing night-food district deserves limited time

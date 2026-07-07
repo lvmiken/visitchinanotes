@@ -243,5 +243,6 @@ If one method fails, you should still be able to:
 - read [Alipay or WeChat Pay for Tourists in China? What to Set Up First](/topics/alipay-wechat-pay/) if you still need to choose your main wallet
 - read [Can Tourists Use Alipay in China? A Step-by-Step Setup Guide](/topics/can-tourists-use-alipay-in-china/) if Alipay is likely to be your first setup
 - read [Can Tourists Use WeChat Pay in China? What Actually Works](/topics/can-tourists-use-wechat-pay-in-china/) if you want a second-wallet or WeChat-first setup
+- read [Can Foreign Cards Work at China Night Markets and Street Stalls?](/topics/can-foreign-cards-work-at-china-night-markets-and-street-stalls/) if your real payment anxiety is not hotels or trains but small QR-first food stalls and market purchases
 - read [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) if payments are only one part of the phone stack you still need to finish
 - read [How to Stay Connected in China: eSIM, SIM, and Internet Prep](/topics/esim-and-internet/) if your bigger risk is that the phone itself is not yet dependable

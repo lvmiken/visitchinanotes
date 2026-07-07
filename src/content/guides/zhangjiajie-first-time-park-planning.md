@@ -53,6 +53,8 @@ If the route already clearly deserves a fuller mountain version rather than a sh
 
 If the route shape already is mostly right but the live question is which season gives the trip the best chance of views, lighter walking, and calmer pacing, use [Best Time to Visit Zhangjiajie for First-Time Visitors](/guides/best-time-to-visit-zhangjiajie-for-first-time-visitors/).
 
+If the route shape mostly works for adults but the live question is how much more aggressively it should be simplified for older travelers, use [Zhangjiajie for Elderly Parents: What to Keep, Cut, and Simplify](/guides/zhangjiajie-for-elderly-parents-what-to-keep-cut-and-simplify/).
+
 ## Start with one anchor goal per day
 
 Good park days usually work better when each day centers on:

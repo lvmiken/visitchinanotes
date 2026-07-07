@@ -67,5 +67,6 @@ For many first-time visitors, this version is fine on paper but weak in practice
 - read [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) if you still are not sure the city needs a hotel at all
 - read [Where to Stay in Suzhou for Canal Walks: Pingjiang Road or a More Practical Central Base?](/guides/where-to-stay-in-suzhou-for-canal-walks-pingjiang-road-or-a-more-practical-central-base/) if the hotel question already has narrowed to canal-walk atmosphere versus easier short-trip convenience
 - read [What to Do in Suzhou at Night for First-Time Visitors](/guides/what-to-do-in-suzhou-at-night-for-first-time-visitors/) if your hotel choice depends on evening shape
+- read [Best Quiet Hours for Suzhou Gardens: When to Go Without the Worst Crowds](/guides/best-quiet-hours-for-suzhou-gardens-when-to-go-without-the-worst-crowds/) if your hotel choice partly depends on protecting an early garden start with less friction
 - read [Pingjiang Road in Suzhou: When the Canal Walk Is Actually Worth Your Time](/places/pingjiang-road/) if you want the calmer old-city evening answer
 - read [Guanqian Street in Suzhou: Useful Base, Food Stop, or Skippable Famous Street?](/places/guanqian-street/) if the hotel question is really about practical meals and central convenience

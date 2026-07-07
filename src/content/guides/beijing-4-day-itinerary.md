@@ -2,7 +2,7 @@
 title: "Beijing 4-Day Itinerary for First-Time Visitors"
 description: "Use this Beijing 4-day itinerary to cover the Forbidden City, the Great Wall, temple or park time, better food stops, and evenings that still feel enjoyable on a first trip."
 publishDate: 2026-06-17
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "4 days"
@@ -50,6 +50,8 @@ If you only have two or three days, this structure is still useful as a priority
 
 If you are still choosing between the 3-day and 4-day versions, [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) is the better page to use before committing.
 
+If the stay length already is clear and the real issue is what should actually fill those four days, the broader shortlist page is [Best Things to Do in Beijing for First-Time Visitors](/guides/best-things-to-do-in-beijing-for-first-time-visitors/).
+
 ## How this itinerary is meant to feel
 
 This is not a "see every famous thing in four days" plan.
@@ -80,7 +82,7 @@ If you want the place pages to support this itinerary instead of competing with 
 - `Day 1 anchors`: [Forbidden City](/places/forbidden-city/), [Jingshan Park](/places/jingshan-park/), [Zhongshan Park](/places/zhongshan-park/), [Qianmen](/places/qianmen/), [Wangfujing](/places/wangfujing/)
 - `Day 2 anchor`: [Mutianyu Great Wall](/places/mutianyu-great-wall/) or [Badaling Great Wall](/places/badaling-great-wall/)
 - `Day 3 atmosphere pages`: [Temple of Heaven](/places/temple-of-heaven/), [Beihai Park](/places/beihai-park/), [Shichahai](/places/shichahai-area/), [Yonghe Temple](/places/yonghe-temple/), [Sanlitun](/places/sanlitun/)
-- `Day 4 optional depth`: [National Museum of China](/places/national-museum-of-china/), [Capital Museum](/places/capital-museum/), [Summer Palace](/places/summer-palace/), [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/), [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/)
+- `Day 4 optional depth`: [National Museum of China](/places/national-museum-of-china/), [Capital Museum](/places/capital-museum/), [Summer Palace](/places/summer-palace/), [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/), [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/), and [Beijing Glasses Market and Same-Day Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/) only when the route genuinely needs a practical errand or backup-pair run
 
 If the trip includes children or mixed-age family pacing, keep [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) open too. The overall structure still works well, but family versions usually benefit from fewer hard transitions and softer return evenings. If the family still needs the best shortlist of activities before fitting them into this route, [Best Things to Do in Beijing With Kids](/guides/best-things-to-do-in-beijing-with-kids/) is the better companion page. If you already want the narrower day-by-day family version, use [Beijing 4-Day Itinerary With Kids for First-Time Visitors](/guides/beijing-4-day-itinerary-with-kids/).
 
@@ -128,6 +130,12 @@ This day feels full because the places belong together emotionally and geographi
 
 - **Qianmen** if you want the central historic area to feel more textured and less purely ceremonial
 - **Wangfujing** if you want an easier commercial add-on and a simpler finish to the day
+
+If that difference already looks important enough to shape the whole stay rather than only one evening, the sharper hotel-decision page is [Qianmen or Wangfujing: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-wangfujing-where-to-stay-in-beijing-for-first-time-visitors/).
+
+If the bigger hotel split is not `historic-core atmosphere vs easier central convenience` but `Wangfujing vs Sanlitun`, the sharper hotel-decision page is [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
+
+If the bigger hotel split is not `Qianmen vs Wangfujing` but `Qianmen vs Sanlitun`, the sharper hotel-decision page is [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
 
 ### What not to do
 
@@ -211,6 +219,10 @@ That choice is usually much easier once you compare all three evening patterns t
 
 If `Sanlitun` already is clearly the answer and the live problem is just how to make one drinks-led night feel easy, the sharper execution page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
 
+If the Day 3 or Day 4 evening is strong enough that it may actually change the smartest hotel base, compare [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) before you default to sleeping in the central core by habit.
+
+If the real tradeoff is `Qianmen's old-core feel` versus `Sanlitun's modern-night payoff`, compare [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) before you let one appealing evening rewrite the stay without checking the route.
+
 If the live search already has narrowed further into `best restaurants in Sanlitun Beijing`, the day shape no longer is the main blocker and [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) is the sharper next page.
 
 For many readers, this becomes the better night for a more polished Beijing meal too, because the day has more flexibility than the central imperial day and less fatigue than the Wall return. It is often the best slot for the broader "Beijing as a food city" layer, not only the old-core classics. It can also be the cleanest day for a deliberate [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/) detour if you want the trip to go beyond duck and central-core restaurants. If the smarter Day 3 meal is one practical local lunch instead of another heavy dinner, [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) is often the better fit.
@@ -263,6 +275,8 @@ This is the best place for:
 - a second calmer park or neighborhood choice if departure timing is awkward
 
 If the final day should feel more contemporary than museum-heavy, [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/) is often the cleaner modern-cultural swap. If the final day should feel more texture-led than scenic or scholarly, [Panjiayuan Antique Market: What Is Actually Worth Going For?](/guides/panjiayuan-antique-market-what-is-actually-worth-going-for/) is the more selective curiosity detour.
+
+If the final day is not about one more sightseeing memory but about solving a real-life problem like broken frames, a backup pair, or a lower-cost optical run, the better practical branch is [Beijing Glasses Market and Same-Day Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/). That page is best used as a bounded errand, not as a fake must-see market stop.
 
 If the real question is not only "museum or park?" but which museum style is actually worth the time, [Best Museums in Beijing for First-Time Visitors](/guides/best-museums-in-beijing-for-first-time-visitors/) is the better comparison page. If the park side of Day 4 still feels vague, [Best Parks in Beijing for First-Time Visitors](/guides/best-parks-in-beijing-for-first-time-visitors/) is the cleaner park comparison.
 

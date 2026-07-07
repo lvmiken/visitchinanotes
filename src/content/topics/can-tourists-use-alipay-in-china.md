@@ -188,3 +188,5 @@ You can also keep the broader parent page [How Foreign Tourists Can Use Alipay a
 ## Related reads
 
 If payment is your biggest trip anxiety, read [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/) next. If you want the sibling setup path, continue with [Can Tourists Use WeChat Pay in China? What Actually Works](/topics/can-tourists-use-wechat-pay-in-china/). If day-one friction is the real issue, go to [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) or [Shanghai Airport to City: What First-Time Visitors Should Choose](/guides/shanghai-airport-to-city/).
+
+If the live worry is less about setup itself and more about whether Alipay will save you at `night markets`, `snack streets`, and other tiny QR-first purchases, read [Can Foreign Cards Work at China Night Markets and Street Stalls?](/topics/can-foreign-cards-work-at-china-night-markets-and-street-stalls/) next.

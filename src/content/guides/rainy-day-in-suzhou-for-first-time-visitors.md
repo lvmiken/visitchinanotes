@@ -167,5 +167,6 @@ This works best when the trip would genuinely feel incomplete without one classi
 
 - read [Best Things to Do in Suzhou for First-Time Visitors](/guides/best-things-to-do-in-suzhou-for-first-time-visitors/) if you still are not sure which Suzhou layers deserve protecting at all
 - read [Humble Administrator's Garden or Lingering Garden? The Better First Pick in Suzhou](/guides/humble-administrators-garden-or-lingering-garden-the-better-first-pick-in-suzhou/) if weather is forcing a one-garden decision
+- read [Best Quiet Hours for Suzhou Gardens: When to Go Without the Worst Crowds](/guides/best-quiet-hours-for-suzhou-gardens-when-to-go-without-the-worst-crowds/) if the rain problem mostly is solved and the remaining question is which quieter window still makes a garden attempt worthwhile
 - read [Pingjiang Road or Shantang Street? Which Suzhou Canal Walk Fits a First Trip Better?](/guides/pingjiang-road-or-shantang-street-which-suzhou-canal-walk-fits-a-first-trip-better/) if the old-street choice now matters more than the garden choice
 - read [What to Do in Suzhou at Night for First-Time Visitors](/guides/what-to-do-in-suzhou-at-night-for-first-time-visitors/) if the day now needs one good evening more than one more daytime stop

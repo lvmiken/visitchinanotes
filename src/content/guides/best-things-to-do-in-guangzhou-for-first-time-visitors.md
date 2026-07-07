@@ -273,4 +273,5 @@ If the wider route still is not settled, the next page is [Guangzhou with Hong K
 - read [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/) if the trip may need one stronger west-side heritage branch
 - read [Beijing Road in Guangzhou: Is It Worth It for First-Time Visitors?](/places/beijing-road/) if the city may need one easier central evening rather than another formal attraction
 - read [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/) if the city may need one skyline-event night rather than another food or district block
+- read [Chimelong Safari Park in Guangzhou: Is It Worth It for First-Time Visitors?](/places/chimelong-safari-park/) if the shortlist still is debating whether a full Panyu-side family-or-animal day belongs at all
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if Guangzhou already is confirmed and now needs a cleaner day-by-day shape

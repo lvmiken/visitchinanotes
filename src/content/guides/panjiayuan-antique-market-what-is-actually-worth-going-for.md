@@ -45,6 +45,8 @@ If the broader Beijing route still is not settled, start with [Beijing Travel Gu
 
 If your search already is not about the daytime antique market at all but about `Panjiayuan ghost market`, `midnight flea market`, or whether the area works better as a stranger browse-plus-skewers night, the narrower child page is [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/).
 
+If your live search is not about antiques either but about `Beijing glasses market`, `Panjiayuan glasses city`, `overnight glasses Beijing`, or whether the area is useful for replacing broken frames quickly, the separate practical page is [Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/).
+
 ## The short answer
 
 For many first-time visitors, `Panjiayuan` is worth it when:
@@ -94,5 +96,6 @@ You can safely skip or downplay `Panjiayuan` if:
 
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the city still needs a clearer hierarchy before niche detours get space
 - read [Panjiayuan Ghost Market and Midnight Chuan'r in Beijing: When the Stranger Night Is Worth It](/guides/panjiayuan-ghost-market-and-midnight-chuanr-in-beijing-when-the-weirder-night-is-worth-it/) if the daytime market already sounds right and the real remaining question is whether the night version plus a late skewer finish is worth building in too
+- read [Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/) if the real search is a practical optical errand in the Panjiayuan area rather than antique browsing
 - read [A More Interesting Old Beijing Walk Beyond Nanluoguxiang](/guides/a-more-interesting-old-beijing-walk-beyond-nanluoguxiang/) if what you really want is texture and atmosphere but through walking rather than a market
 - read [Beijing Hutongs for First-Time Visitors](/guides/beijing-hutongs-for-first-time-visitors/) if the route still needs one slower lived-in layer and the market may not be the best version of it

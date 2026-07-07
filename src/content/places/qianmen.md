@@ -137,6 +137,10 @@ It often disappoints when travelers:
 
 If the area itself already is fixed and the question now is how to use it for food, [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/) is the broader follow-up. If the live question is specifically the morning start, go even narrower with [Where to Eat Breakfast in Qianmen for First-Time Visitors](/guides/where-to-eat-breakfast-in-qianmen-for-first-time-visitors/). If the real question is how to place one useful midday meal there without wasting the afternoon, the narrower execution page is [Where to Eat Lunch in Qianmen for First-Time Visitors](/guides/where-to-eat-lunch-in-qianmen-for-first-time-visitors/). If the route needs more texture than the main boulevard alone, the sharper nearby companion is [Dashilar in Beijing: The Old Commercial Quarter That Feels More Real Than Qianmen Alone](/places/dashilar/).
 
+If your live question is not whether to visit Qianmen but whether to sleep here, compare [Qianmen or Wangfujing: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-wangfujing-where-to-stay-in-beijing-for-first-time-visitors/) before treating the district's atmosphere as an automatic hotel win.
+
+If the live hotel split is more specifically `Qianmen's old-core atmosphere or Sanlitun's modern nights`, the tighter comparison is [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
+
 ## Common mistakes
 
 - expecting a standalone headline-sight payoff
@@ -146,6 +150,8 @@ If the area itself already is fixed and the question now is how to use it for fo
 ## Which page to read next
 
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if the central historic day is still being shaped
+- read [Qianmen or Wangfujing: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-wangfujing-where-to-stay-in-beijing-for-first-time-visitors/) if the live decision is whether old-core atmosphere should also control the hotel choice
+- read [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) if the live decision is whether old-core atmosphere should beat a stronger modern-food-and-night hotel base
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you are placing Qianmen inside a real route
 - read [Old Beijing Day Itinerary for First-Time Visitors](/guides/beijing-old-city-day-itinerary/) if you want one concrete old-core route that uses Qianmen properly
 - read [Dashilar in Beijing: The Old Commercial Quarter That Feels More Real Than Qianmen Alone](/places/dashilar/) if the area already is chosen and the live question is where the old-commercial texture actually gets better

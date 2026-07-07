@@ -75,6 +75,7 @@ Usually the best finish is:
 ## Which page to read next
 
 - read [What to Do in Suzhou at Night for First-Time Visitors](/guides/what-to-do-in-suzhou-at-night-for-first-time-visitors/) if the final evening still feels unclear
+- read [Best Quiet Hours for Suzhou Gardens: When to Go Without the Worst Crowds](/guides/best-quiet-hours-for-suzhou-gardens-when-to-go-without-the-worst-crowds/) if the route shape works but the first garden still needs a smarter time slot
 - read [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/) if the itinerary is happening from Shanghai and the rail execution still needs tightening
 - read [Humble Administrator's Garden in Suzhou: The Garden Most First-Time Visitors Should Prioritize](/places/humble-administrators-garden/) if the first stop itself still is not fully decided
 - read [Humble Administrator's Garden or Lion Grove Garden? Which Suzhou Garden Fits a Short First Trip Better?](/guides/humble-administrators-garden-or-lion-grove-garden-which-suzhou-garden-fits-a-short-first-trip-better/) if the day already is leaning museum-side and the wrong garden choice still could make it repetitive

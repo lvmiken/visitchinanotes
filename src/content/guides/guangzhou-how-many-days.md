@@ -83,6 +83,7 @@ The best Guangzhou trip length is rarely decided by attraction count alone. It i
 - read [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/) if you still are not sure whether Guangzhou belongs in the route at all
 - read [Best Things to Do in Guangzhou for First-Time Visitors](/guides/best-things-to-do-in-guangzhou-for-first-time-visitors/) if the number of days is nearly settled and the next question is which Guangzhou blocks should actually fill them
 - read [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) if the stay length is nearly settled and the live question is whether the skyline landmark deserves one protected evening at all
+- read [Chimelong Safari Park in Guangzhou: Is It Worth It for First-Time Visitors?](/places/chimelong-safari-park/) if the stay length is nearly settled and the live question is whether Guangzhou honestly has room for one full suburban attraction day
 - read [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/) if the day count is mostly clear and the next question is which parts of the stay should be locked early
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if the stay length is clear but the base is not
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if you are leaning toward the three-day version

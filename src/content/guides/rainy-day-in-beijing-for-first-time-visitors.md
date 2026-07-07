@@ -231,6 +231,8 @@ Use this if the weather is annoying but the day does not need to become a full m
 
 This is often the better answer when the trip still needs atmosphere, not just shelter.
 
+If the weather is bad but the route suddenly needs one useful indoor errand instead of one more museum or walking block, that is also where [Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/) can fit surprisingly well. It is not a sightseeing answer, but it can be a smart rainy-afternoon recovery move when the trip genuinely needs a replacement pair or backup glasses.
+
 ## Common mistakes
 
 - abandoning a hard-to-replace ticket too quickly
@@ -246,5 +248,6 @@ This is often the better answer when the trip still needs atmosphere, not just s
 - read [Best Museums in Beijing for First-Time Visitors](/guides/best-museums-in-beijing-for-first-time-visitors/) if you need to choose the right indoor backup
 - read [Capital Museum for First-Time Visitors](/places/capital-museum/) if you want one strong middle-weight rainy-day museum
 - read [798 Art Zone in Beijing: When Contemporary Art Actually Improves a First Trip](/guides/798-art-zone-in-beijing-when-contemporary-art-actually-improves-a-first-trip/) if the better rainy-day save is a lighter modern-cultural half day rather than one more formal museum
+- read [Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors](/guides/beijing-glasses-market-and-same-day-prescription-glasses-for-first-time-visitors/) if the best rainy-day pivot is one practical indoor errand that solves a real problem rather than one more museum
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if the bigger rainy-day problem is movement, not sightseeing
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you still have flexibility to swap day order instead of only rescuing today

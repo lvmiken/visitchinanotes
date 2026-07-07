@@ -236,4 +236,5 @@ That order usually creates a better Guangzhou trip than booking too many smaller
 - read [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/) if one of the real booking questions depends on whether metro is enough or whether you should pay more to protect a late return
 - read [How Many Days in Guangzhou for a First Trip?](/guides/guangzhou-how-many-days/) if the booking order still depends on whether Guangzhou should stay compact or grow into a fuller stop
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the real fragile piece is how much structure your one or two evenings actually need
+- read [Chimelong Safari Park in Guangzhou: Is It Worth It for First-Time Visitors?](/places/chimelong-safari-park/) if the booking question now is whether one full attraction day belongs and therefore deserves earlier ticket attention
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if you want to place these bookings into a usable day order

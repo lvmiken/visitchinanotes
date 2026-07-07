@@ -256,6 +256,7 @@ That already gives Qingdao a much clearer food geography.
 
 - read [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/) if the dishes still matter more than the district
 - read [Yunxiao Road or Minjiang Road for a First Seafood Dinner in Qingdao?](/guides/yunxiao-road-or-minjiang-road-for-a-first-seafood-dinner-in-qingdao/) if the only open question left is which main seafood-dinner area fits better
+- read [How Qingdao Seafood Market Processing Actually Works for First-Time Visitors](/guides/how-qingdao-seafood-market-processing-actually-works-for-first-time-visitors/) if the open question is not which street to choose but whether the trip should do one market-and-cooking seafood night at all
 - read [Best Things to Do in Qingdao for First-Time Visitors](/guides/best-things-to-do-in-qingdao-for-first-time-visitors/) if the meals still depend on what the days actually look like
 - read [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/) if the meal plan still depends on the hotel base
 - read [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/) if the meal plan mostly works and the last open question is whether one seafood dinner is worth the cross-city ride

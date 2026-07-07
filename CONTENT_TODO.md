@@ -1,6 +1,6 @@
 # Content Todo
 
-Last updated: 2026-07-05
+Last updated: 2026-07-07
 
 ## Goal
 
@@ -22,6 +22,15 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 
 ## Recent maintenance
 
+- 2026-07-07: Added a dedicated non-family `Shanghai 4-Day Itinerary` page, then wired it back into the city's first-time, trip-length, shortlist, and 3-day parent layers so `4 days in Shanghai / Shanghai 4 day itinerary / fuller first Shanghai trip` searches now land on a real city-first execution page instead of being forced to piece a four-day stay together from the broader `how many days`, `best things`, and `3-day itinerary` pages.
+- 2026-07-07: Continued the same Shanghai comparison-layer tightening by publishing a direct `Bund Side or Jing'an` stay-comparison page, then wiring it back into the city's broader stay, first-time, itinerary, and both district-parent layers so `Bund vs Jing'an / where to stay near the Bund / classic skyline base vs polished modern Shanghai base` searches now land on a real side-by-side answer instead of forcing readers to triangulate from the broad stay guide plus separate district pages.
+- 2026-07-07: Continued the Shanghai comparison-layer tightening by publishing a direct `People's Square or Jing'an` stay-comparison page, then wiring it back into the city's main stay, first-time, 3-day, and both district-parent layers so `People's Square vs Jing'an / where to stay in Shanghai / easiest central base vs polished modern inner-city base` searches now land on a real side-by-side answer instead of being forced to triangulate from the broader stay guide plus separate district pages.
+- 2026-07-07: Kept tightening Beijing's comparison layer by publishing a direct `Qianmen or Sanlitun` stay-comparison page, then wiring it back into the city's main stay, first-time, 3-day, 4-day, and both district-parent layers so `Qianmen vs Sanlitun / where to stay in Beijing / old-core atmosphere vs modern nightlife base` searches now land on a real side-by-side answer instead of being forced to triangulate from the broader stay guide plus separate district pages.
+- 2026-07-07: Continued the Beijing comparison-layer tightening by publishing a direct `Wangfujing or Sanlitun` stay-comparison page, then wiring it back into the city's main stay, first-time, 3-day, 4-day, and both district-parent layers so `Wangfujing vs Sanlitun / where to stay in Beijing / central sightseeing base vs modern nightlife base` searches now land on a real side-by-side answer instead of being forced to triangulate from the broader hotel guide plus separate district pages.
+- 2026-07-07: Continued the same Shanghai comparison-layer tightening by publishing a direct `People's Square or Bund side` stay-comparison page, then wiring it back into the city's broader stay, first-time, itinerary, and both district-parent layers so `People's Square vs Bund / where to stay near the Bund / easiest central Shanghai base vs skyline hotel logic` searches now land on a real side-by-side answer instead of bouncing between the broad stay guide and separate district pages.
+- 2026-07-07: Kept pushing the same Beijing-and-Shanghai strengthening pass by publishing a direct `People's Square or French Concession` Shanghai stay-comparison page, then wiring it back into the city's broader stay, first-time, itinerary, and both district-parent layers so `People's Square vs French Concession / best central Shanghai base / easiest Shanghai hotel area vs better neighborhood feel` searches now land on a real side-by-side answer instead of being forced to triangulate from the broad stay guide and separate district pages.
+- 2026-07-07: Continued strengthening the site's two highest-priority inbound cities by publishing a direct `Qianmen or Wangfujing` Beijing stay-comparison page, then wiring it back into the city's main stay, first-time, itinerary, and district-parent layers so `Qianmen vs Wangfujing / where to stay near the Forbidden City / best central Beijing base for first-time visitors` searches now land on a real side-by-side answer instead of bouncing between the broader hotel guide and separate district pages.
+- 2026-07-07: Strengthened the site's two most important inbound city parents by publishing a real `Best Things to Do in Beijing` broad shortlist and a sharper `French Concession or Jing'an` Shanghai stay-comparison page, then wove both back into first-time, stay, itinerary, and district-parent layers so Beijing no longer leaves its broad activity intent buried under child pages and Shanghai now catches the higher-value inner-Puxi base-choice search that sits between its existing skyline and neighborhood comparisons.
 - 2026-07-07: Started a fresh narrow Search Console query-capture pass for broad `things to do in Nanjing` demand after new impressions appeared, and tightened how Nanjing's `first-time`, `how many days`, `where to stay`, `2-day`, `rainy day`, and `night` parents hand off to the already-live `Best Things to Do in Nanjing for First-Time Visitors` shortlist instead of leaving that intent buried behind route-shape or monument-specific pages.
 - 2026-07-07: Continued the same Guangzhou parent-layer tightening for the already-live `Canton Tower` intent by clarifying its fit inside `how many days` and `where to stay`, so the site now reads more clearly on when the tower is a real protected skyline evening versus when it should stay subordinate to Guangzhou's stronger food-and-neighborhood structure.
 - 2026-07-07: Finished the current Chongqing `Natural History Museum` query-capture pass by tightening the museum's positioning inside broader `best things` and `first-time guide` parents, so the site now more clearly treats it as a longer-stay or family-and-science branch versus the easier central `China Three Gorges Museum` default rather than as a generic short-trip museum recommendation.
@@ -1091,6 +1100,102 @@ When a new page is published:
 3. note whether an older broader page should stay live, be repurposed, or be internally linked as a supporting page
 
 ## Next Manual Batch
+
+### Batch I1: overseas-intent city-use capture
+
+Reason:
+
+- Recent intent mapping shows a new layer of overseas search demand that is narrower than city intros but broader than ultra-specific venue pages.
+- This batch is designed to catch `real execution curiosity` from Europe, the US, Japan, and Korea: tailoring in Shanghai, seafood-market behavior in Qingdao, family-and-attraction branching in Guangzhou, crowd-avoidance timing in Suzhou, senior-friendly mountain planning in Zhangjiajie, and small-purchase payment anxiety across China.
+- The goal is not six random articles. The goal is six missing landing pages that can now receive traffic from broader city and payment parents already on the site.
+
+Suggested order:
+
+1. `Shanghai Fabric Market Custom Suits for First-Time Visitors`
+2. `How Qingdao Seafood Market Processing Actually Works for First-Time Visitors`
+3. `Chimelong Safari Park in Guangzhou: Is It Worth It for First-Time Visitors?`
+4. `Best Quiet Hours for Suzhou Gardens: When to Go Without the Worst Crowds`
+5. `Zhangjiajie for Elderly Parents: What to Keep, Cut, and Simplify`
+6. `Can Foreign Cards Work at China Night Markets and Street Stalls?`
+
+Progress:
+
+- `done`: `Shanghai Fabric Market Custom Suits for First-Time Visitors`
+- `done`: `How Qingdao Seafood Market Processing Actually Works for First-Time Visitors`
+- `done`: `Chimelong Safari Park in Guangzhou: Is It Worth It for First-Time Visitors?`
+- `done`: `Best Quiet Hours for Suzhou Gardens: When to Go Without the Worst Crowds`
+- `done`: `Zhangjiajie for Elderly Parents: What to Keep, Cut, and Simplify`
+- `done`: `Can Foreign Cards Work at China Night Markets and Street Stalls?`
+
+Execution notes:
+
+- `Shanghai fabric market` should stay a practical shopping-detour page, not turn into luxury retail filler or generic Nanjing Road shopping copy.
+- `Qingdao seafood market processing` should stay caution-first and experience-vs-ease driven, because many first-time visitors are better served by a normal seafood street dinner.
+- `Chimelong Safari Park` should stay clearly selective and family-weighted so it does not distort Guangzhou's stronger central-city identity on short stays.
+- `Suzhou quiet hours` should improve garden timing decisions without creating cannibalizing duplicate garden pages.
+- `Zhangjiajie elderly parents` should stay focused on realistically mobile older travelers and route simplification, not drift into unsupported medical or accessibility promises.
+- `foreign cards at night markets` should sit inside the payment cluster as the narrow small-merchant child page, not duplicate the broader Alipay-vs-WeChat or cash-vs-card parents.
+
+### Batch I2: heritage-and-special-intent capture
+
+Reason:
+
+- The next clean overseas-intent gap is not another broad city intro. It is a missing set of narrower heritage and identity pages that travelers actively search once the route has already become more specific.
+- `Shanxi` and `Dunhuang` currently have broad topic coverage, but still lacked direct landing pages for the exact anchors readers search next: `Yungang Grottoes`, `Yingxian Wood Pagoda`, `Hanging Temple`, and `Mogao Caves booking for foreigners`.
+- `Shanghai` also still lacked a direct page for the `Korean Provisional Government site` search path, which is a real city-use and identity-history query rather than a generic museum browse.
+
+Suggested order:
+
+1. `Yungang Grottoes: Is It Worth Visiting on a First Shanxi Trip?`
+2. `Yingxian Wood Pagoda: When This Architecture Stop Really Earns Its Place`
+3. `Hanging Temple in Shanxi: Is It Worth the Detour for First-Time Visitors?`
+4. `Mogao Caves Booking for Foreigners: What to Know Before You Build a Dunhuang Stop`
+5. `Former Site of the Korean Provisional Government in Shanghai: Is It Worth Visiting on a First Trip?`
+
+Progress:
+
+- `done`: `Yungang Grottoes: Is It Worth Visiting on a First Shanxi Trip?`
+- `done`: `Yingxian Wood Pagoda: When This Architecture Stop Really Earns Its Place`
+- `done`: `Hanging Temple in Shanxi: Is It Worth the Detour for First-Time Visitors?`
+- `done`: `Mogao Caves Booking for Foreigners: What to Know Before You Build a Dunhuang Stop`
+- `done`: `Former Site of the Korean Provisional Government in Shanghai: Is It Worth Visiting on a First Trip?`
+
+Execution notes:
+
+- The three `Shanxi` child pages should act as route-shaping pages under the province-level topics, not pretend the province has already become a fully hubbed city cluster.
+- `Yungang`, `Yingxian`, and `Hanging Temple` should stay differentiated: monumental cave-art anchor, architecture-first timber anchor, and drama-led cliffside bridge stop.
+- `Mogao booking for foreigners` should stay booking-order and friction-reduction focused, not pretend one unstable app or one reseller path is universal.
+- `Korean Provisional Government site` should stay a selective meaning-heavy Shanghai stop, not be inflated into a fake citywide blockbuster.
+
+### Batch I3: practical-service micro-intent capture
+
+Reason:
+
+- The next clean overseas-intent gap is not another broad destination layer. It is a practical-service query that travelers search when a normal sightseeing trip suddenly collides with a real-life errand.
+- `Beijing glasses market`, `same-day prescription glasses Beijing`, and `overnight glasses Beijing` now read like a genuine missing landing page rather than a subheading that can stay buried inside broader shopping or Beijing planning copy.
+- The goal here is not generic shopping content. It is one stable page for travelers who either deliberately want cheap glasses in Beijing or urgently need a backup pair without losing a whole day.
+
+Suggested order:
+
+1. `Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors`
+2. `Best Things to Do in Beijing for First-Time Visitors`
+3. `French Concession or Jing'an: Where to Stay in Shanghai for First-Time Visitors`
+
+Progress:
+
+- `done`: `Beijing Glasses Market, Same-Day, and Overnight Prescription Glasses for First-Time Visitors`
+- `done`: `Best Things to Do in Beijing for First-Time Visitors`
+- `done`: `French Concession or Jing'an: Where to Stay in Shanghai for First-Time Visitors`
+- `done`: `Qianmen or Wangfujing: Where to Stay in Beijing for First-Time Visitors`
+
+Execution notes:
+
+- This page should stay break-fix-backup and value-first, not drift into broad Beijing shopping filler.
+- It should treat `Panjiayuan / Beijing Glasses City` as the search-intent anchor many readers mean, while clearly separating that errand from the different `Panjiayuan Antique Market` sightseeing detour.
+- It should stay cautious about `same-day` claims: simple single-vision replacements may be fast, but stronger prescriptions, progressives, and special coatings can still push pickup later.
+- `Best Things to Do in Beijing` should act as the missing broad shortlist parent above existing itinerary, museum, park, food, and night children rather than competing with the first-time guide.
+- `French Concession or Jing'an` should stay inside the `inner Puxi stay-style` layer, not drift into a generic nightlife ranking or duplicate the broader `Bund side vs French Concession` and `Pudong vs Puxi` parents.
+- `Qianmen or Wangfujing` should stay inside the `central old-core hotel-base` layer, not drift into a generic district-worth-it page or duplicate the broader Beijing stay guide.
 
 ### Batch C9: Hong Kong district-intent second round
 

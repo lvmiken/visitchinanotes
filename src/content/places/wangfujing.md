@@ -2,7 +2,7 @@
 title: "Wangfujing for First-Time Visitors: Is It Worth Visiting in Beijing?"
 description: "A practical Wangfujing guide for first-time Beijing visitors who want to know whether the area is worth visiting, what it feels like, and how it fits into a central Beijing day."
 publishDate: 2026-06-17
-updatedDate: 2026-06-25
+updatedDate: 2026-07-07
 city: "beijing"
 whoItsFor:
   - "first-time Beijing visitors staying or sightseeing near the central core"
@@ -109,6 +109,10 @@ It usually works less well when you cross the city just for it.
 
 For most first-time visitors, this is not the area you design the day around. It is the area you use to make a central day feel more complete, easier, or more relaxed.
 
+If the live question already is not whether to visit Wangfujing but whether to sleep here, compare [Qianmen or Wangfujing: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-wangfujing-where-to-stay-in-beijing-for-first-time-visitors/) before letting simple convenience or hotel photos decide the base.
+
+If the live hotel split is more specifically `easier central base or stronger Sanlitun evenings`, the tighter comparison is [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
+
 ## Is it annoying to get there and back?
 
 Usually not, which is part of why it keeps ending up on first-time Beijing itineraries.
@@ -143,6 +147,8 @@ The area often disappoints when travelers:
 
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if you are still ranking the city's true priorities
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you are deciding which central add-ons deserve time
+- read [Qianmen or Wangfujing: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-wangfujing-where-to-stay-in-beijing-for-first-time-visitors/) if the live decision is whether simple central convenience should win over more old-core atmosphere
+- read [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) if the live decision is whether simple central convenience should also beat a stronger modern-food-and-night hotel base
 - read [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) if the real question is what kind of meal Wangfujing should carry
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if the real question is how Wangfujing compares with Qianmen or Sanlitun after dark
 - read [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/) if shopping and day-to-day payment convenience are part of the decision

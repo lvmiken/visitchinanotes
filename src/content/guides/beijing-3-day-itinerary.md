@@ -2,7 +2,7 @@
 title: "Beijing 3-Day Itinerary for First-Time Visitors"
 description: "Use this Beijing 3-day itinerary to fit the Forbidden City, the Great Wall, food, and one calmer city day into a first trip without turning every day into heavy transport."
 publishDate: 2026-06-19
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -51,6 +51,8 @@ This page is best for travelers who:
 If you are still deciding whether Beijing itself belongs in the route, start with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/). If the hotel base still is not settled, keep [Best Area to Stay in Beijing for First-Time Visitors](/guides/beijing-where-to-stay/) open too.
 
 If the real question is whether 3 days is enough at all, read [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) before you force this version to carry expectations it was never meant to carry.
+
+If the live problem is not the route shape yet but which Beijing experiences truly deserve those three days, the broader shortlist page is [Best Things to Do in Beijing for First-Time Visitors](/guides/best-things-to-do-in-beijing-for-first-time-visitors/).
 
 ## Who this 3-day version is best for
 
@@ -110,6 +112,12 @@ If the evening still feels abstract, use the two most natural follow-ons:
 
 - [Qianmen](/places/qianmen/) if you want more old-core texture and a more atmospheric finish
 - [Wangfujing](/places/wangfujing/) if you want a simpler commercial ending and easier decision-making
+
+If that evening split is starting to feel more like a hotel-base decision than a Day 1 add-on, compare [Qianmen or Wangfujing: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-wangfujing-where-to-stay-in-beijing-for-first-time-visitors/) before you book the room in the wrong central district.
+
+If the hotel question already is not `old-core vs central convenience` but `Wangfujing vs Sanlitun`, the sharper base-choice page is [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
+
+If the hotel question already is not `Qianmen vs Wangfujing` but `Qianmen vs Sanlitun`, the sharper base-choice page is [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
 
 If you want the wider evening logic instead of only this one night, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the stronger supporting page.
 
@@ -202,6 +210,10 @@ If the final evening already clearly belongs to `Sanlitun` and the only remainin
 If Day 3 should carry a more specific meal decision, go narrower with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/), or [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) depending on whether the evening should feel historic, easy, or modern.
 
 If the live search already is narrower than that and has effectively become `best restaurants in Sanlitun Beijing`, then the modern-evening version of Day 3 is already chosen and [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) is the sharper landing page.
+
+If the modern-evening version of Day 3 is important enough that it may change where you should sleep, compare [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) before locking a central-base hotel by default.
+
+If the real hotel split is `Qianmen's old-core atmosphere` versus `Sanlitun's stronger modern night`, compare [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) before you assume a shorter trip should automatically sleep closer to the historic side.
 
 If Day 3 clearly is becoming a Temple-of-Heaven food day, the narrower page is [Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitors](/guides/where-to-eat-near-temple-of-heaven-in-beijing/).
 

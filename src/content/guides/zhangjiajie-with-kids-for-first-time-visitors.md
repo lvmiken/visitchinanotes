@@ -276,6 +276,7 @@ The most common mistakes are:
 ## Which page to read next
 
 - read [How Many Days Do You Need in Zhangjiajie for a First Trip?](/guides/zhangjiajie-how-many-days/) if the family version still depends on whether the stop should be `2` or `3` days
+- read [Zhangjiajie for Elderly Parents: What to Keep, Cut, and Simplify](/guides/zhangjiajie-for-elderly-parents-what-to-keep-cut-and-simplify/) if the group now also needs the older-parent version rather than only the younger-child version of the same mountain problem
 - read [Where to Stay in Zhangjiajie With Kids for First-Time Visitors](/guides/where-to-stay-in-zhangjiajie-with-kids/) if the biggest family decision still is the base
 - read [Best Area to Stay in Zhangjiajie for First-Time Visitors](/guides/zhangjiajie-where-to-stay/) if you also want the broader non-family base comparison behind that family hotel choice
 - read [Best Things to Do in Zhangjiajie for First-Time Visitors](/guides/best-things-to-do-in-zhangjiajie-for-first-time-visitors/) if the family priorities still are not settled

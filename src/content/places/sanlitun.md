@@ -2,7 +2,7 @@
 title: "Sanlitun in Beijing: Best for Going Out, Less Essential for Sightseeing"
 description: "Use this Sanlitun guide to decide whether the district belongs in your Beijing trip as a nightlife area, dinner district, or hotel base, and when it matters more for comfort than for classic sightseeing."
 publishDate: 2026-06-17
-updatedDate: 2026-06-20
+updatedDate: 2026-07-07
 city: "beijing"
 whoItsFor:
   - "first-time Beijing visitors who want one modern, easier evening area in the trip"
@@ -159,6 +159,10 @@ It is usually a weaker base if:
 
 This is where [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) and [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) matter more than blanket advice. A pleasant neighborhood does not automatically mean it is the smartest base for your exact Beijing plan.
 
+If the live hotel split already has narrowed to `Sanlitun or Wangfujing`, the tighter side-by-side answer is [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
+
+If the live hotel split already has narrowed to `Sanlitun or Qianmen`, the tighter side-by-side answer is [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/).
+
 ## Sanlitun vs Wangfujing vs Qianmen
 
 These three areas can all appear on Beijing lists, but they solve different problems.
@@ -263,6 +267,8 @@ It is usually not strongest as a half-day that forces you to cross the city just
 - read [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) if the real decision is cocktails, Western restaurants, or a more international-feeling night out
 - read [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) if you want to compare Sanlitun against Qianmen and Wangfujing before choosing the night
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if Sanlitun is partly a hotel-base question
+- read [Wangfujing or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/wangfujing-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) if the live hotel decision already is whether stronger modern evenings are worth giving up some central-core ease
+- read [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) if the live hotel decision already is whether stronger modern evenings are worth giving up the old-core atmosphere of sleeping nearer historic Beijing
 - read [Beijing for First-Time Visitors: What to Prioritize](/guides/beijing-first-time-guide/) if the wider city balance is still unsettled
 - read [How to Use Didi in China Without Speaking Chinese](/topics/how-to-use-didi-in-china/) if the real question is whether evening movement will feel easy
 - read [Metro, Taxi, or Ride-Hailing in China Cities: What First-Time Travelers Should Choose](/topics/metro-taxi-ridehailing/) if you are deciding how to move between a Sanlitun evening and the rest of the city

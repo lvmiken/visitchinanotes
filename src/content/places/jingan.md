@@ -2,7 +2,7 @@
 title: "Jing'an in Shanghai: Is It Worth Visiting on a First Trip?"
 description: "Decide whether Jing'an deserves one of your Shanghai evenings, a polished dinner slot, or even hotel-base logic, and when it is better than Xintiandi, the French Concession, or one more Bund-side block."
 publishDate: 2026-06-24
-updatedDate: 2026-07-01
+updatedDate: 2026-07-07
 city: "shanghai"
 whoItsFor:
   - "first-time Shanghai visitors deciding where one polished modern evening should happen"
@@ -168,6 +168,12 @@ It is often stronger as a stay logic than as a sightseeing priority.
 
 If the hotel question already is shaping whether this district should carry the stay or only one dinner, the cleaner next page is [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/).
 
+If the hotel question already has narrowed more specifically to `Jing'an or French Concession`, the sharper comparison page is [French Concession or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/french-concession-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
+If the hotel question already has narrowed more specifically to `Jing'an or People's Square`, the sharper comparison page is [People's Square or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
+If the hotel question already has narrowed more specifically to `Jing'an or the Bund side`, the sharper comparison page is [Bund Side or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 ## How much time does Jing'an need?
 
 Usually not much.
@@ -212,5 +218,8 @@ It often improves the trip less when:
 - read [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) if the practical decision is which district should carry dinner
 - read [Xintiandi in Shanghai: Is It Worth Visiting on a First Trip?](/places/xintiandi/) if the real decision is easy modern evening versus more compact polished nightlife
 - read [French Concession for First-Time Visitors: When Shanghai's Neighborhood Rhythm Matters More Than Landmarks](/places/french-concession/) if the bigger decision is polished modern comfort versus slower district texture
+- read [French Concession or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/french-concession-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/) if the real hotel decision already is exactly those two district styles
+- read [People's Square or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/) if the real hotel decision already is whether polished modern comfort is worth giving up the easiest central-base logic
+- read [Bund Side or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/) if the real hotel decision already is whether polished modern comfort is worth giving up classic skyline-side hotel logic
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the hotel decision may make Jing'an more useful as a base than as a visit
 - read [Nanjing Road in Shanghai: Is It Worth Your Time or Mostly a Convenience Stop?](/places/nanjing-road/) if the live choice is polished modern ease versus classic central commercial energy

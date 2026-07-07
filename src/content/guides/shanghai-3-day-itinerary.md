@@ -2,7 +2,7 @@
 title: "Shanghai 3-Day Itinerary for First-Time Visitors"
 description: "Use this Shanghai 3-day itinerary to plan a first trip around the Bund, the French Concession, classic food stops, and one realistic Pudong or museum block without wasting time on cross-city detours."
 publishDate: 2026-06-14
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "3 days"
@@ -106,6 +106,12 @@ If the skyline part already is fixed and the live question is what dinner should
 
 If the same evening already is narrowing away from `public Bund walk` and toward `one expensive skyline drink that still feels worth it`, the sharper night-planning page is [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/).
 
+If that same central-skyline logic is starting to look less like a sightseeing decision and more like a hotel-base question, the sharper comparison page is [People's Square or Bund Side: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-bund-side-where-to-stay-in-shanghai-for-first-time-visitors/).
+
+If the hotel question already is not `People's Square vs Bund side` but `People's Square vs Jing'an`, the sharper base-choice page is [People's Square or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
+If the hotel question already is not `People's Square vs Bund side` but `Bund side vs Jing'an`, the sharper base-choice page is [Bund Side or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/bund-side-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
 If that same central day is continuing through [Nanjing Road](/places/nanjing-road/) and the live question is whether the area should carry shengjian, snacks, or one easy central dinner, the narrower route-support page is [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/).
 
 If the old-core part of Day 1 already is clearly happening and the remaining question is whether the surrounding temple-and-bazaar layer adds enough to justify a fuller central block, the narrower companion page is [City God Temple in Shanghai: When the Old City Adds More Than Crowds](/places/city-god-temple/).
@@ -146,6 +152,12 @@ If you are unsure whether Day 2 should stay purely neighborhood-led or carry one
 If the live decision is where to attach the best lunch, dinner, or drinks stop to this slower day, [Where to Eat in Shanghai for First-Time Visitors](/guides/where-to-eat-in-shanghai-for-first-time-visitors/) is the practical next page. In many first trips, the French Concession is the easiest day to let food and neighborhood rhythm support each other naturally.
 
 If that Day 2 food question already is no longer citywide and has narrowed to exactly what should happen inside the district itself, the more specific route-support page is [Where to Eat in the French Concession for First-Time Visitors](/guides/where-to-eat-in-french-concession-for-first-time-visitors/).
+
+If the broader stay question already is drifting away from skyline logic and into `Should I actually sleep in this district or use Jing'an as the easier polished base?`, the sharper comparison page is [French Concession or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/french-concession-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
+
+If the broader stay question already is not skyline-led at all and the real split is whether to keep the easiest central base or move the whole stay into a more atmospheric neighborhood, the sharper comparison page is [People's Square or French Concession: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-french-concession-where-to-stay-in-shanghai-for-first-time-visitors/).
+
+If the broader stay question already is not skyline-led at all and the real split is whether to keep the easiest central base or move the whole stay into a more polished modern district, the sharper comparison page is [People's Square or Jing'an: Where to Stay in Shanghai for First-Time Visitors](/guides/peoples-square-or-jingan-where-to-stay-in-shanghai-for-first-time-visitors/).
 
 If the trip also wants one useful local breakfast without letting the morning become extra transport work, the narrower morning layer is [Where to Eat Breakfast in Shanghai for First-Time Visitors](/guides/where-to-eat-breakfast-in-shanghai-for-first-time-visitors/).
 
@@ -259,6 +271,7 @@ That is enough for the city to feel stylish, useful, and memorable without becom
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the hotel base still is not right
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the city still needs to be ranked against other route options
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and you want a cleaner adult shortlist behind this route
+- read [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) if the city already has room for one more day and you want the stronger fuller-city version instead of improvising Day 4 later
 - read [Wukang Road in Shanghai: The City Walk That Makes the French Concession Click](/guides/how-to-plan-a-wukang-road-and-french-concession-city-walk-in-shanghai-for-first-time-visitors/) if Day 2 already is clearly concession-led and the missing piece is the actual walk shape
 - read [City God Temple in Shanghai: When the Old City Adds More Than Crowds](/places/city-god-temple/) if Day 1 or Day 3 already is leaning old-core and you want to know whether the area deserves more than Yu Garden alone
 - read [Yu Garden and City God Temple or the French Concession: Which Shanghai Day Fits a First Trip Better?](/guides/yu-garden-city-god-temple-or-french-concession-for-first-time-visitors/) if the live choice is which side should carry the trip's most flexible day
@@ -266,6 +279,7 @@ That is enough for the city to feel stylish, useful, and memorable without becom
 - read [Where to Eat Near the Bund in Shanghai for First-Time Visitors](/guides/where-to-eat-near-the-bund-in-shanghai-for-first-time-visitors/) if Day 1 already is skyline-led and the live question is how to place the most useful central meal around the riverfront
 - read [Where to Eat Near Nanjing Road in Shanghai for First-Time Visitors](/guides/where-to-eat-near-nanjing-road-in-shanghai-for-first-time-visitors/) if Day 1 already is using the central shopping corridor and the live question is how to keep the meal layer easy
 - read [Where to Eat Near People's Square in Shanghai for First-Time Visitors](/guides/where-to-eat-near-peoples-square-in-shanghai-for-first-time-visitors/) if Day 3 already is central, museum-led, or hotel-led and the real question is how to keep the food layer simple
+- read [Shanghai Fabric Market Custom Suits for First-Time Visitors](/guides/shanghai-fabric-market-custom-suits-for-first-time-visitors/) if Day 3 needs one practical indoor shopping branch and the trip genuinely wants made-to-measure clothing rather than another attraction
 - read [What to Do in Shanghai at Night for First-Time Visitors](/guides/what-to-do-in-shanghai-at-night/) if the next practical decision is how to make one or two Shanghai evenings feel intentional
 - read [Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the Night](/guides/where-to-go-in-shanghai-for-bund-view-rooftop-drinks-without-wasting-the-night/) if Day 1 already is skyline-led and the live question is whether one polished drink is better than another Bund loop
 - read [What to Do in the French Concession at Night for First-Time Visitors](/guides/what-to-do-in-french-concession-at-night-for-first-time-visitors/) if your neighborhood day already is chosen and the live question is how to use that evening without overbuilding it
