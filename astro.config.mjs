@@ -5,6 +5,8 @@ import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 
+import cloudflare from "@astrojs/cloudflare";
+
 const sitemapExcludedPathnames = new Set([
   "/authors/",
   "/authors/editorial-team/",
@@ -78,9 +80,11 @@ const sitemapLastmodByPath = await buildCollectionLastmodMap();
 export default defineConfig({
   site: "https://visitchinanotes.com",
   output: "static",
+
   legacy: {
     collections: true,
   },
+
   integrations: [
     mdx(),
     sitemap({
@@ -103,4 +107,6 @@ export default defineConfig({
       },
     }),
   ],
+
+  adapter: cloudflare()
 });
