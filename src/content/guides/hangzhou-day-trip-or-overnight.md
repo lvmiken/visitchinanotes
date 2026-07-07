@@ -34,6 +34,8 @@ Hangzhou can work as either a fast scenic add-on or a more restorative stop betw
 
 If the live question already is not only `day trip or overnight` but the broader trip-length decision itself, keep [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/) open too.
 
+If the real blocker is not time shape but what actually deserves priority once you get there, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
+
 ## Choose a day trip if
 
 - your China itinerary is tight
@@ -67,5 +69,7 @@ If the overnight version already is winning and the live question now is where o
 If the overnight version already is winning and the live question now is whether the city has enough room for one real tea branch instead of only one tea pause, the next page is [How to Plan a Hangzhou Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-hangzhou-tea-half-day-for-first-time-visitors/).
 
 If the day-trip version already is winning and the live question now is how to use that one day well, the next page is [A Practical 1-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-1-day-itinerary-for-first-time-visitors/).
+
+If the overnight version already is winning and the live question now is not only `where to sleep` or `what to do at night` but which Hangzhou branches should actually carry that slower stop, the next page is [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
 
 If the live question still is not route shape but which months actually make the city easiest, keep [Best Time to Visit Hangzhou for First-Time Visitors](/guides/best-time-to-visit-hangzhou-for-first-time-visitors/) open too.

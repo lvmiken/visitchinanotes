@@ -70,6 +70,8 @@ Use Hangzhou to reset:
 - [West Lake](/places/west-lake/)
 - one supporting branch such as [Lingyin Temple](/places/lingyin-temple/) or [Longjing Village](/places/longjing-village/)
 
+If the Hangzhou middle section still feels too generic here, the best parent shortlist is [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) before you decide how much of that one night should go to lake time versus one stronger second branch.
+
 ### Days 4 to 5: Nanjing
 
 Arrive early enough that Nanjing gets:
@@ -97,6 +99,8 @@ That works because:
 
 If Hangzhou still is the uncertain piece, use [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/).
 
+If Hangzhou is confirmed and the real remaining question is what actually deserves one of the route's limited middle-day slots, use [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) next.
+
 If Nanjing still is the uncertain piece, use [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/).
 
 ## The 7-day version: when the close really matters
@@ -117,6 +121,7 @@ This works well if:
 
 Useful support pages here:
 
+- [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/)
 - [A Practical 2-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-2-day-itinerary-for-first-time-visitors/)
 - [One Good Nanjing Night: Qinhuai, Laomendong, and When Not to Overbuild It](/guides/one-good-nanjing-night-qinhuai-laomendong-and-when-not-to-overbuild-it/)
 - [Purple Mountain Without Losing the Whole Day: Sun Yat-sen, Ming Xiaoling, and What Not to Stack](/guides/purple-mountain-without-losing-the-whole-day-sun-yat-sen-ming-xiaoling-and-what-not-to-stack/)

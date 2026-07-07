@@ -70,6 +70,8 @@ Areas around **Wangfujing** and the broader Dongcheng side often work well becau
 
 This is also one of the easiest bases if you want food to stay tied to the central sightseeing days instead of becoming another evening transfer project. [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/) is useful here because it helps separate "one classic duck meal" from "other Beijing meals that should stay central and easy."
 
+If the hotel choice already is pushing you toward one easy central dinner district, the narrower food page is [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/).
+
 If the real reason you are choosing the base is that evenings matter, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the better companion page.
 
 This is usually the strongest answer when the trip is mainly about:
@@ -112,6 +114,8 @@ It is often better than staying farther out in exchange for a slightly bigger ro
 That is usually better as a preference choice than a default first-time choice. [Sanlitun for First-Time Visitors: When It Is Worth Your Time in Beijing](/places/sanlitun/) is useful if you are unsure whether modern Beijing deserves a real slot in the trip.
 
 If you want a more polished dinner night instead of a purely historical one, this is also the base logic that starts making a broader food evening feel natural, whether that means a strong regional-Chinese dinner, an easier Western fallback, or a drinks-led evening that does not require extra planning. [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) is the better companion if that is the real reason Sanlitun is tempting.
+
+If the hotel choice already is really about where one modern dinner should happen, the narrower food page is [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/).
 
 Sanlitun is strongest when:
 

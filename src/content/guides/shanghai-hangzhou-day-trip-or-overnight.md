@@ -78,6 +78,8 @@ It is usually the better answer when:
 
 If the overnight version already is starting to win and the real question now is how Hangzhou itself should use that extra night, the narrower next page is [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/).
 
+If the route already is leaning overnight and the remaining problem is what Hangzhou should actually prioritize once it stops being a rushed add-on, the stronger shortlist page is [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
+
 If the bigger route question is not only `day trip or overnight?` but `Hangzhou or another east-China extension altogether?`, the broader chooser is [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/).
 
 ## Protect the split from becoming fake efficiency

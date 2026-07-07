@@ -53,6 +53,8 @@ If the bigger decision still is whether Hangzhou should stay a day trip or becom
 
 If the route still is not fully sure which Hangzhou branches deserve priority before you place them into a day order, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
 
+If you arrived here from the broader `things to do in Hangzhou` search, this page is the one-day answer after the shortlist is already mostly settled. The broader shortlist page above is still the better parent if you are not yet sure whether the support slot should go to Leifeng, Broken Bridge, Hefang, or a fuller overnight upgrade instead.
+
 ## Before you use this plan
 
 This itinerary works best if:

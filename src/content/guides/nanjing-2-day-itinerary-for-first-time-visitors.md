@@ -26,6 +26,8 @@ faq:
 
 This is the Nanjing version that usually feels strongest for first-time visitors.
 
+If the trip already clearly has two days but the broader question still is which things to do in Nanjing deserve those two days before you sequence them, keep [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) open too.
+
 If Day 1 begins with a same-day flight rather than a hotel wake-up inside the city, keep [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) open too, because a messy arrival can steal exactly the time this itinerary needs most.
 
 If the route already looks right but the next problem is which hotel, train, or major history stop deserves early commitment, keep [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) open too.
@@ -75,6 +77,7 @@ If Day 1 used [Presidential Palace](/places/presidential-palace/), Day 2 can sti
 
 ## Which page to read next
 
+- read [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) if the two-day frame is right but the bigger shortlist still needs a cleaner priority order
 - read [What to Do in Nanjing at Night for First-Time Visitors](/guides/what-to-do-in-nanjing-at-night-for-first-time-visitors/) if the evening still needs refining
 - read [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) if the first live constraint is how much of Day 1 survives after landing
 - read [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) if the day order is mostly right and the next question is what deserves early commitment

@@ -32,6 +32,8 @@ Rain does not automatically flatten Nanjing.
 
 What flattens Nanjing is keeping a monument-heavy day exactly as planned after weather has already made the city's outdoor layers more expensive in time and energy.
 
+If the rain is forcing you to re-rank what to do in Nanjing rather than only rescue one scheduled day, keep [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) open too.
+
 ## Who this page is for
 
 Use this page if you are asking:
@@ -160,6 +162,7 @@ This often saves the city's emotional balance best.
 
 ## Which page to read next
 
+- read [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) if weather is exposing that the real problem is not only today but the whole Nanjing shortlist
 - read [Nanjing Museum or Presidential Palace? The Better History Block for First-Time Visitors](/guides/nanjing-museum-or-presidential-palace-the-better-history-block-for-first-time-visitors/) if weather is forcing the indoor-anchor decision
 - read [Presidential Palace or Sun Yat-sen Mausoleum? Which Nanjing Landmark Matters More on a First Visit](/guides/presidential-palace-or-sun-yat-sen-mausoleum-which-nanjing-landmark-matters-more-on-a-first-visit/) if rain is forcing you to choose between site-led history and the big symbolic outdoor half day
 - read [What to Do in Nanjing at Night for First-Time Visitors](/guides/what-to-do-in-nanjing-at-night-for-first-time-visitors/) if the day now needs one good evening more than one more serious daytime block

@@ -2,7 +2,7 @@
 title: "Best Area to Stay in Guangzhou for First-Time Visitors"
 description: "How to choose the best area to stay in Guangzhou for first-time visitors, based on food priorities, metro convenience, and wider South China route plans."
 publishDate: 2026-06-14
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "guangzhou"
 guideStage: "plan-stay"
 tripLength: "2 to 4 days"
@@ -79,6 +79,8 @@ If the live question now is whether one easy central old-core district should ca
 It is also the safer direction if you already know the trip wants one `Pearl River` or `Canton Tower` evening and you do not want the return from that side of the city to become the real story of the night. If that skyline-night call still is not settled, the narrower decision page is [Pearl River Night Cruise in Guangzhou: Is It Worth It for First-Time Visitors?](/places/pearl-river-night-cruise/).
 
 If the skyline-night call is less about the cruise and more about whether the main landmark or easier skyline walk deserve real time, the narrower pages are [Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?](/places/canton-tower/) and [Huacheng Square in Guangzhou: Is It Worth It for First-Time Visitors?](/places/huacheng-square/).
+
+If the real skyline-night question already is not `tower yes or no` but `tower or cruise`, the sharper chooser page is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
 
 If the trip instead wants one stronger `Liwan` or old-Guangzhou branch, a base that does not make the west side feel like an afterthought becomes more valuable. If that exact district decision still is live, the narrower page is [Yongqing Fang in Guangzhou: Is It Worth It for First-Time Visitors?](/places/yongqing-fang/).
 

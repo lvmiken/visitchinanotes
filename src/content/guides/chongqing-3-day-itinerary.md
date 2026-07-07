@@ -181,6 +181,8 @@ If the live question now is whether that lighter indoor cultural version should 
 
 If the live question really is which of those two cultural versions fits Day 3 better, use [China Three Gorges Museum or Huguang Guild Hall for First-Time Visitors?](/guides/china-three-gorges-museum-or-huguang-guild-hall-for-first-time-visitors/).
 
+If the live question now is whether Day 3 should become the farther `Natural History Museum` branch instead of the easier central museum, use [Is Chongqing Natural History Museum Worth It for First-Time Visitors?](/places/chongqing-natural-history-museum/) and [Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?](/guides/chongqing-natural-history-museum-or-china-three-gorges-museum-for-first-time-visitors/).
+
 If the trip already has had enough crowded central-core time, this is usually the day to move away from repeating the exact same `Hongyadong` logic again.
 
 If the route already clearly wants one scenic final evening, the next page is [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/).

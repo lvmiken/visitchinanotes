@@ -112,6 +112,8 @@ That is usually stronger than trying to:
 - do museum, palace, mausoleum, and wall all at full strength
 - leave no room for the Qinhuai side at night
 
+If the city already is winning and the live question is no longer whether Nanjing belongs but which actual things to do in Nanjing deserve those limited blocks, the cleanest shortlist page is [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/).
+
 ## Day trip or overnight?
 
 Choose a `day trip` if:

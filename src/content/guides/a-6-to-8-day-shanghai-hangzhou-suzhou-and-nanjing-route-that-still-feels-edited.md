@@ -82,6 +82,8 @@ One strong day is usually enough for:
 
 If the city shape still feels vague, use [Hangzhou for First-Time Visitors: When the City Is Worth More Than a Quick Add-On](/guides/hangzhou-first-time-guide/).
 
+If the city is confirmed but the broader remaining search is really `what to do in Hangzhou`, the sharper shortlist parent is [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
+
 ### Day 4: Suzhou
 
 Keep Suzhou tight and elegant:
@@ -146,6 +148,8 @@ Why this works:
 If the route is likely to cut one city and stay as a tighter three-city branch, the two sharper spinoffs are [A 4- to 6-Day Shanghai + Hangzhou + Suzhou Route for a Softer East-China First Trip](/guides/a-4-to-6-day-shanghai-hangzhou-and-suzhou-route-for-a-softer-east-china-first-trip/) and [A 5- to 7-Day Shanghai + Hangzhou + Nanjing Route With a Better Finish](/guides/a-5-to-7-day-shanghai-hangzhou-and-nanjing-route-with-a-better-finish/).
 
 For the fuller Hangzhou block, the best support pages usually are [A Practical 2-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-2-day-itinerary-for-first-time-visitors/) and [Longjing Tea Country in Hangzhou: How to Avoid the Wrong Stop and Build a Better Half Day](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/).
+
+If that fuller Hangzhou block still needs a parent shortlist before you choose between lake time, Lingyin, Longjing, or Xixi, add [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) first.
 
 ## What each city should not do
 

@@ -73,6 +73,8 @@ Keep Hangzhou simple:
 - one tea-country or temple branch
 - one slower evening if you stay overnight
 
+If the Hangzhou middle section still feels too abstract at this stage, the best parent shortlist is [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) before you decide whether the support branch should be Lingyin, Longjing, Leifeng, or just more lake time.
+
 ### Day 4: Suzhou
 
 Use Suzhou for refinement, not another broad scenic day:
@@ -101,6 +103,8 @@ That works because:
 
 If Hangzhou is the part you are most worried about over-compressing, go next to [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/).
 
+If Hangzhou is confirmed but the real remaining question is simply what should fill that one night and one scenic day, go next to [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) before you narrow into one- or two-day execution pages.
+
 If Suzhou is the part you are most worried about flattening into a fast rail check, go next to [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/).
 
 ## The 6-day version: when the route can breathe
@@ -121,6 +125,7 @@ This works particularly well when:
 
 Useful support pages for this fuller version:
 
+- [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/)
 - [A Practical 2-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-2-day-itinerary-for-first-time-visitors/)
 - [Longjing Tea Country in Hangzhou: How to Avoid the Wrong Stop and Build a Better Half Day](/guides/hangzhou-longjing-tea-country-without-the-wrong-tea-stop/)
 - [Central Suzhou Without Overdoing It: Museum, Lion Grove, Pingjiang, and What to Cut](/guides/central-suzhou-without-overdoing-it-museum-lion-grove-pingjiang-and-what-to-cut/)

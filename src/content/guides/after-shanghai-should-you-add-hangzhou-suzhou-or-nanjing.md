@@ -70,6 +70,8 @@ Hangzhou is especially good when the route already has enough city energy and no
 
 If that already sounds right, go next to [Hangzhou for First-Time Visitors: When the City Is Worth More Than a Quick Add-On](/guides/hangzhou-first-time-guide/).
 
+If Hangzhou already is basically chosen and the broader remaining query is really `what to do in Hangzhou`, the sharper shortlist page is [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/).
+
 ## Choose Suzhou if the trip needs refinement
 
 Suzhou usually is the right answer when you want:

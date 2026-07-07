@@ -56,6 +56,8 @@ If the city itself still is not fully confirmed, start with [Hangzhou for First-
 
 If Hangzhou already is confirmed and the live decision now is trip length, this page is the narrower next step.
 
+If Hangzhou already is confirmed and the bigger question still is the broader `what to do in Hangzhou` shortlist before you lock one day or two, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
+
 ## The short answer
 
 For many first-time visitors:

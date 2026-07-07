@@ -34,6 +34,8 @@ For many first-time visitors:
 - `1 night` is usually the minimum version that feels coherent
 - `2 days` is often the sweet spot
 
+If the length question is almost solved and the next issue is which things to do in Nanjing actually deserve those limited blocks, use [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/).
+
 ## Choose 1 day if Nanjing is a historical sampler
 
 One day works if:
@@ -71,6 +73,7 @@ If the length already looks right and the next issue is whether the stay now nee
 
 ## Which page to read next
 
+- read [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) if the day count is almost right and the next question is which sights, landmarks, and evening blocks deserve protection
 - read [Nanjing From Shanghai: Is a Fast Day Trip Enough?](/guides/shanghai-nanjing-day-trip-or-overnight/) if the stop still is being framed through Shanghai
 - read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if the day-trip version already is happening and the live question is what one day can carry gracefully
 - read [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) if the trip length is settled and the next question is how much of that stay should be locked early

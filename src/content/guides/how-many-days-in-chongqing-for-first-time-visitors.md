@@ -29,6 +29,8 @@ faq:
     answer: "For many first-time visitors, 2 to 4 days works well, with 3 days often being the strongest all-around balance for skyline views, food districts, and one more flexible city layer."
   - question: "Is 2 days enough for Chongqing?"
     answer: "Yes, if you keep the trip selective. Two days is enough for a useful first Chongqing impression when you protect one central skyline block, one real food-and-evening layer, and avoid forcing too many cross-city missions."
+  - question: "Is Chongqing Natural History Museum worth it if I only have 2 or 3 days?"
+    answer: "Usually not unless science or family museum interest is unusually strong. For many short first trips, the central China Three Gorges Museum is the easier indoor default, while the Natural History Museum fits better on a longer stay."
 ---
 
 Chongqing is one of the easiest major China cities to get wrong by trip length.
@@ -110,6 +112,8 @@ And you are usually cutting:
 
 Two days can still give you a good Chongqing first visit. It just works best when you accept that it is a sharper version, not the full one.
 
+This is also why [Is Chongqing Natural History Museum Worth It for First-Time Visitors?](/places/chongqing-natural-history-museum/) is usually a weaker fit on `2 days` unless the science branch itself is one of the main reasons you are extending beyond the default skyline-and-food core.
+
 ## Why 3 days is often the sweet spot
 
 For many first-time visitors, 3 days is the best Chongqing answer.
@@ -166,6 +170,8 @@ This is where Chongqing often becomes:
 - one slower or more scenic city layer
 - one extra day for recovery, deeper neighborhood rhythm, or one more selective outer layer
 
+This is also the point where the `Beibei` branch becomes much easier to defend. If the extra day might become a science-led indoor layer rather than another skyline or food night, use [Is Chongqing Natural History Museum Worth It for First-Time Visitors?](/places/chongqing-natural-history-museum/) and [Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?](/guides/chongqing-natural-history-museum-or-china-three-gorges-museum-for-first-time-visitors/) to decide whether that longer-stay museum detour is actually the right use of your extra time.
+
 This is the point where the cluster starts fitting together most naturally:
 
 - [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) for the meal logic
@@ -219,6 +225,7 @@ This is the point where the cluster starts fitting together most naturally:
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you are leaning toward the sweet-spot default version
 - read [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the reason you are leaning toward `4 days` is that you want one nature or thrill add-on outside the city
+- read [Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?](/guides/chongqing-natural-history-museum-or-china-three-gorges-museum-for-first-time-visitors/) if the reason you are leaning toward `4 days` is a science-or-family museum branch rather than another skyline, food, or nature day
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the length decision mainly depends on whether the city deserves one or two serious food days
 - read [Where to Eat in Chongqing for First-Time Visitors](/guides/where-to-eat-in-chongqing-for-first-time-visitors/) if the extra day mainly is being justified by district logic and food geography
 - read [What to Do in Chongqing at Night for First-Time Visitors](/guides/what-to-do-in-chongqing-at-night-for-first-time-visitors/) if the whole stay still depends on how many real evenings Chongqing should get

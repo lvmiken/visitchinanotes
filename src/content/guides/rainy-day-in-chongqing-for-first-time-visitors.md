@@ -227,6 +227,10 @@ But on a short first trip, these are usually only strong rainy-day answers when:
 
 They are weaker when you are using them only to avoid being outside for an hour.
 
+If the farther science-museum branch already is the exact rainy-day question, go narrower with [Is Chongqing Natural History Museum Worth It for First-Time Visitors?](/places/chongqing-natural-history-museum/).
+
+If the rainy-day decision is really `Natural History Museum` versus the easier central default, the sharper page is [Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?](/guides/chongqing-natural-history-museum-or-china-three-gorges-museum-for-first-time-visitors/).
+
 ## What usually works poorly in rain
 
 These are often the first things to cut or shrink:

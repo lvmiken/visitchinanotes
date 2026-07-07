@@ -1,8 +1,8 @@
 ---
 title: "Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?"
-description: "Compare Kuanzhai Alley and Jinli so first-time Chengdu visitors can choose the better old-street stop for atmosphere, food, timing, and overall itinerary fit."
+description: "Compare Kuanzhai Alley and Jinli Ancient Street so first-time Chengdu visitors can choose the better old-street stop for atmosphere, food, timing, and overall itinerary fit."
 publishDate: 2026-06-21
-updatedDate: 2026-06-21
+updatedDate: 2026-07-07
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 old-street block"
@@ -27,11 +27,15 @@ author: "Editorial Team"
 faq:
   - question: "Is Kuanzhai Alley or Jinli better for first-time visitors?"
     answer: "For many first-time visitors, Jinli is better if you want a fuller traditional-core block with Wuhou Shrine and an easier evening continuation, while Kuanzhai Alley is better if you only want a shorter, more central atmosphere stop."
+  - question: "Is Jinli Ancient Street better than Kuanzhai Alley?"
+    answer: "Usually Jinli Ancient Street is better when you want a fuller Wuhou Shrine-side traditional block, while Kuanzhai Alley is better when you only want a shorter central old-street stop that stays easier to control."
   - question: "Should first-time visitors do both Kuanzhai Alley and Jinli?"
     answer: "Usually not on a short trip. Most first-time visitors get better results from choosing one old-street block and leaving more time for pandas, food, tea, or a more local Chengdu evening."
 ---
 
 This is one of the most common Chengdu questions that sounds smaller than it really is.
+
+Many travelers search this as `Kuanzhai Alley vs Jinli Ancient Street`, but the real first-trip decision is less about naming and more about what job that traditional-looking stop needs to do inside the route.
 
 Once the trip already has one panda morning, one food-led evening, and maybe one calmer cultural block, many first-time visitors still want one traditional-core or old-street stop.
 
@@ -47,6 +51,7 @@ For many first-time visitors, the better answer depends less on fame and more on
 Use this page if you are deciding:
 
 - should I go to Kuanzhai Alley or Jinli?
+- is `Jinli Ancient Street` actually a better choice than `Kuanzhai Alley`?
 - which one is better on a short Chengdu trip?
 - which one works better for food, walking, and atmosphere?
 - when should I skip both and use the time better elsewhere?

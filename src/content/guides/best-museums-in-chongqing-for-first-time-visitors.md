@@ -29,6 +29,8 @@ faq:
     answer: "For many first-time visitors, the China Three Gorges Museum is the best default choice because it is central, substantial, and closely tied to Chongqing's own history. Hongyan is better for readers who care specifically about wartime and revolutionary history, while the Natural History Museum is stronger for science interest or longer stays."
   - question: "Should first-time visitors go to more than one museum in Chongqing?"
     answer: "Usually not unless museums are a real priority. Many short Chongqing trips feel better with one serious museum block and more room for skyline evenings, food districts, and the city's terrain-led atmosphere."
+  - question: "Is Chongqing Natural History Museum worth it on a short first trip?"
+    answer: "Usually only if science interest is genuinely strong. For many 2- or 3-day first trips, the central China Three Gorges Museum is the easier default, while the Natural History Museum makes more sense on a longer stay or as a deliberate Beibei branch."
 ---
 
 Chongqing can support a very good museum day, but most first-time visitors do not need to turn the city into one.
@@ -162,6 +164,8 @@ Choose this museum if you want:
 - a longer-stay museum that feels different from the usual central-Chongqing heritage layer
 
 If that already sounds like your real question, the narrower page is [Is Chongqing Natural History Museum Worth It for First-Time Visitors?](/places/chongqing-natural-history-museum/).
+
+If you arrived here from a broader `things to do in Chongqing` or rainy-day search, this is usually the longer-stay science branch rather than the default museum answer for a short first trip.
 
 This museum is often strongest when:
 

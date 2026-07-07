@@ -2,7 +2,7 @@
 title: "How Many Days in Chengdu for First-Time Visitors"
 description: "See whether Chengdu needs 2, 3, 4, or 5 days, what a short first visit can realistically cover, and when pandas, food, slower city time, or side trips start justifying extra days."
 publishDate: 2026-06-21
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "chengdu"
 guideStage: "plan-stay"
 tripLength: "2 to 5 days"
@@ -110,6 +110,8 @@ And you are usually cutting:
 
 Two days can still give you a good Chengdu first visit. It just works best when you accept that it is a sharper version, not the full one.
 
+That is also why `Kuanzhai Alley` and `Jinli` should not both be treated like mandatory adds on a `2-day` stay. If your short route still wants one old-street block, the cleaner question usually is whether you need the shorter central answer or the fuller Wuhou-side answer. [Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?](/guides/kuanzhai-alley-or-jinli-for-first-time-visitors/) is the better next page once that branch becomes real.
+
 ## Why 3 days is often the sweet spot
 
 For many first-time visitors, 3 days is the best Chengdu answer.
@@ -145,6 +147,8 @@ Three days is weaker if:
 
 In those cases, `2 days` may be the cleaner answer. If the third day already feels too small and the route wants greener air, archaeology, or one heritage excursion, then the stay often wants `4 days` instead.
 
+`3 days` is also where the `Kuanzhai Alley vs Jinli` question becomes much more useful instead of feeling forced. On this longer but still edited version of Chengdu, you often finally have room for one controlled old-street or traditional-core branch without crowding out pandas, tea, and dinner.
+
 ## When 4 days becomes worth it
 
 Four days is usually not about collecting more random Chengdu names.
@@ -170,6 +174,7 @@ This is the point where the cluster starts fitting together most naturally:
 - [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) for the shortlist logic
 - [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) and [Where to Eat in Chengdu for First-Time Visitors](/guides/where-to-eat-in-chengdu-for-first-time-visitors/) for the food layer
 - [What to Do in Chengdu at Night for First-Time Visitors](/guides/what-to-do-in-chengdu-at-night-for-first-time-visitors/) for the evening layer
+- [Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?](/guides/kuanzhai-alley-or-jinli-for-first-time-visitors/) if the extra breathing room now makes one traditional-looking Chengdu block feel realistic
 - [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the city itself already feels secure enough to spend one full day outside it
 
 If that extra day already clearly is leaning toward ancient Shu archaeology rather than scenery or a giant monument, the more focused next page is [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/).

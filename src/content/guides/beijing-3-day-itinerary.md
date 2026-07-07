@@ -100,6 +100,8 @@ The rhythm should be:
 - midday and afternoon for the Palace Museum block
 - evening for one simple continuation such as **Qianmen** or **Wangfujing**
 
+If your live search at this point already sounds more like `where to eat in Wangfujing` than `how should Day 1 work`, that usually means the central-core version is already the right fit and [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) is the cleaner child page.
+
 This is the day that most deserves protection, because if it becomes messy the whole short Beijing trip starts feeling rushed and scattered.
 
 If the Palace Museum itself is still the main uncertainty, keep [Forbidden City for First-Time Visitors](/places/forbidden-city/) and [How to Book Forbidden City Tickets as a Foreigner](/topics/how-to-book-forbidden-city-tickets/) together before you lock the route.
@@ -198,6 +200,8 @@ If the missing decision is how to choose between Sanlitun, Qianmen, and Wangfuji
 If the final evening already clearly belongs to `Sanlitun` and the only remaining question is how to make one easy drinks night work, go straight to [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
 
 If Day 3 should carry a more specific meal decision, go narrower with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/), or [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) depending on whether the evening should feel historic, easy, or modern.
+
+If the live search already is narrower than that and has effectively become `best restaurants in Sanlitun Beijing`, then the modern-evening version of Day 3 is already chosen and [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) is the sharper landing page.
 
 If Day 3 clearly is becoming a Temple-of-Heaven food day, the narrower page is [Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitors](/guides/where-to-eat-near-temple-of-heaven-in-beijing/).
 

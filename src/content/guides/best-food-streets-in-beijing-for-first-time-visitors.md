@@ -41,6 +41,8 @@ This page was shaped against official Beijing materials checked on **June 20, 20
 
 If your broader food plan still is not settled, start with [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/). If the real question is only the duck dinner, use [Where to Eat Peking Duck in Beijing for First-Time Visitors](/guides/where-to-eat-peking-duck-in-beijing/).
 
+If your live search already is narrower than `best food streets in Beijing` and has basically become `where to eat in Wangfujing` or `best restaurants in Sanlitun Beijing`, go directly to [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) or [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/).
+
 ## Who this page is for
 
 Use this page if you are asking:

@@ -82,6 +82,8 @@ This is the best one-week branch for travelers who want:
 
 If that already sounds like your week, the sharper route page is [A 4- to 6-Day Shanghai + Hangzhou + Suzhou Route for a Softer East-China First Trip](/guides/a-4-to-6-day-shanghai-hangzhou-and-suzhou-route-for-a-softer-east-china-first-trip/).
 
+If the route already knows Hangzhou belongs and the broader remaining uncertainty is which Hangzhou layers deserve one of the week's limited day slots, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
+
 ## If you want the stronger finish
 
 Choose `Shanghai + Hangzhou + Nanjing` when the week should feel:
@@ -97,6 +99,8 @@ This is usually the better one-week branch for travelers who want:
 - a second or third city that feels weightier than Suzhou
 
 If that already sounds right, the sharper route page is [A 5- to 7-Day Shanghai + Hangzhou + Nanjing Route With a Better Finish](/guides/a-5-to-7-day-shanghai-hangzhou-and-nanjing-route-with-a-better-finish/).
+
+That same Hangzhou branch usually becomes much easier to use once you narrow it through [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) before you start spending extra week-long route space on Lingyin, Longjing, or a fuller lake day.
 
 ## If you want refinement plus depth
 

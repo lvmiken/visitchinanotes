@@ -22,6 +22,14 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 
 ## Recent maintenance
 
+- 2026-07-07: Started a fresh narrow Search Console query-capture pass for broad `things to do in Nanjing` demand after new impressions appeared, and tightened how Nanjing's `first-time`, `how many days`, `where to stay`, `2-day`, `rainy day`, and `night` parents hand off to the already-live `Best Things to Do in Nanjing for First-Time Visitors` shortlist instead of leaving that intent buried behind route-shape or monument-specific pages.
+- 2026-07-07: Continued the same Guangzhou parent-layer tightening for the already-live `Canton Tower` intent by clarifying its fit inside `how many days` and `where to stay`, so the site now reads more clearly on when the tower is a real protected skyline evening versus when it should stay subordinate to Guangzhou's stronger food-and-neighborhood structure.
+- 2026-07-07: Finished the current Chongqing `Natural History Museum` query-capture pass by tightening the museum's positioning inside broader `best things` and `first-time guide` parents, so the site now more clearly treats it as a longer-stay or family-and-science branch versus the easier central `China Three Gorges Museum` default rather than as a generic short-trip museum recommendation.
+- 2026-07-07: Continued the Search Console query-capture round into Chengdu's parent layer by tightening how `how many days`, `where to stay`, and `rainy day` pages hand off to the existing `Kuanzhai Alley or Jinli` comparison. The goal was to make the already-live old-street query read more like an explicit route decision instead of staying half-buried inside broader Chengdu pacing and hotel logic.
+- 2026-07-06: Extended the same Search Console query-capture pass into Beijing's `3-day`, `4-day`, `what to eat`, and `what to do at night` parents, so `where to eat in Wangfujing` and `best restaurants in Sanlitun Beijing` now read more like explicit child-intent handoffs instead of staying implied inside broader Beijing itinerary and evening pages.
+- 2026-07-06: Continued the same Search Console query-capture round by making the Hangzhou parent layer read more naturally for broad `things to do in Hangzhou` demand, especially across the `first-time`, `how many days`, `1-day`, and `2-day` parents, while also placing the `Chongqing Natural History Museum` more explicitly inside the city's `2 vs 3 vs 4 day` decision logic so that the query is treated as a longer-stay science branch rather than an automatic short-trip museum default.
+- 2026-07-06: Strengthened the new Search Console query-capture round by weaving more exact-intent internal links from higher-level parent pages into `Where to Eat in Sanlitun`, `Where to Eat in Wangfujing`, `Best Things to Do in Hangzhou`, and the `Chongqing Natural History Museum` decision pair. The practical goal was to make those already-surfacing queries land not only from their own pages, but from `where to stay`, `first-time`, `3-day itinerary`, and `day trip or overnight` parents that Google is also likely to crawl and rank for adjacent intent.
+- 2026-07-06: Reviewed fresh Google Search Console signals from the last 7 to 28 days and converted them into a narrower `query-capture` batch instead of opening a broad new city. The clearest takeaway is that execution pages, A-vs-B decision pages, weather pivots, and neighborhood food pages are already surfacing. `breakfast in Chongqing`, `9th Street Chongqing`, `Kuanzhai Alley vs Jinli`, `where to eat Wangfujing`, `things to do in Hangzhou`, `Canton Tower`, and `Chongqing Natural History Museum` should now be treated as live demand signals, with the next step focused on strengthening exact-intent internal links and only creating new pages where the query still lacks a clean landing page.
 - 2026-07-05: Added a dedicated Hong Kong base-comparison page for `Central vs Tsim Sha Tsui`, then linked it back into the city's first-time, stay, 3-day, night, both district-parent place pages, and hub layers so `Central or Tsim Sha Tsui / stay in Central or Tsim Sha Tsui / Hong Kong Island or Kowloon first time / best Hong Kong base for first-time visitors` searches now land on a direct two-way answer instead of bouncing between the broader stay guide and separate district parents.
 - 2026-07-05: Added a dedicated Shenzhen base-comparison page for `Futian vs Luohu`, then linked it back into the city's first-time, stay, trip-length, Hong Kong-crossing, both district-parent place pages, and hub layers so `Futian or Luohu / stay in Futian or Luohu / Lo Wu vs Futian / safer Shenzhen base after Hong Kong` searches now land on a direct two-way answer instead of bouncing between broader hotel guidance and separate district parents.
 - 2026-07-05: Added a dedicated Shenzhen west-side evening comparison page for `Houhai vs Sea World`, then linked it back into the city's first-time, shortlist, stay, trip-length, transport, itinerary, night, both west-side child-place pages, the Nanshan parent, and hub layers so `Houhai or Sea World / Shenzhen Bay or Sea World / best west-side night Shenzhen / polished skyline night vs calmer waterfront dinner` searches now land on a direct two-way answer instead of bouncing between separate place pages only.
@@ -145,6 +153,45 @@ Build `Visit China Notes` into an English practical China travel knowledge base 
 ## City Coverage Catch-Up Plan
 
 This plan comes from the current city inventory, not from generic expansion ideas. The goal is to keep the site's strongest cities deep, while making sure thinner cities have enough `first-time -> execution -> place` structure to convert search intent cleanly.
+
+### Batch S1: Search Console query-capture round
+
+Reason:
+
+- Fresh Search Console screenshots now show which pages and phrasing are already earning early impressions and clicks.
+- Several queries already have matching pages, so the best next step is not mass page creation but a more selective `exact-intent strengthening` pass.
+- This batch should stay small and practical: reinforce winners, tighten handoffs, and only open new pages where the landing page is still too broad.
+
+Priority signals seen:
+
+1. `breakfast in chongqing`
+2. `9th street chongqing`
+3. `best restaurants in sanlitun beijing`
+4. `kuanzhai alley vs jinli ancient street`
+5. `where to eat wangfujing`
+6. `things to do in hangzhou`
+7. `canton tower`
+8. `chongqing natural history museum`
+
+Current status:
+
+- `done`: `Where to Eat Breakfast in Chongqing for First-Time Visitors`
+- `done`: `9th Street in Chongqing: Is It Worth It for First-Time Visitors?`
+- `done`: `9th Street in Chongqing After Dark: When the Nightlife Detour Actually Pays Off`
+- `done`: `Where to Eat in Sanlitun for First-Time Visitors`
+- `done`: `Where to Eat in Wangfujing for First-Time Visitors`
+- `done`: `Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?`
+- `done`: `Best Things to Do in Hangzhou for First-Time Visitors`
+- `done`: `Canton Tower in Guangzhou: Is It Worth It for First-Time Visitors?`
+- `done`: `Is Chongqing Natural History Museum Worth It for First-Time Visitors?`
+- `done`: `Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?`
+
+Next-step actions:
+
+1. Strengthen internal links into the already-winning `Chongqing breakfast`, `9th Street`, `Kuanzhai vs Jinli`, `Wangfujing food`, and `Hangzhou best things` pages from city hubs, broader food guides, itinerary pages, and relevant neighborhood or museum parents.
+2. Run a narrower Beijing food pass to decide whether `Where to Eat in Sanlitun for First-Time Visitors` is strong enough as the main landing page for `best restaurants in Sanlitun` or whether it needs title / framing refinement without creating a cannibalizing duplicate.
+3. Run a narrower Chongqing museum pass so the `Natural History Museum` page is linked more directly from broader `best things`, `rainy day`, `museum`, `kids`, and `longer-stay` decision layers before opening any new museum pages.
+4. Keep watching whether `things to do in Hangzhou` becomes a true breakout broad term; if it does, the next layer should be more reverse links into the Hangzhou shortlist from Shanghai-route, Hangzhou stay, and day-trip/overnight pages rather than a duplicate broad article.
 
 ### Batch C1: Wuhan execution and place catch-up
 

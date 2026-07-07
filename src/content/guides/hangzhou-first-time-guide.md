@@ -29,9 +29,13 @@ author: "Editorial Team"
 faq:
   - question: "Is Hangzhou worth visiting for first-time travelers to China?"
     answer: "Yes, especially for travelers who want a softer scenic break from larger cities and are willing to slow the trip down a little."
+  - question: "What are the best things to do in Hangzhou for first-time visitors?"
+    answer: "For many first-time visitors, the best things to do in Hangzhou are one real West Lake block first, then one selective second layer such as Lingyin Temple or Longjing Village, and only then a lighter supporting stop such as Hefang Street, Leifeng Pagoda, Broken Bridge, or Xixi Wetland depending on trip length."
 ---
 
 Hangzhou is the kind of stop that changes the mood of a China trip more than the checklist length.
+
+If your live search now is really the broader `things to do in Hangzhou` question rather than whether the city belongs in the route, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too. This page is the city-choice layer; that page is the sharper shortlist once Hangzhou itself is already confirmed.
 
 If the city already is confirmed and the live question now is where to base yourself, start with [Best Area to Stay in Hangzhou for First-Time Visitors](/guides/hangzhou-where-to-stay/).
 

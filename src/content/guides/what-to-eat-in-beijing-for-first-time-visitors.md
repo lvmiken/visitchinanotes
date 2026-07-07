@@ -198,6 +198,8 @@ That is not a substitute for visiting those regions. It is simply one of the adv
 
 If the district itself is the real choice, especially between Qianmen, Niujie, Huguosi, Wangfujing, and Sanlitun, use [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) next.
 
+If that district choice already is much narrower and the live search is really `where to eat in Wangfujing` or `best restaurants in Sanlitun Beijing`, skip the broader comparison and go directly to [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) or [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/).
+
 If the district is already obvious and the real question is how to use it well, go narrower with [Where to Eat in Qianmen for First-Time Visitors](/guides/where-to-eat-in-qianmen-for-first-time-visitors/), [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/), or [Huguosi Snack Guide for First-Time Visitors](/guides/huguosi-snack-guide-for-first-time-visitors/) if the trip needs a lighter snack-layer page.
 
 ## Match food to the real trip days

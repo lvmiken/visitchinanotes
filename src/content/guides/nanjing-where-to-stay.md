@@ -25,6 +25,8 @@ faq:
 
 Nanjing usually feels best when the hotel helps both the day and the evening.
 
+If the hotel question is only one part of a bigger priority problem and you still need the broad shortlist of what to do in Nanjing before choosing the base, keep [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) open too.
+
 If the hotel choice still depends on how painful a `Lukou Airport` arrival will feel on night one, keep [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) open too.
 
 If the hotel choice is set but you still are not sure which trains, museum stops, or bigger historical anchors deserve early commitment, keep [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) open too.
@@ -61,6 +63,7 @@ For many first-time visitors, this version is operationally easy but emotionally
 
 ## Which page to read next
 
+- read [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) if the hotel choice depends on which landmarks, museum blocks, and evening layers the trip is actually trying to support
 - read [Xinjiekou or Confucius Temple: Where to Stay in Nanjing for First-Time Visitors](/guides/xinjiekou-or-confucius-temple-where-to-stay-in-nanjing-for-first-time-visitors/) if the hotel choice already has narrowed to the two strongest first-time answers
 - read [Nanjing Lukou Airport to City Center for First-Time Visitors: Metro S1, Taxi, or Airport Bus?](/guides/nanjing-lukou-airport-to-city-center/) if the base still depends on how easy the first-night transfer should be
 - read [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) if the base is mostly solved and the next question is what else genuinely deserves early commitment

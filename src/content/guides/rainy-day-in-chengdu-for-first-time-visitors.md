@@ -2,7 +2,7 @@
 title: "Rainy Day in Chengdu for First-Time Visitors: Panda Base, Museums, or Food?"
 description: "Plan a rainy day in Chengdu with practical advice on whether to keep a panda booking, when Chengdu Museum is the best indoor backup, and how to save the day with easier food and evening plans."
 publishDate: 2026-06-21
-updatedDate: 2026-06-25
+updatedDate: 2026-07-07
 city: "chengdu"
 guideStage: "solve-logistics"
 tripLength: "same day decision"
@@ -226,6 +226,8 @@ These are often the first things to cut or shrink:
 That does not mean those ideas are bad.
 
 It means they usually are not the strongest wet-weather version of Chengdu.
+
+If the weather has turned your old-street branch into the real problem, keep the logic simple: `Kuanzhai Alley` is usually easier to shrink because it works as a shorter central atmosphere stop, while `Jinli` usually stays stronger only when it is already paired with `Wuhou Shrine` as one fuller traditional-core block. If that exact choice still matters, the cleaner comparison page is [Kuanzhai Alley or Jinli: Which Chengdu Old-Street Area Is Better for First-Time Visitors?](/guides/kuanzhai-alley-or-jinli-for-first-time-visitors/).
 
 ## How to move around on a rainy Chengdu day
 

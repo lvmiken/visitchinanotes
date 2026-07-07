@@ -46,6 +46,8 @@ This guide was checked against official Beijing sources on **June 20, 2026**, in
 
 If the bigger question is still the overall food structure, start with [What to Eat in Beijing for First-Time Visitors](/guides/what-to-eat-in-beijing-for-first-time-visitors/). If the main question is still district choice, use [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/).
 
+If the restaurant search already is narrower than Beijing as a whole and has basically become `best restaurants in Sanlitun Beijing` or `where to eat in Wangfujing`, go directly to [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) or [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/).
+
 If the live question is specifically breakfast rather than lunch or dinner, go narrower with [Where to Eat Breakfast in Beijing for First-Time Visitors](/guides/beijing-breakfast-and-snacks/) or [Best Halal Breakfast in Beijing for First-Time Visitors](/guides/best-halal-breakfast-in-beijing-for-first-time-visitors/) before treating this page like an all-day food answer.
 
 ## Who this page is for

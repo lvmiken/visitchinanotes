@@ -55,6 +55,8 @@ If the bigger route question still is whether Hangzhou should stay a day trip or
 
 If the broader shortlist still is not settled, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
 
+If you arrived here from the broader `things to do in Hangzhou` search, this page is the two-day answer once you already know the city deserves an overnight stop. The broader shortlist page above is still the better parent if you have not yet decided whether your second branch should be Lingyin, Longjing, Xixi, or simply more lake time with a softer finish.
+
 ## Before you use this plan
 
 This itinerary works best if:

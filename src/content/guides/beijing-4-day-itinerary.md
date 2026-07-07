@@ -100,6 +100,8 @@ If the central day is mainly being shaped around the Palace Museum, use [Forbidd
 
 If the question is what kind of evening belongs after the Palace Museum, compare [Qianmen](/places/qianmen/) with [Wangfujing](/places/wangfujing/) before you decide whether you want old-core atmosphere or a simpler commercial finish.
 
+If the live search already sounds more like `where to eat in Wangfujing` or `where should I eat after the Forbidden City`, that usually means the Day 1 structure is already right and [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) is the cleaner next page.
+
 If the bigger missing piece is how Beijing evenings should work across the whole trip, [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/) is the more complete follow-up.
 
 If food is supposed to be one of the real memories of the trip, this is also the strongest place to attach [a real Beijing food evening](/guides/what-to-eat-in-beijing-for-first-time-visitors/). For many readers, that becomes [one proper Peking duck dinner](/guides/where-to-eat-peking-duck-in-beijing/), but it does not have to stop there.
@@ -208,6 +210,8 @@ If you want a more modern counterweight after two history-heavy days, this is al
 That choice is usually much easier once you compare all three evening patterns together in [What to Do in Beijing at Night for First-Time Visitors](/guides/what-to-do-in-beijing-at-night/).
 
 If `Sanlitun` already is clearly the answer and the live problem is just how to make one drinks-led night feel easy, the sharper execution page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
+
+If the live search already has narrowed further into `best restaurants in Sanlitun Beijing`, the day shape no longer is the main blocker and [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/) is the sharper next page.
 
 For many readers, this becomes the better night for a more polished Beijing meal too, because the day has more flexibility than the central imperial day and less fatigue than the Wall return. It is often the best slot for the broader "Beijing as a food city" layer, not only the old-core classics. It can also be the cleanest day for a deliberate [Niujie Food Guide for First-Time Visitors](/guides/niujie-food-guide-for-first-time-visitors/) detour if you want the trip to go beyond duck and central-core restaurants. If the smarter Day 3 meal is one practical local lunch instead of another heavy dinner, [Where to Eat Beijing Fried Sauce Noodles (Zhajiangmian) for First-Time Visitors](/guides/where-to-eat-beijing-fried-sauce-noodles/) is often the better fit.
 

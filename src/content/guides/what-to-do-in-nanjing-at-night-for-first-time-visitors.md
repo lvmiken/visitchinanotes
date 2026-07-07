@@ -25,6 +25,8 @@ faq:
 
 Nanjing at night often is what saves the city from feeling like only a daytime history lesson.
 
+If the real question is still broader than the night layer and you first need the main shortlist of what to do in Nanjing, keep [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) open too.
+
 ## Best overall: [Confucius Temple and the Qinhuai River](/places/confucius-temple-and-qinhuai-river/)
 
 Choose this if you want:
@@ -59,6 +61,7 @@ If the live problem now is not which district exists but how to keep the old-cit
 
 ## Which page to read next
 
+- read [Best Things to Do in Nanjing for First-Time Visitors](/guides/best-things-to-do-in-nanjing-for-first-time-visitors/) if the evening is only one part of a wider Nanjing priority decision
 - read [Confucius Temple and the Qinhuai River in Nanjing: Is It Worth Your Best Evening?](/places/confucius-temple-and-qinhuai-river/) if the core night question still needs a yes-or-no
 - read [Laomendong in Nanjing: Is It Worth Visiting on a First Trip?](/places/laomendong/) if the softer old-city block is the live choice
 - read [One Good Nanjing Night: Qinhuai, Laomendong, and When Not to Overbuild It](/guides/one-good-nanjing-night-qinhuai-laomendong-and-when-not-to-overbuild-it/) if the real night question is how to keep the evening from splitting into too many old-city jobs

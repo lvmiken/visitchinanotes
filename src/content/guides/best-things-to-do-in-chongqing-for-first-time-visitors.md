@@ -2,7 +2,7 @@
 title: "Best Things to Do in Chongqing for First-Time Visitors"
 description: "Find out which things to do in Chongqing are actually worth your limited time, how to choose between Hongyadong, Jiefangbei, Ciqikou, skyline nights, and food districts, and how to build a fuller first trip without wasting energy on too many hills and river crossings."
 publishDate: 2026-06-22
-updatedDate: 2026-07-05
+updatedDate: 2026-07-07
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "2 to 4 days"
@@ -279,13 +279,20 @@ For many first-time visitors, the most useful supporting cultural choices are no
 
 - `Huguang Guild Hall` if you want architecture, immigrant history, and one bounded old-city heritage block
 - `China Three Gorges Museum` if you want the bigger indoor history answer
+- `Chongqing Natural History Museum` if science, dinosaurs, or a longer family-friendly museum branch is a real priority rather than just a rainy-day panic pivot
 - `Ciqikou` if you want a more open old-street and snack layer instead of a more formal cultural stop
+
+For most short first trips, that museum choice should stay honest: `China Three Gorges Museum` is usually the central default, while `Chongqing Natural History Museum` is the farther `Beibei` branch that only starts paying off once your skyline, food, and route shape already feel secure.
 
 If the live question now is whether one serious indoor cultural layer actually improves your version of Chongqing or only makes it heavier, the narrower page is [China Three Gorges Museum in Chongqing: Is It Worth It for First-Time Visitors?](/places/china-three-gorges-museum/).
 
 If the live question now is whether one more architectural and immigrant-history stop improves the route more than another food or skyline block, the narrower page is [Huguang Guild Hall in Chongqing: Is It Worth It for First-Time Visitors?](/places/huguang-guild-hall/).
 
 If the live decision already has narrowed to those two culture branches, use [China Three Gorges Museum or Huguang Guild Hall for First-Time Visitors?](/guides/china-three-gorges-museum-or-huguang-guild-hall-for-first-time-visitors/).
+
+If the live question already sounds more like `Chongqing Natural History Museum` than a generic museum search, the narrower page is [Is Chongqing Natural History Museum Worth It for First-Time Visitors?](/places/chongqing-natural-history-museum/).
+
+If the real decision is whether the farther science branch beats the easier central default, the sharper comparison page is [Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?](/guides/chongqing-natural-history-museum-or-china-three-gorges-museum-for-first-time-visitors/).
 
 If the live question now is whether a more scenic river-facing historical layer fits better than a larger old-street detour, the narrower page is [Longmenhao Old Street in Chongqing: Is It Worth It for First-Time Visitors?](/places/longmenhao-old-street/).
 

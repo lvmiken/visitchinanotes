@@ -51,6 +51,8 @@ Use this page if you are asking:
 
 If your broader Beijing structure is still unsettled, start with [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/). If the real question is mainly about meals, keep [Where to Eat in Beijing for First-Time Visitors](/guides/where-to-eat-in-beijing/) open too. If the real comparison is between evening food districts, [Best Food Streets in Beijing for First-Time Visitors](/guides/best-food-streets-in-beijing-for-first-time-visitors/) is also useful. If the night should center on a livelier dinner street, keep [Guijie (Ghost Street) Food Guide for First-Time Visitors](/guides/guijie-food-guide-for-first-time-visitors/) open too.
 
+If the live search already is narrower than `Beijing at night` and has effectively become `where to eat in Wangfujing` after a central day or `best restaurants in Sanlitun Beijing` before a more modern night, the sharper child pages are [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/) and [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/).
+
 If the real question is no longer the broader evening shape, but whether one polished riverfront night should be a walk, a cruise, or simply a drinks-led scenic finish, the narrower next page is [Liangma River at Night: Walk, Cruise, or Just Drinks?](/guides/liangma-river-at-night-walk-cruise-or-just-drinks/).
 
 ## The short answer
@@ -123,6 +125,8 @@ Wangfujing is usually not the most atmospheric answer, but it is often one of th
 
 If the real question is what kind of meal Wangfujing should carry before the walk, use [Where to Eat in Wangfujing for First-Time Visitors](/guides/where-to-eat-in-wangfujing-for-first-time-visitors/).
 
+This is also the most natural branch when readers really mean `where should I eat after the Forbidden City?` but keep searching with `Wangfujing` because they want the easiest central continuation instead of a broader old-core dinner mission.
+
 ## 3. Modern night out: choose Sanlitun
 
 [Sanlitun](/places/sanlitun/) is usually best when you want:
@@ -148,6 +152,8 @@ It is also often the cleanest Beijing answer if the night should center on:
 - a mixed-group evening where not everyone wants another traditional Beijing meal
 
 If that modern-night decision is already the real question, use [Best Bars and Modern Nightlife in Beijing for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-beijing-for-first-time-visitors/) next.
+
+If the district already is fixed and the live question is food-first rather than drinks-first, especially `best restaurants in Sanlitun Beijing`, the sharper child page is [Where to Eat in Sanlitun for First-Time Visitors](/guides/where-to-eat-in-sanlitun-for-first-time-visitors/).
 
 If the district already is clearly `Sanlitun` and the live problem is how to make one easy drinks night work without overbuilding it, the sharper child page is [A First Sanlitun Drinks Night: Where to Go Without Overthinking Beijing Bars](/guides/a-first-sanlitun-drinks-night-where-to-go-without-overthinking-beijing-bars/).
 
