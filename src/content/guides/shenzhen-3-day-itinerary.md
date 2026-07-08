@@ -81,6 +81,8 @@ If the route shape mostly works but the live question becomes which pieces shoul
 
 If the route still depends on whether Day 1 can carry a real city block after landing or should stay lighter, keep [Shenzhen Airport to City Center for First-Time Visitors: Metro Line 11, Taxi, or Airport Express Bus?](/guides/shenzhen-airport-to-city-center/) open too.
 
+If the city already is growing beyond a compact 3-day stop and the live question is how a longer Shenzhen version should work without becoming a transfer marathon, keep [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/) open too.
+
 If the route shape still feels too broad because the city shortlist itself is not tight enough yet, keep [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/) open too.
 
 If the day order mostly works but the meal layer still feels too generic, keep [What to Eat in Shenzhen for First-Time Visitors](/guides/what-to-eat-in-shenzhen-for-first-time-visitors/) open too.
@@ -314,6 +316,8 @@ This version is usually better than trying to cram in:
 - and a rushed coast detour
 
 all in the same short stay.
+
+If the route already clearly wants more than three days and the live question is how to spend those extra days well instead of just adding more central districts, the better next page is [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/).
 
 ## What to watch out for
 

@@ -58,6 +58,8 @@ An overnight stay usually wins if:
 - you care about evening atmosphere
 - you want room for [Tiger Hill](/places/tiger-hill/) or a second softer layer
 
+If the overnight version already is winning so clearly that the live question now is how to stretch Suzhou into a fuller city-only 5- to 7-day stay rather than just one night after Shanghai, the next page is [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/).
+
 This is often the version that lets Suzhou stop feeling like a rail excursion and start feeling like a city.
 
 ## The hidden trap
@@ -77,4 +79,5 @@ If the whole point of adding Suzhou is atmosphere, that shortcut often cancels t
 - read [How Many Days in Suzhou for First-Time Visitors](/guides/how-many-days-in-suzhou-for-first-time-visitors/) if the length still feels unclear
 - read [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/) if the comparison is settled and the next question is how to make the rail day work cleanly
 - read [A Practical 1-Day Suzhou Itinerary for First-Time Visitors](/guides/suzhou-1-day-itinerary-for-first-time-visitors/) if the day-trip version already is winning
+- read [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/) if the trip already is outgrowing the overnight version and the real question is how to make Suzhou itself carry a longer stay
 - read [Best Area to Stay in Suzhou for First-Time Visitors](/guides/suzhou-where-to-stay/) if the overnight version is chosen

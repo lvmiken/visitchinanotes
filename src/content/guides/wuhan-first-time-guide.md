@@ -71,6 +71,8 @@ If the question already has narrowed to what actually deserves advance booking o
 
 If the question already has narrowed to how the city should actually be used over two days, the next page is [A Practical 2-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-2-day-itinerary-for-first-time-visitors/).
 
+If the question already has narrowed to how to turn Wuhan into a fuller 5- to 7-day stay without padding it with random cross-river errands, the next page is [A Classic 5- to 7-Day Wuhan Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-wuhan-itinerary-for-first-time-visitors/).
+
 If the question already has narrowed to whether one evening should become a river event, the sharper page is [Wuhan Yangtze River Night Cruise: Is It Worth It for First-Time Visitors?](/places/wuhan-yangtze-river-night-cruise/).
 
 ## The short answer
@@ -162,6 +164,8 @@ For many first-time visitors:
 Wuhan usually gets worse when people give it too little structure, not when they give it too little sightseeing.
 
 If trip length is now the main live decision, the narrower page is [How Many Days in Wuhan for First-Time Visitors](/guides/how-many-days-in-wuhan-for-first-time-visitors/).
+
+If Wuhan already is winning enough time that the real question is no longer `1, 2, or 3 days?` but how to make a longer city-only version feel coherent, the cleaner execution page is [A Classic 5- to 7-Day Wuhan Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-wuhan-itinerary-for-first-time-visitors/).
 
 ## Who usually likes Wuhan most
 

@@ -51,6 +51,8 @@ If the major choices already are mostly settled and the live question now is how
 
 If the route already clearly deserves a fuller mountain version rather than a shorter sample, use [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).
 
+If the route already clearly is becoming a real longer mountain stop and the live question is how to use `5 to 7 days` without turning the destination into a bloated checklist, use [A Classic 5- to 7-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-zhangjiajie-itinerary-for-first-time-visitors/).
+
 If the route shape already is mostly right but the live question is which season gives the trip the best chance of views, lighter walking, and calmer pacing, use [Best Time to Visit Zhangjiajie for First-Time Visitors](/guides/best-time-to-visit-zhangjiajie-for-first-time-visitors/).
 
 If the route shape mostly works for adults but the live question is how much more aggressively it should be simplified for older travelers, use [Zhangjiajie for Elderly Parents: What to Keep, Cut, and Simplify](/guides/zhangjiajie-for-elderly-parents-what-to-keep-cut-and-simplify/).

@@ -224,6 +224,8 @@ If you are unsure:
 
 That rule is simple because it works.
 
+If the base question is nearly settled and the real problem is now how to turn that choice into a fuller island stay, the sharper next page is [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/).
+
 ## Pair this with the right airport
 
 The base and the arrival airport should support each other.
@@ -242,6 +244,7 @@ Those two decisions should almost never be made separately.
 ## Which page to read next
 
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if the bigger route question is still whether Hainan belongs at all
+- read [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/) if the base is nearly chosen and the next task is assigning 5 to 7 island days cleanly
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if the base is almost chosen and now the airport choice needs to support it
 - read [After a Hainan Visa-Free Entry, Can You Continue to Mainland China?](/topics/can-you-travel-to-mainland-china-from-hainan-on-a-hainan-visa-free-entry/) if entry logic could still change whether Hainan stays standalone or connects to a larger route
 - read [Haikou's Qilou Old Street: A Real Stop or Just Arrival Filler?](/topics/qilou-old-street-in-haikou-real-stop-or-just-arrival-filler/) if you are trying to decide whether Haikou's old-city layer really earns time

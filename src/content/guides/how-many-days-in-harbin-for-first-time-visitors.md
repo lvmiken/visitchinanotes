@@ -165,6 +165,8 @@ If the extra branch you mean is a much heavier outside-the-city winter detour ra
 
 Three days is strongest when the route deliberately wants winter atmosphere, not only one famous photo set.
 
+If that slower version is already sounding right and the live question becomes how to stretch Harbin toward `5 days` or even a softer `week` without repeating the same cold-weather logic, the stronger next page is [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/).
+
 It is weaker when the extra day exists only because the transport schedule is awkward.
 
 ## Which length fits which traveler best
@@ -203,6 +205,7 @@ It is weaker when the extra day exists only because the transport schedule is aw
 - read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if arrival-day friction still is shaping how much Harbin time feels realistic
 - read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the day count is mostly clear but the central-versus-Songbei movement still feels harder than it should
 - read [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) if `2 days` now looks right and the next question is how to use them well
+- read [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/) if the stop clearly is growing beyond the usual short winter version and you need the extra days to do different jobs
 - read [Zhaolin Park Ice Lantern Fair in Harbin: A Real Winter Night or Too Small Next to Ice and Snow World?](/places/zhaolin-park/) if the day count still depends on whether Harbin should keep the flagship night or step down to a smaller central winter stop
 - read [What to Do in Harbin at Night for First-Time Visitors](/guides/what-to-do-in-harbin-at-night-for-first-time-visitors/) if the real next question is how one or two Harbin evenings should actually work
 - read [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/) if the length is mostly decided and the next question is how to keep meals useful in the cold

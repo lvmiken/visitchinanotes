@@ -49,6 +49,8 @@ If you still are deciding whether Qingdao belongs in the route at all, start wit
 
 If the live question is whether this `2-day` version is enough or whether Qingdao should really be `3 days`, keep [How Many Days in Qingdao for First-Time Visitors](/guides/how-many-days-in-qingdao-for-first-time-visitors/) open too.
 
+If the city already is growing beyond a compact short stay and the live question is how a longer Qingdao version should work without becoming repetitive seafront filler, keep [A Classic 5- to 7-Day Qingdao Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-qingdao-itinerary-for-first-time-visitors/) open too.
+
 If the live question is not only what to do by day but which evening should carry the stop, keep [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/) open too.
 
 If the real blocker is not what belongs in the two days but how to keep the old core, the scenic side, and the hotel return from turning into transport friction, keep [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/) open too.
@@ -123,3 +125,4 @@ If the route already has big museum days, long queues, or capital-city geography
 - read [Yunxiao Road or Minjiang Road for a First Seafood Dinner in Qingdao?](/guides/yunxiao-road-or-minjiang-road-for-a-first-seafood-dinner-in-qingdao/) if the itinerary mostly works and the live question is which seafood-dinner area should carry the main meal
 - read [How Qingdao Seafood Market Processing Actually Works for First-Time Visitors](/guides/how-qingdao-seafood-market-processing-actually-works-for-first-time-visitors/) if the itinerary mostly works and the live question is whether one dinner should become a market-led seafood experience instead of a simpler street choice
 - read [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/) if you still are deciding how the city fits the wider route
+- read [A Classic 5- to 7-Day Qingdao Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-qingdao-itinerary-for-first-time-visitors/) if the route already clearly wants more than two days and the live question is how to spend those extra days without just repeating the coast

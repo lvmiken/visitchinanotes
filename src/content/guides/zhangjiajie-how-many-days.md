@@ -58,4 +58,6 @@ If `2 days` is the version that already looks most realistic and the next questi
 
 If `3 days` is the version that now looks most realistic and the next question is how to use that fuller stay without wasting the extra day, the practical next page is [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).
 
+If the stay clearly is growing beyond a normal short mountain stop and the live question becomes how to shape `5 to 7 days` so weather and walking still have room, the practical next page is [A Classic 5- to 7-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-zhangjiajie-itinerary-for-first-time-visitors/).
+
 If the day count now looks plausible for adults but the real question is how much of that version still works with older travelers, the practical next page is [Zhangjiajie for Elderly Parents: What to Keep, Cut, and Simplify](/guides/zhangjiajie-for-elderly-parents-what-to-keep-cut-and-simplify/).

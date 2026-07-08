@@ -57,6 +57,7 @@ Start with the one question that is actually blocking the trip:
 - if the city already is chosen and the next real decision is hotel base, read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/)
 - if you already know Xi'an will be the tighter short version, read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/)
 - if you already know Xi'an should feel fuller than a quick history stop, read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/)
+- if you already know Xi'an deserves a slower, fuller stay, read [A Classic 5- to 7-Day Xi'an Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-xian-itinerary-for-first-time-visitors/)
 - if the whole city still is being judged mainly through its top excursion, read [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/)
 
 If you already know the exact planning question, go narrower:
@@ -194,6 +195,8 @@ If the route already feels historically complete but still a little too formal, 
 
 If the route already is clearly leaning toward the fuller Xi'an version, [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) is now the cleanest execution page because it turns the Terracotta Army, old city, food, and pagoda-side or museum layer into one coherent route instead of leaving the third day vague.
 
+If the route already is clearly leaning beyond the normal short stay and the live question is how to use a fuller Xi'an version without padding it with duplicate history blocks, the cleaner execution page is [A Classic 5- to 7-Day Xi'an Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-xian-itinerary-for-first-time-visitors/).
+
 If the fuller version already is happening and the only weak point left is what the third day should actually become, the more editorial bridge page is [A Smarter Third Day in Xi'an: What to Do After the Terracotta Army and Old City](/guides/a-smarter-third-day-in-xian-beyond-the-usual-checklist/).
 
 If the route instead is clearly staying disciplined and short, [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) is the cleaner execution page because it protects the Terracotta Army, the old city, and one realistic evening without asking a short stop to carry every secondary Xi'an name too.
@@ -255,4 +258,5 @@ If the family shortlist already is mostly clear and the live question has become
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if the base still is not settled
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are ready to place the stop inside a short route
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the stop now looks fuller and you want the day order to feel intentional
+- read [A Classic 5- to 7-Day Xi'an Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-xian-itinerary-for-first-time-visitors/) if Xi'an already is chosen and the real question is how to build a longer history, food, museum, and pagoda-side stay without letting the city bloat
 

@@ -181,6 +181,8 @@ This is also where deeper food choices become easier to justify. A fifth day oft
 
 If your travel style likes breathing room, 5 days can be genuinely better than a compressed 4-day version.
 
+If you already know the Beijing stop should hold five days or more and the real next need is a day-by-day structure rather than a length debate, go straight to [A Classic 5- to 7-Day Beijing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-beijing-itinerary-for-first-time-visitors/).
+
 ## Which length fits which traveler best
 
 ## Choose 2 days if
@@ -239,6 +241,7 @@ If the answer already is clearly four days, the narrower execution page is [Beij
 - read [Beijing 3-Day Itinerary for First-Time Visitors](/guides/beijing-3-day-itinerary/) if you are leaning toward the shorter strong version
 - read [Beijing 3-Day Itinerary With Kids for First-Time Visitors](/guides/beijing-3-day-itinerary-with-kids/) if the shorter answer is already clear and you want the family execution version
 - read [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/) if you want the most balanced default version
+- read [A Classic 5- to 7-Day Beijing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-beijing-itinerary-for-first-time-visitors/) if the city already deserves a deeper longer-stay version
 - read [Best Things to Do in Beijing With Kids](/guides/best-things-to-do-in-beijing-with-kids/) if the family version of the stay is set and you want the right shortlist of activities
 - read [Beijing 4-Day Itinerary With Kids for First-Time Visitors](/guides/beijing-4-day-itinerary-with-kids/) if four days is already the answer and you want the family execution version
 - read [Best Time to Visit Beijing for First-Time Visitors](/guides/best-time-to-visit-beijing-for-first-time-visitors/) if dates are still flexible and season choice may change how many days feel worthwhile

@@ -164,6 +164,8 @@ This is the point where the cluster starts fitting together more naturally:
 - [Giant Wild Goose Pagoda](/places/giant-wild-goose-pagoda/) or [Shaanxi History Museum](/places/shaanxi-history-museum/) for the extra city depth
 - [Huaqing Palace](/places/huaqing-palace/) or [Tang Paradise](/places/tang-paradise/) if the extra day is supposed to make Xi'an feel broader rather than simply busier
 
+If the live question already has moved past `2 days or 3?` and into `what does a longer Xi'an actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Xi'an Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-xian-itinerary-for-first-time-visitors/).
+
 ### Who benefits most from 3 days
 
 - slower travelers
@@ -222,6 +224,7 @@ Xi'an is at its best when it simplifies the route, not when it quietly bloats it
 - read [Xi'an for First-Time Visitors: What to See, How Many Days, and Where to Stay](/guides/xian-first-time-guide/) if Xi'an still is being compared with other route options
 - read [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary/) if you are leaning toward the default sweet-spot version
 - read [Xi'an 3-Day Itinerary for First-Time Visitors](/guides/xian-3-day-itinerary/) if the route is already leaning toward the fuller, slower Xi'an version
+- read [A Classic 5- to 7-Day Xi'an Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-xian-itinerary-for-first-time-visitors/) if Xi'an already is winning enough time for a fuller old-city, museum, pagoda-side, and optional nearby-branch version
 - read [Huashan Plank Walk from Xi'an: How Extreme It Feels and Who Should Leave It Alone](/guides/huashan-plank-walk-from-xian-how-extreme-is-it-really/) if the real length question is whether Xi'an deserves room for a mountain day beyond the city itself
 - read [Where to Stay in Xi'an for a Short First Trip](/guides/xian-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [Best Time to Visit Xi'an for First-Time Visitors](/guides/best-time-to-visit-xian-for-first-time-visitors/) if dates are still flexible and season choice may change how much Xi'an you want to carry

@@ -167,6 +167,8 @@ If the trip already knows Shenzhen matters more than only a border crossing or r
 
 If the length decision already is made and the next live problem is how to organize those `3 days` into a real route, go next to [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/).
 
+If the live question already has moved past `1, 2, 3, or 4 days?` and into `what does that longer Shenzhen actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/).
+
 If the main reason you think Shenzhen may deserve that extra day is one famous specialty branch, keep [Is Guangming Roast Squab Worth a Detour for First-Time Visitors?](/guides/is-guangming-roast-squab-worth-a-detour-for-first-time-visitors/) open too.
 
 If the extra day may exist mainly to justify one seafood-specific Bao'an branch, keep [Are Shajing Oysters Worth a Detour for First-Time Visitors?](/guides/is-shajing-oysters-worth-a-detour-for-first-time-visitors/) open too.
@@ -242,6 +244,7 @@ In most first-time South China trips, that fourth day is often better spent on:
 - read [What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days](/guides/what-to-book-in-advance-for-shenzhen/) if the day count mostly is solved and the next live question is which parts of that plan actually deserve early booking
 - read [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/) if the trip length is nearly decided and the next live question is which Shenzhen blocks actually deserve those days
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if you already know the stay should be `3 days` and now need a district-based plan that does not waste time
+- read [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/) if Shenzhen already is winning enough time for a fuller Futian, west-side, coastal, and specialty-food version
 - read [Houhai or Sea World: Which Shenzhen West-Side Night Fits First-Time Visitors Better?](/guides/houhai-or-sea-world-which-shenzhen-west-side-night-fits-first-time-visitors-better/) if the stay is long enough for a west-side night and the remaining choice is skyline polish versus calmer dinner rhythm
 - read [Are Shajing Oysters Worth a Detour for First-Time Visitors?](/guides/is-shajing-oysters-worth-a-detour-for-first-time-visitors/) if the extra Shenzhen day partly is being justified by one seafood-specific Bao'an branch
 - read [Is Guangming Roast Squab Worth a Detour for First-Time Visitors?](/guides/is-guangming-roast-squab-worth-a-detour-for-first-time-visitors/) if the extra Shenzhen day partly is being justified by one dish-specific specialty branch

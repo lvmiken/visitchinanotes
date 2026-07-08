@@ -64,6 +64,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Hong Kong to Macau for First-Time Visitors: Ferry or HZMB Bridge Bus?](/guides/hong-kong-to-macau-for-first-time-visitors-ferry-or-hzmb-bus/) if the live question is how to cross in cleanly before the city even starts
 - [Best Things to Do in Macau for First-Time Visitors](/guides/best-things-to-do-in-macau-for-first-time-visitors/) if Macau already is confirmed and the live question is what actually deserves protected sightseeing time
 - [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if Macau already is confirmed and the live question is how to turn one overnight or 2-day stop into a usable route
+- [A Classic 5- to 7-Day Macau Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-macau-itinerary-for-first-time-visitors/) if Macau already is confirmed and the live question is how to make a slower, longer stay feel varied instead of padded
 - [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) if Macau already is confirmed and the live question is which pieces actually need to be locked early and which ones should stay flexible
 - [Hong Kong or Macau: Which Is Better for First-Time Visitors?](/topics/hong-kong-or-macau-for-first-time-visitors/) if the live question is whether Macau should even win over a fuller Hong Kong stay
 - [How to Plan a South China Route with Hong Kong, Macau, and One Mainland Stop](/topics/how-to-plan-a-south-china-route-with-hong-kong-macau-and-one-mainland-stop/) if the live question is no longer whether Macau belongs, but which mainland partner should sit beside Hong Kong and Macau
@@ -101,6 +102,8 @@ For most first-time visitors:
 - **2 days** is often the strongest version
 
 Longer stays usually make sense only if the route is already very leisure-led or if entertainment, resorts, or slower heritage pacing are a major priority.
+
+If the city already is confirmed and the live question is no longer whether Macau deserves only `2 days` but how a slower `5- to 7-day` version could actually stay interesting, go next to [A Classic 5- to 7-Day Macau Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-macau-itinerary-for-first-time-visitors/).
 
 If the city already is confirmed and the live question is really `1 day or 2`, or whether a slower overnight is justified, go next to [How Many Days in Macau for First-Time Visitors](/guides/how-many-days-in-macau-for-first-time-visitors/).
 
@@ -174,6 +177,7 @@ If the old core already is secure and the real question becomes whether one paid
 - read [What to Eat in Macau for First-Time Visitors](/guides/what-to-eat-in-macau-for-first-time-visitors/) if Macau already is likely and the live question is how to protect the right meal types
 - read [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) if Macau already is likely and the live question is which parts of the stop actually need to be locked before arrival
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if Macau already is likely and the live question is how to make a fuller short stay feel intentional instead of scattered
+- read [A Classic 5- to 7-Day Macau Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-macau-itinerary-for-first-time-visitors/) if Macau already is likely and the live question is how to shape a slower week so the extra days each do a different job
 - read [Senado Square in Macau: Is It Worth It for First-Time Visitors?](/places/senado-square/) if the live decision is whether the heritage core still should carry the main walking block
 - read [Ruins of St. Paul's in Macau: Is It Worth It for First-Time Visitors?](/places/ruins-of-st-pauls/) if the live decision is whether Macau's most famous landmark should get protected time inside the old-core day
 - read [A-Ma Temple in Macau: Is It Worth It for First-Time Visitors?](/places/a-ma-temple/) if the live decision is whether the peninsula side deserves one deeper spiritual-and-heritage extension

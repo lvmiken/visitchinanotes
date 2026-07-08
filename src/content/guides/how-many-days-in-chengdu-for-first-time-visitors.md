@@ -209,6 +209,8 @@ It is closer to:
 
 That usually creates a better route than forcing Chengdu to behave like a monument-heavy capital.
 
+If the live question already has moved past `how many days?` and into `what does that longer Chengdu actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Chengdu Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chengdu-itinerary-for-first-time-visitors/).
+
 ## Which length fits which traveler best
 
 ## Choose 2 days if
@@ -248,6 +250,7 @@ That usually creates a better route than forcing Chengdu to behave like a monume
 - read [Chengdu Travel Guide for First-Time Visitors](/guides/chengdu-first-time-guide/) if Chengdu still is being ranked against other route options
 - read [Best Time to Visit Chengdu for First-Time Visitors](/guides/best-time-to-visit-chengdu-for-first-time-visitors/) if season choice may change whether Chengdu should stay compact or grow into a slower 4-day version
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if you are leaning toward the sweet-spot default version
+- read [A Classic 5- to 7-Day Chengdu Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chengdu-itinerary-for-first-time-visitors/) if the city already is winning enough time for a fuller panda, tea-house, food, and side-trip version
 - read [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [How to Plan Chengdu Panda Base for First-Time Visitors](/guides/how-to-plan-chengdu-panda-base-for-first-time-visitors/) if the whole stay still depends on how the panda morning works in practice
 - read [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the extra day mainly is being justified by Dujiangyan, Leshan, Sanxingdui, or another side trip

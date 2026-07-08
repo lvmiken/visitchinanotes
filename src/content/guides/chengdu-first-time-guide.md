@@ -46,7 +46,7 @@ This page is best for travelers who are still trying to answer the broad Chengdu
 
 If you already know the exact decision, the narrower page is usually better:
 
-- [How Many Days in Chengdu for First-Time Visitors](/guides/how-many-days-in-chengdu-for-first-time-visitors/) if the main question is whether Chengdu should be a quick panda-and-food stop, a balanced 3-day stay, or a fuller 4-day version
+- [How Many Days in Chengdu for First-Time Visitors](/guides/how-many-days-in-chengdu-for-first-time-visitors/) if the main question is whether Chengdu should be a quick panda-and-food stop, a balanced 3-day stay, or a fuller 4- to 5-day version
 - [Best Time to Visit Chengdu for First-Time Visitors](/guides/best-time-to-visit-chengdu-for-first-time-visitors/) if the city looks right but you still need to choose the easiest season for pandas, food, and slower city days
 - [Best Things to Do in Chengdu for First-Time Visitors](/guides/best-things-to-do-in-chengdu-for-first-time-visitors/) if the main question now is which Chengdu experiences truly deserve limited trip time
 - [Best Museums in Chengdu for First-Time Visitors](/guides/best-museums-in-chengdu-for-first-time-visitors/) if the city is chosen and the live question is whether one museum really improves the route
@@ -84,6 +84,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Best Day Trips from Chengdu for First-Time Visitors](/guides/best-day-trips-from-chengdu-for-first-time-visitors/) if the city already feels secure and the real question is whether one extra day should go to Dujiangyan, Leshan, Sanxingdui, or nowhere
 - [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/) if the city is chosen but bad weather now is the practical question and you need to know which plans to keep, which to cut, and how to rescue the day without flattening the trip
 - [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/)
+- [A Classic 5- to 7-Day Chengdu Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chengdu-itinerary-for-first-time-visitors/) if the city already looks right and the real question is how to turn Chengdu into a slower, fuller one-week stop without losing its relaxed rhythm
 - [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/)
 
 ## The short answer
@@ -164,7 +165,7 @@ If the city already feels chosen and the live question is whether one evening sh
 
 If the route already clearly wants the traditional-core branch and the live question is how to turn [Wuhou Shrine](/places/wuhou-shrine/) and [Jinli](/places/jinli/) into one coherent half day instead of two floating stops, the next page is [How to Plan a Wuhou Shrine and Jinli Half Day in Chengdu for First-Time Visitors](/guides/how-to-plan-a-wuhou-shrine-and-jinli-half-day-in-chengdu-for-first-time-visitors/).
 
-Once the city feels like the right fit, continue with [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/) and [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/).
+Once the city feels like the right fit, continue with [Best Area to Stay in Chengdu for First-Time Visitors](/guides/chengdu-where-to-stay/), [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/), and [A Classic 5- to 7-Day Chengdu Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chengdu-itinerary-for-first-time-visitors/) depending on whether the stop is staying compact or expanding into a fuller Sichuan-facing city stay.
 
 If the hotel question already has narrowed to Chengdu's safest practical base versus its stronger neighborhood-feeling base, the next page is [Central Chengdu or Yulin: Where Should First-Time Visitors Stay?](/guides/central-chengdu-or-yulin-where-to-stay-for-first-time-visitors/).
 
@@ -295,5 +296,6 @@ If the city already feels chosen and the live question is how to keep the trip g
 - read [Sanxingdui from Chengdu: Is It Worth a Day Trip for First-Time Visitors?](/places/sanxingdui/) if the extra day already is leaning specifically toward archaeology and you need to know whether that branch really improves the trip
 - read [Rainy Day in Chengdu for First-Time Visitors](/guides/rainy-day-in-chengdu-for-first-time-visitors/) if the city is chosen and the live problem is how to keep a wet day useful without wasting a panda booking, central day, or food evening
 - read [A Practical 3-Day Chengdu Itinerary for First-Time Visitors](/guides/chengdu-3-day-itinerary/) if the city already is confirmed and you want the days in order
+- read [A Classic 5- to 7-Day Chengdu Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chengdu-itinerary-for-first-time-visitors/) if Chengdu already is confirmed and the real question is how to use a longer stay for pandas, tea houses, neighborhoods, and one selective side trip without adding filler
 - read [How to Get From Chengdu Tianfu Airport to the City](/guides/chengdu-tianfu-airport-to-city/) if Chengdu is the landing city and arrival logistics are the weak point
 - read [Best First City to Visit in China: Beijing, Shanghai, Chengdu, or Xi'an?](/topics/where-to-start/) if Chengdu still is competing with another first stop

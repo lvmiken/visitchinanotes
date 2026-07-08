@@ -50,6 +50,8 @@ If you only have two or three days, this structure is still useful as a priority
 
 If you are still choosing between the 3-day and 4-day versions, [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) is the better page to use before committing.
 
+If the opposite is true and Beijing already is clearly getting more than four days, jump instead to [A Classic 5- to 7-Day Beijing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-beijing-itinerary-for-first-time-visitors/) so the extra time becomes a real city structure instead of loose leftovers.
+
 If the stay length already is clear and the real issue is what should actually fill those four days, the broader shortlist page is [Best Things to Do in Beijing for First-Time Visitors](/guides/best-things-to-do-in-beijing-for-first-time-visitors/).
 
 ## How this itinerary is meant to feel
@@ -377,6 +379,7 @@ That is what this structure is trying to do.
 
 - read [Beijing Travel Guide for First-Time Visitors](/guides/beijing-first-time-guide/) if the city still needs to be ranked by importance
 - read [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) if you are still testing whether this fuller version is the right length
+- read [A Classic 5- to 7-Day Beijing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-beijing-itinerary-for-first-time-visitors/) if the route is no longer a 4-day stay and you want the stronger longer-city version
 - read [Where to Stay in Beijing for a First Trip](/guides/beijing-where-to-stay/) if hotel location is still preventing the day structure from settling
 - read [Beijing With Kids for First-Time Visitors](/guides/beijing-with-kids-for-first-time-visitors/) if this route needs to work for children without losing the main Beijing payoffs
 - read [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Beijing now is clearly one half of a Beijing-and-Shanghai route and the live question is how to make the transfer work well

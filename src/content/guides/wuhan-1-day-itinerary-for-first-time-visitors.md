@@ -61,6 +61,8 @@ If you are still deciding whether one day is enough at all, start with [How Many
 
 If the bigger decision still is whether Wuhan deserves a stop in the first place, keep [Wuhan for First-Time Visitors: Why Breakfast Culture Alone Can Justify the Stop](/guides/wuhan-first-time-guide/) open too.
 
+If the city already is growing beyond a sharper one-day stop and the live question is how a fuller Wuhan version should work once the trip protects nearly a week, keep [A Classic 5- to 7-Day Wuhan Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-wuhan-itinerary-for-first-time-visitors/) open too.
+
 ## Before you use this plan
 
 This itinerary works best if:
@@ -246,4 +248,5 @@ It lets the city win the way it usually wins: through one good morning, one cohe
 - read [What to Eat in Wuhan for First-Time Visitors: Start With Breakfast, Then Go Beyond It](/guides/what-to-eat-in-wuhan-for-first-time-visitors/) if the day shape is clear and the next question is which meals actually deserve the slots
 - read [Where to Eat in Wuhan for First-Time Visitors](/guides/where-to-eat-in-wuhan-for-first-time-visitors/) if the day shape is clear and the next question is which side of the city should carry those meals
 - read [Wuhan at Night for First-Time Visitors: River Views, Dinner, or Just an Easier Evening?](/guides/what-to-do-in-wuhan-at-night-for-first-time-visitors/) if the day shape is clear and the remaining question is how the evening should actually feel
+- read [A Classic 5- to 7-Day Wuhan Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-wuhan-itinerary-for-first-time-visitors/) if the route already is outgrowing the one-day version and the real question is how to make a longer Wuhan stay feel coherent
 - read [Wuhan for First-Time Visitors: Why Breakfast Culture Alone Can Justify the Stop](/guides/wuhan-first-time-guide/) if the broader route-fit question still is not fully settled

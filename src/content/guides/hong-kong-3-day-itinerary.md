@@ -60,6 +60,8 @@ If the broader decision still is whether Hong Kong itself should win over Shenzh
 
 If the broader question still is not day order but trip length, keep [How Many Days in Hong Kong for First-Time Visitors](/guides/how-many-days-in-hong-kong-for-first-time-visitors/) open too.
 
+If the city already is growing beyond a compact 3-day stop and the live question is how a longer Hong Kong version should work without becoming repetitive, keep [A Classic 5- to 7-Day Hong Kong Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hong-kong-itinerary-for-first-time-visitors/) open too.
+
 If the day structure is not fully settled because the shortlist itself still feels too broad, keep [Best Things to Do in Hong Kong for First-Time Visitors](/guides/best-things-to-do-in-hong-kong-for-first-time-visitors/) open too.
 
 If the day structure mostly works but the movement between districts still feels too abstract, keep [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) open too.
@@ -285,6 +287,8 @@ A strong `3-day` Hong Kong trip usually has:
 - one Kowloon culture-and-food day
 
 That is enough for the city to feel dense, legible, and memorable without becoming random.
+
+If the route already clearly wants more than three days and the live question is how to spend those extra days well instead of just adding more harbourfront duplication, the better next page is [A Classic 5- to 7-Day Hong Kong Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hong-kong-itinerary-for-first-time-visitors/).
 
 ## Which page to read next
 

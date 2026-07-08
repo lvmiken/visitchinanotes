@@ -192,6 +192,8 @@ The best Hainan arrival is the one that keeps these aligned:
 
 When those three point in different directions, the island immediately starts feeling harder than it should.
 
+If those three are almost aligned and the live question is now how to turn the island into a fuller `5 to 7 day` route, the sharper execution page is [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/).
+
 ## A simple editorial default
 
 For many first-time visitors:
@@ -211,6 +213,7 @@ That is cleaner than trying to make one airport answer every version of the isla
 ## Which page to read next
 
 - read [Hainan for First-Time Visitors: When a Sanya-Led Island Break Actually Improves the Route](/topics/hainan-for-first-time-visitors/) if Hainan is still only a possibility and not yet a committed route branch
+- read [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/) if the airport choice is nearly done and the next decision is how to sequence the island properly
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the island is happening and the real decision is where to stay
 - read [After Landing in Haikou With Kids, Should You Stay the Night or Go Straight to Sanya?](/topics/after-landing-in-haikou-with-kids-should-you-stay-the-night-or-go-straight-to-sanya/) if the family version of the airport choice has narrowed to one first-night decision
 - read [After a Haikou Landing With Kids, Should You Stay Near Meilan Airport or in Central Haikou?](/topics/after-a-haikou-landing-with-kids-should-you-stay-near-meilan-airport-or-in-central-haikou/) if the family has already chosen to sleep in Haikou and now needs the right overnight base

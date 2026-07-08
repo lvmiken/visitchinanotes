@@ -218,6 +218,8 @@ That is a separate problem.
 
 If you are already at that point, the sharper page is [Should You Split Hainan Between Sanya and Wanning or Keep One Base?](/topics/should-you-split-hainan-between-sanya-and-wanning-or-keep-one-base/).
 
+If the coast choice is nearly settled and the real next problem is how to turn that answer into a fuller island chapter, the sharper execution page is [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/).
+
 ## The editorial default
 
 For many first-time visitors:

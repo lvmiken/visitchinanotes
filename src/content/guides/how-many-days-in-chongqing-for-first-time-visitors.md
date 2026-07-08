@@ -172,6 +172,8 @@ This is where Chongqing often becomes:
 
 This is also the point where the `Beibei` branch becomes much easier to defend. If the extra day might become a science-led indoor layer rather than another skyline or food night, use [Is Chongqing Natural History Museum Worth It for First-Time Visitors?](/places/chongqing-natural-history-museum/) and [Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?](/guides/chongqing-natural-history-museum-or-china-three-gorges-museum-for-first-time-visitors/) to decide whether that longer-stay museum detour is actually the right use of your extra time.
 
+If the live question already has moved past `how many days?` and into `what does that longer Chongqing actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Chongqing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chongqing-itinerary-for-first-time-visitors/).
+
 This is the point where the cluster starts fitting together most naturally:
 
 - [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) for the meal logic
@@ -224,6 +226,7 @@ This is the point where the cluster starts fitting together most naturally:
 - read [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/) if season choice may change whether the city should stay a sharper stop or earn a slower extra day
 - read [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if you are leaning toward the sweet-spot default version
+- read [A Classic 5- to 7-Day Chongqing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chongqing-itinerary-for-first-time-visitors/) if the city already is winning enough time for a fuller skyline, vertical-city, food, and museum-led version
 - read [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the reason you are leaning toward `4 days` is that you want one nature or thrill add-on outside the city
 - read [Chongqing Natural History Museum or China Three Gorges Museum for First-Time Visitors?](/guides/chongqing-natural-history-museum-or-china-three-gorges-museum-for-first-time-visitors/) if the reason you are leaning toward `4 days` is a science-or-family museum branch rather than another skyline, food, or nature day
 - read [What to Eat in Chongqing for First-Time Visitors](/guides/what-to-eat-in-chongqing-for-first-time-visitors/) if the length decision mainly depends on whether the city deserves one or two serious food days

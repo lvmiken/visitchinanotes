@@ -160,6 +160,8 @@ Three days is strongest when the route deliberately wants this region to feel li
 
 It is weaker when the third day exists only because the route has not narrowed yet.
 
+If that fuller version is already sounding right and the live question becomes how to stretch the Guilin region toward `5 days` or even a softer `week` without repeating the same scenic logic, the stronger next page is [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/).
+
 ## Which length fits which traveler best
 
 ## Choose 1 day if
@@ -195,6 +197,7 @@ It is weaker when the third day exists only because the route has not narrowed y
 - read [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/) if the length choice now depends on which parts of the Guilin region actually need early booking and which can stay loose
 - read [Longji Rice Terraces from Guilin: Is It Worth It for First-Time Visitors?](/places/longji-rice-terraces/) if the live question is whether a third Guilin-region day should become a terrace detour instead of more city or Yangshuo time
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the remaining choice is the best base for the city-side nights
+- read [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/) if the stop clearly is growing beyond the usual short scenic version and you need the extra days to do different regional jobs
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the trip cannot fully protect both and you need the cleaner tradeoff
 - read [Yangshuo on a First Trip: When It Adds More Than a Guilin Pass-Through](/guides/yangshuo-first-time-guide/) if the region already is likely and the next question is how much the town itself deserves
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the length choice really depends on how the Hong Kong rail handoff should open the scenic chapter

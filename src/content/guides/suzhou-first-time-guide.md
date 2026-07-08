@@ -38,6 +38,8 @@ If Hangzhou still also is on the table and the route is really choosing among th
 
 If that route question already is settled and you now need the narrower rail-execution version, go straight to [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/).
 
+If the city already is fixed and the live question is how to turn Suzhou into a fuller 5- to 7-day stay without padding it with repetitive gardens and canal walks, go to [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/).
+
 If the live question is where the old-city base should be, start with [Best Area to Stay in Suzhou for First-Time Visitors](/guides/suzhou-where-to-stay/).
 
 If the city already is fixed and the real question is how much time it needs, go to [How Many Days in Suzhou for First-Time Visitors](/guides/how-many-days-in-suzhou-for-first-time-visitors/).
@@ -149,6 +151,8 @@ For most first-time visitors:
 - `1 day` is enough for a useful first version
 - `1 night` is often the sweet spot
 - `2 days` works best if you truly want both a stronger garden layer and a calmer evening rhythm
+
+If Suzhou already is winning enough time that the real question is no longer `1 day or 1 night?` but how to make a longer city-only version feel coherent, the cleaner execution page is [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/).
 
 Suzhou rarely needs to be a long stand-alone stay on a first China route.
 

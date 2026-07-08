@@ -179,6 +179,8 @@ Three days is strongest when the route deliberately wants one less obvious China
 
 It is weaker when the extra time only exists because of a train schedule.
 
+If the live question already has moved past `1, 2, or 3 days?` and into `what does that longer Wuhan actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Wuhan Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-wuhan-itinerary-for-first-time-visitors/).
+
 ## Which length fits which traveler best
 
 ## Choose 1 day or 1 night if
@@ -221,4 +223,5 @@ It is weaker when the extra time only exists because of a train schedule.
 - read [What to Book in Advance for Wuhan: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-wuhan/) if the length is mostly decided and the next question is which parts of the stop actually need protecting
 - read [A Practical 1-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-1-day-itinerary-for-first-time-visitors/) if Wuhan only gets one full day and now needs a cleaner route
 - read [A Practical 2-Day Wuhan Itinerary for First-Time Visitors](/guides/wuhan-2-day-itinerary-for-first-time-visitors/) if Wuhan gets the fuller short-stay version and now needs a cleaner route
+- read [A Classic 5- to 7-Day Wuhan Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-wuhan-itinerary-for-first-time-visitors/) if Wuhan already is winning enough time for a fuller food, city-rhythm, and support-branch version
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if Wuhan sounds right but the wider route still may be too crowded

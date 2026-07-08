@@ -150,6 +150,8 @@ The split can genuinely improve the island when:
 
 This is the best version of `Sanya + Wanning`.
 
+If the answer now is `yes, the split is justified` and the real next problem is how to place it inside a longer island stay, the sharper route-building page is [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/).
+
 ## When Atlantis, Wuzhizhou, or Riyue Bay complicate the answer
 
 This is where many readers overbuild.
@@ -182,6 +184,7 @@ That is the cleaner first-trip logic.
 ## Which page to read next
 
 - read [Riyue Bay in Wanning: What a First Surf Lesson Actually Feels Like](/topics/riyue-bay-in-wanning-what-a-first-surf-lesson-actually-feels-like/) if Wanning is in the route mainly because of surfing
+- read [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/) if the split seems justified and the next task is giving the island 5 to 7 days without overbuilding it
 - read [Atlantis Sanya Without Staying There: A Real Day Out or Just Hotel Hype?](/topics/atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype/) if the Sanya side of the trip is becoming more structured and attraction-led
 - read [Wuzhizhou Island Diving in Sanya: Worth the Boat Ride or Too Packaged?](/topics/wuzhizhou-island-diving-in-sanya-worth-the-boat-ride-or-too-packaged/) if the `Sanya` question is really about whether one marine day already gives the island enough activity
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the larger base logic is still not stable enough for a split decision

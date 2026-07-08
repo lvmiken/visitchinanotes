@@ -53,6 +53,7 @@ This page is best for travelers who still are trying to answer the broad Shenzhe
 If you already know the exact decision, the narrower page is usually better:
 
 - [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/) if the live question is whether Shenzhen needs only 1 day, the default 2 days, or a fuller 3-day version
+- [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/) if Shenzhen already looks right and the real question is how to turn it into a fuller one-week Greater Bay Area city stay without turning every day into transfers
 - [Best Area to Stay in Shenzhen for First-Time Visitors](/guides/where-to-stay-in-shenzhen-for-first-time-visitors/) if the live question is whether Futian, Nanshan, Shekou, or Luohu should be the base
 - [Futian or Nanshan: Which Shenzhen Area Fits First-Time Visitors Better?](/guides/futian-or-nanshan-which-shenzhen-area-fits-first-time-visitors-better/) if the live question has already narrowed to the city's two strongest default bases
 - [Futian or Luohu: Which Shenzhen Base Fits First-Time Visitors Better?](/guides/futian-or-luohu-which-shenzhen-base-fits-first-time-visitors-better/) if the live question has already narrowed to safer central Futian versus east-side border practicality
@@ -118,6 +119,7 @@ Longer stays usually only make sense if Shenzhen is part of a very intentional G
 If the city already is confirmed and the live question is really `1 day or 2`, `2 or 3`, or whether a coastal branch justifies more time, go next to [How Many Days in Shenzhen for First-Time Visitors](/guides/how-many-days-in-shenzhen-for-first-time-visitors/).
 
 If the city already is confirmed and the live question is no longer the number of days but how those `3 days` should actually be structured, go next to [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/).
+If the city already is confirmed and the live question is how to turn Shenzhen into a fuller 5- to 7-day stay without flattening it into repeated CBD time, go next to [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/).
 
 ## Best pairings with Shenzhen
 
@@ -174,6 +176,7 @@ If the city already is confirmed and the real question becomes how to make `Futi
 If the city already is confirmed and the real question becomes whether `Futian` as a whole is the right first-time district parent before you start splitting it into skyline guide, Lianhua Hill, or half-day execution, the narrower place page is [Futian in Shenzhen: Is It Worth It for First-Time Visitors?](/places/futian-shenzhen/).
 
 If the city already is confirmed and the real question becomes which Shenzhen blocks should actually stay core before you start adding narrower district branches, go next to [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/).
+If the city already is confirmed and the real question becomes how to build a fuller 5- to 7-day Shenzhen version without flattening it into repeated CBD time, go next to [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/).
 
 If the city already is confirmed and the real question becomes how to move between those districts without turning Shenzhen into a transfer-heavy blur, go next to [How to Get Around Shenzhen for First-Time Visitors](/guides/how-to-get-around-shenzhen-for-first-time-visitors/).
 
@@ -200,6 +203,7 @@ If the city already is confirmed and the real question becomes the exact half-da
 - read [What to Book in Advance for Shenzhen: Hotels, Trains, and Theme Park Days](/guides/what-to-book-in-advance-for-shenzhen/) if Shenzhen already is likely and the live question is which hotel, train, border, or theme-park pieces deserve early commitment
 - read [Best Things to Do in Shenzhen for First-Time Visitors](/guides/best-things-to-do-in-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is which parts of the city actually deserve your limited time
 - read [Shenzhen 3-Day Itinerary for First-Time Visitors](/guides/shenzhen-3-day-itinerary/) if Shenzhen already is likely and the live question is how to make a fuller short stay feel intentional instead of scattered
+- read [A Classic 5- to 7-Day Shenzhen Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shenzhen-itinerary-for-first-time-visitors/) if Shenzhen already is likely and the real question is how to use a longer stay for Futian, Nanshan, one coastal or specialty branch, and a slower buffer day without route bloat
 - read [Huaqiangbei in Shenzhen: How to Explore China's Electronics Maze Without Wasting a Day](/guides/huaqiangbei-in-shenzhen-for-first-time-visitors/) if Shenzhen already is likely and the live question is whether one technology-market block belongs at all
 - read [Can You Really Visit DJI Sky City in Shenzhen?](/guides/can-you-really-visit-dji-sky-city-in-shenzhen/) if Shenzhen already is likely and the live question is whether one architecture-led tech landmark is actually practical
 - read [Where Shenzhen's Skyline Finally Makes Sense: Futian, Ping An, and the Central Core](/guides/where-shenzhens-skyline-finally-makes-sense-futian-ping-an-and-the-central-core/) if Shenzhen already is likely and the live question is whether the central skyline district deserves real route space

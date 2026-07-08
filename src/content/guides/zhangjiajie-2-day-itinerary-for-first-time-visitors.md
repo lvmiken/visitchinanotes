@@ -194,4 +194,6 @@ Pair this page with [Best Things to Do in Zhangjiajie for First-Time Visitors](/
 
 If the route is clearly growing beyond two days and the live question is how to use that extra scenic day well, the cleaner next page is [A Practical 3-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/zhangjiajie-3-day-itinerary-for-first-time-visitors/).
 
+If the route is clearly growing beyond a normal short stop and the live question is how to shape a weather-proof `5 to 7 day` mountain stay, the cleaner next page is [A Classic 5- to 7-Day Zhangjiajie Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-zhangjiajie-itinerary-for-first-time-visitors/).
+
 If the short trip already is fixed and the live problem is how to rescue one wet scenic day without flattening the whole stop, the narrower page is [Rainy Day in Zhangjiajie for First-Time Visitors](/guides/rainy-day-in-zhangjiajie-for-first-time-visitors/).

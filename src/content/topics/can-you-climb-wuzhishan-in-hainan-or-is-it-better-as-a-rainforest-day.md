@@ -186,6 +186,8 @@ can all change quickly.
 
 The calmer answer is to build flexibility, not heroism.
 
+If Wuzhishan is already winning and the live question is no longer `should I do it` but `where does this inland branch fit in a longer Hainan stay`, the sharper route-building page is [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/).
+
 ## The editorial default
 
 For many first-time visitors:
@@ -206,6 +208,7 @@ That is the cleanest line between curiosity and disappointment.
 ## Which page to read next
 
 - read [Hainan Tropical Rainforest National Park: Is It Worth Leaving the Coast for?](/topics/hainan-tropical-rainforest-national-park-is-it-worth-leaving-the-coast-for/) if you still need the broader inland-Hainan framework
+- read [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/) if Wuzhishan is likely staying in the route and you now need to slot it into a real longer island plan
 - read [Cycling Around Hainan: Full Island Loop or a Shorter Coastal Slice?](/topics/cycling-around-hainan-full-loop-or-a-shorter-coastal-slice/) if the island is becoming more active overall but not necessarily mountain-led
 - read [Riyue Bay in Wanning: What a First Surf Lesson Actually Feels Like](/topics/riyue-bay-in-wanning-what-a-first-surf-lesson-actually-feels-like/) if the alternative active day is coast-and-surf rather than inland-and-rainforest
 - read [Wuzhizhou Island Diving in Sanya: Worth the Boat Ride or Too Packaged?](/topics/wuzhizhou-island-diving-in-sanya-worth-the-boat-ride-or-too-packaged/) if the real choice is mountain-day versus marine-day

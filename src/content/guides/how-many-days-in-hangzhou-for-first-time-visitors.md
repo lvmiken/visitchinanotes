@@ -176,6 +176,8 @@ This is where Hangzhou can become:
 
 Three days is strongest when the route deliberately wants Hangzhou to feel restorative.
 
+If the live question already has moved past `1, 2, or 3 days?` and into `what does that longer Hangzhou actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Hangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hangzhou-itinerary-for-first-time-visitors/).
+
 It is weaker when:
 
 - the extra day only exists because the train schedule is loose
@@ -215,6 +217,7 @@ It is weaker when:
 - read [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) if the main decision still is whether Hangzhou should stay a quick extension or become an overnight stop
 - read [A Practical 1-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-1-day-itinerary-for-first-time-visitors/) if you already know Hangzhou only gets one full day and now need the exact route
 - read [A Practical 2-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-2-day-itinerary-for-first-time-visitors/) if you already know Hangzhou deserves the fuller overnight version and now need the exact route
+- read [A Classic 5- to 7-Day Hangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hangzhou-itinerary-for-first-time-visitors/) if Hangzhou already is winning enough time for a fuller lake, tea, culture, and buffer-day version
 - read [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) if trip length is mostly decided and now you need the right shortlist
 - read [Best Time to Visit Hangzhou for First-Time Visitors](/guides/best-time-to-visit-hangzhou-for-first-time-visitors/) if season choice may still change whether Hangzhou should stay shorter or become a fuller overnight stop
 - read [How to Get Around Hangzhou for First-Time Visitors](/guides/how-to-get-around-hangzhou-for-first-time-visitors/) if the stay length is mostly decided but the real next problem is how to move well between the lake, hotel base, and second-day branches

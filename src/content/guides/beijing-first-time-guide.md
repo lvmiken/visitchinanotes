@@ -58,6 +58,7 @@ If you already know the exact problem, the narrower page is usually better:
 - [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) if the hotel decision already is really `historic old-core mood vs stronger modern nights`
 - [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/)
 - [A Practical 4-Day Beijing Itinerary for First-Time Visitors](/guides/beijing-4-day-itinerary/)
+- [A Classic 5- to 7-Day Beijing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-beijing-itinerary-for-first-time-visitors/) if Beijing already is clearly a core stop and you want the deeper city-only version instead of treating every extra day as a random add-on
 - [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Shanghai already is the second city and the real question is whether this flagship corridor should be rail or flight
 - [Beijing to Xi'an by High-Speed Rail: What Foreign Travelers Should Know Before Booking](/topics/beijing-to-xian-by-high-speed-rail-what-foreign-travelers-should-know-before-booking/) if Xi'an already is the second city and the real question is whether the rail day and station pair still feel clean enough
 
@@ -71,6 +72,8 @@ For many first-time visitors, Beijing works best when:
 - you solve hotel area, airport arrival, and reservations before polishing the itinerary
 
 The city is not hard because it lacks transport or structure. It becomes hard when readers underestimate its size and try to fit too many opposite-end sights into the same day.
+
+If Beijing already is clearly one of the emotional anchors of the whole trip and you know you want more than the balanced default, the longer-support page is [A Classic 5- to 7-Day Beijing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-beijing-itinerary-for-first-time-visitors/).
 
 ## Who Beijing is best for
 
@@ -294,6 +297,7 @@ If your trip is shorter than that, Beijing often needs more decisiveness than tr
 - read [Qianmen or Sanlitun: Where to Stay in Beijing for First-Time Visitors](/guides/qianmen-or-sanlitun-where-to-stay-in-beijing-for-first-time-visitors/) if the hotel question has already narrowed to `historic old-core atmosphere` versus `modern bars and restaurant comfort`
 - read [Beijing Airport to City: Best Arrival Choices for First-Time Visitors](/guides/beijing-airport-to-city/) if day-one arrival is shaping the route
 - read [How Many Days in Beijing for First-Time Visitors](/guides/how-many-days-in-beijing-for-first-time-visitors/) if the main live decision is how long the city actually deserves
+- read [A Classic 5- to 7-Day Beijing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-beijing-itinerary-for-first-time-visitors/) if the city already is confirmed as a longer anchor stop and you want the deeper city-only day structure
 - read [Best Time to Visit Beijing for First-Time Visitors](/guides/best-time-to-visit-beijing-for-first-time-visitors/) if the dates are still flexible and season choice is shaping the whole stop
 - read [How to Get Around Beijing: Metro, Taxi, and Didi for Tourists](/guides/how-to-get-around-beijing/) if daily movement still feels bigger than it should
 - read [What to Book in Advance for Beijing](/guides/what-to-book-in-advance-for-beijing/) if the next problem is reservations, not city choice

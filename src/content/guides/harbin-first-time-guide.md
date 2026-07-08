@@ -65,6 +65,7 @@ If the decision already has narrowed, the more focused page is usually better:
 - [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/)
 - [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/)
 - [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/)
+- [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/)
 - [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/)
 - [What to Wear in Harbin at -20°C Without Overpacking](/guides/what-to-wear-in-harbin-at-minus-20/)
 - [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/)
@@ -160,6 +161,8 @@ That normally means:
 
 That is usually enough for the city to feel distinct without overcommitting the wider route to winter conditions.
 
+If the city already is confirmed and the live question is no longer whether Harbin needs only `2 or 3 days` but how a slower `5- to 7-day` winter version could stay rewarding without becoming a cold endurance test, go next to [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/).
+
 If the next live question already is not `Is Harbin worth adding?` but `What actually deserves time once we go?`, the clearer next page is [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/).
 
 ## Harbin is strongest for certain travelers
@@ -187,6 +190,7 @@ It is often weaker for:
 
 - read [Best Things to Do in Harbin on a First Trip: What Actually Earns the Cold](/guides/best-things-to-do-in-harbin-for-first-time-visitors/) if Harbin is likely and you want the clearest first-time shortlist
 - read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if Harbin looks likely but the route still has not decided whether the stop should stay tight or breathe a little
+- read [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/) if Harbin looks likely and the live question is how to use a slower winter week without wasting extra days on same-purpose cold errands
 - read [A Practical 2-Day Harbin Itinerary for First-Time Visitors](/guides/a-practical-2-day-harbin-itinerary-for-first-time-visitors/) if Harbin looks likely and the real next question is how one strong short winter stay should actually flow
 - read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if arrival-day friction still makes the stop feel harder than it should
 - read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the city looks right but winter movement between the central district and north-bank venues still feels vague

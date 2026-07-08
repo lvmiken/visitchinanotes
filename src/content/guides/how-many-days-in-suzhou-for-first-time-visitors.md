@@ -77,6 +77,8 @@ Two days are usually not needed when:
 - the trip mainly wants one elegant contrast to Shanghai
 - you are adding Hangzhou or Nanjing too
 
+If the live question already has moved past `1 day`, `1 night`, or `2 days` and into `what does that longer Suzhou actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/).
+
 ## The real decision underneath
 
 Usually the question is not `Can I fill 2 days?`
@@ -92,4 +94,5 @@ That answer usually decides the length more honestly than map size.
 
 - read [Suzhou From Shanghai: Better as a Day Trip or an Overnight Stop?](/guides/shanghai-suzhou-day-trip-or-overnight/) if Shanghai still is the operational base
 - read [A Practical 1-Day Suzhou Itinerary for First-Time Visitors](/guides/suzhou-1-day-itinerary-for-first-time-visitors/) if the short version is already winning
+- read [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/) if Suzhou already is winning enough time for a fuller garden, canal, and slower old-city version
 - read [Best Area to Stay in Suzhou for First-Time Visitors](/guides/suzhou-where-to-stay/) if the overnight version is chosen

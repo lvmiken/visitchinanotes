@@ -26,6 +26,8 @@ faq:
 
 This is the Suzhou version that usually works best for travelers who only have one real day.
 
+If the city already is growing beyond a sharper one-day stop and the live question is how a fuller Suzhou version should work once the trip protects nearly a week, keep [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/) open too.
+
 If you are building this specifically as a same-day rail detour from Shanghai, keep [Shanghai to Suzhou by Bullet Train: A Day Trip That Actually Works](/guides/shanghai-to-suzhou-by-bullet-train-a-day-trip-that-actually-works/) open beside this page. It solves the route-shape problem that pure sightseeing lists often ignore.
 
 ## Morning: protect one major garden
@@ -81,4 +83,5 @@ Usually the best finish is:
 - read [Humble Administrator's Garden or Lion Grove Garden? Which Suzhou Garden Fits a Short First Trip Better?](/guides/humble-administrators-garden-or-lion-grove-garden-which-suzhou-garden-fits-a-short-first-trip-better/) if the day already is leaning museum-side and the wrong garden choice still could make it repetitive
 - read [Lion Grove Garden in Suzhou: Does It Add Enough Beside the Museum Cluster?](/places/lion-grove-garden/) if the day still seems to have room for one nearby add-on without losing shape
 - read [Pingjiang Road and Guanqian Street: A Smarter Central Suzhou Half Day Than Another Garden](/guides/pingjiang-road-and-guanqian-street-a-smarter-central-suzhou-half-day-than-another-garden/) if the route now needs a softer central branch rather than one more ticketed stop
+- read [A Classic 5- to 7-Day Suzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-suzhou-itinerary-for-first-time-visitors/) if the route already is outgrowing the one-day version and the real question is how to make a longer Suzhou stay feel coherent
 - read [Suzhou Museum: Is It Worth Making Time for on a Short First Trip?](/places/suzhou-museum/) if the live question is whether the museum improves this short route enough

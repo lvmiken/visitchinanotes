@@ -67,6 +67,7 @@ If you already know the exact decision, the narrower page is usually more helpfu
 - [Best Things to Do in Shanghai With Kids](/guides/best-things-to-do-in-shanghai-with-kids/) if the family version already is happening and the live question now is which attractions are truly worth protecting
 - [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/)
 - [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) if the stay already is leaning fuller and you want the cleaner city-first version instead of immediately spending the extra day outside Shanghai
+- [A Classic 5- to 7-Day Shanghai Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shanghai-itinerary-for-first-time-visitors/) if Shanghai already is clearly a main urban anchor and you want the longer city-only version before handing extra days to another east-China stop
 - [How to Get Around Shanghai: Metro, Taxi, Didi, and Ferry for First-Time Visitors](/guides/how-to-get-around-shanghai/)
 - [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/)
 - [Beijing to Shanghai by Bullet Train: Is It Better Than Flying for First-Time Visitors?](/topics/beijing-to-shanghai-by-bullet-train-is-it-better-than-flying-for-first-time-visitors/) if Beijing already is the other major stop and the real question is whether this flagship route should be rail or flight
@@ -112,6 +113,8 @@ For many first-time visitors, Shanghai is a strong choice when:
 - you want a city that is easy to combine with Hangzhou, Suzhou, or another east-China leg
 
 Shanghai is usually less ideal if your top priority is imperial history, a giant landmark checklist, or a trip that needs to feel traditionally "ancient China" from the start.
+
+If Shanghai already is clearly the trip's urban anchor and you know you want more than the efficient default, the longer-support page is [A Classic 5- to 7-Day Shanghai Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shanghai-itinerary-for-first-time-visitors/).
 
 If the real next decision is no longer `Is Shanghai right?` but `How far should the east-China route extend once Shanghai is in?`, use [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/) when the scenic branch still is on the table, [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/) when Hangzhou already is out and the real choice is refinement versus depth, [A 5- to 7-Day Shanghai + Suzhou + Nanjing Route That Actually Flows](/guides/a-5-to-7-day-shanghai-suzhou-and-nanjing-route-that-actually-flows/) when the tighter three-city version already looks right, and [A 6- to 8-Day Shanghai + Hangzhou + Suzhou + Nanjing Route That Still Feels Edited](/guides/a-6-to-8-day-shanghai-hangzhou-suzhou-and-nanjing-route-that-still-feels-edited/) when the fuller east-China arc really does belong.
 
@@ -326,6 +329,7 @@ The fix is usually not "add more attractions." It is "use the city for the kind 
 - read [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) if the city is chosen and trip length is still the main open decision
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and the live question is which stops truly deserve prime time
 - read [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) if the city is confirmed and the main question is how to use a fuller four-day Shanghai stay without turning the extra day into random leftovers
+- read [A Classic 5- to 7-Day Shanghai Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shanghai-itinerary-for-first-time-visitors/) if the city already is confirmed as a longer urban anchor and you want the deeper city-only structure
 - read [Best Time to Visit Shanghai for First-Time Visitors](/guides/best-time-to-visit-shanghai-for-first-time-visitors/) if dates are still flexible and season choice may change how the stop should work
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the city is chosen and the next problem is protecting the right bookings without overplanning
 - read [Shanghai Fabric Market Custom Suits for First-Time Visitors](/guides/shanghai-fabric-market-custom-suits-for-first-time-visitors/) if the city is chosen and the live question is whether one practical tailoring detour is more worth protecting than another generic shopping block

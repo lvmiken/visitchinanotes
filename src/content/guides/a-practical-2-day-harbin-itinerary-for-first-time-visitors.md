@@ -59,6 +59,8 @@ This plan is best for travelers who:
 
 If you still are deciding whether Harbin should stay shorter or breathe a little more, start with [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/).
 
+If the real question already is no longer whether Harbin deserves only `2 days` but how to make a slower `5- to 7-day` winter version feel varied, keep [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/) open too.
+
 If the broader route question still is whether Harbin belongs in the trip at all, keep [Harbin for First-Time Visitors: When the Winter Spectacle Is Worth Building a Trip Around](/guides/harbin-first-time-guide/) open too.
 
 ## Before you use this plan
@@ -252,6 +254,7 @@ In both versions, the city gets worse when central Harbin and `Songbei` compete 
 ## Which page to read next
 
 - read [How Many Days in Harbin for First-Time Visitors](/guides/how-many-days-in-harbin-for-first-time-visitors/) if you still are not sure whether Harbin should stay at `2 days` or grow into a fuller `3-day` stop
+- read [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/) if the short stay already looks too compressed and you want to see how Harbin improves when each extra day has a clearer winter role
 - read [How to Get Around Harbin for First-Time Visitors](/guides/how-to-get-around-harbin-for-first-time-visitors/) if the two-day structure is clear but the movement between the central district and the north-bank venues still needs simplifying
 - read [Where to Stay in Harbin on a First Trip: Central Street Convenience or a More Practical Winter Base?](/guides/harbin-where-to-stay/) if the day flow works but the hotel base still does not
 - read [Harbin Airport to City Center for First-Time Visitors: Airport Bus, Taxi, or Didi?](/guides/harbin-airport-to-city-center/) if the whole two-day version still feels fragile because the arrival may eat too much of Day 1

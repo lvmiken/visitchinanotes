@@ -72,6 +72,8 @@ Stay longer if:
 - you want more unhurried neighborhood time
 - Guangzhou is the true anchor of a South China section rather than one stop among many
 
+If the live question already has moved past `2 days, 3 days, or 4 days?` and into `what does a longer Guangzhou actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Guangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guangzhou-itinerary-for-first-time-visitors/).
+
 If that is not the case, extra days may be better invested in the pairing city instead.
 
 ## Let route function decide the stay length
@@ -87,3 +89,4 @@ The best Guangzhou trip length is rarely decided by attraction count alone. It i
 - read [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/) if the day count is mostly clear and the next question is which parts of the stay should be locked early
 - read [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) if the stay length is clear but the base is not
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if you are leaning toward the three-day version
+- read [A Classic 5- to 7-Day Guangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guangzhou-itinerary-for-first-time-visitors/) if Guangzhou already is winning enough time for a fuller food, heritage, skyline, and neighborhood-led version

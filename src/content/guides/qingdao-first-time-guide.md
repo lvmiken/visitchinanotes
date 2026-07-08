@@ -58,6 +58,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/)
 - [Best Area to Stay in Qingdao for First-Time Visitors](/guides/qingdao-where-to-stay/)
 - [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/)
+- [A Classic 5- to 7-Day Qingdao Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-qingdao-itinerary-for-first-time-visitors/)
 - [Qingdao's German-Era Walk: A Better Route Than Random Wandering](/guides/qingdao-german-era-walk-a-better-route-than-random-wandering/)
 - [Qingdao Beer Festival: Dates, Venue, and Whether It Is Worth Planning Around](/guides/qingdao-beer-festival-dates-venue-worth-it/)
 - [Qingdao with Beijing or Shanghai: Which Route Uses It Better?](/guides/qingdao-beijing-or-shanghai-pairing/)
@@ -107,6 +108,8 @@ Two or three days is enough for most first visits. That gives enough room for wa
 If the broad answer now is clearly "yes, Qingdao belongs," but the live planning question has narrowed to whether the city should be `1`, `2`, or `3` days, go next to [How Many Days in Qingdao for First-Time Visitors](/guides/how-many-days-in-qingdao-for-first-time-visitors/).
 
 If Qingdao already is confirmed and the next practical anxiety is whether the city will feel simple to use between the station, the old coast, the eastern waterfront, and possible dinner returns, go next to [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/).
+
+If Qingdao already is confirmed and the live question is how to turn it into a fuller 5- to 7-day stay without padding the city with repeated waterfront loops, go next to [A Classic 5- to 7-Day Qingdao Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-qingdao-itinerary-for-first-time-visitors/).
 
 ## Common mistakes on a first Qingdao trip
 

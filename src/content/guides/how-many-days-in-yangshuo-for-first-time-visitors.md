@@ -67,6 +67,8 @@ Two nights becomes much easier to justify when the trip wants:
 
 This is usually the stronger answer when Yangshuo is supposed to feel calm, not merely efficient.
 
+If that fuller version is already sounding right and the live question becomes how Yangshuo should sit inside a `5- to 7-day` Guilin-region chapter rather than just a one-night stop, the stronger next page is [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/).
+
 ## When does Yangshuo get too long?
 
 It usually gets too long when:
@@ -104,5 +106,6 @@ The town is strongest when it has a clear role, not when it is simply enlarged.
 - read [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/) if the length question now depends on what you would actually do
 - read [Xianggong Mountain from Yangshuo: Is It Worth the Sunrise Detour for First-Time Visitors?](/places/xianggong-mountain/) if the extra night only becomes worth it when a real sunrise panorama fits cleanly
 - read [Where to Stay in Yangshuo on a First Trip: West Street Ease or a Quieter Countryside Base?](/guides/yangshuo-where-to-stay/) if the right trip length now depends on the overnight style
+- read [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/) if the stay clearly is growing beyond a short Yangshuo version and you need the fuller regional structure
 - read [Yangshuo for One Night: When an Overnight Stay Is Worth It](/guides/is-yangshuo-worth-an-overnight-for-first-time-visitors/) if the only real live question is whether one night is enough
 - read [Hong Kong West Kowloon to Guilin or Yangshuo by High-Speed Rail: The Cleanest Scenic Escape?](/topics/hong-kong-west-kowloon-to-guilin-or-yangshuo-by-high-speed-rail-the-cleanest-scenic-escape/) if the `1 night` versus `2 nights` choice really depends on the Hong Kong-to-mainland rail handoff

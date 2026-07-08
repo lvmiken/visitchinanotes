@@ -53,6 +53,8 @@ If you still are deciding whether Hangzhou deserves one day or two, start with [
 
 If the bigger route question still is whether Hangzhou should stay a day trip or become an overnight stop, keep [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) open too.
 
+If the city already is growing beyond a compact overnight stop and the live question is how a longer Hangzhou version should work without becoming repetitive lakeside filler, keep [A Classic 5- to 7-Day Hangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hangzhou-itinerary-for-first-time-visitors/) open too.
+
 If the broader shortlist still is not settled, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
 
 If you arrived here from the broader `things to do in Hangzhou` search, this page is the two-day answer once you already know the city deserves an overnight stop. The broader shortlist page above is still the better parent if you have not yet decided whether your second branch should be Lingyin, Longjing, Xixi, or simply more lake time with a softer finish.
@@ -253,6 +255,7 @@ Lean harder into:
 
 - read [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/) if you still are not sure whether Hangzhou should stay at `1 day` or become a fuller `2-day` stop
 - read [A Practical 1-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-1-day-itinerary-for-first-time-visitors/) if your route may need the sharper version instead
+- read [A Classic 5- to 7-Day Hangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hangzhou-itinerary-for-first-time-visitors/) if the route already clearly wants more than two days and the live question is how to spend those extra days without just repeating the lake
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if the Day 1 lake block still needs tighter structure
 - read [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) if you want the broader shortlist behind this route
 - read [Best Area to Stay in Hangzhou for First-Time Visitors](/guides/hangzhou-where-to-stay/) if the day flow works but the hotel base still does not

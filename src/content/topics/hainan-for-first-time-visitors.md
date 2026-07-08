@@ -327,6 +327,8 @@ For many first-time visitors:
 
 If the total China trip still is not stable enough to know whether those days exist, step back first to [How Many Days Do You Need for Your First China Trip?](/topics/how-many-days-do-you-need-for-your-first-china-trip/) and [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/).
 
+If Hainan has already won and the live question is no longer `should I go` but `how do I structure a fuller island stay without turning it into a full-island fantasy`, the sharper execution page is [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/).
+
 ## The easiest Hainan mistake
 
 The easiest mistake is choosing the island for policy language instead of travel style.
@@ -352,6 +354,7 @@ The right trip still depends on:
 ## Which page to read next
 
 - read [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/) if Hainan is interesting but the whole route still is not disciplined enough
+- read [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/) if Hainan has already won and the next real task is turning the island into a selective longer stay
 - read [Sanya Phoenix or Haikou Meilan? Which Hainan Arrival Actually Fits Your Trip](/topics/sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense/) if the island is happening and you want the cleanest arrival logic first
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the main question has narrowed from `should I go` to `where should I stay`
 - read [Sanya or Wanning? Which Hainan Coast Fits Better If You Want Resorts, Surfing, or a Looser Beach Scene](/topics/sanya-or-wanning-which-hainan-coast-fits-better-if-you-want-resorts-surfing-or-a-looser-beach-scene/) if Hainan is happening and the live question is specifically whether you want easier Sanya or a more surf-led Wanning coast

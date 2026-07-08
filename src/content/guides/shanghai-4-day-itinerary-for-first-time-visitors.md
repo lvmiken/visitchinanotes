@@ -46,6 +46,8 @@ This itinerary works best if:
 
 If you only have three full days, [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) is the cleaner version. If you are still deciding whether this fuller version is actually worth it, [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) is the better page to use before you commit.
 
+If the opposite is true and Shanghai already is clearly getting more than four days, jump instead to [A Classic 5- to 7-Day Shanghai Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shanghai-itinerary-for-first-time-visitors/) so the extra time becomes a real city shape instead of loose leftovers.
+
 If the stay length is clear but the live question is which city experiences deserve the extra day, the broader shortlist page is [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/).
 
 ## How this itinerary is meant to feel
@@ -230,6 +232,7 @@ Lean harder into:
 - read [Shanghai for First-Time Visitors: How Many Days, Where to Stay, and What to Prioritize](/guides/shanghai-first-time-guide/) if the city still needs to be ranked against other route options
 - read [How Many Days in Shanghai for First-Time Visitors](/guides/how-many-days-in-shanghai-for-first-time-visitors/) if you still are not sure this fuller version is the right length
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you may still cut the stay back to the tighter default version
+- read [A Classic 5- to 7-Day Shanghai Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shanghai-itinerary-for-first-time-visitors/) if the route is no longer a 4-day stay and you want the stronger longer-city version
 - read [Best Things to Do in Shanghai for First-Time Visitors](/guides/best-things-to-do-in-shanghai-for-first-time-visitors/) if the city is chosen and you want the stronger adult shortlist behind this route
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if the hotel base still is blocking the day structure
 - read [What to Book in Advance for Shanghai: Tickets, Trains, and Reservations](/guides/what-to-book-in-advance-for-shanghai/) if the route is nearly clear and the next risk is weak booking order

@@ -197,6 +197,8 @@ The real planning implication is:
 - start earlier
 - and do not build inland Hainan around one rigid fantasy schedule
 
+If the inland answer already is `yes` and the live question has become where the rainforest branch fits inside a longer island stay, the sharper route-building page is [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/).
+
 ## The best editorial default
 
 For most first-time visitors:
@@ -217,6 +219,7 @@ That gives the island more depth without making Hainan collapse into road logist
 ## Which page to read next
 
 - read [Can You Climb Wuzhishan in Hainan, or Is It Better as a Rainforest Day?](/topics/can-you-climb-wuzhishan-in-hainan-or-is-it-better-as-a-rainforest-day/) if the inland choice is narrowing to Hainan's best-known mountain
+- read [A Better 5-to-7-Day Hainan Itinerary for First-Time Visitors](/topics/a-better-5-to-7-day-hainan-itinerary-for-first-time-visitors/) if inland Hainan is winning and you now need to slot that branch into a real 5 to 7 day island route
 - read [Sanya, Haikou, or Wanning? Choosing the Right Hainan Base](/topics/sanya-haikou-or-wanning-which-hainan-base-fits-your-trip/) if the larger island shape is still not fully stable
 - read [Cycling Around Hainan: Full Island Loop or a Shorter Coastal Slice?](/topics/cycling-around-hainan-full-loop-or-a-shorter-coastal-slice/) if Hainan is becoming more active and movement-led overall
 - read [Riyue Bay in Wanning: What a First Surf Lesson Actually Feels Like](/topics/riyue-bay-in-wanning-what-a-first-surf-lesson-actually-feels-like/) if the trip still may stay coast-first and activity-led

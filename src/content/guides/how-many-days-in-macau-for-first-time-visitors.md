@@ -176,6 +176,8 @@ Three days in Macau usually only makes sense if you deliberately want:
 - family pace
 - more entertainment, shopping, or relaxation than a standard first trip needs
 
+If that slower version still is sounding right and the live question becomes how to stretch Macau toward `5 days` or even a softer `week` without repeating the same heritage and resort logic, the stronger next page is [A Classic 5- to 7-Day Macau Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-macau-itinerary-for-first-time-visitors/).
+
 If the real question hiding inside that extra day is whether `Coloane` itself actually adds enough value, the narrower place page is [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/).
 
 This is not the default first-time answer.
@@ -229,6 +231,7 @@ That usually creates a better route than forcing too many similar city walks acr
 - read [Best Area to Stay in Macau for First-Time Visitors](/guides/where-to-stay-in-macau-for-first-time-visitors/) if the trip length is nearly decided and the hotel base is the next live question
 - read [What to Book in Advance for Macau: Hotels, Show Tickets, and Reservations](/guides/what-to-book-in-advance-for-macau/) if the trip length is nearly decided and the next live question is which parts of that version actually need to be locked early
 - read [Macau 2-Day Itinerary for First-Time Visitors](/guides/macau-2-day-itinerary/) if you already know the stay should be `2 days` and now need a route that keeps old Macau and Taipa or Cotai in balance
+- read [A Classic 5- to 7-Day Macau Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-macau-itinerary-for-first-time-visitors/) if the stay now clearly is slower than a normal short stop and you need the extra days to do different jobs
 - read [Cotai Strip in Macau: Is It Worth It for First-Time Visitors?](/places/cotai-strip/) if the extra time mainly depends on whether one polished resort-side block would genuinely improve the stay
 - read [Coloane Village in Macau: Is It Worth It for First-Time Visitors?](/places/coloane-village/) if the extra time mainly depends on whether one quieter village-and-coastal branch would genuinely improve the stay
 - read [Macau Tower: Is It Worth It for First-Time Visitors?](/places/macau-tower/) if the extra time mainly depends on whether one skyline-led landmark stop would genuinely improve the stay

@@ -200,6 +200,8 @@ It is closer to:
 
 That usually creates a better route than forcing five crowded harbor-area days.
 
+If the live question already has moved past `2, 3, 4, or 5 days?` and into `what does that longer Hong Kong actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Hong Kong Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hong-kong-itinerary-for-first-time-visitors/).
+
 If that fifth day mostly is being justified by one full family-attraction branch, the narrower decision page is [Hong Kong Disneyland: When It Deserves a Full Day on a First Trip](/places/hong-kong-disneyland/).
 
 If the extra day is not automatically a park day and the real branch choice is `Disneyland or the broader scenic-cultural Lantau version of using Day 4 or Day 5`, the sharper comparison page is [Hong Kong Disneyland or a Lantau Day: Which Gives a First Trip More Range?](/guides/hong-kong-disneyland-or-lantau-for-first-time-visitors/).
@@ -245,6 +247,7 @@ If the extra day is not automatically a park day and the real branch choice is `
 - read [How to Get Around Hong Kong for First-Time Visitors](/guides/how-to-get-around-hong-kong-for-first-time-visitors/) if the trip length is nearly decided and the next live question is whether that version of Hong Kong still moves cleanly by MTR and selective ferry use
 - read [What to Book in Advance for Hong Kong: Hotels, Disneyland, Peak Tram, and Rail Links](/guides/what-to-book-in-advance-for-hong-kong/) if the trip length is nearly decided and the next live question is how much of that version should actually be locked early
 - read [Hong Kong 3-Day Itinerary for First-Time Visitors](/guides/hong-kong-3-day-itinerary/) if you are leaning toward the default 3-day version and want the days to flow
+- read [A Classic 5- to 7-Day Hong Kong Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hong-kong-itinerary-for-first-time-visitors/) if Hong Kong already is winning enough time for a fuller harbour, district, food, and Lantau-or-family version
 - read [What to Do in Hong Kong at Night for First-Time Visitors](/guides/what-to-do-in-hong-kong-at-night/) if the stay length decision really depends on whether the route has room for both a skyline night and a more district-led evening
 - read [Star Ferry: When a Harbour Crossing Becomes Part of the Hong Kong Experience](/places/star-ferry/) if the shortest version of the trip depends on whether one useful classic crossing already solves enough of the harbour layer
 - read [Victoria Harbour at Night: Choosing the Hong Kong Skyline Plan That Fits](/places/victoria-harbour/) if the stay-length decision depends on how much skyline repetition the trip really needs

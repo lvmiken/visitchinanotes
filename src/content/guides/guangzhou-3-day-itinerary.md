@@ -46,6 +46,8 @@ This plan is best for travelers who:
 
 If you are still deciding whether Guangzhou should even be in the route, start with [Guangzhou Travel Guide for First-Time Visitors](/guides/guangzhou-first-time-guide/). If the main blocker is the hotel base, keep [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/) open too.
 
+If the city already is growing beyond a compact 3-day stop and the live question is how a longer Guangzhou version should work without becoming repetitive, keep [A Classic 5- to 7-Day Guangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guangzhou-itinerary-for-first-time-visitors/) open too.
+
 If the route role is clear but the shortlist itself still feels too broad, keep [Best Things to Do in Guangzhou for First-Time Visitors](/guides/best-things-to-do-in-guangzhou-for-first-time-visitors/) open too.
 
 If the route shape mostly works but movement between the west side, central core, and skyline side still feels too fuzzy, keep [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/) open too.
@@ -135,6 +137,8 @@ If the trip already has its easier district night and skyline night and the fina
 ## Let the city breathe
 
 Guangzhou can feel underwhelming when travelers expect every hour to revolve around one headline landmark. It usually feels more memorable when food, street life, and transit-smart movement are treated as the main structure of the stay.
+
+If the route already clearly wants more than three days and the live question is how to spend those extra days well instead of just adding more disconnected districts, the better next page is [A Classic 5- to 7-Day Guangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guangzhou-itinerary-for-first-time-visitors/).
 
 ## Common mistakes on a short Guangzhou trip
 

@@ -52,6 +52,8 @@ An overnight usually works better if:
 - you want room for both [Presidential Palace](/places/presidential-palace/) and another anchor like [Sun Yat-sen Mausoleum](/places/sun-yat-sen-mausoleum/)
 - the city is meant to be one of the route's meaningful historical stops
 
+If the overnight version already is winning so clearly that the live question now is how to stretch Nanjing into a fuller city-only 5- to 7-day stay rather than just one night after Shanghai, the next page is [A Classic 5- to 7-Day Nanjing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-nanjing-itinerary-for-first-time-visitors/).
+
 ## The hidden problem with the day-trip version
 
 When Nanjing is compressed too hard, the city often loses exactly what makes it different:
@@ -66,4 +68,5 @@ When Nanjing is compressed too hard, the city often loses exactly what makes it 
 - read [How Many Days in Nanjing for First-Time Visitors](/guides/how-many-days-in-nanjing-for-first-time-visitors/) if you still are choosing the length
 - read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if the route comparison is settled and the live question is how to keep the rail day selective
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if the fuller version is probably right
+- read [A Classic 5- to 7-Day Nanjing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-nanjing-itinerary-for-first-time-visitors/) if the trip already is outgrowing the overnight version and the real question is how to make Nanjing itself carry a longer stay
 - read [Best Area to Stay in Nanjing for First-Time Visitors](/guides/nanjing-where-to-stay/) if the overnight version is chosen

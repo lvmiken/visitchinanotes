@@ -196,6 +196,8 @@ It is usually not justified if what you really mean is:
 
 `one more day because Qingdao looked pleasant on the map`
 
+If the live question already has moved past `1, 2, 3, or 4 days?` and into `what does that longer Qingdao actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Qingdao Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-qingdao-itinerary-for-first-time-visitors/).
+
 In many first-time China routes, that fourth day is often better spent on:
 
 - a stronger second city elsewhere
@@ -244,6 +246,7 @@ In many first-time China routes, that fourth day is often better spent on:
 - read [How to Get Around Qingdao for First-Time Visitors](/guides/how-to-get-around-qingdao-for-first-time-visitors/) if the length mostly is set and the real question becomes whether the old coast, Badaguan, the eastern waterfront, and station legs can fit cleanly
 - read [What to Book in Advance for Qingdao: Hotels, Trains, and Summer Festival Plans](/guides/what-to-book-in-advance-for-qingdao/) if the length mostly is set and the next practical question is what needs booking discipline versus what can stay loose
 - read [A Practical 2-Day Qingdao Itinerary for a First Visit](/guides/qingdao-2-day-itinerary/) if `2 days` looks right and you want the cleaner execution version
+- read [A Classic 5- to 7-Day Qingdao Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-qingdao-itinerary-for-first-time-visitors/) if Qingdao already is winning enough time for a fuller coast, food, beer, and branch-day version
 - read [What to Do in Qingdao at Night for First-Time Visitors](/guides/what-to-do-in-qingdao-at-night-for-first-time-visitors/) if the extra day question mostly comes down to whether Qingdao deserves one stronger evening branch
 - read [Laoshan from Qingdao: Is It Worth a Day for First-Time Visitors?](/places/laoshan-mountain/) if the possible third day mainly exists because of the mountain branch
 - read [What to Eat in Qingdao for First-Time Visitors](/guides/what-to-eat-in-qingdao-for-first-time-visitors/) and [Where to Eat in Qingdao for First-Time Visitors](/guides/where-to-eat-in-qingdao-for-first-time-visitors/) if the city length now depends on how much you want the food side to breathe

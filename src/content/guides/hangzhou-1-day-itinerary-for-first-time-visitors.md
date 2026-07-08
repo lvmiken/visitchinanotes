@@ -51,6 +51,8 @@ If you are still deciding whether one day is enough at all, start with [How Many
 
 If the bigger decision still is whether Hangzhou should stay a day trip or become an overnight stop, keep [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) open too.
 
+If the city already is growing beyond a sharper day-trip shape and the live question is how a fuller Hangzhou version should work once the trip protects nearly a week, keep [A Classic 5- to 7-Day Hangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hangzhou-itinerary-for-first-time-visitors/) open too.
+
 If the route still is not fully sure which Hangzhou branches deserve priority before you place them into a day order, keep [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) open too.
 
 If you arrived here from the broader `things to do in Hangzhou` search, this page is the one-day answer after the shortlist is already mostly settled. The broader shortlist page above is still the better parent if you are not yet sure whether the support slot should go to Leifeng, Broken Bridge, Hefang, or a fuller overnight upgrade instead.
@@ -232,6 +234,7 @@ It lets the city win the way it usually wins: through one good lake day, one tho
 
 - read [How Many Days in Hangzhou for First-Time Visitors](/guides/how-many-days-in-hangzhou-for-first-time-visitors/) if you are still unsure whether this sharper version is enough or whether Hangzhou deserves a fuller overnight stay
 - read [A Practical 2-Day Hangzhou Itinerary for First-Time Visitors](/guides/hangzhou-2-day-itinerary-for-first-time-visitors/) if you already suspect the city deserves the fuller overnight version instead
+- read [A Classic 5- to 7-Day Hangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hangzhou-itinerary-for-first-time-visitors/) if the route already is outgrowing the day-trip version and the real question is how to make a longer Hangzhou stay feel coherent
 - read [Hangzhou as a Day Trip or Overnight Stay: Which Is Better?](/guides/hangzhou-day-trip-or-overnight/) if the bigger route still has not decided whether Hangzhou should stay a day trip
 - read [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) if the whole itinerary still depends on making the core lake block more realistic
 - read [Best Things to Do in Hangzhou for First-Time Visitors](/guides/best-things-to-do-in-hangzhou-for-first-time-visitors/) if you want the broader shortlist behind this route

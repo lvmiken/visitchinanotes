@@ -54,6 +54,8 @@ If the route shape already works but the live issue is whether `Liangjiang Airpo
 
 If the route shape already works but the live issue is what to lock early so the short stay does not lose its river day or overnight rhythm, keep [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/) open too.
 
+If the real question already is no longer whether the region deserves only `2 days` but how to shape a slower `5- to 7-day` version without giving equal weight to every small stop, keep [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/) open too.
+
 ## Day 1: Protect the real scenic answer, then let Yangshuo receive it
 
 For many first-time visitors, Day 1 should protect the region's strongest identity layer first.
@@ -104,6 +106,7 @@ That usually creates a better first memory than pretending both days should carr
 ## Which page to read next
 
 - read [Guilin or Yangshuo for the First Night: Which Base Makes the Region Easier?](/guides/guilin-or-yangshuo-for-the-first-night-which-base-makes-the-region-easier/) if the best overnight order still is unclear
+- read [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/) if the short version already looks too compressed and you want to see how the region improves when Guilin, the river, and Yangshuo each get their own job
 - read [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) if the route cannot fully protect both the icon and the softer town version
 - read [Best Things to Do in Yangshuo on a First Trip: The Shortlist That Keeps the Town Scenic, Not Scattered](/guides/best-things-to-do-in-yangshuo-for-first-time-visitors/) if Day 2 still feels too open
 - read [How to Get Around Guilin for First-Time Visitors](/guides/how-to-get-around-guilin-for-first-time-visitors/) if the route shape is right but the station, city, and transfer logic still feels fuzzy

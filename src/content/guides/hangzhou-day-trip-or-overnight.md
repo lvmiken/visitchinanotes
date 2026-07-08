@@ -54,6 +54,8 @@ If the overnight version already is winning and the live question now is which b
 
 If the overnight version already is winning and the live question now is how to use the evening instead of only where to sleep, the next page is [What to Do in Hangzhou at Night for First-Time Visitors](/guides/what-to-do-in-hangzhou-at-night-for-first-time-visitors/).
 
+If the overnight version already is winning so clearly that the live question now is how to stretch Hangzhou into a fuller city-only 5- to 7-day stay without turning back to random regional rail hops, the next page is [A Classic 5- to 7-Day Hangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-hangzhou-itinerary-for-first-time-visitors/).
+
 If the overnight version already is winning and the real tension now is rail convenience versus a proper scenic base, the next page is [Hangzhou East Station or West Lake: Where to Stay for First-Time Visitors](/guides/hangzhou-east-station-or-west-lake-where-to-stay-for-first-time-visitors/).
 
 If the overnight version already is winning and the trip is family-led, the next page is [Where to Stay in Hangzhou With Kids for First-Time Visitors](/guides/where-to-stay-in-hangzhou-with-kids/).

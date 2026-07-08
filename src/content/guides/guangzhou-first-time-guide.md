@@ -48,6 +48,7 @@ If you already know the exact decision, the narrower page is usually better:
 
 - [Best Things to Do in Guangzhou for First-Time Visitors](/guides/best-things-to-do-in-guangzhou-for-first-time-visitors/)
 - [How Many Days Do You Need in Guangzhou for a First Visit?](/guides/guangzhou-how-many-days/)
+- [A Classic 5- to 7-Day Guangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guangzhou-itinerary-for-first-time-visitors/) if the city already looks right and the real question is how to turn Guangzhou into a slower, fuller food-and-neighborhood stay
 - [Best Area to Stay in Guangzhou for First-Time Visitors](/guides/guangzhou-where-to-stay/)
 - [How to Get Around Guangzhou for First-Time Visitors](/guides/how-to-get-around-guangzhou-for-first-time-visitors/)
 - [What to Book in Advance for Guangzhou](/guides/what-to-book-in-advance-for-guangzhou/)
@@ -145,6 +146,8 @@ If the city already is confirmed and the live question becomes whether your one 
 
 If the city already is confirmed and the live question becomes how to use your one skyline-facing evening without overbuilding it, the sharper chooser page is [Canton Tower or a Pearl River Night Cruise? The Better First Skyline Night in Guangzhou](/guides/canton-tower-or-a-pearl-river-night-cruise-the-better-first-skyline-night-in-guangzhou/).
 
+If the city already is confirmed and the live question becomes how to build a fuller 5- to 7-day Guangzhou version without flattening it into random districts and errands, the better execution page is [A Classic 5- to 7-Day Guangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guangzhou-itinerary-for-first-time-visitors/).
+
 ## Common mistakes on a first Guangzhou trip
 
 - expecting the city to behave like a landmark checklist destination
@@ -168,5 +171,6 @@ If the city already is confirmed and the live question becomes how to use your o
 - read [What to Do in Guangzhou at Night for First-Time Visitors](/guides/what-to-do-in-guangzhou-at-night-for-first-time-visitors/) if the broader city decision is basically settled and the live question is how evenings should actually work
 - read [Best Bars and Modern Nightlife in Guangzhou for First-Time Visitors](/guides/best-bars-and-modern-nightlife-in-guangzhou-for-first-time-visitors/) if the evening question has narrowed from broad night planning to one drinks-first or more modern nightlife choice
 - read [A Practical 3-Day Guangzhou Itinerary for First-Time Visitors](/guides/guangzhou-3-day-itinerary/) if Guangzhou is already confirmed
+- read [A Classic 5- to 7-Day Guangzhou Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guangzhou-itinerary-for-first-time-visitors/) if Guangzhou already is confirmed and the real question is how to use a longer stay for food, west-side heritage, skyline nights, and one slower buffer day without adding filler
 - read [Hong Kong to Guangzhou by High-Speed Rail: The Easiest First Mainland Add-On?](/topics/hong-kong-to-guangzhou-by-high-speed-rail-the-easiest-first-mainland-add-on/) if Guangzhou already is winning and the remaining question is whether the West Kowloon rail handoff is the right first mainland move
 - read [Shanghai or Guangzhou: Which City Fits Your Trip Better?](/topics/shanghai-or-guangzhou/) if Guangzhou is competing with Shanghai and you want the route tradeoff spelled out more directly

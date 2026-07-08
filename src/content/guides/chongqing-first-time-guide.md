@@ -50,6 +50,7 @@ If you already know the exact decision, the narrower page is usually better:
 - [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/) if the route already includes Chongqing but the live decision is when the city will feel easiest and most rewarding
 - [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if the city is chosen but you still need a sharper shortlist before building the actual days
 - [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if the city already is chosen and the next need is a realistic default route
+- [A Classic 5- to 7-Day Chongqing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chongqing-itinerary-for-first-time-visitors/) if the city already looks right and the real question is how to turn Chongqing into a fuller, edited one-week stay without making every day stairs and transfers
 - [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the city already is chosen and the real question now is whether a fourth day should go to Wulong, Wansheng, or simply a slower city day
 - [Best Area to Stay in Chongqing for First-Time Visitors](/guides/chongqing-where-to-stay/)
 - [Jiefangbei or Nanbin Road: Where to Stay in Chongqing for First-Time Visitors](/guides/jiefangbei-or-nanbin-road-where-to-stay-for-first-time-visitors/) if the hotel choice already has narrowed to central convenience versus a calmer river-view base
@@ -94,6 +95,8 @@ Chongqing becomes much easier to enjoy when you accept that hills, stairs, and c
 Readers usually have a better trip when they stop asking Chongqing to be efficient in the same way as flatter cities and instead let the terrain shape the pace.
 
 If the city feels chosen but the live decision now is whether Chongqing should be `2 days`, `3 days`, or a slower `4 days`, the next page is [How Many Days in Chongqing for First-Time Visitors](/guides/how-many-days-in-chongqing-for-first-time-visitors/).
+
+If the city feels chosen and the live decision now is whether Chongqing deserves a fuller 5- to 7-day version with a vertical-city day, a stronger night district, and one calmer scenic or museum layer, the next page is [A Classic 5- to 7-Day Chongqing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chongqing-itinerary-for-first-time-visitors/).
 
 If the city feels chosen but the live decision now is which season will make Chongqing feel least humid, most usable, and most worth the evening effort, the next page is [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/).
 
@@ -206,6 +209,7 @@ That usually creates a better experience than trying to race across the city col
 - read [Best Time to Visit Chongqing for First-Time Visitors](/guides/best-time-to-visit-chongqing-for-first-time-visitors/) if the city is chosen but the real timing question is when night views, food evenings, and hill-heavy days will feel easiest
 - read [Best Things to Do in Chongqing for First-Time Visitors](/guides/best-things-to-do-in-chongqing-for-first-time-visitors/) if the city is chosen and you want a cleaner shortlist before you commit the skyline, food, and night layers to specific days
 - read [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/) if the city is chosen and you want the cleanest default way to place the skyline, food, and night layers into real days
+- read [A Classic 5- to 7-Day Chongqing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-chongqing-itinerary-for-first-time-visitors/) if the city is chosen and the real question is how to stretch Chongqing into a fuller skyline, food, museum, and side-branch stay without padding it with duplicate viewpoints
 - read [Best Day Trips from Chongqing for First-Time Visitors](/guides/best-day-trips-from-chongqing-for-first-time-visitors/) if the city already clearly deserves a fourth day and the real question now is whether that day should go to Wulong, Wansheng, or a slower city version instead
 - read [How to Get From Chongqing Jiangbei Airport to the City Center](/guides/chongqing-jiangbei-airport-to-city-center/) if the city is chosen and the first arrival still feels more confusing than the sightseeing itself
 - read [How to Get Around Chongqing for First-Time Visitors](/guides/how-to-get-around-chongqing-for-first-time-visitors/) if the city is chosen but the real practical concern is still whether rail, Didi, taxis, buses, and the hills will make the trip feel harder than it looks

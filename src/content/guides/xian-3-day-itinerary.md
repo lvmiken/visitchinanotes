@@ -56,6 +56,8 @@ If you still are not sure whether Xi'an itself belongs in the route, start with 
 
 If the main open question still is whether Xi'an should stay tighter, read [How Many Days in Xi'an for First-Time Visitors](/guides/how-many-days-in-xian-for-first-time-visitors/) before you commit to this fuller version.
 
+If the city already is growing beyond a compact 3-day stop and the live question is how a longer Xi'an version should work without becoming repetitive, keep [A Classic 5- to 7-Day Xi'an Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-xian-itinerary-for-first-time-visitors/) open too.
+
 ## Why the 3-day version is different
 
 The 2-day version of Xi'an is strong because it is disciplined.
@@ -279,6 +281,8 @@ Use [Xi'an 2-Day Itinerary for First-Time Visitors](/guides/xian-2-day-itinerary
 - the city only needs one excursion day and one city day
 
 Two days is still strong. Three days is simply the better version when you want Xi'an to feel fuller.
+
+If the route already clearly wants more than three days and the live question is how to spend those extra days well instead of just adding more historical names, the better next page is [A Classic 5- to 7-Day Xi'an Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-xian-itinerary-for-first-time-visitors/).
 
 ## Common mistakes on a 3-day Xi'an trip
 

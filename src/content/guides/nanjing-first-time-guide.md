@@ -61,6 +61,8 @@ If the city already is chosen and the live question is how to visit one of Nanji
 
 If the city already is chosen and the route is being built specifically as a same-day rail detour from Shanghai, go directly to [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/).
 
+If the city already is chosen and the live question is how to turn Nanjing into a fuller 5- to 7-day stay without making every day another heavy history block, go next to [A Classic 5- to 7-Day Nanjing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-nanjing-itinerary-for-first-time-visitors/).
+
 If the route still is deciding whether it wants the softer Suzhou branch or the weightier Nanjing branch after Shanghai, use [Shanghai, Suzhou, or Nanjing? How to Choose the East-China Stop Your Trip Actually Needs](/guides/shanghai-suzhou-or-nanjing-which-east-china-stop-fits-your-trip-best/).
 
 If Hangzhou still also is on the table and the broader east-China shape is not settled, use [After Shanghai, Should You Add Hangzhou, Suzhou, or Nanjing?](/guides/after-shanghai-should-you-add-hangzhou-suzhou-or-nanjing/).
@@ -131,6 +133,8 @@ Choose an `overnight` or `2-day` version if:
 If Nanjing already sounds right but the bigger east-China route may include both Suzhou and Shanghai, the sequencing page is [A 5- to 7-Day Shanghai + Suzhou + Nanjing Route That Actually Flows](/guides/a-5-to-7-day-shanghai-suzhou-and-nanjing-route-that-actually-flows/).
 
 If the route already knows it wants Nanjing specifically with Hangzhou rather than Suzhou, the sharper branch is [A 5- to 7-Day Shanghai + Hangzhou + Nanjing Route With a Better Finish](/guides/a-5-to-7-day-shanghai-hangzhou-and-nanjing-route-with-a-better-finish/).
+
+If Nanjing already is winning enough time that the real question is no longer `day trip or overnight` but how to make a longer city-only version feel coherent, the cleaner execution page is [A Classic 5- to 7-Day Nanjing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-nanjing-itinerary-for-first-time-visitors/).
 
 ## A realistic first length
 

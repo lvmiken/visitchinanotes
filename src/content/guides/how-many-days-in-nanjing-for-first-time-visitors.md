@@ -69,6 +69,8 @@ Two days usually are worth it when:
 - the route may want a deeper branch like [Ming Xiaoling Mausoleum](/places/ming-xiaoling-mausoleum/) or a lighter balancing stop like [Xuanwu Lake](/places/xuanwu-lake/)
 - you want the city to breathe
 
+If the live question already has moved past `1 day or 2 days?` and into `what does that longer Nanjing actually look like day by day?`, the cleaner execution page is [A Classic 5- to 7-Day Nanjing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-nanjing-itinerary-for-first-time-visitors/).
+
 If the length already looks right and the next issue is whether the stay now needs early train, hotel, or museum commitment, keep [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) open too.
 
 ## Which page to read next
@@ -78,4 +80,5 @@ If the length already looks right and the next issue is whether the stay now nee
 - read [Shanghai to Nanjing by Bullet Train: When a Day Trip Still Works](/guides/shanghai-to-nanjing-by-bullet-train-when-a-day-trip-still-works/) if the day-trip version already is happening and the live question is what one day can carry gracefully
 - read [What to Book in Advance for Nanjing: Hotels, Trains, and Key History Stops](/guides/what-to-book-in-advance-for-nanjing/) if the trip length is settled and the next question is how much of that stay should be locked early
 - read [A Practical 2-Day Nanjing Itinerary for First-Time Visitors](/guides/nanjing-2-day-itinerary-for-first-time-visitors/) if the fuller version is likely
+- read [A Classic 5- to 7-Day Nanjing Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-nanjing-itinerary-for-first-time-visitors/) if Nanjing already is winning enough time for a fuller history, evening, and buffer-day version
 - read [What to Do in Nanjing at Night for First-Time Visitors](/guides/what-to-do-in-nanjing-at-night-for-first-time-visitors/) if you are deciding whether the overnight version earns its place

@@ -202,6 +202,8 @@ If the softer extra layer you mean is not another street at all but one calmer `
 
 If the softer extra layer you mean is no longer inside Harbin city at all but one heavier outside-the-city winter branch, the sharper detour pages are [China's Snow Town from Harbin: Is It Worth the Long Winter Detour for First-Time Visitors?](/places/chinas-snow-town/) and [Yabuli Ski Resort from Harbin: Is It Worth It for First-Time Visitors?](/places/yabuli-ski-resort/). If the real choice already is `which detour belongs`, the comparison page is [China's Snow Town or Yabuli: Which Harbin Winter Detour Fits Better for First-Time Visitors?](/guides/snow-town-or-yabuli-which-harbin-winter-detour-fits-better/).
 
+If the shortlist already is mostly right and the live question becomes how to use a fuller `5- to 7-day` Harbin stay without turning every extra day into another cold errand, the cleaner next page is [A Classic 5- to 7-Day Harbin Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-harbin-itinerary-for-first-time-visitors/).
+
 ## Common mistakes
 
 - treating Harbin like it needs a huge attraction checklist

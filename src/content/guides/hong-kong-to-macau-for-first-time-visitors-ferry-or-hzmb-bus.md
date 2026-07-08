@@ -219,6 +219,8 @@ because the city gets a real evening and morning rather than a compressed same-d
 
 If the open question now is whether Macau should stay a day trip or become a cleaner overnight, go next to [How Many Days in Macau for First-Time Visitors](/guides/how-many-days-in-macau-for-first-time-visitors/).
 
+If the real answer already is that Macau will be a slower standalone chapter after the crossing, the stronger longer-stay follow-up is [A Classic 5- to 7-Day Macau Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-macau-itinerary-for-first-time-visitors/).
+
 ## Macau side matters too
 
 Do not choose the crossing only from the Hong Kong side.

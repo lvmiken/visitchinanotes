@@ -56,6 +56,7 @@ If the decision already has narrowed, the more focused page is usually better:
 - [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/)
 - [Guilin or Yangshuo for the First Night: Which Base Makes the Region Easier?](/guides/guilin-or-yangshuo-for-the-first-night-which-base-makes-the-region-easier/)
 - [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/)
+- [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/)
 - [How to Get Around Guilin for First-Time Visitors](/guides/how-to-get-around-guilin-for-first-time-visitors/)
 - [Guilin Liangjiang Airport to City Center or Yangshuo: Shuttle, Taxi, or First-Night Transfer?](/guides/guilin-liangjiang-airport-to-city-center-or-yangshuo/)
 - [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/)
@@ -166,6 +167,8 @@ That is usually enough for the region to feel distinct without making the wider 
 
 If the real blocker now is no longer `Is Guilin worth adding?` but `How long should this region actually get?`, the cleaner next page is [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/).
 
+If the region already is confirmed and the live question is how to turn Guilin, the Li River, and Yangshuo into one fuller `5- to 7-day` chapter without padding Guilin city, the cleaner next page is [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/).
+
 If the region already is likely and the live problem is how to move between stations, the central city, and a later `Yangshuo` handoff without blurring them together, the cleaner next page is [How to Get Around Guilin for First-Time Visitors](/guides/how-to-get-around-guilin-for-first-time-visitors/).
 
 If the region already is likely and the live problem is what actually needs locking early versus what should stay loose, the cleaner next page is [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/).
@@ -195,6 +198,7 @@ If the trip already knows it wants one fuller mountain-terrace branch rather tha
 - read [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) if Guilin already is happening and you want the clearest first-time shortlist
 - read [Where to Stay in Guilin on a First Trip: Central Convenience or a Faster Scenic Handoff?](/guides/guilin-where-to-stay/) if the remaining question is the best base for the region
 - read [How Long Should You Stay in Guilin on a First Trip?](/guides/how-many-days-in-guilin-for-first-time-visitors/) if the region is likely and the next live question is whether it deserves 1, 2, or 3 days
+- read [A Classic 5- to 7-Day Guilin and Yangshuo Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-guilin-and-yangshuo-itinerary-for-first-time-visitors/) if the region is likely and the live question is how to use a fuller scenic week without giving Guilin city too much filler weight
 - read [How to Get Around Guilin for First-Time Visitors](/guides/how-to-get-around-guilin-for-first-time-visitors/) if the region is likely and the next live question is how Guilin city movement and Yangshuo transfer logic should actually work
 - read [Guilin Liangjiang Airport to City Center or Yangshuo: Shuttle, Taxi, or First-Night Transfer?](/guides/guilin-liangjiang-airport-to-city-center-or-yangshuo/) if the region is likely and the next live question is how airport arrival should hand off into Guilin or Yangshuo on night one
 - read [What to Book in Advance for Guilin: Hotels, Trains, River Days, and Yangshuo Nights](/guides/what-to-book-in-advance-for-guilin/) if the region is likely and the next live question is which parts of Guilin, the Li River, and Yangshuo actually deserve early booking

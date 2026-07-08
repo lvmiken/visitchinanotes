@@ -189,6 +189,8 @@ It is:
 
 That usually creates a better East China rhythm than forcing five dense Shanghai-only days.
 
+If you already know Shanghai itself should hold five days or more and the real next step is a proper longer city plan, go straight to [A Classic 5- to 7-Day Shanghai Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shanghai-itinerary-for-first-time-visitors/).
+
 ## Which length fits which traveler best
 
 ## Choose 2 days if
@@ -227,6 +229,7 @@ That usually creates a better East China rhythm than forcing five dense Shanghai
 - read [Shanghai Travel Guide for First-Time Visitors](/guides/shanghai-first-time-guide/) if Shanghai still is being ranked against other route options
 - read [Shanghai 3-Day Itinerary for First-Time Visitors](/guides/shanghai-3-day-itinerary/) if you are leaning toward the sweet-spot default version
 - read [Shanghai 4-Day Itinerary for First-Time Visitors](/guides/shanghai-4-day-itinerary-for-first-time-visitors/) if you already know the stay should be fuller and you want the cleaner city-first structure
+- read [A Classic 5- to 7-Day Shanghai Itinerary for First-Time Visitors](/guides/a-classic-5-to-7-day-shanghai-itinerary-for-first-time-visitors/) if the city already deserves a deeper longer-stay version before you add another city
 - read [Best Area to Stay in Shanghai for First-Time Visitors](/guides/shanghai-where-to-stay/) if trip length is nearly decided and hotel base is the next live question
 - read [How to Get From Shanghai Pudong Airport to the City Center](/guides/shanghai-pudong-airport-to-city-center/) or [How to Get From Shanghai Hongqiao Airport to the City Center](/guides/shanghai-hongqiao-airport-to-city-center/) if arrival logistics may change whether a shorter stay still feels worthwhile
 - read [Shanghai and Hangzhou: Day Trip or Overnight Split?](/guides/shanghai-hangzhou-day-trip-or-overnight/) if the extra day is mainly being justified by an East China extension
