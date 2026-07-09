@@ -1,5 +1,8 @@
 {
+  "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "visitchinanotes",
   "compatibility_date": "2026-07-09",
-  "pages_build_output_dir": "./dist"
+  "assets": {
+    "directory": "./dist"
+  }
 }
