@@ -3,6 +3,7 @@ title: "Where to Eat Dinner After the Forbidden City in Beijing"
 description: "Choose where to eat dinner after the Forbidden City, whether Qianmen, Wangfujing, Siji Minfu, or Sanlitun fits best, and learn when an old-core night is better than just keeping dinner simple."
 publishDate: 2026-06-23
 updatedDate: 2026-06-23
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 dinner"
@@ -23,7 +24,7 @@ tags:
   - "Food"
   - "Forbidden City"
   - "Dinner"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat dinner after the Forbidden City?"
     answer: "For many first-time visitors, Qianmen is the best dinner area if the evening should feel historic, Wangfujing is the easiest if the group wants a simple central finish, and Siji Minfu is one of the clearest answers if the duck dinner itself is one of the day's main goals."

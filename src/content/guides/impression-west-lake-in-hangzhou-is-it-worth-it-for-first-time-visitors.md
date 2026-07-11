@@ -23,7 +23,7 @@ tags:
   - "Impression West Lake"
   - "Night"
   - "West Lake"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Impression West Lake worth it for first-time visitors?"
     answer: "Usually yes if Hangzhou has enough room for one event-style evening and the trip wants something more formal than a lakeside walk. It is usually less important on a very short first trip where West Lake itself still needs the stronger time block."

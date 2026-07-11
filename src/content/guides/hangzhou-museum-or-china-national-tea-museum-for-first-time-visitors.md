@@ -28,7 +28,7 @@ tags:
   - "Hangzhou"
   - "Museums"
   - "Tea"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Hangzhou Museum or China National Tea Museum?"
     answer: "For many first-time visitors, Hangzhou Museum is the better default if you want one easy central museum block, while China National Tea Museum is better when tea culture itself is a real priority."

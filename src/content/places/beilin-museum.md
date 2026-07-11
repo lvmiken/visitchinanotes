@@ -34,7 +34,7 @@ tags:
   - "Xi'an"
   - "Beilin Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Beilin Museum worth visiting on a first trip to Xi'an?"
     answer: "Sometimes yes, especially if calligraphy, inscriptions, and carved stone history genuinely interest you. For many first-time visitors it is more of a specialist add-on than a default priority."

@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Night"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families do in Xi'an at night?"
     answer: "For many first-time families, the strongest Xi'an night choices are one Bell Tower or South Gate dinner-and-walk evening, one selective Muslim Quarter food block, and on a fuller trip one pagoda-side or Tang Paradise night."

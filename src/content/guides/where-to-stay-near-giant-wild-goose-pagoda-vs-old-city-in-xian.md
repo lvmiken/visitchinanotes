@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Neighborhoods"
   - "Giant Wild Goose Pagoda"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors stay near Giant Wild Goose Pagoda in Xi'an?"
     answer: "Usually only if the trip already has enough time for a fuller third day, museum time, or a real preference for a more modern district feel. On a shorter first trip, the old city is often easier overall."

@@ -11,24 +11,91 @@ const groupedCities = destinationGroups
     cities: cities.filter((city) => city.data.homepageGroups.includes(group.id)),
   }))
   .filter((group) => group.cities.length > 0);
+
+const starterCitySlugs = ["beijing", "shanghai", "xian"];
+const starterCities = starterCitySlugs.flatMap((citySlug) => cities.filter((city) => city.id === citySlug).slice(0, 1));
+const firstTimeCitiesCount = groupedCities.find((group) => group.id === "first-time-essentials")?.cities.length ?? 0;
 ---
 
 <BaseLayout
   title="China Destinations for First-Time Visitors | City Guides"
   description="Compare China's main destinations by trip style, with city hubs, where to stay guides, and practical planning pages for first-time visitors."
+  showAds={false}
 >
-  <section class="hero article">
-    <p class="eyebrow">Destination Index</p>
-    <h1>Choose the kind of trip you want first, then pick the city that fits it best.</h1>
-    <p>
-      Some travelers want an easy first stop, some want a deeper inland route, and others want a scenic break from big
-      cities. Start with the trip shape that feels right, then compare destinations within that group.
-    </p>
+  <section class="split-hero">
+    <div class="hero article">
+      <p class="eyebrow">Destination Index</p>
+      <h1>Choose the kind of trip you want first, then pick the city that fits it best.</h1>
+      <p>
+        Some travelers want an easy first stop, some want a deeper inland route, and others want a scenic break from
+        big cities. Start with the trip shape that feels right, then compare destinations within that group.
+      </p>
+      <div class="button-row">
+        <a class="button-link primary" href="#starter-cities">Start with the strongest city hubs</a>
+        <a class="button-link secondary" href="/guides/">Browse planning guides</a>
+      </div>
+    </div>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">Editorial Grouping</p>
+        <h3>These destination clusters are grouped by route fit, not by popularity alone.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>Start with the easiest first-trip cities if you still need a dependable anchor stop.</li>
+        <li>Use add-on and inland groups once you already know the trip needs a second contrast city.</li>
+        <li>Use scenic destinations when you want to slow the route down instead of stacking more urban stops.</li>
+      </ul>
+    </aside>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">At A Glance</p>
+    <h2 class="section-title">The destination desk is strongest when it helps narrow trip shape before the itinerary becomes too detailed.</h2>
+    <div class="stat-grid">
+      <div>
+        <strong>{cities.length}</strong>
+        <span class="muted">city hubs</span>
+      </div>
+      <div>
+        <strong>{groupedCities.length}</strong>
+        <span class="muted">route groups</span>
+      </div>
+      <div>
+        <strong>{firstTimeCitiesCount}</strong>
+        <span class="muted">easy first-trip cities</span>
+      </div>
+    </div>
+  </section>
+
+  {starterCities.length > 0 && (
+    <section class="section-block" id="starter-cities">
+      <p class="eyebrow">Starter Cities</p>
+      <h2 class="section-title">These are the clearest editorial entry points if you want the fullest supporting guide coverage.</h2>
+      <div class="grid three">
+        {starterCities.map((city) => <CityCard city={city} />)}
+      </div>
+    </section>
+  )}
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Trip Shapes</p>
+    <h2 class="section-title">Choose the group that matches how you want the route to feel.</h2>
+    <div class="feature-grid">
+      {groupedCities.map((group) => (
+        <article class="card-surface">
+          <p class="eyebrow">{group.cities.length} city hubs</p>
+          <h3>{group.title}</h3>
+          <p class="muted">{group.description}</p>
+          <a href={`#${group.id}`}>Jump to this group</a>
+        </article>
+      ))}
+    </div>
   </section>
 
   <section class="section-block stack">
     {groupedCities.map((group) => (
-      <section class="card-surface">
+      <section class="card-surface" id={group.id}>
         <h2 class="section-title">{group.title}</h2>
         <p class="muted">{group.description}</p>
         <div class="grid three">

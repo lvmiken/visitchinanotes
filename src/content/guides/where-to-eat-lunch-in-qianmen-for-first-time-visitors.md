@@ -3,6 +3,7 @@ title: "Where to Eat Lunch in Qianmen for First-Time Visitors"
 description: "Decide where to eat lunch in Qianmen, when Du Yi Chu beats a duck lunch, when zhajiangmian is the smarter midday choice, and when Xianyukou works better than a full sit-down meal."
 publishDate: 2026-06-23
 updatedDate: 2026-06-23
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 lunch"
@@ -23,7 +24,7 @@ tags:
   - "Food"
   - "Qianmen"
   - "Lunch"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat lunch in Qianmen?"
     answer: "For many first-time visitors, the strongest Qianmen lunch is Du Yi Chu for a time-honored sit-down meal, No. 69 Fangzhuanchang Zhajiangmian for a quicker local noodle lunch, or Xianyukou for a lighter snack-and-tasting style midday stop."

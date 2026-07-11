@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Night"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors eat late at night in Chongqing?"
     answer: "For many first-time visitors, the easiest late-night food choice is Jiefangbei or nearby Jiaochangkou because they already fit a central evening. Guanyinqiao is stronger if dinner naturally continues later, while 9th Street only makes sense if the night is intentionally nightlife-led."

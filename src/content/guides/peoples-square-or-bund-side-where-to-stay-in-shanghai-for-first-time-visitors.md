@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "People's Square"
   - "The Bund"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay near People's Square or the Bund in Shanghai?"
     answer: "Many first-time visitors do better near People's Square if they want the easiest central base, while the Bund side is often better for travelers who want skyline access and one classic riverfront evening close to the hotel."

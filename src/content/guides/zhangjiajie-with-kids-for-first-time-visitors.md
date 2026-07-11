@@ -24,7 +24,7 @@ tags:
   - "Zhangjiajie"
   - "Family travel"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Zhangjiajie a good destination with kids?"
     answer: "Often yes for families who like scenery and can pace the trip around one real mountain anchor per day. It works less well when the route depends on strollers, many same-day transfers, or a dense adult-style checklist."

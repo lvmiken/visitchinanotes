@@ -30,7 +30,7 @@ heroImageAlt: "Night skyline of Hong Kong around Victoria Harbour."
 heroImageAttributionName: "Benh LIEU SONG (Flickr)"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is 5 days enough for Hong Kong?"
     answer: "Yes. Five days is enough for a rich first Hong Kong trip if you protect one harbour and skyline day, one Hong Kong Island day, one Kowloon food-and-market day, and one extra Lantau, Disneyland, or slower district branch."

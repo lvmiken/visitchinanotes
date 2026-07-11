@@ -22,7 +22,7 @@ tags:
   - "Food"
   - "Shantang Street"
   - "Night"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shantang Street a good place for dinner in Suzhou?"
     answer: "Usually yes if you want one brighter, more obvious canal-side evening. It is often better as a simple dinner-and-walk block than as the city's most serious food destination."

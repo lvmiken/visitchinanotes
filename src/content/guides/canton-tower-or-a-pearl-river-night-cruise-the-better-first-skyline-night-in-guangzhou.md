@@ -24,7 +24,7 @@ tags:
   - "Canton Tower"
   - "Pearl River"
   - "Night planning"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Should first-time visitors choose Canton Tower or a Pearl River night cruise?"
     answer: "For many first-time visitors, Canton Tower is the better choice if the skyline night should stay flexible and easier to manage, while the Pearl River night cruise is better if the evening itself should feel like the main event."

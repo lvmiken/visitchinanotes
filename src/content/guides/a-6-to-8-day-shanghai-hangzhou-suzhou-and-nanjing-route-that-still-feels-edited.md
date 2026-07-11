@@ -23,7 +23,7 @@ tags:
   - "Suzhou"
   - "Nanjing"
   - "Itinerary"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is 6 days enough for Shanghai, Hangzhou, Suzhou, and Nanjing?"
     answer: "It is enough only for a selective version. Most first-time visitors will find seven or eight days more rewarding because each stop can then keep its own rhythm."

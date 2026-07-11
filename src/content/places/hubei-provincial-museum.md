@@ -31,7 +31,7 @@ tags:
   - "Hubei Provincial Museum"
   - "Museums"
   - "Wuchang"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Hubei Provincial Museum worth visiting on a first Wuhan trip?"
     answer: "Usually yes if the trip gets enough time for one serious indoor cultural layer and you want stronger Chu-culture context. It is less essential on the shortest Wuhan stop, where breakfast, one coherent city side, and one good evening usually matter more."

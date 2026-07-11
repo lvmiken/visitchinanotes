@@ -19,7 +19,7 @@ tags:
   - "Nanjing"
   - "Museums"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Nanjing Museum or Presidential Palace?"
     answer: "For many first-time visitors, Presidential Palace is the stronger default because it offers a clearer site-led historical story. Nanjing Museum is better when the day needs a broader indoor overview or when museum-style learning suits the group more naturally."

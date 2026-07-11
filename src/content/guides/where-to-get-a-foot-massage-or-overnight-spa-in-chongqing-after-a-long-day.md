@@ -3,6 +3,7 @@ title: "Where to Get a Foot Massage or Overnight Spa in Chongqing After a Long D
 description: "Use this Chongqing foot-massage and spa guide to decide when a late-night massage, overnight spa, hotpot foot bath, or skyline-view treatment actually improves the trip, and when it is smarter than forcing one more district."
 publishDate: 2026-07-02
 updatedDate: 2026-07-02
+noindex: true
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "90 minutes to overnight"
@@ -23,7 +24,7 @@ tags:
   - "Massage"
   - "Spa"
   - "Night"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is foot massage worth doing in Chongqing?"
     answer: "For many first-time visitors, yes, especially after a stair-heavy or skyline-heavy day. In Chongqing, massage often works as recovery and entertainment together rather than as a tiny add-on service."

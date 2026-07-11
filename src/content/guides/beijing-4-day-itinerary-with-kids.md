@@ -24,7 +24,7 @@ tags:
   - "Beijing"
   - "4 days"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is 4 days enough for Beijing with kids?"
     answer: "Usually yes. Four days is often the strongest family version because it leaves room for one central landmark day, one full Great Wall day, one slower scenic day, and one more flexible indoor or food-led layer."

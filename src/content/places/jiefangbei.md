@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Jiefangbei"
   - "Night views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Jiefangbei worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes. Jiefangbei is one of the easiest ways to make Chongqing feel usable because it combines central location, food, hotel convenience, and access to the city's best-known skyline-core evening."

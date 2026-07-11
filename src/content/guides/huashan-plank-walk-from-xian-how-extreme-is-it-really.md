@@ -23,7 +23,7 @@ tags:
   - "Huashan"
   - "Day trip"
   - "Plank walk"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Huashan plank walk worth it from Xi'an?"
     answer: "Only for a narrow type of traveler. Most first-time visitors should decide whether Mount Huashan itself is worth a full day before assuming the plank walk is the reason to go."

@@ -19,7 +19,7 @@ tags:
   - "Chengdu"
   - "Visa-free transit"
   - "Trip planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Chengdu worth using for a 240-hour transit stop?"
     answer: "Yes for many travelers, especially if the stop is really about pandas, food, and one slower Chengdu rhythm rather than trying to turn the city into a huge sightseeing checklist."

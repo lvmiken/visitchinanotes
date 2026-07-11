@@ -2,11 +2,13 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import GuideCard from "../../components/GuideCard.astro";
+import CityCard from "../../components/CityCard.astro";
 import { guideStages } from "../../lib/guideStages";
 
 const guides = (await getCollection("guides", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
 );
+const allCities = await getCollection("cities");
 
 const groupedGuides = guideStages
   .map((stage) => ({
@@ -14,24 +16,72 @@ const groupedGuides = guideStages
     guides: guides.filter((guide) => guide.data.guideStage === stage.id),
   }))
   .filter((group) => group.guides.length > 0);
+
+const starterCitySlugs = ["beijing", "shanghai", "xian"];
+const starterCities = starterCitySlugs.flatMap((citySlug) => allCities.filter((city) => city.id === citySlug).slice(0, 1));
 ---
 
 <BaseLayout
   title="China Travel Guides for First-Time Visitors | Itineraries, Where to Stay, Airports, and Tips"
   description="Browse China travel guides on where to stay, how many days to plan, airport transfers, trains, payments, and city itineraries for first-time visitors."
+  showAds={false}
 >
-  <section class="hero article">
-    <p class="eyebrow">Guide Index</p>
-    <h1>Use these guides when you are choosing where to stay, how long to go, and what to prioritize.</h1>
-    <p>
-      Browse destination guides, itinerary ideas, and practical planning articles that help turn general interest into
-      a workable route.
-    </p>
+  <section class="split-hero">
+    <div class="hero article">
+      <p class="eyebrow">Guide Index</p>
+      <h1>Use these guides when you are choosing where to stay, how long to go, and what to prioritize.</h1>
+      <p>
+        Browse destination guides, itinerary ideas, and practical planning articles that help turn general interest
+        into a workable route.
+      </p>
+      <div class="button-row">
+        <a class="button-link primary" href="#guide-tracks">See the guide tracks</a>
+        <a class="button-link secondary" href="/destinations/">Compare destinations first</a>
+      </div>
+    </div>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">How Editors Use This Section</p>
+        <h3>These guides are organized by planning stage, not by pure chronology.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>Use destination-choice guides before you commit the trip to one city or route shape.</li>
+        <li>Move to stay and itinerary guides once the city is chosen and you need a workable base.</li>
+        <li>Save logistics guides for airport transfers, trains, booking order, and arrival-day details.</li>
+      </ul>
+    </aside>
+  </section>
+
+  {starterCities.length > 0 && (
+    <section class="section-block">
+      <p class="eyebrow">Best Starting Cities</p>
+      <h2 class="section-title">These city desks currently give the clearest sample of how the guide system fits together.</h2>
+      <div class="grid three">
+        {starterCities.map((city) => <CityCard city={city} />)}
+      </div>
+    </section>
+  )}
+
+  <section class="section-block card-surface" id="guide-tracks">
+    <p class="eyebrow">Guide Tracks</p>
+    <h2 class="section-title">Use the stage that matches the decision you are making right now.</h2>
+    <div class="feature-grid">
+      {groupedGuides.map((group) => (
+        <article class="card-surface">
+          <p class="eyebrow">{group.guides.length} guides</p>
+          <h3>{group.label}</h3>
+          <p class="muted">{group.description}</p>
+          {group.guides[0] && <p class="muted">Recent desk update: {group.guides[0].data.title}</p>}
+          <a href={`#${group.id}`}>Jump to this stage</a>
+        </article>
+      ))}
+    </div>
   </section>
 
   <section class="section-block stack">
     {groupedGuides.map((group) => (
-      <section class="card-surface">
+      <section class="card-surface" id={group.id}>
         <h2 class="section-title">{group.label}</h2>
         <p class="muted">{group.description}</p>
         <div class="grid two">

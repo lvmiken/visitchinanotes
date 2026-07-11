@@ -23,7 +23,7 @@ tags:
   - "Bund"
   - "Night views"
   - "Photo spots"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What time do the Bund lights come on in Shanghai?"
     answer: "Treat the useful answer as dusk into full dark rather than one fixed showtime. For most first-time visitors, the best payoff comes from arriving before the skyline fully switches on, then staying through the brighter night view."

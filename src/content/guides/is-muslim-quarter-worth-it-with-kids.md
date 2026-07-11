@@ -23,7 +23,7 @@ tags:
   - "Family travel"
   - "Muslim Quarter"
   - "Food"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is the Muslim Quarter good with kids in Xi'an?"
     answer: "Often yes once, especially if the children still have crowd energy and the family treats it as one selective snack-and-walk block. It is usually less useful when the family really needs one calm dinner and easier bedtime."

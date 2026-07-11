@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Hotpot"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should tourists eat hot pot in Chongqing?"
     answer: "For many first-time visitors, Xiao Tian'e is the easiest introduction, Yuwei Xiaoyu or Yefu are stronger if you want a more old-school Yuzhong experience, and Pipayuan or another Nanshan hot pot street stop is better if the dinner itself should be scenic and memorable."

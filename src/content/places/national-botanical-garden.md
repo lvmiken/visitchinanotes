@@ -33,7 +33,7 @@ tags:
   - "Beijing"
   - "National Botanical Garden"
   - "Nature"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the National Botanical Garden worth visiting on a first Beijing trip?"
     answer: "Often yes for slower travelers and families who want a greener day, but it is usually a supporting scenic choice rather than a core first-time Beijing priority."

@@ -3,6 +3,7 @@ title: "Where to Eat Breakfast in Qianmen for First-Time Visitors"
 description: "Decide where to eat breakfast in Qianmen, whether douzhi and jiaoquan are worth trying, and when a Qianmen morning works better than just using hotel breakfast."
 publishDate: 2026-06-23
 updatedDate: 2026-06-23
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 breakfast"
@@ -23,7 +24,7 @@ tags:
   - "Food"
   - "Qianmen"
   - "Breakfast"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat breakfast in Qianmen?"
     answer: "For many first-time visitors, the best Qianmen breakfast is either a simpler old-core local start or one deliberate douzhi-and-jiaoquan try if you actively want a traditional Beijing breakfast experience. It works best on a slower old-city morning rather than before a tightly timed ticketed sight."

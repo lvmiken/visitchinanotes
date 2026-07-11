@@ -22,7 +22,7 @@ tags:
   - "First night"
   - "Two Rivers and Four Lakes"
   - "Zhengyang Walking Street"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Should first-time visitors do Two Rivers and Four Lakes or Zhengyang Walking Street on the first night in Guilin?"
     answer: "For many first-time visitors, Zhengyang Walking Street is the easier first-night answer after travel, while Two Rivers and Four Lakes works better when the evening still has enough energy and should feel like a more polished city memory."

@@ -24,7 +24,7 @@ tags:
   - "Qingdao Jiaodong International Airport"
   - "Airport transfer"
   - "Coastal city"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Qingdao airport to the city center?"
     answer: "For many first-time visitors, Metro Line 8 is the cleanest public-transport answer when you travel light and do not mind a transfer at Qingdao North, while taxi or Didi is easier for late arrivals, heavy luggage, or hotel bases that would still need a clumsy final leg after the metro."

@@ -29,7 +29,7 @@ heroImageLicense: "CC BY 2.0"
 tags:
   - "Suzhou"
   - "Garden"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Master of the Nets Garden worth visiting in Suzhou?"
     answer: "Often yes, especially if you already know you enjoy classical gardens or if Suzhou has more than the shortest possible first-time stay. It is usually not the first garden most visitors should protect."

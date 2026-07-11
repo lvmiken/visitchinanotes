@@ -2,8 +2,9 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import PlanningHelpCallout from "../../components/PlanningHelpCallout.astro";
 import PlanningRequestForm from "../../components/PlanningRequestForm.astro";
+import { defaultContactEmail } from "../../lib/site";
 
-const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL || defaultContactEmail;
 
 const helpAreas = [
   {
@@ -47,6 +48,7 @@ const partnerSteps = [
   title="Plan Help | Route Checks And Travel Partner Introductions"
   description="Get a calmer route check, hotel-area advice, or a partner introduction for a first trip to China."
   noindex={true}
+  showAds={false}
 >
   <section class="split-hero">
     <div class="hero article">

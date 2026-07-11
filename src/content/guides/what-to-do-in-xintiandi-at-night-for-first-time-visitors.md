@@ -3,6 +3,7 @@ title: "What to Do in Xintiandi at Night for First-Time Visitors"
 description: "Use this Xintiandi night guide to decide whether your evening should be dinner, cocktails, a shorter stroll, or a polished final-night plan, and learn when Xintiandi is better than the Bund, Fumin Road, or Jing'an."
 publishDate: 2026-06-23
 updatedDate: 2026-07-05
+noindex: true
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -22,7 +23,7 @@ tags:
   - "Shanghai"
   - "Night"
   - "Xintiandi"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Xintiandi worth visiting at night on a first Shanghai trip?"
     answer: "Usually yes if you want one polished, low-friction evening with dinner, drinks, and easy walking. It is often stronger than another random central night, but it is usually weaker than the Bund if the trip still needs its clearest skyline payoff."

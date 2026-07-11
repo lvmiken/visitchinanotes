@@ -23,7 +23,7 @@ tags:
   - "Suzhou"
   - "Nanjing"
   - "East China"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best city to add after Shanghai: Hangzhou, Suzhou, or Nanjing?"
     answer: "Usually Hangzhou for scenic calm, Suzhou for refined classical texture, or Nanjing for history and a fuller second-city feeling. The best choice depends on what Shanghai is not already giving you."

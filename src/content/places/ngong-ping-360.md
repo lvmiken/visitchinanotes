@@ -34,7 +34,7 @@ tags:
   - "Hong Kong"
   - "Ngong Ping 360"
   - "Lantau"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Ngong Ping 360 worth it on a first Hong Kong trip?"
     answer: "Often yes if you already want a Lantau branch and care about the scenic approach. On short city-first trips, it is usually more optional."

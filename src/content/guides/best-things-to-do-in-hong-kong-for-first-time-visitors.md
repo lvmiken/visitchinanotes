@@ -23,7 +23,7 @@ tags:
   - "Hong Kong"
   - "Things to do"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What are the best things to do in Hong Kong for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are protect one Victoria Harbour and Tsim Sha Tsui block, add Victoria Peak as the strongest skyline viewpoint, give Hong Kong Island one real neighborhood day, and use Lantau, Disneyland, Temple Street, or another district branch only if the trip genuinely has room."

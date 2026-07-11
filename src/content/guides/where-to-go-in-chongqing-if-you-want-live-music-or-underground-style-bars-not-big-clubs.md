@@ -28,7 +28,7 @@ tags:
   - "Nightlife"
   - "Live music"
   - "Bars"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors go in Chongqing if they want live music instead of big clubs?"
     answer: "For many first-time visitors, the better answer is a smaller music-first room or livehouse orbit near the broader Guanyinqiao side rather than treating 9th Street as the default answer to every night out."

@@ -24,7 +24,7 @@ tags:
   - "Yangshuo"
   - "Guilin Liangjiang International Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Guilin airport to the city center?"
     answer: "For many first-time visitors staying in central Guilin, the airport shuttle into the city is the cleanest public-transport answer, while taxi or Didi is easier for late arrivals, heavy luggage, or a hotel that would still need a clumsy final leg after the shuttle."

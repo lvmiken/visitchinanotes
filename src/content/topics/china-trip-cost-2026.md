@@ -32,7 +32,7 @@ tags:
   - "Trip planning"
   - "Budget"
   - "China travel basics"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is China expensive for tourists in 2026?"
     answer: "It depends on route shape and hotel standard. China can be reasonably good value on the ground, but central hotels in major cities and repeated intercity moves can push costs up quickly."

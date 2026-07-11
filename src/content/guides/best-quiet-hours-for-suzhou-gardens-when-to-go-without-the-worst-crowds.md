@@ -22,7 +22,7 @@ tags:
   - "Gardens"
   - "Crowds"
   - "Timing"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best time to visit Suzhou gardens without the biggest crowds?"
     answer: "For many first-time visitors, the best strategy is the first entry window of the day, especially for Humble Administrator's Garden. Late afternoon can also be calmer, but it is usually weaker if the garden is the day's main anchor."

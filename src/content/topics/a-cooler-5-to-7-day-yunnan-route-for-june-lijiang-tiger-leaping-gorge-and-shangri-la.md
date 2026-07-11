@@ -24,7 +24,7 @@ tags:
   - "Itinerary"
   - "June travel"
   - "Highlands"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "How many days do you need for Lijiang, Tiger Leaping Gorge, and Shangri-La?"
     answer: "For many first-time visitors, five days is the tighter useful version, while six or seven days gives the route much better breathing room."

@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What food should first-time visitors try in Shanghai?"
     answer: "Many first-time visitors do best with one xiaolongbao meal, one shengjian or noodle stop, and one proper Shanghainese dinner instead of trying to turn every meal into a dumpling mission."

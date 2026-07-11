@@ -18,7 +18,7 @@ relatedTopicSlugs:
 tags:
   - "Nanjing"
   - "Itinerary"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is a good 2-day itinerary for Nanjing?"
     answer: "Many first-time visitors do best with one central history day plus Qinhuai evening, then a second day built around one broader landmark like Sun Yat-sen Mausoleum or the City Wall."

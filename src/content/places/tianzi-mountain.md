@@ -32,7 +32,7 @@ tags:
   - "Zhangjiajie"
   - "Tianzi Mountain"
   - "Nature"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Tianzi Mountain worth visiting in Zhangjiajie?"
     answer: "Usually yes if your forest-park plan wants one broader peak-forest branch or a fuller second scenic area beyond just one iconic stop. It is usually less essential than Yuanjiajie if the trip still lacks its clearest classic pillar answer."

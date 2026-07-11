@@ -33,7 +33,7 @@ tags:
   - "Guilin"
   - "Elephant Trunk Hill"
   - "City landmark"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Elephant Trunk Hill worth visiting in Guilin?"
     answer: "Usually yes, but mostly as a short city symbol rather than a major scenic block. It is often best when it gives Guilin one recognizable image without taking time from the Li River or Yangshuo."

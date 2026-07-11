@@ -23,7 +23,7 @@ tags:
   - "Wuhan"
   - "Reservations"
   - "Planning"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Wuhan?"
     answer: "For many first-time visitors, the most important Wuhan advance items are the hotel during busy dates, onward train tickets if the route is fixed, and only those attractions or night products that are true anchors of the stay."

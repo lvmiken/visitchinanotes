@@ -32,7 +32,7 @@ tags:
   - "Causeway Bay"
   - "Neighborhoods"
   - "Shopping"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Causeway Bay worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially if the trip wants one denser Hong Kong Island evening, more shopping-led city energy, or a broader urban contrast after the main skyline layer is already protected."

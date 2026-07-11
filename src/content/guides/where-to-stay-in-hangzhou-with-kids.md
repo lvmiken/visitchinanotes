@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Hotels"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best area to stay in Hangzhou with kids?"
     answer: "For many first-time families, the best area is the east side of West Lake around Hubin because it keeps West Lake, easier meals, and softer evening returns close without making the stay as awkward as a deeper scenic-side hotel can be."

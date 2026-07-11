@@ -28,7 +28,7 @@ tags:
   - "Night"
   - "Bars"
   - "Nanbin Road"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Ziwei Road or Nanbin Road better for a calmer Chongqing night?"
     answer: "For many first-time visitors, Ziwei Road is better for conversation and a neighborhood bar-street mood, while Nanbin Road is better for skyline atmosphere, river air, and a slower scenic evening."

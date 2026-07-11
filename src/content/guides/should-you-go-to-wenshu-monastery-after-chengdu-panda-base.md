@@ -29,7 +29,7 @@ tags:
   - "Wenshu Monastery"
   - "Panda base"
   - "Tea"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors go to Wenshu Monastery after Chengdu Panda Base?"
     answer: "Often yes, if the group wants a quieter temple-and-tea block after lunch and still has enough energy for one softer second act. It is often weaker when the panda morning already felt long and the smarter answer is just one easy central meal and a simple evening."

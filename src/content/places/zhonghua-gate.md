@@ -29,7 +29,7 @@ heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "City gate"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Zhonghua Gate worth visiting in Nanjing?"
     answer: "Usually yes if you want one more physical old-capital layer near Laomendong or the Qinhuai side. It is often a supporting historical stop rather than a top-two city anchor."

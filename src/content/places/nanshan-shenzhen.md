@@ -32,7 +32,7 @@ tags:
   - "Nanshan"
   - "Neighborhoods"
   - "West side"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Nanshan worth visiting on a first trip to Shenzhen?"
     answer: "For many first-time visitors, yes. Nanshan is often the district that makes Shenzhen feel more enjoyable, stylish, and complete because it combines polished skyline zones, calmer waterfront evenings, creative districts, and one softer old-meets-new layer."

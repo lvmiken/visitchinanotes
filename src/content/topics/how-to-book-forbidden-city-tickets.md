@@ -24,7 +24,7 @@ tags:
   - "Forbidden City"
   - "Beijing"
   - "Reservations"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can foreigners book Forbidden City tickets with a passport?"
     answer: "Yes. The Palace Museum's official ticketing rules say non-Mainland visitors can use a passport for reservation and admission."

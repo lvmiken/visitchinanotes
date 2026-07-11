@@ -24,7 +24,7 @@ tags:
   - "Lion Grove Garden"
   - "Pingjiang Road"
   - "Half day"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Can you do Suzhou Museum, Lion Grove Garden, and Pingjiang Road in one day?"
     answer: "Sometimes, but only if the day stays controlled. For many first-time visitors, Suzhou Museum plus Pingjiang Road is already enough, and Lion Grove works best only as a nearby add-on when energy and time still feel honest."

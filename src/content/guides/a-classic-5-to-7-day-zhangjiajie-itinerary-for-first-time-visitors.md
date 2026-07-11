@@ -30,7 +30,7 @@ heroImageAlt: "Towering sandstone pillars in Yuanjiajie under bright skies and d
 heroImageAttributionName: "Rocio Gil"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Stunning_rock_formations_in_Bailong_(%E7%99%BD%E9%BE%99%EF%BC%89Yuanjiajie_%EF%BC%88%E8%A2%81%E5%AE%B6%E7%95%8C%EF%BC%89scenic_area.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is 5 days enough for Zhangjiajie?"
     answer: "Yes. Five days is enough for a strong first Zhangjiajie trip if you separate the forest park into two real scenic days, give Tianmen Mountain its own day, and keep one weather or recovery buffer instead of trying to cram every branch into 2 or 3 days."

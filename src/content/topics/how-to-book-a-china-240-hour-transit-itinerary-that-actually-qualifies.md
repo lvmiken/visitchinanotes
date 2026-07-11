@@ -32,7 +32,7 @@ tags:
   - "Visa"
   - "Transit"
   - "Flights"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What documents usually matter most for 240-hour transit?"
     answer: "The most important items are an eligible passport, a confirmed onward ticket to a third country or region within the allowed time, and a route that matches a designated entry region."

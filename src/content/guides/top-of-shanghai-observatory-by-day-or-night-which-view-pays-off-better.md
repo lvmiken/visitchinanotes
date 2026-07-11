@@ -23,7 +23,7 @@ tags:
   - "Shanghai Tower"
   - "Observation deck"
   - "Skyline"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Top of Shanghai Observatory better by day or night?"
     answer: "Night is often better for emotional impact, while daytime is better for reading the city clearly. The stronger answer depends on whether you want atmosphere or urban legibility."

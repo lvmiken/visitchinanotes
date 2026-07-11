@@ -32,7 +32,7 @@ tags:
   - "Guilin"
   - "Two Rivers and Four Lakes"
   - "Evening"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Two Rivers and Four Lakes worth it in Guilin?"
     answer: "Usually yes as a city-side evening, especially if you are already staying in central Guilin. It is best treated as atmosphere and easy pacing, not as the region's main scenic event."

@@ -30,7 +30,7 @@ heroImageAlt: "Guangzhou skyline rising beyond the riverfront."
 heroImageAttributionName: "kevinmcgill from Den Bosch, Netherlands"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Guangzhou_skyline_(6343573781).jpg"
 heroImageLicense: "CC BY-SA 2.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is 5 days enough for Guangzhou?"
     answer: "Yes. Five days is enough for a rich first Guangzhou trip if you protect food neighborhoods, one heritage-west day, one skyline evening, and one slower district day instead of treating the city as a connector only."

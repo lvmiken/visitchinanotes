@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What food should first-time visitors try in Hangzhou?"
     answer: "Many first-time visitors do best with one proper Hangbang meal built around dishes such as Dongpo pork or Longjing shrimp, plus one lighter meal or tea-linked stop rather than trying to make every meal a formal famous-dish checklist."

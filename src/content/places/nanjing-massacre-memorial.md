@@ -32,7 +32,7 @@ tags:
   - "Nanjing"
   - "History"
   - "Museum"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is the Nanjing Massacre Memorial worth visiting?"
     answer: "Usually yes for travelers who genuinely want modern historical depth and can give the visit real emotional space. It is less essential for travelers whose Nanjing trip is built around lighter city layers."

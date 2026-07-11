@@ -28,7 +28,7 @@ tags:
   - "Monorail"
   - "Night views"
   - "Transit experiences"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Which Chongqing monorail line is best for a night ride?"
     answer: "For many first-time visitors, Line 2 is the strongest default because it already carries the city's most recognizable elevated urban scenery and the Liziba train-through-building identity."

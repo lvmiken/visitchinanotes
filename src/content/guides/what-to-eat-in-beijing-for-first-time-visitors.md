@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What food should first-time visitors try in Beijing?"
     answer: "Many first-time visitors do best with one proper Peking duck meal, one Beijing-style noodle or hotpot meal, and one lighter snack or breakfast block instead of trying to cover every famous dish."

@@ -32,7 +32,7 @@ tags:
   - "Sham Shui Po"
   - "Neighborhoods"
   - "Street Food"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Sham Shui Po worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially if the trip wants one more grounded Kowloon district with local food, themed streets, and a less polished everyday Hong Kong atmosphere after the skyline layer is already covered."

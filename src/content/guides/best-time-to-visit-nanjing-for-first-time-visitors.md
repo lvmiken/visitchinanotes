@@ -22,7 +22,7 @@ tags:
   - "Nanjing"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best month to visit Nanjing?"
     answer: "For many first-time visitors, April, May, October, and November are the easiest months because walking, museums, and old-city evenings usually feel more comfortable."

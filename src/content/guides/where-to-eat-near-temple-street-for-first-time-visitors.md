@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Temple Street"
   - "Jordan"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Temple Street a good place to eat in Hong Kong for first-time visitors?"
     answer: "Usually yes if you want one more casual food-and-market night with claypot rice, seafood, street snacks, or dessert. It is usually weaker if you want your most polished Cantonese meal or your most iconic skyline-view dinner."

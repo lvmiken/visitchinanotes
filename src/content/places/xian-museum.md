@@ -34,7 +34,7 @@ tags:
   - "Xi'an"
   - "Xi'an Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Xi'an Museum worth visiting on a first trip?"
     answer: "Often yes if you want one lighter museum block. It is usually the smarter answer when Shaanxi History Museum feels too heavy for the trip, but you still want a real indoor cultural layer."

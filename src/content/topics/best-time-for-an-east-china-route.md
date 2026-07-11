@@ -32,7 +32,7 @@ tags:
   - "Best time to visit China"
   - "East China"
   - "Season planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best season for Shanghai, Hangzhou, Suzhou, and Nanjing together?"
     answer: "For many travelers, spring and autumn are the strongest seasons because they make East China's city walks, gardens, lake scenery, and rail-linked pacing feel much easier to enjoy."

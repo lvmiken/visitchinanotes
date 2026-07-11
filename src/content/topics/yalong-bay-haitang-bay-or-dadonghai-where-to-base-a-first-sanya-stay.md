@@ -22,7 +22,7 @@ tags:
   - "Trip planning"
   - "Sanya"
   - "Hainan"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Which Sanya area is best for first-time visitors?"
     answer: "For many first-time visitors, Yalong Bay is the easiest default because it gives a classic resort-and-beach chapter without asking the traveler to overthink the stay."

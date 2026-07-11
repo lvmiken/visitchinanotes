@@ -19,7 +19,7 @@ tags:
   - "Chongqing"
   - "Visa-free transit"
   - "Trip planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Chongqing a good city for a 240-hour transit stop?"
     answer: "Yes for many travelers, especially those who want dramatic skyline views, intense urban atmosphere, and food rather than a formal heritage-heavy itinerary."

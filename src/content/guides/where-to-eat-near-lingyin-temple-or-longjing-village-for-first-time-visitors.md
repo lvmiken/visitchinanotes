@@ -28,7 +28,7 @@ tags:
   - "Food"
   - "Lingyin Temple"
   - "Longjing Village"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Where should first-time visitors eat near Lingyin Temple?"
     answer: "For many first-time visitors, the best Lingyin-side answer is a lighter meal that keeps the day calm. Zhi Zhu is often the clearest pick when you want vegetarian food near the temple area, while Hangzhou House makes more sense if the branch should carry one polished Jiangzhe lunch or dinner."

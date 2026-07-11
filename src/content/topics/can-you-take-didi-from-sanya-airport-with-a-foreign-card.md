@@ -23,7 +23,7 @@ tags:
   - "Didi"
   - "Airport transfers"
   - "Hainan"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can foreign travelers use Didi in Sanya with an international bank card?"
     answer: "Often yes. Current official and app-store-facing guidance for foreign users says Didi supports global mobile-number login and multiple payment methods including international bank cards."

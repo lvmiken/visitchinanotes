@@ -23,7 +23,7 @@ tags:
   - "Lingyin Temple"
   - "Feilai Peak"
   - "Half day"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "How long do you need for Lingyin Temple and Feilai Peak in Hangzhou?"
     answer: "Many first-time visitors do best with a controlled half day rather than trying to squeeze the branch into a rushed extra after West Lake."

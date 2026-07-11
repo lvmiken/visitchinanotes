@@ -36,7 +36,7 @@ tags:
   - "Beijing"
   - "Qianmen"
   - "Historic area"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Qianmen worth visiting on a first Beijing trip?"
     answer: "Often yes, especially for travelers who want a stronger old-Beijing atmosphere in the central historic zone."

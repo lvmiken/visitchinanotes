@@ -24,7 +24,7 @@ tags:
   - "Shangri-La"
   - "Route planning"
   - "5-day trip"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is 5 days enough for Lijiang, Tiger Leaping Gorge, and Shangri-La?"
     answer: "Usually yes, but only as a tighter, more selective version. A 5-day route can hold all three only when you stop asking each stop to perform like a slower trip."

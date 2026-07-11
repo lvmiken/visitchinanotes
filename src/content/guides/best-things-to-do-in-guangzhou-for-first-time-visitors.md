@@ -24,7 +24,7 @@ tags:
   - "Things to do"
   - "Itinerary planning"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What are the best things to do in Guangzhou for first-time visitors?"
     answer: "For many first-time visitors, the best things to do in Guangzhou are to protect one serious Cantonese food layer, one old-Guangzhou west-side branch, one skyline or Pearl River night, and one easier central evening only if the trip has enough room."

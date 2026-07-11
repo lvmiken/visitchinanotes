@@ -1,7 +1,10 @@
 ---
+import { defaultContactEmail } from "../lib/site";
+
 const formEndpoint = import.meta.env.PUBLIC_CONTRIBUTION_FORM_ENDPOINT;
-const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL || defaultContactEmail;
 const isLiveMode = Boolean(formEndpoint);
+const canSubmit = isLiveMode || Boolean(contactEmail);
 const sourcePage = Astro.url.pathname;
 ---
 
@@ -17,107 +20,121 @@ const sourcePage = Astro.url.pathname;
       ? "Contributor submissions are enabled. Suitable pitches can be reviewed and answered by email."
       : contactEmail
         ? `Contributor pitches are currently handled by email. Use the form below to prepare a pre-filled message, or send it directly to ${contactEmail}.`
-        : "Contributor submissions are not available right now. Please check back soon for the next contact option."}
+        : "Contributor inquiries are currently routed through the site's editorial contact workflow. Use the contact and masthead pages to reach the right editor or desk."}
   </p>
 
-  <form
-    class="request-form"
-    action={formEndpoint || "#"}
-    method="POST"
-    data-contribute-form
-    data-live-mode={isLiveMode ? "true" : "false"}
-    data-contact-email={contactEmail || ""}
-  >
-    <input type="hidden" name="source_page" value={sourcePage} />
-    <input type="hidden" name="submission_type" value="contributor-pitch" />
+  {canSubmit ? (
+    <form
+      class="request-form"
+      action={formEndpoint || "#"}
+      method="POST"
+      data-contribute-form
+      data-live-mode={isLiveMode ? "true" : "false"}
+      data-contact-email={contactEmail || ""}
+    >
+      <input type="hidden" name="source_page" value={sourcePage} />
+      <input type="hidden" name="submission_type" value="contributor-pitch" />
 
-    <label class="honeypot-field" aria-hidden="true">
-      Portfolio website
-      <input name="portfolio_website" type="text" tabindex="-1" autocomplete="off" />
-    </label>
+      <label class="honeypot-field" aria-hidden="true">
+        Portfolio website
+        <input name="portfolio_website" type="text" tabindex="-1" autocomplete="off" />
+      </label>
 
-    <div class="grid two">
+      <div class="grid two">
+        <label>
+          Your name
+          <input name="name" type="text" required placeholder="Example: Alex Chen" />
+        </label>
+
+        <label>
+          Contact email
+          <input name="email" type="email" required placeholder="you@example.com" />
+        </label>
+      </div>
+
       <label>
-        Your name
-        <input name="name" type="text" required placeholder="Example: Alex Chen" />
+        What would you like to contribute?
+        <select name="pitch_type">
+          <option>Article idea or outline</option>
+          <option>Local knowledge or city insight</option>
+          <option>Full draft for review</option>
+          <option>Partnership or contributor inquiry</option>
+        </select>
       </label>
 
       <label>
-        Contact email
-        <input name="email" type="email" required placeholder="you@example.com" />
+        Suggested topic or working title
+        <input name="topic_title" type="text" required placeholder="Example: Best Shanghai neighborhoods for first-time visitors using rail transit" />
       </label>
+
+      <label>
+        Pitch summary
+        <textarea
+          name="pitch_summary"
+          rows="5"
+          required
+          placeholder="Explain the angle, why it helps the reader, and what makes your contribution useful."
+        ></textarea>
+      </label>
+
+      <div class="grid two">
+        <label>
+          Relevant cities or topics
+          <input name="focus_area" type="text" placeholder="Example: Shanghai, Suzhou, high-speed rail, hotel location" />
+        </label>
+
+        <label>
+          Writing samples or links
+          <input name="samples" type="text" placeholder="Example: personal site, Google Doc, portfolio URL" />
+        </label>
+      </div>
+
+      <label>
+        Anything we should know about your background?
+        <textarea
+          name="background"
+          rows="3"
+          placeholder="Example: based in Guangzhou, frequent inbound-travel planner, hospitality background."
+        ></textarea>
+      </label>
+
+      <label class="consent-row">
+        <input name="consent" type="checkbox" required />
+        <span>I understand this is a submission inquiry, not a guaranteed publication commitment.</span>
+      </label>
+
+      <div class="button-row">
+        <button class="button-link primary request-submit" type="submit" data-contribute-submit>
+          {isLiveMode ? "Send Contribution Pitch" : "Open Email Draft"}
+        </button>
+        {contactEmail && <a class="button-link secondary" href={`mailto:${contactEmail}`}>Plain Email</a>}
+      </div>
+
+      <p class="request-status request-success" data-contribute-success hidden>
+        Thanks. Your contribution pitch has been received and can be reviewed for follow-up.
+      </p>
+
+      <p class="request-status request-success" data-contribute-email-success hidden>
+        Your email app should open with a pre-filled contributor pitch draft. Send that email to complete the submission.
+      </p>
+
+      <p class="request-status request-error" data-contribute-error hidden>
+        The pitch could not be sent right now. Please try again or use email instead.
+      </p>
+    </form>
+  ) : (
+    <div class="request-form unavailable-panel">
+      <p>
+        Direct contributor submission is not enabled on this build. Use the publication pages below to review the
+        editorial structure, then reach out through the main contact route.
+      </p>
+      <div class="button-row">
+        <a class="button-link primary" href="/contact/">Go to Contact</a>
+        <a class="button-link secondary" href="/masthead/">View Masthead</a>
+        <a class="button-link secondary" href="/authors/">Browse Editors</a>
+      </div>
     </div>
-
-    <label>
-      What would you like to contribute?
-      <select name="pitch_type">
-        <option>Article idea or outline</option>
-        <option>Local knowledge or city insight</option>
-        <option>Full draft for review</option>
-        <option>Partnership or contributor inquiry</option>
-      </select>
-    </label>
-
-    <label>
-      Suggested topic or working title
-      <input name="topic_title" type="text" required placeholder="Example: Best Shanghai neighborhoods for first-time visitors using rail transit" />
-    </label>
-
-    <label>
-      Pitch summary
-      <textarea
-        name="pitch_summary"
-        rows="5"
-        required
-        placeholder="Explain the angle, why it helps the reader, and what makes your contribution useful."
-      ></textarea>
-    </label>
-
-    <div class="grid two">
-      <label>
-        Relevant cities or topics
-        <input name="focus_area" type="text" placeholder="Example: Shanghai, Suzhou, high-speed rail, hotel location" />
-      </label>
-
-      <label>
-        Writing samples or links
-        <input name="samples" type="text" placeholder="Example: personal site, Google Doc, portfolio URL" />
-      </label>
-    </div>
-
-    <label>
-      Anything we should know about your background?
-      <textarea
-        name="background"
-        rows="3"
-        placeholder="Example: based in Guangzhou, frequent inbound-travel planner, hospitality background."
-      ></textarea>
-    </label>
-
-    <label class="consent-row">
-      <input name="consent" type="checkbox" required />
-      <span>I understand this is a submission inquiry, not a guaranteed publication commitment.</span>
-    </label>
-
-    <div class="button-row">
-      <button class="button-link primary request-submit" type="submit" data-contribute-submit>
-        {isLiveMode ? "Send Contribution Pitch" : contactEmail ? "Open Email Draft" : "Send Contribution Pitch"}
-      </button>
-      {contactEmail && <a class="button-link secondary" href={`mailto:${contactEmail}`}>Plain Email</a>}
-    </div>
-
-    <p class="request-status request-success" data-contribute-success hidden>
-      Thanks. Your contribution pitch has been received and can be reviewed for follow-up.
-    </p>
-
-    <p class="request-status request-success" data-contribute-email-success hidden>
-      Your email app should open with a pre-filled contributor pitch draft. Send that email to complete the submission.
-    </p>
-
-    <p class="request-status request-error" data-contribute-error hidden>
-      The pitch could not be sent right now. Please try again or use email instead.
-    </p>
-  </form>
+  )}
 </section>
 
 <script>

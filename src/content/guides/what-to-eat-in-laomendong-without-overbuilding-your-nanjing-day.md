@@ -21,7 +21,7 @@ tags:
   - "Nanjing"
   - "Food"
   - "Laomendong"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Laomendong a good place to eat in Nanjing?"
     answer: "Usually yes for a lighter old-city meal, snacks, or a softer pre-evening block. It is often strongest as a supporting food area rather than as the city's single most important dinner district."

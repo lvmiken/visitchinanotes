@@ -1,6 +1,7 @@
 ---
 import HeadSEO from "../components/HeadSEO.astro";
 import {
+  defaultContactEmail,
   organizationDescription,
   organizationName,
   siteDescription,
@@ -13,6 +14,7 @@ interface Props {
   description: string;
   socialImage?: string;
   noindex?: boolean;
+  showAds?: boolean;
   type?: "website" | "article";
   publishedTime?: Date;
   modifiedTime?: Date;
@@ -24,6 +26,7 @@ const {
   description,
   socialImage,
   noindex = false,
+  showAds = true,
   type = "website",
   publishedTime,
   modifiedTime,
@@ -34,28 +37,41 @@ const siteUrl = Astro.site ?? new URL(Astro.url.origin);
 const siteRoot = new URL("/", siteUrl).href;
 const googleAnalyticsId = "G-T75BH982CN";
 const googleAdSenseClient = "ca-pub-3494032806162873";
-const cookieConsentStorageKey = "ctn-cookie-consent";
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL || defaultContactEmail;
 const consentScript = `
   (() => {
-    const consentKey = '${cookieConsentStorageKey}';
-    const acceptedValue = 'accepted';
-    const declinedValue = 'declined';
     const analyticsId = '${googleAnalyticsId}';
     const analyticsSrc = 'https://www.googletagmanager.com/gtag/js?id=' + analyticsId;
-    let analyticsLoaded = false;
-
-    const safeGetStoredConsent = () => {
-      try {
-        return window.localStorage.getItem(consentKey);
-      } catch {
-        return null;
-      }
+    const adsEnabled = ${JSON.stringify(showAds)};
+    const adSenseClient = '${googleAdSenseClient}';
+    const adSenseSrc = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' + adSenseClient;
+    const consentDefaults = {
+      ad_storage: 'denied',
+      analytics_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied',
     };
+    let analyticsLoaded = false;
+    let analyticsConfigured = false;
+    let adsLoaded = false;
 
-    const safeSetStoredConsent = (value) => {
-      try {
-        window.localStorage.setItem(consentKey, value);
-      } catch {}
+    window.googlefc = window.googlefc || {};
+    window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function(){window.dataLayer.push(arguments);};
+    window.gtag('consent', 'default', {
+      ...consentDefaults,
+      wait_for_update: 500,
+    });
+    window.gtag('set', 'ads_data_redaction', true);
+
+    const ensureAnalyticsConfigured = () => {
+      if (analyticsConfigured) return;
+      analyticsConfigured = true;
+      window.gtag('js', new Date());
+      window.gtag('config', analyticsId, {
+        anonymize_ip: true,
+      });
     };
 
     const loadAnalytics = () => {
@@ -66,55 +82,42 @@ const consentScript = `
       script.async = true;
       script.src = analyticsSrc;
       document.head.appendChild(script);
-
-      window.dataLayer = window.dataLayer || [];
-      window.gtag = window.gtag || function(){window.dataLayer.push(arguments);};
-      window.gtag('js', new Date());
-      window.gtag('config', analyticsId);
+      ensureAnalyticsConfigured();
     };
 
-    const setBannerVisibility = (banner, isVisible) => {
-      if (!banner) return;
-      if (isVisible) {
-        banner.removeAttribute('hidden');
-      } else {
-        banner.setAttribute('hidden', '');
-      }
+    const loadAds = () => {
+      if (!adsEnabled || adsLoaded) return;
+      adsLoaded = true;
+
+      const script = document.createElement('script');
+      script.async = true;
+      script.src = adSenseSrc;
+      script.crossOrigin = 'anonymous';
+      document.head.appendChild(script);
     };
 
-    const applyConsentState = (value) => {
-      const banner = document.querySelector('[data-cookie-banner]');
-      if (value === acceptedValue) {
-        document.documentElement.dataset.cookieConsent = acceptedValue;
-        setBannerVisibility(banner, false);
-        loadAnalytics();
+    const openPrivacyChoices = () => {
+      if (typeof window.googlefc?.showRevocationMessage === 'function') {
+        window.googlefc.showRevocationMessage();
         return;
       }
-
-      if (value === declinedValue) {
-        document.documentElement.dataset.cookieConsent = declinedValue;
-        setBannerVisibility(banner, false);
-        return;
-      }
-
-      document.documentElement.dataset.cookieConsent = 'pending';
-      setBannerVisibility(banner, true);
-    };
-
-    const updateConsent = (value) => {
-      safeSetStoredConsent(value);
-      applyConsentState(value);
+      window.googlefc.callbackQueue.push(() => {
+        if (typeof window.googlefc?.showRevocationMessage === 'function') {
+          window.googlefc.showRevocationMessage();
+        }
+      });
     };
 
     document.addEventListener('DOMContentLoaded', () => {
-      const banner = document.querySelector('[data-cookie-banner]');
-      const acceptButton = banner?.querySelector('[data-consent-accept]');
-      const declineButton = banner?.querySelector('[data-consent-decline]');
+      document.addEventListener('click', (event) => {
+        const trigger = event.target instanceof Element ? event.target.closest('[data-open-privacy-settings]') : null;
+        if (!trigger) return;
+        event.preventDefault();
+        openPrivacyChoices();
+      });
 
-      acceptButton?.addEventListener('click', () => updateConsent(acceptedValue));
-      declineButton?.addEventListener('click', () => updateConsent(declinedValue));
-
-      applyConsentState(safeGetStoredConsent());
+      loadAnalytics();
+      loadAds();
     });
   })();
 `;
@@ -134,10 +137,26 @@ const siteSchemas = [
   },
   {
     "@context": "https://schema.org",
-    "@type": "Organization",
+    "@type": "NewsMediaOrganization",
     name: organizationName,
     url: siteRoot,
     description: organizationDescription,
+    publishingPrinciples: new URL("/editorial-policy/", siteUrl).href,
+    ethicsPolicy: new URL("/editorial-policy/", siteUrl).href,
+    correctionsPolicy: new URL("/contact/", siteUrl).href,
+    ...(contactEmail
+      ? {
+          email: contactEmail,
+          contactPoint: [
+            {
+              "@type": "ContactPoint",
+              email: contactEmail,
+              contactType: "editorial",
+              url: new URL("/contact/", siteUrl).href,
+            },
+          ],
+        }
+      : {}),
   },
 ];
 
@@ -148,11 +167,6 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
 <html lang="en">
   <head>
     <script is:inline set:html={consentScript}></script>
-    <script
-      async
-      src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${googleAdSenseClient}`}
-      crossorigin="anonymous"
-    ></script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#0f766e" />
@@ -193,6 +207,7 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
         <div>
           <p class="footer-title">{siteName}</p>
           <p>Editorial travel guides for first-time visitors planning a trip to China.</p>
+          {contactEmail && <p><a href={`mailto:${contactEmail}`}>{contactEmail}</a></p>}
         </div>
         <div>
           <p class="footer-title">Explore</p>
@@ -210,33 +225,18 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
           <p class="footer-title">About This Site</p>
           <div class="footer-links">
             <a href="/about/">About</a>
-            <a href="/authors/">Authors</a>
+            <a href="/masthead/">Masthead</a>
+            <a href="/authors/">Editors & Desks</a>
             <a href="/contact/">Contact</a>
             <a href="/disclaimer/">Disclaimer</a>
             <a href="/editorial-policy/">Editorial Policy</a>
             <a href="/privacy/">Privacy</a>
+            <button class="footer-link-button" type="button" data-open-privacy-settings>Privacy & Cookie Settings</button>
             <a href="/rss.xml">RSS Feed</a>
           </div>
         </div>
       </div>
     </footer>
-    <div class="cookie-banner" data-cookie-banner hidden data-pagefind-ignore>
-      <div class="cookie-banner__content">
-        <p class="cookie-banner__title">Cookie notice</p>
-        <p class="cookie-banner__text">
-          This site uses non-essential cookies for analytics and, if enabled later, advertising measurement. Choose
-          whether to allow those cookies, and read the full details in the <a href="/privacy/">Privacy page</a>.
-        </p>
-      </div>
-      <div class="cookie-banner__actions">
-        <button class="cookie-banner__button cookie-banner__button--primary" type="button" data-consent-accept>
-          Accept
-        </button>
-        <button class="cookie-banner__button cookie-banner__button--secondary" type="button" data-consent-decline>
-          Decline
-        </button>
-      </div>
-    </div>
   </body>
 </html>
 
@@ -331,65 +331,6 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
     color: var(--muted);
   }
 
-  .cookie-banner {
-    position: fixed;
-    right: 1rem;
-    bottom: 1rem;
-    z-index: 50;
-    width: min(420px, calc(100% - 2rem));
-    padding: 1rem;
-    border: 1px solid var(--border);
-    border-radius: 1rem;
-    background: rgba(255, 255, 255, 0.98);
-    box-shadow: var(--shadow);
-  }
-
-  .cookie-banner__content {
-    display: grid;
-    gap: 0.45rem;
-  }
-
-  .cookie-banner__title {
-    margin: 0;
-    color: var(--text);
-    font-weight: 700;
-  }
-
-  .cookie-banner__text {
-    margin: 0;
-    color: var(--muted);
-    font-size: 0.95rem;
-    line-height: 1.55;
-  }
-
-  .cookie-banner__actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    margin-top: 1rem;
-  }
-
-  .cookie-banner__button {
-    appearance: none;
-    border-radius: 999px;
-    padding: 0.75rem 1rem;
-    font: inherit;
-    font-weight: 700;
-    cursor: pointer;
-    border: 1px solid transparent;
-  }
-
-  .cookie-banner__button--primary {
-    color: white;
-    background: var(--accent);
-  }
-
-  .cookie-banner__button--secondary {
-    color: var(--accent-strong);
-    background: white;
-    border-color: var(--border);
-  }
-
   .footer-grid {
     display: grid;
     gap: 1.25rem;
@@ -412,7 +353,22 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
     text-decoration: none;
   }
 
+  .footer-link-button {
+    padding: 0;
+    border: 0;
+    background: transparent;
+    color: var(--muted);
+    text-decoration: none;
+    cursor: pointer;
+    font: inherit;
+    text-align: left;
+  }
+
   .footer-links a:hover {
+    text-decoration: underline;
+  }
+
+  .footer-link-button:hover {
     text-decoration: underline;
   }
 
@@ -618,12 +574,6 @@ const pageSchemas = Array.isArray(schema) ? schema : schema ? [schema] : [];
     .button-row {
       flex-direction: column;
       align-items: stretch;
-    }
-
-    .cookie-banner {
-      right: 0.75rem;
-      bottom: 0.75rem;
-      width: calc(100% - 1.5rem);
     }
   }
 </style>

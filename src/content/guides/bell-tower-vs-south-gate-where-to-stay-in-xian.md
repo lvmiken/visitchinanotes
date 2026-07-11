@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Bell Tower"
   - "South Gate"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is South Gate or Bell Tower better for first-time visitors in Xi'an?"
     answer: "For many first-time visitors, South Gate is the safer default because it keeps the old-city rhythm calmer and easier to use. Bell Tower can be better if you want a more central-feeling base with food and busier old-core movement closer at hand."

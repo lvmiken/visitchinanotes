@@ -23,7 +23,7 @@ tags:
   - "Yonghe Temple"
   - "Wudaoying"
   - "Half day"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors combine Yonghe Temple and Wudaoying?"
     answer: "Often yes. Yonghe Temple gives the route a meaningful cultural anchor, while Wudaoying adds the lighter neighborhood layer that stops the half day from feeling too thin or too formal."

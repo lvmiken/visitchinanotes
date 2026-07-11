@@ -24,7 +24,7 @@ tags:
   - "Shanghai"
   - "4 days"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is 4 days enough for Shanghai with kids?"
     answer: "Usually yes. Four days is often the easiest family version because it gives you room for one skyline day, one full Disneyland or main family day, one indoor or old-core day, and one slower flexible buffer day."

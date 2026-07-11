@@ -23,7 +23,7 @@ tags:
   - "Panda Base"
   - "He Hua"
   - "Planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Can you guarantee seeing Panda He Hua at Chengdu Panda Base?"
     answer: "No. You can improve your odds with a morning plan and current official information, but no visitor can guarantee how visible a live panda will be on a specific visit."

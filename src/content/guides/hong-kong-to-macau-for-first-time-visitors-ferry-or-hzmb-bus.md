@@ -24,7 +24,7 @@ tags:
   - "Hong Kong"
   - "South China"
   - "Route planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is it better to take the ferry or the bridge bus from Hong Kong to Macau?"
     answer: "For many first-time visitors already in Hong Kong city, the ferry is still the cleanest classic transfer. The bridge shuttle bus is stronger when you want more frequency, are coming from the airport side, or your Macau arrival works better from the bridge port."

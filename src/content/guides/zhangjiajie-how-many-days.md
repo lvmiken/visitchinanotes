@@ -20,7 +20,7 @@ tags:
   - "Zhangjiajie"
   - "Trip length"
   - "Nature"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is two days enough for Zhangjiajie?"
     answer: "Two days can work for a short highlight-focused stop, but travelers usually get a smoother experience with extra flexibility if the route allows it."

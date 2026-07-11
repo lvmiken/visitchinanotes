@@ -23,7 +23,7 @@ tags:
   - "DJI Sky City"
   - "Architecture"
   - "Technology"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Can tourists visit DJI Sky City in Shenzhen?"
     answer: "For most travelers, the realistic plan is an exterior architecture stop rather than a public interior tour. The official city sources checked for this page present it as a landmark, while the DJI sources checked do not show a normal public-visit booking path."

@@ -22,7 +22,7 @@ tags:
   - "Wuhan"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What food should first-time visitors try in Wuhan?"
     answer: "Many first-time visitors do best with one real breakfast built around hot dry noodles and one or two supporting items, then one Hubei-style lunch or dinner featuring dishes such as lotus-root soup, Wuchang fish, or another more sit-down local specialty."

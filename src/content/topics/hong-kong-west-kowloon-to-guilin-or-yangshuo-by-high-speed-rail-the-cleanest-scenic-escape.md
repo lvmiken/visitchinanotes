@@ -32,7 +32,7 @@ tags:
   - "Yangshuo"
   - "High-speed rail"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can you take high-speed rail from Hong Kong West Kowloon to Guilin?"
     answer: "Yes. The current official MTR High Speed Rail trip planner shows Hong Kong West Kowloon and Guilin West services, with live schedules and availability changing by date."

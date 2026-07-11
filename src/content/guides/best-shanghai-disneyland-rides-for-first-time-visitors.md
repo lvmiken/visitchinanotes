@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Rides"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What are the best rides at Shanghai Disneyland for first-time visitors?"
     answer: "For many first-time visitors, the strongest shortlist includes Pirates of the Caribbean, TRON Lightcycle Power Run, Soaring Over the Horizon, Zootopia: Hot Pursuit, and one family-friendly classic such as Peter Pan's Flight or Winnie the Pooh depending on the group."

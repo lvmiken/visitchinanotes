@@ -28,7 +28,7 @@ tags:
   - "Chengdu"
   - "High-speed rail"
   - "Route planning"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Xi'an to Chengdu by high-speed rail worth doing?"
     answer: "For many first-time visitors, yes. The route creates one of the clearest mood shifts in China travel, moving from Xi'an's historical weight into Chengdu's slower food-and-panda rhythm without needing a flight."

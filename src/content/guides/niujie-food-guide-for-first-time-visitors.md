@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Niujie"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Niujie worth visiting for food on a first Beijing trip?"
     answer: "Usually yes if food is one of the reasons you care about Beijing or you want a halal and mutton-focused side of the city beyond duck. It is less essential if your trip is extremely short and you only have room for one central food district."

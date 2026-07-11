@@ -33,7 +33,7 @@ tags:
   - "Xi'an"
   - "Terracotta Army"
   - "Museums"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Terracotta Army worth it for first-time visitors?"
     answer: "Yes for many travelers. It is one of the clearest signature historical sights in China and often the biggest reason Xi'an makes sense as a dedicated stop."

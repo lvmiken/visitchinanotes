@@ -24,7 +24,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Things to do"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What are the best things to do in Xi'an with kids?"
     answer: "For many first-time families, the best things to do are the Terracotta Army, Xi'an City Wall, one easier old-city food evening, and on a fuller trip one pagoda-side or Tang Paradise block. Older kids may also enjoy Shaanxi History Museum if the family genuinely wants more history depth."

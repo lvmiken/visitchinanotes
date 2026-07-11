@@ -30,7 +30,7 @@ tags:
   - "Niujie"
   - "Itinerary"
   - "Food planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should first-time visitors do after Niujie in Beijing?"
     answer: "For many first-time visitors, the strongest answer is either to let Niujie finish the day or to add only one short calmer Xicheng continuation, such as a nearby historic walk, instead of forcing another major district afterward."

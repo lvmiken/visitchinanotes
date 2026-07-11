@@ -24,7 +24,7 @@ tags:
   - "Universal Beijing Resort"
   - "Tickets"
   - "Foreign passport"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Can foreign passport holders visit Universal Beijing Resort easily?"
     answer: "Usually yes, but the day goes much better if tickets, reservation, app setup, and physical passport carry are handled before arrival."

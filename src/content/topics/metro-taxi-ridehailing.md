@@ -32,7 +32,7 @@ tags:
   - "City transport"
   - "Metro"
   - "Taxi"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is it easy for tourists to get around Chinese cities?"
     answer: "Often yes, but the experience depends heavily on the city, hotel location, and whether the daily plan respects transport reality."

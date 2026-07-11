@@ -33,7 +33,7 @@ tags:
   - "Qingdao"
   - "Beer Museum"
   - "Food"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Qingdao Beer Museum worth visiting?"
     answer: "Usually yes if your Qingdao trip wants one indoor beer-culture stop or one supporting branch beyond waterfront walking. It is usually less essential than the city's core coast on the shortest stays."

@@ -19,7 +19,7 @@ tags:
   - "Shanghai"
   - "Visa-free transit"
   - "Trip planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Shanghai the easiest city to use on a 240-hour transit stop?"
     answer: "For many first-time visitors, yes. Shanghai is often the easiest big-city answer because it combines international flight access, manageable daily movement, and a strong short-stay payoff."

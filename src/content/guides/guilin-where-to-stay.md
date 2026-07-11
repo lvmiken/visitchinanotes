@@ -24,7 +24,7 @@ tags:
   - "Hotels"
   - "Neighborhoods"
   - "Yangshuo"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What is the best area to stay in Guilin for first-time visitors?"
     answer: "For many first-time visitors, the best area to stay in Guilin is a central city base that keeps riverside walking, transport convenience, and the wider Guilin-region flow easy rather than trying to stay far out for scenery alone."

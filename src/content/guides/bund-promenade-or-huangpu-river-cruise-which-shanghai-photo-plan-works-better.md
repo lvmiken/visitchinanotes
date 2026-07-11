@@ -23,7 +23,7 @@ tags:
   - "Bund"
   - "Huangpu River cruise"
   - "Photography"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the Bund or a Huangpu cruise better for Shanghai photos?"
     answer: "For most first-time visitors, the Bund is better because it gives more control over timing, framing, and repetition. The cruise is better when you want the experience as much as the photos."

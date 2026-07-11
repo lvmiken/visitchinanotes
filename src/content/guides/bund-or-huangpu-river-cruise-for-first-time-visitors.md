@@ -24,7 +24,7 @@ tags:
   - "Huangpu River cruise"
   - "Night"
   - "Comparison"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors do the Bund or a Huangpu River cruise?"
     answer: "For many first-time visitors, the Bund is the stronger default because it is easier, cheaper, and more flexible. A Huangpu River cruise is usually better when the evening itself should feel like a special skyline event."

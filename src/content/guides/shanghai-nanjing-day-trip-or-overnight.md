@@ -19,7 +19,7 @@ tags:
   - "Nanjing"
   - "Shanghai"
   - "Day trip"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can Nanjing be done as a day trip from Shanghai?"
     answer: "Yes, but many first-time visitors find that Nanjing becomes much more rewarding with at least one overnight because the city can then hold both a major historical block and an evening layer."

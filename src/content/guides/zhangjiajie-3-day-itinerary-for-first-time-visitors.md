@@ -22,7 +22,7 @@ tags:
   - "Zhangjiajie"
   - "3 days"
   - "Itinerary"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is three days enough for Zhangjiajie?"
     answer: "Yes. Three days is enough for a strong first Zhangjiajie stay if the route protects the forest park properly, uses one selective second park layer, and treats the third day as a deliberate choice rather than leftover cleanup."

@@ -24,7 +24,7 @@ tags:
   - "LGBTQ"
   - "Nightlife"
   - "Hotels"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Chengdu safe for gay travelers?"
     answer: "For many first-time visitors, Chengdu is one of the easier Chinese cities for gay travelers to enjoy, especially in central areas and established evening districts. The useful expectation is not loud public queer visibility, but a generally relaxed social atmosphere and a lower-friction night out by China standards."

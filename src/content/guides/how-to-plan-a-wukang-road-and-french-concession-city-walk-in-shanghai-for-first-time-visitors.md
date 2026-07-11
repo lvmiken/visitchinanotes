@@ -29,7 +29,7 @@ tags:
   - "Wukang Road"
   - "French Concession"
   - "City walk"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Wukang Road worth visiting on a first trip to Shanghai?"
     answer: "For many first-time visitors, yes. Wukang Road is often one of the best ways to experience the elegant, leafy, walkable side of Shanghai when it is used as part of a selective French Concession city walk."

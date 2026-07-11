@@ -23,7 +23,7 @@ tags:
   - "Yulin"
   - "Jiuyanqiao"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Yulin or Jiuyanqiao better for first-time visitors?"
     answer: "For many first-time visitors, Yulin is better if the evening should be more local, food-led, and relaxed, while Jiuyanqiao is better if drinks, nightlife, and a livelier late-night atmosphere matter more."

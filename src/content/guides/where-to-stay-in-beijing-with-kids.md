@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Hotels"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best area to stay in Beijing with kids?"
     answer: "For many first-time families, central Dongcheng is the safest default because it keeps the imperial core, day-to-day movement, and easier evening returns more manageable."

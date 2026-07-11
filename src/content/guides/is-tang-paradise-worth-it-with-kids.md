@@ -23,7 +23,7 @@ tags:
   - "Family travel"
   - "Tang Paradise"
   - "Night"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Tang Paradise good for kids in Xi'an?"
     answer: "Often yes on a fuller Xi'an family trip, especially if the children still have evening energy and the family wants one scenic, lit-up south-side outing. It is usually less useful on the tightest 2-day version."

@@ -23,7 +23,7 @@ tags:
   - "Family travel"
   - "Museums"
   - "Xi'an Museum"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Xi'an Museum good for kids?"
     answer: "Often yes. Xi'an Museum is usually one of the easier museum choices for families because it can add real historical value without feeling as demanding as Shaanxi History Museum."

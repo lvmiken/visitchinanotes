@@ -32,7 +32,7 @@ tags:
   - "Trip planning"
   - "East China"
   - "Itinerary"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best East China itinerary for first-time visitors?"
     answer: "For many first-time visitors, the best East China route starts with Shanghai and then adds one or two nearby cities that each change the trip in a distinct way, such as Hangzhou for scenery, Suzhou for refinement, or Nanjing for history."

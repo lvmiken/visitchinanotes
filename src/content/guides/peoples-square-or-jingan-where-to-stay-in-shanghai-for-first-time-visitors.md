@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "People's Square"
   - "Jing'an"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay in People's Square or Jing'an in Shanghai?"
     answer: "Many first-time visitors do better in People's Square if they want the easiest all-around central base and simpler day structure, while Jing'an is often stronger for travelers who want polished restaurants, easier modern evenings, and a more comfort-led inner-city stay."

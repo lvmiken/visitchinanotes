@@ -23,7 +23,7 @@ tags:
   - "Chongqing"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best month to visit Chongqing?"
     answer: "For many first-time visitors, April, May, October, and November are the easiest months because walking, skyline nights, and food evenings usually feel more comfortable."

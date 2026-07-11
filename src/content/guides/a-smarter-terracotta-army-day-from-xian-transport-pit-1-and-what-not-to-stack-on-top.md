@@ -23,7 +23,7 @@ tags:
   - "Terracotta Army"
   - "Pit 1"
   - "Excursion planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "How should you plan a Terracotta Army day from Xi'an?"
     answer: "For many first-time visitors, the best plan is to protect the Terracotta Army as a half-day anchor, use the simplest transport option you can justify, focus properly on Pit 1, and avoid stacking too many extra heavy sights on the same day."

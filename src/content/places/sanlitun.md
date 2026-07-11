@@ -37,7 +37,7 @@ tags:
   - "Beijing"
   - "Sanlitun"
   - "Neighborhood"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Sanlitun worth visiting on a first Beijing trip?"
     answer: "For many travelers, yes, especially if they want one easier modern neighborhood for dining, shopping, or nightlife rather than only historical sightseeing."

@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Neighborhoods"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What is the best area to stay in Harbin for first-time visitors?"
     answer: "For many first-time visitors, the best area to stay in Harbin is central Daoli around Zhongyang Street because it keeps daily movement, meals, and cold-weather returns much easier."

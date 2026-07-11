@@ -23,7 +23,7 @@ tags:
   - "Suzhou Museum"
   - "Pingjiang Road"
   - "Half day"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Can you combine Suzhou Museum and Pingjiang Road in one half day?"
     answer: "Usually yes, and for many first-time visitors it is one of the cleanest half-day combinations in Suzhou because the museum adds context while Pingjiang Road provides the softer atmospheric finish."

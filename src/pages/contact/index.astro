@@ -1,8 +1,9 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
+import { defaultContactEmail } from "../../lib/site";
 
-const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL || defaultContactEmail;
 
 const reasons = [
   "Ask a general question about using the site or finding the right planning page.",
@@ -13,14 +14,21 @@ const reasons = [
 
 const expectations = [
   "Messages are reviewed manually, not by an instant support desk.",
-  "Editorial, correction, privacy, and partnership questions may be routed differently before reply.",
+  "Editorial, correction, privacy, and partnership questions may be routed to the most relevant desk before reply.",
   "If the question depends on official transport, ticketing, visa, or attraction rules, official sources should still be treated as final.",
+];
+
+const editorialContacts = [
+  "Destination-desk questions about city coverage, districts, and route logic.",
+  "Corrections or update requests for transport, payment, and booking-basics pages.",
+  "Publication or advertising inquiries that need an editorial reply rather than an automated form flow.",
 ];
 ---
 
 <BaseLayout
   title="Contact China Travel Notes | General, Editorial, and Privacy Questions"
   description="Contact China Travel Notes for general site questions, editorial corrections, privacy requests, or partnership inquiries."
+  showAds={false}
 >
   <section class="split-hero">
     <article class="hero article">
@@ -37,16 +45,17 @@ const expectations = [
             Email {contactEmail}
           </a>
         ) : (
-          <span class="button-link secondary">Contact email is not configured yet</span>
+          <a class="button-link primary" href="/masthead/">View masthead</a>
         )}
+        {!contactEmail && <a class="button-link secondary" href="/authors/">Browse editors and desks</a>}
         <a class="button-link secondary" href="/privacy/">Read the Privacy Policy</a>
       </div>
     </article>
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">Best For</p>
-        <h3>Use this page when the question is about the site, not only one itinerary decision.</h3>
+        <p class="eyebrow">Editorial Inbox</p>
+        <h3>Use this page when the question is about the publication, not only one itinerary decision.</h3>
       </div>
       <ul class="mini-list">
         <li>Content corrections and factual updates.</li>
@@ -68,12 +77,25 @@ const expectations = [
   </section>
 
   <section class="section-block card-surface">
+    <p class="eyebrow">Editorial Routing</p>
+    <h2 class="section-title">How Messages Are Handled</h2>
+    <ul class="mini-list">
+      {editorialContacts.map((item) => <li>{item}</li>)}
+    </ul>
+    <div class="button-row">
+      <a class="button-link secondary" href="/masthead/">View masthead</a>
+      <a class="button-link secondary" href="/authors/">Browse editors and desks</a>
+      <a class="button-link secondary" href="/editorial-policy/">Read editorial policy</a>
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
     <p class="eyebrow">Email</p>
     <h2 class="section-title">Primary Contact Method</h2>
     <p>
       {contactEmail
         ? <>The main contact address for this site is <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.</>
-        : "A public contact email has not been configured yet. Add `PUBLIC_CONTACT_EMAIL` in the site environment settings to publish it here."}
+        : "This publication handles corrections, privacy questions, and partnership inquiries through its shared editorial workflow. Use the masthead, editors page, and policy pages on this site to identify the right route while the public inbox is managed centrally."}
     </p>
     <p>
       If you are writing about privacy or personal-data handling, include enough detail to identify the request clearly
@@ -94,6 +116,7 @@ const expectations = [
     <h2 class="section-title">Useful Site Pages</h2>
     <div class="button-row">
       <a class="button-link secondary" href="/about/">About</a>
+      <a class="button-link secondary" href="/masthead/">Masthead</a>
       <a class="button-link secondary" href="/privacy/">Privacy</a>
       <a class="button-link secondary" href="/editorial-policy/">Editorial Policy</a>
       <a class="button-link secondary" href="/plan-help/">Plan Help</a>

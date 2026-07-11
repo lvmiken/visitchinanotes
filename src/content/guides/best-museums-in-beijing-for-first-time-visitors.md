@@ -23,7 +23,7 @@ tags:
   - "Beijing"
   - "Museums"
   - "First trip"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best museum in Beijing for first-time visitors?"
     answer: "It depends on the kind of museum time you want. For many first-time visitors, the Palace Museum inside the Forbidden City is the main must-do museum-style experience, while the National Museum of China is best for travelers who want deeper historical context."

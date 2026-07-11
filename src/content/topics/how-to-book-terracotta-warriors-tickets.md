@@ -24,7 +24,7 @@ tags:
   - "Xi'an"
   - "Terracotta Warriors"
   - "Reservations"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can foreign visitors book Terracotta Warriors tickets with a passport?"
     answer: "Yes. The Qin museum's official ticket guidance says visitors, including foreign tourists, can make real-name reservations through the official website and official WeChat channels, using passport information."

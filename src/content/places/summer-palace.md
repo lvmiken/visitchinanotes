@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Summer Palace"
   - "Imperial sights"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Summer Palace worth visiting on a first Beijing trip?"
     answer: "Often yes, especially if you want one large scenic-imperial site that gives the trip a calmer rhythm than the central ceremonial core."

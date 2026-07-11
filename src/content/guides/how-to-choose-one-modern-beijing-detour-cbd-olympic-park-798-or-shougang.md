@@ -26,7 +26,7 @@ tags:
   - "798"
   - "Shougang Park"
   - "Comparison"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Which modern Beijing detour is best for first-time visitors?"
     answer: "It depends on what you want modern Beijing to do. CBD is best for skyline architecture, Olympic Park is the easiest broad landmark choice, 798 is best for creative culture, and Shougang Park is best for industrial-cool atmosphere."

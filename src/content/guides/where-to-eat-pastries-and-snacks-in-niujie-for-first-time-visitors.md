@@ -28,7 +28,7 @@ tags:
   - "Food"
   - "Niujie"
   - "Snacks"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What snacks should first-time visitors try in Niujie?"
     answer: "Many first-time visitors do best with one baked or savory bread item such as shaobing, one fried or sticky-rice snack such as zhagao, and one sweeter steamed or rice-cake item such as zenggao instead of trying too many famous names in one visit."

@@ -28,7 +28,7 @@ tags:
   - "Xi'an"
   - "High-speed rail"
   - "Terracotta Warriors"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Beijing to Xi'an by high-speed rail better than flying?"
     answer: "For many first-time visitors, yes. The train often protects a more coherent hotel-to-hotel day and keeps the route aligned with the trip's historical arc, while flights can still work when the wider itinerary is already airport-shaped."

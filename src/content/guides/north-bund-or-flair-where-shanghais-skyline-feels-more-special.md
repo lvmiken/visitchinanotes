@@ -28,7 +28,7 @@ tags:
   - "North Bund"
   - "Skyline"
   - "Night views"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the North Bund better than the Bund for photos?"
     answer: "Usually not for overall first-trip importance, but often yes for travelers who want a cleaner, less compressed skyline angle after they already understand the city's main riverfront logic."

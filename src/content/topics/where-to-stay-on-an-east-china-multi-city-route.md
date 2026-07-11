@@ -32,7 +32,7 @@ tags:
   - "Hotels"
   - "East China"
   - "Trip planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should travelers stay near the train station on an East China route?"
     answer: "Usually no. Most first-time visitors enjoy East China more when they sleep in a district that supports the evening and next day's sightseeing, while using the train station only as a transport node."

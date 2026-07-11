@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Central"
   - "SoHo"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Central a good place to eat in Hong Kong for first-time visitors?"
     answer: "Usually yes. Central is one of the best first-time Hong Kong food districts when you want a classic cha chaan teng stop, a traditional Cantonese room, roast goose, or a dinner that can continue into SoHo or Lan Kwai Fong without a lot of extra transport."

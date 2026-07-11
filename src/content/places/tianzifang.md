@@ -34,7 +34,7 @@ tags:
   - "Shanghai"
   - "Tianzifang"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Tianzifang worth visiting in Shanghai?"
     answer: "Usually yes as a shorter atmosphere and walking block, especially if it fits a broader French Concession style day. It is usually less important as a top-tier stand-alone priority."

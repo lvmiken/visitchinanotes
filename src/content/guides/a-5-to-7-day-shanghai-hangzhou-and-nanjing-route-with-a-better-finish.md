@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Nanjing"
   - "Itinerary"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is 5 days enough for Shanghai, Hangzhou, and Nanjing?"
     answer: "Yes, but only if you keep the route selective. Most first-time visitors will find six or seven days much more rewarding because Nanjing then gets the evening and historical depth it deserves."

@@ -23,7 +23,7 @@ tags:
   - "Hangzhou"
   - "Transport"
   - "Metro"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Hangzhou easy to get around for tourists?"
     answer: "Usually yes. For many first-time visitors, Hangzhou is manageable when metro handles the bigger city moves, walking carries the main West Lake time, and Didi or taxi protects the awkward edges."

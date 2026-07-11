@@ -28,7 +28,7 @@ tags:
   - "High-speed rail"
   - "Seat classes"
   - "Train booking"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is first class on China's bullet train worth it for tourists?"
     answer: "Often yes on medium or longer rides when you want more space and a calmer day, but not every route is long enough for the upgrade to matter."

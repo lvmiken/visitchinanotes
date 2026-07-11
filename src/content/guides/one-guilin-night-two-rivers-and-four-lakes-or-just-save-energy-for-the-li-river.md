@@ -20,7 +20,7 @@ tags:
   - "Guilin"
   - "Two Rivers and Four Lakes"
   - "Evening"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Two Rivers and Four Lakes worth it if you only have one night in Guilin?"
     answer: "Sometimes. It is worth it when the evening itself should feel like part of the trip, but it is often better to keep the night simple if the next day needs to protect the Li River or a bigger scenic move."

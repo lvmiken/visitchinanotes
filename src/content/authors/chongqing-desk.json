@@ -1,0 +1,15 @@
+{
+  "name": "Chongqing Editorial Desk",
+  "entityType": "organization",
+  "role": "Chongqing City Desk",
+  "shortBio": "Maintains Chongqing coverage with a focus on vertical-city movement, skyline planning, hotel areas, and food-heavy route decisions.",
+  "fullBio": "The Chongqing Editorial Desk maintains guides, place pages, and planning coverage related to Chongqing. Its focus is helping readers navigate the city's vertical layout, decide which night views are actually worth time, choose workable hotel areas, and avoid turning the trip into repeated transport friction.",
+  "expertise": [
+    "Chongqing route planning",
+    "Skyline and night-view strategy",
+    "Hotel-area and transport fit"
+  ],
+  "reviewProcess": "Pages are reviewed for movement realism, district tradeoffs, skyline-planning value, and whether the advice still reflects practical Chongqing travel conditions.",
+  "seoTitle": "Chongqing Editorial Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains Chongqing guides, place pages, and planning coverage on China Travel Notes."
+}

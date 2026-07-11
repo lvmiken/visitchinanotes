@@ -28,7 +28,7 @@ tags:
   - "Dragon Boat Festival"
   - "China cities"
   - "Route planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Where is the best place to watch dragon boat races in China?"
     answer: "For many first-time visitors, the best answer is usually a city that already fits the trip well and lets the race sit inside a good urban day, rather than a special detour made only for the event."

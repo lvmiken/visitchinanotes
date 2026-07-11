@@ -28,7 +28,7 @@ tags:
   - "Sichuan opera"
   - "Night"
   - "Culture"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best Sichuan opera show in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, Shufeng Yayun is the safest classic answer because it gives the strongest traditional theater atmosphere, while a more central option such as Sichuan Meihua Opera House can work better for families or travelers who want a shorter, easier evening."

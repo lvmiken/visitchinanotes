@@ -32,7 +32,7 @@ tags:
   - "Central"
   - "Neighborhoods"
   - "Food"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Central worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially if the trip wants one Hong Kong Island day that feels more walkable, food-led, and lived in than a pure skyline or harbourfront district."

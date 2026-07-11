@@ -30,7 +30,7 @@ tags:
   - "Tea"
   - "Half day"
   - "Itinerary"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best tea half day in Hangzhou for first-time visitors?"
     answer: "For many first-time visitors, the best tea half day is a Longjing-side branch with one real tea-country stop and one supporting meal or tea session, used only after West Lake already feels secure."

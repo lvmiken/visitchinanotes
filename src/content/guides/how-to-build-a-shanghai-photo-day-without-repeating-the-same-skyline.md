@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Photography"
   - "Itinerary"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "How do you plan a Shanghai photo day without repeating the same skyline?"
     answer: "For most first-time visitors, the smartest structure is one Bund or riverfront skyline anchor, one contrasting architecture stop such as 1933 Old Millfun, and one street-texture stop around Wukang Road or the French Concession."

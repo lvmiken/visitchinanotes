@@ -23,7 +23,7 @@ tags:
   - "Wuhan"
   - "Transport"
   - "Metro"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Wuhan easy to get around for tourists?"
     answer: "Usually yes, if you let metro carry the main daytime moves and use Didi or taxi for the awkward edges. Wuhan gets harder when short trips keep crossing the river or when the hotel base fights the plan."

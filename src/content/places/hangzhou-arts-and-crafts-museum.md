@@ -34,7 +34,7 @@ tags:
   - "Hangzhou"
   - "Hangzhou Arts and Crafts Museum"
   - "Museum"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Hangzhou Arts and Crafts Museum worth visiting for first-time visitors?"
     answer: "Usually yes only if your Hangzhou trip wants a more specialist indoor museum and the stay has enough room for it. It is often strongest on rainy days or on fuller stays, not as the city's default first museum."

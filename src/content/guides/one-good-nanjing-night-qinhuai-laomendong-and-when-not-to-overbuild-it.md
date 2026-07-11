@@ -23,7 +23,7 @@ tags:
   - "Night"
   - "Qinhuai River"
   - "Laomendong"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors do both Laomendong and Qinhuai in one night?"
     answer: "Sometimes, but only if the pace still feels gentle. Most first-time visitors do better choosing one district as the real emotional center of the evening instead of trying to give both equal weight."

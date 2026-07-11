@@ -27,7 +27,7 @@ heroImageAlt: "View across the Forbidden City from Jingshan Park in Beijing."
 heroImageAttributionName: "xiquinhosilva"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:%E6%99%AF%E5%B1%B1%E5%85%AC%E5%9B%AD%E4%BF%AF%E7%9E%B0%E6%95%85%E5%AE%AB_2024-09-16.jpg"
 heroImageLicense: "CC BY 4.0"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "How many days should first-time visitors spend in Beijing?"
     answer: "Three to five days is enough for a balanced first trip that includes the Forbidden City, Great Wall, hutong areas, and one museum day."

@@ -33,7 +33,7 @@ tags:
   - "South China"
   - "Hong Kong"
   - "Macau"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best first-time South China route with Hong Kong and Macau?"
     answer: "For many first-time visitors, the strongest version is Hong Kong as the anchor, Macau as the short contrast stop, and then either Guangzhou for more depth or Shenzhen for easier modern mainland pacing."

@@ -26,7 +26,7 @@ tags:
   - "Xujiahui"
   - "Cathedral"
   - "History"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Xujiahui Cathedral worth visiting on a first trip to Shanghai?"
     answer: "Usually yes for travelers who care about architecture, Catholic history, or quieter heritage layers of Shanghai. It is usually less important than the Bund or French Concession for broad first-trip value."

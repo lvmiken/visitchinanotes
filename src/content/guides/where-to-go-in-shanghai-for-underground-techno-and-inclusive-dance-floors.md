@@ -27,7 +27,7 @@ tags:
   - "Nightlife"
   - "Techno"
   - "Clubs"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shanghai good for underground techno and music-first club nights?"
     answer: "Usually yes if the music itself is the point of the night. Shanghai has a real lineup-led electronic scene, but it works best for travelers who are willing to check the same-week event calendar and commit to one room rather than one generic nightlife district."

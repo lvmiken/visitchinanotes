@@ -23,7 +23,7 @@ tags:
   - "Chongqing"
   - "Nightlife"
   - "Bars"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors go for bars in Chongqing?"
     answer: "For many first-time visitors, Guanyinqiao is the easiest all-around answer because it combines dinner, drinks, crowds, and modern city energy in one district, while 9th Street is stronger when the night should feel later and more nightlife-led."

@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "West Street"
   - "Scenic town"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What is the best area to stay in Yangshuo for first-time visitors?"
     answer: "For many first-time visitors, the best area to stay in Yangshuo is near the town center and West Street because it keeps arrival, dinner, and evening walking easy, especially on a one-night stop."

@@ -27,7 +27,7 @@ tags:
   - "Hangzhou"
   - "West Lake"
   - "Hefang Street"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Hefang Street or more West Lake time?"
     answer: "For many first-time visitors, more West Lake time is the better default because it protects Hangzhou's main scenic identity. Hefang Street becomes stronger only after the lake already feels secure."

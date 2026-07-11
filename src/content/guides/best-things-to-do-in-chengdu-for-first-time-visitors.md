@@ -24,7 +24,7 @@ tags:
   - "Chengdu"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What are the best things to do in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are one panda base morning, one tea-house or People's Park block, one strong hotpot or food evening, and one selective historical or old-street layer such as Wuhou Shrine with Jinli or a shorter Kuanzhai Alley block."

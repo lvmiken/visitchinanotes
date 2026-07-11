@@ -1,8 +1,9 @@
 export const siteName = "China Travel Notes";
-export const siteTagline = "Practical travel planning for first-time visitors to China.";
+export const siteTagline = "Editorial travel planning and destination coverage for China.";
 export const siteDescription =
-  "English travel guides for visitors planning a trip to China, with city advice, transport basics, and payment tips.";
+  "An English-language travel-planning publication covering China destinations, routes, transport basics, and traveler-facing payment advice.";
 
 export const organizationName = "China Travel Notes";
 export const organizationDescription =
-  "An editorial travel site focused on practical China trip planning for first-time international visitors.";
+  "An editorial travel-planning publication focused on China destinations, route design, transport basics, and traveler-facing trip advice.";
+export const defaultContactEmail = "anchoryu84@gmail.com";

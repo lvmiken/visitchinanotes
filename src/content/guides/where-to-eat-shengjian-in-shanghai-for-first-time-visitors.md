@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Shengjian"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best shengjian in Shanghai for first-time visitors?"
     answer: "There is not one universal answer. Da Hu Chun is the clearest classic choice, Lao Zheng He is often the easiest first-timer middle-ground choice, and Yang's Fry-Dumpling is the easiest practical option when convenience matters most."

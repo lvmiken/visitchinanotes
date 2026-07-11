@@ -25,7 +25,7 @@ heroImageAlt: "Anshun Bridge lit up over the Jin River at night in Chengdu."
 heroImageAttributionName: "Daniel Lu (User:dllu)"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "How many days do you need in Chengdu?"
     answer: "Two to four days is a strong range for first-time visitors, depending on whether they also want a panda base visit or nearby Sichuan day trips."

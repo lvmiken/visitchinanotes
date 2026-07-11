@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Hotels"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best area to stay in Xi'an with kids?"
     answer: "For many first-time families, the safest base is around South Gate or Bell Tower because it keeps the old city, evening food, and short-stay movement easier to manage."

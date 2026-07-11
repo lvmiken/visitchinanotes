@@ -20,7 +20,7 @@ tags:
   - "Hangzhou"
   - "West Lake"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "How should first-time visitors plan West Lake?"
     answer: "Choose one or two anchor sections of the lake, leave room for walking and views, and avoid treating the entire area like a fast attraction loop."

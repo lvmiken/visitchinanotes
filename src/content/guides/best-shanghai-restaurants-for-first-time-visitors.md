@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Restaurants"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best restaurant in Shanghai for first-time visitors?"
     answer: "There usually is not one single best answer. Most first-time visitors do better by choosing one classic xiaolongbao restaurant, one practical everyday stop such as shengjian or noodles, and one proper Shanghainese dinner that fits the day's district and energy."

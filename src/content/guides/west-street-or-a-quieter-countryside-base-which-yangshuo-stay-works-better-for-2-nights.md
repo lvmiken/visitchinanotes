@@ -21,7 +21,7 @@ tags:
   - "Hotels"
   - "West Street"
   - "Countryside"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Should first-time visitors stay near West Street or in the countryside for 2 nights in Yangshuo?"
     answer: "For many first-time visitors, West Street is still the safer all-around 2-night answer, but a quieter countryside base becomes much more attractive if the trip clearly wants calm mornings and a softer scenic rhythm."

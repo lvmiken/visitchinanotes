@@ -24,7 +24,7 @@ tags:
   - "Altitude"
   - "Route planning"
   - "Lijiang"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should first-time visitors stay in Lijiang before going to Shangri-La?"
     answer: "For many first-time visitors, yes. Lijiang usually gives the route a gentler first night and makes the move toward Shangri-La feel less abrupt."

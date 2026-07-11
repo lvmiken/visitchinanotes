@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Neighborhoods"
   - "Yangshuo"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What is the best area to eat in Guilin for first-time visitors?"
     answer: "For many first-time visitors, central Guilin is the strongest all-around answer because it keeps arrival meals, Guilin rice noodles, and easy evenings simple, while the riverside side works better when dinner is supporting a Two Rivers and Four Lakes night."

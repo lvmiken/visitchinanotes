@@ -32,7 +32,7 @@ tags:
   - "Food travel"
   - "Night markets"
   - "Trip planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Are night markets in China worth planning around?"
     answer: "Often yes, but usually only once. Most first-time visitors do best with one properly chosen night-market-style evening rather than trying to force one in every city."

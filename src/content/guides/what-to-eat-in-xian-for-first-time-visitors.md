@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What food should first-time visitors try in Xi'an?"
     answer: "Many first-time visitors do best with one biangbiang noodle meal, one roujiamo or snack block, and one fuller specialty such as yangrou paomo or dumplings instead of trying to force every famous dish into the same short stay."

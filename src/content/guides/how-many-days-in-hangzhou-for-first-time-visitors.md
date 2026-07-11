@@ -23,7 +23,7 @@ tags:
   - "Hangzhou"
   - "Trip length"
   - "First trip"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "How many days do first-time visitors need in Hangzhou?"
     answer: "For many first-time visitors, 1 to 2 days works well, with 2 days often being the strongest balance for one real West Lake block and one selective second layer such as Lingyin Temple or Longjing Village."

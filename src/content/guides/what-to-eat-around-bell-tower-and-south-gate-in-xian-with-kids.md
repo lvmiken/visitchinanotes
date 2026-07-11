@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Food"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families eat around Bell Tower and South Gate in Xi'an?"
     answer: "For many first-time families, the best choices are one proper noodle meal, one calmer dumpling dinner, or one fuller sit-down meal on the right day. This area usually works best for real meals rather than a long snack crawl."

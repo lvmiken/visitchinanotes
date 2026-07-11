@@ -23,7 +23,7 @@ tags:
   - "Hidden places"
   - "City views"
   - "Urban travel"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What are the best hidden places in Chongqing?"
     answer: "For many first-time visitors, the most worthwhile hidden-style detours are Baixiangju, Kuixing Building Skybridge, Liziba, and in a broader sense the Yangtze River Cableway when used as part of a smart route."

@@ -29,7 +29,7 @@ heroImageAlt: "Macau Peninsula at night with Grand Lisboa and surrounding city l
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_Center_of_Macau_Peninsula_Night_View.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What are the best things to do in Macau for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are protect one heritage-core block around Senado Square and the Ruins of St. Paul's, add Taipa as the strongest second branch, and use Cotai or Macau Tower only if the trip genuinely wants a more polished modern contrast."

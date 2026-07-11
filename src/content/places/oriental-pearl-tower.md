@@ -35,7 +35,7 @@ tags:
   - "Shanghai"
   - "Oriental Pearl Tower"
   - "Skyline"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Oriental Pearl Tower worth visiting in Shanghai?"
     answer: "Usually yes if your trip wants Shanghai's most recognizable skyline icon and one paid tower experience that feels clearly first-time-visitor friendly. It is usually less important if you mainly want the strongest pure skyline view."

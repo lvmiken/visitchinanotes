@@ -37,7 +37,7 @@ heroImageAlt: "Pedestrians walking along Beijing Road in Guangzhou beneath lante
 heroImageAttributionName: "钉钉"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Beijing_Road,_Guangzhou_18.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Beijing Road worth visiting on a first trip to Guangzhou?"
     answer: "For many first-time visitors, yes, especially if the trip wants one easy central evening that combines food, walking, and practical old-core geography without becoming a complicated cross-city plan."

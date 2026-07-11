@@ -34,7 +34,7 @@ tags:
   - "Beijing"
   - "Nanluoguxiang"
   - "Hutongs"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Nanluoguxiang worth visiting in Beijing?"
     answer: "Often yes as one practical hutong block, especially if you want easy old-city atmosphere and snack-and-browse energy. It is usually not the only hutong answer you need."

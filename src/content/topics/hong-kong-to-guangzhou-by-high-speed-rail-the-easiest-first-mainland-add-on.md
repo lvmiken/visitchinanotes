@@ -32,7 +32,7 @@ tags:
   - "High-speed rail"
   - "South China"
   - "Route planning"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can you take high-speed rail from Hong Kong to Guangzhou?"
     answer: "Yes. The current official MTR High Speed Rail trip planner shows services between Hong Kong West Kowloon and both Guangzhou South and Guangzhou East, with live schedules changing by date."

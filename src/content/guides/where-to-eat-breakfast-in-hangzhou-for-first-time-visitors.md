@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What should first-time visitors eat for breakfast in Hangzhou?"
     answer: "Many first-time visitors do best with one lighter old-name Hangzhou breakfast, one wonton or snack-style morning, or one practical near-hotel breakfast rather than trying to turn every morning into a separate food mission."

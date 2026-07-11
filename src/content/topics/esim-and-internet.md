@@ -33,7 +33,7 @@ tags:
   - "Internet"
   - "eSIM"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Should travelers sort out SIM or eSIM before arriving in China?"
     answer: "Usually yes. A working internet plan makes navigation, communication, and arrival-day problem solving much easier."

@@ -23,7 +23,7 @@ tags:
   - "Wuhou Shrine"
   - "Wenshu Monastery"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Wuhou Shrine or Wenshu Monastery better for first-time visitors?"
     answer: "For many first-time visitors, Wenshu Monastery is better if you want a calmer temple-and-tea stop, while Wuhou Shrine is better if the trip needs one clearer historical and traditional-core branch."

@@ -23,7 +23,7 @@ tags:
   - "Beijing"
   - "4 days"
   - "Itinerary"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is four days enough for Beijing?"
     answer: "Yes. Four days is enough for a strong first Beijing trip if one day is reserved for the Great Wall and the city days are grouped by area."

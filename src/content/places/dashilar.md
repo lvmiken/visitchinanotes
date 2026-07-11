@@ -35,7 +35,7 @@ tags:
   - "Dashilar"
   - "Historic area"
   - "Old city"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Dashilar worth visiting on a first trip to Beijing?"
     answer: "Usually yes if you want a more layered old-commercial quarter than Qianmen alone. It is especially useful for travelers who like walking and urban texture."

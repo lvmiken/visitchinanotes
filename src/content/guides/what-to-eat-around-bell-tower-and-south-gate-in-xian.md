@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Food"
   - "Bell Tower"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should first-time visitors eat around Bell Tower and South Gate in Xi'an?"
     answer: "For many first-time visitors, the best choices are one proper biangbiang noodle meal, one calmer dumpling dinner, or one fuller specialty meal on the right day. This area usually works best for real meals rather than a long snack crawl."

@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Family travel"
   - "Young kids"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Shanghai Disneyland good for young kids?"
     answer: "Often yes. Shanghai Disneyland works well with young kids when families prioritize lower-height rides, use stroller and baby-care support, and avoid building the whole day around long waits or thrill rides meant for older children."

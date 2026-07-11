@@ -23,7 +23,7 @@ tags:
   - "Shenzhen"
   - "Trip length"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "How many days do first-time visitors need in Shenzhen?"
     answer: "For many first-time visitors, 2 days is the best Shenzhen answer. That is usually enough for a modern-city impression, one or two useful districts, and a cleaner South China route without stretching the stay too far."

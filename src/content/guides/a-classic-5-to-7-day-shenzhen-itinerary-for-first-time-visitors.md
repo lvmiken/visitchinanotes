@@ -30,7 +30,7 @@ heroImageAlt: "Daytime panorama of Futian in Shenzhen with the Ping An Finance C
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_panorama_of_Futian_Shenzhen.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is 5 days enough for Shenzhen?"
     answer: "Yes. Five days is enough for a rich first Shenzhen trip if you protect one Futian day, one Nanshan day, one slower urban day, and one real east-coast or specialty branch instead of repeating the same business-district logic."

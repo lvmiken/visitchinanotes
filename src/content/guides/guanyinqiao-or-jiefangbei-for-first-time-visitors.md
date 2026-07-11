@@ -23,7 +23,7 @@ tags:
   - "Guanyinqiao"
   - "Jiefangbei"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Guanyinqiao or Jiefangbei better for first-time visitors?"
     answer: "For many first-time visitors, Jiefangbei is better if the trip needs the easiest skyline-led Chongqing evening or a simpler short-stay base, while Guanyinqiao is better if the trip needs a fuller local dinner-and-drinks district and one broader modern urban night."

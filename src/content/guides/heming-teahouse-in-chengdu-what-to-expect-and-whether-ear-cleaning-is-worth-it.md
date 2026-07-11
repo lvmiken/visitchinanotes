@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Tea houses"
   - "People's Park"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Heming Teahouse worth it in Chengdu?"
     answer: "Usually yes if you want one classic Chengdu tea-house stop and People's Park already belongs in the route. It is less valuable if you mainly want a quiet or more local-feeling tea session."

@@ -23,7 +23,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best area to eat in Chengdu?"
     answer: "For many first-time visitors, the best area depends on the day. The central Chunxi Road side is best for easier short-trip meal planning, Yulin is stronger for a more local food-and-evening block, and Kuanzhai or Jinli are more useful for one controlled atmosphere stop than for every important meal."

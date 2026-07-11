@@ -23,7 +23,7 @@ tags:
   - "Family travel"
   - "Museums"
   - "Shaanxi History Museum"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Shaanxi History Museum good for kids?"
     answer: "Sometimes yes, especially for older kids, teens, families who genuinely like museums, or rainy days that need one serious indoor anchor. It is usually less rewarding for younger children who mainly need movement and simpler pacing."

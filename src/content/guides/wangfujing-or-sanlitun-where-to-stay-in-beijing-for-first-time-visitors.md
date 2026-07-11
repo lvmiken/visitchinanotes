@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Wangfujing"
   - "Sanlitun"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors stay in Wangfujing or Sanlitun?"
     answer: "Many first-time visitors do better in Wangfujing if they want easier access to central Beijing and simpler day structure, while Sanlitun is often stronger for travelers who want dining, nightlife, and a more modern district feel to matter more."

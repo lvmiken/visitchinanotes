@@ -37,7 +37,7 @@ tags:
   - "Shamian Island"
   - "Liwan"
   - "Historic district"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Shamian Island worth visiting for first-time visitors to Guangzhou?"
     answer: "For many first-time visitors, yes, especially as a calmer west-side heritage finish after Yongqing Fang or Liwan rather than as a whole stand-alone attraction day."

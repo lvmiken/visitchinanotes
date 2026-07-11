@@ -33,7 +33,7 @@ tags:
   - "Qingdao"
   - "Badaguan"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Badaguan worth visiting in Qingdao?"
     answer: "Usually yes. Badaguan is often one of Qingdao's best first-time walking districts because it gives slower atmosphere, historic villas, and a calmer coastal city feel."

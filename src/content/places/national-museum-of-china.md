@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "National Museum of China"
   - "Museum"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the National Museum of China worth visiting on a first Beijing trip?"
     answer: "Often yes for museum-minded travelers or visitors who want more historical depth. It matters less for travelers whose Beijing trip is already full of major landmarks and limited time."

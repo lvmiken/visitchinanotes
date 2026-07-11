@@ -27,7 +27,7 @@ heroImageAlt: "Misty sandstone peaks rising through the forest in Zhangjiajie."
 heroImageAttributionName: "chensiyuan"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is two days enough for Zhangjiajie?"
     answer: "Yes, if the trip protects one real scenic anchor and stays disciplined about what the second day is actually for. Two days usually works best when Zhangjiajie National Forest Park carries the core identity and the second day stays selective."

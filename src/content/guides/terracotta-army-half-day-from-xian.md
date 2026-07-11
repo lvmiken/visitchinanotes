@@ -21,7 +21,7 @@ tags:
   - "Xi'an"
   - "Terracotta Army"
   - "Excursion planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the easiest way to get from Xi'an to the Terracotta Army?"
     answer: "For many first-time visitors, taxi, Didi, or a simple pre-arranged transfer is the easiest choice because it removes most of the day-one uncertainty and keeps the return flexible."

@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Hutong tour"
   - "Old Beijing"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is a Beijing hutong tour worth it for first-time visitors?"
     answer: "Often yes, but only if you want interpretation, route structure, or a rickshaw-style old-city experience. Many first-time visitors do just as well with a self-guided hutong half day."

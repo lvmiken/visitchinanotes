@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Sichuan cuisine"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best Sichuan restaurant in Chengdu for first-time visitors?"
     answer: "There usually is not one single best answer. Many first-time visitors do best with Yongle Restaurant or Rong Yuan Can Guan for a classic shared-table dinner, Ma's Kitchen for a more polished central meal, and Silver Pot only if the trip truly wants a splurge."

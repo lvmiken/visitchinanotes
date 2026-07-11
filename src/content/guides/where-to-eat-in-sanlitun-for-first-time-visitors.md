@@ -3,6 +3,7 @@ title: "Where to Eat in Sanlitun for First-Time Visitors"
 description: "Use this Sanlitun food guide to find the best restaurants in Sanlitun Beijing for a first trip, what kind of meal works there, and when Sanlitun is better than Qianmen for dinner."
 publishDate: 2026-06-20
 updatedDate: 2026-06-20
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 evening"
@@ -22,7 +23,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Sanlitun"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Sanlitun worth it for food on a first Beijing trip?"
     answer: "Usually yes if you want one easier modern dinner district, stronger Western or international dining options, or a final-night food-and-drinks block. It is less essential if your trip is very short and mainly focused on classic historic-core meals."

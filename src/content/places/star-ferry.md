@@ -35,7 +35,7 @@ heroImageAlt: "A Star Ferry crossing Victoria Harbour with Hong Kong's skyline i
 heroImageAttributionName: "Alexkom000"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2024-12-27_A_Star_Ferry_crosses_Victoria_Harbour_1.jpg"
 heroImageLicense: "CC BY 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is the Star Ferry worth it on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes. The Star Ferry is often worth it because it gives one of the city's simplest and most iconic harbour crossings without demanding much time or money."

@@ -23,7 +23,7 @@ tags:
   - "Daxing Airport"
   - "Architecture"
   - "Airport"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Beijing Daxing Airport worth arriving early for?"
     answer: "Often yes if you already are flying through Daxing and care about architecture, spatial design, or one more contemporary Beijing image. It is usually not worth treating like a separate city attraction."

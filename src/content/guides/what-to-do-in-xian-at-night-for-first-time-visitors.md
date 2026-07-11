@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should first-time visitors do in Xi'an at night?"
     answer: "For many first-time visitors, the strongest evening choices are one old-city dinner and walk around Bell Tower or South Gate, one snack-and-atmosphere block in the Muslim Quarter, or one fuller pagoda-side evening if the trip has enough room."

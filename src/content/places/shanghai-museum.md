@@ -33,7 +33,7 @@ tags:
   - "Shanghai"
   - "Shanghai Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shanghai Museum worth it for first-time visitors?"
     answer: "Yes for many travelers, especially those who want a cultural block and not only skyline or shopping time. But it is not mandatory if your short trip is already full and your interests are more neighborhood-driven."

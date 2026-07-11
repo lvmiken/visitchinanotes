@@ -35,7 +35,7 @@ tags:
   - "Shenzhen"
   - "Shenzhen Bay"
   - "Houhai"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Are Shenzhen Bay and Houhai worth visiting on a first trip to Shenzhen?"
     answer: "For many first-time visitors, yes, especially if the trip wants to see Shenzhen at its most polished, contemporary, and bayfront-oriented instead of using only practical central districts."

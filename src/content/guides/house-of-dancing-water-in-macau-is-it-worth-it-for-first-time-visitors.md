@@ -29,7 +29,7 @@ tags:
   - "House of Dancing Water"
   - "Night"
   - "Cotai"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is House of Dancing Water worth it for first-time visitors?"
     answer: "Usually yes if Macau has enough room for one event-style evening and the trip wants something more formal than a simple Cotai or Taipa night. It is usually less important on a very short first trip where the heritage core still needs the stronger time block."

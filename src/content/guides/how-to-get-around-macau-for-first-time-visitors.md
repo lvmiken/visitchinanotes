@@ -23,7 +23,7 @@ tags:
   - "Macau"
   - "Transport"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Macau easy to get around for tourists?"
     answer: "Usually yes. Macau is compact enough that walking solves a lot, while buses, hotel shuttles, and selective taxi use handle the longer jumps. It gets harder only when the route keeps bouncing between too many sides of the city."

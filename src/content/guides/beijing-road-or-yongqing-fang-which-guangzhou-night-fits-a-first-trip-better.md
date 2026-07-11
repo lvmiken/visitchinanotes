@@ -23,7 +23,7 @@ tags:
   - "Beijing Road"
   - "Yongqing Fang"
   - "Night planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should first-time visitors choose Beijing Road or Yongqing Fang in Guangzhou?"
     answer: "For many first-time visitors, Beijing Road is the better choice if the evening should stay easy and central, while Yongqing Fang is the better choice if you want stronger old-Guangzhou atmosphere and neighborhood texture."

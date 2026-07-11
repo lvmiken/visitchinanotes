@@ -30,7 +30,7 @@ heroImageAlt: "Xi'an Bell Tower glowing at dusk with sweeping traffic light trai
 heroImageAttributionName: "xiquinhosilva"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Xi%27an_Bell_Tower_-_54075117224.jpg"
 heroImageLicense: "CC BY 2.0"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is 5 days enough for Xi'an?"
     answer: "Yes. Five days is enough for a rich first Xi'an trip if you protect the Terracotta Army, the old city, one museum or pagoda-side day, one stronger food-and-night layer, and one slower buffer day."

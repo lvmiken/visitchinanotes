@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Nightlife"
   - "Bars"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors go for bars in Beijing?"
     answer: "For many first-time visitors, Sanlitun is the easiest all-around answer because it combines cocktails, wine bars, Western restaurants, and a more international evening atmosphere in one district."

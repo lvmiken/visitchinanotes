@@ -29,7 +29,7 @@ tags:
   - "Chunxi Road"
   - "Taikoo Li"
   - "Panda base"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors go to Chunxi Road and Taikoo Li after Chengdu Panda Base?"
     answer: "Usually yes. For many first-time visitors, this is the safest and most useful post-panda answer because it keeps food, walking, dessert, shopping, and hotel returns easy while still feeling like a real part of Chengdu."

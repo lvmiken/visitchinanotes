@@ -23,7 +23,7 @@ tags:
   - "People's Park"
   - "Wenshu Monastery"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is People's Park or Wenshu Monastery better for first-time visitors?"
     answer: "For many first-time visitors, People's Park is better if you want one classic Chengdu tea and city-rhythm stop, while Wenshu Monastery is better if you want a calmer and more reflective temple-and-tea block."

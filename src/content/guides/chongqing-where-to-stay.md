@@ -25,7 +25,7 @@ heroImageAlt: "Aerial night view of Chongqing's Yuzhong skyline framed by the ri
 heroImageAttributionName: "Jonipoon"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg"
 heroImageLicense: "CC BY 3.0"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors stay in Chongqing?"
     answer: "A base with practical access to the areas you care about most usually works better than chasing the single most famous skyline view."

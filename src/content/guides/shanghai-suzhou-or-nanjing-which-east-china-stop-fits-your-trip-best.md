@@ -22,7 +22,7 @@ tags:
   - "Suzhou"
   - "Nanjing"
   - "East China"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should I add Suzhou or Nanjing to a first Shanghai trip?"
     answer: "Usually add Suzhou for atmosphere and softness, or Nanjing for history and a fuller second-city feeling. Add both only if the route has enough room for different rhythms instead of rushed rail sampling."

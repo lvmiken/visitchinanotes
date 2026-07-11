@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Jiefangbei"
   - "Nanbin Road"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors stay in Jiefangbei or Nanbin Road?"
     answer: "For many first-time visitors, Jiefangbei is the safer first choice because it keeps skyline nights and short-stay movement easier, while Nanbin Road works better when scenic atmosphere and river-view evenings matter enough to shape the whole stay."

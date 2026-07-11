@@ -34,7 +34,7 @@ tags:
   - "Health"
   - "Special preparation"
   - "China travel basics"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Should diabetes medication go in checked luggage on a China trip?"
     answer: "Usually no. Current official travel-health guidance strongly supports keeping medicines and key diabetes supplies in your carry-on so they are protected from delay, loss, and damaging temperatures."

@@ -25,7 +25,7 @@ heroImageAlt: "Leifeng Pagoda rising above the trees across West Lake in Hangzho
 heroImageAttributionName: "Yinweichen"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_and_Willow_Tree_across_West_Lake.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Hangzhou worth visiting for first-time travelers to China?"
     answer: "Yes, especially for travelers who want a softer scenic break from larger cities and are willing to slow the trip down a little."

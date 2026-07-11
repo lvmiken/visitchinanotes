@@ -23,7 +23,7 @@ tags:
   - "Purple Mountain"
   - "Sun Yat-sen Mausoleum"
   - "Ming Xiaoling"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Can you do Sun Yat-sen Mausoleum and Ming Xiaoling in one day?"
     answer: "Sometimes, but only if the rest of the day stays controlled. For many first-time visitors, one strong Purple Mountain anchor is enough, and stacking too much there often weakens the overall Nanjing trip."

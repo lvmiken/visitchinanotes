@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Souvenirs"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What food souvenir should I buy in Chongqing?"
     answer: "For many first-time visitors, the safest useful choices are a small amount of Ciqikou mahua, one packaged hot pot base or chili-led cooking gift for someone who actually cooks, and at most one extra shelf-stable snack instead of buying too many overlapping items."

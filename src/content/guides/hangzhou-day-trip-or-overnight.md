@@ -24,7 +24,7 @@ heroImageAlt: "Leifeng Pagoda rising above the trees across West Lake in Hangzho
 heroImageAttributionName: "Yinweichen"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_and_Willow_Tree_across_West_Lake.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Hangzhou worth staying overnight?"
     answer: "Often yes. An overnight stay makes the lake area and evening atmosphere much easier to enjoy without rushing transport back to Shanghai."

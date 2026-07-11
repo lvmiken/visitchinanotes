@@ -29,7 +29,7 @@ tags:
   - "Tea"
   - "Breakfast"
   - "Half day"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best breakfast and tea half day in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, the best version is a Wenshu-side morning with one local breakfast, a calmer Wenshu Monastery block, and one tea break or lighter lunch instead of trying to force too many extra sights into the same half day."

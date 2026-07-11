@@ -23,7 +23,7 @@ tags:
   - "Pingjiang Road"
   - "Guanqian Street"
   - "Half day"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors combine Pingjiang Road and Guanqian Street?"
     answer: "Often yes. Pingjiang gives the route old-city atmosphere, while Guanqian adds the practical meal and central-support layer that stops the half day from becoming too delicate or too vague."

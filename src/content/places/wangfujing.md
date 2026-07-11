@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Wangfujing"
   - "Shopping"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Wangfujing worth visiting on a first Beijing trip?"
     answer: "Often yes in a limited, practical sense. It is useful for many first-time visitors, but usually more as a convenient central area than as a major trip-defining highlight."

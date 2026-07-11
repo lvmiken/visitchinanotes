@@ -27,7 +27,7 @@ tags:
   - "Modern history"
   - "Korean Provisional Government"
   - "Museums"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the Korean Provisional Government site in Shanghai worth visiting?"
     answer: "Usually yes for travelers who care about Korean independence history or East Asian modern history. It is usually less essential for first-time visitors whose Shanghai stop is very short and more skyline-led."

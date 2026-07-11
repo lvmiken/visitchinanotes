@@ -23,7 +23,7 @@ tags:
   - "Shamian Island"
   - "Architecture walk"
   - "Liwan"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Shamian the best place for a French-era walk in Guangzhou?"
     answer: "Usually yes for the architectural portion, but it works best when paired with Liwan or Yongqing Fang so the walk has more texture and context than a standalone island loop."

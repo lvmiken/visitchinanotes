@@ -24,7 +24,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Reservations"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families book in advance for Xi'an?"
     answer: "For many first-time families, the most important Xi'an advance items are the hotel base, the Terracotta Army ticket and day shape, and any onward train tickets tied to a short multi-city route."

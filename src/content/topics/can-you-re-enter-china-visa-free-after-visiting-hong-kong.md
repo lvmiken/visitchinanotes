@@ -31,7 +31,7 @@ tags:
   - "Visa"
   - "Hong Kong"
   - "Visa-free entry"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Can I go to Hong Kong and then re-enter mainland China without a visa?"
     answer: "Often yes if your passport qualifies for China's current ordinary visa-free entry policy, because current official FAQ wording says eligible travelers may enter visa-free multiple times."

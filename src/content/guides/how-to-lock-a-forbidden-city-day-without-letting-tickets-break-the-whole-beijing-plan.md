@@ -23,7 +23,7 @@ tags:
   - "Forbidden City"
   - "Palace Museum"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "How should first-time visitors plan a Forbidden City day in Beijing?"
     answer: "For many first-time visitors, the best Forbidden City day means treating the Palace Museum as the main anchor, securing the ticket first if possible, and then pairing it only with lighter, nearby follow-up blocks like Jingshan, lunch, or a softer old-city continuation."

@@ -23,7 +23,7 @@ tags:
   - "Observation deck"
   - "Shanghai Tower"
   - "Oriental Pearl"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shanghai Tower or Oriental Pearl better for first-time visitors?"
     answer: "Usually Shanghai Tower if you want the strongest pure skyline deck and one premium high-rise view. Oriental Pearl is often better if the trip wants Shanghai's classic icon and a more attraction-style first-time experience."

@@ -21,7 +21,7 @@ tags:
   - "Nanjing"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best area to eat in Nanjing?"
     answer: "For many first-time visitors, the best area depends on the day. The Qinhuai side is strongest for one evening-led food block, Xinjiekou is better for practical central dining, and Laomendong works well for one slower old-city snack or lunch session."

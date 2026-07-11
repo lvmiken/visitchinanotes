@@ -24,7 +24,7 @@ tags:
   - "Mogao Caves"
   - "Booking"
   - "Silk Road"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should foreign travelers book Mogao Caves in advance?"
     answer: "Usually yes. If Dunhuang is a real stop rather than a vague possibility, many first-time visitors should protect the Mogao date early because it is the trip's main anchor."

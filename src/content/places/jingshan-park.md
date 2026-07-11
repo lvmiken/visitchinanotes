@@ -34,7 +34,7 @@ tags:
   - "Beijing"
   - "Jingshan Park"
   - "Park"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Jingshan Park worth visiting on a first Beijing trip?"
     answer: "Often yes, especially if you are already doing the Forbidden City. It is one of the most efficient ways to add a central scenic layer and a panoramic view without much extra route complexity."

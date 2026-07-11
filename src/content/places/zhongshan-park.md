@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Zhongshan Park"
   - "Central Beijing"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Zhongshan Park worth visiting on a first Beijing trip?"
     answer: "Often yes as a short central add-on, especially if you are already in the Tiananmen and Forbidden City area and want one calmer supporting stop."

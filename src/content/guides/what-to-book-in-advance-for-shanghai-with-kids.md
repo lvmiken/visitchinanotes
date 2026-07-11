@@ -24,7 +24,7 @@ tags:
   - "Shanghai"
   - "Family travel"
   - "Reservations"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families book in advance for Shanghai?"
     answer: "For many first-time families, the most important Shanghai bookings are the hotel base, any must-have Shanghai Disneyland day, and any onward train tickets that shape the route."

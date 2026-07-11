@@ -32,7 +32,7 @@ tags:
   - "Yellow Crane Tower"
   - "Wuchang"
   - "Landmarks"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Yellow Crane Tower worth visiting in Wuhan?"
     answer: "Usually yes if the trip wants one symbolic Wuhan landmark and the timing works naturally on a Wuchang-side block. It is less important when the shortest trip still needs breakfast, easier food geography, and a more coherent one-side day first."

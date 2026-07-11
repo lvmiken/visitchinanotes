@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Local dining"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is a fly restaurant in Chengdu?"
     answer: "In Chengdu, a 'fly restaurant' usually means a small, low-frills local restaurant with a strong everyday reputation. It does not literally mean a dirty place; it usually means food-first, simple, and local-feeling."

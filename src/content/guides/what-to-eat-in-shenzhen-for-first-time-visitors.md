@@ -22,7 +22,7 @@ tags:
   - "Shenzhen"
   - "Food"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What food should first-time visitors try in Shenzhen?"
     answer: "Many first-time visitors do best with one Cantonese dim sum or tea-restaurant meal, one Shenzhen specialty such as Shajing oysters or Guangming roast squab, one Hakka or Chaoshan-style meal, and one practical seafood or late-night district continuation instead of trying to collect every famous name."

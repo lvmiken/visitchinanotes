@@ -23,7 +23,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "People's Square"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where should first-time visitors eat near People's Square in Shanghai?"
     answer: "Many first-time visitors do best with Jia Jia Tang Bao for a central xiaolongbao stop, Yang's Fry-Dumpling for a faster practical meal, De Xing Guan for one classic time-honored Shanghai lunch or dinner, and Lao Zheng Xing only when the dinner itself should be one of the trip's bigger food priorities."

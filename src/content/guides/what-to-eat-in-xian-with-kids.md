@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Food"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families eat in Xi'an with kids?"
     answer: "For many first-time families, the strongest Xi'an food plan is one noodle meal, one easy bite such as roujiamo, and one calmer dinner such as dumplings or another fuller local specialty. That usually works better than trying to eat every famous dish in one crowded evening."

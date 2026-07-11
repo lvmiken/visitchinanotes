@@ -32,7 +32,7 @@ tags:
   - "Trip planning"
   - "Independent travel"
   - "China travel basics"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can tourists travel independently in China?"
     answer: "Yes, many can. Independent travel in China is usually quite manageable when travelers prepare payment, mobile data, maps, ride-hailing, and realistic city-to-city movement before departure."

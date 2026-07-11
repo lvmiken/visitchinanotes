@@ -27,7 +27,7 @@ tags:
   - "Solo travel"
   - "Safety"
   - "Night"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shanghai safe at night for solo female travelers?"
     answer: "For many travelers, yes—especially in the main visitor districts where lighting, late-evening activity, and transport options remain strong. The more useful question is which kind of evening plan feels easiest and least tiring alone."

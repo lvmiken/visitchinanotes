@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Jiefangbei"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Jiefangbei a good place to eat in Chongqing?"
     answer: "Usually yes. For many first-time visitors, Jiefangbei is Chongqing's easiest district for a first-night dinner, a central snack-heavy evening, or a meal that pairs naturally with Hongyadong."

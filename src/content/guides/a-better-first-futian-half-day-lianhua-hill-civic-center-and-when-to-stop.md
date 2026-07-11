@@ -25,7 +25,7 @@ tags:
   - "Civic Center"
   - "Ping An Finance Center"
   - "Half day"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What is the best way to spend half a day in Futian?"
     answer: "For many first-time visitors, the cleanest version starts with Lianhua Hill or the Civic Center side for orientation, then moves toward the Ping An and COCO Park side for a lighter commercial finish and dinner."

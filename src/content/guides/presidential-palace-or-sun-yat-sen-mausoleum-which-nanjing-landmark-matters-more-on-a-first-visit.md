@@ -19,7 +19,7 @@ tags:
   - "Nanjing"
   - "History"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Presidential Palace or Sun Yat-sen Mausoleum?"
     answer: "For many first-time visitors, Presidential Palace is the stronger default because it fits a short route more easily and gives a clearer site-led historical story. Sun Yat-sen Mausoleum becomes better when the trip has more time and wants one broader symbolic outdoor landmark."

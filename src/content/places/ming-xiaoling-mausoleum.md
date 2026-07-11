@@ -31,7 +31,7 @@ tags:
   - "Nanjing"
   - "History"
   - "Mausoleum"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Ming Xiaoling Mausoleum worth visiting in Nanjing?"
     answer: "Often yes for travelers who want deeper dynastic history and already have enough time for more than Nanjing's basic first-time structure. It is less essential on the shortest version of the city."

@@ -35,7 +35,7 @@ tags:
   - "Chongqing"
   - "Nanshan"
   - "Skyline"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Nanshan Yikeshu worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, especially if the trip already has one classic skyline night and now wants one bigger panoramic whole-city view."

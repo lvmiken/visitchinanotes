@@ -22,7 +22,7 @@ tags:
   - "Yangshuo"
   - "Overnight"
   - "Guilin region"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Yangshuo worth staying overnight?"
     answer: "Usually yes, especially if your route wants a softer scenic chapter after Guilin or the Li River. One night is often enough to make Yangshuo feel like more than a transport endpoint."

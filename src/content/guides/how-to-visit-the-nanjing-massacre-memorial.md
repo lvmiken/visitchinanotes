@@ -23,7 +23,7 @@ tags:
   - "Nanjing"
   - "History"
   - "Museum"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is the Nanjing Massacre Memorial worth visiting for first-time visitors?"
     answer: "Usually yes for travelers who genuinely want modern-history depth and can give the visit respectful time and emotional space. It is often one of Nanjing's most important history stops."

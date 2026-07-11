@@ -22,7 +22,7 @@ tags:
   - "Hong Kong"
   - "Food"
   - "Local flavours"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What food should first-time visitors try in Hong Kong?"
     answer: "Many first-time visitors do best with one dim sum meal, one cha chaan teng breakfast or snack stop, one roast-meat meal, one wonton-noodle or congee stop, and one street-snack or Temple Street-style continuation instead of trying to eat every famous dish in one day."

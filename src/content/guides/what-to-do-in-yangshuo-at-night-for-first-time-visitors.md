@@ -23,7 +23,7 @@ tags:
   - "Night"
   - "West Street"
   - "Guilin region"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What should first-time visitors do in Yangshuo at night?"
     answer: "For many first-time visitors, the strongest Yangshuo night is either an easy West Street dinner-and-walk evening, the Impression Sister Liu show if you want one structured event, or a deliberately light night that protects the next day's scenic branch."

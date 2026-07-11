@@ -24,7 +24,7 @@ tags:
   - "Tsim Sha Tsui"
   - "Hotels"
   - "Comparison"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Central or Tsim Sha Tsui better for first-time visitors in Hong Kong?"
     answer: "For many first-time visitors, Tsim Sha Tsui is better if you want the safest classic base with easier skyline and harbour access, while Central is better if you want stronger neighborhood rhythm, food, and a more lived-in Hong Kong Island stay."

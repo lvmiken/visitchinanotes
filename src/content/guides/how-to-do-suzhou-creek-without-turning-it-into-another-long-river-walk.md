@@ -25,7 +25,7 @@ tags:
   - "Shanghai"
   - "Suzhou Creek"
   - "City walk"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "How should first-time visitors do Suzhou Creek?"
     answer: "Usually by choosing one focused section, deciding whether the route is photo-led or art-led, and protecting a clear stop point before the walk starts to sprawl."

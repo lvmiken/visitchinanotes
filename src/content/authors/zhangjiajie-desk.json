@@ -1,0 +1,15 @@
+{
+  "name": "Zhangjiajie Editorial Desk",
+  "entityType": "organization",
+  "role": "Zhangjiajie City Desk",
+  "shortBio": "Maintains Zhangjiajie coverage with a focus on park pacing, ticket logic, weather windows, and base choice.",
+  "fullBio": "The Zhangjiajie Editorial Desk maintains guides, place pages, and planning coverage related to Zhangjiajie. Its focus is helping readers judge how many park days they really need, which base fits better, and how to use weather, queue patterns, and mountain logistics without wasting a short trip.",
+  "expertise": [
+    "Zhangjiajie park planning",
+    "Weather and queue-sensitive pacing",
+    "Base-choice and mountain logistics"
+  ],
+  "reviewProcess": "Pages are reviewed for mountain-route realism, weather sensitivity, and whether the advice still reflects practical Zhangjiajie travel conditions.",
+  "seoTitle": "Zhangjiajie Editorial Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains Zhangjiajie guides, place pages, and planning coverage on China Travel Notes."
+}

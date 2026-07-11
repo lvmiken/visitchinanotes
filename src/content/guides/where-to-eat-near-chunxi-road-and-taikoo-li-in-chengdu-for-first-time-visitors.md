@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Chunxi Road"
   - "Taikoo Li"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Chunxi Road a good area to eat in Chengdu?"
     answer: "Yes. For many first-time visitors, Chunxi Road is one of the safest Chengdu food areas for an easy first-night dinner, a practical lunch, or a lower-effort evening that still feels modern and enjoyable."

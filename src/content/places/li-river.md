@@ -34,7 +34,7 @@ tags:
   - "Li River"
   - "Yangshuo"
   - "Scenery"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is the Li River cruise worth it for first-time visitors?"
     answer: "Usually yes. For many first-time visitors, it is the clearest signature scenic experience in the Guilin region and often the strongest reason to include this part of China at all."

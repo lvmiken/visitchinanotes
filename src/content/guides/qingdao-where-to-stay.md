@@ -26,7 +26,7 @@ heroImageAlt: "Zhanqiao Pier stretching into the sea in Qingdao with Little Qing
 heroImageAttributionName: "K.Y.K.Z.K."
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhanqiao_pier_with_Little_Qingdao_Isle.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best area to stay in Qingdao?"
     answer: "For many first-time visitors, the best Qingdao base is the one that matches the trip style, often a walkable coastal area with easier daily movement rather than the most central map location."

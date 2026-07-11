@@ -23,7 +23,7 @@ tags:
   - "Itinerary"
   - "Shangri-La"
   - "Lijiang"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "How many days do you need for Lijiang and Shangri-La without Tiger Leaping Gorge?"
     answer: "For many first-time visitors, four days is the tighter useful version and five days is where the route starts feeling calmer and more complete."

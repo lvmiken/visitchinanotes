@@ -24,7 +24,7 @@ tags:
   - "Transport"
   - "Route planning"
   - "Tiger Leaping Gorge"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the best way to travel between Lijiang, Tiger Leaping Gorge, and Shangri-La?"
     answer: "For many first-time visitors, the strongest pattern is Lijiang first, Tiger Leaping Gorge in the middle, and Shangri-La last, using the gorge as a selective road chapter rather than pretending the whole branch is one frictionless rail hop."

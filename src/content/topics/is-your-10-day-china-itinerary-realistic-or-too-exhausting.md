@@ -37,7 +37,7 @@ tags:
   - "Trip planning"
   - "Itinerary"
   - "10 days"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is three cities in 10 days in China too much?"
     answer: "Not always. Three cities can work very well in 10 days, but only when the route is disciplined and the transfer days are treated honestly."

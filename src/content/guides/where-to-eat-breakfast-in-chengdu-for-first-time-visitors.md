@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors eat breakfast in Chengdu?"
     answer: "Many first-time visitors do best with one local breakfast in the Wenshu Monastery area or one easier central breakfast near Chunxi Road and Taikoo Li, depending on whether the day is more culture-led or convenience-led."

@@ -20,7 +20,7 @@ tags:
   - "Shanghai"
   - "Airport transfer"
   - "Arrival"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Shanghai airport transfer easy for foreign tourists?"
     answer: "Usually yes, especially compared with many other first arrivals in China, but the easiest choice still depends on the airport, hotel area, and arrival time."

@@ -19,7 +19,7 @@ tags:
   - "Suzhou"
   - "Gardens"
   - "Comparison"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Which garden should first-time visitors choose in Suzhou?"
     answer: "For many first-time visitors, Humble Administrator's Garden is the better first choice because it gives the clearest single classical-garden experience on a short trip. Lingering Garden becomes more attractive when the stay is slower and can support a second serious garden."

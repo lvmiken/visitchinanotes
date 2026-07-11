@@ -21,7 +21,7 @@ tags:
   - "Yangshuo"
   - "First trip"
   - "Scenic town"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Yangshuo worth visiting on a first trip to China?"
     answer: "Usually yes if your route wants a slower scenic town and one more atmospheric overnight after Guilin. It is often stronger as an extension of the Guilin region than as a stand-alone city break."

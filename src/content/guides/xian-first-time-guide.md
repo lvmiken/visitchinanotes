@@ -26,7 +26,7 @@ heroImageAlt: "Illuminated Tang-style sculptures and red lanterns at Great Tang 
 heroImageAttributionName: "源義信"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2023-10-10_%E8%A5%BF%E5%AE%89%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E_Great_Tang_All_Day_Mall_31.jpg"
 heroImageLicense: "CC BY 4.0"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Xi'an worth visiting on a first trip to China?"
     answer: "Yes. Xi'an is often one of the most manageable and rewarding historical stops for first-time visitors, especially on a route that cannot support too many long stays."

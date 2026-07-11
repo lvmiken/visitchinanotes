@@ -23,7 +23,7 @@ tags:
   - "Bund"
   - "Night views"
   - "Itinerary"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "How do you plan one good Bund night in Shanghai?"
     answer: "For many first-time visitors, the best Bund night means arriving before full dark, choosing one clean skyline stretch instead of wandering the whole promenade, and then pairing it with either dinner, a river cruise, or a simple nearby continuation."

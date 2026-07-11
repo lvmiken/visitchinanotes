@@ -33,7 +33,7 @@ tags:
   - "Xi'an"
   - "Guangren Temple"
   - "Temple"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Guangren Temple worth visiting in Xi'an?"
     answer: "Usually yes if your Xi'an trip wants one quieter spiritual stop and the main highlights already are secure. It is usually less worth it on a very short first trip."

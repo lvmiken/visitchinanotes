@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Xi'an City Wall"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Xi'an City Wall good for kids?"
     answer: "Usually yes. Xi'an City Wall works well for kids because it gives space to move, obvious historical scale, and a lighter in-city activity than another formal museum stop."

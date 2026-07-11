@@ -33,7 +33,7 @@ tags:
   - "Hangzhou"
   - "Longjing"
   - "Tea"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Longjing Village worth visiting in Hangzhou?"
     answer: "Usually yes if your Hangzhou trip wants tea-culture scenery and enough time for a slower supporting branch beyond West Lake."

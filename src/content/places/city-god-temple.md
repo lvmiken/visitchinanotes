@@ -35,7 +35,7 @@ tags:
   - "Shanghai"
   - "City God Temple"
   - "Old City"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is City God Temple worth visiting in Shanghai?"
     answer: "Often yes as part of a selective old-city block, especially if you want traditional contrast and snack-and-street atmosphere. It is usually not a top standalone priority by itself."

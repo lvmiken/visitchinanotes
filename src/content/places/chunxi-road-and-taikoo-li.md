@@ -35,7 +35,7 @@ tags:
   - "Chengdu"
   - "Chunxi Road"
   - "Taikoo Li"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Chunxi Road worth visiting in Chengdu?"
     answer: "Usually yes. For many first-time visitors, Chunxi Road is one of the easiest and most useful central Chengdu areas for meals, shopping, and a lower-friction modern evening."

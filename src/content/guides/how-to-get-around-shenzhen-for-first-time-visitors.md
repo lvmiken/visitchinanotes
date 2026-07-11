@@ -24,7 +24,7 @@ tags:
   - "Transport"
   - "Metro"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Shenzhen easy to get around for tourists?"
     answer: "Usually yes. Shenzhen Metro handles most major daytime moves well, and taxi or Didi cleans up the awkward edges. The city gets tiring only when the route keeps stretching across too many districts in the same day."

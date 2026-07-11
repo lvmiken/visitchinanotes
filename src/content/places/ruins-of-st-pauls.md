@@ -36,7 +36,7 @@ tags:
   - "Macau"
   - "Ruins of St. Paul's"
   - "World Heritage"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Are the Ruins of St. Paul's worth visiting on a first trip to Macau?"
     answer: "For many first-time visitors, yes. The Ruins of St. Paul's are usually worth it because they give Macau its most recognizable heritage landmark and fit naturally into the old-core walking day most travelers already should protect."

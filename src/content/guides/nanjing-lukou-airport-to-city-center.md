@@ -24,7 +24,7 @@ tags:
   - "Nanjing Lukou International Airport"
   - "Airport transfer"
   - "East China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Nanjing airport to the city center?"
     answer: "For many first-time visitors, Metro Line S1 is the cleanest public-transport answer because it takes you to Nanjing South first, where onward metro or a short taxi becomes much easier. Taxi or Didi is still better for late arrivals, heavy luggage, or hotel bases that would need one awkward final leg after the train."

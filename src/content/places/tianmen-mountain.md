@@ -32,7 +32,7 @@ tags:
   - "Zhangjiajie"
   - "Tianmen Mountain"
   - "Nature"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Tianmen Mountain worth visiting in Zhangjiajie?"
     answer: "Usually yes, especially if your trip wants one dramatic mountain branch with cable-car and cliffside appeal or if the stop is too short for a deeper multi-day park focus."

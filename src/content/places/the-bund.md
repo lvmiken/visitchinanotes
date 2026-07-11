@@ -34,7 +34,7 @@ tags:
   - "Shanghai"
   - "The Bund"
   - "Skyline"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the Bund worth visiting on a first trip to Shanghai?"
     answer: "Yes. For most first-time visitors, the Bund is one of the clearest orientation points in Shanghai because it gives the strongest classic skyline view and helps frame the city quickly."

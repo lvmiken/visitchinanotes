@@ -27,7 +27,7 @@ tags:
   - "Shanghai Disneyland"
   - "Zootopia"
   - "Young kids"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Zootopia: Hot Pursuit too scary for young kids?"
     answer: "Sometimes. Many young kids enjoy it, but children who dislike darker indoor rides, loud chase energy, or surprise motion may find it more intense than the characters suggest."

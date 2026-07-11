@@ -23,7 +23,7 @@ tags:
   - "Night"
   - "Itinerary planning"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What should first-time visitors do in Macau at night?"
     answer: "For many first-time visitors, the strongest Macau evenings are one Macau Peninsula heritage-and-food night, one Taipa or softer south-side evening, and one selective Cotai or Macau Tower contrast only if the trip genuinely wants a more polished modern finish."

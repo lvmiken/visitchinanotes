@@ -23,7 +23,7 @@ tags:
   - "Harbin"
   - "Harbin Ice Festival"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is the Harbin Ice Festival worth it for first-time visitors?"
     answer: "Usually yes if your route genuinely wants a winter-spectacle chapter and can protect one serious cold-weather evening. For many first-time visitors, that is what makes Harbin distinct enough to earn its place."

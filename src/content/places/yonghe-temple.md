@@ -34,7 +34,7 @@ tags:
   - "Beijing"
   - "Yonghe Temple"
   - "Temple"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Yonghe Temple worth visiting on a first Beijing trip?"
     answer: "Often yes, especially if you have three or four days and want one calmer, more focused cultural stop beyond the biggest imperial anchors."

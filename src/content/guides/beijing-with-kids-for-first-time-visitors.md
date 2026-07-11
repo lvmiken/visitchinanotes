@@ -24,7 +24,7 @@ tags:
   - "Beijing"
   - "Family travel"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Beijing a good destination for families with kids?"
     answer: "Often yes. Beijing works well for families when the trip is planned around one major anchor per day, realistic transport choices, and enough room for breaks, parks, or easier evening blocks."

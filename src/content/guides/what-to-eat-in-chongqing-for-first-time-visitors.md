@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What food should first-time visitors try in Chongqing?"
     answer: "Many first-time visitors do best with one Chongqing hot-pot meal, one xiaomian or simpler noodle stop, and one fuller local dinner such as grilled fish or other shared dishes instead of trying to make every meal equally heavy and spicy."

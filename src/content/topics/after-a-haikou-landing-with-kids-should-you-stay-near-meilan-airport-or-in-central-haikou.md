@@ -3,6 +3,7 @@ title: "After a Haikou Landing With Kids, Should You Stay Near Meilan Airport or
 description: "Use this Haikou family overnight guide to choose between staying near Meilan Airport or going into central Haikou, based on landing time, child energy, next-day plans, and whether Qilou actually matters to the trip."
 publishDate: 2026-06-29
 updatedDate: 2026-06-29
+noindex: true
 planningMoment: "book-transport"
 whenToRead: "Best read once your family has already decided to keep one Haikou night and now needs to know whether that night should stay airport-simple or become a real central-Haikou stop."
 affectsCities:
@@ -23,7 +24,7 @@ tags:
   - "Haikou"
   - "Family travel"
   - "Airport transfers"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Should families stay near Haikou Meilan Airport or in central Haikou?"
     answer: "Stay near the airport if the night is purely functional. Stay in central Haikou if the family genuinely wants one Qilou-style city block or a softer urban evening before moving on."

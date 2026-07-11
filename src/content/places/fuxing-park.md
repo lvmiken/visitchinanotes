@@ -35,7 +35,7 @@ tags:
   - "Fuxing Park"
   - "French Concession"
   - "People watching"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Fuxing Park worth visiting in Shanghai?"
     answer: "Usually yes if your trip wants one slower, lived-in pause inside the French Concession side of the city. It is usually less important as a stand-alone attraction than the Bund or the French Concession itself."

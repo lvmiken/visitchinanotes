@@ -23,7 +23,7 @@ tags:
   - "Winter walk"
   - "Zhongyang Street"
   - "Saint Sophia Cathedral"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "How should first-time visitors plan Zhongyang Street and Saint Sophia in winter?"
     answer: "For many first-time visitors, the best plan is to make Zhongyang Street the main walking spine, add Saint Sophia as a shorter visual stop, and build in at least one real warm-up break or meal so the half day stays enjoyable."

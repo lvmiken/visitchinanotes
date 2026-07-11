@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Food"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Where should families eat in Xi'an's old city?"
     answer: "For many first-time families, the safest answer is around Bell Tower or South Gate because the area keeps meals, old-city walking, and hotel returns easier than a more intense snack-street plan."

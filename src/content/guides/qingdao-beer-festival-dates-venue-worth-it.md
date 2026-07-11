@@ -23,7 +23,7 @@ tags:
   - "Qingdao"
   - "Beer Festival"
   - "Summer travel"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "When is the Qingdao Beer Festival?"
     answer: "As of June 26, 2026, current city-backed reporting points to the 36th Qingdao International Beer Festival running from July 18 to August 16, 2026, though exact programming should still be rechecked before final booking."

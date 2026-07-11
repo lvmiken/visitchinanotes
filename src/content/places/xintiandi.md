@@ -37,7 +37,7 @@ tags:
   - "Shanghai"
   - "Xintiandi"
   - "Nightlife"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Xintiandi worth visiting in Shanghai?"
     answer: "Usually yes if your Shanghai trip wants one polished dinner or drinks district with easy logistics and a modern city feel. It is usually less important as a daytime sightseeing priority."

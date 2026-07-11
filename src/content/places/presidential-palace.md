@@ -27,7 +27,7 @@ heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Nanjing"
   - "History"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Presidential Palace worth visiting in Nanjing?"
     answer: "Usually yes for first-time visitors who want one clear political and republican-era history anchor rather than a broader museum-style experience."

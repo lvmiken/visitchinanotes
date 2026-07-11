@@ -35,7 +35,7 @@ tags:
   - "Hangzhou"
   - "Hangzhou Museum"
   - "Museum"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Hangzhou Museum worth visiting for first-time visitors?"
     answer: "Usually yes, especially if you want one central museum block that adds culture without making a short Hangzhou trip feel too formal or too crowded."

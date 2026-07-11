@@ -28,7 +28,7 @@ heroImageAlt: "Misty sandstone peaks rising through the forest in Zhangjiajie."
 heroImageAttributionName: "chensiyuan"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Where should first-time visitors stay in Zhangjiajie?"
     answer: "For many first-time visitors, stay in Wulingyuan if Zhangjiajie National Forest Park is the core priority. Stay in downtown Zhangjiajie if Tianmen Mountain, airport or train convenience, and a simpler short stop matter more."

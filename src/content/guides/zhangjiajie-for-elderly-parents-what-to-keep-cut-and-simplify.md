@@ -24,7 +24,7 @@ tags:
   - "Family travel"
   - "Elderly parents"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Zhangjiajie suitable for elderly parents?"
     answer: "Often yes for reasonably mobile older travelers if the trip is simplified aggressively. It becomes much weaker when families try to keep every famous mountain branch, long queue, and extra transfer."

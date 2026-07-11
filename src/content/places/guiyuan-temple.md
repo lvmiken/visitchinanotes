@@ -29,7 +29,7 @@ tags:
   - "Guiyuan Temple"
   - "Temple"
   - "Hanyang"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Guiyuan Temple worth visiting in Wuhan?"
     answer: "Usually yes as a supporting stop if your Wuhan trip already has its breakfast, one stronger landmark or cultural layer, and one useful evening protected. It is usually not the first block to save on the shortest visit."

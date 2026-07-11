@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Packing"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Can you bring snacks into Shanghai Disneyland?"
     answer: "Shanghai Disney's official dietary page currently says a reasonable amount of baby food, dry snacks, or fruit is allowed. If the food need is medical or dietary, Guest Services is the safer official checkpoint."

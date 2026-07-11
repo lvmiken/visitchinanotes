@@ -23,7 +23,7 @@ tags:
   - "Zhangjiajie"
   - "Transport"
   - "Wulingyuan"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Zhangjiajie easy to get around for tourists?"
     answer: "It is manageable, but it is not one compact city. For many first-time visitors, the easiest pattern is to keep hotel base and scenic priority aligned, then use taxi or Didi for cross-zone moves and eco-buses inside the forest park."

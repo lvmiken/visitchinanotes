@@ -28,7 +28,7 @@ tags:
   - "Chongqing"
   - "Museums"
   - "Comparisons"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors choose Chongqing Natural History Museum or China Three Gorges Museum?"
     answer: "For many first-time visitors, China Three Gorges Museum is the better default because it is more central and more directly useful to understanding Chongqing. Chongqing Natural History Museum is better if science exhibits are a real priority and your trip can support the Beibei branch."

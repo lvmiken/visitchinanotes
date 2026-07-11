@@ -20,7 +20,7 @@ tags:
   - "Suzhou"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What should first-time visitors do in Suzhou on a rainy day?"
     answer: "For many first-time visitors, the best move is to simplify the plan around Suzhou Museum, one selective canal-street block such as Pingjiang Road, and one protected meal or evening instead of forcing a full garden-heavy day."

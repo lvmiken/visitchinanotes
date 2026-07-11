@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Skyline"
   - "Night views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where do first-time visitors get the best skyline view in Chongqing?"
     answer: "For many first-time visitors, the easiest and strongest first skyline answer is a Hongyadong and Jiefangbei evening, while the best broader alternatives are a Two Rivers cruise, Nanbin Road, or Nanshan Yikeshu depending on whether you want an event, a scenic walk, or a panoramic viewpoint."

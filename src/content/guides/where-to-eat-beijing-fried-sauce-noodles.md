@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Zhajiangmian"
   - "Noodles"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best place to eat zhajiangmian in Beijing?"
     answer: "For many first-time visitors, Fangzhuanchang No. 69 is the clearest answer because it is specifically known for zhajiangmian and has current government and Michelin-level recognition."

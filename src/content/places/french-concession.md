@@ -36,7 +36,7 @@ tags:
   - "Shanghai"
   - "French Concession"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the French Concession worth it on a first Shanghai trip?"
     answer: "Yes, especially if you want the city to feel human-scaled, walkable, and food-oriented rather than only famous and fast."

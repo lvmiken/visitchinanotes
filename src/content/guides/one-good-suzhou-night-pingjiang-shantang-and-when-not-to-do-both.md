@@ -23,7 +23,7 @@ tags:
   - "Night"
   - "Pingjiang Road"
   - "Shantang Street"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors do both Pingjiang Road and Shantang Street at night?"
     answer: "Usually no. Most first-time visitors do better choosing one district clearly, then protecting dinner and one measured canal walk instead of splitting the night between two similar old-street jobs."

@@ -23,7 +23,7 @@ tags:
   - "Shamian Island"
   - "Walking route"
   - "Architecture"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Shamian good for a walking route in Guangzhou?"
     answer: "Yes, especially if you want a shorter heritage walk with calmer streets, architecture, and shade rather than a dense sightseeing district."

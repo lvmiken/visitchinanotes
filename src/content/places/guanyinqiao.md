@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Guanyinqiao"
   - "Nightlife"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Guanyinqiao worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, especially if the trip already has one classic Hongyadong and Jiefangbei night and now needs a broader modern dinner-and-evening district."

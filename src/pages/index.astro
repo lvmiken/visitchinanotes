@@ -6,10 +6,13 @@ import GuideCard from "../components/GuideCard.astro";
 import TopicCard from "../components/TopicCard.astro";
 import TopicClusterCard from "../components/TopicClusterCard.astro";
 import PlaceCard from "../components/PlaceCard.astro";
+import AuthorCard from "../components/AuthorCard.astro";
 import { destinationGroups } from "../lib/destinationGroups";
 import { topicClusters } from "../lib/topicClusters";
+import { getAuthorSlug } from "../lib/authors";
 
 const cities = await getCollection("cities");
+const authors = await getCollection("authors");
 const guides = (await getCollection("guides", ({ data }) => !data.draft)).sort(
   (a, b) => b.data.publishDate.valueOf() - a.data.publishDate.valueOf(),
 );
@@ -44,6 +47,112 @@ const highIntentGuideSlugs = [
 ];
 const highIntentGuides = highIntentGuideSlugs
   .map((slug) => guides.find((guide) => guide.slug === slug))
+  .filter(Boolean);
+const editorialFeatureConfigs = [
+  {
+    slug: "beijing-fast-and-slow-where-ancient-souls-and-high-tech-comforts-actually-meet",
+    desk: "From The Beijing Desk",
+    sectionTitle: "A stronger first impression of China often begins with the Beijing that feels lived, not only monumental.",
+    intro:
+      "This feature explains why Beijing feels richest when imperial scale, hutong life, park culture, food routines, and digital convenience are read together instead of as separate tourist boxes.",
+    bullets: [
+      "Pairs micro city observation with practical visitor advice.",
+      "Pushes beyond the usual Beijing landmark checklist.",
+      "Shows how a city desk can publish deeper service journalism, not only search-driven guides.",
+    ],
+    hubHref: "/destinations/beijing/",
+    hubLabel: "Open Beijing hub",
+  },
+  {
+    slug: "shanghai-the-liquid-city-where-haipai-life-still-feels-alive",
+    desk: "From The Shanghai Desk",
+    sectionTitle: "Shanghai becomes far more memorable when the skyline is only one layer of a city built on Haipai coexistence.",
+    intro:
+      "This feature uses architecture, longtang life, coffee culture, Suzhou Creek, and nighttime social rituals to explain why Shanghai works so well as both a soft landing and a culturally serious city.",
+    bullets: [
+      "Explains Shanghai through Haipai culture instead of skyline clichés alone.",
+      "Connects style, food, architecture, and local routines in one narrative.",
+      "Strengthens the site's magazine sensibility without losing trip-planning value.",
+    ],
+    hubHref: "/destinations/shanghai/",
+    hubLabel: "Open Shanghai hub",
+  },
+  {
+    slug: "chengdu-the-underground-oasis-where-anyi-and-youth-culture-still-share-the-same-streets",
+    desk: "From The Chengdu Desk",
+    sectionTitle: "Chengdu feels most revealing when tea-house calm, Yulin street life, youth style, and softer forms of self-expression are read together.",
+    intro:
+      "This feature explains why Chengdu means far more than pandas and hotpot, using anyi, neighborhood culture, queer-friendly ease, cafes, and music scenes to show the city as a real contemporary refuge for younger travelers.",
+    bullets: [
+      "Pushes Chengdu beyond panda-and-food stereotypes into a fuller social portrait.",
+      "Adds a more magazine-like city voice while still connecting into practical planning pages.",
+      "Helps the publication feel more observed, authored, and less like a templated search library.",
+    ],
+    hubHref: "/destinations/chengdu/",
+    hubLabel: "Open Chengdu hub",
+  },
+  {
+    slug: "chongqing-the-cyber-grit-on-the-yangtze-where-vertical-space-and-jianghu-still-shape-the-city",
+    desk: "From The Chongqing Desk",
+    sectionTitle: "Chongqing becomes much more than a viral 3D city once its vertical space, industrial afterlife, food heat, and rough human energy are read together.",
+    intro:
+      "This feature moves beyond cyberpunk photo clichés to explain why Chongqing feels so physically intense, using impossible levels, bomb shelters, river-city pressure, and jianghu temperament to give the city a stronger editorial identity.",
+    bullets: [
+      "Pushes Chongqing beyond skyline spectacle into industrial, social, and cultural depth.",
+      "Connects viral visual hooks to harder realities such as terrain, labor, and bunker reuse.",
+      "Further strengthens the homepage's magazine character for both readers and AdSense review.",
+    ],
+    hubHref: "/destinations/chongqing/",
+    hubLabel: "Open Chongqing hub",
+  },
+  {
+    slug: "qingdao-ocean-foam-and-old-european-ghosts-where-coastal-romance-still-feels-local",
+    desk: "From The Qingdao Desk",
+    sectionTitle: "Qingdao feels richest when German-era silhouettes, bagged draft beer, seafood appetite, and sea-facing slowness are read as one coastal culture.",
+    intro:
+      "This feature pushes Qingdao beyond the Tsingtao bottle image, using old villas, red roofs, local beer rituals, seafood life, and Laoshan's mountain-and-sea contrast to give the city a softer but highly specific editorial identity.",
+    bullets: [
+      "Turns Qingdao from a light add-on city into a place with real publication-level texture.",
+      "Connects architecture, beer, seafood, and coastal pacing without falling into brochure language.",
+      "Adds a fifth distinctive city voice to the homepage's growing magazine spine.",
+    ],
+    hubHref: "/destinations/qingdao/",
+    hubLabel: "Open Qingdao hub",
+  },
+  {
+    slug: "xian-the-dust-the-subterranean-and-the-punk-symphony-where-history-refuses-to-stay-buried",
+    desk: "From The Xi'an Desk",
+    sectionTitle: "Xi'an feels most revealing when imperial gravity, food ritual, archaeology, and neon historical performance are allowed to collide without being cleaned up.",
+    intro:
+      "This feature pushes Xi'an beyond Terracotta Army shorthand, using walls, paomo, buried history, and Tang-themed night culture to show the city as one of China's most surreal and physically grounded urban experiences.",
+    bullets: [
+      "Turns Xi'an from a schoolbook history stop into a living, rough-edged editorial city portrait.",
+      "Connects archaeology, food, old-city pacing, and contemporary spectacle in one durable narrative.",
+      "Adds a sixth strong city voice to the homepage's magazine-style publication spine.",
+    ],
+    hubHref: "/destinations/xian/",
+    hubLabel: "Open Xi'an hub",
+  },
+  {
+    slug: "guangzhou-the-subtropical-underground-where-wok-hei-and-low-fi-life-still-rule",
+    desk: "From The Guangzhou Desk",
+    sectionTitle: "Guangzhou feels most revealing when food heat, trade routes, low-fi street life, and anti-pretentious style are read as one southern urban ecosystem.",
+    intro:
+      "This feature pushes Guangzhou beyond Canton Fair shorthand, using urban-village logic, Dongshankou style, Xiaobei's grassroots globalism, Pearl River nights, and wok hei to show why the city often feels freer than its official image suggests.",
+    bullets: [
+      "Turns Guangzhou from a practical food stop into a full editorial portrait with social texture.",
+      "Connects trade, migration, appetite, and street style without relying on brittle venue-driven hype.",
+      "Adds a seventh strong city voice to the homepage's magazine-style publication spine.",
+    ],
+    hubHref: "/destinations/guangzhou/",
+    hubLabel: "Open Guangzhou hub",
+  },
+];
+const editorialFeatures = editorialFeatureConfigs
+  .map((config) => {
+    const guide = guides.find((entry) => entry.slug === config.slug);
+    return guide ? { ...config, guide } : undefined;
+  })
   .filter(Boolean);
 
 const groupedCities = destinationGroups
@@ -83,6 +192,34 @@ const featuredPlaceSlugs = [
 const featuredPlaces = featuredPlaceSlugs
   .map((slug) => places.find((place) => place.slug === slug))
   .filter(Boolean);
+const featuredDeskIds = [
+  "beijing-desk",
+  "shanghai-desk",
+  "xian-desk",
+  "route-planning-desk",
+  "travel-readiness-desk",
+  "entry-and-visa-desk",
+  "family-travel-desk",
+  "transport-and-payments-desk",
+];
+const featuredDesks = featuredDeskIds
+  .map((id) => authors.find((author) => author.id === id))
+  .filter(Boolean);
+const deskCount = authors.filter((author) => author.id !== "editorial-team").length;
+const specialistDeskCount = [
+  "route-planning-desk",
+  "travel-readiness-desk",
+  "entry-and-visa-desk",
+  "family-travel-desk",
+  "transport-and-payments-desk",
+].filter((id) => authors.some((author) => author.id === id)).length;
+const trustLinks = [
+  { label: "About the publication", href: "/about/" },
+  { label: "Publication masthead", href: "/masthead/" },
+  { label: "Editorial policy", href: "/editorial-policy/" },
+  { label: "Editors and desks", href: "/authors/" },
+  { label: "Contact the editors", href: "/contact/" },
+];
 ---
 
 <BaseLayout
@@ -126,6 +263,36 @@ const featuredPlaces = featuredPlaceSlugs
     </aside>
   </section>
 
+  {editorialFeatures.length > 0 && (
+    <section class="section-block">
+      <p class="eyebrow">Editorial Features</p>
+      <h2 class="section-title">Magazine-style city features that make the publication feel more opinionated, observant, and culturally specific.</h2>
+      <div class="stack">
+        {editorialFeatures.map((feature) => (
+          <section class="card-surface">
+            <p class="eyebrow">{feature.desk}</p>
+            <h3>{feature.sectionTitle}</h3>
+            <p class="muted">{feature.intro}</p>
+            <div class="grid two" style="align-items: start;">
+              <GuideCard guide={feature.guide} />
+              <article class="card-surface">
+                <p class="eyebrow">Why It Matters</p>
+                <h3>It makes the site feel more like a publication than a pure search library.</h3>
+                <ul class="mini-list">
+                  {feature.bullets.map((item) => <li>{item}</li>)}
+                </ul>
+                <div class="button-row">
+                  <a class="button-link primary" href={`/guides/${feature.guide.slug}/`}>Read the feature</a>
+                  <a class="button-link secondary" href={feature.hubHref}>{feature.hubLabel}</a>
+                </div>
+              </article>
+            </div>
+          </section>
+        ))}
+      </div>
+    </section>
+  )}
+
   <section class="section-block">
     <h2 class="section-title">How Most First-Time Travelers Decide</h2>
     <div class="feature-grid">
@@ -159,6 +326,38 @@ const featuredPlaces = featuredPlaceSlugs
         <strong>{places.length}</strong>
         <span class="muted">place guides in the library</span>
       </div>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Editorial Coverage</h2>
+    <p class="muted">
+      China Travel Notes is maintained as an editorial publication with named editors, city desks, and specialist planning desks, so destination coverage, route design, entry questions, family planning, and trip basics can be reviewed through distinct public lanes.
+    </p>
+    <div class="feature-grid">
+      <article class="card-surface">
+        <p class="eyebrow">Desk Network</p>
+        <h3>{deskCount} active editorial desks</h3>
+        <p>Coverage is split across city desks and {specialistDeskCount} specialist desks instead of relying on one undifferentiated author pool.</p>
+      </article>
+      <article class="card-surface">
+        <p class="eyebrow">Review Model</p>
+        <h3>Destination logic and trip mechanics are reviewed separately</h3>
+        <p>City pages, place pages, and route guides can be maintained by specialist desks while transport, readiness, visa, and family-planning questions are reviewed through narrower editorial lanes.</p>
+      </article>
+      <article class="card-surface">
+        <p class="eyebrow">Reader Trust</p>
+        <h3>Editorial ownership is visible</h3>
+        <p>Readers can inspect desk profiles, editorial standards, and contact routes instead of treating the site like an anonymous content library.</p>
+      </article>
+    </div>
+    {featuredDesks.length > 0 && (
+      <div class="grid two" style="margin-top: 1.5rem;">
+        {featuredDesks.map((author) => <AuthorCard author={author} articleCount={0} />)}
+      </div>
+    )}
+    <div class="button-row">
+      <a class="button-link secondary" href="/authors/">Browse all editors and desks</a>
     </div>
   </section>
 
@@ -236,6 +435,16 @@ const featuredPlaces = featuredPlaceSlugs
     <p class="muted">Use guide pages to answer specific city, itinerary, and stay-planning questions with clear next reads.</p>
     <div class="grid two">
       {guides.slice(0, 6).map((guide) => <GuideCard guide={guide} />)}
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Publication Basics</p>
+    <h2 class="section-title">Know who publishes the advice and how to verify it.</h2>
+    <div class="button-row">
+      {trustLinks.map((item) => (
+        <a class="button-link secondary" href={item.href}>{item.label}</a>
+      ))}
     </div>
   </section>
 </BaseLayout>

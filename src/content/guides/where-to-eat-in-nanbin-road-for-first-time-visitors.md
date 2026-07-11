@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Nanbin Road"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Nanbin Road a good place to eat in Chongqing?"
     answer: "Usually yes if you want one scenic river-view dinner or a calmer skyline evening. It is less useful if you want the broadest local food district or the easiest first-night dinner."

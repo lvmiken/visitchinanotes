@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Hutongs"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Are Beijing hutongs worth visiting?"
     answer: "Usually yes, especially if you want Beijing to feel more local and lived-in rather than only monumental. They are often strongest as part of a slower day instead of as a rushed stop between major landmarks."

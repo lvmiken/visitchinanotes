@@ -23,7 +23,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best area to eat in Chongqing?"
     answer: "For many first-time visitors, the best area depends on the day. Jiefangbei is strongest for easy short-trip meals, Guanyinqiao is often better for a more local food-and-evening block, and Nanbin Road is more useful for one skyline dinner than for every important meal."

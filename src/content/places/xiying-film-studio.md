@@ -33,7 +33,7 @@ tags:
   - "Xi'an"
   - "Xiying Film Studio"
   - "Creative districts"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Xiying Film Studio worth visiting in Xi'an?"
     answer: "Usually yes for travelers who want a more creative or design-led Xi'an stop after the core history layers are already secure. It is usually not a must for a tight first trip."

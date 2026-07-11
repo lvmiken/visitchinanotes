@@ -35,7 +35,7 @@ tags:
   - "Xi'an"
   - "South Gate"
   - "Old City"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is South Gate worth visiting in Xi'an?"
     answer: "Usually yes, especially if you want a calmer old-city evening or an easier City Wall pairing. It is usually more useful as a short anchor than as a major standalone attraction."

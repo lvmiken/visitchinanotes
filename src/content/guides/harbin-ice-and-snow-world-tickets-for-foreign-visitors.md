@@ -23,7 +23,7 @@ tags:
   - "Harbin"
   - "Harbin Ice and Snow World"
   - "Tickets"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Do foreign visitors need to book Harbin Ice and Snow World tickets in advance?"
     answer: "Often yes on the dates that matter most, especially weekends, peak winter dates, and short Harbin stays where the whole city depends on one successful evening. The safest approach is to treat the main admission as a real anchor booking."

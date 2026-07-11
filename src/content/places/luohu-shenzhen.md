@@ -32,7 +32,7 @@ tags:
   - "Luohu"
   - "Dongmen"
   - "Border crossing"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Luohu worth visiting in Shenzhen?"
     answer: "Usually yes, but mainly as a practical east-side district. For many first-time visitors, Luohu is worth it when the trip wants a border-friendly base, one lively Dongmen evening, or easier station-side convenience."

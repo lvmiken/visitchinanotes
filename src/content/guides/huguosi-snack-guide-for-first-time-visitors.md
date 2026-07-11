@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Huguosi"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Huguosi worth visiting on a first Beijing trip?"
     answer: "Usually yes if you want one practical old-Beijing snack stop or lighter tasting block. It is less essential if your trip is very short and you only have room for one main food district."

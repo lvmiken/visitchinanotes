@@ -33,7 +33,7 @@ tags:
   - "Beijing"
   - "Prince Gong's Mansion"
   - "Historic residence"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Prince Gong's Mansion worth visiting on a first Beijing trip?"
     answer: "Often yes if you already have the Forbidden City and Great Wall covered and want one more elegant historic stop with gardens and courtyard atmosphere."

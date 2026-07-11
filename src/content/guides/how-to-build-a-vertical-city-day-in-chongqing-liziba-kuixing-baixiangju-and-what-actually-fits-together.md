@@ -23,7 +23,7 @@ tags:
   - "Itinerary"
   - "Liziba"
   - "Baixiangju"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can you do Liziba, Kuixing, and Baixiangju in one day?"
     answer: "Yes, sometimes, but only if the day stays selective and does not also try to carry too many major skyline or dinner commitments. For many first-time visitors, two of the three plus one stronger crossing is the smarter version."

@@ -34,7 +34,7 @@ tags:
   - "Confucius Temple"
   - "Guozijian"
   - "Historic site"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Confucius Temple and Guozijian worth visiting on a first Beijing trip?"
     answer: "Often yes if you already have the main landmark anchors covered and want one calmer cultural stop with more scholarly and historical texture."

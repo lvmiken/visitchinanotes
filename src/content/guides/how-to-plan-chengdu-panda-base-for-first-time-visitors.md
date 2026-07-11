@@ -25,7 +25,7 @@ tags:
   - "Panda Base"
   - "Tickets"
   - "Planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors choose a morning or afternoon panda base ticket?"
     answer: "For most first-time visitors, morning is the safer default because it protects the day's main attraction early, avoids turning the panda visit into a rushed add-on, and usually works better before Chengdu gets warmer."

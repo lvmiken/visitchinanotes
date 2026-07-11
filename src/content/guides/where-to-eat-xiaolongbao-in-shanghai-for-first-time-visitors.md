@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Xiaolongbao"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best xiaolongbao restaurant in Shanghai for first-time visitors?"
     answer: "There is not one single best answer for every trip. Nanxiang is usually the clearest iconic first-time choice, Wu You Xian is stronger for a more refined protected meal, and Qiao Ai Lai Lai is more useful when crab roe matters more than symbolism."

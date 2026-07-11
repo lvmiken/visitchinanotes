@@ -36,7 +36,7 @@ tags:
   - "Macau"
   - "Taipa Village"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Taipa Village worth visiting on a first trip to Macau?"
     answer: "For many first-time visitors, yes, especially on a 2-day Macau trip. Taipa Village is often worth it because it gives a softer Portuguese-influenced neighborhood contrast after the old core already has done the main heritage work."

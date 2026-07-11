@@ -28,7 +28,7 @@ heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "Temple"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Jiming Temple worth visiting in Nanjing?"
     answer: "Often yes as a shorter calmer stop if your route already has its main history anchors protected. It is usually not the first place most short first trips should prioritize."

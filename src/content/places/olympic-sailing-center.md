@@ -33,7 +33,7 @@ tags:
   - "Qingdao"
   - "Olympic Sailing Center"
   - "Waterfront"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Qingdao Olympic Sailing Center worth visiting?"
     answer: "Usually yes as a supporting eastern-waterfront branch, especially if your Qingdao stay already uses May Fourth Square or the newer coast well. It is usually not the city's strongest stand-alone scenic priority."

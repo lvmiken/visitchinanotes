@@ -33,7 +33,7 @@ tags:
   - "Shanghai"
   - "1933 Old Millfun"
   - "Architecture"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is 1933 Old Millfun worth visiting in Shanghai?"
     answer: "Usually yes for travelers who genuinely enjoy architecture, photo composition, and unusual interiors. It is usually less worth it as a major first-trip priority for a short general-interest stay."

@@ -20,7 +20,7 @@ tags:
   - "Suzhou"
   - "First trip"
   - "East China"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Suzhou worth visiting for first-time travelers to China?"
     answer: "Usually yes, especially for travelers who want a slower east-China stop with gardens, canals, and a gentler pace than Shanghai."

@@ -23,7 +23,7 @@ tags:
   - "Zhangjiajie"
   - "Reservations"
   - "Planning"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Zhangjiajie?"
     answer: "For many first-time visitors, the most important Zhangjiajie advance items are the hotel base during busy dates, the main scenic anchor such as the National Forest Park or Tianmen Mountain, and any onward train tickets tied to a short multi-city route."

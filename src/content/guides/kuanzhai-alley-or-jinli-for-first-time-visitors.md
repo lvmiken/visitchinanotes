@@ -23,7 +23,7 @@ tags:
   - "Kuanzhai Alley"
   - "Jinli"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Kuanzhai Alley or Jinli better for first-time visitors?"
     answer: "For many first-time visitors, Jinli is better if you want a fuller traditional-core block with Wuhou Shrine and an easier evening continuation, while Kuanzhai Alley is better if you only want a shorter, more central atmosphere stop."

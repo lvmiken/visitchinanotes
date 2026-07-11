@@ -33,7 +33,7 @@ tags:
   - "Hangzhou"
   - "Hefang Street"
   - "Old street"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Hefang Street worth visiting in Hangzhou?"
     answer: "Usually yes as a short old-street and snack-shopping stop, especially after West Lake already is secure. It is usually less important than Hangzhou's main scenic anchors."

@@ -25,6 +25,14 @@ const contentCollections = [
 
 const frontmatterPattern = /^---\r?\n([\s\S]*?)\r?\n---/;
 
+function normalizePathname(pathname) {
+  if (!pathname || pathname === "/") {
+    return "/";
+  }
+
+  return pathname.endsWith("/") ? pathname : `${pathname}/`;
+}
+
 function readFrontmatterDate(frontmatter, fieldName) {
   const pattern = new RegExp(`^${fieldName}:\\s*["']?([^"'\\r\\n]+)["']?\\s*$`, "m");
   const match = frontmatter.match(pattern);
@@ -37,8 +45,19 @@ function readFrontmatterDate(frontmatter, fieldName) {
   return Number.isNaN(parsedDate.getTime()) ? undefined : parsedDate;
 }
 
-async function buildCollectionLastmodMap() {
-  const lastmodEntries = await Promise.all(
+function readFrontmatterBoolean(frontmatter, fieldName) {
+  const pattern = new RegExp(`^${fieldName}:\\s*(true|false)\\s*$`, "mi");
+  const match = frontmatter.match(pattern);
+
+  if (!match) {
+    return undefined;
+  }
+
+  return match[1].toLowerCase() === "true";
+}
+
+async function buildCollectionMetadataMap() {
+  const metadataEntries = await Promise.all(
     contentCollections.map(async ({ directory, routeBase }) => {
       const dirEntries = await fs.readdir(directory, { withFileTypes: true });
       const contentFiles = dirEntries.filter(
@@ -58,22 +77,25 @@ async function buildCollectionLastmodMap() {
           const frontmatter = frontmatterMatch[1];
           const lastmod = readFrontmatterDate(frontmatter, "updatedDate") ??
             readFrontmatterDate(frontmatter, "publishDate");
-
-          if (!lastmod) {
-            return undefined;
-          }
+          const noindex = readFrontmatterBoolean(frontmatter, "noindex") ?? false;
 
           const slug = path.basename(entry.name, path.extname(entry.name));
-          return [`${routeBase}${slug}/`, lastmod];
+          return [
+            normalizePathname(`${routeBase}${slug}/`),
+            {
+              lastmod,
+              noindex,
+            },
+          ];
         }),
       );
     }),
   );
 
-  return new Map(lastmodEntries.flat().filter(Boolean));
+  return new Map(metadataEntries.flat().filter(Boolean));
 }
 
-const sitemapLastmodByPath = await buildCollectionLastmodMap();
+const sitemapMetadataByPath = await buildCollectionMetadataMap();
 
 export default defineConfig({
   site: "https://visitchinanotes.com",
@@ -85,12 +107,17 @@ export default defineConfig({
     mdx(),
     sitemap({
       filter(page) {
-        const { pathname } = new URL(page);
-        return !sitemapExcludedPathnames.has(pathname);
+        const pathname = normalizePathname(new URL(page).pathname);
+        if (sitemapExcludedPathnames.has(pathname)) {
+          return false;
+        }
+
+        const metadata = sitemapMetadataByPath.get(pathname);
+        return !(metadata?.noindex ?? false);
       },
       serialize(item) {
-        const pathname = new URL(item.url).pathname;
-        const lastmod = sitemapLastmodByPath.get(pathname);
+        const pathname = normalizePathname(new URL(item.url).pathname);
+        const lastmod = sitemapMetadataByPath.get(pathname)?.lastmod;
 
         if (!lastmod) {
           return item;

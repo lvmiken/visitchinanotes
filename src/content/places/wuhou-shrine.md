@@ -35,7 +35,7 @@ tags:
   - "Chengdu"
   - "Wuhou Shrine"
   - "History"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Wuhou Shrine worth visiting in Chengdu?"
     answer: "Usually yes if your Chengdu trip wants one clearer historical and traditional-core layer, especially on a 3-day stay or longer. It is often less urgent on the shortest Chengdu versions that still need pandas, food, and slower city rhythm first."

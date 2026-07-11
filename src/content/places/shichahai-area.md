@@ -35,7 +35,7 @@ tags:
   - "Beijing"
   - "Shichahai"
   - "Hutongs"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Shichahai worth visiting on a first Beijing trip?"
     answer: "Often yes, especially if you want one part of Beijing to feel slower, more atmospheric, and more lived-in than the city's biggest landmark blocks."

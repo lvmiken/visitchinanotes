@@ -23,7 +23,7 @@ tags:
   - "Transport"
   - "Lijiang"
   - "Shangri-La"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is there a train from Lijiang to Shangri-La?"
     answer: "Yes. The railway now links Lijiang and Shangri-La directly, and for many first-time visitors it is the cleanest way to make the move."

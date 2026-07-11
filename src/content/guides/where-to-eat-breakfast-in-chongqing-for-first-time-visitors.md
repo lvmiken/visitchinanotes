@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should first-time visitors eat for breakfast in Chongqing?"
     answer: "Many first-time visitors do best with one xiaomian breakfast, one simpler porridge-or-baozi style morning, or hotel breakfast before a tighter day. The best answer depends more on route shape and energy than on collecting famous breakfast names."

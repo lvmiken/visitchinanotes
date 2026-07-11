@@ -23,7 +23,7 @@ tags:
   - "Yangshuo"
   - "Things to do"
   - "First trip"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What are the best things to do in Yangshuo for first-time visitors?"
     answer: "For many first-time visitors, the best Yangshuo mix is one easy West Street evening, one real countryside or river half day through Yulong River or Xingping, and only then a more active branch like Moon Hill if the trip still wants it."

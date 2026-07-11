@@ -21,7 +21,7 @@ tags:
   - "Panjiayuan"
   - "Market"
   - "Antiques"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Panjiayuan worth visiting on a first trip to Beijing?"
     answer: "Often only selectively. It is worth it for travelers who genuinely enjoy flea markets, old objects, and browsing atmosphere, but it is usually not a core first-trip priority for everyone."

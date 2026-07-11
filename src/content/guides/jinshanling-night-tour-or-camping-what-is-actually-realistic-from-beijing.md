@@ -23,7 +23,7 @@ tags:
   - "Great Wall"
   - "Jinshanling"
   - "Night tour"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Jinshanling worth staying overnight for?"
     answer: "Often yes if the Wall is one of your biggest priorities and you specifically want calmer light, a slower pace, or an early start."

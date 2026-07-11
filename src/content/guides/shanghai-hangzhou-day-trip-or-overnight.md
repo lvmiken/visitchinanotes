@@ -24,7 +24,7 @@ tags:
   - "Day trip"
   - "Overnight"
 ogImage: "/og/custom/shanghai-hangzhou-split-guide.svg"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Hangzhou better as a day trip from Shanghai or an overnight stay?"
     answer: "An overnight stay is usually better if you want Hangzhou to feel like a true scenic and pace-changing stop. A day trip works when the wider route is tight and Shanghai remains the main base."

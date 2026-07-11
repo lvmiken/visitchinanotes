@@ -34,7 +34,7 @@ tags:
   - "Ming Tombs"
   - "Historic site"
   - "World Heritage"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Are the Ming Tombs worth visiting on a first Beijing trip?"
     answer: "Often yes for travelers with a deeper history interest and enough time, but they are usually a later-priority outer-Beijing site after the Forbidden City and one Great Wall day."

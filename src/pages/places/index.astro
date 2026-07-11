@@ -33,11 +33,16 @@ const cityGroups = cityOrder
     };
   })
   .filter(Boolean);
+
+const priorityCityGroups = priorityCities.flatMap((citySlug) =>
+  cityGroups.filter((group) => getCitySlug(group.city) === citySlug).slice(0, 1),
+);
 ---
 
 <BaseLayout
   title="China Places | Landmark, Neighborhood, and Museum Guides"
   description="Browse place guides for the landmarks, neighborhoods, museums, parks, and visitor-heavy districts that most often shape a first China trip."
+  showAds={false}
 >
   <section class="split-hero">
     <div class="hero article">
@@ -85,9 +90,29 @@ const cityGroups = cityOrder
     </div>
   </section>
 
+  {priorityCityGroups.length > 0 && (
+    <section class="section-block">
+      <p class="eyebrow">Best Cluster Starts</p>
+      <h2 class="section-title">Start with these city clusters if you want the cleanest example of how place pages support a city plan.</h2>
+      <div class="feature-grid">
+        {priorityCityGroups.map((group) => (
+          <article class="card-surface">
+            <p class="eyebrow">{group.places.length} place guides</p>
+            <h3>{group.city.data.name}</h3>
+            <p class="muted">{group.city.data.intro}</p>
+            <div class="button-row">
+              <a class="button-link primary" href={`#${getCitySlug(group.city)}-cluster`}>Open place cluster</a>
+              <a class="button-link secondary" href={`/destinations/${getCitySlug(group.city)}/`}>Open destination hub</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
   <section class="section-block stack">
     {cityGroups.map((group) => (
-      <section class="card-surface">
+      <section class="card-surface" id={`${getCitySlug(group.city)}-cluster`}>
         <div class="cluster-head">
           <div>
             <p class="eyebrow">{group.places.length} place guides</p>

@@ -34,7 +34,7 @@ tags:
   - "High-speed rail"
   - "Train booking"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "How early should tourists book high-speed train tickets in China?"
     answer: "Book once the route is stable enough that station choice, hotel area, and transfer-day timing already make sense. The right timing depends on the route and how fixed the wider trip already is."

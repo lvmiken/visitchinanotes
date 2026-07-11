@@ -23,7 +23,7 @@ tags:
   - "Yongqing Fang"
   - "Shamian Island"
   - "Liwan"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Should first-time visitors choose Yongqing Fang or Shamian Island in Guangzhou?"
     answer: "For many first-time visitors, Yongqing Fang is the better choice if you only have room for one west-side heritage stop, while Shamian Island is stronger as a calmer supporting finish once the old-Guangzhou branch already exists."

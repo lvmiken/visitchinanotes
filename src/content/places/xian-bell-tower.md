@@ -35,7 +35,7 @@ tags:
   - "Xi'an"
   - "Bell Tower"
   - "Old City"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Bell Tower worth visiting in Xi'an?"
     answer: "Usually yes, but mostly as a short old-city landmark and evening anchor rather than as one of Xi'an's biggest standalone sightseeing blocks."

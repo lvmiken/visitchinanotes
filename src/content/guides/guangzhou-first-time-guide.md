@@ -25,7 +25,7 @@ heroImageAlt: "Guangzhou skyline rising beyond the riverfront."
 heroImageAttributionName: "kevinmcgill from Den Bosch, Netherlands"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Guangzhou_skyline_(6343573781).jpg"
 heroImageLicense: "CC BY-SA 2.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Guangzhou worth visiting for first-time travelers to China?"
     answer: "Yes, especially for travelers who care about food, daily city rhythm, and building a South China route rather than chasing a classic landmark-first trip."

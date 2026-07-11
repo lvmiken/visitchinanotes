@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What should tourists do in Hangzhou on a rainy day?"
     answer: "For many first-time visitors, the best move is to protect anything hard to replace, keep only the outdoor blocks that still hold real value in light rain, and pivot the rest of the day toward one museum, one easier old-core block, or one simpler food-and-return plan."

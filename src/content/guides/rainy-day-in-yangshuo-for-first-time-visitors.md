@@ -22,7 +22,7 @@ tags:
   - "Yangshuo"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What should tourists do in Yangshuo on a rainy day?"
     answer: "For many first-time visitors, the best move is to keep whichever Yangshuo layer still fits the weather — often West Street plus one softer countryside or river answer — and cut the more strenuous or low-payoff ideas rather than defending everything."

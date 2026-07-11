@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Qianmen"
   - "Wangfujing"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors stay in Qianmen or Wangfujing?"
     answer: "Many first-time visitors do better in Wangfujing if they want the easiest central base, while Qianmen is often better for travelers who care more about old-core atmosphere and evenings that still feel tied to historic Beijing."

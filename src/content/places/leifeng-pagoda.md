@@ -33,7 +33,7 @@ tags:
   - "Hangzhou"
   - "Leifeng Pagoda"
   - "West Lake"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Leifeng Pagoda worth visiting in Hangzhou?"
     answer: "Usually yes as a supporting West Lake stop, especially if your Hangzhou day already centers on the lake and you want one stronger viewpoint-style branch."

@@ -23,7 +23,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best area to eat in Shanghai?"
     answer: "For many first-time visitors, the best area depends on the day. Bund-side central districts are best for an easy first dinner or skyline evening, the French Concession is strongest for slower cafes and neighborhood meals, and Jing'an is often the easiest polished-dinner choice."

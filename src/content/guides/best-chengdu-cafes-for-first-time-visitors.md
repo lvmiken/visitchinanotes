@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Coffee"
   - "Cafes"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors go for coffee in Chengdu?"
     answer: "For many first-time visitors, Chunxi Road and Taikoo Li are the easiest first answer because coffee fits naturally with central hotels, shopping, dessert, and easy evening plans. Yulin is often better when the cafe stop should feel slower and more local."

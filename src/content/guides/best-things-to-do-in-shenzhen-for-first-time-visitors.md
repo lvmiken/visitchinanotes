@@ -23,7 +23,7 @@ tags:
   - "Shenzhen"
   - "Things to do"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What are the best things to do in Shenzhen for first-time visitors?"
     answer: "For many first-time visitors, the best things to do in Shenzhen are protect one Futian core block, add one west-side branch around Shenzhen Bay or Shekou, and then choose only one more texture layer such as Huaqiangbei, Nantou Ancient Town, OCT-LOFT, or Dongmen."

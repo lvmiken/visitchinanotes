@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Wangfujing"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Wangfujing worth it for food on a first Beijing trip?"
     answer: "Usually yes in a practical sense. It is useful for an easy central meal or shopping-and-dinner stop, but it is usually not the best Beijing district if you want the city's strongest food atmosphere."

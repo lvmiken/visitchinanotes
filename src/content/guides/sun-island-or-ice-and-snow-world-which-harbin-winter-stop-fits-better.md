@@ -22,7 +22,7 @@ tags:
   - "Sun Island"
   - "Ice and Snow World"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Should first-time visitors choose Sun Island or Ice and Snow World in Harbin?"
     answer: "For many first-time visitors, Ice and Snow World is the stronger one-pick answer because it gives Harbin its clearest signature night. Sun Island usually becomes the better choice only when the trip is longer or already has its main evening payoff protected."

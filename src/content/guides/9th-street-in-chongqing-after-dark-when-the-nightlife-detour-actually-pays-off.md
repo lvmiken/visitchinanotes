@@ -23,7 +23,7 @@ tags:
   - "9th Street"
   - "Nightlife"
   - "After dark"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is 9th Street worth it in Chongqing for first-time visitors?"
     answer: "Often only selectively. For many first-time visitors, 9th Street is worth it when the trip truly wants one later nightlife-led evening rather than just one easy dinner-and-drinks district."

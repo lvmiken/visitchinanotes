@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should tourists do in Chengdu on a rainy day?"
     answer: "For many first-time visitors, the best move is to protect any hard-to-replace panda or museum booking, then shift the rest of the day toward one strong indoor anchor, one easier food district, or one lower-friction evening plan."

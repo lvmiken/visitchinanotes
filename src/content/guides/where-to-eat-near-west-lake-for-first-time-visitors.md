@@ -3,6 +3,7 @@ title: "Where to Eat Near West Lake for First-Time Visitors"
 description: "Use this West Lake food guide to choose between an easy Hubin meal, one classic lake-side Hangzhou restaurant, or one lighter old-name snack stop without turning lunch or dinner into another cross-city mission."
 publishDate: 2026-06-25
 updatedDate: 2026-06-25
+noindex: true
 city: "hangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 scenic evening"
@@ -22,7 +23,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "West Lake"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the easiest place to eat near West Lake in Hangzhou?"
     answer: "For many first-time visitors, the easiest answer is Hubin or the east side of West Lake because it keeps lunch or dinner inside the main scenic route without adding another transport decision."

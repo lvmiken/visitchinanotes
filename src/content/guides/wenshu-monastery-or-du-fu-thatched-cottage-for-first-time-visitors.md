@@ -23,7 +23,7 @@ tags:
   - "Wenshu Monastery"
   - "Du Fu Thatched Cottage"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Wenshu Monastery or Du Fu Thatched Cottage better for first-time visitors?"
     answer: "For many first-time visitors, Wenshu Monastery is better if you want a lighter temple-and-tea block, while Du Fu Thatched Cottage is better if you want a fuller literary and garden-style cultural stop."

@@ -27,7 +27,7 @@ heroImageLicense: "CC BY 4.0"
 tags:
   - "Suzhou"
   - "Landmark"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Tiger Hill worth visiting in Suzhou?"
     answer: "Usually yes on a fuller first trip, especially if you want a broader historic landmark half day. It is less essential on the shortest Suzhou version."

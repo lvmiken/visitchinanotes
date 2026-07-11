@@ -34,7 +34,7 @@ tags:
   - "Chongqing"
   - "Baixiangju"
   - "Urban views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Baixiangju worth visiting in Chongqing?"
     answer: "Usually yes as a short, respectful urban-geometry stop if you are genuinely interested in Chongqing's vertical city form. It is usually not worth building a major detour or behaving like the complex is an attraction park."

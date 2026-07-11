@@ -3,6 +3,7 @@ title: "Where to Go in Chengdu at Night for Anshun Bridge Views and Jiuyanqiao B
 description: "Use this Chengdu night guide if you want Anshun Bridge views, Jiuyanqiao bars, and one livelier riverside evening without turning the whole night into an endless bar crawl."
 publishDate: 2026-06-30
 updatedDate: 2026-06-30
+noindex: true
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -27,7 +28,7 @@ tags:
   - "Jiuyanqiao"
   - "Nightlife"
   - "Anshun Bridge"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where is the best night view around Jiuyanqiao in Chengdu?"
     answer: "For many first-time visitors, the strongest payoff comes from using the Anshun Bridge and riverfront walk as the visual anchor, then adding one drink or one later bar stop instead of wandering the whole district blindly."

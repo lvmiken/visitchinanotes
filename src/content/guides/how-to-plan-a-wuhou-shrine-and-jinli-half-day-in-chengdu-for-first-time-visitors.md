@@ -29,7 +29,7 @@ tags:
   - "Wuhou Shrine"
   - "Jinli"
   - "Half day"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "How do you plan Wuhou Shrine and Jinli in Chengdu?"
     answer: "For many first-time visitors, the best plan is one combined half day with Wuhou Shrine first and Jinli afterward, usually on Day 3 or on a fuller Chengdu afternoon when the trip already has pandas and one stronger food evening protected."

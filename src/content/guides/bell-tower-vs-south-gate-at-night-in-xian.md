@@ -23,7 +23,7 @@ tags:
   - "Bell Tower"
   - "South Gate"
   - "Night"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Bell Tower or South Gate better at night in Xi'an?"
     answer: "For many first-time visitors, South Gate is better for a calmer dinner-and-walk night, while Bell Tower is better if you want more central energy, easier access to busy old-core movement, and a more immediately active atmosphere."

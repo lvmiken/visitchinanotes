@@ -20,7 +20,7 @@ tags:
   - "Beijing"
   - "Daxing Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Beijing Daxing Airport to downtown?"
     answer: "For many first-time visitors, the easiest option is taxi or Didi if the arrival is late or the hotel route is still fuzzy. The Daxing Airport Express is often the best public-transport choice when the final route from Caoqiao stays simple."

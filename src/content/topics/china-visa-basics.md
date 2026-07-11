@@ -29,7 +29,7 @@ relatedGuideSlugs:
 tags:
   - "Visa"
   - "China travel basics"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Should travelers check China visa rules before planning the route?"
     answer: "Yes. Entry requirements should be clarified early because they can shape dates, arrival city choice, and how confidently you can book the rest of the trip."

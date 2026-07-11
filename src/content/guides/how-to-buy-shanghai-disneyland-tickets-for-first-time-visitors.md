@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Tickets"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Can foreign visitors buy Shanghai Disneyland tickets with a passport?"
     answer: "Yes. Shanghai Disney's official pages currently reference passport information for foreign guests, and the key rule is to use accurate passport details and bring the same original document on the day."

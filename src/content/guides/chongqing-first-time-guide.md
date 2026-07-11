@@ -25,7 +25,7 @@ heroImageAlt: "Aerial night view of Chongqing's Yuzhong skyline framed by the ri
 heroImageAttributionName: "Jonipoon"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg"
 heroImageLicense: "CC BY 3.0"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Chongqing a good first city in China?"
     answer: "It can be, but it suits travelers who are comfortable with a busier, hillier, more intense city experience than places like Shanghai or Hangzhou."

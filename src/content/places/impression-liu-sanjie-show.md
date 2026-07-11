@@ -28,7 +28,7 @@ tags:
   - "Impression Liu Sanjie"
   - "Night show"
   - "Evening"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Impression Liu Sanjie worth it in Yangshuo?"
     answer: "Usually yes when Yangshuo has room for one real event night and the group wants a more cinematic memory than a simple West Street walk. It is often best when the stay is not so short that the show crowds out tomorrow's better scenic hours."

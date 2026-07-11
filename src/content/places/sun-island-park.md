@@ -29,7 +29,7 @@ tags:
   - "Sun Island"
   - "Winter travel"
   - "Snow sculptures"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Sun Island worth visiting in Harbin?"
     answer: "Usually yes when Harbin gets more than just one rushed winter night and the trip wants a calmer daytime snow-and-park branch. It is usually weaker if the stop is so short that Ice and Snow World and the central city already fill the best available time."

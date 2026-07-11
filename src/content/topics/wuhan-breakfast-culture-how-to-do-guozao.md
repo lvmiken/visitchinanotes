@@ -22,7 +22,7 @@ tags:
   - "Wuhan"
   - "Food travel"
   - "Breakfast culture"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What does guozao mean in Wuhan?"
     answer: "Guozao refers to the city's deeply rooted breakfast culture: not only eating breakfast, but making a real morning ritual out of noodles, fried snacks, steamed items, soups, and neighborhood movement."

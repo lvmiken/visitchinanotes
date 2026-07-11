@@ -28,7 +28,7 @@ tags:
   - "Skyline"
   - "Bars"
   - "Night"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors go for a skyline drink in Chongqing?"
     answer: "For many first-time visitors, Jiefangbei is the easiest central answer, Nanbin Road is the stronger scenic river-view answer, and the Longmenhao-Nanshan side works better when the whole evening should feel more deliberate and polished."

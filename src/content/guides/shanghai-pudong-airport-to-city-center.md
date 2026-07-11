@@ -20,7 +20,7 @@ tags:
   - "Shanghai"
   - "Pudong Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Shanghai Pudong Airport to downtown?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late, luggage is heavy, or the final hotel route is still fuzzy. Metro Line 2 is often the best value when the route is simple and energy is good."

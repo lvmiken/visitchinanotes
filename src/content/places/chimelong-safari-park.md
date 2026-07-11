@@ -31,7 +31,7 @@ tags:
   - "Chimelong"
   - "Safari Park"
   - "Family travel"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Chimelong Safari Park worth visiting on a first trip to Guangzhou?"
     answer: "Usually yes for families and animal-focused travelers, but not automatically for a short food-first Guangzhou stay. It works best as a full-day attraction you intentionally protect."

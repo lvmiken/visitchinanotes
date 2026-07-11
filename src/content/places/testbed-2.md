@@ -30,7 +30,7 @@ tags:
   - "Chongqing"
   - "Industrial heritage"
   - "Creative districts"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Testbed 2 worth visiting in Chongqing?"
     answer: "For many first-time visitors, yes, if the trip wants one industrial-creative stop and already has the city's main skyline and food layers protected. It is less essential on the shortest Chongqing trip."

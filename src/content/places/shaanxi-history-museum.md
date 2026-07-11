@@ -33,7 +33,7 @@ tags:
   - "Xi'an"
   - "Shaanxi History Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Shaanxi History Museum worth visiting on a first Xi'an trip?"
     answer: "For many history-focused travelers, yes. But on a very short stay it is often more optional than the Terracotta Army or the old-city core."

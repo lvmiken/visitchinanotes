@@ -24,7 +24,7 @@ tags:
   - "Xi'an"
   - "2 days"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is 2 days enough for Xi'an with kids?"
     answer: "Usually yes. Two days is enough for a strong first family version of Xi'an if the trip protects the Terracotta Army, uses one old-city day well, and avoids forcing too many secondary sights into the same short stay."

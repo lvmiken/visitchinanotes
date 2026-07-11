@@ -22,7 +22,7 @@ tags:
   - "Yangshuo"
   - "Hotels"
   - "Route planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should first-time visitors stay in Guilin or Yangshuo first?"
     answer: "For many first-time visitors, Guilin is the better first night because it keeps the region easier to enter and organize. Yangshuo becomes better first only when the route clearly wants a softer scenic start and can absorb the extra transfer cleanly."

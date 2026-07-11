@@ -34,7 +34,7 @@ tags:
   - "Beijing"
   - "Great Wall"
   - "Badaling"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Badaling Great Wall worth visiting on a first Beijing trip?"
     answer: "Often yes, especially if seeing the most famous Great Wall section matters to you. It is usually worth it when you accept that the day will feel more iconic and developed, not necessarily quieter or softer."

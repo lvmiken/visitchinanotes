@@ -3,6 +3,7 @@ title: "Where to Eat Near Pingjiang Road in Suzhou for First-Time Visitors"
 description: "Use this Pingjiang Road food guide to decide whether the area should carry lunch, tea, dessert, or a softer dinner, and when to keep eating in the old city versus moving to a more practical Suzhou base."
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
+noindex: true
 city: "suzhou"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 slower old-city block"
@@ -21,7 +22,7 @@ tags:
   - "Suzhou"
   - "Food"
   - "Pingjiang Road"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Pingjiang Road a good place to eat in Suzhou?"
     answer: "Usually yes for one atmospheric meal, tea stop, or lighter old-city dinner. It is often strongest when paired with Suzhou Museum or a slower half day rather than treated like the city's only serious food district."

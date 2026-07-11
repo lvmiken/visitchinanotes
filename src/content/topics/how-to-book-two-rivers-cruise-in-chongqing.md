@@ -25,7 +25,7 @@ tags:
   - "Chongqing"
   - "Two Rivers Cruise"
   - "Reservations"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Do you need to book the Two Rivers Cruise in Chongqing in advance?"
     answer: "Usually yes if the cruise is one of the main reasons you want a Chongqing night and your dates are busy. City-backed Chongqing tourism pages specifically recommend booking in advance."

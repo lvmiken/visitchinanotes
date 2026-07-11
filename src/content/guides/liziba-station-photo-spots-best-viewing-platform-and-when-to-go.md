@@ -23,7 +23,7 @@ tags:
   - "Liziba"
   - "Photo spots"
   - "Transit experiences"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where is the best place to photograph Liziba Station?"
     answer: "For many first-time visitors, the best view comes from the dedicated viewing-platform side rather than from inside the station itself, because the whole train-through-building scene reads more clearly from a little distance."

@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What should tourists do in Shanghai on a rainy day?"
     answer: "For many first-time visitors, the best move is to protect any hard-to-replace booking, switch the rest of the day toward one indoor anchor such as Shanghai Museum or China Art Museum, and use food or an easier evening district to save the day."

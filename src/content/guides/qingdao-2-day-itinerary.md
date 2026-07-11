@@ -27,7 +27,7 @@ heroImageAlt: "Zhanqiao Pier stretching into the sea in Qingdao with Little Qing
 heroImageAttributionName: "K.Y.K.Z.K."
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhanqiao_pier_with_Little_Qingdao_Isle.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is two days enough for Qingdao?"
     answer: "Yes. Two days is enough for a strong first Qingdao stay if the plan focuses on one coherent coastal rhythm rather than trying to cover every possible sight."

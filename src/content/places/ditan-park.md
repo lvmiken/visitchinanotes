@@ -33,7 +33,7 @@ tags:
   - "Beijing"
   - "Ditan Park"
   - "Historic park"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Ditan Park worth visiting on a first Beijing trip?"
     answer: "Often yes if the trip needs a calmer historic park stop, especially on a slower Dongcheng day after the main Beijing anchors are already covered."

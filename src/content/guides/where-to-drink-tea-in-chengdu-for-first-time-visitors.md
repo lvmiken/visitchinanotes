@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Tea culture"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors drink tea in Chengdu?"
     answer: "For many first-time visitors, People's Park is the easiest first choice because it gives a classic Chengdu tea-house atmosphere without much planning. Wenshu Monastery side is often better if you want a calmer and more reflective tea break."

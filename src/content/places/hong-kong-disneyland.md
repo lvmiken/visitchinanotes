@@ -35,7 +35,7 @@ tags:
   - "Hong Kong"
   - "Hong Kong Disneyland"
   - "Theme parks"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Hong Kong Disneyland worth it on a first trip?"
     answer: "Often yes for Disney fans, families, and travelers who truly want one full park day. On a tight city-first Hong Kong trip, it is often more optional than essential."

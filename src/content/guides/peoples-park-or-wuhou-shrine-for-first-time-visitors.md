@@ -23,7 +23,7 @@ tags:
   - "People's Park"
   - "Wuhou Shrine"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is People's Park or Wuhou Shrine better for first-time visitors?"
     answer: "For many first-time visitors, People's Park is better if the trip still needs slower Chengdu city rhythm and tea-house atmosphere, while Wuhou Shrine is better if the route already feels balanced and wants one clearer historical layer."

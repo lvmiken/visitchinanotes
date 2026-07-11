@@ -25,7 +25,7 @@ heroImageAlt: "Misty sandstone peaks rising through the forest in Zhangjiajie."
 heroImageAttributionName: "chensiyuan"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:1_tianzishan_wulingyuan_zhangjiajie_2012.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "How should first-time travelers plan Zhangjiajie?"
     answer: "Start by choosing one main scenic goal per day, then build in flexibility for weather, walking time, and transfers rather than trying to cover everything at once."

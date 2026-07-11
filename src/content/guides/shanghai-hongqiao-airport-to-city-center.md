@@ -20,7 +20,7 @@ tags:
   - "Shanghai"
   - "Hongqiao Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Hongqiao easier than Pudong for getting into Shanghai?"
     answer: "Usually yes. Official Shanghai airport guidance says Hongqiao is only about 13 km from the city center, which makes both taxi and metro options simpler for many first-time visitors."

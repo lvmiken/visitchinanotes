@@ -23,7 +23,7 @@ tags:
   - "Xingping"
   - "Cormorant fisherman"
   - "Photo stop"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is the cormorant fisherman demo in Xingping worth it?"
     answer: "Sometimes, but mainly as a short supporting stop if you already are in the Xingping and Li River branch of the region. It is usually too thin to justify a major detour by itself."

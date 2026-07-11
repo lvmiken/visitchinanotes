@@ -30,7 +30,7 @@ tags:
   - "Nightlife"
   - "Transport"
   - "Payments"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Can tourists use Didi in Chongqing after midnight?"
     answer: "Usually yes if the app, payment method, and data connection already are working before the night starts. The harder part is often not the ride itself but the pickup logic and your own energy after midnight."

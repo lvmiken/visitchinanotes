@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Central Chengdu"
   - "Yulin"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is central Chengdu or Yulin better for first-time visitors?"
     answer: "For many first-time visitors, central Chengdu is better if you want the easiest all-around base, while Yulin is better if neighborhood atmosphere, local dinners, and a softer city feeling matter more than pure convenience."

@@ -38,7 +38,7 @@ tags:
   - "Sanxingdui"
   - "Day trip"
   - "Museum"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Sanxingdui worth a day trip from Chengdu?"
     answer: "Usually yes if your Chengdu trip already has enough city time protected and you genuinely care about archaeology or ancient Shu civilization. It is often less essential on a shorter first Chengdu stay."

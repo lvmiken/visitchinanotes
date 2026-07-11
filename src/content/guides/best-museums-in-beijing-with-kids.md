@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Family travel"
   - "Museums"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best museum in Beijing for kids?"
     answer: "For many families, the China Science and Technology Museum is the safest all-around choice because it is more hands-on and child-oriented than a formal history museum."

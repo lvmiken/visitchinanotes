@@ -22,7 +22,7 @@ tags:
   - "Hong Kong"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What should first-time visitors do in Hong Kong at night?"
     answer: "For many first-time visitors, the strongest evening choices are one classic Tsim Sha Tsui harbourfront night, one harbour cruise or skyline-event night, and one Hong Kong Island or Temple Street evening depending on whether food, bars, or markets matter more."

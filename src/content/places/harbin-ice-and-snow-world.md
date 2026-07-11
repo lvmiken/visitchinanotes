@@ -34,7 +34,7 @@ tags:
   - "Ice and Snow World"
   - "Winter"
   - "Night"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Harbin Ice and Snow World worth it for first-time visitors?"
     answer: "Usually yes if your route genuinely wants Harbin's biggest winter spectacle. For many first-time visitors, it is the clearest reason the city belongs in the trip at all."

@@ -23,7 +23,7 @@ tags:
   - "Wuhan"
   - "Hotels"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What is the best area to stay in Wuhan for first-time visitors?"
     answer: "For many first-time visitors, a Hankou-side base is the easiest default because it keeps meals, walking, and practical day-to-day movement simpler. A Wuchang-side stay is better when the trip is built around a more symbolic morning and you accept a little more friction."

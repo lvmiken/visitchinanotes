@@ -34,7 +34,7 @@ tags:
   - "National Centre for the Performing Arts"
   - "Architecture"
   - "Night"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the National Centre for the Performing Arts worth visiting in Beijing?"
     answer: "Usually yes for travelers interested in architecture or a more contemporary central-Beijing contrast, especially if it fits naturally into a Tiananmen or Qianmen day."

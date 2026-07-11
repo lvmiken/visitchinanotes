@@ -24,7 +24,7 @@ tags:
   - "Xi'an"
   - "Shaanxi History Museum"
   - "Reservations"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can foreigners book Shaanxi History Museum tickets with a passport?"
     answer: "Yes. The museum's official guide says passports are accepted for reservation, but you must bring the same original passport or other matching valid ID on the day."

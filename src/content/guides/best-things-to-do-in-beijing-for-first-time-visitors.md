@@ -23,7 +23,7 @@ tags:
   - "Beijing"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What are the best things to do in Beijing for first-time visitors?"
     answer: "For many first-time visitors, the best things to do in Beijing are the Forbidden City, one proper Great Wall day, one calmer temple or park block, one hutong or old-city layer, and one food or evening decision that gives the city more personality than monuments alone."

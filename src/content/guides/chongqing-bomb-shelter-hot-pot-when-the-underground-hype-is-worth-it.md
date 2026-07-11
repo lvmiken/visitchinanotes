@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Hotpot"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is bomb shelter hot pot worth it in Chongqing?"
     answer: "Often yes when dinner itself should feel like a Chongqing story and the group has enough energy for a more atmospheric meal. It is less worth forcing when the night needs to stay simple and central."

@@ -1,0 +1,15 @@
+{
+  "name": "Transport & Payments Desk",
+  "entityType": "organization",
+  "role": "Trip Basics Desk",
+  "shortBio": "Maintains practical pages about payments, rail, airport transfers, booking flows, and day-one travel basics in China.",
+  "fullBio": "The Transport & Payments Desk maintains practical trip-basics coverage related to arrival, payment setup, high-speed rail, airport transfers, ride-hailing, connectivity, and booking behavior. Its focus is making sure traveler-facing logistics pages answer the exact problem clearly, not just list broad options.",
+  "expertise": [
+    "China transport basics",
+    "Payments and daily-use setup",
+    "Booking and arrival logistics"
+  ],
+  "reviewProcess": "Pages are reviewed for traveler-facing clarity, operational realism, and whether the advice still matches current payment, booking, and transport usage patterns.",
+  "seoTitle": "Transport & Payments Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains transport, payments, and trip-basics coverage on China Travel Notes."
+}

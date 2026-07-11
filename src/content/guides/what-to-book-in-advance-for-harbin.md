@@ -23,7 +23,7 @@ tags:
   - "Harbin"
   - "Reservations"
   - "Winter travel"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Harbin?"
     answer: "For many first-time visitors, the main Harbin advance items are the hotel during peak winter dates, transport in and out if the wider route is fixed, and the one major winter-night attraction that would genuinely disappoint you if missed."

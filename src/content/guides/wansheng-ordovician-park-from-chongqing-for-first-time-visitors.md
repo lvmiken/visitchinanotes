@@ -24,7 +24,7 @@ tags:
   - "Day trips"
   - "Theme parks"
   - "Adventure travel"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Wansheng Ordovician Park worth it from Chongqing?"
     answer: "Usually only for travelers who specifically want cliffside thrill rides and glass attractions. For a broader first-time Chongqing trip, it is more niche than Wulong."

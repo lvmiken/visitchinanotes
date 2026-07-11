@@ -24,7 +24,7 @@ tags:
   - "Pudong Airport"
   - "Maglev"
   - "Metro"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the Maglev the best way from Pudong Airport to central Shanghai?"
     answer: "Not always. The Maglev is fast to Longyang Road, but many first-time visitors still do better with Metro Line 2 or a car if the final hotel route would otherwise become awkward."

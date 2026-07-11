@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Hotpot"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should tourists eat hot pot in Chengdu?"
     answer: "For many first-time visitors, a central Chunxi Road branch is the easiest answer, while Yulin-side hot pot is often better if the dinner should feel more local and become part of a fuller evening."

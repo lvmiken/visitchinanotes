@@ -25,7 +25,7 @@ tags:
   - "Sanya"
   - "Family travel"
   - "Airport transfers"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Should families stay in Haikou after landing or go straight to Sanya?"
     answer: "Stay in Haikou when the family is arriving tired, landing later, or genuinely wants one north-Hainan stop. Go straight to Sanya when the island leg is short and the whole point is a simpler beach chapter."

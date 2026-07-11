@@ -24,7 +24,7 @@ tags:
   - "Sanya"
   - "Wuzhizhou Island"
   - "Diving"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Wuzhizhou Island the best diving choice in Hainan?"
     answer: "It is one of Hainan's best-known and most clearly promoted dive sites, but the best choice still depends on whether you want a polished named island day or a different kind of underwater outing."

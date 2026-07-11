@@ -23,7 +23,7 @@ tags:
   - "Suzhou"
   - "Nanjing"
   - "7 days"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best 7-day East China itinerary?"
     answer: "Usually Shanghai plus Hangzhou and Suzhou for a gentler, more beautiful week, or Shanghai plus Hangzhou and Nanjing for a broader route with a stronger historical finish."

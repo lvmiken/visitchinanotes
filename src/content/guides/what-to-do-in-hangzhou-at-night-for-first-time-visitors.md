@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What should first-time visitors do in Hangzhou at night?"
     answer: "For many first-time visitors, the strongest Hangzhou evening choices are a West Lake or Hubin walk with dinner, one controlled Hefang Street old-core evening, one practical Wulin dinner night, or one selective show-style evening if the live schedule fits."

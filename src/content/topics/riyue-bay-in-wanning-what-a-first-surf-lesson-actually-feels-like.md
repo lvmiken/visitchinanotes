@@ -24,7 +24,7 @@ tags:
   - "Wanning"
   - "Surfing"
   - "Riyue Bay"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Riyue Bay good for beginner surfers?"
     answer: "Yes for many beginners when they book a proper lesson and treat it as a real half-day activity, not just a quick photo stop. It usually feels more convincing when surf time is a true priority."

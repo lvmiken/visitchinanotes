@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Dessert"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What desserts should first-time visitors try in Chengdu?"
     answer: "Many first-time visitors do best with one classic sweet such as Lai Tangyuan, one cooling dessert such as bingfen or a cold cake after a spicy meal, and one traditional-street sweet such as San Da Pao only if the route already includes Jinli or another old-street block."

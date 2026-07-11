@@ -23,7 +23,7 @@ tags:
   - "Hongyadong"
   - "Photography"
   - "Night views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where is the best place to photograph Hongyadong?"
     answer: "For many first-time visitors, the strongest classic view comes from outside the complex, especially from angles that show the full layered facade rather than only the interior walkways."

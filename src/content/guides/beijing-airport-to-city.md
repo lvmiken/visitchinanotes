@@ -20,7 +20,7 @@ tags:
   - "Beijing"
   - "Airport transfer"
   - "Arrival"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from the airport to central Beijing?"
     answer: "For many first-time visitors, the easiest option is the one with the fewest decisions after landing, especially if the arrival is late or luggage is heavy."

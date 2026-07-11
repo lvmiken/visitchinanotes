@@ -22,7 +22,7 @@ tags:
   - "Macau"
   - "Food"
   - "Macanese cuisine"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What food should first-time visitors try in Macau?"
     answer: "Many first-time visitors do best with one Macanese or Portuguese meal, one Portuguese egg tart stop, one pork chop bun or local snack stop, one noodle or congee meal, and one dessert or almond-cookie continuation instead of trying to sample everything in one afternoon."

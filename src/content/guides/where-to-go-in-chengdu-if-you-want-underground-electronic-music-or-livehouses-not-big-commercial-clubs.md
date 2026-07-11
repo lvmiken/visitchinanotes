@@ -27,7 +27,7 @@ tags:
   - "Nightlife"
   - "Live music"
   - "Electronic music"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Does Chengdu have good underground electronic music nightlife?"
     answer: "Usually yes. Chengdu's strongest underground-style nights usually come from smaller music-first rooms, livehouses, and same-week lineups rather than from broad commercial club lists."

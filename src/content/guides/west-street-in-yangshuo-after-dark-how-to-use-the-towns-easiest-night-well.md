@@ -22,7 +22,7 @@ tags:
   - "West Street"
   - "Nightlife"
   - "Evening"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is West Street in Yangshuo good at night?"
     answer: "Usually yes. For many first-time visitors, West Street is the easiest Yangshuo night because it gives the town one compact dinner, walking, and light-drinks center without extra transport."

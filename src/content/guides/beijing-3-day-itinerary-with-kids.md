@@ -24,7 +24,7 @@ tags:
   - "Beijing"
   - "3 days"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is 3 days enough for Beijing with kids?"
     answer: "Usually yes, if the family accepts clear tradeoffs and builds the trip around one central day, one Mutianyu Great Wall day, and one calmer final day instead of trying to cover every famous sight."

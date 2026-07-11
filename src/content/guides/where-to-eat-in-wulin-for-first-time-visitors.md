@@ -27,7 +27,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "Wulin"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Where should first-time visitors eat in Wulin?"
     answer: "For many first-time visitors, the strongest Wulin answer depends on the job of the meal. Wulin is often the clearest proper Hangzhou choice for a practical local dinner, Song is stronger if the district should carry one polished central meal, and Wulin Night Market is better as a lighter snack-and-walk continuation."

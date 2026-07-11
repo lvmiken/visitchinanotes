@@ -3,6 +3,7 @@ title: "What to Do in the French Concession at Night for First-Time Visitors"
 description: "Use this French Concession night guide to decide whether your evening should be dinner on Jinxian Road, cocktails around Fumin or Julu Road, a slower Wukang-area walk, or a simpler neighborhood finish."
 publishDate: 2026-06-23
 updatedDate: 2026-07-05
+noindex: true
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -22,7 +23,7 @@ tags:
   - "Shanghai"
   - "Night"
   - "French Concession"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the French Concession worth visiting at night on a first Shanghai trip?"
     answer: "Usually yes if you want one enjoyable neighborhood evening built around dinner, walking, cafes, bars, and a more lived-in side of Shanghai. It is often stronger than another skyline-only night once the Bund is already protected."

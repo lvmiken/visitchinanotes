@@ -36,7 +36,7 @@ tags:
   - "Macau"
   - "Senado Square"
   - "World Heritage"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Senado Square worth visiting on a first trip to Macau?"
     answer: "For many first-time visitors, yes. Senado Square is usually worth it because it anchors the historic center and gives Macau its clearest first-day heritage and atmosphere payoff."

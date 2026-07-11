@@ -33,7 +33,7 @@ tags:
   - "Guilin"
   - "Reed Flute Cave"
   - "Cave"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Reed Flute Cave worth visiting in Guilin?"
     answer: "Usually yes, especially if your Guilin stop needs one reliable city-side attraction or the weather makes an indoor detour more useful than an open-air landmark."

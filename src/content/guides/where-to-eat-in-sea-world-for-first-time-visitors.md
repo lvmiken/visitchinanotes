@@ -23,7 +23,8 @@ tags:
   - "Food"
   - "Sea World"
   - "Shekou"
-author: "Editorial Team"
+author: "Grace Lin"
+noindex: true
 faq:
   - question: "Is Sea World a good place to eat in Shenzhen for first-time visitors?"
     answer: "Usually yes if you want one easy waterfront dinner-and-evening district with broad cuisine choice, comfortable walking, and a more international Shenzhen feel. It is usually weaker for the city's cheapest local meal or for chasing specific specialties from farther districts."

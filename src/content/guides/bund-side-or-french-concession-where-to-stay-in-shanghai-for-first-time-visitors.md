@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "The Bund"
   - "French Concession"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay near the Bund or in the French Concession in Shanghai?"
     answer: "It depends on what you want the trip to feel like. The Bund side is usually better for classic skyline access and shorter central sightseeing days, while the French Concession is often better for slower neighborhood rhythm, food, and easier evening strolling."

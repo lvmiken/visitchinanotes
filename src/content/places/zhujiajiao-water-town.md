@@ -35,7 +35,7 @@ tags:
   - "Shanghai"
   - "Zhujiajiao"
   - "Water town"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Zhujiajiao worth visiting from Shanghai?"
     answer: "Usually yes if your Shanghai trip is already long enough to protect the city's core highlights first. It is often a good softer contrast on a 4-day or 5-day stay, but less essential on a short first trip."

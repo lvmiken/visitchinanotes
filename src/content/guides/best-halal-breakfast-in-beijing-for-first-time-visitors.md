@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Breakfast"
   - "Halal"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat halal breakfast in Beijing?"
     answer: "For many first-time visitors, Niujie is the strongest district choice if breakfast itself is part of the experience, while Yifeng Deshunxing is often the cleaner single-stop answer when you want one proper halal Beijing-style breakfast without a full district crawl."

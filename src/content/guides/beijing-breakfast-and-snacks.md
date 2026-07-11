@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat breakfast in Beijing?"
     answer: "Many first-time visitors do best with one local breakfast or snack block in Huguosi, Qianmen, or another central area that already fits the day's route, rather than crossing the city only for breakfast."

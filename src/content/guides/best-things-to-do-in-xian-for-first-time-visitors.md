@@ -24,7 +24,7 @@ tags:
   - "Xi'an"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What are the best things to do in Xi'an for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are the Terracotta Army, Xi'an City Wall, one old-city food or evening block, and on a fuller trip one selective museum or pagoda-side branch."

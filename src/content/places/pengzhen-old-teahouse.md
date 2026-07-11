@@ -33,7 +33,7 @@ tags:
   - "Chengdu"
   - "Tea houses"
   - "Pengzhen"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Pengzhen Old Teahouse worth visiting in Chengdu?"
     answer: "Usually yes if you want a more lived-in and atmospheric tea-room stop than the easiest central options. It is usually less worth it if your trip mainly needs the simplest first tea-house answer."

@@ -23,7 +23,7 @@ tags:
   - "Transport"
   - "Hainan"
   - "Independent travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Can foreigners casually rent a scooter in Sanya or Wanning?"
     answer: "You should not assume so. The practical and legal answer is much riskier than in many Southeast Asia beach towns, and current official temporary-driving-permit guidance for rented vehicles points much more clearly toward small cars than casual rented scooters."

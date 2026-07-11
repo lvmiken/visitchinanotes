@@ -33,7 +33,7 @@ tags:
   - "Chengdu"
   - "Qingcheng Mountain"
   - "Day trips"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Qingcheng Rear Mountain worth it from Chengdu?"
     answer: "Usually yes if you want a greener, more atmospheric, walking-led day trip and your Chengdu city layers already feel secure. It is usually less worth it on a short trip that still needs more city time."

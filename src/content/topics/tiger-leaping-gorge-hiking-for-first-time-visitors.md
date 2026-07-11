@@ -24,7 +24,7 @@ tags:
   - "Yunnan"
   - "Tiger Leaping Gorge"
   - "Hiking"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Tiger Leaping Gorge hiking realistic for first-time visitors?"
     answer: "Usually yes, but only in the right version. Many first-time visitors do best with a selective overnight hiking rhythm rather than a rushed one-day prove-it plan."

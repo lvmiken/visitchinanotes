@@ -17,7 +17,7 @@ relatedTopicSlugs:
 tags:
   - "Nanjing"
   - "Where to stay"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Where should first-time visitors stay in Nanjing?"
     answer: "Many first-time visitors do best in central areas that keep historical sights and evening movement manageable, with Confucius Temple side favored when atmosphere matters more than pure convenience."

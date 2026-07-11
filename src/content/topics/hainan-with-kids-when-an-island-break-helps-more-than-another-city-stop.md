@@ -24,7 +24,7 @@ tags:
   - "Trip planning"
   - "Hainan"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Hainan good with kids on a first China trip?"
     answer: "Usually yes when the family genuinely wants beach time, easier pacing, and a softer chapter after busier mainland cities."

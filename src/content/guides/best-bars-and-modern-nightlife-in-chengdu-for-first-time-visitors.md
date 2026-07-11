@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Nightlife"
   - "Bars"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors go for nightlife in Chengdu?"
     answer: "For many first-time visitors, Yulin is the easiest all-around answer for a food-and-drinks night, while Jiuyanqiao is stronger when the trip wants a livelier riverfront bar night and Chengdu's smaller underground rooms are better when music itself is the point."

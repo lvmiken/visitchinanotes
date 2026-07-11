@@ -23,7 +23,7 @@ tags:
   - "Qingyang Palace"
   - "Wenshu Monastery"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Qingyang Palace or Wenshu Monastery better for first-time visitors?"
     answer: "For many first-time visitors, Wenshu Monastery is better if you want one calmer temple-and-tea stop that is easy to fit into the route, while Qingyang Palace is better if the trip wants a more selective west-side Taoist branch."

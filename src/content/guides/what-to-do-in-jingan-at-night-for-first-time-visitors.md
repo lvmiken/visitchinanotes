@@ -27,7 +27,7 @@ tags:
   - "Shanghai"
   - "Night"
   - "Jing'an"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Jing'an worth visiting at night on a first Shanghai trip?"
     answer: "Usually yes if you want one polished, lower-friction evening with strong restaurant options, cocktails, and easier late returns. It is often more useful as a night district than as a major daytime sightseeing priority."

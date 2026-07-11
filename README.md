@@ -33,6 +33,8 @@ Without these variables, the forms stay in local preview mode and show the succe
 ## Key places to inspect
 
 - `src/content/config.ts`
+- `EDITORIAL_TEAM.md`
+- `CONTENT_TRIAGE_PLAN.md`
 - `src/pages/index.astro`
 - `src/pages/destinations/[city].astro`
 - `src/pages/guides/[slug].astro`

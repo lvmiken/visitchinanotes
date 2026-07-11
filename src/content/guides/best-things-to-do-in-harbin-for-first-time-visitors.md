@@ -24,7 +24,7 @@ tags:
   - "Harbin"
   - "Things to do"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What are the best things to do in Harbin for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are protect one Harbin Ice and Snow World night, use Zhongyang Street as the city's easiest central day anchor, and treat Saint Sophia Cathedral as a shorter support stop rather than a full standalone priority."

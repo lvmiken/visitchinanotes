@@ -20,7 +20,7 @@ tags:
   - "Nanjing"
   - "Purple Mountain"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Sun Yat-sen Mausoleum or Ming Xiaoling?"
     answer: "For many first-time visitors, Sun Yat-sen Mausoleum is the better default because it is easier to fit and more immediately legible. Ming Xiaoling becomes stronger once the trip has more time and wants deeper imperial history."

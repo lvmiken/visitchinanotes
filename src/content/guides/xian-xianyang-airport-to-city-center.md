@@ -20,7 +20,7 @@ tags:
   - "Xi'an"
   - "Xianyang Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Xi'an Xianyang Airport to downtown Xi'an?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late, luggage is heavy, or the final hotel route is still unclear. The airport rail link is often the best value when the hotel connection is simple."

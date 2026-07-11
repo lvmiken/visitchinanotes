@@ -23,7 +23,7 @@ tags:
   - "Nightlife"
   - "Clubs"
   - "INS Land"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is INS Land worth it for first-time visitors in Shanghai?"
     answer: "Usually yes if the trip wants one concentrated nightlife night with several room styles in one place. It is less useful if you mainly want one refined drink, a calmer district walk, or a lineup-first underground room."

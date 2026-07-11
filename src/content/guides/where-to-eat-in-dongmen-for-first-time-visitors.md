@@ -3,6 +3,7 @@ title: "Where to Eat in Dongmen for First-Time Visitors"
 description: "Use this Dongmen food guide to decide whether the area should carry your street-snack crawl, a casual cheap dinner, Dongmending Food Street stop, or one easy Luohu shopping night."
 publishDate: 2026-06-24
 updatedDate: 2026-07-05
+noindex: true
 city: "shenzhen"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 casual evening"
@@ -23,7 +24,7 @@ tags:
   - "Food"
   - "Dongmen"
   - "Luohu"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Dongmen a good place to eat in Shenzhen for first-time visitors?"
     answer: "Usually yes if you want one lively, inexpensive, easy-to-understand food-and-shopping area with lots of snack and casual-meal choice. It is usually weaker for a polished sit-down night or for chasing specific Shenzhen specialties from other districts."

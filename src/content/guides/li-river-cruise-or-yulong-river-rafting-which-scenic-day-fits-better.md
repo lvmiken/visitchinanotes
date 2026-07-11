@@ -23,7 +23,7 @@ tags:
   - "Yangshuo"
   - "Li River"
   - "Yulong River"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is the Li River cruise better than Yulong River rafting?"
     answer: "Usually yes for a first-time visitor who still needs the region's clearest iconic day. Yulong River rafting becomes stronger once the trip already has enough Li River identity or wants a softer half day from Yangshuo."

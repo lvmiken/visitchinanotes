@@ -20,7 +20,7 @@ tags:
   - "Nanjing"
   - "First trip"
   - "History"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Nanjing worth visiting for first-time travelers?"
     answer: "Usually yes, especially for travelers who want a historically rich city that feels easier and less overwhelming than Beijing while still offering real depth."

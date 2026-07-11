@@ -20,7 +20,7 @@ tags:
   - "Beijing"
   - "Capital Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Beijing Capital Airport to downtown?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late or luggage is heavy. The Capital Airport Express is often the best balance if the hotel route lines up well with the metro."

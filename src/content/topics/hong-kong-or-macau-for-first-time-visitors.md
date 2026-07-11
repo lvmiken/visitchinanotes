@@ -30,7 +30,7 @@ tags:
   - "Trip planning"
   - "South China"
   - "City comparison"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Hong Kong or Macau better for first-time visitors?"
     answer: "For many first-time visitors, Hong Kong is better if the trip needs a stronger standalone city break with skyline, neighborhoods, and faster payoff, while Macau is better if the route already has a main city and only needs a shorter heritage-and-entertainment contrast."

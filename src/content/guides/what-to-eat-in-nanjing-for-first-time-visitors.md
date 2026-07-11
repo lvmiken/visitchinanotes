@@ -20,7 +20,7 @@ tags:
   - "Nanjing"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What food should first-time visitors try in Nanjing?"
     answer: "Many first-time visitors do best with salted duck, duck-blood vermicelli soup, and one Qinhuai-side snack block rather than trying to turn every meal into a formal banquet."

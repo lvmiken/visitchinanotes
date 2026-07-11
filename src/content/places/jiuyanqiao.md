@@ -35,7 +35,7 @@ tags:
   - "Chengdu"
   - "Jiuyanqiao"
   - "Nightlife"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Jiuyanqiao worth visiting in Chengdu?"
     answer: "Usually yes if you want one livelier evening with bars, a younger crowd, or a more active riverside night. It is less essential if the trip mainly wants slower food and neighborhood atmosphere."

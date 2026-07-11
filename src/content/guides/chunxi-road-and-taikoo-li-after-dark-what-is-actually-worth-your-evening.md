@@ -23,7 +23,7 @@ tags:
   - "Chunxi Road"
   - "Taikoo Li"
   - "Night"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Chunxi Road worth visiting at night?"
     answer: "Usually yes. For many first-time visitors, night is when Chunxi Road and Taikoo Li make the most sense because the area becomes an easy dinner, dessert, and central-walk answer."

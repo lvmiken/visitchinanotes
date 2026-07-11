@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Guanyinqiao"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Guanyinqiao a good place to eat in Chongqing?"
     answer: "Usually yes. For many first-time visitors, Guanyinqiao is one of Chongqing's best districts for a fuller local dinner, more modern city energy, and an evening that can continue naturally into dessert or drinks."

@@ -30,7 +30,7 @@ tags:
   - "Hangzhou Museum"
   - "Hefang Street"
   - "Half day"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Can first-time visitors do Hangzhou Museum and Hefang Street in one half day?"
     answer: "Yes. For many first-time visitors, this is one of the cleanest central half-day combinations in Hangzhou because the museum gives the branch one real indoor anchor and Hefang Street works as a shorter old-core continuation."

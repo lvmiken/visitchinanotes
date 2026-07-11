@@ -22,7 +22,7 @@ tags:
   - "Trip planning"
   - "Haikou"
   - "Hainan"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Mission Hills Haikou worth it if you do not play golf?"
     answer: "Sometimes, but not automatically. It can still fit travelers who want a contained resort-leisure block, but many first-time visitors will prefer central Haikou texture or a cleaner move south."

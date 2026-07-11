@@ -26,7 +26,7 @@ tags:
   - "Shanghai"
   - "North Bund"
   - "Photo spots"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "When should I go to the North Bund for photos?"
     answer: "For many first-time visitors, the strongest North Bund photos come when the skyline still has atmosphere and the stop stays controlled rather than stretching into a full evening."

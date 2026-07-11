@@ -21,7 +21,7 @@ tags:
   - "Beijing"
   - "Hotels"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best area to stay in Beijing?"
     answer: "For many first-time visitors, the Dongcheng side of central Beijing is the strongest default because it keeps the main historical sights, metro movement, and evening returns relatively manageable."

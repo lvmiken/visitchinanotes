@@ -36,7 +36,7 @@ tags:
   - "Beijing"
   - "Universal Beijing Resort"
   - "Theme park"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Universal Beijing Resort worth it on a first Beijing trip?"
     answer: "Often yes for families, teens, and travelers who want one big entertainment day, but it is usually better after the Forbidden City and Great Wall are already secure in the route."

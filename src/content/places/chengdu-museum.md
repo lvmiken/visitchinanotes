@@ -35,7 +35,7 @@ tags:
   - "Chengdu"
   - "Chengdu Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Chengdu Museum worth visiting for first-time visitors?"
     answer: "Usually yes, especially if you want one central museum block that adds culture without making a short Chengdu trip feel too formal or too crowded."

@@ -25,7 +25,7 @@ tags:
   - "Food travel"
   - "Dragon Boat Festival"
   - "Chinese food"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is zongzi?"
     answer: "Zongzi is a glutinous-rice dumpling wrapped in leaves and strongly associated with Dragon Boat Festival. It comes in many regional styles, but first-time travelers usually do best by choosing savory or sweet first."

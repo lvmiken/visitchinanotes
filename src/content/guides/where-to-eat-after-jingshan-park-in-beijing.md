@@ -3,6 +3,7 @@ title: "Where to Eat After Jingshan Park in Beijing"
 description: "Decide whether Shichahai, Qianmen, or Wangfujing fits best after Jingshan Park, and learn when a lakeside evening, an old-core dinner, or the easiest central meal makes the most sense."
 publishDate: 2026-06-23
 updatedDate: 2026-06-23
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 evening"
@@ -24,7 +25,7 @@ tags:
   - "Jingshan Park"
   - "Shichahai"
   - "Qianmen"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat after Jingshan Park in Beijing?"
     answer: "For many first-time visitors, Shichahai is the best answer if the day should feel softer and more atmospheric, Qianmen is better if dinner itself is meant to be a stronger old-Beijing highlight, and Wangfujing is the easiest answer when energy is already low."

@@ -33,7 +33,7 @@ tags:
   - "Yangshuo"
   - "Moon Hill"
   - "Hiking"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Moon Hill worth visiting in Yangshuo?"
     answer: "Usually yes if your group genuinely wants one active climb and the route has room for a more physical half day. It is less essential for travelers who mainly want soft scenery and easy pacing."

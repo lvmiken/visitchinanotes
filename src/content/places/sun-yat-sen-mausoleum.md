@@ -27,7 +27,7 @@ heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "Landmark"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Sun Yat-sen Mausoleum worth visiting in Nanjing?"
     answer: "Usually yes on a fuller first trip, especially when you want one major symbolic and outdoor historical block. It is less essential on the shortest version of the city."

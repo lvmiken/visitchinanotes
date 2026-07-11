@@ -23,7 +23,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "The Bund"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where should first-time visitors eat near the Bund in Shanghai?"
     answer: "For many first-time visitors, the strongest answer is to stay central. De Xing Guan is a useful classic Shanghai choice, Lao Zheng Xing is stronger if dinner itself should be a protected Shanghainese meal, and Yu Garden plus Nanxiang only makes sense if that old-city block already is part of the same day."

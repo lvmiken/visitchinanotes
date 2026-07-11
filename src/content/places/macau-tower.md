@@ -31,7 +31,7 @@ tags:
   - "Macau Tower"
   - "Skyline"
   - "Observation"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Macau Tower worth visiting on a first trip to Macau?"
     answer: "For many first-time visitors, yes, but only as a supporting visual layer. Macau Tower is usually worth it when the trip wants one skyline stop, one cleaner modern evening, or one symbolic landmark beyond the heritage core."

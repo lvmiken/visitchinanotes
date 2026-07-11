@@ -3,6 +3,7 @@ title: "Where to Eat Near Hefang Street and Gaoyin Street for First-Time Visitor
 description: "Use this old-core Hangzhou food guide to choose between one proper Hefang meal, one snack stop on Gaoyin Street, one breakfast-style local bite, or one lighter medicinal-cuisine detour."
 publishDate: 2026-06-25
 updatedDate: 2026-06-25
+noindex: true
 city: "hangzhou"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 snack block"
@@ -27,7 +28,7 @@ tags:
   - "Food"
   - "Hefang Street"
   - "Gaoyin Street"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Where should first-time visitors eat near Hefang Street?"
     answer: "For many first-time visitors, Fu Yuan Ju is the clearest proper meal near Hefang Street if the branch should carry one real sit-down lunch or dinner. Otherwise, the area is often better for a controlled snack-and-walk block than for the city's most important meal."

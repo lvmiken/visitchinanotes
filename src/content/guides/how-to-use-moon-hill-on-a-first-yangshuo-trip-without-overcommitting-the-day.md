@@ -20,7 +20,7 @@ tags:
   - "Yangshuo"
   - "Moon Hill"
   - "Hiking"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "How should first-time visitors fit Moon Hill into Yangshuo?"
     answer: "Use Moon Hill as one selective active half day and keep the rest of the day simple. It works best when the route already knows it wants activity instead of one more soft countryside or iconic river branch."

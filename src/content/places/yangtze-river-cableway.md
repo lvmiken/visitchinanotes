@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Yangtze River Cableway"
   - "Transport experiences"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is the Yangtze River Cableway worth it for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, but mainly as a short, memorable city-experience crossing rather than as the main event of the trip. It is usually most worth it when it fits naturally into a wider Chongqing day."

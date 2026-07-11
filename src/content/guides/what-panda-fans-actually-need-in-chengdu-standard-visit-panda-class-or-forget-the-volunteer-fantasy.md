@@ -23,7 +23,7 @@ tags:
   - "Pandas"
   - "Panda Base"
   - "Volunteer"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best panda experience in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, the best panda experience is still a properly planned morning at the Chengdu Research Base of Giant Panda Breeding. A more structured add-on only helps if you genuinely want extra interpretation rather than simply closer access."

@@ -23,7 +23,7 @@ tags:
   - "Yangshuo"
   - "Li River"
   - "Comparison"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Should first-time visitors choose the Li River cruise or more time in Yangshuo?"
     answer: "For many first-time visitors, the Li River cruise is the better default if you must choose because it gives the region its clearest iconic scenic payoff. Extra time in Yangshuo becomes stronger when the route wants atmosphere and a slower overnight rhythm."

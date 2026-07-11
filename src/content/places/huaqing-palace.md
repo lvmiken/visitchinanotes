@@ -34,7 +34,7 @@ tags:
   - "Xi'an"
   - "Huaqing Palace"
   - "Tang history"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Huaqing Palace worth visiting on a first Xi'an trip?"
     answer: "Sometimes yes, especially if you already know the Terracotta Army is a must and your Xi'an stay has enough room for one more atmospheric Lintong-side stop. On the shortest trips it is usually more optional than the old city."

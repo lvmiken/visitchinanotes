@@ -17,7 +17,7 @@ relatedTopicSlugs:
 tags:
   - "Suzhou"
   - "Night"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What should first-time visitors do in Suzhou at night?"
     answer: "Most first-time visitors do best with a canal-side walk, dinner, and one old-street evening block rather than trying to turn Suzhou into a heavy nightlife city."

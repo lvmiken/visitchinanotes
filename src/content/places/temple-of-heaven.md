@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Temple of Heaven"
   - "Historic sights"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Temple of Heaven worth visiting on a first Beijing trip?"
     answer: "Often yes, especially if the itinerary needs one major cultural site that feels calmer and less demanding than the biggest anchor landmarks."

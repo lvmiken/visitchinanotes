@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Museums"
   - "First trip"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best museum in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, Chengdu Museum is the best default answer because it is central and easy to combine with a practical city day. Sichuan Museum is often better for readers who want a fuller west-side cultural block."

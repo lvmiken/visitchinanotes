@@ -29,7 +29,7 @@ tags:
   - "People's Park"
   - "Panda base"
   - "Tea"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors go to People's Park after Chengdu Panda Base?"
     answer: "Often yes, if the group still has energy after lunch and the trip still needs one classic Chengdu tea-house block. It is often weaker if the panda morning already felt long and the better answer is simply a central meal and an easier evening."

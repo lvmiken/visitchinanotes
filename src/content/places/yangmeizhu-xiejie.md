@@ -33,7 +33,7 @@ tags:
   - "Beijing"
   - "Yangmeizhu Xiejie"
   - "Hutongs"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Yangmeizhu Xiejie worth visiting in Beijing?"
     answer: "Usually yes as a supporting old-city lane if you want a calmer, more selective hutong-style walk. It is usually not a major standalone sight."

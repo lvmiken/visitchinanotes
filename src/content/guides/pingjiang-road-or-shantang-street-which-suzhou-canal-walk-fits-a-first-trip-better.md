@@ -19,7 +19,7 @@ tags:
   - "Suzhou"
   - "Old streets"
   - "Comparison"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors choose Pingjiang Road or Shantang Street?"
     answer: "For many first-time visitors, Pingjiang Road is the stronger default because it feels more textured and fits naturally with Suzhou Museum. Shantang Street is better when the trip mainly wants an easier brighter evening canal walk."

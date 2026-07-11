@@ -35,7 +35,7 @@ tags:
   - "Hong Kong"
   - "Avenue of Stars"
   - "Victoria Harbour"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Avenue of Stars worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes. Avenue of Stars is often worth it because it gives the easiest classic skyline walk and one of the simplest ways to let Victoria Harbour feel iconic without much route friction."

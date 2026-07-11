@@ -9,7 +9,7 @@ import TopicCard from "../components/TopicCard.astro";
 import PlaceCard from "../components/PlaceCard.astro";
 import PlanningHelpCallout from "../components/PlanningHelpCallout.astro";
 import HeroImage from "../components/HeroImage.astro";
-import { findAuthorEntry, getAuthorSlug } from "../lib/authors";
+import { getAuthorSlug, resolveAuthorEntry } from "../lib/authors";
 import { findCityEntry, getCitySlug } from "../lib/cityEntries";
 import { organizationName } from "../lib/site";
 import { getPlaceSocialImage } from "../lib/socialImages";
@@ -25,7 +25,8 @@ const allTopics = await getCollection("topics", ({ data }) => !data.draft);
 const allPlaces = await getCollection("places", ({ data }) => !data.draft);
 const allAuthors = await getCollection("authors");
 const cityHub = findCityEntry(allCities, place.data.city);
-const authorEntry = findAuthorEntry(allAuthors, place.data.author);
+const authorEntry = resolveAuthorEntry(allAuthors, place);
+const bylineLabel = authorEntry?.data.entityType === "organization" ? "Edited by" : "By";
 const relatedGuides = [
   ...place.data.relatedGuideSlugs
     .map((slug) => allGuides.find((guide) => guide.slug === slug))
@@ -139,6 +140,7 @@ const socialImage = getPlaceSocialImage(place);
   description={place.data.description}
   socialImage={socialImage}
   type="article"
+  noindex={place.data.noindex ?? false}
   publishedTime={place.data.publishDate}
   modifiedTime={place.data.updatedDate}
   schema={pageSchemas}
@@ -151,7 +153,7 @@ const socialImage = getPlaceSocialImage(place);
         <h1>{place.data.title}</h1>
         <p>{place.data.description}</p>
         <p class="meta-row">
-          By {authorEntry ? <a href={`/authors/${getAuthorSlug(authorEntry)}/`}>{place.data.author}</a> : place.data.author}
+          {bylineLabel} {authorEntry ? <a href={`/authors/${getAuthorSlug(authorEntry)}/`}>{authorEntry.data.name}</a> : place.data.author}
           {" · "}Published {place.data.publishDate.toLocaleDateString("en-US")}
           {place.data.updatedDate && ` · Updated ${place.data.updatedDate.toLocaleDateString("en-US")}`}
         </p>
@@ -290,7 +292,7 @@ const socialImage = getPlaceSocialImage(place);
 
   {authorEntry && (
     <section class="section-block card-surface">
-      <p class="eyebrow">About The Author</p>
+      <p class="eyebrow">{authorEntry.data.entityType === "organization" ? "About The Desk" : "About The Author"}</p>
       <h2 class="section-title">{authorEntry.data.name}</h2>
       <p><strong>{authorEntry.data.role}</strong></p>
       <p>{authorEntry.data.fullBio}</p>
@@ -300,8 +302,10 @@ const socialImage = getPlaceSocialImage(place);
         </ul>
       )}
       <div class="button-row">
-        <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>Open author page</a>
-        <a class="button-link secondary" href="/authors/">Browse authors</a>
+        <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>
+          {authorEntry.data.entityType === "organization" ? "Open editorial desk" : "Open author page"}
+        </a>
+        <a class="button-link secondary" href="/authors/">Browse editors and desks</a>
       </div>
     </section>
   )}

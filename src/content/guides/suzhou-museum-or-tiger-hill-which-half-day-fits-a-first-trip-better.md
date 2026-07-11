@@ -22,7 +22,7 @@ tags:
   - "Suzhou Museum"
   - "Tiger Hill"
   - "Comparison"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors choose Suzhou Museum or Tiger Hill?"
     answer: "For many first-time visitors, Suzhou Museum is the safer default because it fits short trips, rainy weather, and Pingjiang Road pairings so well. Tiger Hill is often better when the stay is longer and the city still needs one broader landmark half day."

@@ -34,7 +34,7 @@ tags:
   - "Zhongyang Street"
   - "Central Street"
   - "City walk"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Zhongyang Street worth visiting in Harbin?"
     answer: "Usually yes. For many first-time visitors, Zhongyang Street is the city's best central walking block because it adds architecture, atmosphere, and easier daily rhythm beyond the winter venues."

@@ -37,7 +37,7 @@ tags:
   - "Chen Clan Ancestral Hall"
   - "Lingnan architecture"
   - "Museum"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Chen Clan Ancestral Hall worth visiting for first-time visitors to Guangzhou?"
     answer: "For many first-time visitors, yes, especially if the trip wants one focused Lingnan architecture and craft stop and has enough room for more than only food and evening districts."

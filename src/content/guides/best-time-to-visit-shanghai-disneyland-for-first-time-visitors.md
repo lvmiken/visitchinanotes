@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Season planning"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best month to go to Shanghai Disneyland?"
     answer: "For many first-time visitors, April, May, October, and November are the safest months because the weather is usually more comfortable and the park day is easier to enjoy for longer."

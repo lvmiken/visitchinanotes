@@ -25,7 +25,7 @@ tags:
   - "Hanging Temple"
   - "Xuankong Temple"
   - "Ancient architecture"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Hanging Temple worth visiting on a first Shanxi trip?"
     answer: "Often yes for travelers who want Shanxi's most dramatic visual stop and already have a route that can absorb one more bridge detour. It is less useful if the trip already feels too compressed."

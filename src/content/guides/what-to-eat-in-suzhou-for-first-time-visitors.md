@@ -20,7 +20,7 @@ tags:
   - "Suzhou"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What food should first-time visitors try in Suzhou?"
     answer: "Many first-time visitors do best with one strong Suzhou noodle meal, one classic table dish such as squirrel-shaped mandarin fish, and one seasonal or lighter local dish rather than chasing only banquet-style names."

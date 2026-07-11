@@ -26,7 +26,7 @@ heroImageAlt: "Zhanqiao Pier stretching into the sea in Qingdao with Little Qing
 heroImageAttributionName: "K.Y.K.Z.K."
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Zhanqiao_pier_with_Little_Qingdao_Isle.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Qingdao worth visiting on a first trip to China?"
     answer: "Yes, especially if the route needs a calmer coastal stop. Qingdao is usually most rewarding as a two- to three-day break rather than as a long headline city stay."

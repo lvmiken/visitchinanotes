@@ -37,7 +37,7 @@ tags:
   - "Chongqing"
   - "Huguang Guild Hall"
   - "Historic sites"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Huguang Guild Hall worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, especially if the trip needs one heritage stop that explains Chongqing's immigrant history and old-city architecture without becoming a full museum day."

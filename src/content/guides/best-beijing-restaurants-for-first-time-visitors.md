@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Restaurants"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best restaurant in Beijing for first-time visitors?"
     answer: "There usually is not one single best restaurant. Most first-time visitors do better by choosing one classic duck restaurant, one local comfort-food meal, and one easier dinner that fits the day's area and energy level."

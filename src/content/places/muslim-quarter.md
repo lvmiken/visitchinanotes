@@ -33,7 +33,7 @@ tags:
   - "Xi'an"
   - "Muslim Quarter"
   - "Food"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Muslim Quarter worth visiting in Xi'an?"
     answer: "Usually yes, especially if food and street atmosphere matter to you. It is often most rewarding when used as a lively supporting block rather than as the only plan for half a day."

@@ -29,7 +29,7 @@ tags:
   - "Longji Rice Terraces"
   - "Longsheng"
   - "Day trip"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Longji Rice Terraces worth it from Guilin?"
     answer: "Usually yes when Guilin has enough time for a full-day mountain detour or when the rice terraces are one of the real priorities of the trip. It is usually less worth forcing into the shortest Li River and Yangshuo version."

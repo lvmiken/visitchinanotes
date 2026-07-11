@@ -17,7 +17,7 @@ relatedTopicSlugs:
 tags:
   - "Nanjing"
   - "Things to do"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What should first-time visitors prioritize in Nanjing?"
     answer: "Most first-time visitors do best with one major historical anchor like Presidential Palace or Nanjing Museum, one broader landmark like Sun Yat-sen Mausoleum or the City Wall, and one evening around the Qinhuai side."

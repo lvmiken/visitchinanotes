@@ -33,7 +33,7 @@ tags:
   - "Qingdao"
   - "May Fourth Square"
   - "Waterfront"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is May Fourth Square worth visiting in Qingdao?"
     answer: "Usually yes as a short modern waterfront stop, especially if your Qingdao route already uses the eastern seafront well. It rarely needs a long protected block on its own."

@@ -33,7 +33,7 @@ tags:
   - "Best time to visit China"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best season for a first trip to China?"
     answer: "For many travelers, spring and autumn are the easiest seasons because the weather is often more comfortable and the route is easier to enjoy without fighting extremes."

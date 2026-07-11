@@ -27,7 +27,7 @@ tags:
   - "Walking route"
   - "Architecture"
   - "Badaguan"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "How should first-time visitors do Qingdao's German-era architecture?"
     answer: "Usually as one coherent old-town walking branch, with Badaguan added only if there is still room for a slower villa-and-tree-lined extension."

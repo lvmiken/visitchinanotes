@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Night"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Guijie worth visiting for first-time visitors?"
     answer: "Usually yes if you want one lively late dinner or night-food street in Beijing. It is often most useful for crayfish, hotpot, barbecue, and a busier local-feeling evening rather than for a classic historic-core meal."

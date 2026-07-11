@@ -23,7 +23,7 @@ tags:
   - "Silk Road"
   - "Dunhuang"
   - "Museums"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Digital Dunhuang worth visiting on a first Silk Road trip?"
     answer: "Often yes, especially if you want the Mogao Caves to make more sense, need a weather-proof cultural layer, or want a preservation-friendly way to see more than a short cave visit alone can show."

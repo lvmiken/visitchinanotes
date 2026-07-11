@@ -25,7 +25,7 @@ tags:
   - "High-speed rail"
   - "Luggage"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "How much luggage can adults bring on China high-speed rail?"
     answer: "Current official 12306 rules say ordinary passengers may carry up to 20 kg for free."

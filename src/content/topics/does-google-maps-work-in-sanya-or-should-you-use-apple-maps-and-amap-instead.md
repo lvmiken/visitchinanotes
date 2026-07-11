@@ -24,7 +24,7 @@ tags:
   - "Apps"
   - "Maps"
   - "Hainan"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Does Google Maps work in Sanya with international roaming?"
     answer: "It may still open and help with broad orientation, but many travelers should not trust it as their only Hainan map when the trip depends on exact local detail, pickup points, and smaller businesses."

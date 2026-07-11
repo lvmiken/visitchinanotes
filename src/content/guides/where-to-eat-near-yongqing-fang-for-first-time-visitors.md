@@ -29,7 +29,7 @@ tags:
   - "Food"
   - "Yongqing Fang"
   - "Liwan"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Where should first-time visitors eat near Yongqing Fang in Guangzhou?"
     answer: "For many first-time visitors, the best answer depends on what job the meal should do. Panxi Restaurant is stronger for one classic old-style Cantonese meal, Wen Ji Yixinji and Xiang Qun are better for a more local Liwan-style lunch or dinner, and Chao Ji Claypot Rice is a strong choice when you want one focused everyday dish instead of a bigger restaurant session."

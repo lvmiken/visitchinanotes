@@ -24,7 +24,7 @@ tags:
   - "Beijing"
   - "Family travel"
   - "Reservations"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families book in advance for Beijing?"
     answer: "For many first-time families, the most important advance items are the hotel base, the Forbidden City, the Great Wall day setup, and any onward train tickets or must-have museum visits tied to fixed dates."

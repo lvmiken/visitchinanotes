@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Shanghainese cuisine"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best Shanghainese restaurant in Shanghai for first-time visitors?"
     answer: "There is not one universal best answer. Lao Zheng Xing is often the clearest classic choice, Lan Xin is a stronger neighborhood-feeling choice, Fu 1039 is a better polished but still local option, and Fu 1088 is the splurge answer when the trip wants one special protected dinner."

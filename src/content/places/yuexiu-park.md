@@ -36,7 +36,7 @@ tags:
   - "Yuexiu Park"
   - "Park"
   - "City history"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Yuexiu Park worth visiting for first-time visitors to Guangzhou?"
     answer: "For many first-time visitors, yes, especially if the trip wants one lighter central historical and outdoor block beyond food streets and evening districts."

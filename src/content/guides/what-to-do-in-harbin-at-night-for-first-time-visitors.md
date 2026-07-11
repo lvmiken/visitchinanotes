@@ -21,7 +21,7 @@ tags:
   - "Harbin"
   - "Night"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What should first-time visitors do in Harbin at night?"
     answer: "For many first-time visitors, the strongest Harbin night is either one real Ice and Snow World evening, an easier Zhongyang Street night, or a deliberately lighter evening that protects the next day and the cold-weather energy budget."

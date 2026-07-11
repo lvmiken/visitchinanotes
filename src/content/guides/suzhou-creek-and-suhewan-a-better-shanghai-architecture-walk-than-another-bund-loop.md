@@ -27,7 +27,7 @@ tags:
   - "Suzhou Creek"
   - "Architecture"
   - "City walk"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Suzhou Creek worth visiting on a first trip to Shanghai?"
     answer: "Usually yes for architecture-minded travelers who already know the Bund matters and now want one more layered urban walk. It is usually less important than the Bund itself for broad first-trip value."

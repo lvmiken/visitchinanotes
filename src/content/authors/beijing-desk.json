@@ -1,0 +1,15 @@
+{
+  "name": "Beijing Editorial Desk",
+  "entityType": "organization",
+  "role": "Beijing City Desk",
+  "shortBio": "Maintains Beijing route, district, stay, and attraction-planning coverage for travelers using the capital as a major stop.",
+  "fullBio": "The Beijing Editorial Desk maintains guides, place pages, and planning coverage related to Beijing. Its focus is helping readers make practical decisions about hotel areas, pacing across the imperial core and modern districts, Great Wall tradeoffs, and the difference between landmark value and itinerary friction.",
+  "expertise": [
+    "Beijing route planning",
+    "Hotel-area and district selection",
+    "Great Wall and central-city pacing"
+  ],
+  "reviewProcess": "Pages are reviewed for route logic, attraction tradeoffs, district fit, and whether the advice still reflects realistic transport and booking conditions for Beijing.",
+  "seoTitle": "Beijing Editorial Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains Beijing guides, place pages, and trip-planning coverage on China Travel Notes."
+}

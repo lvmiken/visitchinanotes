@@ -22,7 +22,7 @@ tags:
   - "Elephant Trunk Hill"
   - "Reed Flute Cave"
   - "Comparison"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Should first-time visitors choose Elephant Trunk Hill or Reed Flute Cave?"
     answer: "Choose Elephant Trunk Hill for a lighter symbolic city stop, and choose Reed Flute Cave for a more self-contained half day or when weather makes an indoor attraction more useful."

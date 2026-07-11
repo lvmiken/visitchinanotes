@@ -22,7 +22,7 @@ tags:
   - "Qingdao"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What food should first-time visitors try in Qingdao?"
     answer: "Many first-time visitors do best with one seafood-heavy meal, one plate of spicy stir-fried clams or grilled seafood with Tsingtao beer, and one lighter local meal such as seafood wontons instead of trying to turn every meal into a premium seafood banquet."

@@ -36,7 +36,7 @@ tags:
   - "Chengdu"
   - "Yulin"
   - "Neighborhood"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Yulin worth visiting in Chengdu?"
     answer: "Usually yes, especially if you want one dinner-and-drinks neighborhood that feels more local and less staged than the obvious tourist areas."

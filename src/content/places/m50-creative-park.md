@@ -36,7 +36,7 @@ tags:
   - "M50 Creative Park"
   - "Contemporary art"
   - "Architecture"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is M50 Creative Park worth visiting in Shanghai?"
     answer: "Usually yes for travelers who genuinely enjoy galleries, industrial reuse, and a more underground creative atmosphere. It is usually less important than the Bund or the French Concession on a very short first trip."

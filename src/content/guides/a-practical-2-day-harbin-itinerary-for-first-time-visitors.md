@@ -24,7 +24,7 @@ tags:
   - "2 days"
   - "Itinerary"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is 2 days enough for Harbin?"
     answer: "Yes. For many first-time visitors, 2 days is the Harbin sweet spot because it gives the city one real winter night and one central-city day without stretching the stop too thin."

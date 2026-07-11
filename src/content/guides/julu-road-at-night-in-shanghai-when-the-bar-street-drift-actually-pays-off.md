@@ -28,7 +28,7 @@ tags:
   - "Nightlife"
   - "Julu Road"
   - "French Concession"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Julu Road worth visiting at night in Shanghai?"
     answer: "Usually yes if you want one walkable, stylish bar-street evening with more drift and street energy than Xintiandi, but less commitment than FOUND158 or INS Land."

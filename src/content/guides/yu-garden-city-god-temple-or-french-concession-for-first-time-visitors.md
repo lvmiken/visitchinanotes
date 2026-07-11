@@ -28,7 +28,7 @@ tags:
   - "City God Temple"
   - "French Concession"
   - "Comparison"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors choose Yu Garden and City God Temple or the French Concession?"
     answer: "For many first-time visitors, the French Concession is the stronger default day because it gives Shanghai its best neighborhood rhythm. Yu Garden and City God Temple are better when the trip still needs one traditional old-core contrast."

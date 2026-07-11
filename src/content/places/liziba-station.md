@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Liziba"
   - "Transit experiences"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Liziba Station worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, but mainly as a short high-payoff stop that shows Chongqing's layered city form, not as a major attraction that should control the whole day."

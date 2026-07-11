@@ -23,7 +23,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best area to eat in Hangzhou?"
     answer: "For many first-time visitors, the best area depends on the day. Hubin and the east side of West Lake are best for easy scenic-day meals, Wulin is stronger for practical short-stay dining, and Hefang Street is more useful for one controlled old-core snack or classic-food block than for every important meal."

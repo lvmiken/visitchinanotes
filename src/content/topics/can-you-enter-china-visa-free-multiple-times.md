@@ -34,7 +34,7 @@ tags:
   - "Visa"
   - "Visa-free entry"
   - "China travel basics"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Can eligible foreign nationals enter China visa-free more than once?"
     answer: "Yes. A current official visa-free FAQ says eligible foreign nationals can enter China visa-free multiple times."

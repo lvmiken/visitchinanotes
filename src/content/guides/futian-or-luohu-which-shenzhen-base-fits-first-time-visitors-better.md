@@ -24,7 +24,7 @@ tags:
   - "Luohu"
   - "Hotels"
   - "Comparison"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Futian or Luohu better for first-time visitors in Shenzhen?"
     answer: "For many first-time visitors, Futian is better because it gives a cleaner all-around base with easier central movement and a stronger first-time city feel, while Luohu is better mainly when border, station, or Dongmen-side practicality truly shapes the trip."

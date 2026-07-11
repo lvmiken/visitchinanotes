@@ -22,7 +22,7 @@ tags:
   - "Food"
   - "Qinhuai River"
   - "Confucius Temple"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is the Qinhuai River area a good place to eat in Nanjing?"
     answer: "Usually yes for one old-city evening food block. It is often strongest when dinner or snacks support the night walk, not when travelers try to make it carry every important Nanjing meal."

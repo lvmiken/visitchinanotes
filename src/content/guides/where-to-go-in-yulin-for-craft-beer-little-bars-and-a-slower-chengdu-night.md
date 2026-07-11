@@ -3,6 +3,7 @@ title: "Where to Go in Yulin for Craft Beer, Little Bars, and a Slower Chengdu N
 description: "Use this Yulin nightlife guide if you want craft beer, little bars, live-music spillover, and a slower Chengdu street night instead of a louder Jiuyanqiao-style bar push."
 publishDate: 2026-06-30
 updatedDate: 2026-06-30
+noindex: true
 city: "chengdu"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -27,7 +28,7 @@ tags:
   - "Yulin"
   - "Bars"
   - "Craft beer"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Yulin the best area in Chengdu for a slower nightlife night?"
     answer: "For many first-time visitors, yes. Yulin is often the clearest answer when the night should be craft-beer-friendly, food-supported, and relaxed instead of louder and more explicitly nightlife-led."

@@ -32,7 +32,7 @@ tags:
   - "Zhongshan Road"
   - "Old town"
   - "Night walk"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Zhongshan Road worth visiting in Qingdao?"
     answer: "Usually yes, especially if you want one older-core Qingdao block with snacks, walking, and city texture after the main waterfront layer is already covered."

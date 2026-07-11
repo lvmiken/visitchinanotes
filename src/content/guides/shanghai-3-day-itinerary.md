@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Itinerary"
   - "3 days"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is three days enough for Shanghai?"
     answer: "Yes. Three days is enough for a strong first impression if you focus on a few neighborhoods rather than trying to cover the entire city."

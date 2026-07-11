@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Terracotta Army"
   - "Museums"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is Pit 1 at the Terracotta Army?"
     answer: "Pit 1 is the largest and most visually overwhelming excavation hall at the Terracotta Army site, and for many first-time visitors it is the main emotional payoff of the whole visit."

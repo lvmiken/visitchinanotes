@@ -24,7 +24,7 @@ tags:
   - "Beijing"
   - "Family travel"
   - "Things to do"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What are the best things to do in Beijing with kids?"
     answer: "For many first-time families, the best things to do are Mutianyu Great Wall, the Forbidden City, Beihai Park or the Summer Palace, one easy evening area such as Qianmen or Wangfujing, and one indoor backup such as a child-friendly museum."

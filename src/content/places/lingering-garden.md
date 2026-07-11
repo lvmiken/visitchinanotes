@@ -26,7 +26,7 @@ heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Garden"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Lingering Garden worth visiting in Suzhou?"
     answer: "Often yes on a fuller first trip, especially for travelers who know they want more than one serious classical-garden experience. It is less essential on the shortest Suzhou version."

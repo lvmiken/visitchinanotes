@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Bars"
   - "Nightlife"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors go for bars in Xi'an?"
     answer: "For many first-time visitors, South Gate is the easiest all-around answer, Bell Tower is stronger for more central energy, and Qujiang is better when the night should feel more polished or more scenic than a simple old-city drink."

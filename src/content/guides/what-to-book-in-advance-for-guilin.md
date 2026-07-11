@@ -24,7 +24,7 @@ tags:
   - "Yangshuo"
   - "Reservations"
   - "Li River"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Guilin?"
     answer: "For many first-time visitors, the main Guilin advance items are the right hotel base, any fixed onward train, the Li River cruise if it is the trip's main scenic anchor, and only those Yangshuo or Longji plans that would genuinely disappoint you if missed."

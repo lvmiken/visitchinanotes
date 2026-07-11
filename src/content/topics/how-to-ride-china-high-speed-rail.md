@@ -34,7 +34,7 @@ tags:
   - "High-speed rail"
   - "Train day"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is China high-speed rail hard for first-time tourists?"
     answer: "Usually no. The train itself is often very easy. The part that needs respect is the station day, especially document checks, waiting-area flow, and realistic time buffer."

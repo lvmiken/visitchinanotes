@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Ciqikou"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Ciqikou a good place to eat in Chongqing?"
     answer: "Usually yes for one snack stop, a lighter lunch, or a tea-and-old-street block. It is usually weaker if you want the city's most important dinner or broadest local food district."

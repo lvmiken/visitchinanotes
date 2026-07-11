@@ -33,7 +33,7 @@ tags:
   - "Beijing"
   - "Temple"
   - "Baipu Temple"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Baipu Temple worth visiting in Beijing?"
     answer: "Usually only if you specifically want a stranger, more visually unusual temple detour. It is not one of the strongest default first-trip priorities for most visitors."

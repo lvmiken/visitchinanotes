@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Shajing"
   - "Bao'an"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Are Shajing oysters worth a detour on a first Shenzhen trip?"
     answer: "Sometimes yes. They are most worth it when the trip already has room for a Bao'an-side branch and you want one true Shenzhen seafood specialty meal. They are often less worth it on a short 1 to 2 day stay if the detour would eat too much time."

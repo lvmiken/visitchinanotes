@@ -24,7 +24,7 @@ tags:
   - "Nanshan"
   - "Hotels"
   - "Comparison"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Futian or Nanshan better for first-time visitors in Shenzhen?"
     answer: "For many first-time visitors, Futian is better if you want the safest all-around default with easier central movement and station logic, while Nanshan is better if you want a more lifestyle-led west-side stay with stronger evening atmosphere."

@@ -23,7 +23,7 @@ tags:
   - "798 Art Zone"
   - "Contemporary art"
   - "Chaoyang"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is 798 Art Zone worth visiting on a first trip to Beijing?"
     answer: "Often yes for travelers who want one modern, creative, and less ceremonial side of Beijing. It is usually less essential for very short trips focused mainly on imperial landmarks."

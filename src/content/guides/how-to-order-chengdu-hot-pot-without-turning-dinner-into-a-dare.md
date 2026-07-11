@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Hot pot"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should first-time visitors order at Chengdu hot pot?"
     answer: "Many first-time visitors do best with one manageable broth, a few reliable meat and vegetable dishes, tofu or mushrooms, and only one or two adventurous items instead of ordering every famous ingredient at once."

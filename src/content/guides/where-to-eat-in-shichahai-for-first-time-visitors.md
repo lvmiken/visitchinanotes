@@ -3,6 +3,7 @@ title: "Where to Eat in Shichahai for First-Time Visitors"
 description: "Use this Shichahai food guide to decide whether Beijing's lake-and-hutong area should carry a grilled-lamb dinner, a halal meal, a lighter snack stop, or a casual drinks-and-walk evening."
 publishDate: 2026-06-23
 updatedDate: 2026-06-23
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 relaxed evening"
@@ -22,7 +23,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Shichahai"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Shichahai worth it for food on a first Beijing trip?"
     answer: "Usually yes if you want one softer lakeside or hutong-side evening. It is especially useful for grilled lamb, halal-friendly choices, lighter snacks, and a meal that fits walking and atmosphere better than a more formal iconic dinner district would."

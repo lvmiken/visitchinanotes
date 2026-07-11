@@ -30,7 +30,7 @@ heroImageAlt: "Pastel-lit ice replica of Saint Sophia Cathedral at Harbin Ice an
 heroImageAttributionName: "Garosio33"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Harbin_Ice_%26_Snow_Festival_2026_-_Saint_Sophia_Cathedral.jpg"
 heroImageLicense: "CC0"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is 5 days enough for Harbin?"
     answer: "Yes. Five days is enough for a strong first Harbin trip if you protect one flagship winter night, one real central-city day, one softer support layer, and one buffer or outer branch instead of trying to treat every winter venue as equally essential."

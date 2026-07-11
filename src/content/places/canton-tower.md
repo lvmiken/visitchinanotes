@@ -37,7 +37,7 @@ tags:
   - "Canton Tower"
   - "Skyline"
   - "Night views"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Canton Tower worth visiting for first-time visitors to Guangzhou?"
     answer: "For many first-time visitors, yes, especially if the trip wants one clear skyline anchor and one evening that feels unmistakably modern Guangzhou."

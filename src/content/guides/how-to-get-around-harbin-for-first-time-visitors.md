@@ -25,7 +25,7 @@ tags:
   - "Transport"
   - "Metro"
   - "Winter travel"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Harbin easy to get around for tourists?"
     answer: "Usually yes. Harbin gets much easier when metro handles the bigger central-city moves, walking stays inside one coherent district at a time, and taxi or Didi cleans up the cold-weather edges."

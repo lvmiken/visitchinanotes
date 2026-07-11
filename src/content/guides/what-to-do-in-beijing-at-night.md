@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should first-time visitors do in Beijing at night?"
     answer: "For many first-time visitors, the strongest evening choices are a historic-core walk and dinner around Qianmen, an easier central stop around Wangfujing, a livelier food-street dinner around Guijie, or a more modern dinner-and-evening block in Sanlitun."

@@ -24,7 +24,7 @@ tags:
   - "Sanya"
   - "Luxury resorts"
   - "Hotels"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Which is better for first-time visitors, The Sanya EDITION or Capella Tufu Bay?"
     answer: "For many first-time visitors, The Sanya EDITION is easier if you want a more legible Haitang Bay luxury stay with built-in activity energy. Capella Tufu Bay is better if privacy, villas, and a quieter retreat mood matter more than being plugged into Sanya's busier luxury circuit."

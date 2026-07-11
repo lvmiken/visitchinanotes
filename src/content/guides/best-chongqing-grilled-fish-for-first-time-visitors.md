@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Grilled fish"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is grilled fish worth trying in Chongqing if you already plan hot pot?"
     answer: "Usually yes. For many first-time visitors, grilled fish is the best second big Chongqing dinner because it gives the trip another strong local flavor without repeating hot pot's exact format."

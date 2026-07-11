@@ -29,7 +29,7 @@ tags:
   - "Tian Tan Buddha"
   - "Ngong Ping 360"
   - "Comparison"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Should first-time visitors choose Hong Kong Disneyland or a Lantau day?"
     answer: "It depends on trip style. Disneyland is better when the park itself is a real priority, while a Lantau day is often better when the trip already has its skyline layer and wants more scenic and cultural contrast."

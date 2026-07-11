@@ -33,7 +33,7 @@ tags:
   - "Trip planning"
   - "First trip"
   - "Itinerary"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "How many days are enough for a first trip to China?"
     answer: "For many travelers, 8 to 10 days is the best balance. It usually gives enough time for two strong cities without making the trip feel rushed."

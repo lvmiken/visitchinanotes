@@ -34,7 +34,7 @@ tags:
   - "Food"
   - "Special diet"
   - "China travel basics"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is China hard for vegan travelers?"
     answer: "It can be, but usually not for the reason travelers expect. The bigger problem is often communication, breakfasts, and travel-day backup rather than the total absence of plant-based food."

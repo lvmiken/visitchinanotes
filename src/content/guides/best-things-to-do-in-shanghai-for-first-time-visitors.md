@@ -24,7 +24,7 @@ tags:
   - "Shanghai"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What are the best things to do in Shanghai for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are the Bund, one selective Lujiazui skyline block, French Concession, one old-core or museum layer such as Yu Garden or Shanghai Museum, and one intentional food or nightlife block."

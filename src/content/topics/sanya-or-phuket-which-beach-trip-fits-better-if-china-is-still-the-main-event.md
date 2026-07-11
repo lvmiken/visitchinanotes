@@ -23,7 +23,7 @@ tags:
   - "Hainan"
   - "Sanya"
   - "Phuket"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Sanya better than Phuket for a first China trip?"
     answer: "Sometimes yes, especially when the trip is still clearly China-led and you want one beach-and-resort chapter without changing countries. If the holiday is mostly about the beach itself, Phuket often stays simpler."

@@ -23,7 +23,7 @@ tags:
   - "Harbin"
   - "Packing"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What should tourists wear in Harbin in winter?"
     answer: "Most tourists do best with thermal base layers, a warm mid-layer, a serious insulated outer coat, gloves, a hat, face protection, and insulated shoes or boots that can handle snow and long standing time."

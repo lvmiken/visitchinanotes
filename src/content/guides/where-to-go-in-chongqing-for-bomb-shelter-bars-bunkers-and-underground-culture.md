@@ -3,6 +3,7 @@ title: "Where to Go in Chongqing for Bomb Shelter Bars, Bunkers, and Underground
 description: "Use this Chongqing bunker-culture guide to decide when bomb shelter bars, cave-like beer rooms, and underground culture are worth your evening, when bomb shelter hot pot is enough, and how to avoid turning the whole night into a brittle venue hunt."
 publishDate: 2026-07-02
 updatedDate: 2026-07-02
+noindex: true
 city: "chongqing"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -23,7 +24,7 @@ tags:
   - "Nightlife"
   - "Bomb shelters"
   - "Bars"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Does Chongqing really have bomb shelter bars and bunker-style nightlife?"
     answer: "Usually yes in a broad sense, because former air-raid shelters and cave-like underground rooms are part of the city's real urban culture. The practical move is choosing the right kind of underground night rather than chasing one fixed venue list."

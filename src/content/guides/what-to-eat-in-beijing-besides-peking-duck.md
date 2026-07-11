@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should I eat in Beijing besides Peking duck?"
     answer: "For many first-time visitors, the best next choices are zhajiangmian, copper hotpot or instant-boiled mutton, one halal-style or Niujie meal, and one or two traditional snacks."

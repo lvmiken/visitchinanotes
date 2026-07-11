@@ -23,7 +23,7 @@ tags:
   - "Guilin"
   - "Transport"
   - "Yangshuo"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Guilin easy to get around for tourists?"
     answer: "Usually yes. For many first-time visitors, central Guilin is compact enough that short taxi rides, selective buses, and walking cover most city movement well."

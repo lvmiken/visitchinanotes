@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Family travel"
   - "Rainy day"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families do in Beijing on a rainy day?"
     answer: "For many families, the best move is to protect any hard-to-replace booking that still makes sense, then simplify the day into one indoor anchor, one easier meal, and a lower-friction return rather than trying to save every original stop."

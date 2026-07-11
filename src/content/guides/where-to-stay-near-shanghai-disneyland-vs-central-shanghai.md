@@ -24,7 +24,7 @@ tags:
   - "Hotels"
   - "Shanghai Disneyland"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should you stay near Shanghai Disneyland on a first trip?"
     answer: "Usually only if Disneyland is one of the main reasons for the trip, you want a smoother park day, or you are doing a split stay. If Disneyland is just one day inside a broader Shanghai trip, a central base is often better overall."

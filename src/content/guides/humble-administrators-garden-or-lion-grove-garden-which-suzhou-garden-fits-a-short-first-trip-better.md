@@ -20,7 +20,7 @@ tags:
   - "Suzhou"
   - "Garden"
   - "Comparison"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors choose Humble Administrator's Garden or Lion Grove Garden?"
     answer: "For many first-time visitors, Humble Administrator's Garden is the stronger default because it gives the clearest classical-garden identity on a short trip. Lion Grove Garden becomes better once the route already has enough structure and only needs a nearby supporting layer."

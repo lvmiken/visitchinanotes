@@ -34,7 +34,7 @@ tags:
   - "Hangzhou"
   - "West Lake"
   - "Scenery"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is West Lake worth visiting in Hangzhou?"
     answer: "Usually yes. West Lake is often the main reason a first Hangzhou stop feels worthwhile, especially when the route gives it enough time to stay scenic instead of rushed."

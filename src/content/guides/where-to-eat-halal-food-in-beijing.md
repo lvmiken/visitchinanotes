@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Halal"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat halal food in Beijing?"
     answer: "For many first-time visitors, Niujie is the strongest overall halal-food district in Beijing. Jubaoyuan is often the clearest first protected meal there, while Temple of Heaven days and slower city days are usually the best moments to make the detour."

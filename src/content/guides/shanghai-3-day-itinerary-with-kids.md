@@ -24,7 +24,7 @@ tags:
   - "Shanghai"
   - "3 days"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is 3 days enough for Shanghai with kids?"
     answer: "Usually yes. Three days is enough for a strong first family version of Shanghai if you keep one major anchor per day and do not treat Disneyland or cross-city evening moves as small add-ons."

@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Itinerary"
   - "3 days"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is three days enough for Xi'an?"
     answer: "Yes. Three days is enough for a strong first Xi'an trip because it gives you room for the Terracotta Army, one real old-city day, and one fuller food, museum, or pagoda-side layer without forcing the city to feel rushed."

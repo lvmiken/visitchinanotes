@@ -33,7 +33,7 @@ tags:
   - "Xi'an"
   - "Giant Wild Goose Pagoda"
   - "Landmarks"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Giant Wild Goose Pagoda worth visiting in Xi'an?"
     answer: "Often yes as a supporting stop, especially if your Xi'an plan is already stable. It is usually less essential than the Terracotta Army or the old-city core on a very short first trip."

@@ -23,7 +23,7 @@ tags:
   - "Night"
   - "Itinerary planning"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What should first-time visitors do in Shenzhen at night?"
     answer: "For many first-time visitors, the strongest Shenzhen nights are one easy Futian or Shenzhen Bay evening, one Shekou Sea World or Nanshan-side dinner night, and, if you want a more creative atmosphere, one stop around Nantou Ancient Town or OCT-LOFT."

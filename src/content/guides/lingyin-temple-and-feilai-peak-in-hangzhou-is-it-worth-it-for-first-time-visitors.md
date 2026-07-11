@@ -23,7 +23,7 @@ tags:
   - "Lingyin Temple"
   - "Feilai Peak"
   - "Half day"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Are Lingyin Temple and Feilai Peak worth visiting in Hangzhou?"
     answer: "Usually yes, especially when West Lake already is secure and your Hangzhou trip still has room for one temple-and-hillside half day with more texture than another generic scenic add-on."

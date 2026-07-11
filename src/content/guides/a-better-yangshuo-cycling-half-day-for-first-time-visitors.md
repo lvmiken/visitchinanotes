@@ -22,7 +22,7 @@ tags:
   - "Yangshuo"
   - "Cycling"
   - "Countryside"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is cycling in Yangshuo worth it for first-time visitors?"
     answer: "Usually yes if your trip wants one active countryside half day and you already know the more important regional anchors are covered. It is especially good for travelers who want scenery through movement instead of one more stop-and-photo outing."

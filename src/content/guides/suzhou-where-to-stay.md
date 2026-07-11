@@ -18,7 +18,7 @@ relatedTopicSlugs:
 tags:
   - "Suzhou"
   - "Where to stay"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where should first-time visitors stay in Suzhou?"
     answer: "Most first-time visitors do best in or near the old city, especially if they want easy access to gardens, canal walks, and evening atmosphere."

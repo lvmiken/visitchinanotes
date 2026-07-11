@@ -27,7 +27,7 @@ heroImageAlt: "Macau Peninsula at night with Grand Lisboa and surrounding city l
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_Center_of_Macau_Peninsula_Night_View.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Macau worth visiting for first-time travelers?"
     answer: "Yes, especially as a short stop. Macau is usually strongest when the trip wants a compact heritage-and-entertainment contrast rather than a long standalone city stay."

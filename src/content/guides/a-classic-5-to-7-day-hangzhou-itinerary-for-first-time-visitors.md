@@ -30,7 +30,7 @@ heroImageAlt: "Leifeng Pagoda rising above the trees across West Lake in Hangzho
 heroImageAttributionName: "Yinweichen"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_and_Willow_Tree_across_West_Lake.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is 5 days enough for Hangzhou?"
     answer: "Yes. Five days is enough for a rich first Hangzhou trip if you protect one proper West Lake day, one stronger Lingyin or Longjing day, one softer city-texture day, and one buffer day that keeps the city calm instead of rushed."

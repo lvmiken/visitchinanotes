@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Tickets"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What does Disney Premier Access do at Shanghai Disneyland?"
     answer: "Shanghai Disney's official pages currently describe it as a paid add-on that gives priority access to selected attractions or entertainment during designated time periods."

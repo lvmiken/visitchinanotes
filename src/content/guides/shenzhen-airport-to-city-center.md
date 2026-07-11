@@ -24,7 +24,7 @@ tags:
   - "Shenzhen Bao'an International Airport"
   - "Airport transfer"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Shenzhen airport to the city center?"
     answer: "For many first-time visitors, Metro Line 11 is the best clean public-transport answer when the hotel fits Futian or the west-central side, while taxi or Didi is easier for late arrivals, heavy luggage, or a fuzzy final hotel leg. Airport express buses become especially useful on late-night arrivals when one route clearly matches your district."

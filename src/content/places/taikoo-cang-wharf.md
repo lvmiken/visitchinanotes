@@ -29,7 +29,7 @@ tags:
   - "Taikoo Cang"
   - "Nightlife"
   - "Pearl River"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Taikoo Cang worth visiting in Guangzhou?"
     answer: "Usually yes when Guangzhou has room for a more riverside, drinks-led evening. It is often most useful on a second or final night, especially if the trip already protected one easier food-and-neighborhood evening elsewhere."

@@ -31,7 +31,7 @@ tags:
   - "Food"
   - "Panda base"
   - "Lunch"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors eat after Chengdu Panda Base?"
     answer: "For many first-time visitors, the safest answer is central Chengdu around Chunxi Road and Taikoo Li, where lunch or an early dinner can stay easy, flexible, and close to the rest of the day's softer options."

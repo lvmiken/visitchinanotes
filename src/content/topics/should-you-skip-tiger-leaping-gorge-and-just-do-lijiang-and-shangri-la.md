@@ -24,7 +24,7 @@ tags:
   - "Tiger Leaping Gorge"
   - "Shangri-La"
   - "Route planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can you skip Tiger Leaping Gorge and still have a good Yunnan trip?"
     answer: "Yes. For many first-time visitors, a Lijiang plus Shangri-La route is actually stronger when hiking is not a real priority and the trip needs a calmer rhythm."

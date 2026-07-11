@@ -23,7 +23,7 @@ tags:
   - "Trip planning"
   - "Destinations"
   - "China alternatives"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Which is easiest to add for first-time visitors: Quanzhou, Shaoxing, or Guiyang?"
     answer: "Shaoxing is usually the easiest add-on because it fits naturally into an East China route and does not demand a whole new travel logic."

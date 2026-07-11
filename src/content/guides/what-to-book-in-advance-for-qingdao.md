@@ -24,7 +24,7 @@ tags:
   - "Reservations"
   - "Planning"
   - "Coastal city"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Qingdao?"
     answer: "For many first-time visitors, the main Qingdao advance items are the right hotel area during busy dates, any fixed onward rail link, and only those beer-festival, museum, or Laoshan plans that would genuinely disappoint you if missed."

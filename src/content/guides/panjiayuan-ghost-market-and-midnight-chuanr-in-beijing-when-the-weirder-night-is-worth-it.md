@@ -27,7 +27,7 @@ tags:
   - "Night"
   - "Markets"
   - "Street food"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Panjiayuan ghost market worth doing on a first trip to Beijing?"
     answer: "Usually only selectively. It is strongest for travelers who genuinely like flea-market energy, object browsing, and rougher late-night atmosphere, but it is rarely the best use of a short trip's only major evening."

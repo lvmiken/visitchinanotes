@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Great Wall"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should first-time visitors eat after the Great Wall in Beijing?"
     answer: "For many first-time visitors, the smartest answer is one easy dinner near the hotel or along the simplest return path. Hotpot is often the strongest Great Wall return meal, while a high-queue duck dinner is usually weaker unless the branch is very convenient."

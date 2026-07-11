@@ -31,7 +31,7 @@ tags:
   - "Trip planning"
   - "High-speed rail"
   - "10 days"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best 10-day China bullet train itinerary for first-time visitors?"
     answer: "For many first-time visitors, the strongest rail-led 10-day route is Beijing, Xi'an, and Shanghai because the route fits high-speed rail naturally and gives each city a distinct job."

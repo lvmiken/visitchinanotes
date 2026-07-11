@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What should first-time visitors do in Shanghai at night?"
     answer: "For many first-time visitors, the strongest evening choices are a Bund skyline walk, a Huangpu River cruise, a dinner-and-walk night around Xintiandi or the French Concession, or an easier polished evening around Jing'an."

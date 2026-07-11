@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Jiangbei Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Chongqing Jiangbei Airport to downtown?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late, luggage is heavy, or the hotel route is still fuzzy. CRT is often the best-value option when the route into Jiefangbei or another central area is straightforward."

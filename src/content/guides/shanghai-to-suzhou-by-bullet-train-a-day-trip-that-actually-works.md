@@ -28,7 +28,7 @@ tags:
   - "Shanghai"
   - "Bullet train"
   - "Day trip"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can you do Suzhou as a day trip from Shanghai?"
     answer: "Yes, and for many first-time visitors it works well if the city stays selective: one major garden, one old-city or museum block, and a clean return rather than a heroic checklist."

@@ -23,7 +23,7 @@ tags:
   - "Sanlitun"
   - "Bars"
   - "Nightlife"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Sanlitun the best area for bars in Beijing?"
     answer: "For many first-time visitors, yes. It is often the easiest all-around area for a polished modern drinks night with stronger international comfort than most other Beijing districts."

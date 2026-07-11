@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Beijing Aquarium"
   - "Family travel"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Beijing Aquarium worth visiting on a first Beijing trip?"
     answer: "Often yes for families or readers who need one indoor backup, but usually no as a universal must-do ahead of Beijing's core first-time landmarks."

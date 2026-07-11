@@ -30,7 +30,7 @@ relatedGuideSlugs:
 tags:
   - "Trip planning"
   - "Destinations"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best first city to visit in China?"
     answer: "There is no single best answer. It depends on whether the traveler prioritizes history, food, modern city life, scenery, or trip simplicity."

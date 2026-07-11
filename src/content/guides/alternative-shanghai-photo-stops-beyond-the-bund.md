@@ -23,7 +23,7 @@ tags:
   - "Photography"
   - "City walks"
   - "Skyline"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What are the best Shanghai photo spots beyond the Bund?"
     answer: "For many first-time visitors, the strongest alternatives are Zhapu Road Bridge for one old-meets-new skyline angle, 1933 Old Millfun for industrial architecture, and Wukang Road or the French Concession for human-scale street texture."

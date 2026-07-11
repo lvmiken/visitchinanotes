@@ -26,7 +26,7 @@ tags:
   - "Trip planning"
   - "Destinations"
   - "City comparison"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Shanghai or Guangzhou better for first-time visitors to China?"
     answer: "For many first-time visitors, Shanghai is the easier default because it gives a smoother big-city landing and stronger short-stay sightseeing payoff. Guangzhou can be better if food, South China routing, and everyday city rhythm matter more."

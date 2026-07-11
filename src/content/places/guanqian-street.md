@@ -30,7 +30,7 @@ tags:
   - "Suzhou"
   - "Shopping street"
   - "Food"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Guanqian Street worth visiting in Suzhou?"
     answer: "Usually yes as a practical central street for food, hotel convenience, and light browsing, but it is often less essential than Pingjiang Road or a major garden if your Suzhou trip is very short."

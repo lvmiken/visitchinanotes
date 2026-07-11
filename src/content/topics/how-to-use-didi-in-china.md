@@ -32,7 +32,7 @@ tags:
   - "Transport"
   - "Didi"
   - "Ride-hailing"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can tourists use Didi in China without speaking Chinese?"
     answer: "Yes, often quite well. The app can be used without spoken Chinese if the account, payment setup, and pickup logic are handled properly before the ride."

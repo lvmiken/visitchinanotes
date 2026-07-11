@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best month to visit Xi'an?"
     answer: "For many first-time visitors, April, May, September, and October are the easiest months because walking, old-city time, and the Terracotta Army excursion usually feel more comfortable."

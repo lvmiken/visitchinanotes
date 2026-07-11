@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Tickets"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "How much earlier does Early Park Entry get you into Shanghai Disneyland?"
     answer: "Shanghai Disney's official Early Park Entry page currently says guests with a valid park ticket who purchase the pass can enter up to one hour before the published park opening time."

@@ -35,7 +35,7 @@ tags:
   - "Shenzhen"
   - "Nantou Ancient Town"
   - "Nanshan"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Nantou Ancient Town worth visiting on a first trip to Shenzhen?"
     answer: "For many first-time visitors, yes, especially if the trip wants one historic-and-creative layer that makes Shenzhen feel less generic than only malls, towers, and business districts."

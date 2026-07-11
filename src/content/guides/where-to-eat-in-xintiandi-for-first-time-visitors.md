@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Xintiandi"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Xintiandi a good place to eat in Shanghai for first-time visitors?"
     answer: "Usually yes if you want one polished dinner-and-evening district with easy walking and comfortable options. It is usually weaker for the most local-feeling cheap meal, but stronger for a clean first-night, date-night, or final-night dinner."

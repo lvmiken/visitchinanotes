@@ -17,7 +17,7 @@ relatedTopicSlugs:
 tags:
   - "Suzhou"
   - "Things to do"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What should first-time visitors prioritize in Suzhou?"
     answer: "Most first-time visitors do best with one major garden, Pingjiang Road, Suzhou Museum, and one evening canal block instead of trying to cover every famous sight."

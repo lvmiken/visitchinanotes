@@ -31,7 +31,7 @@ tags:
   - "OCT-LOFT"
   - "Nightlife"
   - "Creative district"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is OCT-LOFT worth visiting in Shenzhen?"
     answer: "For many first-time visitors, yes, especially if the trip wants one more creative evening with bars, cafes, art spaces, or live music instead of another skyline-or-mall night."

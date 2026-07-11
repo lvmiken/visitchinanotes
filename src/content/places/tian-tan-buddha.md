@@ -34,7 +34,7 @@ heroImageAlt: "The Tian Tan Buddha above the main stairway on Lantau Island unde
 heroImageAttributionName: "Tessa Bury"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Tian_Tan_Buddha_Front_View.jpg"
 heroImageLicense: "CC BY 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Tian Tan Buddha worth visiting on a first Hong Kong trip?"
     answer: "Often yes if you want one calmer Lantau contrast with mountain, monastery, and landmark value. On a tight city-first trip, it is more optional."

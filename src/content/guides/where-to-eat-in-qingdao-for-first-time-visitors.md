@@ -23,7 +23,7 @@ tags:
   - "Qingdao"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best area to eat in Qingdao?"
     answer: "For many first-time visitors, the best area depends on the day. Yunxiao and Minjiang Road are usually strongest for proper seafood dinners, Zhongshan Road and Pichaiyuan are better for one old-core snack block, and beer-culture areas are best for one selective evening rather than for every important meal."

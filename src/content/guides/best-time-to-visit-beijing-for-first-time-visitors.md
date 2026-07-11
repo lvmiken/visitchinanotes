@@ -23,7 +23,7 @@ tags:
   - "Beijing"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best month to visit Beijing?"
     answer: "For many first-time visitors, April, May, September, and October are the easiest months because walking-heavy sightseeing usually feels more comfortable."

@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Museums"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best museum in Xi'an for kids?"
     answer: "For many families, Xi'an Museum is the easiest all-around choice because it is lighter and easier to fit, while Shaanxi History Museum is often stronger for older kids or families who genuinely want a bigger indoor history block."

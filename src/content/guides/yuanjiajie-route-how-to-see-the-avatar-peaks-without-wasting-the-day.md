@@ -23,7 +23,7 @@ tags:
   - "Yuanjiajie"
   - "Avatar mountains"
   - "Route"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best route for Yuanjiajie in Zhangjiajie?"
     answer: "For many first-time visitors, the best route is the one that protects Yuanjiajie as the main goal of the park day and adds only one secondary branch if time, energy, and visibility still support it."

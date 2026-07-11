@@ -33,7 +33,7 @@ tags:
   - "Shanghai"
   - "Lujiazui"
   - "Pudong"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Lujiazui worth it on a first trip to Shanghai?"
     answer: "Often yes, but not automatically. It is most worth it when modern skyline views matter to you and you are willing to spend time or money for a more elevated perspective than the Bund gives."

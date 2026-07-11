@@ -26,7 +26,7 @@ tags:
   - "Shanghai"
   - "Coffee"
   - "French Concession"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where is the best specialty coffee in Shanghai for first-time visitors?"
     answer: "For many first-time visitors, the best answer is usually in the French Concession side streets, where the stronger choice is not one universally best cafe but one stop that fits your walk, pace, and meal plan."

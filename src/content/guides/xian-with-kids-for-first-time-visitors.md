@@ -24,7 +24,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Xi'an a good destination with kids?"
     answer: "Often yes. Xi'an works well with kids when families build the trip around one main anchor at a time, keep the Terracotta Army day realistic, and leave room for food, walking, and easier evenings."

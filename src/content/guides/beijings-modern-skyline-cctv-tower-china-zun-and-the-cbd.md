@@ -24,7 +24,7 @@ tags:
   - "CCTV Headquarters"
   - "China Zun"
   - "Architecture"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Beijing CBD worth visiting on a first trip?"
     answer: "Often yes for travelers who care about contemporary architecture or skyline contrast. It is usually less essential for short history-first trips."

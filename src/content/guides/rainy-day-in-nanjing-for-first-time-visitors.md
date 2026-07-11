@@ -20,7 +20,7 @@ tags:
   - "Nanjing"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What should tourists do in Nanjing on a rainy day?"
     answer: "For many first-time visitors, the smartest move is to rebuild the day around one indoor historical anchor such as Presidential Palace or Nanjing Museum, cut unnecessary outdoor transfers, and keep a shorter Qinhuai evening if the weather allows."

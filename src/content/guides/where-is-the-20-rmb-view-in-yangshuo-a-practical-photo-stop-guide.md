@@ -28,7 +28,7 @@ tags:
   - "Xingping"
   - "Li River"
   - "Photo stop"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Where is the 20 RMB view near Yangshuo?"
     answer: "The famous banknote view is associated with the Li River's Xingping section, especially around Yellow Cloth Shoal, not with Yangshuo town center itself."

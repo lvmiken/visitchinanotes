@@ -23,7 +23,7 @@ tags:
   - "Wuhan"
   - "Trip length"
   - "First trip"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "How many days do first-time visitors need in Wuhan?"
     answer: "For many first-time visitors, 1 to 2 days works well, with 2 days often being the strongest balance for one real breakfast morning, one useful city block, and one evening that does not feel rushed."

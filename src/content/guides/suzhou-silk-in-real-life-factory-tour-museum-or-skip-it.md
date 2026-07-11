@@ -27,7 +27,7 @@ tags:
   - "Silk"
   - "Museum"
   - "Craft"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Suzhou silk worth making time for on a first trip?"
     answer: "Usually only as a supporting cultural layer. For many first-time visitors, silk becomes worthwhile after the main garden and old-city structure already are secure."

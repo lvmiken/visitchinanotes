@@ -28,7 +28,7 @@ tags:
   - "Shanghai Disneyland"
   - "Zootopia"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should Zootopia be your first stop at Shanghai Disneyland?"
     answer: "Sometimes, but not automatically. For many cautious young kids, one gentler opener works better. For older kids or Zootopia-led groups, protecting it earlier can make sense if the morning plan is otherwise simple."

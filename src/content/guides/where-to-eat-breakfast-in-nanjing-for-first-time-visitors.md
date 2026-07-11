@@ -3,6 +3,7 @@ title: "Where to Eat Breakfast in Nanjing for First-Time Visitors"
 description: "Use this Nanjing breakfast guide to decide when one local morning meal is worth the effort, which areas fit a short first trip, and when hotel breakfast is still the smarter move."
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
+noindex: true
 city: "nanjing"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 morning food stops"
@@ -21,7 +22,7 @@ tags:
   - "Nanjing"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Where should first-time visitors eat breakfast in Nanjing?"
     answer: "Many first-time visitors do best with one local breakfast in the old-city or central core, often built around duck-blood vermicelli soup or another practical local breakfast, then keep later mornings simpler."

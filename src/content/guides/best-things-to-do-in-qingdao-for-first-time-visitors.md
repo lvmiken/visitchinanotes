@@ -24,7 +24,7 @@ tags:
   - "Qingdao"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What are the best things to do in Qingdao for first-time visitors?"
     answer: "For many first-time visitors, the best things to do in Qingdao are one symbolic waterfront stop such as Zhanqiao, one slower scenic district such as Badaguan, one eastern seafront block such as May Fourth Square with the Olympic Sailing Center, and only then one selective extra such as Laoshan or Qingdao Beer Museum."

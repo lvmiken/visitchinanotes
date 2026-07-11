@@ -23,7 +23,7 @@ tags:
   - "Xingping"
   - "20 RMB view"
   - "Li River"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Xingping worth visiting beyond the 20 RMB photo?"
     answer: "Usually yes if the route wants one fuller Li River-side branch with atmosphere as well as the iconic banknote view. It is less useful when the trip is already too tight and only wants one very fast photo mission."

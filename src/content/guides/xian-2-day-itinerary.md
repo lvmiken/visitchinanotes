@@ -25,7 +25,7 @@ heroImageAlt: "Illuminated Tang-style sculptures and red lanterns at Great Tang 
 heroImageAttributionName: "源義信"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:2023-10-10_%E8%A5%BF%E5%AE%89%E5%A4%A7%E5%94%90%E4%B8%8D%E5%A4%9C%E5%9F%8E_Great_Tang_All_Day_Mall_31.jpg"
 heroImageLicense: "CC BY 4.0"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is two days enough for Xi'an?"
     answer: "Yes. Two days is enough for a strong first visit if you prioritize one half-day for the Terracotta Army and keep the rest of the city plan compact."

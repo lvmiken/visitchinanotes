@@ -2,15 +2,15 @@
   "name": "Editorial Team",
   "entityType": "organization",
   "role": "China Travel Notes Editorial Desk",
-  "shortBio": "An editorial desk focused on practical China trip planning for first-time international visitors.",
-  "fullBio": "The Editorial Team reviews city guides, trip basics, and route-planning pages with a practical first-time visitor lens. The goal is to turn useful Chinese-language travel knowledge and booking realities into clearer English planning advice.",
+  "shortBio": "An editorial desk focused on practical China trip planning, route logic, and traveler-facing booking basics.",
+  "fullBio": "The Editorial Team reviews destination hubs, trip-planning guides, and practical travel topics with a focus on clarity, route logic, and usable travel decisions. The goal is to turn complex China trip-planning questions into clear English guidance that helps readers choose better city combinations, hotel areas, transport plans, and next steps.",
   "expertise": [
-    "First-time China route planning",
+    "China route planning",
     "Hotel-area selection",
     "Rail and airport logistics",
-    "AI-assisted translation with human review"
+    "Editorial review of traveler-facing planning content"
   ],
-  "reviewProcess": "Pages are researched, translated or drafted with AI assistance where helpful, then reviewed for clarity, route logic, and whether the advice still makes sense for first-time visitors.",
+  "reviewProcess": "Pages are reviewed for factual clarity, route logic, traveler usefulness, and whether the advice still matches current booking habits, transport realities, and destination-planning needs.",
   "seoTitle": "Editorial Team | China Travel Notes",
   "seoDescription": "Meet the editorial team behind China Travel Notes and see how city guides and planning articles are reviewed."
 }

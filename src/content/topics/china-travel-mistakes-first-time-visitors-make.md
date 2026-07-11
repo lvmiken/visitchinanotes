@@ -32,7 +32,7 @@ tags:
   - "Trip planning"
   - "First trip"
   - "China travel basics"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the biggest mistake first-time visitors make in China?"
     answer: "Usually it is overbuilding the route before solving the basics. Too many cities, weak arrival planning, unfinished payment setup, and badly chosen hotel areas often create more trouble than any single landmark decision."

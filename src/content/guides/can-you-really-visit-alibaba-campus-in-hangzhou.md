@@ -26,7 +26,7 @@ tags:
   - "Hangzhou"
   - "Alibaba"
   - "Tech travel"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Can tourists visit Alibaba campus in Hangzhou?"
     answer: "Usually no. Alibaba's current official FAQ says its corporate campus in Hangzhou is not open to the public."

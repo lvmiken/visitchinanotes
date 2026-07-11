@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Rainy day"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families do in Xi'an on a rainy day?"
     answer: "For many families, the best move is to protect any hard-to-replace booking that still makes sense, then simplify the day into one indoor anchor such as Shaanxi History Museum or Xi'an Museum, one easier meal, and one low-friction return."

@@ -34,7 +34,7 @@ tags:
   - "Yuanmingyuan"
   - "Old Summer Palace"
   - "Historic park"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Yuanmingyuan worth visiting on a first Beijing trip?"
     answer: "Often yes for travelers who care about historical depth and ruins, but it is usually a better supporting stop than the first scenic-imperial choice on a short trip."

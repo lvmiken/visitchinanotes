@@ -21,7 +21,7 @@ tags:
   - "Suzhou"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best area to eat in Suzhou?"
     answer: "For many first-time visitors, the best area depends on the day. Pingjiang Road and the old Gusu core are strongest for one atmospheric meal, while Shantang Street is better for one easier evening block and central Gusu is stronger for practical short-trip dining."

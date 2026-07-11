@@ -23,7 +23,7 @@ tags:
   - "Wuhan"
   - "2 days"
   - "Itinerary"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is 2 days enough for Wuhan?"
     answer: "Yes. Two days is enough for a strong first Wuhan stay if you give one day to breakfast culture and one coherent city layer, then let the second day add one fuller supporting branch without overbuilding the stop."

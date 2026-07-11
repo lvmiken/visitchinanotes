@@ -30,7 +30,7 @@ tags:
   - "Xuexiang"
   - "Winter travel"
   - "Overnight detour"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is China's Snow Town worth visiting from Harbin?"
     answer: "Usually yes only when Harbin has enough time for a real detour or overnight, or when Snow Town itself is one of the main reasons you chose northeast China. It is usually less worth forcing into the shortest Harbin-first version."

@@ -24,7 +24,7 @@ tags:
   - "Sea World"
   - "Nanshan"
   - "Comparison"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Houhai or Sea World better for first-time visitors in Shenzhen?"
     answer: "For many first-time visitors, Houhai is better if the evening should feel polished, modern, and skyline-led, while Sea World is better if dinner, bars, and a calmer waterfront mood matter more."

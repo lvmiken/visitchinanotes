@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "People's Square"
   - "French Concession"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay in People's Square or the French Concession in Shanghai?"
     answer: "Many first-time visitors do better in People's Square if they want the easiest central base, while French Concession is often better for travelers who want walkability, neighborhood rhythm, and stronger street-level atmosphere."

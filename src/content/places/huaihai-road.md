@@ -39,7 +39,7 @@ tags:
   - "Huaihai Road"
   - "Shopping"
   - "Food"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Huaihai Road worth visiting in Shanghai?"
     answer: "Usually yes if your trip wants one elegant shopping, cafe, or refined-meal corridor. It is usually less important as a stand-alone sightseeing priority than the Bund or the French Concession."

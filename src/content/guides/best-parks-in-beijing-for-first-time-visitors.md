@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Parks"
   - "First trip"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best park in Beijing for first-time visitors?"
     answer: "For many first-time visitors, the best park depends on trip fit: Jingshan is strongest for a compact central view, Beihai for central breathing room, and Summer Palace for the biggest scenic-imperial park experience."

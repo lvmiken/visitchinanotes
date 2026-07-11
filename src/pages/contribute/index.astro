@@ -2,8 +2,9 @@
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import ContributeForm from "../../components/ContributeForm.astro";
+import { defaultContactEmail } from "../../lib/site";
 
-const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL;
+const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL || defaultContactEmail;
 const contributionIdeas = [
   {
     title: "City-specific practical advice",
@@ -24,6 +25,7 @@ const contributionIdeas = [
   title="Contribute | China Travel Notes"
   description="Pitch an article idea, city insight, or contributor inquiry for China Travel Notes."
   noindex={true}
+  showAds={false}
 >
   <section class="split-hero">
     <article class="hero article">
@@ -70,7 +72,7 @@ const contributionIdeas = [
     <h2 class="section-title">Form first, email if needed.</h2>
     <p>
       The cleanest workflow is to use the form so the pitch arrives in a structured format. If you prefer, you can also
-      pitch by email{contactEmail ? ` at ${contactEmail}` : " once a contact email is configured"}.
+      pitch by email{contactEmail ? ` at ${contactEmail}` : " through the site's shared editorial contact route"}.
     </p>
   </section>
 

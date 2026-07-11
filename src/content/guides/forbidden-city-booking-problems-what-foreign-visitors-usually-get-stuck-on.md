@@ -23,7 +23,7 @@ tags:
   - "Forbidden City"
   - "Palace Museum"
   - "Reservations"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Why do foreign visitors still struggle to book Forbidden City tickets?"
     answer: "Usually because they miss the seven-day release rhythm, rely on vague third-party promises, or create small passport-detail errors that matter at entry."

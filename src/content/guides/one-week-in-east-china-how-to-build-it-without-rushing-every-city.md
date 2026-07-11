@@ -24,7 +24,7 @@ tags:
   - "Suzhou"
   - "Nanjing"
   - "Itinerary"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is one week enough for East China?"
     answer: "Yes, but only if the route stays edited. A week can hold Shanghai plus two or three nearby cities well, but not if every stop is treated like a full independent trip."

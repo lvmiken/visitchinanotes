@@ -3,6 +3,7 @@ title: "Is Qilou Old Street in Haikou Worth It With Kids?"
 description: "Use this Haikou Qilou Old Street family guide to decide whether the district is a genuinely good stop with kids, when it works best as an arrival-evening block, and when families should skip it and keep moving south."
 publishDate: 2026-06-29
 updatedDate: 2026-06-29
+noindex: true
 planningMoment: "choose-route"
 whenToRead: "Best read when Haikou is already in the family Hainan conversation and the live question is whether Qilou Old Street gives enough child-friendly payoff to justify one night or one lighter block."
 affectsCities:
@@ -23,7 +24,7 @@ tags:
   - "Haikou"
   - "Qilou Old Street"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Qilou Old Street good with kids?"
     answer: "Often yes for one lighter walking-and-snack block, especially on arrival day. It is less convincing if the family needs a big attraction or if everyone would rather already be in Sanya."

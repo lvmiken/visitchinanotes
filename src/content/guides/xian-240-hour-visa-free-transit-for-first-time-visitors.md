@@ -19,7 +19,7 @@ tags:
   - "Xi'an"
   - "Visa-free transit"
   - "Trip planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Xi'an a good 240-hour transit city for first-time visitors?"
     answer: "Yes, especially for travelers who want one strong historical anchor and a city that is easier to structure than Beijing for a shorter heritage-focused stay."

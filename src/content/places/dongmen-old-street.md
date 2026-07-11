@@ -36,7 +36,7 @@ tags:
   - "Shenzhen"
   - "Dongmen Old Street"
   - "Luohu"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Dongmen Old Street worth visiting on a first trip to Shenzhen?"
     answer: "For many first-time visitors, yes, especially if the trip wants one lively, lower-cost, snack-and-shopping district that feels older and more chaotic than the newer west-side Shenzhen branches."

@@ -24,7 +24,7 @@ tags:
   - "Transport"
   - "MTR"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Hong Kong easy to get around for tourists?"
     answer: "Usually yes. Hong Kong is one of the easiest first-time big-city transport systems in Asia if you let MTR carry the main daytime moves and use ferries, trams, or taxis only when they genuinely improve the route."

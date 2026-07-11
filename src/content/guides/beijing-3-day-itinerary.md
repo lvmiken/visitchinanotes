@@ -23,7 +23,7 @@ tags:
   - "Beijing"
   - "Itinerary"
   - "3 days"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is three days enough for Beijing?"
     answer: "Yes. Three full days is enough for a strong first Beijing trip if you focus on the Forbidden City, one Great Wall day, and one lighter city day instead of trying to cover every famous sight."

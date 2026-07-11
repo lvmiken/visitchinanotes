@@ -35,7 +35,7 @@ tags:
   - "Hong Kong"
   - "Victoria Peak"
   - "Skyline"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Victoria Peak worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes. Victoria Peak is often worth it because it gives one of the city's clearest panoramic skyline payoffs and can make Hong Kong feel larger and more dramatic than the harbourfront alone."

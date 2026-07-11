@@ -23,7 +23,7 @@ tags:
   - "Night"
   - "Nanshan"
   - "Longmenhao"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Can first-time visitors do Nanshan Yikeshu and Longmenhao on the same night?"
     answer: "Yes, but usually only if the weather is clear, the evening is one of the trip's main scenic priorities, and the route stays disciplined. Most first-time visitors do better with either Longmenhao plus dinner or Yikeshu plus one controlled dinner, not every stop at once."

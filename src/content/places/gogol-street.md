@@ -29,7 +29,7 @@ tags:
   - "Gogol Street"
   - "Nangang"
   - "City walk"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Gogol Street worth visiting in Harbin?"
     answer: "Usually yes, but mainly as a secondary city branch. For many first-time visitors, Gogol Street is worth it when the trip already has Zhongyang Street and one real winter-night priority protected."

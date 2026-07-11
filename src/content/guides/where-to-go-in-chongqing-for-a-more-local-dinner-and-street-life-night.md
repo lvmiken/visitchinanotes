@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Night"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should tourists go in Chongqing for a more local dinner night?"
     answer: "For many first-time visitors, Guanyinqiao is the clearest answer once the trip already has one classic skyline-core night. Jiaochangkou is stronger if the evening should continue later into snacks and street life, while a lively hotel-area neighborhood can be the smarter answer on a more tired night."

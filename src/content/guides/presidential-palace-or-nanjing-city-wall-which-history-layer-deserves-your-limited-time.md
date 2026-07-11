@@ -22,7 +22,7 @@ tags:
   - "Presidential Palace"
   - "Nanjing City Wall"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Presidential Palace or Nanjing City Wall?"
     answer: "For many first-time visitors, Presidential Palace is the safer default because it gives the city one clearer historical anchor. Nanjing City Wall often becomes the better choice when the trip already has enough indoor history and wants one outdoor perspective instead."

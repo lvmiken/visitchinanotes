@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "City Wall"
   - "Cycling"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is cycling the Xi'an City Wall worth it?"
     answer: "For many first-time visitors, yes. It is often one of the best ways to feel the old-city scale, especially if you ride a sensible section rather than forcing the full circuit without a real reason."

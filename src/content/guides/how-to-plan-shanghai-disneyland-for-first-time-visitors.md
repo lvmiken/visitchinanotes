@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Theme park"
   - "Planning"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Do you need a full day for Shanghai Disneyland?"
     answer: "Usually yes. Most first-time visitors should treat Shanghai Disneyland as a full-day plan rather than a partial stop squeezed around other Shanghai sightseeing."

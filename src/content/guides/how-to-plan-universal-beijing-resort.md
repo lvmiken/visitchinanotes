@@ -24,7 +24,7 @@ tags:
   - "Universal Beijing Resort"
   - "Theme park"
   - "Planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Do you need a full day for Universal Beijing Resort?"
     answer: "Usually yes. Most first-time visitors should treat Universal Beijing Resort as a full-day plan rather than a partial stop squeezed around other Beijing sightseeing."

@@ -24,7 +24,7 @@ tags:
   - "Shenzhen"
   - "Border crossing"
   - "Visa planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can foreigners go from Hong Kong to Shenzhen easily?"
     answer: "Often yes, but only after the mainland-China entry basis is clear. For many first-time visitors, the transport itself is straightforward while the visa or entry-rule side is the part that needs real attention."

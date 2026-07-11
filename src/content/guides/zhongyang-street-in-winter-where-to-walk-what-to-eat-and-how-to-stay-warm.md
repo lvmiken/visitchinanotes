@@ -23,7 +23,7 @@ tags:
   - "Zhongyang Street"
   - "Winter walk"
   - "Food"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Zhongyang Street worth visiting in winter?"
     answer: "Usually yes. Winter is when Zhongyang Street feels most distinct, but it works best when you build in warming-up breaks and one or two deliberate food stops instead of treating it like an endless outdoor march."

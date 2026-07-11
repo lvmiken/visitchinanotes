@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Huaqing Palace"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Huaqing Palace good for kids in Xi'an?"
     answer: "Sometimes yes, especially for families with enough energy for a fuller Lintong-side day or older kids who can still enjoy one more scenic historical stop after the Terracotta Army. It is usually less useful on the tightest short stay."

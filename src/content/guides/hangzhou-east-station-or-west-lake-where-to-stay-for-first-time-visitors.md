@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Hangzhou East Station"
   - "West Lake"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors stay near Hangzhou East Station or West Lake?"
     answer: "For many first-time visitors, staying near West Lake is the better choice because it gives the city its scenic identity right away. Hangzhou East Station becomes stronger only when late arrival, early departure, or a rail-led overnight makes logistics unusually important."

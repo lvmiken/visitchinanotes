@@ -23,7 +23,7 @@ tags:
   - "Zhangjiajie"
   - "Avatar mountains"
   - "Yuanjiajie"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Where are the Avatar mountains in China?"
     answer: "For most travelers, the Avatar mountains in China refers to the pillar landscape in Zhangjiajie National Forest Park, especially the Yuanjiajie area in Wulingyuan."

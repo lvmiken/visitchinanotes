@@ -30,7 +30,7 @@ tags:
   - "Trip planning"
   - "South China"
   - "City comparison"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Hong Kong or Shenzhen better for first-time visitors?"
     answer: "For many first-time visitors, Hong Kong is better if the trip needs a stronger standalone city break with skyline, neighborhoods, and faster payoff, while Shenzhen is better if the route already includes Hong Kong or Guangzhou and needs a practical mainland-modern extension."

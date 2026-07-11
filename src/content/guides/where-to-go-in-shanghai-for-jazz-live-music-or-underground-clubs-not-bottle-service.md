@@ -27,7 +27,7 @@ tags:
   - "Nightlife"
   - "Jazz"
   - "Live music"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Does Shanghai have good jazz or live music nightlife for first-time visitors?"
     answer: "Usually yes. Shanghai is one of the better China cities for jazz-led, live-music, and music-first nights, but the strongest answer depends on whether you want a seated jazz evening, a live performance room, or a later underground electronic night."

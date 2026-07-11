@@ -23,7 +23,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Nanjing Road"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Where should first-time visitors eat near Nanjing Road in Shanghai?"
     answer: "Many first-time visitors do best with Da Hu Chun for a practical shengjian meal, Shen Da Cheng for pastries and snack shopping, and Gong De Lin on West Nanjing Road if the group wants a more comfortable sit-down dinner with vegetarian-friendly options."

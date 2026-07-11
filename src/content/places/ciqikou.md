@@ -37,7 +37,7 @@ tags:
   - "Chongqing"
   - "Ciqikou"
   - "Old street"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Ciqikou worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, but mainly as a supporting old-street and snack stop rather than as one of the city's top anchor experiences."

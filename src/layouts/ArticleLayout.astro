@@ -13,7 +13,7 @@ import { guideStageMap } from "../lib/guideStages";
 import { topicMomentMap } from "../lib/topicMoments";
 import { findCityEntry, getCitySlug, uniqueCityEntries } from "../lib/cityEntries";
 import { getTopicClusterForTopicSlug, getTopicsForCluster } from "../lib/topicClusters";
-import { findAuthorEntry, getAuthorSlug } from "../lib/authors";
+import { getAuthorSlug, resolveAuthorEntry } from "../lib/authors";
 import { organizationName } from "../lib/site";
 import { getGuideSocialImage, getTopicSocialImage } from "../lib/socialImages";
 
@@ -29,7 +29,11 @@ const allAuthors = await getCollection("authors");
 const allTopics = await getCollection("topics", ({ data }) => !data.draft);
 const allGuides = await getCollection("guides", ({ data }) => !data.draft);
 const cityHub = isGuide ? findCityEntry(allCities, entry.data.city) : undefined;
-const authorEntry = findAuthorEntry(allAuthors, entry.data.author);
+const authorEntry =
+  entry.collection === "places"
+    ? undefined
+    : resolveAuthorEntry(allAuthors, entry);
+const bylineLabel = authorEntry?.data.entityType === "organization" ? "Edited by" : "By";
 const relatedTopics = isGuide
   ? [
       ...entry.data.relatedTopicSlugs
@@ -132,6 +136,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
   description={entry.data.description}
   socialImage={socialImage}
   type="article"
+  noindex={entry.data.noindex ?? false}
   publishedTime={entry.data.publishDate}
   modifiedTime={entry.data.updatedDate}
   schema={pageSchemas}
@@ -144,7 +149,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
         <h1>{entry.data.title}</h1>
         <p>{entry.data.description}</p>
         <p class="meta-row">
-          By {authorEntry ? <a href={`/authors/${getAuthorSlug(authorEntry)}/`}>{entry.data.author}</a> : entry.data.author}
+          {bylineLabel} {authorEntry ? <a href={`/authors/${getAuthorSlug(authorEntry)}/`}>{authorEntry.data.name}</a> : entry.data.author}
           {" · "}Published {entry.data.publishDate.toLocaleDateString("en-US")}
           {entry.data.updatedDate && ` · Updated ${entry.data.updatedDate.toLocaleDateString("en-US")}`}
         </p>
@@ -212,7 +217,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
       Published {entry.data.publishDate.toLocaleDateString("en-US")}
       {entry.data.updatedDate
         ? ` · Last updated ${entry.data.updatedDate.toLocaleDateString("en-US")}`
-        : " · This page has not needed a later update yet in this prototype."}
+        : " · This page has not required a later revision yet."}
     </p>
     <p>
       {isGuide
@@ -221,7 +226,11 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
     </p>
     <div class="button-row">
       <a class="button-link secondary" href="/editorial-policy/">Read editorial policy</a>
-      {authorEntry && <a class="button-link secondary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>View author profile</a>}
+      {authorEntry && (
+        <a class="button-link secondary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>
+          {authorEntry.data.entityType === "organization" ? "View editorial desk" : "View author profile"}
+        </a>
+      )}
     </div>
   </section>
 
@@ -333,7 +342,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
 
   {authorEntry && (
     <section class="section-block card-surface">
-      <p class="eyebrow">About The Author</p>
+      <p class="eyebrow">{authorEntry.data.entityType === "organization" ? "About The Desk" : "About The Author"}</p>
       <h2 class="section-title">{authorEntry.data.name}</h2>
       <p><strong>{authorEntry.data.role}</strong></p>
       <p>{authorEntry.data.fullBio}</p>
@@ -343,8 +352,10 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
         </ul>
       )}
       <div class="button-row">
-        <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>Open author page</a>
-        <a class="button-link secondary" href="/authors/">Browse authors</a>
+        <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>
+          {authorEntry.data.entityType === "organization" ? "Open editorial desk" : "Open author page"}
+        </a>
+        <a class="button-link secondary" href="/authors/">Browse editors and desks</a>
       </div>
     </section>
   )}

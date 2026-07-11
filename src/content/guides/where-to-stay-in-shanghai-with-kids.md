@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Hotels"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best area to stay in Shanghai with kids?"
     answer: "For many first-time families, a central Puxi base near People's Square or another easy central metro zone is the safest default because it keeps skyline time, meals, and tired evening returns more manageable."

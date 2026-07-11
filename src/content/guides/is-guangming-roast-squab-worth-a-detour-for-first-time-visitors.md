@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Guangming"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Guangming roast squab worth a detour on a first Shenzhen trip?"
     answer: "Sometimes yes. It is most worth it when the trip already has room for a Guangming or west-north branch and you want one true Shenzhen specialty meal. It is often less worth it on a short 1 to 2 day stay if the detour would eat too much time."

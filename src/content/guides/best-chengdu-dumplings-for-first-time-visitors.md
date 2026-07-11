@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Dumplings"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What are the best dumplings in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, the most useful Chengdu dumpling answer depends on the job the meal needs to do: Guan Jin for a dedicated dumpling stop, Dumpling & Drinks for a more evening-friendly version, Mosnack for a flexible dumpling-wonton-noodle meal, and Chen Mapo Tofu if Zhong dumplings make more sense as part of a fuller Sichuan dinner."

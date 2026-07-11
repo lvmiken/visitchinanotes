@@ -27,7 +27,7 @@ relatedGuideSlugs:
 tags:
   - "Nanjing"
   - "Museum"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Nanjing Museum worth visiting?"
     answer: "Usually yes for travelers who want one broader indoor historical anchor and enough time to appreciate a wider view of the city's past."

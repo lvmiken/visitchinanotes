@@ -26,7 +26,7 @@ heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Museum"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Suzhou Museum worth visiting?"
     answer: "Usually yes for first-time visitors who want one cultural indoor layer and an easy pairing with Pingjiang Road, especially on a short but thoughtful route."

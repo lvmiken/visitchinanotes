@@ -22,7 +22,7 @@ tags:
   - "Liangma River"
   - "Night"
   - "Cruise"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Liangma River worth visiting at night in Beijing?"
     answer: "Often yes, especially if the trip wants one polished scenic evening that feels more relaxed than Sanlitun and more modern than the old historic core."

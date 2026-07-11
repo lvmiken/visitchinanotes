@@ -19,7 +19,7 @@ const { author, articleCount = 0 } = Astro.props;
   {author.data.expertise.length > 0 && (
     <p class="meta">Focus: {author.data.expertise.slice(0, 3).join(", ")}</p>
   )}
-  <p class="meta">{articleCount} published pages in this prototype</p>
+  <p class="meta">{articleCount} published pages on this site</p>
 </article>
 
 <style>

@@ -22,7 +22,7 @@ tags:
   - "Qingdao"
   - "Seafood"
   - "Food markets"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors buy seafood at a Qingdao market and pay a restaurant to cook it?"
     answer: "Sometimes yes, but mainly if you want the market experience itself. If you only want one good seafood meal with less friction, many first-time visitors do better with a standard seafood street or restaurant."

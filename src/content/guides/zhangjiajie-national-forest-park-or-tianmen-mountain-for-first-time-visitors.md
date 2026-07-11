@@ -25,7 +25,7 @@ tags:
   - "Tianmen Mountain"
   - "Comparison"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Should first-time visitors choose Zhangjiajie National Forest Park or Tianmen Mountain?"
     answer: "For many first-time visitors, Zhangjiajie National Forest Park is the stronger default because it delivers the destination's signature pillar landscape and usually gives a fuller Zhangjiajie experience. Tianmen Mountain is often better when the trip is shorter or wants one more concentrated dramatic day."

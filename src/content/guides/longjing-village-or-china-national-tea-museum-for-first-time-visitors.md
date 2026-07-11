@@ -23,7 +23,7 @@ tags:
   - "Longjing Village"
   - "China National Tea Museum"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Longjing Village or China National Tea Museum better for first-time visitors?"
     answer: "For many first-time visitors, Longjing Village is better if the trip wants tea-country atmosphere and softer scenery, while China National Tea Museum is better if the trip wants tea with clearer cultural context and a more structured indoor-friendly branch."

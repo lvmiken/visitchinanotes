@@ -20,7 +20,7 @@ tags:
   - "Suzhou"
   - "Shanghai"
   - "Day trip"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Suzhou better as a day trip from Shanghai?"
     answer: "It can be, especially on a short route. But many first-time visitors find that one overnight makes Suzhou feel far more complete and less checklist-driven."

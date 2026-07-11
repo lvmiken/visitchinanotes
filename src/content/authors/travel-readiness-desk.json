@@ -1,0 +1,15 @@
+{
+  "name": "Travel Readiness Desk",
+  "entityType": "organization",
+  "role": "Trip Preparation Desk",
+  "shortBio": "Maintains practical preparation coverage such as apps, packing, daily-use readiness, food constraints, and low-friction first-trip setup.",
+  "fullBio": "The Travel Readiness Desk maintains the practical preparation layer of China Travel Notes. Its focus is helping readers arrive with the right app stack, packing logic, food backup, health preparation, and everyday readiness so that the trip does not fail on small preventable problems.",
+  "expertise": [
+    "First-trip preparation",
+    "Apps, packing, and daily readiness",
+    "Food and health prep for travel days"
+  ],
+  "reviewProcess": "Pages are reviewed for practical usefulness, preparation realism, and whether the advice still reflects the everyday setup problems first-time travelers are most likely to face.",
+  "seoTitle": "Travel Readiness Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains trip-preparation, apps, packing, and everyday readiness coverage on China Travel Notes."
+}

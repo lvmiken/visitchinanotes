@@ -27,7 +27,7 @@ tags:
   - "Nightlife"
   - "Craft beer"
   - "Baijiu"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Beijing good for craft beer?"
     answer: "Usually yes. For many first-time visitors, Beijing is one of the easier China cities for a beer-led evening because craft-beer searches tend to land on a few recognizable anchors such as Jing-A or Great Leap, and the night can stay satisfying without becoming a full club crawl."

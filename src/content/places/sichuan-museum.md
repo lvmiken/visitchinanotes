@@ -35,7 +35,7 @@ tags:
   - "Chengdu"
   - "Sichuan Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Sichuan Museum worth visiting for first-time visitors?"
     answer: "Usually yes for travelers who genuinely want a broader museum and have room for a calmer west-side cultural half day. It is less useful as the default answer on a short first Chengdu trip."

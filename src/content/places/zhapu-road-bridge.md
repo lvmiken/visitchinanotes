@@ -33,7 +33,7 @@ tags:
   - "Shanghai"
   - "Zhapu Road Bridge"
   - "Photo spots"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Zhapu Road Bridge worth visiting in Shanghai?"
     answer: "Usually yes as a short skyline-photo detour, especially if you care about one specific old-meets-new Shanghai composition. It is usually not worth treating as a major attraction."

@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Local cuisine"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What food should first-time visitors try in Chengdu?"
     answer: "Many first-time visitors do best with one hotpot or chuanchuan meal, one dan dan noodle or dumpling stop, and one fuller Sichuan dinner with dishes such as mapo tofu or twice-cooked pork instead of trying to make every meal equally spicy and heavy."

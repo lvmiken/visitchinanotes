@@ -25,7 +25,7 @@ tags:
   - "Datong"
   - "Yungang Grottoes"
   - "UNESCO"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Yungang Grottoes worth visiting on a first Shanxi trip?"
     answer: "Usually yes, especially if Datong is already part of the route and you want one of Shanxi's biggest monumental heritage payoffs. It is less worth forcing as a disconnected in-and-out detour."

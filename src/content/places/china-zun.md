@@ -35,7 +35,7 @@ tags:
   - "CITIC Tower"
   - "Architecture"
   - "CBD"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is China Zun worth visiting on a first trip to Beijing?"
     answer: "Usually yes for travelers who genuinely care about skyline identity and contemporary architecture, but mainly as part of a broader Beijing CBD stop rather than as a standalone attraction."

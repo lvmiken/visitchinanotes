@@ -32,7 +32,7 @@ tags:
   - "Payments"
   - "Alipay"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can foreign tourists really use Alipay in China?"
     answer: "Often yes, but the result depends on successful registration, identity checks, card support, and whether the payment attempt triggers any risk controls."

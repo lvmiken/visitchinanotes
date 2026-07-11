@@ -24,7 +24,7 @@ tags:
   - "Reservations"
   - "Planning"
   - "East China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Nanjing?"
     answer: "For many first-time visitors, the main Nanjing advance items are the right hotel area, any fixed onward train, and only those major history or memorial stops that would genuinely disappoint you if missed."

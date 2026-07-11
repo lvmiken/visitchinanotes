@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Yulin"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Yulin worth it for food on a first Chengdu trip?"
     answer: "Usually yes, especially if you want one dinner-and-drinks neighborhood that feels more local and less staged than the main tourist-core options. It works best as one protected meal-and-walk block rather than as a district you force into every day."

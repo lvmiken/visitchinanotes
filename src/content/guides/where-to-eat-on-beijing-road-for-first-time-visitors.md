@@ -22,7 +22,7 @@ tags:
   - "Guangzhou"
   - "Food"
   - "Beijing Road"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Beijing Road a good place to eat in Guangzhou for first-time visitors?"
     answer: "Usually yes, especially if you want one easy central Guangzhou evening that combines food, walking, and practical sightseeing geography. It is strongest as one protected meal block rather than a place to chase every famous stop."

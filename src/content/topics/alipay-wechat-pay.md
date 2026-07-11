@@ -30,7 +30,7 @@ relatedGuideSlugs:
 tags:
   - "Payments"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Do tourists need Alipay or WeChat Pay in China?"
     answer: "In many situations, yes. Mobile payment readiness can make transport, food ordering, and day-to-day purchases much smoother."

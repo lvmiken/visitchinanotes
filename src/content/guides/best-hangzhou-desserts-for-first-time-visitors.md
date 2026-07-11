@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "Dessert"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What desserts should first-time visitors try in Hangzhou?"
     answer: "Many first-time visitors do best with one old-name sweet stop such as Zhiweiguan, one lotus-root-based sweet such as lotus-root starch or sweet stuffed lotus root, and one lighter pastry or tea-linked sweet rather than trying to force a full dessert crawl."

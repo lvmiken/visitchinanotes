@@ -37,7 +37,7 @@ heroImageAlt: "Huacheng Square in Guangzhou with the opera house and Zhujiang Ne
 heroImageAttributionName: "xiquinhosilva"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Huacheng_Square_02518-Guangzhou_(32925131675).jpg"
 heroImageLicense: "CC BY 2.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Huacheng Square worth visiting for first-time visitors to Guangzhou?"
     answer: "For many first-time visitors, yes, especially if you want one easy modern skyline walk without committing the whole evening to a tower visit or river cruise."

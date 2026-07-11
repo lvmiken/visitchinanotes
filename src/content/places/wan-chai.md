@@ -32,7 +32,7 @@ tags:
   - "Wan Chai"
   - "Neighborhoods"
   - "Nightlife"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Wan Chai worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially if the trip wants one busier Hong Kong Island evening, easier bars-and-dinner energy, or a broader urban contrast after the main skyline layer is already protected."

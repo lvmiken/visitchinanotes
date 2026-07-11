@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "The Bund"
   - "Jing'an"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay near the Bund or in Jing'an in Shanghai?"
     answer: "It depends on what you want the best part of the trip to be. The Bund side is usually better for classic skyline access and a more iconic central stay, while Jing'an is often better for polished dinners, easier modern evenings, and smoother comfort-led hotel logic."

@@ -29,7 +29,7 @@ heroImageAlt: "Macau Peninsula at night with Grand Lisboa and surrounding city l
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_Center_of_Macau_Peninsula_Night_View.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What is the best area to stay in Macau for first-time visitors?"
     answer: "For many first-time visitors, the best area to stay in Macau is either the Macau Peninsula if heritage walking and older-city texture matter most, or Taipa and Cotai if you want a more polished resort stay with easier big-hotel comfort."

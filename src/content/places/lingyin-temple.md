@@ -33,7 +33,7 @@ tags:
   - "Hangzhou"
   - "Lingyin Temple"
   - "Temples"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Lingyin Temple worth visiting in Hangzhou?"
     answer: "Usually yes if your Hangzhou trip already has West Lake protected and still has room for one calmer temple-and-hillside branch."

@@ -21,7 +21,7 @@ tags:
   - "Harbin"
   - "First trip"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Harbin worth visiting on a first trip to China?"
     answer: "Usually yes if your route genuinely wants a winter chapter. Harbin is strongest when it adds ice-and-snow spectacle and a colder northeastern city identity rather than acting like a generic extra city."

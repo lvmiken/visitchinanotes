@@ -32,7 +32,7 @@ tags:
   - "Zhangjiajie"
   - "Yuanjiajie"
   - "Nature"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Yuanjiajie worth visiting in Zhangjiajie?"
     answer: "Usually yes if Zhangjiajie National Forest Park is already one of your main priorities. For many first-time visitors, Yuanjiajie is one of the strongest inside-the-park answers for iconic pillar scenery."

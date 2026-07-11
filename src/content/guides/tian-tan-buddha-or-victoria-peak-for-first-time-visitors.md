@@ -27,7 +27,7 @@ tags:
   - "Tian Tan Buddha"
   - "Victoria Peak"
   - "Comparison"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Should first-time visitors choose Tian Tan Buddha or Victoria Peak?"
     answer: "For many first-time visitors, Victoria Peak is the stronger default skyline choice, while Tian Tan Buddha is better when the trip already has its harbour identity and wants a calmer Lantau contrast."

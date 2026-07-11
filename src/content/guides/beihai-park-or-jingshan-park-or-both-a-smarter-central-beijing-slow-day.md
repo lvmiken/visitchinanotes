@@ -21,7 +21,7 @@ tags:
   - "Beihai Park"
   - "Jingshan Park"
   - "Parks"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors choose Beihai Park or Jingshan Park?"
     answer: "Choose Jingshan for a shorter view-led stop and Beihai for a calmer longer scenic reset. They solve different problems, so the better choice depends on what the day still needs."

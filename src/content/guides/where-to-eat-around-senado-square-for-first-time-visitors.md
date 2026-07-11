@@ -23,7 +23,8 @@ tags:
   - "Food"
   - "Senado Square"
   - "Macau Peninsula"
-author: "Editorial Team"
+author: "Grace Lin"
+noindex: true
 faq:
   - question: "Is Senado Square a good place to eat in Macau for first-time visitors?"
     answer: "Usually yes. Senado Square and the surrounding old core are one of the best first-time Macau food areas when you want one practical heritage-day meal without leaving the city's most important walking district."

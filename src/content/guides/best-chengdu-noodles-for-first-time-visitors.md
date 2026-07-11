@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Noodles"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What are the best noodles in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, the best Chengdu noodle stop is the one that fits the day: Yao Guai Mian for the easiest all-around answer, Lao Chengdu Yi Cheng Xian San Yang Mian for a rougher old-school dan dan direction, Yangboying Chuan Tong Za Jiang Mian for richer za jiang noodles, and Rongrong Beida Pugaimian for a calmer flat-noodle soup bowl."

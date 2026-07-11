@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Longmenhao"
   - "Old street"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Longmenhao Old Street worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, especially if the trip wants one old-street and river-view layer that can pair naturally with Nanbin Road or a scenic dinner without taking over a whole day."

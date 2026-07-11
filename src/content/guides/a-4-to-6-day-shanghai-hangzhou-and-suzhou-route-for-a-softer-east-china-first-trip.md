@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Suzhou"
   - "Itinerary"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is 4 days enough for Shanghai, Hangzhou, and Suzhou?"
     answer: "Only in a selective version. Most first-time visitors will enjoy the route more with five or six days so Shanghai can still breathe and Hangzhou and Suzhou can feel different from each other."

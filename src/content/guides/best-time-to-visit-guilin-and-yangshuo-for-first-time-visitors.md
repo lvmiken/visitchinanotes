@@ -23,7 +23,7 @@ tags:
   - "Guilin"
   - "Yangshuo"
   - "Season planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best month to visit Guilin and Yangshuo?"
     answer: "For many first-time visitors, April, May, September, and October are the easiest months because the region usually feels scenic without the heaviest summer humidity or the hardest holiday pressure."

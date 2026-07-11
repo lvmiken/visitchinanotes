@@ -22,7 +22,7 @@ tags:
   - "Guilin"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What should tourists do in Guilin on a rainy day?"
     answer: "For many first-time visitors, the best move is to keep Guilin selective: protect anything central and easy, pivot toward Reed Flute Cave or a lighter city evening if that still helps, and avoid pretending every wet outdoor stop must still happen."

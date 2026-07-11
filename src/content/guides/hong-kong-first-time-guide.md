@@ -27,7 +27,7 @@ heroImageAlt: "Night skyline of Hong Kong around Victoria Harbour."
 heroImageAttributionName: "Benh LIEU SONG (Flickr)"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Hong Kong worth visiting for first-time travelers?"
     answer: "Yes. For many first-time visitors, Hong Kong is one of the easiest and most rewarding short city stops because skyline views, neighborhoods, food, and transit all work well in a compact trip."

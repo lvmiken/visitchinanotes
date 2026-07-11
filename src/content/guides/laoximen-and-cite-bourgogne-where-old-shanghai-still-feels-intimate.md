@@ -27,7 +27,7 @@ tags:
   - "Laoximen"
   - "Shikumen"
   - "City walk"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Laoximen worth visiting in Shanghai?"
     answer: "Usually yes for travelers who care about shikumen lanes and quieter old-Shanghai atmosphere. It is usually less important than the Bund, the French Concession, or Yu Garden for broad first-trip value."

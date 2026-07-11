@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Itinerary"
   - "Old Beijing"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is a slower old-Beijing day worth it on a first trip?"
     answer: "Usually yes, especially once the Forbidden City and Great Wall are already in the plan. It often makes Beijing feel fuller and more human without needing another giant attraction."

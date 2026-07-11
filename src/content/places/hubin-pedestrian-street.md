@@ -34,7 +34,7 @@ tags:
   - "Hubin"
   - "West Lake"
   - "Shopping"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Hubin Pedestrian Street worth visiting in Hangzhou?"
     answer: "Usually yes, especially as an easy West Lake support layer for one dinner, one softer evening, or one low-friction lake-side commercial stop. It is usually not a bigger priority than West Lake itself."

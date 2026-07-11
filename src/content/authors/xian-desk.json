@@ -1,0 +1,15 @@
+{
+  "name": "Xi'an Editorial Desk",
+  "entityType": "organization",
+  "role": "Xi'an City Desk",
+  "shortBio": "Maintains Xi'an coverage with a focus on old-city pacing, Terracotta Army logistics, and the balance between history-heavy days and usable routes.",
+  "fullBio": "The Xi'an Editorial Desk maintains guides, place pages, and planning coverage related to Xi'an. Its focus is helping readers judge how much history to stack into one trip, how to handle Terracotta Army transport, where to stay inside or near the old city, and which evening districts actually improve the route.",
+  "expertise": [
+    "Xi'an route planning",
+    "Terracotta Army logistics",
+    "Old-city stay and pacing decisions"
+  ],
+  "reviewProcess": "Pages are reviewed for transport realism, old-city route flow, museum and landmark tradeoffs, and whether the advice still reflects practical Xi'an travel conditions.",
+  "seoTitle": "Xi'an Editorial Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains Xi'an guides, place pages, and planning coverage on China Travel Notes."
+}

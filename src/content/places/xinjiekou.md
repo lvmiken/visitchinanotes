@@ -31,7 +31,7 @@ tags:
   - "Nanjing"
   - "Xinjiekou"
   - "Hotels"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Xinjiekou worth visiting in Nanjing?"
     answer: "Usually yes as a practical central district for hotels, meals, and easier evenings, but it is often less essential as a sightseeing priority than Nanjing's main historical sites or the Qinhuai side."

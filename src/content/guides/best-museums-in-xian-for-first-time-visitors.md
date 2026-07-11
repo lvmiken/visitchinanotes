@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Museums"
   - "First trip"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best museum in Xi'an for first-time visitors?"
     answer: "It depends on what kind of museum time you want. For many first-time visitors, Shaanxi History Museum is the strongest major indoor history choice, while Xi'an Museum is often the better lighter option and Beilin Museum is best for travelers who care specifically about calligraphy and stone inscriptions."

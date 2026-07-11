@@ -25,7 +25,7 @@ tags:
   - "Wuzhishan"
   - "Hiking"
   - "Rainforest"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can tourists climb Wuzhishan in Hainan?"
     answer: "You should not assume a casual summit-style climb is the default tourist experience. Current official park-facing material emphasizes rainforest walkways and eco routes, and its rainforest notice explicitly says `No climbing`."

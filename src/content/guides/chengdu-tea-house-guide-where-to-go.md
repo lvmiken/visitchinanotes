@@ -23,7 +23,7 @@ tags:
   - "Tea houses"
   - "City rhythm"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should first-time visitors go for tea in Chengdu?"
     answer: "For many first-time visitors, People's Park is the easiest classic answer, Wenshu side is the calmer answer, and Pengzhen is the more atmospheric old-tea-room detour only if that texture is a real priority."

@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Museums"
   - "Comparison"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Shaanxi History Museum or Xi'an Museum better for first-time visitors?"
     answer: "For many first-time visitors, Shaanxi History Museum is better if you want one major indoor history block, while Xi'an Museum is better if you want a lighter museum that fits more easily into a short trip."

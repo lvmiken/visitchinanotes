@@ -3,6 +3,7 @@ title: "Where to Eat Near Giant Wild Goose Pagoda in Xi'an With Kids"
 description: "Use this family Xi'an pagoda-side food guide to decide where to eat near Giant Wild Goose Pagoda with kids, when the area is worth using for lunch or dinner, and when it beats another old-city meal."
 publishDate: 2026-06-21
 updatedDate: 2026-06-21
+noindex: true
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 meals"
@@ -23,7 +24,7 @@ tags:
   - "Family travel"
   - "Food"
   - "Giant Wild Goose Pagoda"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is the Giant Wild Goose Pagoda area a good place to eat with kids in Xi'an?"
     answer: "Usually yes on a fuller Xi'an family trip, especially if the day already includes the pagoda side, Shaanxi History Museum, or Tang Paradise. It is usually less useful on a very short trip if it forces an extra detour away from the old city."

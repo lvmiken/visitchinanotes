@@ -23,7 +23,7 @@ tags:
   - "Hainan"
   - "Sanya"
   - "Bali"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Sanya better than Bali for a first China trip?"
     answer: "Sometimes yes, especially when the island stop is meant to soften and complete a China-led route rather than replace it with a second full destination universe."

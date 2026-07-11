@@ -30,7 +30,7 @@ tags:
   - "Stalin Park"
   - "Songhua River"
   - "Riverfront walk"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Stalin Park worth visiting in Harbin?"
     answer: "Usually yes, but mainly as a softer riverfront add-on. For many first-time visitors, Stalin Park is worth it when Zhongyang Street and the main winter priorities already make sense and the trip still wants one easier central extension."

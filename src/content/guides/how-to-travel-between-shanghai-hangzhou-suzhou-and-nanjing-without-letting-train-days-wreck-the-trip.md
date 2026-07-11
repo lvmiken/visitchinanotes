@@ -24,7 +24,7 @@ tags:
   - "Nanjing"
   - "Transport"
   - "High-speed rail"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is it easy to travel between Shanghai, Hangzhou, Suzhou, and Nanjing by train?"
     answer: "Yes, usually very easy by China standards, but only when you respect station time, hotel transfers, and the energy cost of moving cities even on short rail segments."

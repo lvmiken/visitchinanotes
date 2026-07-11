@@ -23,7 +23,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best food street in Beijing for first-time visitors?"
     answer: "For many first-time visitors, Qianmen is the easiest all-around answer because it combines atmosphere, classic restaurants, and easy pairing with central sightseeing. But Niujie, Huguosi, Wangfujing, Guijie, and Sanlitun each solve different food needs."

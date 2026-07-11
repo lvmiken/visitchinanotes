@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Family travel"
   - "Rainy day"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should families do in Shanghai on a rainy day?"
     answer: "For many families, the best move is to protect any hard-to-replace booking that still makes sense, then simplify the day into one indoor anchor such as Shanghai Museum, the Natural History Museum, the Science and Technology Museum, or the Ocean Aquarium."

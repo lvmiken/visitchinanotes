@@ -33,7 +33,7 @@ tags:
   - "Hangzhou"
   - "Broken Bridge"
   - "West Lake"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Broken Bridge worth visiting in Hangzhou?"
     answer: "Usually yes as a supporting West Lake scene, especially if your Hangzhou day already centers on the lake. It rarely needs a long dedicated block on its own."

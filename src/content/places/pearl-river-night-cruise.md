@@ -36,7 +36,7 @@ heroImageAlt: "A brightly lit Pearl River sightseeing boat reflecting on the wat
 heroImageAttributionName: "TONY LU"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pearl_River_Sightseeing_Boat_(Hua_Cheng).jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is the Pearl River night cruise worth it for first-time visitors to Guangzhou?"
     answer: "For many first-time visitors, yes, especially if you want one skyline-led Guangzhou night that feels more like the main event than a casual after-dinner walk. It is usually most worth it when the trip has room for both one practical food night and one more deliberate river night."

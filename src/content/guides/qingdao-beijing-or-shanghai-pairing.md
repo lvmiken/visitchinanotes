@@ -23,7 +23,7 @@ tags:
   - "Shanghai"
   - "Route planning"
 ogImage: "/og/custom/qingdao-pairing-guide.svg"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should Qingdao be paired with Beijing or Shanghai?"
     answer: "Choose Beijing if Qingdao should function as a stronger decompression stop after a heavier historical city. Choose Shanghai if you want a smoother east-coast flow with less dramatic contrast."

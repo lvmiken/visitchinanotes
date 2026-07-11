@@ -24,7 +24,7 @@ tags:
   - "Shanghai"
   - "Family travel"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Shanghai a good city to visit with kids?"
     answer: "Often yes. Shanghai works well with kids when families build the stay around one major anchor at a time, keep transfers simple, and use indoor backups or easier evenings instead of overloading every day."

@@ -23,7 +23,7 @@ tags:
   - "Qingdao"
   - "Trip length"
   - "Coastal city"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "How many days do first-time visitors need in Qingdao?"
     answer: "For many first-time visitors, 2 days is the best Qingdao answer. That is usually enough for one symbolic coastal layer, one slower scenic district, and one relaxed food-and-waterfront evening without stretching the wider route too far."

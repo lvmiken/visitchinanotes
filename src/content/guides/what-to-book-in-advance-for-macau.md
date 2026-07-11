@@ -24,7 +24,7 @@ tags:
   - "Reservations"
   - "Planning"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Macau?"
     answer: "For many first-time visitors, the main Macau advance items are the hotel during busy dates, any fixed Hong Kong or onward transport link, and only those show or attraction tickets that would genuinely disappoint you if missed."

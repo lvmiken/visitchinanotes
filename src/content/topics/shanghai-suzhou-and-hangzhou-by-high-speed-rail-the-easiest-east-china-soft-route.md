@@ -32,7 +32,7 @@ tags:
   - "Hangzhou"
   - "High-speed rail"
   - "East China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can you do Shanghai, Suzhou, and Hangzhou by high-speed rail on one trip?"
     answer: "Yes, and for many first-time visitors it is one of China's easiest short rail branches. The trick is deciding whether Suzhou stays a selective day trip accent or whether both Suzhou and Hangzhou become real stops."

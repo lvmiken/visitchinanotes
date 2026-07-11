@@ -28,7 +28,7 @@ heroImageAlt: "Leifeng Pagoda rising above the trees across West Lake in Hangzho
 heroImageAttributionName: "Yinweichen"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Leifeng_Pagoda_and_Willow_Tree_across_West_Lake.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best area to stay in Hangzhou for first-time visitors?"
     answer: "For many first-time visitors, the best Hangzhou base is near the east side of West Lake, where lake access, food, and easier transport usually balance better than staying deeper inside the scenic area."

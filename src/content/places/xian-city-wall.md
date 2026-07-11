@@ -33,7 +33,7 @@ tags:
   - "Xi'an"
   - "City Wall"
   - "Old City"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Xi'an City Wall worth it for first-time visitors?"
     answer: "Yes. For many travelers it is one of the most satisfying in-city Xi'an experiences because it gives visible historical scale without the complexity of a longer excursion."

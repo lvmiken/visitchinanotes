@@ -20,7 +20,7 @@ tags:
   - "Chengdu"
   - "Tianfu Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Chengdu Tianfu Airport to downtown?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late, luggage is heavy, or the final hotel route is still unclear. Metro Line 18 is often the best value when your route into central Chengdu is simple."

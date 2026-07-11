@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Giant Wild Goose Pagoda"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Giant Wild Goose Pagoda good for kids in Xi'an?"
     answer: "Often yes on a fuller 3-day Xi'an family trip, especially if the family wants one softer south-side block, a calmer dinner area, or a lead-in to Tang Paradise. It is usually less useful on the tightest 2-day version."

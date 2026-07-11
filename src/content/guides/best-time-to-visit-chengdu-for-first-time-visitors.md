@@ -23,7 +23,7 @@ tags:
   - "Chengdu"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best month to visit Chengdu?"
     answer: "For many first-time visitors, March, April, May, October, and November are the easiest months because panda mornings, walking, and food neighborhoods usually feel more comfortable."

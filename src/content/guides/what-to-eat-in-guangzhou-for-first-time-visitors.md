@@ -22,7 +22,7 @@ tags:
   - "Guangzhou"
   - "Food"
   - "Cantonese cuisine"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What food should first-time visitors try in Guangzhou?"
     answer: "Many first-time visitors do best with one dim sum or yum cha meal, one proper Cantonese dinner, one claypot-rice or chicken-style local meal, and one lighter snack, noodle, soup, or dessert stop instead of trying to chase everything."

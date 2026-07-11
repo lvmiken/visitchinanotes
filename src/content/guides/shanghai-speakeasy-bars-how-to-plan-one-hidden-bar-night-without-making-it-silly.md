@@ -28,7 +28,7 @@ tags:
   - "Bars"
   - "Nightlife"
   - "Speakeasy"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Are Shanghai speakeasy bars worth it for first-time visitors?"
     answer: "Usually yes if you already know you want one good cocktails-led evening and you enjoy atmosphere as much as the drink itself. They are usually less worth building the whole trip around."

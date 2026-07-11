@@ -36,7 +36,7 @@ tags:
   - "A-Ma Temple"
   - "World Heritage"
   - "Temples"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is A-Ma Temple worth visiting on a first trip to Macau?"
     answer: "For many first-time visitors, yes, especially if the trip wants one older spiritual heritage layer beyond Senado Square and the Ruins of St. Paul's. It is usually best as a selective extension, not as the only main old-city anchor."

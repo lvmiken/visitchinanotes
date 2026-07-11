@@ -3,6 +3,7 @@ title: "Where to Eat Breakfast in Wuhan Without Turning Guozao Into a Guessing G
 description: "Use this Wuhan breakfast guide to decide which areas fit a first-time guozao morning, when Hubu Alley helps, when a local neighborhood is better, and when hotel breakfast is still the smarter move."
 publishDate: 2026-06-28
 updatedDate: 2026-06-28
+noindex: true
 city: "wuhan"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 morning food stops"
@@ -22,7 +23,7 @@ tags:
   - "Wuhan"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Where should first-time visitors eat breakfast in Wuhan?"
     answer: "Many first-time visitors do best with one local breakfast in a neighborhood that already fits the day's route, often on the same side of the river as the hotel, instead of chasing multiple famous shops across the city."

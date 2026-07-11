@@ -30,7 +30,7 @@ heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Garden"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Lion Grove Garden worth visiting in Suzhou?"
     answer: "Often yes as a supporting add-on if you already are on the museum-and-garden side of the old city. It is usually less important than Humble Administrator's Garden as the main first garden."

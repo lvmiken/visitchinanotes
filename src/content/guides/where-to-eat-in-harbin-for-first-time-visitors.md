@@ -22,7 +22,7 @@ tags:
   - "Food"
   - "Neighborhoods"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What is the best area to eat in Harbin for first-time visitors?"
     answer: "For many first-time visitors, central Daoli around Zhongyang Street is the strongest all-around answer because it keeps first dinners, practical lunches, and warmer hotel returns easier in winter."

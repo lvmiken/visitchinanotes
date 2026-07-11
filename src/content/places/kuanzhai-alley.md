@@ -35,7 +35,7 @@ tags:
   - "Chengdu"
   - "Kuanzhai Alley"
   - "Old street"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Kuanzhai Alley worth visiting in Chengdu?"
     answer: "Usually yes, but mostly as a shorter atmosphere stop. For many first-time visitors, it works better as a snack, tea, or photo block than as a major anchor attraction."

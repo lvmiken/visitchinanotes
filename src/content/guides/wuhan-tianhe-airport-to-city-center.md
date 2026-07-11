@@ -20,7 +20,7 @@ tags:
   - "Wuhan"
   - "Tianhe Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Wuhan Tianhe Airport to the city center?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late, luggage is heavy, or the final hotel route is still unclear. Metro Line 2 is often the best-value option when your hotel connects simply from the airport line."

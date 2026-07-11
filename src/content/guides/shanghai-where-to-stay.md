@@ -21,7 +21,7 @@ tags:
   - "Shanghai"
   - "Hotels"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best area to stay in Shanghai for first-time visitors?"
     answer: "For many first-time visitors, a central, metro-friendly base near People's Square or between the historic core and the French Concession works best because it keeps both landmarks and neighborhood time easy to reach."

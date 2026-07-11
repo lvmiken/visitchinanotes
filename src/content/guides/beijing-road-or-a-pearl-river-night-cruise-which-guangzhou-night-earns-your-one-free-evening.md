@@ -24,7 +24,7 @@ tags:
   - "Beijing Road"
   - "Pearl River"
   - "Night planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should first-time visitors choose Beijing Road or a Pearl River night cruise in Guangzhou?"
     answer: "For many first-time visitors, Beijing Road is the better choice if the evening should stay easy and food-led, while the Pearl River night cruise is better if the skyline itself should feel like the main event."

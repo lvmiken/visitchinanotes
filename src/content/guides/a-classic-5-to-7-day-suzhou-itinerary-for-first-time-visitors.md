@@ -30,7 +30,7 @@ heroImageAlt: "Classical pond, pavilion, and autumn foliage in Suzhou's Humble A
 heroImageAttributionName: "King of Hearts"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Humble_Administrator%27s_Garden_Suzhou_November_2017_005.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is 5 days enough for Suzhou?"
     answer: "Yes. Five days is enough for a rich first Suzhou trip if you separate the major garden, museum-and-canal blocks, one broader landmark or second-garden day, and one slower evening-led old-city layer instead of stacking similar stops together."

@@ -23,7 +23,7 @@ tags:
   - "Observation deck"
   - "Skyline"
   - "Comparison"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best observation deck in Shanghai for first-time visitors?"
     answer: "For many first-time visitors, Shanghai Tower is the best paid deck if the weather is clear and you want one big skyline experience. If the trip is shorter or the weather is weak, the Bund is often the smarter overall skyline answer."

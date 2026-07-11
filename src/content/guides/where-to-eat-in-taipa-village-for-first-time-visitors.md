@@ -23,7 +23,8 @@ tags:
   - "Food"
   - "Taipa"
   - "Taipa Village"
-author: "Editorial Team"
+author: "Grace Lin"
+noindex: true
 faq:
   - question: "Is Taipa Village a good place to eat in Macau for first-time visitors?"
     answer: "Usually yes. Taipa Village is one of the best first-time Macau food areas when you want a slower neighborhood meal, a pork chop bun stop, or one Macanese or Portuguese dinner that fits a softer second-day route."

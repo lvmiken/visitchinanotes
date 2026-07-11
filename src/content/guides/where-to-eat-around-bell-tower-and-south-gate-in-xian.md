@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Food"
   - "Bell Tower"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat in Xi'an's old city?"
     answer: "For many first-time visitors, the safest answer is around Bell Tower or South Gate because the area keeps meals, old-city walking, and hotel returns easy. It usually works better than the Muslim Quarter when you want a calmer proper dinner."

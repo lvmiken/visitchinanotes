@@ -33,7 +33,7 @@ tags:
   - "Yangshuo"
   - "Xingping"
   - "Li River"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Xingping Ancient Town worth visiting from Yangshuo?"
     answer: "Usually yes if you want stronger Li River scenery and a more focused river-side branch. It is often less about the old streets themselves and more about what the surrounding river landscape adds."

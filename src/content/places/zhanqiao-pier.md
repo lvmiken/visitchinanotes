@@ -34,7 +34,7 @@ tags:
   - "Qingdao"
   - "Zhanqiao"
   - "Waterfront"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Zhanqiao worth visiting in Qingdao?"
     answer: "Usually yes as a short first-time waterfront stop. It is one of Qingdao's clearest city symbols, but it rarely needs a long protected sightseeing block."

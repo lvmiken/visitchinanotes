@@ -22,7 +22,7 @@ tags:
   - "Night"
   - "Itinerary planning"
   - "Yangshuo"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What should first-time visitors do in Guilin at night?"
     answer: "For many first-time visitors, the strongest Guilin night is either a Two Rivers and Four Lakes evening, an easier Zhengyang Walking Street and central-food night, or a deliberately light evening that protects the next day's Li River or Yangshuo plan."

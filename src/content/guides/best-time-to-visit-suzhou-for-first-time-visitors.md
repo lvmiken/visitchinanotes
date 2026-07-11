@@ -22,7 +22,7 @@ tags:
   - "Suzhou"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best month to visit Suzhou?"
     answer: "For many first-time visitors, April, May, October, and November are especially strong because gardens, museum walks, and canal streets usually feel more comfortable."

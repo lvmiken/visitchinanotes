@@ -33,7 +33,7 @@ tags:
   - "Qingdao"
   - "No.1 Bathing Beach"
   - "Waterfront"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is No.1 Bathing Beach worth visiting in Qingdao?"
     answer: "Usually yes if your Qingdao stay wants one proper beach-side block or a softer coast pause near Badaguan. It is usually less essential than Badaguan on the shortest first trip."

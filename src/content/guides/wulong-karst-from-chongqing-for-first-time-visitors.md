@@ -24,7 +24,7 @@ tags:
   - "Wulong"
   - "Day trips"
   - "Nature"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Wulong worth a day trip from Chongqing?"
     answer: "Usually yes if Chongqing already has enough city time and you want one major nature-and-karst contrast day. It is often the strongest all-around extra day from Chongqing for first-time visitors."

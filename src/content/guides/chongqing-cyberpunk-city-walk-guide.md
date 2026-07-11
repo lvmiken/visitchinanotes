@@ -23,7 +23,7 @@ tags:
   - "City walk"
   - "Cyberpunk"
   - "Night route"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best Chongqing cyberpunk city walk for first-time visitors?"
     answer: "For many first-time visitors, the best route starts with one iconic geometry stop such as Liziba or Kuixing, adds only one deeper residential-city layer such as Baixiangju if energy is still good, and saves the emotional finish for central Chongqing after dark."

@@ -22,7 +22,7 @@ tags:
   - "Zhangjiajie"
   - "Hotels"
   - "Family travel"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best area to stay in Zhangjiajie with kids?"
     answer: "For many first-time families, Wulingyuan is the safest base if the National Forest Park is the core anchor, while downtown Zhangjiajie is usually better when Tianmen Mountain, a shorter stay, or easier arrival logistics matter more."

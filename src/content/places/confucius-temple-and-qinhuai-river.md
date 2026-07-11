@@ -27,7 +27,7 @@ heroImageLicense: "CC BY-SA 2.0"
 tags:
   - "Nanjing"
   - "Night district"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Confucius Temple worth visiting in Nanjing?"
     answer: "Usually yes, especially in the evening. For many first-time visitors, it is the city's clearest night atmosphere block and one of the strongest reasons to stay overnight."

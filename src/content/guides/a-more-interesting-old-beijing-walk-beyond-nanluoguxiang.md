@@ -23,7 +23,7 @@ tags:
   - "Hutongs"
   - "Old Beijing"
   - "Walking routes"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is a better old Beijing walk than just Nanluoguxiang?"
     answer: "For many first-time visitors, a better old-Beijing walk combines one easier hutong block with a subtler lane such as Yangmeizhu Xiejie, plus Qianmen, Shichahai, or one calmer scenic pause like Beihai Park."

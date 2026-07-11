@@ -23,7 +23,7 @@ tags:
   - "LGBTQ"
   - "Nightlife"
   - "Drag"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Does Chengdu have drag shows or gay clubs?"
     answer: "Usually yes, but the practical move is to check current listings and social posts the same week rather than trusting old venue roundups. Chengdu's queer nightlife is real, but exact rooms and event nights can shift."

@@ -35,7 +35,7 @@ tags:
   - "Architecture"
   - "CBD"
   - "Modern landmarks"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the CCTV Headquarters worth visiting on a first trip to Beijing?"
     answer: "Usually yes for travelers who genuinely care about architecture or want one strong modern-Beijing skyline stop, especially as part of a wider CBD block."

@@ -21,7 +21,7 @@ tags:
   - "Yangshuo"
   - "Trip length"
   - "First trip"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "How many days do you need in Yangshuo?"
     answer: "For many first-time visitors, one night or roughly one to two days is enough. One night works if you want one easy evening plus one scenic layer, while two nights helps if the trip wants a slower countryside rhythm."

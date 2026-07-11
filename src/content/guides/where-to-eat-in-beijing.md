@@ -24,7 +24,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best area to eat in Beijing?"
     answer: "For many first-time visitors, the best area depends on the day. Qianmen works well for a classic historic-core meal, Wangfujing or central Dongcheng are easier for convenience, Niujie is best for a halal-food or pastry detour, Guijie is useful for a livelier hotpot-or-crayfish night, and Sanlitun is often best for a more modern dinner, Western restaurant options, or drinks."

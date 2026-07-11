@@ -32,7 +32,7 @@ tags:
   - "West Street"
   - "Evening"
   - "Scenic town"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is West Street worth visiting in Yangshuo?"
     answer: "Usually yes, especially for one easy first evening. It is often the simplest way to let Yangshuo feel lively and social after the scenic part of the day."

@@ -33,7 +33,7 @@ tags:
   - "Shanghai"
   - "Yu Garden"
   - "Old City"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Yu Garden worth visiting on a first trip to Shanghai?"
     answer: "Often yes, especially if you want a traditional-core contrast with modern Shanghai. It is usually most rewarding when used as part of a central old-city block instead of treated as the whole day."

@@ -20,7 +20,7 @@ tags:
   - "Guangzhou"
   - "Baiyun Airport"
   - "Airport transfer"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Guangzhou Baiyun Airport to downtown?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late, luggage is heavy, or the terminal-hotel route is unclear. Metro Line 3 is often the best value when you arrive at T1 or T2 and your downtown route is simple."

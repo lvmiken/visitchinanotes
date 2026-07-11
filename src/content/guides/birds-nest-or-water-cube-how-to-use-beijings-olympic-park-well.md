@@ -24,7 +24,7 @@ tags:
   - "Bird's Nest"
   - "Water Cube"
   - "Modern landmarks"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Which is better at Beijing Olympic Park, the Bird's Nest or the Water Cube?"
     answer: "For many first-time visitors, the Bird's Nest is the stronger single answer because it carries more symbolic and architectural weight. The Water Cube is often better as a supporting stop or for travelers who want a more usable indoor-facing branch."

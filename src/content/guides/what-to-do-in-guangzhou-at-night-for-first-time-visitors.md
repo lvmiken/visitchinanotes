@@ -24,7 +24,7 @@ tags:
   - "Night"
   - "Itinerary planning"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What should first-time visitors do in Guangzhou at night?"
     answer: "For many first-time visitors, the strongest Guangzhou evenings are one Pearl River or Canton Tower night, one Beijing Road or central food-and-shopping night, and one slower old-Guangzhou or Taikoo Cang evening depending on your route and energy."

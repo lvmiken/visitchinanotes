@@ -3,6 +3,7 @@ title: "Where to Eat Breakfast in Suzhou for First-Time Visitors"
 description: "Use this Suzhou breakfast guide to decide when one local morning meal is worth the effort, which areas fit a short first trip, and when hotel breakfast is still the smarter move."
 publishDate: 2026-06-26
 updatedDate: 2026-06-26
+noindex: true
 city: "suzhou"
 guideStage: "build-itinerary"
 tripLength: "1 to 3 morning food stops"
@@ -21,7 +22,7 @@ tags:
   - "Suzhou"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where should first-time visitors eat breakfast in Suzhou?"
     answer: "Many first-time visitors do best with one local breakfast in the old Gusu core, usually built around Suzhou noodles, and then keep later mornings simpler unless food is a major priority."

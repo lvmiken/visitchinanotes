@@ -27,7 +27,7 @@ heroImageAlt: "Shanghai skyline at night seen from the North Bund with the Orien
 heroImageAttributionName: "David Zhang from Canada"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pudong_CBD_viewed_from_the_North_Bund_in_Shanghai.jpg"
 heroImageLicense: "CC BY-SA 2.0"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shanghai a good first city to visit in China?"
     answer: "Yes. For many first-time visitors, Shanghai is one of the easiest and most comfortable entry points thanks to its transport, walkable neighborhoods, and short-stay flexibility."

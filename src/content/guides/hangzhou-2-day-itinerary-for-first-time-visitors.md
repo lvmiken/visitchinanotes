@@ -23,7 +23,7 @@ tags:
   - "Hangzhou"
   - "2 days"
   - "Itinerary"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is 2 days enough for Hangzhou?"
     answer: "Yes. Two days is enough for a strong first Hangzhou stay if you give one day to West Lake and one day to a selective second branch such as Lingyin Temple, Longjing Village, or a lighter old-core continuation."

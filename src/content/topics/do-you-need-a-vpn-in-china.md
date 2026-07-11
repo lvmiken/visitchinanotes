@@ -32,7 +32,7 @@ tags:
   - "Internet"
   - "VPN"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Do tourists need a VPN in China?"
     answer: "Sometimes yes, sometimes no. If your trip depends on blocked apps or work tools, a VPN or a travel eSIM-based workaround matters. If you mainly use Chinese apps and basic local services, you may not need one."

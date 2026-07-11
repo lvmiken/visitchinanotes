@@ -23,7 +23,7 @@ tags:
   - "Shanghai"
   - "4 days"
   - "Itinerary"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is four days enough for Shanghai?"
     answer: "Yes. Four days is enough for a strong first Shanghai trip if you use the extra day for better city rhythm, one slower district block, or a weather-proof cultural layer instead of turning it into more random crossings."

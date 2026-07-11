@@ -34,7 +34,7 @@ tags:
   - "Tongzhou Grand Canal"
   - "Canal"
   - "Modern Beijing"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Tongzhou Grand Canal worth visiting on a first Beijing trip?"
     answer: "Sometimes yes, especially on a longer stay, but it is usually a later-priority scenic-modern add-on rather than a core first-time Beijing must-do."

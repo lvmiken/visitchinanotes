@@ -22,7 +22,7 @@ tags:
   - "Suzhou"
   - "Hotels"
   - "Pingjiang Road"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay near Pingjiang Road in Suzhou?"
     answer: "Usually yes when the trip wants one atmospheric old-city evening and the stop is supposed to feel distinctly Suzhou. A more practical central base often works better when the stay is very short or hotel convenience matters more than mood."

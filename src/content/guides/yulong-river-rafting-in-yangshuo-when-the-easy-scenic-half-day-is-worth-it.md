@@ -20,7 +20,7 @@ tags:
   - "Yangshuo"
   - "Yulong River"
   - "Rafting"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Yulong River rafting worth it in Yangshuo?"
     answer: "Usually yes if the trip wants one easy scenic half day and already has enough icon-level river identity elsewhere. It is especially strong for travelers who want softness rather than one more mission-driven side trip."

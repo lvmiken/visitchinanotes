@@ -3,6 +3,7 @@ title: "Where to Eat Near the Temple of Heaven in Beijing for First-Time Visitor
 description: "Decide where to eat near the Temple of Heaven in Beijing, when Qianmen or Niujie fits better, and when Nanmen Shuanrou is the strongest post-visit hotpot choice."
 publishDate: 2026-06-23
 updatedDate: 2026-06-23
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 meal"
@@ -22,7 +23,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Temple of Heaven"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat near the Temple of Heaven in Beijing?"
     answer: "For many first-time visitors, the best answer depends on what the day should become next: Nanmen Shuanrou if you want a classic hotpot meal close to the Temple of Heaven area, Qianmen if the day should continue into the old core, and Niujie if halal food or pastry depth is the real reason food matters on that day."

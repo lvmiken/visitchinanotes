@@ -23,7 +23,7 @@ tags:
   - "West Lake"
   - "Musical fountain"
   - "Night"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is the West Lake musical fountain worth it for first-time visitors?"
     answer: "Usually yes as a short supporting extra if you are already spending the evening around West Lake or Hubin. It is usually not strong enough to justify rebuilding the whole night on its own."

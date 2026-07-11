@@ -23,7 +23,7 @@ tags:
   - "Confucius Temple"
   - "Qinhuai River"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Laomendong or Confucius Temple in Nanjing?"
     answer: "If you only want one clear evening answer, Confucius Temple and the Qinhuai River usually win. Laomendong often works better as a softer start or supporting old-city block before the brighter main evening."

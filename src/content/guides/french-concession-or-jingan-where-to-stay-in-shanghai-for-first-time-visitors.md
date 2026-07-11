@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "French Concession"
   - "Jing'an"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay in French Concession or Jing'an in Shanghai?"
     answer: "It depends on what you want the trip to feel like. French Concession is usually better for walkability, cafes, food, and neighborhood rhythm, while Jing'an is often better for polished restaurants, easier modern comfort, and a smoother adult-first evening base."

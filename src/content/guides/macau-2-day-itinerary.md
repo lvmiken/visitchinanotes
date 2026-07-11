@@ -29,7 +29,7 @@ heroImageAlt: "Macau Peninsula at night with Grand Lisboa and surrounding city l
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_Center_of_Macau_Peninsula_Night_View.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is 2 days enough for Macau?"
     answer: "Yes. Two days is enough for a strong first Macau stay if you give one day to the historic center and one day to Taipa, Cotai, or a slower food-and-neighborhood continuation."

@@ -24,7 +24,7 @@ tags:
   - "Yabuli"
   - "Winter travel"
   - "Comparison"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Snow Town or Yabuli better from Harbin?"
     answer: "For many first-time visitors, Snow Town is better for fairy-tale village atmosphere and an overnight winter branch, while Yabuli is better only when skiing or snowboarding is the real point of the detour."

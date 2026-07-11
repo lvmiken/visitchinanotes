@@ -34,7 +34,7 @@ tags:
   - "Beijing"
   - "Great Wall"
   - "Jinshanling"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Jinshanling Great Wall worth it for first-time visitors?"
     answer: "Usually yes if the Wall is one of your biggest priorities and you genuinely want a quieter, more rugged-feeling section. It is usually less worth it if your trip mainly needs the easiest first Beijing wall day."

@@ -35,7 +35,7 @@ tags:
   - "Xi'an"
   - "Grand Tang Dynasty Everbright City"
   - "Night"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Grand Tang Dynasty Everbright City worth visiting in Xi'an?"
     answer: "Often yes on a fuller Xi'an trip, especially if you want one scenic south-side night that feels more theatrical and contemporary than the old city."

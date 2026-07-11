@@ -32,7 +32,7 @@ tags:
   - "China travel basics"
   - "Health"
   - "Water"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Can tourists drink tap water in China?"
     answer: "The safest default is no: do not drink untreated tap water directly. Use boiled, bottled, or otherwise clearly safe drinking water instead."

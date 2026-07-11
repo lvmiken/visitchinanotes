@@ -37,7 +37,7 @@ tags:
   - "Chengdu"
   - "Panda base"
   - "Wildlife"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is the Chengdu panda base worth it for first-time visitors?"
     answer: "Usually yes. For many first-time visitors, it is Chengdu's clearest headline attraction and one of the easiest reasons to justify the city in a wider China route."

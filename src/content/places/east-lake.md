@@ -31,7 +31,7 @@ tags:
   - "East Lake"
   - "Scenery"
   - "Wuchang"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is East Lake worth visiting on a first Wuhan trip?"
     answer: "Usually yes if your Wuhan stop gets enough time for one softer scenic branch and the weather cooperates. It is less essential on the shortest version of Wuhan, where breakfast, one coherent city side, and one worthwhile evening usually matter more."

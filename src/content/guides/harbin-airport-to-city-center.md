@@ -22,7 +22,7 @@ tags:
   - "Harbin Taiping International Airport"
   - "Airport transfer"
   - "Winter travel"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Harbin Taiping Airport to the city center?"
     answer: "For many first-time visitors, taxi or Didi is easiest if the arrival is late, the hotel entrance is still fuzzy in your head, or the winter weather makes one more transfer feel unnecessary. Airport bus is usually the main budget option when the stop matches your hotel well."

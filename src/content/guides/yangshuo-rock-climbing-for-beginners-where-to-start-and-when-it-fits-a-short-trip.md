@@ -23,7 +23,7 @@ tags:
   - "Rock climbing"
   - "Moon Hill"
   - "Outdoor activities"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Can beginners go rock climbing in Yangshuo?"
     answer: "Usually yes, with a beginner-friendly guided session. Most first-time visitors should think in terms of one half-day introduction rather than self-planned route hunting."

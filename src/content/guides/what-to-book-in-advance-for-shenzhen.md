@@ -24,7 +24,7 @@ tags:
   - "Reservations"
   - "Planning"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Shenzhen?"
     answer: "For many first-time visitors, the main Shenzhen advance items are the hotel during busy dates, any fixed Hong Kong or onward rail link, and only those full-day products such as theme parks that would genuinely disappoint you if missed."

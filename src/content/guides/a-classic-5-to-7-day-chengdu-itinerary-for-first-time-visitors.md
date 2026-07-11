@@ -30,7 +30,7 @@ heroImageAlt: "Anshun Bridge lit up over the Jin River at night in Chengdu."
 heroImageAttributionName: "Daniel Lu (User:dllu)"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is 5 days enough for Chengdu?"
     answer: "Yes. Five days is enough for a rich first Chengdu trip if you protect one panda morning, one slower tea-house and neighborhood day, one stronger food-and-evening structure, and one optional cultural or side-trip branch."

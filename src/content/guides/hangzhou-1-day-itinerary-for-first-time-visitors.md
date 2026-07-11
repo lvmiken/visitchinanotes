@@ -23,7 +23,7 @@ tags:
   - "Hangzhou"
   - "1 day"
   - "Itinerary"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is one day enough for Hangzhou?"
     answer: "Yes, if you keep the route selective. One day is enough for a worthwhile first Hangzhou impression when you protect West Lake and add only one realistic supporting branch."

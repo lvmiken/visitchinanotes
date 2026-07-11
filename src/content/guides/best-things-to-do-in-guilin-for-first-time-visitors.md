@@ -25,7 +25,7 @@ tags:
   - "Things to do"
   - "Scenic China"
   - "Yangshuo"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What are the best things to do in Guilin for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are protect the Li River properly, decide whether Yangshuo deserves an overnight, use West Street selectively if Yangshuo is happening, and keep Guilin city itself as a practical supporting layer rather than the whole point of the stop."

@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "West Lake"
   - "Wulin"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors stay near the east side of West Lake or in Wulin?"
     answer: "For many first-time visitors, the east side of West Lake is the better default because it keeps the lake, dinners, and short scenic walking easier. Wulin is often better when train timing, practical movement, and hotel convenience matter almost as much as atmosphere."

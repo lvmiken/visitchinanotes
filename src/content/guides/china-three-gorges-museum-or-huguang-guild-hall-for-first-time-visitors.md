@@ -28,7 +28,7 @@ tags:
   - "Chongqing"
   - "Museums"
   - "Historic sites"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors choose China Three Gorges Museum or Huguang Guild Hall?"
     answer: "For many first-time visitors, China Three Gorges Museum is the better default if you want one serious indoor history block, while Huguang Guild Hall is better if you want a shorter architecture-and-heritage stop that keeps the day lighter."

@@ -25,7 +25,7 @@ tags:
   - "Shopping"
   - "Glasses"
   - "Optical market"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where do tourists go for cheap glasses in Beijing?"
     answer: "Many travelers who specifically search for a Beijing glasses market are usually being pointed toward the Panjiayuan optical cluster rather than a normal mall shopping area."

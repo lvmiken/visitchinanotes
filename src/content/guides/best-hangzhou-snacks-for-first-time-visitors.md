@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "Snacks"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What snacks should first-time visitors try in Hangzhou?"
     answer: "Many first-time visitors do best with one old-name Hangzhou snack stop such as Zhiweiguan, one famous old-core bite such as stinky tofu on Gaoyin Street, and one gentler wonton or potsticker stop instead of trying to sample everything."

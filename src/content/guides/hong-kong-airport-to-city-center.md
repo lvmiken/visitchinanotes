@@ -24,7 +24,7 @@ tags:
   - "Hong Kong International Airport"
   - "Airport transfer"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the easiest way to get from Hong Kong airport to the city center?"
     answer: "For many first-time visitors, Airport Express is the fastest clean public-transport answer when the hotel connects well from Hong Kong or Kowloon station, while taxi is easier for late arrivals, heavy luggage, or a fuzzy final hotel leg. Airport bus becomes the best-value option when one direct route fits your district well."

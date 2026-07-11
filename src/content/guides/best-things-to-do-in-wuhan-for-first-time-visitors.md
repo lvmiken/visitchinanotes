@@ -23,7 +23,7 @@ tags:
   - "Wuhan"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What are the best things to do in Wuhan for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are one real guozao breakfast morning, one selective Yellow Crane Tower or Wuchang symbolic layer, one useful riverfront or dinner-led evening, and one broader food block beyond breakfast if the stay gets enough time."

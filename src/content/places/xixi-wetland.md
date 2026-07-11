@@ -33,7 +33,7 @@ tags:
   - "Hangzhou"
   - "Xixi Wetland"
   - "Nature"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Xixi Wetland worth visiting in Hangzhou?"
     answer: "Usually yes if your Hangzhou stop has enough time for a second scenic branch beyond West Lake. It is usually less essential than West Lake on the shortest first visit."

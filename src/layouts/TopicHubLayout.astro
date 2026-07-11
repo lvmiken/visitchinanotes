@@ -21,17 +21,22 @@ const relatedCities = uniqueCityEntries(
     topic.data.affectsCities.map((cityName) => findCityEntry(allCities, cityName)),
   ),
 ).slice(0, 6);
+const quickStartTopics = (cluster.quickStartTopicSlugs ?? cluster.topicSlugs.slice(0, 3))
+  .map((slug) => allTopics.find((topic) => topic.slug === slug))
+  .filter(Boolean);
 ---
 
 <BaseLayout
   title={`${cluster.title} | China Trip Topic Hub`}
   description={cluster.description}
+  showAds={false}
 >
   <section class="split-hero">
     <div class="hero article">
       <p class="eyebrow">Topic Hub</p>
-      <h1>{cluster.title}</h1>
+      <h1>{cluster.heroTitle ?? cluster.title}</h1>
       <p>{cluster.description}</p>
+      {cluster.editorialNote && <p class="muted">{cluster.editorialNote}</p>}
       <div class="pill-row">
         <span>{clusterTopics.length} focused reads</span>
         <span>{cluster.whenToUse}</span>
@@ -45,13 +50,57 @@ const relatedCities = uniqueCityEntries(
       </div>
       <p class="muted">{cluster.whenToUse}</p>
       <ul class="mini-list">
-        {clusterTopics.slice(0, 3).map((topic) => <li>{topic.data.title}</li>)}
+        {cluster.solveFirst?.map((item) => <li>{item}</li>)}
       </ul>
     </aside>
   </section>
 
+  {(cluster.solveFirst?.length || cluster.avoidFirst?.length) && (
+    <section class="section-block card-surface">
+      <p class="eyebrow">Editors&apos; View</p>
+      <h2 class="section-title">This hub is strongest when it simplifies one planning problem instead of multiplying small decisions.</h2>
+      <div class="feature-grid">
+        {cluster.solveFirst?.length ? (
+          <article class="card-surface">
+            <p class="eyebrow">Solve First</p>
+            <h3>What this desk should help you lock down early.</h3>
+            <ul class="mini-list">
+              {cluster.solveFirst.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+        ) : null}
+        {cluster.avoidFirst?.length ? (
+          <article class="card-surface">
+            <p class="eyebrow">Avoid Next</p>
+            <h3>The mistakes that make this part of the trip feel heavier than it should.</h3>
+            <ul class="mini-list">
+              {cluster.avoidFirst.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+        ) : null}
+      </div>
+    </section>
+  )}
+
+  {quickStartTopics.length > 0 && (
+    <section class="section-block card-surface">
+      <p class="eyebrow">Editorial Reading Order</p>
+      <h2 class="section-title">If you only need the shortest useful path through this planning problem, start with these three reads.</h2>
+      <div class="feature-grid">
+        {quickStartTopics.map((topic, index) => (
+          <article class="card-surface">
+            <p class="eyebrow">Step {index + 1}</p>
+            <h3><a href={`/topics/${topic.slug}/`}>{topic.data.title}</a></h3>
+            <p class="muted">{topic.data.whenToRead}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  )}
+
   <section class="section-block">
     <h2 class="section-title">Included Topics</h2>
+    <p class="muted">Use the guided path above if you want the shortest route, or browse the full hub below if you need a deeper answer.</p>
     <div class="grid two">
       {clusterTopics.map((topic) => <TopicCard topic={topic} />)}
     </div>

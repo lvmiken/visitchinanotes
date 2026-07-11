@@ -23,7 +23,7 @@ tags:
   - "Zhangjiajie"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What is the best month to visit Zhangjiajie?"
     answer: "For many first-time visitors, April, May, September, and October are the easiest months because mountain walking, transfers, and view-chasing usually feel more manageable."

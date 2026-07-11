@@ -29,7 +29,7 @@ tags:
   - "Itinerary"
   - "Museums"
   - "Half day"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best west-side cultural half day in Chengdu for first-time visitors?"
     answer: "For many first-time visitors, the best west-side half day is Qingyang Palace plus Du Fu Thatched Cottage if you want a lighter reflective route, or Sichuan Museum plus Du Fu Thatched Cottage if you want a fuller museum-led cultural branch."

@@ -31,7 +31,7 @@ heroImageAlt: "A bright aerial view of a river bend, village rooftops, and karst
 heroImageAttributionName: "Chensiyuan"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:1_aerial_yangshuo_panorama_2017.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is 5 days enough for Guilin and Yangshuo?"
     answer: "Yes. Five days is enough for a strong first Guilin and Yangshuo trip if you separate one real Li River day, one proper Yangshuo stay, one edited Guilin city layer, and one countryside branch instead of trying to treat every scenic stop as equally essential."

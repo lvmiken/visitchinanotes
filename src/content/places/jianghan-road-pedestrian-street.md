@@ -31,7 +31,7 @@ tags:
   - "Wuhan"
   - "Jianghan Road"
   - "Hankou"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Jianghan Road worth visiting for first-time visitors to Wuhan?"
     answer: "For many first-time visitors, yes, especially if the trip wants one easy central evening with food, walking, and visible city energy. It is usually better as a practical evening block than as an all-day shopping plan."

@@ -22,7 +22,7 @@ tags:
   - "First trip"
   - "Food"
   - "Central China"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Wuhan worth visiting on a first trip to China?"
     answer: "Yes, especially for travelers whose route is becoming more food-led and who want one city that feels locally alive rather than purely iconic."

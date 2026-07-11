@@ -23,7 +23,7 @@ tags:
   - "Great Wall"
   - "Mutianyu"
   - "Badaling"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Which Great Wall near Beijing is best for first-time visitors?"
     answer: "For many first-time visitors, Mutianyu is the best all-around choice. Badaling is stronger for travelers who want the most famous section on purpose, while Jinshanling is better for those who want a quieter and more rugged-feeling Wall day."

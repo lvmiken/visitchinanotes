@@ -28,7 +28,7 @@ tags:
   - "Zhengyang Walking Street"
   - "Night"
   - "Food"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Zhengyang Walking Street worth visiting in Guilin?"
     answer: "Usually yes when Guilin needs one easy central dinner-and-walk evening. It is especially useful on the arrival night or any night when flexibility matters more than a more polished scenic event."

@@ -26,7 +26,7 @@ heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Old street"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shantang Street worth visiting in Suzhou?"
     answer: "Usually yes if you want one brighter evening canal walk, but it is often more useful as a selective night block than as a top daytime priority."

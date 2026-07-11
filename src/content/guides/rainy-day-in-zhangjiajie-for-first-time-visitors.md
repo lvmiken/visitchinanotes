@@ -22,7 +22,7 @@ tags:
   - "Zhangjiajie"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What should tourists do in Zhangjiajie on a rainy day?"
     answer: "For many first-time visitors, the best move is to protect the one scenic plan that still has real payoff, simplify transport, and cut lower-value extras instead of forcing the whole original mountain itinerary."

@@ -30,7 +30,7 @@ tags:
   - "Shanghai Disneyland"
   - "Zootopia"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should I build my Shanghai Disneyland day around Zootopia?"
     answer: "Sometimes. Zootopia deserves shaping the day when it is one of the main emotional reasons for the visit, especially for families or mixed-age groups. It usually should not take over the whole day if your group only likes it casually and still wants a broader Shanghai Disneyland first visit."

@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Pudong"
   - "Puxi"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Should first-time visitors stay in Pudong or Puxi in Shanghai?"
     answer: "For many first-time visitors, Puxi is the better default because it keeps classic sightseeing, neighborhoods, food, and evenings easier to use. Pudong works better when skyline hotels or airport-side logic matter enough to outweigh that tradeoff."

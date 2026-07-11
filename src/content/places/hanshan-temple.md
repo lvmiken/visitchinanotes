@@ -30,7 +30,7 @@ relatedGuideSlugs:
 tags:
   - "Suzhou"
   - "Temple"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Hanshan Temple worth visiting in Suzhou?"
     answer: "Usually yes as a supporting stop if your Suzhou trip already has its main garden and old-city layers protected. It is often less important than Humble Administrator's Garden, Suzhou Museum, or Pingjiang Road on a very short first visit."

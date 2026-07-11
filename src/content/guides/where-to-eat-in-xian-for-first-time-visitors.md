@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What is the best area to eat in Xi'an?"
     answer: "For many first-time visitors, the best default area is the old city around Bell Tower or South Gate because it keeps sightseeing, food, and evening walking easy. The Muslim Quarter is best for one snack-heavy atmosphere block, while the pagoda side is stronger on a fuller 3-day Xi'an trip."

@@ -24,7 +24,7 @@ tags:
   - "Chongqing"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What are the best things to do in Chongqing for first-time visitors?"
     answer: "For many first-time visitors, the best things to do are one Jiefangbei and Hongyadong skyline block, one cross-river city experience such as the cableway or Nanbin Road side, one serious food-and-evening district, and one selective old-street or cultural layer only if the stay has room."

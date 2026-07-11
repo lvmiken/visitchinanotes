@@ -24,7 +24,7 @@ tags:
   - "Trip length"
   - "First trip"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "How many days do first-time visitors need in Hong Kong?"
     answer: "For many first-time visitors, 2 to 4 days works well, with 3 days often being the strongest all-around balance for skyline views, neighborhoods, food, and one flexible extra layer."

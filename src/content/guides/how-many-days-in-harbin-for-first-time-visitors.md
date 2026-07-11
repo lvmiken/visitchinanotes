@@ -22,7 +22,7 @@ tags:
   - "Harbin"
   - "Trip length"
   - "Winter travel"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "How many days do first-time visitors need in Harbin?"
     answer: "For many first-time visitors, 2 days works best because it gives Harbin one real winter night and one central-city day. A shorter 1-night stop can still work if the whole visit is built around that shape on purpose."

@@ -34,7 +34,7 @@ tags:
   - "Fragrant Hills"
   - "Park"
   - "Autumn"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Fragrant Hills worth visiting on a first Beijing trip?"
     answer: "Often yes if you have enough time and want a more substantial hills-and-views outing, especially in autumn, but it is usually a later-priority scenic choice on a short trip."

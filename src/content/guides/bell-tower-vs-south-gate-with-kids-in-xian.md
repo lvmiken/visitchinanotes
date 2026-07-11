@@ -25,7 +25,7 @@ tags:
   - "Family travel"
   - "Bell Tower"
   - "South Gate"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is South Gate or Bell Tower better in Xi'an with kids?"
     answer: "For many first-time families, South Gate is the safer default because it usually makes tired returns, calmer dinners, and the overall old-city rhythm easier to manage. Bell Tower can still work well if central energy and immediate food access matter more."

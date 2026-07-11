@@ -23,7 +23,7 @@ tags:
   - "Zhangjiajie"
   - "Airport transfer"
   - "Train arrival"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What is the easiest way to get from Zhangjiajie West Station to Wulingyuan?"
     answer: "For many first-time visitors, the daytime line coach is the best-value answer if the hotel is near Wulingyuan's main visitor area. Taxi or Didi is usually easier if you arrive late, have luggage, or want a direct hotel drop."

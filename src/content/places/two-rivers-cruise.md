@@ -35,7 +35,7 @@ tags:
   - "Chongqing"
   - "Two Rivers Cruise"
   - "Night views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is the Two Rivers Cruise worth it for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, especially if you want one skyline night that feels more like the main event than a casual walk. It is usually most worth it when the trip has room for both one easy central night and one more deliberate scenic night."

@@ -24,7 +24,7 @@ tags:
   - "Shanghai"
   - "Family travel"
   - "Things to do"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What are the best things to do in Shanghai with kids?"
     answer: "For many first-time families, the best things to do are Shanghai Disneyland, the Bund, the Shanghai Natural History Museum, one aquarium or animal option, one selective old-core stop such as Yu Garden, and one easier evening or food layer."

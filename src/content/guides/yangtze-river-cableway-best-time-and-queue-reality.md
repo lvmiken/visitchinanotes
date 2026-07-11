@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Yangtze River Cableway"
   - "Queue planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best time to ride the Yangtze River Cableway?"
     answer: "For many first-time visitors, the best time is whichever window fits a wider route well without forcing the biggest queue of the day. If the crossing matters more than dramatic skyline mood, a less headline-friendly hour often works better."

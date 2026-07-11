@@ -32,7 +32,7 @@ tags:
   - "Tanhualin"
   - "Historic street"
   - "Wuchang"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Tanhualin worth visiting for first-time visitors to Wuhan?"
     answer: "For many first-time visitors, yes, but mainly as a supporting historic-street and slower walking block rather than as one of the city's core anchors."

@@ -7,6 +7,24 @@ export const topicClusters = [
     title: "Route Planning",
     description: "Use this topic hub when you are still shaping the route, deciding how many cities to include, and choosing hotel areas that keep the trip workable.",
     whenToUse: "Best before hotels and intercity moves are fully locked in.",
+    heroTitle: "Build the route before the route starts building you.",
+    editorialNote:
+      "This desk is for the stage where inspiration is still outrunning structure: too many cities look possible, hotel areas are still abstract, and one seductive detour can quietly turn a first China trip into a transfer chain.",
+    solveFirst: [
+      "Cut the city count until each stop has one honest job in the route.",
+      "Choose the overnight geography before you fall in love with side branches.",
+      "Separate anchor cities, contrast stops, and optional luxuries instead of treating every place as equal.",
+    ],
+    avoidFirst: [
+      "Do not add Hainan, Yunnan, or a mountain detour just because one article made it sound tempting.",
+      "Do not solve a route problem by piling on more hotel changes.",
+      "Do not start booking scenic fragments before the core route feels survivable.",
+    ],
+    quickStartTopicSlugs: [
+      "where-to-start",
+      "plan-your-trip",
+      "choosing-hotel-location",
+    ],
     topicSlugs: [
       "where-to-start",
       "best-time-to-visit-china",
@@ -72,6 +90,24 @@ export const topicClusters = [
     title: "Arrival Basics",
     description: "Use this topic hub before departure so entry rules, internet setup, app readiness, and airport-to-city expectations are solved before the first day begins.",
     whenToUse: "Best before flights, arrival-day planning, and the first hotel are finalized.",
+    heroTitle: "The calmest first day is the one you set up before departure.",
+    editorialNote:
+      "This desk exists for the invisible parts of the trip that only feel boring until they fail: entry rules, app readiness, internet access, and the difference between a smooth landing and a panicked first evening.",
+    solveFirst: [
+      "Confirm entry logic, airport plan, and app stack before flights are locked.",
+      "Prepare one payment and navigation backup instead of trusting a single app.",
+      "Treat arrival-day energy as part of the plan, especially on family or multi-city routes.",
+    ],
+    avoidFirst: [
+      "Do not leave visa-free assumptions, eSIM setup, or arrival-card details to the airport queue.",
+      "Do not design the first night around an idealized transfer if the family or flight timing says otherwise.",
+      "Do not assume Google, payments, or ride-hailing will behave exactly like home on day one.",
+    ],
+    quickStartTopicSlugs: [
+      "china-visa-basics",
+      "what-apps-you-need-for-a-china-trip",
+      "airport-to-city",
+    ],
     topicSlugs: [
       "china-visa-basics",
       "can-you-enter-china-visa-free-multiple-times",
@@ -103,6 +139,24 @@ export const topicClusters = [
     title: "Payments And Daily Use",
     description: "Use this topic hub when you want the everyday side of the trip to feel easier, from building a dependable payment stack to moving around cities once you are on the ground.",
     whenToUse: "Best before arrival or before choosing city bases that depend on easy local movement.",
+    heroTitle: "Once payment, navigation, and ride-hailing feel normal, the whole trip gets lighter.",
+    editorialNote:
+      "This desk is for daily frictions: how to pay without freezing at checkout, how to call a car without language panic, and how to stop ordinary city movement from feeling more complicated than it is.",
+    solveFirst: [
+      "Build a payment stack that still works if one method fails.",
+      "Decide when metro should be the default and when Didi is worth the cleanup.",
+      "Treat everyday confidence as a route asset, not just a convenience.",
+    ],
+    avoidFirst: [
+      "Do not assume one wallet app will solve every payment edge case.",
+      "Do not overlearn city transport before you understand the daily basics that repeat everywhere.",
+      "Do not let small payment anxiety distort bigger destination decisions.",
+    ],
+    quickStartTopicSlugs: [
+      "how-to-pay-in-china",
+      "alipay-wechat-pay",
+      "how-to-use-didi-in-china",
+    ],
     topicSlugs: [
       "how-to-pay-in-china",
       "alipay-wechat-pay",
@@ -118,6 +172,24 @@ export const topicClusters = [
     title: "Transport And Reservations",
     description: "Use this topic hub when trains, flights, station days, and timed-entry bookings start shaping the route more than the sightseeing list itself.",
     whenToUse: "Best once the city shortlist is clear and the route is close to being booked.",
+    heroTitle: "Book the moving parts that can actually break the route, and leave the rest alone.",
+    editorialNote:
+      "This desk is for the moment when trains, timed tickets, and station days start controlling the trip more than sightseeing does. The goal is not to prebook everything. The goal is to protect the links that would hurt if they failed.",
+    solveFirst: [
+      "Lock intercity transport only after the route order is believable.",
+      "Reserve high-value timed products, not every famous name on the map.",
+      "Use transport choices to simplify the trip, not to prove how much you can fit.",
+    ],
+    avoidFirst: [
+      "Do not book complicated rail chains before hotel geography and day count are stable.",
+      "Do not give museum tickets and cross-country train legs the same planning weight.",
+      "Do not confuse motion with progress: a well-edited route usually needs fewer heroic transfers.",
+    ],
+    quickStartTopicSlugs: [
+      "high-speed-rail",
+      "12306-for-foreigners",
+      "attraction-reservations",
+    ],
     topicSlugs: [
       "high-speed-rail",
       "12306-for-foreigners",

@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Nanbin Road"
   - "Night views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Nanbin Road worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes, especially if you want one calmer scenic evening with river views, dinner, and a skyline walk after already protecting one classic Hongyadong-style night."

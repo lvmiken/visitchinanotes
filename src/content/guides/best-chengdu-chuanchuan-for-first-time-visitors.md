@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Chuanchuan"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is chuanchuan worth trying in Chengdu for first-time visitors?"
     answer: "Usually yes. For many first-time visitors, chuanchuan is one of the easiest ways to experience Chengdu's spicy, social food culture without committing to the heavier, longer format of a full hot pot night."

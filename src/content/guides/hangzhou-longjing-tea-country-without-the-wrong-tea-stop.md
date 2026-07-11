@@ -27,7 +27,7 @@ tags:
   - "Longjing"
   - "Tea"
   - "Half day"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "How should first-time visitors do Longjing tea country in Hangzhou?"
     answer: "Usually by choosing one main tea-country stop on purpose, most often Longjing Village for atmosphere or Meijiawu for a simpler tea-and-meal version, then keeping the rest of the half day light."

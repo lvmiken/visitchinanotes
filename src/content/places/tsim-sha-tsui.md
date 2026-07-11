@@ -32,7 +32,7 @@ tags:
   - "Tsim Sha Tsui"
   - "Neighborhoods"
   - "Victoria Harbour"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Tsim Sha Tsui worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, absolutely yes. Tsim Sha Tsui is often the easiest and strongest district for classic harbour payoff, skyline views, ferries, and one very fast sense of what Hong Kong is."

@@ -23,7 +23,7 @@ tags:
   - "Shanghai"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best month to visit Shanghai?"
     answer: "For many first-time visitors, April, May, October, and November are especially easy months because the city is usually more comfortable for walking, food neighborhoods, and skyline evenings."

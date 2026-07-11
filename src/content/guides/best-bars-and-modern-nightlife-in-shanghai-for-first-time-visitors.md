@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Bars"
   - "Nightlife"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where should first-time visitors go for bars in Shanghai?"
     answer: "For many first-time visitors, Xintiandi is the easiest polished answer, Fumin Road is stronger for a more neighborhood-style cocktail night, and FOUND158 works better when the group wants a louder all-in-one nightlife cluster."

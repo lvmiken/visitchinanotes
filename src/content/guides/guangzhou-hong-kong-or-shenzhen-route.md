@@ -23,7 +23,7 @@ tags:
   - "Shenzhen"
   - "South China"
 ogImage: "/og/custom/guangzhou-pairing-guide.svg"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is it realistic to do Guangzhou, Hong Kong, and Shenzhen on one first trip?"
     answer: "It can be done, but many first-time visitors have a better trip by choosing only two of the three. Too many short hops can make the route feel more like transfer management than travel."

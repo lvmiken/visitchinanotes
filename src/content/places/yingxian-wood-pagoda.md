@@ -25,7 +25,7 @@ tags:
   - "Yingxian"
   - "Wood Pagoda"
   - "Ancient architecture"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Yingxian Wood Pagoda worth visiting on a first Shanxi trip?"
     answer: "Usually yes for travelers who care about old timber architecture and are already shaping a fuller Shanxi route. It is less useful if the trip only wants the easiest headline stops."

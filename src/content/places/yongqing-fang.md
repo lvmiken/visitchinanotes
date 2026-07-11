@@ -36,7 +36,7 @@ tags:
   - "Guangzhou"
   - "Yongqing Fang"
   - "Liwan"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Yongqing Fang worth visiting for first-time visitors to Guangzhou?"
     answer: "For many first-time visitors, yes, especially if the trip wants one old-Guangzhou neighborhood block with Lingnan architecture, slower walking, and a more local-feeling evening than a standard commercial district."

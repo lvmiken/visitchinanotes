@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Noodles"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What are the best noodles in Shanghai for first-time visitors?"
     answer: "For many first-time visitors, the best Shanghai noodle stop is the one that fits the day: Wei Xiang Zhai for the clearest sesame-noodle classic, De Xing Guan for an older central institution, and He Shan Mian Jia when the bowl itself should feel like a more deliberate food priority."

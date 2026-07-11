@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Itinerary"
   - "Day 3"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should you do on a third day in Xi'an?"
     answer: "Most first-time visitors do best by choosing one missing layer: museum depth if the trip still feels too thin historically, or a pagoda-side and evening branch if the trip needs a broader and more atmospheric finish."

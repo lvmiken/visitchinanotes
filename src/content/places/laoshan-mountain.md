@@ -33,7 +33,7 @@ tags:
   - "Qingdao"
   - "Laoshan"
   - "Nature"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Laoshan worth visiting from Qingdao?"
     answer: "Usually yes if your Qingdao stop is long enough for a real scenic branch. It is less essential when Qingdao is only a brief coastal city break."

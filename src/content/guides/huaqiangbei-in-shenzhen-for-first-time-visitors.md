@@ -23,7 +23,7 @@ tags:
   - "Shenzhen"
   - "Huaqiangbei"
   - "Electronics market"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Huaqiangbei worth visiting for first-time visitors to Shenzhen?"
     answer: "Usually yes if you are genuinely curious about electronics markets, repair culture, and the more hands-on side of Shenzhen's identity. It is usually less worth it if you mainly want polished sightseeing or low-friction strolling."

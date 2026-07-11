@@ -1,0 +1,15 @@
+{
+  "name": "Entry & Visa Desk",
+  "entityType": "organization",
+  "role": "Entry and Travel Rules Desk",
+  "shortBio": "Maintains traveler-facing coverage on visa basics, transit policies, re-entry questions, and arrival-rule planning.",
+  "fullBio": "The Entry & Visa Desk maintains editorial coverage related to visa basics, transit eligibility, re-entry logic, passport-linked planning, and entry-rule framing for travelers visiting China. Its goal is to explain the planning logic clearly while still directing readers to official sources for final rule confirmation.",
+  "expertise": [
+    "China entry planning",
+    "Visa and transit basics",
+    "Rule-sensitive trip preparation"
+  ],
+  "reviewProcess": "Pages are reviewed for clarity, policy sensitivity, and whether the traveler-facing explanation still matches the current structure of entry and transit rules.",
+  "seoTitle": "Entry & Visa Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains visa, transit, and China entry-planning coverage on China Travel Notes."
+}

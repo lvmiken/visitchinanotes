@@ -32,7 +32,7 @@ tags:
   - "Zhangjiajie"
   - "National forest park"
   - "Nature"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Zhangjiajie National Forest Park worth it?"
     answer: "Usually yes. For most first-time visitors, it is the main reason Zhangjiajie belongs in the route at all."

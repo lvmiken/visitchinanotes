@@ -28,7 +28,7 @@ tags:
   - "Dim sum"
   - "Yum cha"
   - "Food"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Where should first-time visitors eat dim sum in Guangzhou if they only have one meal?"
     answer: "For many first-time visitors, the best answer depends on the day. Guangzhou Restaurant is often the easiest central yum cha, while Panxi Restaurant is stronger if Liwan or Yongqing Fang already shapes the morning."

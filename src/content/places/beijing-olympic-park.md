@@ -33,7 +33,7 @@ tags:
   - "Beijing"
   - "Olympic Park"
   - "Modern landmarks"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Beijing Olympic Park worth visiting on a first trip?"
     answer: "Often yes if you have enough time and want one modern Beijing contrast block, especially for the Bird's Nest and Water Cube area."

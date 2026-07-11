@@ -35,7 +35,7 @@ tags:
   - "Trip planning"
   - "Itinerary"
   - "One week"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is three cities in one week in China too much?"
     answer: "Usually yes for first-time visitors, unless the route stays regional and selective. Three cities only works well when transfer friction stays low and each stop has a clear role."

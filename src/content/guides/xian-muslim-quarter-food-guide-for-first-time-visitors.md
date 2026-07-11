@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Food"
   - "Muslim Quarter"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should first-time visitors eat in Xi'an's Muslim Quarter?"
     answer: "Many first-time visitors do best with one roujiamo, one liangpi or cold-noodle-style dish, and one or two smaller grilled or baked snacks instead of trying to sample everything in one pass."

@@ -34,7 +34,7 @@ tags:
   - "Trip planning"
   - "Itinerary"
   - "14 days"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best first-time China itinerary for 14 days?"
     answer: "For many travelers, the best 14-day first China itinerary is Beijing plus Xi'an plus Shanghai, with enough time to do all three properly. Travelers who want more contrast can sometimes add Chengdu as a fourth stop if the route stays realistic."

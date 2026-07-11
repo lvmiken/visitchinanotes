@@ -34,7 +34,7 @@ tags:
   - "Futian"
   - "CBD"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Futian worth visiting on a first trip to Shenzhen?"
     answer: "For many first-time visitors, yes. Futian is usually the clearest way to understand central Shenzhen because skyline, transit, hotel logic, and dinner options all work together in one readable district."

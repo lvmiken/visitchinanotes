@@ -22,7 +22,7 @@ tags:
   - "Wuhan"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What is the best area to eat in Wuhan?"
     answer: "For many first-time visitors, the best area depends on the day. Hankou is usually the strongest all-around base for easier meal planning, while Wuchang is better for one symbolic breakfast or one selective supporting food block than for every important meal."

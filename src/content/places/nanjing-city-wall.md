@@ -28,7 +28,7 @@ heroImageLicense: "CC BY 4.0"
 tags:
   - "Nanjing"
   - "City wall"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Nanjing City Wall worth visiting?"
     answer: "Usually yes when you want one outdoor historical perspective and the city has enough room beyond museums and the old-city evening layer."

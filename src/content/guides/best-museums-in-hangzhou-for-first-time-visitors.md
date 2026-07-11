@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Museums"
   - "First trip"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best museum in Hangzhou for first-time visitors?"
     answer: "For many first-time visitors, Hangzhou Museum is the best default answer because it is central and easy to combine with the old core or a rainy-day backup. China National Tea Museum is often better if tea culture genuinely matters to your version of Hangzhou."

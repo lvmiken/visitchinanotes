@@ -32,7 +32,7 @@ tags:
   - "Reservations"
   - "East China"
   - "Trip planning"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Do travelers need to prebook a lot for East China?"
     answer: "Usually not. East China works best when travelers protect the few reservations that truly shape the route, such as key hotels, fixed train segments, or a Disney day, and leave the rest flexible."

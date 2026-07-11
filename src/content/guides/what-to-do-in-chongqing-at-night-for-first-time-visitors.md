@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should first-time visitors do in Chongqing at night?"
     answer: "For many first-time visitors, the strongest evening choices are one Jiefangbei and Hongyadong skyline night, one Two Rivers cruise or Nanbin Road scenic evening, and one Guanyinqiao or 9th Street food-and-nightlife block if the trip has enough energy."

@@ -35,7 +35,7 @@ tags:
   - "Chongqing"
   - "9th Street"
   - "Nightlife"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is 9th Street worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, only if the trip truly wants one later nightlife-led evening. It usually works best after the classic skyline and easier dinner layers already are covered."

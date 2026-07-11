@@ -35,7 +35,7 @@ tags:
   - "Hong Kong"
   - "Victoria Harbour"
   - "Night views"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Victoria Harbour worth it on a first trip to Hong Kong?"
     answer: "For many first-time visitors, absolutely yes. The more useful question is usually not whether to go, but which harbour experience should carry your best skyline window."

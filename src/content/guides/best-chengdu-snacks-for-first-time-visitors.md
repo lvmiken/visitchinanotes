@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Snacks"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What snacks should first-time visitors try in Chengdu?"
     answer: "Many first-time visitors do best with one savory classic such as Long Chao Shou or Zhong dumplings, one optional softer item such as bean curd jelly, and one sweet finish such as Lai Tangyuan or San Da Pao instead of trying to sample everything in one day."

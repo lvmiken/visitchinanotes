@@ -1,0 +1,15 @@
+{
+  "name": "Ethan Zhao",
+  "entityType": "person",
+  "role": "Routes Editor",
+  "shortBio": "Maintains multi-city route, pairing, comparison, and itinerary-shape coverage across the publication.",
+  "fullBio": "Ethan Zhao is the routes editor at China Travel Notes. He focuses on multi-city route planning, destination pairings, itinerary architecture, and the logic that helps readers decide not only where to go, but in what order and at what pace. His work is especially concerned with avoiding overbuilt first trips.",
+  "expertise": [
+    "Multi-city route design",
+    "Destination comparisons and pairings",
+    "Trip pacing and itinerary architecture"
+  ],
+  "reviewProcess": "Ethan reviews pages for route coherence, transfer burden, realistic pacing, and whether a multi-city plan still feels edited rather than merely possible on paper.",
+  "seoTitle": "Ethan Zhao | China Travel Notes",
+  "seoDescription": "Read multi-city route planning and comparison guides by Ethan Zhao at China Travel Notes."
+}

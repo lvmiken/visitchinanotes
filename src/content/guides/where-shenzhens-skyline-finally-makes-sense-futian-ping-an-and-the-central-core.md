@@ -24,7 +24,7 @@ tags:
   - "Ping An Finance Center"
   - "Skyline"
   - "CBD"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Futian worth visiting on a first trip to Shenzhen?"
     answer: "Usually yes. For many first-time visitors, Futian is the cleanest way to understand Shenzhen's central core, especially when the trip needs one easy modern-city day with skyline, transit, and dinner logic all working together."

@@ -31,7 +31,7 @@ tags:
   - "West Kowloon"
   - "Waterfront"
   - "Arts district"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is West Kowloon Cultural District worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially as a calmer waterfront and arts-led branch after the city's main skyline layer already is protected."

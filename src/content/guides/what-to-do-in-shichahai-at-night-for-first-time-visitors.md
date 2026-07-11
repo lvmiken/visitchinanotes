@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Night"
   - "Shichahai"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Shichahai worth visiting at night on a first Beijing trip?"
     answer: "Usually yes if you want one softer lakeside old-city evening. It is especially useful for a walk, a relaxed dinner, Yandai Xiejie, and casual bars, but it is usually weaker than Qianmen if you want the trip's most iconic historic-core night."

@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Food"
   - "Restaurants"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best restaurant in Chengdu for first-time visitors?"
     answer: "There usually is not one single best restaurant. Most first-time visitors do better by choosing one classic Sichuan dinner, one hot pot or chuanchuan meal, and one easier noodle or casual meal that fits the day's area and energy."

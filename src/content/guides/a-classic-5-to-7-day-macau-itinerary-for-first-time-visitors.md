@@ -30,7 +30,7 @@ heroImageAlt: "Macau Peninsula at night with Grand Lisboa and surrounding city l
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_Center_of_Macau_Peninsula_Night_View.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is 5 days enough for Macau?"
     answer: "Yes, if you want a slower Macau on purpose. Five days is enough to give the heritage core, Taipa, one Cotai or entertainment layer, and one calmer Coloane or skyline branch proper space without turning the stay into filler."

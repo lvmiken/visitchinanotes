@@ -26,7 +26,7 @@ tags:
   - "Xi'an"
   - "Grand Tang Dynasty Everbright City"
   - "Night"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "How should first-time visitors do Grand Tang Dynasty Everbright City at night?"
     answer: "For many first-time visitors, the strongest version is dinner first, one controlled after-dark walk second, and then a clean exit before the area becomes a long crowd-management night."

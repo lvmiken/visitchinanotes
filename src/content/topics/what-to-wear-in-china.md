@@ -33,7 +33,7 @@ tags:
   - "Packing"
   - "Season planning"
   - "China travel basics"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What should tourists wear in China?"
     answer: "Most tourists do well with comfortable walking clothes, layers, and season-appropriate shoes. The exact answer changes a lot between cities such as Beijing, Shanghai, Guangzhou, Chengdu, and Xi'an."

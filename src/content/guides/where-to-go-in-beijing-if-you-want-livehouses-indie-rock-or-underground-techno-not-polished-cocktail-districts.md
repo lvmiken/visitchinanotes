@@ -29,7 +29,7 @@ tags:
   - "Live music"
   - "Techno"
   - "Indie rock"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Does Beijing have good livehouses or underground nightlife for foreign travelers?"
     answer: "Usually yes. Beijing is one of the strongest Chinese cities for travelers who care about livehouses, indie rock, punk, and smaller underground-style electronic rooms, but the right night depends heavily on the same-week lineup."

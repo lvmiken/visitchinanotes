@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Food"
   - "Souvenirs"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What food souvenir should I buy in Hangzhou?"
     answer: "For many first-time visitors, the safest useful answer is one good Longjing tea purchase, plus at most one shareable packaged sweet or snack from a long-running local brand such as Zhiweiguan."

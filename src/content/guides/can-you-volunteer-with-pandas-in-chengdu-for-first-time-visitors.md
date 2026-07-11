@@ -23,7 +23,7 @@ tags:
   - "Panda base"
   - "Volunteer"
   - "Planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Can tourists volunteer with pandas in Chengdu?"
     answer: "Usually not in the way most short-term visitors mean. The Panda Base's official volunteer route is a formal popular-science volunteer program with application requirements, training, and ongoing service expectations, not a quick same-day add-on."

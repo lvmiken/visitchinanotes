@@ -37,7 +37,7 @@ tags:
   - "Chongqing"
   - "China Three Gorges Museum"
   - "Museum"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is the China Three Gorges Museum worth visiting on a first Chongqing trip?"
     answer: "For many first-time visitors, yes, especially if the trip needs one indoor cultural block on a rainy day or on a fuller 3-day version of Chongqing. It matters less on a very short skyline-and-food-focused stop."

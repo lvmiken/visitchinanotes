@@ -29,7 +29,7 @@ tags:
   - "Panda base"
   - "Itinerary"
   - "Afternoon planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should first-time visitors do after Chengdu Panda Base?"
     answer: "For many first-time visitors, the strongest answer is an easy central lunch around Chunxi Road or Taikoo Li, then either a lighter walk, a tea break, or one simple evening instead of another heavy attraction."

@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Dumplings"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What are the best dumplings in Beijing for first-time visitors?"
     answer: "For many first-time visitors, the best Beijing dumpling answer depends on the job the meal needs to do: Bao Yuan for a dedicated dumpling meal, Du Yi Chu for a time-honored Qianmen-friendly shaomai stop, Liu Ma Ma for a stronger east-Beijing specialist meal, and Beef & Dumplings for a simpler casual beef-and-dumpling lunch."

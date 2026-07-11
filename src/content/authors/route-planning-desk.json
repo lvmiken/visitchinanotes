@@ -1,0 +1,15 @@
+{
+  "name": "Route Planning Desk",
+  "entityType": "organization",
+  "role": "Cross-Country Planning Desk",
+  "shortBio": "Maintains cross-city itinerary, route-shaping, city-comparison, and trip-pacing coverage for travelers planning China as a whole.",
+  "fullBio": "The Route Planning Desk maintains cross-country planning coverage across China Travel Notes. Its focus is helping readers choose better city combinations, trip lengths, route order, and pacing before individual hotel areas, tickets, or attraction details start to matter.",
+  "expertise": [
+    "China itinerary design",
+    "City comparison and route fit",
+    "Trip pacing and route tradeoffs"
+  ],
+  "reviewProcess": "Pages are reviewed for route logic, trip realism, and whether the advice still reflects workable city combinations, timing, and traveler priorities.",
+  "seoTitle": "Route Planning Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains itinerary, route-planning, and cross-city comparison coverage on China Travel Notes."
+}

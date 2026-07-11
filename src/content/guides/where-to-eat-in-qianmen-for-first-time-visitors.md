@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Qianmen"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Qianmen worth it for food on a first Beijing trip?"
     answer: "Usually yes, especially if you want one evening that feels unmistakably tied to old Beijing. It works best as one protected food-and-walk block rather than a place to cram in too many famous stops."

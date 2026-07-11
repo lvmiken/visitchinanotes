@@ -24,7 +24,7 @@ tags:
   - "Night"
   - "Itinerary planning"
   - "Coastal city"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What should first-time visitors do in Qingdao at night?"
     answer: "For many first-time visitors, the strongest Qingdao evening is either one eastern waterfront night around May Fourth Square and the Olympic Sailing Center, one old-core Zhongshan Road and Pichaiyuan snack-and-walk night, or one selective beer-and-seafood evening depending on hotel base and energy."

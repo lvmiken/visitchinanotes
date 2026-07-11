@@ -23,7 +23,7 @@ tags:
   - "Guangzhou"
   - "Food"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What is the best area to eat in Guangzhou for first-time visitors?"
     answer: "For many first-time visitors, the best area depends on the day. Beijing Road is usually the easiest central answer, Yongqing Fang and Liwan are stronger for one slower old-Guangzhou food block, and the Pearl River or Canton Tower side make more sense when dinner is supporting a skyline night."

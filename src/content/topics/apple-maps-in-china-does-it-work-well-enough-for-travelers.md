@@ -25,7 +25,7 @@ tags:
   - "Apps"
   - "Maps"
   - "China travel basics"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Does Apple Maps work in China for foreign travelers?"
     answer: "Yes, for many travelers it does. Apple's current iPhone support material confirms standard Maps use, spoken-directions settings, and offline-map support."

@@ -27,7 +27,7 @@ heroImageAlt: "Daytime panorama of Futian in Shenzhen with the Ping An Finance C
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_panorama_of_Futian_Shenzhen.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Shenzhen worth visiting for first-time travelers?"
     answer: "Yes, especially if the route already includes Hong Kong or Guangzhou and you want a short, modern mainland city stop. Shenzhen is usually stronger as a practical urban add-on than as a long standalone first city."

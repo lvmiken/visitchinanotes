@@ -23,7 +23,7 @@ tags:
   - "Macau"
   - "Trip length"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "How many days do first-time visitors need in Macau?"
     answer: "For many first-time visitors, 1 to 2 days is enough. One day works for a selective heritage-and-food stop, while 2 days gives Macau a much better balance between the historic center, Taipa or Cotai, and one slower evening."

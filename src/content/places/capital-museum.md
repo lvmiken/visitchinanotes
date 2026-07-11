@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Capital Museum"
   - "Museum"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Capital Museum worth visiting on a first Beijing trip?"
     answer: "Often yes, especially for travelers who want one meaningful museum without the scale or intensity of Beijing's biggest museum days."

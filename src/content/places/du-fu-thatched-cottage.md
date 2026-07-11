@@ -36,7 +36,7 @@ tags:
   - "Chengdu"
   - "Du Fu Thatched Cottage"
   - "Museum"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Du Fu Thatched Cottage worth visiting in Chengdu?"
     answer: "Usually yes, especially if your Chengdu trip needs one calmer literary and garden-style stop. It is often more useful as a thoughtful supporting block than as a major must-see headline."

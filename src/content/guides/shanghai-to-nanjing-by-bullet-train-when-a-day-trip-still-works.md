@@ -28,7 +28,7 @@ tags:
   - "Shanghai"
   - "Bullet train"
   - "Day trip"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can you do Nanjing as a day trip from Shanghai?"
     answer: "Yes, but it works best as a selective first taste: one major history anchor and one carefully chosen second layer rather than a full Nanjing checklist."

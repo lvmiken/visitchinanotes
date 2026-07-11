@@ -3,38 +3,58 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import AuthorCard from "../../components/AuthorCard.astro";
-import { getAuthorSlug } from "../../lib/authors";
+import { getAuthorSlug, resolveAuthorEntry } from "../../lib/authors";
 
 const authors = await getCollection("authors");
 const guides = await getCollection("guides", ({ data }) => !data.draft);
 const topics = await getCollection("topics", ({ data }) => !data.draft);
+const places = await getCollection("places", ({ data }) => !data.draft);
+const specialistDeskIds = new Set([
+  "route-planning-desk",
+  "travel-readiness-desk",
+  "entry-and-visa-desk",
+  "family-travel-desk",
+  "transport-and-payments-desk",
+]);
 
 const authorSummaries = authors.map((author) => {
   const articleCount =
-    guides.filter((guide) => guide.data.author === author.data.name).length +
-    topics.filter((topic) => topic.data.author === author.data.name).length;
+    guides.filter((guide) => resolveAuthorEntry(authors, guide)?.id === author.id).length +
+    topics.filter((topic) => resolveAuthorEntry(authors, topic)?.id === author.id).length +
+    places.filter((place) => resolveAuthorEntry(authors, place)?.id === author.id).length;
 
   return {
     author,
     articleCount,
     href: `/authors/${getAuthorSlug(author)}/`,
   };
-});
+}).sort((a, b) => b.articleCount - a.articleCount);
+
+const editors = authorSummaries
+  .filter(({ author }) => author.data.entityType === "person")
+  .sort((a, b) => b.articleCount - a.articleCount);
+const desks = authorSummaries
+  .filter(({ author }) => author.data.entityType === "organization")
+  .sort((a, b) => b.articleCount - a.articleCount);
+const cityDeskCount = desks.filter(({ author }) => !specialistDeskIds.has(author.id) && author.id !== "editorial-team").length;
+const specialistDeskCount = desks.filter(({ author }) => specialistDeskIds.has(author.id)).length;
+const totalMaintainedPages = guides.length + topics.length + places.length;
 ---
 
 <BaseLayout
-  title="Authors | China Travel Notes"
-  description="Meet the editorial authors behind China Travel Notes and browse the travel planning pages they maintain."
-  noindex={true}
+  title="Editors and Desks | China Travel Notes"
+  description="Meet the editors and editorial desks behind China Travel Notes and browse the destination, route, and trip-planning pages they maintain."
+  showAds={false}
 >
   <section class="split-hero">
     <article class="hero article">
-      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Authors" }]} />
-      <p class="eyebrow">Authors</p>
-      <h1>See who reviews the travel planning advice on this site.</h1>
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Editorial Team" }]} />
+      <p class="eyebrow">Editorial Team</p>
+      <h1>See which editors and desks maintain the travel planning advice on this site.</h1>
       <p>
-        Author pages make it easier to understand who is publishing the advice, what kind of planning expertise they
-        focus on, and how content is reviewed before it goes live.
+        Public editor and desk profiles make it easier to understand which part of the editorial team maintains a page,
+        what planning expertise that person or desk covers, and how destination and trip-planning content is reviewed
+        before it is updated or published.
       </p>
     </article>
 
@@ -44,17 +64,55 @@ const authorSummaries = authors.map((author) => {
         <h3>Trust grows when editorial responsibility is visible.</h3>
       </div>
       <ul class="mini-list">
-        <li>Readers can see who stands behind route and planning advice.</li>
+        <li>Readers can see which desk stands behind city, route, and planning advice.</li>
         <li>Updated content looks more intentional when editorial ownership is clear.</li>
-        <li>Future contributors can be added without changing article templates.</li>
+        <li>City coverage and cross-country topics can be maintained by different teams.</li>
       </ul>
     </aside>
   </section>
 
   <section class="section-block">
-    <h2 class="section-title">Editorial Authors</h2>
+    <h2 class="section-title">Desk Network At A Glance</h2>
+    <div class="feature-grid">
+      <article class="card-surface">
+        <p class="eyebrow">Coverage</p>
+        <h3>{authorSummaries.length} public editorial profiles</h3>
+        <p>Readers can inspect named editors and institutional desks behind city pages, route-planning pages, and practical trip-preparation coverage.</p>
+      </article>
+      <article class="card-surface">
+        <p class="eyebrow">Structure</p>
+        <h3>{editors.length} editors, {cityDeskCount} city desks, and {specialistDeskCount} specialist desks</h3>
+        <p>Named editor bylines and desk-level review structure now work together instead of collapsing into one anonymous author layer.</p>
+      </article>
+      <article class="card-surface">
+        <p class="eyebrow">Published Scope</p>
+        <h3>{totalMaintainedPages} maintained pages</h3>
+        <p>Desk pages connect published guides, topics, and place pages back to a visible editorial owner.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Editorial Shape</p>
+    <h2 class="section-title">How coverage is divided</h2>
+    <ul class="mini-list">
+      <li>Named editors carry public bylines across city, route, and practical planning coverage.</li>
+      <li>Editorial desks still define review lanes for destinations, route planning, travel readiness, entry questions, family planning, and transport basics.</li>
+      <li>Public profiles make corrections, reviews, and content ownership easier to understand from the reader side of the site.</li>
+    </ul>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Staff Editors</h2>
     <div class="grid two">
-      {authorSummaries.map(({ author, articleCount }) => <AuthorCard author={author} articleCount={articleCount} />)}
+      {editors.map(({ author, articleCount }) => <AuthorCard author={author} articleCount={articleCount} />)}
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">Editorial Desks</h2>
+    <div class="grid two">
+      {desks.map(({ author, articleCount }) => <AuthorCard author={author} articleCount={articleCount} />)}
     </div>
   </section>
 </BaseLayout>

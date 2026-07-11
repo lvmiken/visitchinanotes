@@ -29,7 +29,7 @@ heroImageAlt: "Night skyline of Hong Kong around Victoria Harbour."
 heroImageAttributionName: "Benh LIEU SONG (Flickr)"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Hong_Kong_Harbour_Night_2019-06-11.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What is the best area to stay in Hong Kong for first-time visitors?"
     answer: "For many first-time visitors, the best area to stay in Hong Kong is a central MTR-friendly base in Tsim Sha Tsui, Central, or Sheung Wan because those areas keep skyline access, neighborhood walking, and daily transport straightforward."

@@ -22,7 +22,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "Breakfast"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where should first-time visitors eat breakfast in Shanghai?"
     answer: "Many first-time visitors do best with one local breakfast around People's Square or Huanghe Road, or one more everyday breakfast in an older neighborhood near a metro stop or wet market, depending on whether the day is convenience-led or culture-led."

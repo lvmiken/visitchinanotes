@@ -27,7 +27,7 @@ heroImageLicense: "CC BY 3.0"
 tags:
   - "Suzhou"
   - "Canal street"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Pingjiang Road worth visiting in Suzhou?"
     answer: "Usually yes. For many first-time visitors it is the city's most useful canal-street and old-city atmosphere block, especially when paired with Suzhou Museum or used in the evening."

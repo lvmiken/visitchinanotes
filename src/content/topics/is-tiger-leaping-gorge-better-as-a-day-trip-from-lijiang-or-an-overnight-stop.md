@@ -24,7 +24,7 @@ tags:
   - "Tiger Leaping Gorge"
   - "Route planning"
   - "Day trip"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can you do Tiger Leaping Gorge as a day trip from Lijiang?"
     answer: "Yes, but usually only as a scenic or selective version. Travelers who want a true hiking memory often find the one-day Lijiang-based version thinner than they expected."

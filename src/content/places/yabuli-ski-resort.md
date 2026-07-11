@@ -30,7 +30,7 @@ tags:
   - "Ski resort"
   - "Winter travel"
   - "Day trip"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Yabuli Ski Resort worth visiting from Harbin?"
     answer: "Usually yes only when skiing or snowboarding is a real trip priority. For many first-time visitors who mainly want Harbin's winter-city identity, Yabuli is less useful than keeping more time in Harbin itself."

@@ -36,7 +36,7 @@ tags:
   - "Chengdu"
   - "Wenshu Monastery"
   - "Temple"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Wenshu Monastery worth visiting in Chengdu?"
     answer: "Usually yes, especially if your trip needs one calmer cultural and tea-friendly block. It is often more useful as a reflective supporting stop than as a major headline attraction."

@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Hanfu"
   - "Night"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Hanfu at Everbright City worth it in Xi'an?"
     answer: "Often yes if the pagoda-side night already belongs in your route and you want one immersive memory. It is less worth forcing on the shortest Xi'an trips or when the evening needs to stay simple."

@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should tourists do in Chongqing on a rainy day?"
     answer: "For many first-time visitors, the best move is to protect anything that is hard to replace, shrink the worst outdoor blocks, then pivot toward one strong indoor cultural stop, one easier meal district, or one shorter skyline evening if the weather improves."

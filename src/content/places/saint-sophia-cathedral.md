@@ -32,7 +32,7 @@ tags:
   - "Saint Sophia Cathedral"
   - "Architecture"
   - "City landmark"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Saint Sophia Cathedral worth visiting in Harbin?"
     answer: "Usually yes, but mainly as a shorter landmark stop. For many first-time visitors, it is strongest when paired with Zhongyang Street or another central-city block rather than treated as a whole-day priority."

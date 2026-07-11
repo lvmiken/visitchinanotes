@@ -28,7 +28,7 @@ tags:
   - "Tang Paradise"
   - "Night"
   - "Comparison"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Grand Tang Dynasty Everbright City or Tang Paradise better for first-time visitors?"
     answer: "For many first-time visitors, Everbright City is the easier scenic-night default because it is open-air and simpler to drop into. Tang Paradise is better when the evening itself should feel more like a dedicated event."

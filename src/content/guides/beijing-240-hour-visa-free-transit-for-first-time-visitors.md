@@ -19,7 +19,7 @@ tags:
   - "Beijing"
   - "Visa-free transit"
   - "Trip planning"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is Beijing worth using for a 240-hour visa-free transit stop?"
     answer: "Yes for many travelers, especially if the stop is built around central imperial sights, one Great Wall day, and a realistic pace rather than an overloaded city checklist."

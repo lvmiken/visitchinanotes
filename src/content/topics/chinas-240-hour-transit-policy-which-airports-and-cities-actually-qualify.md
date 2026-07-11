@@ -35,7 +35,7 @@ tags:
   - "Visa"
   - "Transit"
   - "Airports"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Does China's 240-hour transit policy work through any airport?"
     answer: "No. It only works through designated ports inside the current official policy framework."

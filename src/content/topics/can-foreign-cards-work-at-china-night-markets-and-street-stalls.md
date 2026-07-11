@@ -35,7 +35,7 @@ tags:
   - "Night markets"
   - "Street food"
   - "China travel basics"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Can tourists use foreign bank cards directly at China night markets?"
     answer: "Sometimes at larger fixed merchants, but usually that is not the safe assumption for small stalls. Most travelers should expect mobile wallets and some cash to matter more."

@@ -27,7 +27,7 @@ heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Suzhou"
   - "Garden"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Which garden should first-time visitors prioritize in Suzhou?"
     answer: "For many first-time visitors, Humble Administrator's Garden is the clearest first choice because it gives the strongest classical-garden anchor on a short trip."

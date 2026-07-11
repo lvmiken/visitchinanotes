@@ -22,7 +22,7 @@ tags:
   - "Yangshuo"
   - "2 days"
   - "Itinerary"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is 2 days enough for Guilin and Yangshuo?"
     answer: "Usually yes for a first short version, as long as the trip protects one real scenic anchor and uses Yangshuo as the softer overnight or town layer instead of trying to give everything equal weight."

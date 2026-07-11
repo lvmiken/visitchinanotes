@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Forbidden City"
   - "Palace Museum"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is the Forbidden City worth it for first-time visitors?"
     answer: "Yes. For many first-time Beijing trips, it is one of the clearest anchor sights because it gives the strongest sense of imperial Beijing and fits naturally with the central historical core."

@@ -37,7 +37,7 @@ tags:
   - "Chongqing"
   - "Chongqing Natural History Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Chongqing Natural History Museum worth visiting on a first trip?"
     answer: "Sometimes yes, especially for families and readers who genuinely enjoy natural-science museums. For many short first-time Chongqing trips, it is more of a longer-stay option than a default priority."

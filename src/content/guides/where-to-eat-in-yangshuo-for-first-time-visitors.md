@@ -24,7 +24,7 @@ tags:
   - "Food"
   - "West Street"
   - "Xingping"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What is the best area to eat in Yangshuo for first-time visitors?"
     answer: "For many first-time visitors, the best area depends on the day. West Street is usually the easiest dinner and evening answer, while Yulong-side or countryside meals work better when they support a calmer scenic half day."

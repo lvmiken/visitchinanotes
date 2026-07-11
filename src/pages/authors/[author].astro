@@ -4,7 +4,8 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import Breadcrumbs from "../../components/Breadcrumbs.astro";
 import GuideCard from "../../components/GuideCard.astro";
 import TopicCard from "../../components/TopicCard.astro";
-import { getAuthorSlug } from "../../lib/authors";
+import PlaceCard from "../../components/PlaceCard.astro";
+import { getAuthorSlug, resolveAuthorEntry } from "../../lib/authors";
 
 export async function getStaticPaths() {
   const authors = await getCollection("authors");
@@ -16,11 +17,15 @@ export async function getStaticPaths() {
 }
 
 const { author } = Astro.props;
+const authors = await getCollection("authors");
 const guides = (await getCollection("guides", ({ data }) => !data.draft)).filter(
-  (guide) => guide.data.author === author.data.name,
+  (guide) => resolveAuthorEntry(authors, guide)?.id === author.id,
 );
 const topics = (await getCollection("topics", ({ data }) => !data.draft)).filter(
-  (topic) => topic.data.author === author.data.name,
+  (topic) => resolveAuthorEntry(authors, topic)?.id === author.id,
+);
+const places = (await getCollection("places", ({ data }) => !data.draft)).filter(
+  (place) => resolveAuthorEntry(authors, place)?.id === author.id,
 );
 const pageSchemas = [
   {
@@ -36,7 +41,7 @@ const pageSchemas = [
       {
         "@type": "ListItem",
         position: 2,
-        name: "Authors",
+        name: "Editorial Team",
         item: new URL("/authors/", Astro.site ?? new URL(Astro.url.origin)).href,
       },
       {
@@ -47,19 +52,26 @@ const pageSchemas = [
       },
     ],
   },
+  {
+    "@context": "https://schema.org",
+    "@type": author.data.entityType === "organization" ? "Organization" : "Person",
+    name: author.data.name,
+    description: author.data.fullBio,
+    url: new URL(Astro.url.pathname, Astro.site ?? new URL(Astro.url.origin)).href,
+  },
 ];
 ---
 
 <BaseLayout
   title={author.data.seoTitle}
   description={author.data.seoDescription}
-  noindex={true}
   schema={pageSchemas}
+  showAds={false}
 >
   <section class="split-hero">
     <article class="hero article">
-      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Authors", href: "/authors/" }, { label: author.data.name }]} />
-      <p class="eyebrow">Author Profile</p>
+      <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Editorial Team", href: "/authors/" }, { label: author.data.name }]} />
+      <p class="eyebrow">{author.data.entityType === "organization" ? "Editorial Desk" : "Editor Profile"}</p>
       <h1>{author.data.name}</h1>
       <p>{author.data.fullBio}</p>
       <div class="pill-row">
@@ -75,18 +87,19 @@ const pageSchemas = [
       <p class="muted">{author.data.reviewProcess}</p>
       <p><strong>Published guides:</strong> {guides.length}</p>
       <p><strong>Published topics:</strong> {topics.length}</p>
+      <p><strong>Published place pages:</strong> {places.length}</p>
     </aside>
   </section>
 
   <section class="section-block card-surface">
-    <p class="eyebrow">How This Author Reviews Content</p>
+    <p class="eyebrow">{author.data.entityType === "organization" ? "How This Desk Reviews Content" : "How This Editor Reviews Content"}</p>
     <h2 class="section-title">Editorial Review Note</h2>
     <p>{author.data.reviewProcess}</p>
   </section>
 
   {guides.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Guides By {author.data.name}</h2>
+      <h2 class="section-title">{author.data.entityType === "organization" ? `Guides Maintained By ${author.data.name}` : `Guides By ${author.data.name}`}</h2>
       <div class="grid two">
         {guides.map((guide) => <GuideCard guide={guide} />)}
       </div>
@@ -95,9 +108,18 @@ const pageSchemas = [
 
   {topics.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Topics By {author.data.name}</h2>
+      <h2 class="section-title">{author.data.entityType === "organization" ? `Topics Maintained By ${author.data.name}` : `Topics By ${author.data.name}`}</h2>
       <div class="grid two">
         {topics.map((topic) => <TopicCard topic={topic} />)}
+      </div>
+    </section>
+  )}
+
+  {places.length > 0 && (
+    <section class="section-block">
+      <h2 class="section-title">{author.data.entityType === "organization" ? `Place Pages Maintained By ${author.data.name}` : `Places Covered By ${author.data.name}`}</h2>
+      <div class="grid two">
+        {places.slice(0, 8).map((place) => <PlaceCard place={place} />)}
       </div>
     </section>
   )}

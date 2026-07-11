@@ -21,7 +21,7 @@ tags:
   - "Yulong River"
   - "Xingping"
   - "Comparison"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Should first-time visitors choose Yulong River or Xingping?"
     answer: "Choose Xingping for stronger classic Li River imagery and the 20 RMB geography, and choose Yulong River for a gentler countryside half day that feels softer and easier."

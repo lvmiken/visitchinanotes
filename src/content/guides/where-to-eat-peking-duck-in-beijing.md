@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Peking duck"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat Peking duck in Beijing?"
     answer: "For many first-time visitors, the best answer depends on the day. Quanjude often suits a classic Qianmen-style first meal, Siji Minfu works well when the meal needs to stay close to central sightseeing, and Da Dong is often the cleaner choice for a more polished modern dinner."

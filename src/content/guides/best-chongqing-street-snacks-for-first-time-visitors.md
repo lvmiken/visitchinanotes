@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Street food"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What street snacks should first-time visitors try in Chongqing?"
     answer: "Many first-time visitors do best with one or two savory snacks such as potato snacks, skewers, or smaller hot bites, plus one dessert or take-away item such as tangyuan or mahua instead of trying to sample everything in one evening."

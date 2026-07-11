@@ -32,7 +32,7 @@ tags:
   - "Beer Street"
   - "Night"
   - "Food"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Dengzhou Road Beer Street worth visiting in Qingdao?"
     answer: "Usually yes if beer culture genuinely interests you and the trip already has one stronger coastal evening secured. It is usually less essential than Qingdao's first waterfront or scenic branch."

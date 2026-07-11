@@ -16,32 +16,87 @@ const groupedTopics = topicMoments
     topics: topics.filter((topic) => topic.data.planningMoment === moment.id),
   }))
   .filter((group) => group.topics.length > 0);
+
+const editorialStartSlugs = [
+  "china-visa-basics",
+  "what-apps-you-need-for-a-china-trip",
+  "how-to-pay-in-china",
+  "high-speed-rail",
+];
+const editorialStarts = editorialStartSlugs.flatMap((slug) => topics.filter((topic) => topic.slug === slug).slice(0, 1));
 ---
 
 <BaseLayout
   title="China Trip Topics | Planning Basics for International Travelers"
   description="Practical topic pages for payments, transport, trip planning, and other China travel basics."
+  showAds={false}
 >
-  <section class="hero article">
-    <p class="eyebrow">Topic Index</p>
-    <h1>Read these basics at the moment they become useful, not after they turn into trip stress.</h1>
-    <p>
-      These pages cover the practical questions many travelers ask first, from choosing a manageable route to sorting
-      out payments and understanding how transport will actually feel.
-    </p>
+  <section class="split-hero">
+    <div class="hero article">
+      <p class="eyebrow">Topic Index</p>
+      <h1>Read these basics at the moment they become useful, not after they turn into trip stress.</h1>
+      <p>
+        These pages cover the practical questions many travelers ask first, from choosing a manageable route to
+        sorting out payments and understanding how transport will actually feel.
+      </p>
+      <div class="button-row">
+        <a class="button-link primary" href="#editors-start-here">Start with the editor picks</a>
+        <a class="button-link secondary" href="/guides/">Browse destination guides</a>
+      </div>
+    </div>
+
+    <aside class="card-surface stack">
+      <div>
+        <p class="eyebrow">How To Use This Desk</p>
+        <h3>Use topics to solve the planning problems that can derail an otherwise good route.</h3>
+      </div>
+      <ul class="mini-list">
+        <li>Start with route-shaping basics if you still are not sure which cities fit together.</li>
+        <li>Move to payments, apps, and arrival prep before flights and hotels are fully locked in.</li>
+        <li>Finish with transport and reservation topics once the route is nearly ready to book.</li>
+      </ul>
+    </aside>
   </section>
 
   <section class="section-block">
     <h2 class="section-title">Topic Hubs</h2>
-    <p class="muted">Start with these larger topic silos if you want to solve one planning area end to end instead of jumping between isolated articles.</p>
+    <p class="muted">
+      Start with these larger topic silos if you want to solve one planning area end to end instead of jumping between
+      isolated articles.
+    </p>
     <div class="grid two">
       {topicClusters.map((cluster) => <TopicClusterCard cluster={cluster} />)}
     </div>
   </section>
 
+  {editorialStarts.length > 0 && (
+    <section class="section-block">
+      <p class="eyebrow">Editors&apos; Starting Set</p>
+      <h2 class="section-title" id="editors-start-here">The shortest high-value reading path for most first China trips starts here.</h2>
+      <div class="grid two">
+        {editorialStarts.map((topic) => <TopicCard topic={topic} />)}
+      </div>
+    </section>
+  )}
+
+  <section class="section-block card-surface">
+    <p class="eyebrow">Reading Order</p>
+    <h2 class="section-title">The desk groups these topics in the same order most trips start getting complicated.</h2>
+    <div class="feature-grid">
+      {groupedTopics.map((group) => (
+        <article class="card-surface">
+          <p class="eyebrow">{group.topics.length} topic pages</p>
+          <h3>{group.label}</h3>
+          <p class="muted">{group.description}</p>
+          <a href={`#${group.id}`}>Jump to this section</a>
+        </article>
+      ))}
+    </div>
+  </section>
+
   <section class="section-block stack">
     {groupedTopics.map((group) => (
-      <section class="card-surface">
+      <section class="card-surface" id={group.id}>
         <h2 class="section-title">{group.label}</h2>
         <p class="muted">{group.description}</p>
         <div class="grid two">

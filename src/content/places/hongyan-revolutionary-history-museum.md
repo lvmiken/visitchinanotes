@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Hongyan Revolutionary History Museum"
   - "Museums"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Hongyan Revolutionary History Museum worth visiting on a first trip to Chongqing?"
     answer: "Sometimes yes, especially if wartime and revolutionary history genuinely interests you. For many first-time visitors it is more of a specialist add-on than a default top priority."

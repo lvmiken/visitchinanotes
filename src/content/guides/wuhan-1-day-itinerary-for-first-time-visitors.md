@@ -23,7 +23,7 @@ tags:
   - "Wuhan"
   - "1 day"
   - "Itinerary"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is one day enough for Wuhan?"
     answer: "Yes, if the day is built selectively. One day is enough for a worthwhile first Wuhan stop when you protect breakfast, keep the daytime block coherent, and avoid turning the city into a cross-river checklist."

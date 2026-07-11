@@ -54,7 +54,7 @@ const choices = [
 <BaseLayout
   title="Privacy | China Travel Notes"
   description="Read how China Travel Notes handles form submissions, cookies, analytics, advertising, and third-party services, including how Google may use cookies to serve and measure ads."
-  noindex={true}
+  showAds={false}
 >
   <section class="split-hero">
     <article class="hero article">
@@ -171,12 +171,20 @@ const choices = [
         </article>
       ))}
     </div>
+    <div class="button-row">
+      <button class="button-link secondary" type="button" data-open-privacy-settings>Privacy & cookie settings</button>
+      <a class="button-link secondary" href="/contact/">Privacy contact</a>
+    </div>
     <p>
       For ad-supported pages, visitors may also review{" "}
       <a href="https://youradchoices.com/" rel="noopener noreferrer" target="_blank">
         YourAdChoices
       </a>{" "}
       for additional information about interest-based advertising controls from participating companies.
+    </p>
+    <p class="muted">
+      If Google&apos;s consent message is active for this site, visitors can reopen privacy and cookie choices from the
+      site footer or the control above instead of seeing a separate site-run cookie banner.
     </p>
   </section>
 
@@ -205,7 +213,7 @@ const choices = [
     <h2 class="section-title">Questions About Privacy</h2>
     <p>
       If there are questions about how this site handles personal information, cookies, or advertising-related data,
-      use the contact details provided elsewhere on the site so the request can be reviewed and answered.
+      use the <a href="/contact/">contact page</a> so the request can be reviewed and answered.
     </p>
   </section>
 </BaseLayout>

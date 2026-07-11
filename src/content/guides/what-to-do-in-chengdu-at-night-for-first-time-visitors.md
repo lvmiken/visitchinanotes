@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should first-time visitors do in Chengdu at night?"
     answer: "For many first-time visitors, the strongest evening choices are one old-street dinner and walk around Jinli, one central shopping and dinner night around Chunxi Road or Taikoo Li, one livelier Jiuyanqiao or Yulin evening, or one slower teahouse or Sichuan opera night."

@@ -24,7 +24,7 @@ tags:
   - "Hangzhou"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What are the best things to do in Hangzhou for first-time visitors?"
     answer: "For many first-time visitors, the best things to do in Hangzhou are one real West Lake block, one selective supporting layer such as Lingyin Temple or Longjing Village, and only then one lighter add-on such as Hefang Street, Leifeng Pagoda, Broken Bridge, or Xixi Wetland depending on trip length."

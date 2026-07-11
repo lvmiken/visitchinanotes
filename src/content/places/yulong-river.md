@@ -33,7 +33,7 @@ tags:
   - "Yangshuo"
   - "Yulong River"
   - "Countryside"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Yulong River worth it in Yangshuo?"
     answer: "Usually yes, especially if your Yangshuo stop wants one calm countryside half day and the route already has enough iconic river identity elsewhere."

@@ -27,7 +27,7 @@ heroImageAlt: "Aerial night view of Chongqing's Yuzhong skyline framed by the ri
 heroImageAttributionName: "Jonipoon"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg"
 heroImageLicense: "CC BY 3.0"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is three days enough for Chongqing?"
     answer: "Yes. Three days is enough for a strong first Chongqing stay if you keep the route centered on one central skyline layer, one real food-and-evening layer, and one lighter day that does not turn into too many extra transfers."

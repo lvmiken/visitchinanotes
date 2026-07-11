@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Hefang Street"
   - "West Lake"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors stay near Hefang Street or the east side of West Lake?"
     answer: "For many first-time visitors, the east side of West Lake is the stronger default because it keeps Hangzhou's main scenic day and easier evenings more natural. Hefang Street is better when old-street atmosphere and a more urban base matter enough to outweigh that."

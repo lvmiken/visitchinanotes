@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Museums"
   - "Comparison"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Should first-time visitors choose Chengdu Museum or Sichuan Museum?"
     answer: "For many first-time visitors, Chengdu Museum is the better default because it is central and easier to fit into a short trip. Sichuan Museum is better when the route already wants a fuller west-side cultural day and broader provincial-history coverage."

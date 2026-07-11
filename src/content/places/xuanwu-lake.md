@@ -31,7 +31,7 @@ tags:
   - "Nanjing"
   - "Lake"
   - "Scenic"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Xuanwu Lake worth visiting in Nanjing?"
     answer: "Often yes as a lighter scenic stop, especially if your Nanjing plan is getting too heavy with museums, palaces, and memorial layers. It is less essential on the most compressed first trip."

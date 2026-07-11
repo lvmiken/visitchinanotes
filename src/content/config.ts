@@ -53,6 +53,7 @@ const guides = defineCollection({
     ...heroImageMetaSchema,
     author: z.string(),
     draft: z.boolean().default(false),
+    noindex: z.boolean().default(false),
     faq: faqSchema.default([]),
   }),
 });
@@ -101,6 +102,7 @@ const topics = defineCollection({
     ...heroImageMetaSchema,
     author: z.string(),
     draft: z.boolean().default(false),
+    noindex: z.boolean().default(false),
     faq: faqSchema.default([]),
   }),
 });
@@ -123,6 +125,7 @@ const places = defineCollection({
     ...heroImageMetaSchema,
     author: z.string(),
     draft: z.boolean().default(false),
+    noindex: z.boolean().default(false),
     faq: faqSchema.default([]),
   }),
 });

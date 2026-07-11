@@ -24,7 +24,7 @@ tags:
   - "Shanghai Disneyland"
   - "Apps"
   - "Family travel"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Do you need the Shanghai Disneyland app?"
     answer: "For most first-time visitors, yes. Shanghai Disney's official pages currently point to the app for ticket bookings, wait times, maps, trip planning, and some same-day services such as Disney Standby Pass or Disney Premier Access."

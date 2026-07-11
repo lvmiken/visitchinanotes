@@ -24,7 +24,7 @@ tags:
   - "Day trips"
   - "Side trips"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best day trip from Chengdu for first-time visitors?"
     answer: "For many first-time visitors, the strongest all-around answer is Dujiangyan with or without Qingcheng Mountain, because it gives the trip real heritage value plus a greener change of pace without needing a longer multi-day detour."

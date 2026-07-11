@@ -29,7 +29,7 @@ tags:
   - "Seafood"
   - "Yunxiao Road"
   - "Minjiang Road"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Yunxiao Road or Minjiang Road better for first-time visitors in Qingdao?"
     answer: "For many first-time visitors, Yunxiao Road is the safer default because it usually gives one easier first seafood-and-beer dinner with less overthinking. Minjiang Road can be better if you want a broader dinner zone and a slightly more stretched-out evening."

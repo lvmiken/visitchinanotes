@@ -24,7 +24,7 @@ tags:
   - "Sanya"
   - "Duty-free shopping"
   - "Trip planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can foreigners buy Hainan duty-free goods?"
     answer: "Yes. Current official Hainan guidance says foreign travelers can buy offshore duty-free goods if they are at least 18, have valid passports, and have purchased departure tickets by plane, train, or ship leaving Hainan."

@@ -32,7 +32,7 @@ tags:
   - "Payments"
   - "WeChat Pay"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Can foreign tourists use WeChat Pay in China?"
     answer: "Often yes. Many tourists can link international bank cards and use WeChat Pay for merchant payments, but setup quality and real-world reliability still vary by account, bank, and situation."

@@ -27,7 +27,7 @@ tags:
   - "Trip planning"
   - "Shanxi"
   - "Ancient architecture"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Shanxi worth visiting for first-time travelers to China?"
     answer: "Yes, especially for travelers who care about architecture, older layers of Chinese history, and a route that feels more textured than a standard top-four city circuit."

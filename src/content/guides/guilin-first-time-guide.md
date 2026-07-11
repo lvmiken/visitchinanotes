@@ -21,7 +21,7 @@ tags:
   - "Guilin"
   - "First trip"
   - "Scenic China"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Guilin worth visiting on a first trip to China?"
     answer: "Usually yes if your route wants classic river-and-karst scenery. Guilin is strongest when it anchors a short Guilin-and-Yangshuo scenic chapter rather than a long city-only stay."

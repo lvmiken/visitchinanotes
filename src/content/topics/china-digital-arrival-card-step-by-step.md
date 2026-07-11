@@ -34,7 +34,7 @@ tags:
   - "Arrival"
   - "Visa"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Do foreigners need to fill in China's digital arrival card before entering?"
     answer: "Many do, but not everyone. Several categories are currently exempt, including some direct-transit passengers, some group-visa travelers, and travelers entering through the e-channel."

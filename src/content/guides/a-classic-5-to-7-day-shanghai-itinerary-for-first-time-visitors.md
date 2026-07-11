@@ -30,7 +30,7 @@ heroImageAlt: "Shanghai skyline at night seen from the North Bund with the Orien
 heroImageAttributionName: "David Zhang from Canada"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Pudong_CBD_viewed_from_the_North_Bund_in_Shanghai.jpg"
 heroImageLicense: "CC BY-SA 2.0"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is 5 days enough for Shanghai?"
     answer: "Yes. Five days is enough for a strong first Shanghai trip if you protect one skyline day, one French Concession day, one museum or old-core day, and one deeper modern-city day."

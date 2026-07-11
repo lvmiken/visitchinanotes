@@ -23,7 +23,7 @@ tags:
   - "Great Wall"
   - "Mutianyu"
   - "Badaling"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Mutianyu or Badaling better for first-time visitors?"
     answer: "For many first-time foreign visitors, Mutianyu is the better default because it often gives a smoother overall Wall day. Badaling becomes stronger when the classic fame-first version matters more than choosing the calmer all-around recommendation."

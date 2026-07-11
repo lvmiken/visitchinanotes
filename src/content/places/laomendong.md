@@ -26,7 +26,7 @@ heroImageLicense: "CC BY-SA 4.0"
 tags:
   - "Nanjing"
   - "Old street"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Laomendong worth visiting in Nanjing?"
     answer: "Usually yes as a softer old-city block, especially when paired with the Qinhuai side or used to balance a history-heavy day."

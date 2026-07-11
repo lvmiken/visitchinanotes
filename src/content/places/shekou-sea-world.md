@@ -36,7 +36,7 @@ tags:
   - "Shenzhen"
   - "Shekou Sea World"
   - "Nightlife"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Shekou Sea World worth visiting on a first trip to Shenzhen?"
     answer: "For many first-time visitors, yes, especially if the trip wants one easy west-side dinner-and-walk night with bars, restaurants, and a more relaxed waterfront mood than central Shenzhen."

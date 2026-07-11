@@ -23,7 +23,7 @@ tags:
   - "Guilin"
   - "Trip length"
   - "Yangshuo"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "How many days do first-time visitors need in Guilin?"
     answer: "For many first-time visitors, 2 days works best because it gives the Guilin region enough room for one real scenic anchor and a Yangshuo decision without forcing too much into one day."

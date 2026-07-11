@@ -35,7 +35,7 @@ tags:
   - "Chengdu"
   - "Qingyang Palace"
   - "Temple"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Qingyang Palace worth visiting in Chengdu?"
     answer: "Usually yes if your Chengdu trip wants one quieter Taoist and reflective cultural stop. It is often most useful as a supporting block rather than as one of the city's biggest headline priorities."

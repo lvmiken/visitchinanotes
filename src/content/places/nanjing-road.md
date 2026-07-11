@@ -35,7 +35,7 @@ tags:
   - "Shanghai"
   - "Nanjing Road"
   - "Shopping"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Nanjing Road worth visiting in Shanghai?"
     answer: "Usually yes as a central commercial and walking block, especially if it naturally fits a Bund or central-hotel day. It is usually less worth treating like a major stand-alone attraction."

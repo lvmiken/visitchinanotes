@@ -38,7 +38,7 @@ tags:
   - "Shanghai"
   - "Shanghai Disneyland"
   - "Theme park"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shanghai Disneyland worth it for first-time visitors?"
     answer: "Usually yes for families, Disney-interested adults, teens, and mixed-age groups that want one major full-day attraction. It is often less useful on a short adult-first city break that already is full with skyline, neighborhoods, food, and nightlife."

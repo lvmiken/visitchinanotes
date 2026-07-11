@@ -23,7 +23,7 @@ tags:
   - "Hutong"
   - "Rickshaw"
   - "Scams"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Are Beijing hutong rickshaw tours worth it?"
     answer: "Often yes when the group wants easier pacing or commentary, but they are usually less necessary for confident walkers who already have a good hutong route."

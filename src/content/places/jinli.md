@@ -36,7 +36,7 @@ tags:
   - "Chengdu"
   - "Jinli"
   - "Old street"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Jinli worth visiting in Chengdu?"
     answer: "Usually yes, especially if you want one traditional-core walk or an easier evening continuation after Wuhou Shrine. It is often best used as a shorter supporting stop rather than a headline attraction."

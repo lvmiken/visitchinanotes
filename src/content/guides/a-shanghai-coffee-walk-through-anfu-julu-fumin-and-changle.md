@@ -28,7 +28,7 @@ tags:
   - "Coffee"
   - "French Concession"
   - "City walk"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What is the best coffee walk in Shanghai for first-time visitors?"
     answer: "For many first-time visitors, the strongest version starts around Wukang or Anfu Road, then uses only part of Julu, Fumin, and Changle as needed instead of trying to finish every fashionable street in one go."

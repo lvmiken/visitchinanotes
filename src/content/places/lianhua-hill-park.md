@@ -31,7 +31,7 @@ tags:
   - "Futian"
   - "Lianhua Hill Park"
   - "Skyline"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Lianhua Hill Park worth visiting in Shenzhen?"
     answer: "For many first-time visitors, yes, especially if the trip wants one easy overview of Futian and the central skyline before dropping into the commercial grid below."

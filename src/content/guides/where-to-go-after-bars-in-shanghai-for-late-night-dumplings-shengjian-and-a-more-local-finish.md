@@ -23,7 +23,7 @@ tags:
   - "Food"
   - "Night"
   - "Late night"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Where should first-time visitors eat after bars in Shanghai?"
     answer: "For many first-time visitors, the best answer depends on the night you already had. After French Concession bars, one smaller carb stop is often enough, while a more central Nanjing Road or hotel-side finish may be stronger if the group is already tired."

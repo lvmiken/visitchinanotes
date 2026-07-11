@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "West Lake"
   - "Night views"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best area to stay in Hangzhou for West Lake night views?"
     answer: "For many first-time visitors, the best area is the east side of West Lake around Hubin, because it keeps the easiest night walk, dining, and classic lake atmosphere close without creating the same tradeoffs as a deeper scenic-side hotel."

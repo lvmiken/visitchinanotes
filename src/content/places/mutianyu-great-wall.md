@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Great Wall"
   - "Mutianyu"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Mutianyu the best Great Wall section for first-time visitors?"
     answer: "For many first-time travelers, yes. It is often the most balanced choice when the goal is a strong Wall day without adding unnecessary friction."

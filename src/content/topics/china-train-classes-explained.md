@@ -34,7 +34,7 @@ tags:
   - "High-speed rail"
   - "Seat classes"
   - "Train booking"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is second class on China high-speed rail good enough for tourists?"
     answer: "Usually yes. For many first-time travelers, second class is a very reasonable default on shorter or moderate daytime journeys."

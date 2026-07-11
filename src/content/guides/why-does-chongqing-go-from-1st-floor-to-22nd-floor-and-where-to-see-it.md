@@ -23,7 +23,7 @@ tags:
   - "Vertical city"
   - "8D city"
   - "Urban travel"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Why does Chongqing go from the 1st floor to the 22nd floor?"
     answer: "Because Chongqing is built over steep hills and stacked road levels, so one side of a building can meet one street level while another side connects to a much higher or lower one."

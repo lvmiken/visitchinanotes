@@ -23,7 +23,7 @@ tags:
   - "Lingyin Temple"
   - "Longjing Village"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Lingyin Temple or Longjing Village better for first-time visitors?"
     answer: "For many first-time visitors, Lingyin Temple is better if the trip wants one clearer historical and spiritual branch, while Longjing Village is better if the trip wants tea-country scenery and a softer slower second day."

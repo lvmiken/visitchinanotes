@@ -36,7 +36,7 @@ tags:
   - "Visa"
   - "Transit"
   - "China travel basics"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is China's old 144-hour visa-free transit still the right thing to search for?"
     answer: "Many travelers still search that phrase, but the current policy travelers usually mean is the 240-hour visa-free transit policy. You should always verify the current official rules rather than relying on older 144-hour articles."

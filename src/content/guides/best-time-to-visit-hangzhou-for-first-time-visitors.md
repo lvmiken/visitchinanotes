@@ -23,7 +23,7 @@ tags:
   - "Hangzhou"
   - "Season planning"
   - "First trip"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What is the best month to visit Hangzhou?"
     answer: "For many first-time visitors, April, May, October, and November are especially easy months because West Lake walking, tea pauses, and slower scenic days usually feel more comfortable."

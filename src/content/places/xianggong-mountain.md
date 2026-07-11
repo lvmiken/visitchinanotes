@@ -29,7 +29,7 @@ tags:
   - "Xingping"
   - "Li River"
   - "Sunrise"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Xianggong Mountain worth it from Yangshuo?"
     answer: "Usually yes if your trip wants one elevated Li River panorama and the group is willing to protect an early start. It is less essential if you already have enough river scenery and do not enjoy sunrise-driven logistics."

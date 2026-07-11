@@ -23,7 +23,7 @@ tags:
   - "Hangzhou"
   - "Reservations"
   - "Planning"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should tourists book in advance for Hangzhou?"
     answer: "For many first-time visitors, the most important Hangzhou advance items are the hotel during busy dates, any fixed onward train, and any high-demand attraction or museum branch that is truly non-negotiable on the exact travel dates."

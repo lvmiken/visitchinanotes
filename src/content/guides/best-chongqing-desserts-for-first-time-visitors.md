@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Dessert"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What desserts should first-time visitors try in Chongqing?"
     answer: "Many first-time visitors do best with one warm dessert such as Shancheng tangyuan, one cooling dessert such as lianggao or liangxia in hot weather, and one take-away local sweet such as Ciqikou mahua rather than chasing too many sweets in one trip."

@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Hotpot"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Beijing hotpot worth it for first-time visitors?"
     answer: "Usually yes. For many first-time visitors, Beijing instant-boiled mutton or copper hotpot is the best second signature meal after Peking duck because it feels clearly local, warming, and easier to fit into a real evening."

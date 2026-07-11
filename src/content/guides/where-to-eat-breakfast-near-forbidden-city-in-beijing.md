@@ -3,6 +3,7 @@ title: "Where to Eat Breakfast Near the Forbidden City in Beijing"
 description: "Decide whether to use hotel breakfast, Wangfujing, or Qianmen before a Forbidden City day, and learn when an old-Beijing breakfast actually helps instead of making the morning harder."
 publishDate: 2026-06-23
 updatedDate: 2026-06-23
+noindex: true
 city: "beijing"
 guideStage: "build-itinerary"
 tripLength: "1 breakfast"
@@ -23,7 +24,7 @@ tags:
   - "Food"
   - "Forbidden City"
   - "Breakfast"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat breakfast before the Forbidden City?"
     answer: "Most first-time visitors do best with hotel breakfast or a simple central breakfast in Wangfujing. Qianmen only becomes the better answer when the morning is intentionally slower and breakfast itself is part of the experience."

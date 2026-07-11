@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Xiaomian"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best xiaomian in Chongqing for first-time visitors?"
     answer: "For many first-time visitors, the best Chongqing xiaomian is the bowl that fits the day: Zhengdong Dandan Noodles for a classic breakfast answer, Bandengmian for an old-school local-feeling bowl, and route-specific picks like Kaibantian Zhu'erduo, Sanjie Mao'er Mian, or Shuashua Mian when those neighborhoods already match the itinerary."

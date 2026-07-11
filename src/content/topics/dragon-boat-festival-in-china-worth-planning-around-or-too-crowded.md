@@ -25,7 +25,7 @@ tags:
   - "Dragon Boat Festival"
   - "Season planning"
   - "Trip planning"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Dragon Boat Festival a good time to visit China?"
     answer: "It can be, especially if the route already suits early summer and the festival improves a city you wanted anyway. It is weaker when the holiday itself is the only reason the dates were chosen."

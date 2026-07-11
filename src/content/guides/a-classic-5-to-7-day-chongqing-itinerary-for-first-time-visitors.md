@@ -30,7 +30,7 @@ heroImageAlt: "Aerial night view of Chongqing's Yuzhong skyline framed by the ri
 heroImageAttributionName: "Jonipoon"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Chongqing_Night_Yuzhong.jpg"
 heroImageLicense: "CC BY 3.0"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is 5 days enough for Chongqing?"
     answer: "Yes. Five days is enough for a rich first Chongqing trip if you protect one skyline day, one stronger evening district, one vertical-city day, and one lighter cultural or scenic layer."

@@ -22,7 +22,7 @@ tags:
   - "Hangzhou"
   - "Tea"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Where should first-time visitors drink tea in Hangzhou?"
     answer: "For many first-time visitors, the easiest answer is one tea pause near West Lake or Hubin, while the more distinctive answer is a real Longjing-side tea session if the route has enough time."

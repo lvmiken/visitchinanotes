@@ -29,7 +29,7 @@ tags:
   - "Liwan"
   - "Shamian"
   - "Half day"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Can you do Liwan, Yongqing Fang, and Shamian in one half day in Guangzhou?"
     answer: "Yes, but for many first-time visitors the strongest version is selective: either Yongqing Fang plus Shamian, or Liwan plus Yongqing Fang plus one meal stop. Trying to give all three equal weight usually weakens the afternoon."

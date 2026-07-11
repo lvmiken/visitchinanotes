@@ -24,7 +24,7 @@ tags:
   - "Transport"
   - "Metro"
   - "Coastal city"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is Qingdao easy to get around for tourists?"
     answer: "Usually yes. Qingdao is easiest when metro handles the bigger city moves, walking stays inside one coherent district at a time, and taxi or Didi cleans up the awkward edges."

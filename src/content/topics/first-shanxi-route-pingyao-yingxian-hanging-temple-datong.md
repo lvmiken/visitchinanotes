@@ -25,7 +25,7 @@ tags:
   - "Trip planning"
   - "Shanxi"
   - "Route building"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best first Shanxi itinerary?"
     answer: "For many first-time visitors, the strongest Shanxi itinerary starts in Pingyao, ends in Datong, and treats Yingxian Wood Pagoda plus the Hanging Temple as the connective bridge rather than as separate overnights."

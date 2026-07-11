@@ -22,7 +22,7 @@ tags:
   - "First stop"
   - "Route planning"
 ogImage: "/og/custom/beijing-first-stop-guide.svg"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors start in Beijing or somewhere easier?"
     answer: "Start in Beijing if history, landmarks, and a strong cultural first impression matter most. Choose a softer first stop only if you care more about a gentler urban learning curve than about Beijing's flagship sights."

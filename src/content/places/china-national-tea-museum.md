@@ -36,7 +36,7 @@ tags:
   - "China National Tea Museum"
   - "Tea"
   - "Museum"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is China National Tea Museum worth visiting in Hangzhou?"
     answer: "Usually yes if your Hangzhou trip wants tea explained more clearly and has room for one calmer west-of-West-Lake cultural branch. It is often most useful as a supporting half day, not as the city's main headline stop."

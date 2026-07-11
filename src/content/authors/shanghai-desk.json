@@ -1,0 +1,15 @@
+{
+  "name": "Shanghai Editorial Desk",
+  "entityType": "organization",
+  "role": "Shanghai City Desk",
+  "shortBio": "Maintains Shanghai coverage with a focus on neighborhood fit, skyline planning, hotel areas, and smoother city pacing.",
+  "fullBio": "The Shanghai Editorial Desk maintains guides, place pages, and planning coverage related to Shanghai. Its focus is helping readers use the city's neighborhoods well, balance Bund and French Concession priorities, choose practical hotel areas, and avoid repetitive skyline-heavy days.",
+  "expertise": [
+    "Shanghai neighborhood planning",
+    "Hotel-area selection",
+    "Skyline, dining, and route pacing"
+  ],
+  "reviewProcess": "Pages are reviewed for neighborhood logic, hotel-area clarity, dining and skyline tradeoffs, and whether the advice still matches current Shanghai travel patterns.",
+  "seoTitle": "Shanghai Editorial Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains Shanghai guides, place pages, and planning coverage on China Travel Notes."
+}

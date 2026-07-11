@@ -24,7 +24,7 @@ tags:
   - "Reservations"
   - "Planning"
   - "South China"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What should first-time visitors book in advance for Hong Kong?"
     answer: "For many first-time visitors, the main Hong Kong advance items are the right hotel area during your dates, any fixed airport or onward rail link, Disneyland if it is a real trip anchor, and only those Peak, Ngong Ping, cruise, or special dinner plans that would genuinely disappoint you if missed."

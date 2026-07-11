@@ -13,19 +13,47 @@ const nonPromises = [
   "This site does not replace visa, airline, rail, or hotel official rules.",
   "A partner introduction only happens when the traveler asks for human booking support.",
 ];
+
+const deskTypes = [
+  {
+    title: "City editorial desks",
+    description: "Major destination coverage can be maintained by city-specific desks that focus on local route shape, districts, hotel areas, and places worth planning around.",
+  },
+  {
+    title: "Route planning desk",
+    description: "National route, itinerary, and city-comparison pages can be reviewed separately from local city coverage so broader planning advice stays coherent.",
+  },
+  {
+    title: "Transport and payments desk",
+    description: "Airport, rail, payment, and booking-basics pages can be maintained by a desk that focuses on practical trip mechanics rather than destination storytelling.",
+  },
+  {
+    title: "Travel readiness desk",
+    description: "App setup, packing, daily-use preparation, food constraints, and everyday first-trip readiness can be reviewed by a desk focused on low-friction execution.",
+  },
+  {
+    title: "Entry and visa desk",
+    description: "Rule-sensitive pages about transit eligibility, re-entry logic, and entry preparation can be reviewed by a desk that treats official confirmation as part of the workflow.",
+  },
+  {
+    title: "Family travel desk",
+    description: "Cross-city family pages can be reviewed by a desk that focuses on pace, age fit, and whether a plan still works when children change the shape of the day.",
+  },
+];
 ---
 
 <BaseLayout
   title="About China Travel Notes | What This Site Is For"
   description="Learn who China Travel Notes is for, how to use the site, and what kind of trip-planning help it does and does not provide."
+  showAds={false}
 >
   <section class="split-hero">
     <article class="hero article">
       <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "About" }]} />
       <p class="eyebrow">About</p>
-      <h1>A practical travel-planning site for people visiting China for the first time.</h1>
+      <h1>An editorial travel-planning publication focused on making China trips easier to shape.</h1>
       <p>
-        China Travel Notes is built for travelers who want a smoother first trip to China, especially when the biggest
+        China Travel Notes is built for travelers who want a smoother trip to China, especially when the biggest
         questions are route shape, city fit, transport logic, hotel area choice, and day-one basics.
       </p>
     </article>
@@ -38,7 +66,7 @@ const nonPromises = [
       <ul class="mini-list">
         <li>First-time visitors comparing cities and routes.</li>
         <li>Travelers who want practical basics in plain English.</li>
-        <li>People who may want human booking help later, but not from the first click.</li>
+        <li>Readers who want destination and trip-planning coverage to feel edited, not dumped into one generic content bucket.</li>
       </ul>
     </aside>
   </section>
@@ -72,6 +100,22 @@ const nonPromises = [
         <h3>Use guides for the final shape</h3>
         <p>Open itinerary and where-to-stay guides once the route already feels broadly right.</p>
       </article>
+    </div>
+  </section>
+
+  <section class="section-block">
+    <h2 class="section-title">How The Editorial Team Is Structured</h2>
+    <div class="feature-grid">
+      {deskTypes.map((item) => (
+        <article class="card-surface">
+          <h3>{item.title}</h3>
+          <p>{item.description}</p>
+        </article>
+      ))}
+    </div>
+    <div class="button-row">
+      <a class="button-link secondary" href="/masthead/">View masthead</a>
+      <a class="button-link secondary" href="/authors/">Browse editors and desks</a>
     </div>
   </section>
 

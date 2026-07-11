@@ -22,7 +22,7 @@ tags:
   - "Nanjing"
   - "City wall"
   - "Cycling"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Can you cycle on the Nanjing City Wall?"
     answer: "On the parts where cycling is allowed and operating arrangements support it, yes, but most first-time visitors should think in terms of one useful section rather than a grand all-wall ambition."

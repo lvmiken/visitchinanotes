@@ -32,7 +32,7 @@ tags:
   - "Packing"
   - "China travel basics"
   - "First trip"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What should first-time visitors pack for China?"
     answer: "The essentials are a valid passport, payment and phone setup, comfortable walking gear, charging equipment, and a bag that still works on train and airport days. The exact clothing mix depends on season and city."

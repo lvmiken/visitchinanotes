@@ -32,7 +32,7 @@ tags:
   - "Beijing"
   - "Beihai Park"
   - "Central Beijing"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Beihai Park worth visiting on a first Beijing trip?"
     answer: "Often yes, especially if the trip needs one calmer central stop that adds atmosphere and walking without the pressure of another giant landmark block."

@@ -23,7 +23,7 @@ tags:
   - "Bars"
   - "Nightlife"
   - "South China"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Where should first-time visitors go for bars in Guangzhou?"
     answer: "For many first-time visitors, Beijing Road is the easiest all-around answer, Canton Tower or Zhujiang New Town is stronger for polished skyline drinks, and Taikoo Cang is better when the night should feel more riverside and drinks-led."

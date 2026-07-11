@@ -36,7 +36,7 @@ tags:
   - "Chongqing"
   - "Hongyadong"
   - "Night views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Hongyadong worth visiting for first-time visitors to Chongqing?"
     answer: "For many first-time visitors, yes. Hongyadong is one of the easiest ways to get the classic Chongqing skyline payoff, especially on a short trip, as long as you treat it as one strong evening block instead of the whole city."

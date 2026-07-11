@@ -34,7 +34,7 @@ tags:
   - "Shanghai"
   - "Jade Buddha Temple"
   - "Temple"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Jade Buddha Temple worth visiting in Shanghai?"
     answer: "Usually yes if your Shanghai trip wants one quieter temple or reflective cultural stop. It is often most useful as a supporting block rather than as one of the city's biggest headline priorities."

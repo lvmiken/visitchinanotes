@@ -23,7 +23,7 @@ tags:
   - "Suzhou"
   - "Nanjing"
   - "Transport"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What is the best order for Shanghai, Hangzhou, Suzhou, and Nanjing?"
     answer: "For many first-time visitors, Shanghai first and Nanjing last is the strongest frame. Hangzhou usually works best before Suzhou, while Nanjing often provides the better close."

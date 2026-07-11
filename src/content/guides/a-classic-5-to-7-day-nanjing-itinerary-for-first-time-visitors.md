@@ -30,7 +30,7 @@ heroImageAlt: "Daytime view of the Qinhuai River in Nanjing with traditional riv
 heroImageAttributionName: "钉钉"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Qinhuai_River_in_Fuzi_Miao,_Nanjing.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is 5 days enough for Nanjing?"
     answer: "Yes. Five days is enough for a rich first Nanjing trip if you separate the city's heavier historical layers, protect one real old-city evening, and give Purple Mountain or the wall their own clear day instead of stacking everything together."

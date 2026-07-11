@@ -23,7 +23,7 @@ tags:
   - "Shanghai Tower"
   - "J Hotel"
   - "Observation deck"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the Top of Shanghai Observatory worth it?"
     answer: "Usually yes when you want one premium paid skyline view and visibility is strong enough to reward it. For many first-time visitors it is the clearest Shanghai Tower purchase."

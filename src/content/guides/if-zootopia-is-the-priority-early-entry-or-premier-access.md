@@ -27,7 +27,7 @@ tags:
   - "Shanghai Disneyland"
   - "Zootopia"
   - "Tickets"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "If Zootopia is my main priority, should I buy Early Park Entry or Premier Access?"
     answer: "For many first-time visitors, Premier Access is the more direct Zootopia tool because it protects a specific queue. Early Park Entry can still help the morning overall, but Shanghai Disney's official information currently says it does not cover early access to the Zootopia-themed land."

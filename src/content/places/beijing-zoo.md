@@ -33,7 +33,7 @@ tags:
   - "Beijing"
   - "Beijing Zoo"
   - "Family travel"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Beijing Zoo worth visiting on a first Beijing trip?"
     answer: "Often yes for families, panda-focused visitors, and travelers who want an easier animal-focused outing, but it is usually not a higher first-trip priority than Beijing's main historical anchors."

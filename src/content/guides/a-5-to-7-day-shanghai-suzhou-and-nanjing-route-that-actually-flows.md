@@ -22,7 +22,7 @@ tags:
   - "Suzhou"
   - "Nanjing"
   - "Itinerary"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is 5 days enough for Shanghai, Suzhou, and Nanjing?"
     answer: "Yes, but only as a selective version. Five days works best when Suzhou stays tight and Shanghai and Nanjing keep the main city weight."

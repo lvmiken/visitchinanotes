@@ -28,7 +28,7 @@ tags:
   - "Shanghai"
   - "Bullet train"
   - "Train vs flight"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is the Beijing-to-Shanghai bullet train better than flying?"
     answer: "For many first-time visitors, yes. The train often creates a smoother central-to-central day, while flights can still win if the wider route is already shaped around airports or a same-day international connection."

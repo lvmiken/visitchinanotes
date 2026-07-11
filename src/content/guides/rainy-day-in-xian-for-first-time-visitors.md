@@ -22,7 +22,7 @@ tags:
   - "Xi'an"
   - "Rainy day"
   - "Planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "What should tourists do in Xi'an on a rainy day?"
     answer: "For many first-time visitors, the best move is to keep any hard-to-replace booking that still makes sense, then shift the rest of the day toward one indoor museum block, one lighter cultural museum, or a simpler food-and-evening route."

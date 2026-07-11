@@ -23,7 +23,7 @@ tags:
   - "Temple of Heaven"
   - "Summer Palace"
   - "Comparison"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors choose Temple of Heaven or Summer Palace?"
     answer: "Temple of Heaven is often the better compact answer on a shorter trip, while Summer Palace is stronger when you have time for one broader scenic-imperial day."

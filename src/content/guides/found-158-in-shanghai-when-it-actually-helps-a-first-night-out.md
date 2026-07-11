@@ -27,7 +27,7 @@ tags:
   - "Nightlife"
   - "FOUND158"
   - "Bars"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is FOUND158 worth it for first-time visitors in Shanghai?"
     answer: "Usually yes when the night should be social, easy, and open-ended rather than elegant. It is less useful if you want one refined cocktail night or a more neighborhood-led Shanghai evening."

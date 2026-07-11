@@ -35,7 +35,7 @@ tags:
   - "Transport"
   - "High-speed rail"
   - "Flights"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "Is high-speed rail better than flying in China?"
     answer: "Often yes between well-connected major cities, but the better option depends on the full travel day, the hotel locations, and how much friction the route can absorb."

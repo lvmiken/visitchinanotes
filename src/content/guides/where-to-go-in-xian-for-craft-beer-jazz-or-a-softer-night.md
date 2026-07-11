@@ -3,6 +3,7 @@ title: "Where to Go in Xi'an for Craft Beer, Jazz, or a Softer Night"
 description: "Use this Xi'an nightlife guide if you want craft beer, jazz, live music, or one softer adult evening instead of a busier old-city crawl or scenic Qujiang push."
 publishDate: 2026-07-04
 updatedDate: 2026-07-04
+noindex: true
 city: "xian"
 guideStage: "build-itinerary"
 tripLength: "1 evening"
@@ -27,7 +28,7 @@ tags:
   - "Craft beer"
   - "Jazz"
   - "Bars"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Xi'an good for craft beer or a softer nightlife night?"
     answer: "Usually yes. Xi'an is often strongest for a softer nightlife branch when the night should become one real dinner, one good drink, and one easier stop point instead of a loud crawl."

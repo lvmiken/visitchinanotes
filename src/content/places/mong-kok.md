@@ -32,7 +32,7 @@ tags:
   - "Mong Kok"
   - "Neighborhoods"
   - "Shopping"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Mong Kok worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially if the trip wants one denser Kowloon district for market streets, shopping, snacks, and street-level city energy after the skyline layer is already covered."

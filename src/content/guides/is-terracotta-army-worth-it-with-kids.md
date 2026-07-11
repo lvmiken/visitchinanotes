@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Terracotta Army"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "Is the Terracotta Army good for kids?"
     answer: "Usually yes. The Terracotta Army works well for many kids because the scale is obvious, the story is easy to understand at a high level, and the outing feels like a real headline China experience."

@@ -23,7 +23,7 @@ tags:
   - "Xi'an"
   - "Family travel"
   - "Food"
-author: "Editorial Team"
+author: "Marcus He"
 faq:
   - question: "What is the best area to eat in Xi'an with kids?"
     answer: "For many first-time families, the safest answer is around South Gate or Bell Tower because the area makes sightseeing, meals, and tired returns easier. The Muslim Quarter works better as one selective snack block, while the pagoda side is often stronger on a fuller third day."

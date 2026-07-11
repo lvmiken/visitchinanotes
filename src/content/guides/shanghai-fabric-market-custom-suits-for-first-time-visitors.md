@@ -24,7 +24,7 @@ tags:
   - "Shopping"
   - "Custom tailoring"
   - "Fabric market"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the Shanghai fabric market worth visiting for first-time travelers?"
     answer: "Usually yes if you actually want made-to-measure clothing and are willing to give the process one focused shopping block plus pickup time. It is usually less worth it if you only want casual browsing."

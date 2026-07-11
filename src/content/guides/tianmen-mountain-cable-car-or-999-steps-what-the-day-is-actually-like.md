@@ -23,7 +23,7 @@ tags:
   - "Tianmen Mountain"
   - "Cable car"
   - "999 steps"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Should first-time visitors take the Tianmen Mountain cable car?"
     answer: "Usually yes. For many first-time visitors, the cable car is the cleaner, lower-regret way to experience Tianmen's drama without turning the day into too much of a physical test."

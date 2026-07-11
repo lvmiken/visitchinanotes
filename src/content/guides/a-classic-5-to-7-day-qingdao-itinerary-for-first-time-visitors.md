@@ -30,7 +30,7 @@ heroImageAlt: "Zhanqiao Pier in Qingdao reaching toward Huilan Pavilion, with bl
 heroImageAttributionName: "Bridget Coila"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Qingdao_Pier.jpg"
 heroImageLicense: "CC BY-SA 2.0"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is 5 days enough for Qingdao?"
     answer: "Yes. Five days is enough for a rich first Qingdao trip if you separate the old coast, slower scenic districts, eastern waterfront, seafood-and-beer layers, and one real branch such as Laoshan instead of cramming them into two rushed days."

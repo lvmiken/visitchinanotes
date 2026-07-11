@@ -24,7 +24,7 @@ tags:
   - "Zhangjiajie"
   - "Things to do"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "What are the best things to do in Zhangjiajie for first-time visitors?"
     answer: "For many first-time visitors, the best things to do in Zhangjiajie are Zhangjiajie National Forest Park, one selective internal branch such as Yuanjiajie or Golden Whip Stream, Tianmen Mountain if the route has room or needs a cleaner single-day answer, and only then a selective extra such as the Glass Bridge."

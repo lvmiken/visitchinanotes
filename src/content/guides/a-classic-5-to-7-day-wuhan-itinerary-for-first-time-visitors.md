@@ -25,7 +25,7 @@ tags:
   - "6 days"
   - "7 days"
   - "Itinerary"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is 5 days enough for Wuhan?"
     answer: "Yes. Five days is enough for a rich first Wuhan trip if you separate breakfast culture, one symbolic Wuchang layer, one fuller food-and-neighborhood day, and one calmer scenic or cultural branch instead of making the city all transport and catch-up."

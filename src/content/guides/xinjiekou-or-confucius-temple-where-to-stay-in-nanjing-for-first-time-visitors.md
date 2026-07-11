@@ -17,7 +17,7 @@ relatedTopicSlugs:
 tags:
   - "Nanjing"
   - "Hotel comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors stay in Xinjiekou or near Confucius Temple?"
     answer: "Xinjiekou is usually better for central convenience, while Confucius Temple is usually better if you want a stronger old-city and evening feel built into the stay."

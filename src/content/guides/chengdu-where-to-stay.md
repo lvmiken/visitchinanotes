@@ -26,7 +26,7 @@ heroImageAlt: "Anshun Bridge lit up over the Jin River at night in Chengdu."
 heroImageAttributionName: "Daniel Lu (User:dllu)"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Anshun_Bridge_Jin_River_Chengdu_night_2026_dllu.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is central Chengdu a good area for first-time visitors?"
     answer: "Yes. For many first-time visitors, central Chengdu is the strongest default because it keeps metro access, panda-day recovery, food districts, and evening returns much easier."

@@ -29,7 +29,7 @@ heroImageAlt: "Daytime panorama of Futian in Shenzhen with the Ping An Finance C
 heroImageAttributionName: "Charlie fong"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:The_panorama_of_Futian_Shenzhen.jpg"
 heroImageLicense: "CC BY-SA 4.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "What is the best area to stay in Shenzhen for first-time visitors?"
     answer: "For many first-time visitors, the best area to stay in Shenzhen is a metro-friendly base in Futian or Nanshan because those districts keep rail access, modern dining, shopping, and day-to-day movement easy."

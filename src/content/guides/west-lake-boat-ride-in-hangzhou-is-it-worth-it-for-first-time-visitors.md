@@ -23,7 +23,7 @@ tags:
   - "West Lake"
   - "Boat ride"
   - "Scenery"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is a West Lake boat ride worth it for first-time visitors?"
     answer: "Usually yes if the lake day already is secure and you want one calmer scenic perspective from the water. It is usually less important on the shortest first trip if simple walking and broader lake atmosphere still need more space."

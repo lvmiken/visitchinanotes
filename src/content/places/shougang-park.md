@@ -36,7 +36,7 @@ tags:
   - "Industrial heritage"
   - "Urban renewal"
   - "Modern landmarks"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Shougang Park worth visiting on a first trip to Beijing?"
     answer: "Often yes for travelers who want a more design-led and industrial side of Beijing, especially on a longer trip. It is usually less essential for short history-first itineraries."

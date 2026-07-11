@@ -32,7 +32,7 @@ tags:
   - "Pichaiyuan"
   - "Food"
   - "Old town"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Is Pichaiyuan worth visiting in Qingdao?"
     answer: "Usually yes, especially if you want one focused old-core snack-and-walk block after the main coastal layer already makes sense."

@@ -22,7 +22,7 @@ tags:
   - "Wuhan"
   - "Night"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "What should first-time visitors do in Wuhan at night?"
     answer: "For many first-time visitors, the strongest evening choices are one riverfront-and-dinner night, one food-led evening that stays on the same side of the city, or one simpler hotel-side finish when the day already used enough energy."

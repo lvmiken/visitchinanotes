@@ -35,7 +35,7 @@ tags:
   - "Shanghai"
   - "People's Square"
   - "Central Shanghai"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is People's Square worth visiting in Shanghai?"
     answer: "Usually yes, but mostly as a practical central district rather than as a major stand-alone attraction. It often works best when paired with Shanghai Museum, Nanjing Road, or a central hotel base."

@@ -34,7 +34,7 @@ tags:
   - "Xi'an"
   - "Tang Paradise"
   - "Night views"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Is Tang Paradise worth visiting in Xi'an?"
     answer: "Often yes for travelers who want a more atmospheric, evening-friendly Tang-themed stop, especially if the trip has enough room after the Terracotta Army and old city. On the tightest itineraries it is usually optional."

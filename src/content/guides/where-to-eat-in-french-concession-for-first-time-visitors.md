@@ -3,6 +3,7 @@ title: "Where to Eat in the French Concession for First-Time Visitors"
 description: "Use this French Concession food guide to choose between a proper Shanghainese dinner, refined xiaolongbao, a simple noodle stop, or one dinner that naturally rolls into drinks."
 publishDate: 2026-06-23
 updatedDate: 2026-07-05
+noindex: true
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "1 meal or 1 lunch-to-evening block"
@@ -23,7 +24,7 @@ tags:
   - "Shanghai"
   - "Food"
   - "French Concession"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is the French Concession a good area to eat in Shanghai for first-time visitors?"
     answer: "Usually yes. It is one of the best Shanghai districts for a slower lunch, a neighborhood Shanghainese dinner, or a dinner-and-walk evening because food and street atmosphere support each other naturally."

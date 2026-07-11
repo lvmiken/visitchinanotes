@@ -24,7 +24,7 @@ tags:
   - "Qinhuai River"
   - "Night"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors spend the evening in Xinjiekou or by the Qinhuai River?"
     answer: "For many first-time visitors, the Qinhuai River is the stronger classic evening answer. Xinjiekou is often better when the trip needs an easier central dinner night or the day has already used too much energy."

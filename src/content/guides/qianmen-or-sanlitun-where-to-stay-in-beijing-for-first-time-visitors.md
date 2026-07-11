@@ -23,7 +23,7 @@ tags:
   - "Hotels"
   - "Qianmen"
   - "Sanlitun"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Should first-time visitors stay in Qianmen or Sanlitun?"
     answer: "Many first-time visitors do better in Qianmen if they want a central historic-core atmosphere that still works well with classic Beijing sightseeing, while Sanlitun is often better for travelers who want stronger modern dining and nightlife to be part of the hotel decision."

@@ -32,7 +32,7 @@ tags:
   - "Zhangjiajie"
   - "Grand Canyon"
   - "Glass Bridge"
-author: "Editorial Team"
+author: "Olivia Wang"
 faq:
   - question: "Is Zhangjiajie Glass Bridge worth it?"
     answer: "Usually yes only if your trip genuinely wants one thrill-led canyon branch. It is usually less essential than the forest park on a first Zhangjiajie stop."

@@ -32,7 +32,7 @@ tags:
   - "Internet"
   - "eSIM"
   - "China travel basics"
-author: "Editorial Team"
+author: "Jason Liu"
 faq:
   - question: "What is the best eSIM for China in 2026?"
     answer: "For many first-time tourists, a flexible fixed-data plan from providers like Saily, Nomad, or Ubigi is the strongest value. Holafly is often the easier choice for travelers who want unlimited data and do not mind paying more."

@@ -22,7 +22,7 @@ tags:
   - "Chengdu"
   - "Tea culture"
   - "Neighborhoods"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where should you go in Chengdu if you want old tea-house atmosphere beyond People's Park?"
     answer: "For many first-time visitors, the best alternatives are Wenshu-side tea for a calmer central answer or Pengzhen Old Teahouse for a much older and more atmospheric detour that only makes sense if you genuinely care about that texture."

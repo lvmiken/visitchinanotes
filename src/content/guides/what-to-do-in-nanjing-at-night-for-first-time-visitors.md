@@ -17,7 +17,7 @@ relatedTopicSlugs:
 tags:
   - "Nanjing"
   - "Night"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "What should first-time visitors do in Nanjing at night?"
     answer: "Most first-time visitors do best with one evening around Confucius Temple and the Qinhuai River, often with Laomendong as a softer lead-in or extension."

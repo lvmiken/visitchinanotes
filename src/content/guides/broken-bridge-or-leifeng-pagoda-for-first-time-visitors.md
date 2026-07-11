@@ -28,7 +28,7 @@ tags:
   - "Broken Bridge"
   - "Leifeng Pagoda"
   - "Comparison"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors choose Broken Bridge or Leifeng Pagoda?"
     answer: "For many first-time visitors, Broken Bridge is better if you want one lighter symbolic lake scene, while Leifeng Pagoda is better if you want one more structured supporting stop with a clearer viewpoint-style feel."

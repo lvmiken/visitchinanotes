@@ -32,7 +32,7 @@ tags:
   - "Cotai"
   - "Neighborhoods"
   - "Resorts"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Cotai Strip worth visiting on a first trip to Macau?"
     answer: "For many first-time visitors, yes, but usually only as a supporting contrast. Cotai is often worth it when the old core already is secure and the trip wants one polished resort, entertainment, or hotel-comfort layer."

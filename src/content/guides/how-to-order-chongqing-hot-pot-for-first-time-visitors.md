@@ -22,7 +22,7 @@ tags:
   - "Chongqing"
   - "Food"
   - "Hot pot"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What should first-time visitors order at Chongqing hot pot?"
     answer: "Many first-time visitors do best with one manageable broth, a few reliable meat and vegetable dishes, tofu or mushrooms, one starch if needed, and only one or two adventurous items instead of ordering every famous ingredient at once."

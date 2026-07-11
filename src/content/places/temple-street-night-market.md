@@ -36,7 +36,7 @@ tags:
   - "Hong Kong"
   - "Temple Street"
   - "Night Market"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Temple Street Night Market worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially if the trip wants one looser food-and-market evening on the Kowloon side after the main skyline layer is already protected."

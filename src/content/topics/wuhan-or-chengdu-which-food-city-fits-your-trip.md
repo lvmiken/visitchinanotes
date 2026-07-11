@@ -27,7 +27,7 @@ tags:
   - "Destinations"
   - "Food travel"
   - "City comparison"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Is Wuhan or Chengdu better for food-focused first-time visitors to China?"
     answer: "Wuhan is often better when the route wants one sharp breakfast-led stop, while Chengdu is usually better when the trip wants a broader, slower food city with more range across several days."

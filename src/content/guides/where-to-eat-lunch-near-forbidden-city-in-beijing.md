@@ -22,7 +22,7 @@ tags:
   - "Beijing"
   - "Food"
   - "Forbidden City"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Where should first-time visitors eat lunch near the Forbidden City?"
     answer: "For many first-time visitors, Wangfujing is the easiest lunch area after the Forbidden City, while Qianmen is better if the day should continue into an old-core walk or dinner. If the lunch itself should be a protected roast-duck meal, Siji Minfu's Forbidden City branch is one of the clearest answers."

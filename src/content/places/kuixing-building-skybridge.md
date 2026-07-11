@@ -33,7 +33,7 @@ tags:
   - "Chongqing"
   - "Kuixing Building"
   - "Urban views"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is Kuixing Building Skybridge worth visiting in Chongqing?"
     answer: "Usually yes as a short and memorable vertical-city stop, especially if you want one spatially strange Chongqing moment without spending much time."

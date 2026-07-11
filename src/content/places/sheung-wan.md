@@ -32,7 +32,7 @@ tags:
   - "Sheung Wan"
   - "Neighborhoods"
   - "Cafes"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Sheung Wan worth visiting on a first trip to Hong Kong?"
     answer: "For many first-time visitors, yes, especially if the trip wants one calmer Hong Kong Island district with older streets, cafes, food stops, and more local texture after the skyline layer is already covered."

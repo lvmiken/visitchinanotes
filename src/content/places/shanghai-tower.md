@@ -36,7 +36,7 @@ heroImageAlt: "Shanghai Tower rising over the Pudong skyline and Huangpu River a
 heroImageAttributionName: "Wilson Hui from Calgary, Canada"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Shanghai_Skyline_from_the_Bund.jpg"
 heroImageLicense: "CC BY 2.0"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Shanghai Tower worth visiting in Shanghai?"
     answer: "Usually yes if your trip wants the strongest premium skyline view and the weather is clear enough to reward the height. It is usually less important if the trip mainly wants classic city atmosphere or only a short skyline check."

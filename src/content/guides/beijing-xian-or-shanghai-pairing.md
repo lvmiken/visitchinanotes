@@ -24,7 +24,7 @@ tags:
   - "Shanghai"
   - "Route planning"
 ogImage: "/og/custom/beijing-pairing-guide.svg"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Should I pair Beijing with Xi'an or Shanghai on a first trip?"
     answer: "Choose Xi'an if the trip should stay centered on imperial history and archaeology. Choose Shanghai if you want a broader first-China contrast with easier urban pacing after Beijing."

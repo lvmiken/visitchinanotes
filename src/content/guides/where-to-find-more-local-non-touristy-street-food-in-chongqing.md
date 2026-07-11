@@ -24,7 +24,7 @@ tags:
   - "Food"
   - "Street food"
   - "Night markets"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Where can tourists find more authentic street food in Chongqing?"
     answer: "For many first-time visitors, the strongest answer is not one hidden market name. It is usually a well-chosen neighborhood food block such as the wider Jiefangbei-Jiaochangkou core, Guanyinqiao, or one useful hotel-area spillover that still has real local night rhythm."

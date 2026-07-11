@@ -24,7 +24,7 @@ tags:
   - "Day trips"
   - "Side trips"
   - "Itinerary planning"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best day trip from Chongqing for first-time visitors?"
     answer: "For many first-time visitors, Wulong is the strongest extra-day answer because it gives the trip a real nature-and-karst contrast without changing the whole Chongqing stay into a thrill-seeking niche trip."

@@ -18,7 +18,7 @@ relatedTopicSlugs:
 tags:
   - "Suzhou"
   - "Itinerary"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "What should a first-time visitor do in one day in Suzhou?"
     answer: "Most first-time visitors do best with Humble Administrator's Garden, Suzhou Museum, Pingjiang Road, and one selective evening finish rather than trying to force several gardens."

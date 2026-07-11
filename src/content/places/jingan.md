@@ -38,7 +38,7 @@ tags:
   - "Jing'an"
   - "Neighborhoods"
   - "Nightlife"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Is Jing'an worth visiting in Shanghai?"
     answer: "Usually yes if your trip wants one polished dinner, cocktails, or easier modern evening district. It is usually less important as a daytime headline than the Bund or the French Concession."

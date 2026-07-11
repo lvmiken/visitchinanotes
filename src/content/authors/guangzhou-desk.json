@@ -1,0 +1,15 @@
+{
+  "name": "Guangzhou Editorial Desk",
+  "entityType": "organization",
+  "role": "Guangzhou City Desk",
+  "shortBio": "Maintains Guangzhou coverage with a focus on neighborhood contrast, Cantonese food planning, and Pearl River route logic.",
+  "fullBio": "The Guangzhou Editorial Desk maintains guides, place pages, and planning coverage related to Guangzhou. Its focus is helping readers balance old-city texture with modern districts, use dim sum and dinner planning well, and connect riverfront, heritage, and transport decisions into a smoother city stay.",
+  "expertise": [
+    "Guangzhou city planning",
+    "Dim sum and food-route strategy",
+    "District and riverfront tradeoffs"
+  ],
+  "reviewProcess": "Pages are reviewed for district usefulness, restaurant and timing tradeoffs, and whether the advice still reflects current Guangzhou travel patterns.",
+  "seoTitle": "Guangzhou Editorial Desk | China Travel Notes",
+  "seoDescription": "Meet the desk that maintains Guangzhou guides, place pages, and planning coverage on China Travel Notes."
+}

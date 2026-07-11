@@ -23,7 +23,7 @@ tags:
   - "Chongqing"
   - "Museums"
   - "First trip"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "What is the best museum in Chongqing for first-time visitors?"
     answer: "For many first-time visitors, the China Three Gorges Museum is the best default choice because it is central, substantial, and closely tied to Chongqing's own history. Hongyan is better for readers who care specifically about wartime and revolutionary history, while the Natural History Museum is stronger for science interest or longer stays."

@@ -23,7 +23,7 @@ tags:
   - "Jiming Temple"
   - "Xuanwu Lake"
   - "Half day"
-author: "Editorial Team"
+author: "Daniel Xu"
 faq:
   - question: "Should first-time visitors combine Jiming Temple and Xuanwu Lake?"
     answer: "Often yes. Jiming Temple gives the route a calmer cultural anchor, while Xuanwu Lake adds the breathing room that stops the half day from feeling too thin or too formal."

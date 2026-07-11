@@ -31,7 +31,7 @@ tags:
   - "Coloane"
   - "Neighborhoods"
   - "Coastal"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "Is Coloane Village worth visiting on a first trip to Macau?"
     answer: "For many first-time visitors, yes, but only selectively. Coloane Village is usually worth it when the old core already is protected and the trip genuinely wants one calmer village-and-coastal branch."

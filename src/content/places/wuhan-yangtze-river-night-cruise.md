@@ -31,7 +31,7 @@ tags:
   - "Wuhan"
   - "Yangtze River"
   - "Night cruise"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is the Wuhan Yangtze River night cruise worth it for first-time visitors?"
     answer: "For many first-time visitors, yes, especially if you want one skyline-led Wuhan night that feels like the main event rather than just a short walk after dinner. It is usually most worth it when the trip has room for both one practical evening and one more deliberate scenic night."

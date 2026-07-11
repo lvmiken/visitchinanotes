@@ -20,7 +20,7 @@ tags:
   - "Guilin"
   - "Yangshuo"
   - "Half day"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "What should you do in Guilin before going to Yangshuo?"
     answer: "For many first-time visitors, the best answer is one edited city block: Elephant Trunk Hill for symbolism, Reed Flute Cave for a fuller half day, or Two Rivers and Four Lakes for an easy evening if you are already staying central."

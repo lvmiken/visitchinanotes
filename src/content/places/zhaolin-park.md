@@ -31,7 +31,7 @@ tags:
   - "Zhaolin Park"
   - "Ice Lantern Fair"
   - "Night"
-author: "Editorial Team"
+author: "Leo Sun"
 faq:
   - question: "Is Zhaolin Park worth visiting in Harbin?"
     answer: "Usually yes, but mainly as a smaller central winter night. For many first-time visitors, Zhaolin Park is worth it when Ice and Snow World feels too heavy and the trip still wants a recognizable ice-lantern atmosphere."

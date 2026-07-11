@@ -3,6 +3,7 @@ title: "Where to Go in Shanghai for Bund-View Rooftop Drinks Without Wasting the
 description: "Use this Shanghai rooftop-drinks guide to decide when a Bund-view bar night is actually worth it, when North Bund is smarter, and how to avoid wasting one of your best evenings on the wrong skyline splurge."
 publishDate: 2026-06-30
 updatedDate: 2026-06-30
+noindex: true
 city: "shanghai"
 guideStage: "build-itinerary"
 tripLength: "45 to 150 minutes"
@@ -28,7 +29,7 @@ tags:
   - "Nightlife"
   - "Rooftops"
   - "Skyline"
-author: "Editorial Team"
+author: "Sophia Li"
 faq:
   - question: "Are Bund-view rooftop bars worth it in Shanghai?"
     answer: "Usually yes if you genuinely want one polished drink-with-a-view moment and the skyline still matters emotionally. They are usually less worth it if you mainly want photos, multiple rounds, or a cheaper broader nightlife night."

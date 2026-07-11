@@ -25,7 +25,7 @@ tags:
   - "Cycling"
   - "Route planning"
   - "Coastal highway"
-author: "Editorial Team"
+author: "Ethan Zhao"
 faq:
   - question: "Can travelers cycle around all of Hainan Island?"
     answer: "Yes in principle, but the full island loop should be treated as a real multi-day undertaking rather than as a casual scenic extra on a normal first Hainan trip."

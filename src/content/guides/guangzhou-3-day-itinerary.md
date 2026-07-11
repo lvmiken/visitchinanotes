@@ -26,7 +26,7 @@ heroImageAlt: "Guangzhou skyline rising beyond the riverfront."
 heroImageAttributionName: "kevinmcgill from Den Bosch, Netherlands"
 heroImageAttributionUrl: "https://commons.wikimedia.org/wiki/File:Guangzhou_skyline_(6343573781).jpg"
 heroImageLicense: "CC BY-SA 2.0"
-author: "Editorial Team"
+author: "Grace Lin"
 faq:
   - question: "How many days do you need in Guangzhou?"
     answer: "For many first-time visitors, three days is a strong Guangzhou stay because it gives enough time for neighborhoods, food, and a more comfortable city rhythm."

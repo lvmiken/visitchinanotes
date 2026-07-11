@@ -23,7 +23,7 @@ tags:
   - "Tiananmen Square"
   - "Reservations"
   - "Planning"
-author: "Editorial Team"
+author: "Amelia Chen"
 faq:
   - question: "Do foreign visitors need to worry about Tiananmen Square reservation rules?"
     answer: "Yes. The exact process can change, so foreign visitors should check the current official Tiananmen reservation guidance close to the visit instead of assuming the rule is unchanged from older trip reports."

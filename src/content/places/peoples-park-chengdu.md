@@ -36,7 +36,7 @@ tags:
   - "Chengdu"
   - "People's Park"
   - "Tea houses"
-author: "Editorial Team"
+author: "Hannah Zhou"
 faq:
   - question: "Is People's Park worth visiting in Chengdu?"
     answer: "Usually yes. For many first-time visitors, People's Park is one of the clearest ways to experience Chengdu's slower city rhythm instead of only adding more attraction names."
