@@ -34,10 +34,10 @@ const editorialContacts = [
     <article class="hero article">
       <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Contact" }]} />
       <p class="eyebrow">Contact</p>
-      <h1>Contact the site for editorial, privacy, partnership, or general questions.</h1>
+      <h1>Get in touch about corrections, partnerships, privacy, or general site questions.</h1>
       <p>
-        China Travel Notes is an editorial travel-planning site. If you need to get in touch about the content,
-        privacy questions, partnership ideas, or a general site issue, use the email contact below.
+        If you need to reach the team about the content, a privacy question, a partnership idea, or a general site
+        issue, use the contact route below.
       </p>
       <div class="button-row">
         {contactEmail ? (
@@ -54,8 +54,8 @@ const editorialContacts = [
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">Editorial Inbox</p>
-        <h3>Use this page when the question is about the publication, not only one itinerary decision.</h3>
+        <p class="eyebrow">Best Use</p>
+        <h3>This page is for editorial or broader site questions, not a single travel decision.</h3>
       </div>
       <ul class="mini-list">
         <li>Content corrections and factual updates.</li>
@@ -78,7 +78,7 @@ const editorialContacts = [
 
   <section class="section-block card-surface">
     <p class="eyebrow">Editorial Routing</p>
-    <h2 class="section-title">How Messages Are Handled</h2>
+    <h2 class="section-title">How messages are routed</h2>
     <ul class="mini-list">
       {editorialContacts.map((item) => <li>{item}</li>)}
     </ul>
@@ -95,7 +95,7 @@ const editorialContacts = [
     <p>
       {contactEmail
         ? <>The main contact address for this site is <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.</>
-        : "This publication handles corrections, privacy questions, and partnership inquiries through its shared editorial workflow. Use the masthead, editors page, and policy pages on this site to identify the right route while the public inbox is managed centrally."}
+        : "Corrections, privacy questions, and partnership inquiries are handled through the shared editorial inbox. Use the masthead, editors page, and policy pages here to find the clearest route."}
     </p>
     <p>
       If you are writing about privacy or personal-data handling, include enough detail to identify the request clearly
@@ -113,7 +113,7 @@ const editorialContacts = [
 
   <section class="section-block card-surface">
     <p class="eyebrow">Related Pages</p>
-    <h2 class="section-title">Useful Site Pages</h2>
+    <h2 class="section-title">Useful pages</h2>
     <div class="button-row">
       <a class="button-link secondary" href="/about/">About</a>
       <a class="button-link secondary" href="/masthead/">Masthead</a>

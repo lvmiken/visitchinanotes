@@ -41,7 +41,7 @@ const priorityCityGroups = priorityCities.flatMap((citySlug) =>
 
 <BaseLayout
   title="China Places | Landmark, Neighborhood, and Museum Guides"
-  description="Browse place guides for the landmarks, neighborhoods, museums, parks, and visitor-heavy districts that most often shape a first China trip."
+  description="Place guides for the landmarks, neighborhoods, museums, parks, and visitor-heavy districts that most often shape a first China trip."
   showAds={false}
 >
   <section class="split-hero">
@@ -49,12 +49,12 @@ const priorityCityGroups = priorityCities.flatMap((citySlug) =>
       <p class="eyebrow">Places Index</p>
       <h1>Use place guides when one landmark, district, museum, or park starts shaping the whole city day.</h1>
       <p>
-        This is a lightweight library of the places that most often affect route logic, booking order, or pacing. Start
-        with Beijing, Shanghai, and Xi&apos;an if you want the most complete sample city clusters.
+        These pages focus on the places that most often change route logic, booking order, or pacing. Start with
+        Beijing, Shanghai, and Xi&apos;an if you want the clearest examples of how a place page supports a wider city plan.
       </p>
       <div class="button-row">
-        <a class="button-link primary" href="/destinations/">Browse destination hubs</a>
-        <a class="button-link secondary" href="/guides/">Browse planning guides</a>
+        <a class="button-link primary" href="/destinations/">See destination hubs</a>
+        <a class="button-link secondary" href="/guides/">See planning guides</a>
       </div>
     </div>
 
@@ -92,8 +92,8 @@ const priorityCityGroups = priorityCities.flatMap((citySlug) =>
 
   {priorityCityGroups.length > 0 && (
     <section class="section-block">
-      <p class="eyebrow">Best Cluster Starts</p>
-      <h2 class="section-title">Start with these city clusters if you want the cleanest example of how place pages support a city plan.</h2>
+      <p class="eyebrow">Where To Begin</p>
+      <h2 class="section-title">Start with these cities if you want the quickest feel for how individual places change a day.</h2>
       <div class="feature-grid">
         {priorityCityGroups.map((group) => (
           <article class="card-surface">
@@ -101,8 +101,8 @@ const priorityCityGroups = priorityCities.flatMap((citySlug) =>
             <h3>{group.city.data.name}</h3>
             <p class="muted">{group.city.data.intro}</p>
             <div class="button-row">
-              <a class="button-link primary" href={`#${getCitySlug(group.city)}-cluster`}>Open place cluster</a>
-              <a class="button-link secondary" href={`/destinations/${getCitySlug(group.city)}/`}>Open destination hub</a>
+              <a class="button-link primary" href={`#${getCitySlug(group.city)}-cluster`}>See place picks</a>
+              <a class="button-link secondary" href={`/destinations/${getCitySlug(group.city)}/`}>See destination hub</a>
             </div>
           </article>
         ))}
@@ -116,11 +116,11 @@ const priorityCityGroups = priorityCities.flatMap((citySlug) =>
         <div class="cluster-head">
           <div>
             <p class="eyebrow">{group.places.length} place guides</p>
-            <h2 class="section-title">{group.city.data.name} Places Cluster</h2>
+            <h2 class="section-title">{group.city.data.name} Place Picks</h2>
             <p class="muted">{group.city.data.transportNote}</p>
           </div>
           <div class="button-row" style="margin-top: 0;">
-            <a class="button-link secondary" href={`/destinations/${getCitySlug(group.city)}/`}>Open {group.city.data.name} hub</a>
+            <a class="button-link secondary" href={`/destinations/${getCitySlug(group.city)}/`}>See {group.city.data.name} hub</a>
           </div>
         </div>
         <div class="grid two" style="margin-top: 1rem;">
@@ -131,7 +131,7 @@ const priorityCityGroups = priorityCities.flatMap((citySlug) =>
   </section>
 
   <section class="section-block">
-    <h2 class="section-title">Destination Hubs Behind These Clusters</h2>
+    <h2 class="section-title">City Hubs Behind These Picks</h2>
     <div class="grid two">
       {cityGroups.slice(0, 3).map((group) => <CityCard city={group.city} />)}
     </div>

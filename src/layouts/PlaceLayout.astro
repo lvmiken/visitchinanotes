@@ -167,11 +167,11 @@ const socialImage = getPlaceSocialImage(place);
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">Why Read This</p>
-        <h3>Use this before one place becomes the part of the day that breaks the plan.</h3>
+        <p class="eyebrow">At A Glance</p>
+        <h3>Best once one place starts shaping the whole city day.</h3>
       </div>
       {place.data.whoItsFor.length > 0 && (
-        <p><strong>Best for:</strong> {place.data.whoItsFor.join(", ")}</p>
+        <p><strong>Good match for:</strong> {place.data.whoItsFor.join(", ")}</p>
       )}
       {cityHub && (
         <p><strong>City hub:</strong> <a href={`/destinations/${getCitySlug(cityHub)}/`}>{cityHub.data.name}</a></p>
@@ -197,15 +197,15 @@ const socialImage = getPlaceSocialImage(place);
   )}
 
   <section class="section-block card-surface">
-    <p class="eyebrow">Part Of The Cluster</p>
+    <p class="eyebrow">From The Hub</p>
     <h2 class="section-title">Keep this place inside the wider city plan.</h2>
     <p class="muted">
       The strongest place pages help travelers decide how much time to give a place, what to book early, and how to
       connect it back to the city route instead of treating it like an isolated checklist stop.
     </p>
     <div class="button-row">
-      {cityHub && <a class="button-link primary" href={`/destinations/${getCitySlug(cityHub)}/`}>Open {cityHub.data.name} hub</a>}
-      <a class="button-link secondary" href="/places/">Browse places index</a>
+      {cityHub && <a class="button-link primary" href={`/destinations/${getCitySlug(cityHub)}/`}>See {cityHub.data.name} hub</a>}
+      <a class="button-link secondary" href="/places/">All place guides</a>
     </div>
   </section>
 
@@ -279,14 +279,14 @@ const socialImage = getPlaceSocialImage(place);
   <PlanningHelpCallout
     title={`Need help fitting ${place.data.title} into the trip?`}
     description="If the place matters, but the timing, booking order, or surrounding city day still feels fuzzy, this is a good point for a light planning check."
-    primaryLabel="Open plan help"
+    primaryLabel="Ask for a route check"
     primaryHref="/plan-help/"
-    secondaryLabel={cityHub ? `Browse ${cityHub.data.name} hub` : "Browse guides"}
+    secondaryLabel={cityHub ? `See ${cityHub.data.name} hub` : "See guides"}
     secondaryHref={cityHub ? `/destinations/${getCitySlug(cityHub)}/` : "/guides/"}
     bullets={[
       "Best when one anchor sight is controlling the whole city day.",
       "Useful for timing, hotel-area fit, and surrounding logistics.",
-      "A good handoff point before you lock tickets and transport.",
+      "A sensible handoff point before you lock tickets and transport.",
     ]}
   />
 
@@ -303,9 +303,9 @@ const socialImage = getPlaceSocialImage(place);
       )}
       <div class="button-row">
         <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>
-          {authorEntry.data.entityType === "organization" ? "Open editorial desk" : "Open author page"}
+          {authorEntry.data.entityType === "organization" ? "See desk page" : "See author page"}
         </a>
-        <a class="button-link secondary" href="/authors/">Browse editors and desks</a>
+        <a class="button-link secondary" href="/authors/">All editors and desks</a>
       </div>
     </section>
   )}

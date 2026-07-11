@@ -23,7 +23,7 @@ const { cluster } = Astro.props;
       {cluster.solveFirst.slice(0, 2).map((item) => <li>{item}</li>)}
     </ul>
   ) : null}
-  <p class="meta">Best used: {cluster.whenToUse}</p>
+  <p class="meta">Best read when: {cluster.whenToUse}</p>
 </article>
 
 <style>

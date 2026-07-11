@@ -17,10 +17,10 @@ const sourcePage = Astro.url.pathname;
   </p>
   <p class="form-mode-note">
     {isLiveMode
-      ? "Contributor submissions are enabled. Suitable pitches can be reviewed and answered by email."
+      ? "Contributor submissions are open. Suitable pitches can be answered by email."
       : contactEmail
-        ? `Contributor pitches are currently handled by email. Use the form below to prepare a pre-filled message, or send it directly to ${contactEmail}.`
-        : "Contributor inquiries are not being collected on this page right now. Use the contact or masthead pages if you need to reach the editorial team."}
+        ? `Contributor pitches are currently handled by email. Use the form below to prepare a draft message, or send it directly to ${contactEmail}.`
+        : "Contributor inquiries are not being collected on this page right now. Use the contact or masthead pages if you need to reach the editors."}
   </p>
 
   {canSubmit ? (
@@ -100,7 +100,7 @@ const sourcePage = Astro.url.pathname;
 
       <label class="consent-row">
         <input name="consent" type="checkbox" required />
-        <span>I understand this is a submission inquiry, not a guaranteed publication commitment.</span>
+        <span>I understand this is a pitch, not a guaranteed publication commitment.</span>
       </label>
 
       <div class="button-row">
@@ -111,11 +111,11 @@ const sourcePage = Astro.url.pathname;
       </div>
 
       <p class="request-status request-success" data-contribute-success hidden>
-        Thanks. Your contribution pitch has been received and can be reviewed for follow-up.
+        Thanks. Your pitch has been received.
       </p>
 
       <p class="request-status request-success" data-contribute-email-success hidden>
-        Your email app should open with a pre-filled contributor pitch draft. Send that email to complete the submission.
+        Your email app should open with a pre-filled pitch draft. Send that email to complete the submission.
       </p>
 
       <p class="request-status request-error" data-contribute-error hidden>
@@ -131,7 +131,7 @@ const sourcePage = Astro.url.pathname;
       <div class="button-row">
         <a class="button-link primary" href="/contact/">Go to Contact</a>
         <a class="button-link secondary" href="/masthead/">View Masthead</a>
-        <a class="button-link secondary" href="/authors/">Browse Editors</a>
+        <a class="button-link secondary" href="/authors/">Meet Editors</a>
       </div>
     </div>
   )}

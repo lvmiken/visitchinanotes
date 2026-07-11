@@ -12,14 +12,14 @@ const sourcePage = Astro.url.pathname;
   <p class="eyebrow">Planning Help Request</p>
   <h2 class="section-title">Share the route outline and the kind of help you want.</h2>
   <p class="muted">
-    Use this request format to summarize the route, the cities, and the kind of planning help that would make the trip easier.
+    Use this form to summarize the route, the cities, and the kind of help that would make the trip easier.
   </p>
   <p class="form-mode-note">
     {isLiveMode
-      ? "Live follow-up is enabled. A submitted request can be reviewed and passed to a suitable travel partner."
+      ? "Live follow-up is enabled. A submitted request can be reviewed and, if needed, shared with a suitable travel partner."
       : contactEmail
-        ? `Requests are currently handled by email. Use the form below to prepare a pre-filled message, or write directly to ${contactEmail}.`
-        : "Planning requests are not being collected on this page right now. Use the contact or masthead pages if you need to reach the editorial team."}
+        ? `Requests are currently handled by email. Use the form below to prepare a draft message, or write directly to ${contactEmail}.`
+        : "Planning requests are not being collected on this page right now. Use the contact or masthead pages if you need to reach the editors."}
   </p>
 
   {canSubmit ? (
@@ -84,18 +84,18 @@ const sourcePage = Astro.url.pathname;
 
       <label class="consent-row">
         <input name="consent" type="checkbox" required />
-        <span>I understand this request may be reviewed first and may be shared with a suitable travel partner for follow-up.</span>
+        <span>I understand this request may be read by the team first and may be shared with a suitable travel partner for follow-up.</span>
       </label>
 
       <div class="button-row">
         <button class="button-link primary request-submit" type="submit" data-submit-button>
-          {isLiveMode ? "Request Partner Help" : "Open Email Draft"}
+          {isLiveMode ? "Send Request" : "Open Email Draft"}
         </button>
         {contactEmail && <a class="button-link secondary" href={`mailto:${contactEmail}`}>Plain Email</a>}
       </div>
 
       <p class="request-status request-success" data-request-success hidden>
-        Thanks. Your request has been received and can be reviewed for the next suitable follow-up step.
+        Thanks. Your request is in.
       </p>
 
       <p class="request-status request-success" data-request-email-success hidden>
@@ -115,7 +115,7 @@ const sourcePage = Astro.url.pathname;
       <div class="button-row">
         <a class="button-link primary" href="/contact/">Go to Contact</a>
         <a class="button-link secondary" href="/masthead/">View Masthead</a>
-        <a class="button-link secondary" href="/authors/">Browse Editors</a>
+        <a class="button-link secondary" href="/authors/">Meet Editors</a>
       </div>
     </div>
   )}
@@ -149,7 +149,7 @@ const sourcePage = Astro.url.pathname;
       const contactEmail = form.dataset.contactEmail;
 
       submitButton.disabled = true;
-      submitButton.textContent = isLiveMode ? "Sending request..." : contactEmail ? "Preparing email..." : "Unavailable";
+        submitButton.textContent = isLiveMode ? "Sending request..." : contactEmail ? "Preparing email..." : "Unavailable";
 
       try {
         if (isLiveMode && form.action && form.action !== "#") {
@@ -201,7 +201,7 @@ const sourcePage = Astro.url.pathname;
         error.hidden = false;
       } finally {
         submitButton.disabled = false;
-        submitButton.textContent = isLiveMode ? "Request Partner Help" : contactEmail ? "Open Email Draft" : "Request Partner Help";
+        submitButton.textContent = isLiveMode ? "Send Request" : contactEmail ? "Open Email Draft" : "Send Request";
       }
     });
   }

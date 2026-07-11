@@ -23,27 +23,27 @@ const starterCities = starterCitySlugs.flatMap((citySlug) => allCities.filter((c
 
 <BaseLayout
   title="China Travel Guides for First-Time Visitors | Itineraries, Where to Stay, Airports, and Tips"
-  description="Browse China travel guides on where to stay, how many days to plan, airport transfers, trains, payments, and city itineraries for first-time visitors."
+  description="China travel guides on where to stay, how many days to plan, airport transfers, trains, payments, and city itineraries for first-time visitors."
   showAds={false}
 >
   <section class="split-hero">
     <div class="hero article">
       <p class="eyebrow">Guide Index</p>
-      <h1>Use these guides when you are choosing where to stay, how long to go, and what to prioritize.</h1>
+      <h1>These guides are for the moment a China trip stops being abstract and starts needing shape.</h1>
       <p>
-        Browse destination guides, itinerary ideas, and practical planning articles that help turn general interest
-        into a workable route.
+        Start here when you are comparing stays, working out how many days a city deserves, or trying to turn broad
+        interest into a route that actually flows.
       </p>
       <div class="button-row">
-        <a class="button-link primary" href="#guide-tracks">See the guide tracks</a>
-        <a class="button-link secondary" href="/destinations/">Compare destinations first</a>
+        <a class="button-link primary" href="#guide-tracks">See planning stages</a>
+        <a class="button-link secondary" href="/destinations/">See destination hubs</a>
       </div>
     </div>
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">How Editors Use This Section</p>
-        <h3>These guides are organized by planning stage, not by pure chronology.</h3>
+        <p class="eyebrow">How To Read It</p>
+        <h3>These guides are grouped by planning stage, not by chronology.</h3>
       </div>
       <ul class="mini-list">
         <li>Use destination-choice guides before you commit the trip to one city or route shape.</li>
@@ -55,8 +55,8 @@ const starterCities = starterCitySlugs.flatMap((citySlug) => allCities.filter((c
 
   {starterCities.length > 0 && (
     <section class="section-block">
-      <p class="eyebrow">Best Starting Cities</p>
-      <h2 class="section-title">These city desks currently give the clearest sample of how the guide system fits together.</h2>
+      <p class="eyebrow">Where To Begin</p>
+      <h2 class="section-title">These cities give the clearest first look at how the planning desk fits together.</h2>
       <div class="grid three">
         {starterCities.map((city) => <CityCard city={city} />)}
       </div>
@@ -72,7 +72,7 @@ const starterCities = starterCitySlugs.flatMap((citySlug) => allCities.filter((c
           <p class="eyebrow">{group.guides.length} guides</p>
           <h3>{group.label}</h3>
           <p class="muted">{group.description}</p>
-          {group.guides[0] && <p class="muted">Recent desk update: {group.guides[0].data.title}</p>}
+          {group.guides[0] && <p class="muted">A place to begin: {group.guides[0].data.title}</p>}
           <a href={`#${group.id}`}>Jump to this stage</a>
         </article>
       ))}

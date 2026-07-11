@@ -361,9 +361,9 @@ const socialImage = getCitySocialImage(city);
       <h1>{city.data.name}</h1>
       <p>{city.data.intro}</p>
       <div class="button-row">
-        <a class="button-link primary" href="#city-guides">Browse {city.data.name} guides</a>
-        <a class="button-link secondary" href="#trip-basics">Read trip basics</a>
-        {relatedPlaces.length > 0 && <a class="button-link secondary" href="#places-cluster">Open places cluster</a>}
+        <a class="button-link primary" href="#city-guides">Start with {city.data.name} reads</a>
+        <a class="button-link secondary" href="#trip-basics">See trip basics</a>
+        {relatedPlaces.length > 0 && <a class="button-link secondary" href="#places-cluster">See place picks</a>}
       </div>
     </div>
 
@@ -484,10 +484,10 @@ const socialImage = getCitySocialImage(city);
 
   {quickStartGuides.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Best Pages To Open First</h2>
+      <h2 class="section-title">Start With These Reads</h2>
       <p class="muted">
-        These are the strongest next reads if you want to move from broad destination choice into a more workable
-        first-time plan without opening every guide at once.
+        If {city.data.name} is already on the short list, these are the clearest pieces to read first before you go
+        deeper into hotels, day order, or booking details.
       </p>
       <div class="grid two">
         {quickStartGuides.map((guide) => <GuideCard guide={guide} />)}
@@ -497,10 +497,10 @@ const socialImage = getCitySocialImage(city);
 
   {practicalGuides.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Most-Used Practical Guides</h2>
+      <h2 class="section-title">Practical Reads That Carry The Trip</h2>
       <p class="muted">
-        These are usually the highest-friction questions once {city.data.name} is already in the route: where to stay,
-        how to arrive, how to move around, what to book early, and how to rescue a weather-disrupted day.
+        Once the city is firmly in the route, these are usually the pages that keep the trip feeling smooth: where to
+        stay, how to arrive, how to move around, what to book early, and how to recover a day that shifts under you.
       </p>
       <div class="grid two">
         {practicalGuides.map((guide) => <GuideCard guide={guide} />)}
@@ -510,7 +510,7 @@ const socialImage = getCitySocialImage(city);
 
   {clusterSteps.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Plan {city.data.name} In Order</h2>
+      <h2 class="section-title">Build {city.data.name} In A Sensible Order</h2>
       <div class="feature-grid">
         {clusterSteps.map((step, index) => (
           <article class="card-surface">
@@ -544,7 +544,7 @@ const socialImage = getCitySocialImage(city);
   </section>
 
   <section class="section-block" id="city-guides">
-    <h2 class="section-title">{city.data.name} Guide Cluster</h2>
+    <h2 class="section-title">Planning Reads For {city.data.name}</h2>
     {guidesByStage.length > 0 ? (
       <div class="stack">
         {guidesByStage.map((group) => (
@@ -564,10 +564,10 @@ const socialImage = getCitySocialImage(city);
 
   {relatedPlaces.length > 0 && (
     <section class="section-block" id="places-cluster">
-      <h2 class="section-title">{city.data.name} Places Cluster</h2>
+      <h2 class="section-title">Places That Shape A {city.data.name} Day</h2>
       <p class="muted">
-        These place guides cover the landmarks, neighborhoods, museums, and visitor-heavy areas that most often shape
-        the day. Use them when timing, route logic, or neighborhood choice starts controlling the city plan.
+        These place pages cover the landmarks, neighborhoods, museums, and high-traffic districts that most often end
+        up deciding timing, route logic, or where the day should begin and end.
       </p>
       {featuredPlaceQuickLinks.length > 0 && (
         <p class="muted">
@@ -582,7 +582,7 @@ const socialImage = getCitySocialImage(city);
         </p>
       )}
       <div class="button-row">
-        <a class="button-link secondary" href="/places/">Browse all place guides</a>
+        <a class="button-link secondary" href="/places/">All place guides</a>
       </div>
       <div class="grid two">
         {relatedPlaces.map((place) => <PlaceCard place={place} />)}
@@ -601,8 +601,8 @@ const socialImage = getCitySocialImage(city);
   )}
 
   <section class="section-block" id="trip-basics">
-    <h2 class="section-title">Trip Basics That Matter For {city.data.name}</h2>
-    <p class="muted">Use these topic pages to solve the practical questions that often decide whether this city feels easy or stressful.</p>
+    <h2 class="section-title">Trip Basics For {city.data.name}</h2>
+    <p class="muted">These topic pages answer the practical questions that quietly decide whether the city feels easy, expensive, rushed, or surprisingly calm.</p>
     <div class="stack">
       {topicMomentsForCity.map((group) => (
         <section class="card-surface">
@@ -619,9 +619,9 @@ const socialImage = getCitySocialImage(city);
   <PlanningHelpCallout
     title={`Need help turning ${city.data.name} into a workable route?`}
     description={`If the city looks right but the stay length, hotel area, or onward pairing still feels uncertain, this is the point where a light planning check can help.`}
-    primaryLabel="Open plan help"
+    primaryLabel="Ask for a route check"
     primaryHref="/plan-help/"
-    secondaryLabel={`Browse ${city.data.name} guides`}
+    secondaryLabel={`Back to ${city.data.name} reads`}
     secondaryHref="#city-guides"
     bullets={[
       `Check whether ${city.data.name} should be a main stop or an add-on.`,

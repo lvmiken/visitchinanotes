@@ -34,24 +34,24 @@ const editorialStarts = editorialStartSlugs.flatMap((slug) => topics.filter((top
   <section class="split-hero">
     <div class="hero article">
       <p class="eyebrow">Topic Index</p>
-      <h1>Read these basics at the moment they become useful, not after they turn into trip stress.</h1>
+      <h1>Read the trip basics before they turn into airport, payment, or route stress.</h1>
       <p>
-        These pages cover the practical questions many travelers ask first, from choosing a manageable route to
-        sorting out payments and understanding how transport will actually feel.
+        These pages cover the questions most travelers run into early, from shaping a manageable route to sorting out
+        payments and understanding how transport is likely to feel on the ground.
       </p>
       <div class="button-row">
         <a class="button-link primary" href="#editors-start-here">Start with the editor picks</a>
-        <a class="button-link secondary" href="/guides/">Browse destination guides</a>
+        <a class="button-link secondary" href="/guides/">See planning guides</a>
       </div>
     </div>
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">How To Use This Desk</p>
-        <h3>Use topics to solve the planning problems that can derail an otherwise good route.</h3>
+        <p class="eyebrow">Start Here</p>
+        <h3>Use topics to clear the friction that can spoil an otherwise good route.</h3>
       </div>
       <ul class="mini-list">
-        <li>Start with route-shaping basics if you still are not sure which cities fit together.</li>
+        <li>Start with route basics if you are still unsure which cities fit together.</li>
         <li>Move to payments, apps, and arrival prep before flights and hotels are fully locked in.</li>
         <li>Finish with transport and reservation topics once the route is nearly ready to book.</li>
       </ul>
@@ -61,7 +61,7 @@ const editorialStarts = editorialStartSlugs.flatMap((slug) => topics.filter((top
   <section class="section-block">
     <h2 class="section-title">Topic Hubs</h2>
     <p class="muted">
-      Start with these larger topic silos if you want to solve one planning area end to end instead of jumping between
+      Start with these larger hubs if you want to solve one planning area end to end instead of jumping between
       isolated articles.
     </p>
     <div class="grid two">
@@ -72,7 +72,7 @@ const editorialStarts = editorialStartSlugs.flatMap((slug) => topics.filter((top
   {editorialStarts.length > 0 && (
     <section class="section-block">
       <p class="eyebrow">Editors&apos; Starting Set</p>
-      <h2 class="section-title" id="editors-start-here">The shortest high-value reading path for most first China trips starts here.</h2>
+      <h2 class="section-title" id="editors-start-here">A short reading path for the questions most first-time visitors hit first.</h2>
       <div class="grid two">
         {editorialStarts.map((topic) => <TopicCard topic={topic} />)}
       </div>
@@ -81,14 +81,14 @@ const editorialStarts = editorialStartSlugs.flatMap((slug) => topics.filter((top
 
   <section class="section-block card-surface">
     <p class="eyebrow">Reading Order</p>
-    <h2 class="section-title">The desk groups these topics in the same order most trips start getting complicated.</h2>
+    <h2 class="section-title">These topics are grouped in the same order most trips start getting complicated.</h2>
     <div class="feature-grid">
       {groupedTopics.map((group) => (
         <article class="card-surface">
           <p class="eyebrow">{group.topics.length} topic pages</p>
           <h3>{group.label}</h3>
           <p class="muted">{group.description}</p>
-          <a href={`#${group.id}`}>Jump to this section</a>
+          <a href={`#${group.id}`}>See this section</a>
         </article>
       ))}
     </div>

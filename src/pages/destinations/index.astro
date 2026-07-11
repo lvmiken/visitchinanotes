@@ -28,17 +28,17 @@ const firstTimeCitiesCount = groupedCities.find((group) => group.id === "first-t
       <h1>Choose the kind of trip you want first, then pick the city that fits it best.</h1>
       <p>
         Some travelers want an easy first stop, some want a deeper inland route, and others want a scenic break from
-        big cities. Start with the trip shape that feels right, then compare destinations within that group.
+        big cities. Start with the trip shape that feels right, then compare the cities that naturally belong to it.
       </p>
       <div class="button-row">
-        <a class="button-link primary" href="#starter-cities">Start with the strongest city hubs</a>
-        <a class="button-link secondary" href="/guides/">Browse planning guides</a>
+        <a class="button-link primary" href="#starter-cities">See the clearest starting cities</a>
+        <a class="button-link secondary" href="/guides/">See planning guides</a>
       </div>
     </div>
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">Editorial Grouping</p>
+        <p class="eyebrow">How To Read It</p>
         <h3>These destination clusters are grouped by route fit, not by popularity alone.</h3>
       </div>
       <ul class="mini-list">
@@ -71,7 +71,7 @@ const firstTimeCitiesCount = groupedCities.find((group) => group.id === "first-t
   {starterCities.length > 0 && (
     <section class="section-block" id="starter-cities">
       <p class="eyebrow">Starter Cities</p>
-      <h2 class="section-title">These are the clearest editorial entry points if you want the fullest supporting guide coverage.</h2>
+      <h2 class="section-title">These are the clearest entry points if you want the richest mix of city, route, and practical coverage.</h2>
       <div class="grid three">
         {starterCities.map((city) => <CityCard city={city} />)}
       </div>
@@ -87,7 +87,7 @@ const firstTimeCitiesCount = groupedCities.find((group) => group.id === "first-t
           <p class="eyebrow">{group.cities.length} city hubs</p>
           <h3>{group.title}</h3>
           <p class="muted">{group.description}</p>
-          <a href={`#${group.id}`}>Jump to this group</a>
+          <a href={`#${group.id}`}>See this group</a>
         </article>
       ))}
     </div>

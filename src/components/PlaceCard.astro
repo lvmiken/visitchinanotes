@@ -18,7 +18,7 @@ const authorSlug = slugifyAuthorValue(place.data.author);
   </h3>
   <p>{place.data.description}</p>
   {place.data.whoItsFor.length > 0 && (
-    <p class="meta">Best for {place.data.whoItsFor.slice(0, 2).join(", ")}</p>
+    <p class="meta">Works especially well for {place.data.whoItsFor.slice(0, 2).join(", ")}</p>
   )}
   <p class="meta">By <a class="meta-link" href={`/authors/${authorSlug}/`}>{place.data.author}</a></p>
   <p class="meta">

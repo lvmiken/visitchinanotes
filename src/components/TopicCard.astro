@@ -10,7 +10,7 @@ interface Props {
 const { topic } = Astro.props;
 const planningMomentLabel = topicMomentMap[topic.data.planningMoment]?.label ?? "Trip Topic";
 const citySummary =
-  topic.data.affectsCities.length > 0 ? topic.data.affectsCities.slice(0, 3).join(", ") : "Useful across many first-time routes";
+  topic.data.affectsCities.length > 0 ? topic.data.affectsCities.slice(0, 3).join(", ") : "Useful across many first China routes";
 const authorSlug = slugifyAuthorValue(topic.data.author);
 ---
 
