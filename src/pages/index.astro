@@ -58,7 +58,7 @@ const editorialFeatureConfigs = [
     bullets: [
       "Pairs micro city observation with practical visitor advice.",
       "Pushes beyond the usual Beijing landmark checklist.",
-      "Shows how a city desk can publish deeper service journalism, not only search-driven guides.",
+      "Brings together observation, local texture, and practical trip advice in one piece.",
     ],
     hubHref: "/destinations/beijing/",
     hubLabel: "Open Beijing hub",
@@ -72,7 +72,7 @@ const editorialFeatureConfigs = [
     bullets: [
       "Explains Shanghai through Haipai culture instead of skyline clichés alone.",
       "Connects style, food, architecture, and local routines in one narrative.",
-      "Strengthens the site's magazine sensibility without losing trip-planning value.",
+      "Shows how a city can feel stylish, practical, and deeply local at the same time.",
     ],
     hubHref: "/destinations/shanghai/",
     hubLabel: "Open Shanghai hub",
@@ -85,8 +85,8 @@ const editorialFeatureConfigs = [
       "This feature explains why Chengdu means far more than pandas and hotpot, using anyi, neighborhood culture, queer-friendly ease, cafes, and music scenes to show the city as a real contemporary refuge for younger travelers.",
     bullets: [
       "Pushes Chengdu beyond panda-and-food stereotypes into a fuller social portrait.",
-      "Adds a more magazine-like city voice while still connecting into practical planning pages.",
-      "Helps the publication feel more observed, authored, and less like a templated search library.",
+      "Brings out a fuller city voice while still connecting into practical planning pages.",
+      "Gives readers a more observed and human picture of how the city actually feels.",
     ],
     hubHref: "/destinations/chengdu/",
     hubLabel: "Open Chengdu hub",
@@ -100,7 +100,7 @@ const editorialFeatureConfigs = [
     bullets: [
       "Pushes Chongqing beyond skyline spectacle into industrial, social, and cultural depth.",
       "Connects viral visual hooks to harder realities such as terrain, labor, and bunker reuse.",
-      "Further strengthens the homepage's magazine character for both readers and AdSense review.",
+      "Shows why the city feels so intense once landscape, labor, and daily life are read together.",
     ],
     hubHref: "/destinations/chongqing/",
     hubLabel: "Open Chongqing hub",
@@ -112,9 +112,9 @@ const editorialFeatureConfigs = [
     intro:
       "This feature pushes Qingdao beyond the Tsingtao bottle image, using old villas, red roofs, local beer rituals, seafood life, and Laoshan's mountain-and-sea contrast to give the city a softer but highly specific editorial identity.",
     bullets: [
-      "Turns Qingdao from a light add-on city into a place with real publication-level texture.",
+      "Shows Qingdao as more than a light add-on, with a clearer sense of mood, ritual, and place.",
       "Connects architecture, beer, seafood, and coastal pacing without falling into brochure language.",
-      "Adds a fifth distinctive city voice to the homepage's growing magazine spine.",
+      "Gives Qingdao a clearer editorial identity built from mood, ritual, and place.",
     ],
     hubHref: "/destinations/qingdao/",
     hubLabel: "Open Qingdao hub",
@@ -128,7 +128,7 @@ const editorialFeatureConfigs = [
     bullets: [
       "Turns Xi'an from a schoolbook history stop into a living, rough-edged editorial city portrait.",
       "Connects archaeology, food, old-city pacing, and contemporary spectacle in one durable narrative.",
-      "Adds a sixth strong city voice to the homepage's magazine-style publication spine.",
+      "Shows why Xi'an feels alive when history, appetite, and street life are allowed to collide.",
     ],
     hubHref: "/destinations/xian/",
     hubLabel: "Open Xi'an hub",
@@ -142,7 +142,7 @@ const editorialFeatureConfigs = [
     bullets: [
       "Turns Guangzhou from a practical food stop into a full editorial portrait with social texture.",
       "Connects trade, migration, appetite, and street style without relying on brittle venue-driven hype.",
-      "Adds a seventh strong city voice to the homepage's magazine-style publication spine.",
+      "Shows how Guangzhou's appetite, trade energy, and street life create a city with its own rhythm.",
     ],
     hubHref: "/destinations/guangzhou/",
     hubLabel: "Open Guangzhou hub",
@@ -266,7 +266,7 @@ const trustLinks = [
   {editorialFeatures.length > 0 && (
     <section class="section-block">
       <p class="eyebrow">Editorial Features</p>
-      <h2 class="section-title">Magazine-style city features that make the publication feel more opinionated, observant, and culturally specific.</h2>
+      <h2 class="section-title">Longer city features that bring mood, culture, and lived detail into the trip-planning picture.</h2>
       <div class="stack">
         {editorialFeatures.map((feature) => (
           <section class="card-surface">
@@ -276,8 +276,8 @@ const trustLinks = [
             <div class="grid two" style="align-items: start;">
               <GuideCard guide={feature.guide} />
               <article class="card-surface">
-                <p class="eyebrow">Why It Matters</p>
-                <h3>It makes the site feel more like a publication than a pure search library.</h3>
+                <p class="eyebrow">Why Read It</p>
+                <h3>It adds context, judgment, and a stronger sense of place.</h3>
                 <ul class="mini-list">
                   {feature.bullets.map((item) => <li>{item}</li>)}
                 </ul>
@@ -332,7 +332,7 @@ const trustLinks = [
   <section class="section-block">
     <h2 class="section-title">Editorial Coverage</h2>
     <p class="muted">
-      China Travel Notes is maintained as an editorial publication with named editors, city desks, and specialist planning desks, so destination coverage, route design, entry questions, family planning, and trip basics can be reviewed through distinct public lanes.
+      China Travel Notes is organized around named editors, city desks, and specialist planning desks so readers can move between destination ideas, route design, entry questions, family planning, and trip basics with clearer guidance.
     </p>
     <div class="feature-grid">
       <article class="card-surface">
@@ -342,13 +342,13 @@ const trustLinks = [
       </article>
       <article class="card-surface">
         <p class="eyebrow">Review Model</p>
-        <h3>Destination logic and trip mechanics are reviewed separately</h3>
-        <p>City pages, place pages, and route guides can be maintained by specialist desks while transport, readiness, visa, and family-planning questions are reviewed through narrower editorial lanes.</p>
+        <h3>Different travel questions are handled through different desks</h3>
+        <p>City pages, place pages, and route guides sit alongside specialist coverage for transport, readiness, visa, and family travel, so each topic can be approached with the right kind of focus.</p>
       </article>
       <article class="card-surface">
         <p class="eyebrow">Reader Trust</p>
-        <h3>Editorial ownership is visible</h3>
-        <p>Readers can inspect desk profiles, editorial standards, and contact routes instead of treating the site like an anonymous content library.</p>
+        <h3>Readers can see who stands behind the advice</h3>
+        <p>Desk profiles, editorial standards, and contact routes make it easier to understand how the site is organized and where each kind of guidance comes from.</p>
       </article>
     </div>
     {featuredDesks.length > 0 && (

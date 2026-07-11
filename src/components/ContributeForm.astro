@@ -20,7 +20,7 @@ const sourcePage = Astro.url.pathname;
       ? "Contributor submissions are enabled. Suitable pitches can be reviewed and answered by email."
       : contactEmail
         ? `Contributor pitches are currently handled by email. Use the form below to prepare a pre-filled message, or send it directly to ${contactEmail}.`
-        : "Contributor inquiries are currently routed through the site's editorial contact workflow. Use the contact and masthead pages to reach the right editor or desk."}
+        : "Contributor inquiries are not being collected on this page right now. Use the contact or masthead pages if you need to reach the editorial team."}
   </p>
 
   {canSubmit ? (
@@ -125,8 +125,8 @@ const sourcePage = Astro.url.pathname;
   ) : (
     <div class="request-form unavailable-panel">
       <p>
-        Direct contributor submission is not enabled on this build. Use the publication pages below to review the
-        editorial structure, then reach out through the main contact route.
+        Direct contributor submission is not enabled on this page right now. Use the links below if you want to review
+        the team first or reach out through the main contact page.
       </p>
       <div class="button-row">
         <a class="button-link primary" href="/contact/">Go to Contact</a>

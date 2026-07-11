@@ -19,7 +19,7 @@ const sourcePage = Astro.url.pathname;
       ? "Live follow-up is enabled. A submitted request can be reviewed and passed to a suitable travel partner."
       : contactEmail
         ? `Requests are currently handled by email. Use the form below to prepare a pre-filled message, or write directly to ${contactEmail}.`
-        : "Planning requests are currently routed through the site's editorial contact workflow. Use the contact and masthead pages to reach the right desk for follow-up."}
+        : "Planning requests are not being collected on this page right now. Use the contact or masthead pages if you need to reach the editorial team."}
   </p>
 
   {canSubmit ? (
@@ -109,8 +109,8 @@ const sourcePage = Astro.url.pathname;
   ) : (
     <div class="request-form unavailable-panel">
       <p>
-        Direct request submission is not enabled on this build. Use the publication pages below to find the most
-        relevant desk, editorial contact route, or policy reference before sending a follow-up.
+        Direct request submission is not enabled on this page right now. Use the links below if you need to find the
+        right editor, contact page, or policy reference first.
       </p>
       <div class="button-row">
         <a class="button-link primary" href="/contact/">Go to Contact</a>
