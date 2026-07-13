@@ -44,13 +44,13 @@ faq:
     answer: "Prepare your passport data page, arrival transport details, first-night China address, basic contact details, and a rough departure or onward plan."
 ---
 
-China's digital arrival card is one of those updates that can sound more intimidating than it really is.
+China's digital arrival card sounds like the sort of bureaucratic change that will ruin an airport day. In reality, the form itself is not the hard part.
 
-The problem is not usually the form itself. It is trying to understand it at the wrong moment: after a long flight, inside a crowded arrival hall, while also sorting data, payment apps, and your first transfer into the city.
+What catches people out is timing. They first hear about it after a long flight, in a crowded arrival hall, while also thinking about data access, payment apps, luggage, and the first ride into town. A small task feels much larger when it appears at the worst possible moment.
 
 This page was checked against the current official National Immigration Administration arrival-card platform at [s.nia.gov.cn](https://s.nia.gov.cn/ArrivalCardFillingPC/), including the live interface wording currently shown on the English version of the form, and against current embassy notices repeating the same official rollout rules, including the Chinese Embassy in the United States notice [China Launches Online Arrival Card for International Travelers](https://us.china-embassy.gov.cn/eng/lsfw/zj/notice/202512/t20251203_11765346.htm), checked on **June 28, 2026**.
 
-## Who this page is for
+## If you want to settle the admin before you land
 
 This page is for travelers asking:
 
@@ -63,7 +63,7 @@ If your wider uncertainty is still about whether you need a visa at all, keep [C
 
 If your real fear is the whole first-day stack rather than only one form, pair this page with [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) and [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/).
 
-## The short answer
+## The calm version
 
 For many foreign travelers, yes, the digital arrival card is now a real part of pre-departure China prep.
 
@@ -76,7 +76,7 @@ But the smartest mindset is simple:
 
 The system is easier when you treat it as one more admin task to finish at home, not as something to improvise at the port.
 
-## What the official channels currently are
+## Where the official form actually lives
 
 Current official notices say foreign nationals can submit the arrival information through:
 
@@ -92,7 +92,7 @@ For most readers, the easiest and cleanest version is the desktop site:
 
 That is the version most worth bookmarking before the trip.
 
-## Who is currently exempt
+## Who currently does not need to fill it
 
 According to the current official notices and the live NIA instructions, the following categories are exempt from filling in the arrival card:
 
@@ -106,7 +106,7 @@ According to the current official notices and the live NIA instructions, the fol
 
 That exemption list matters because many worried travelers are still solving the wrong problem.
 
-## What the form currently asks you to prepare
+## What the form will ask you for
 
 The current official English interface shows a fairly predictable structure:
 
@@ -138,7 +138,7 @@ That means the easiest preparation kit is:
 - your departure date or onward plan
 - your email and reachable phone number
 
-## The easiest way to do it well
+## The easiest way to get it done cleanly
 
 For most travelers, the cleanest sequence is:
 
@@ -151,7 +151,7 @@ Do not wait until every later hotel and every later city is perfect.
 
 The form is usually about your entry and immediate route shape, not about building an entire dissertation on the trip.
 
-## What if you did not fill it in before departure?
+## If you did not finish it before departure
 
 This is the part many travelers most need to hear:
 
@@ -169,7 +169,7 @@ It is:
 
 `If I can finish it early, arrival will feel calmer. If I cannot, there is still a fallback.`
 
-## One detail many travelers miss
+## One detail that gets overlooked
 
 The current official NIA instructions specifically say that foreigners transiting in China and **leaving the port area** within the corresponding permitted limit can also use the system to fill in entry information.
 

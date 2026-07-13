@@ -43,13 +43,11 @@ faq:
     answer: "Not always. Two weeks is excellent if you want more variety, but it is not required. Many first-time visitors have a better trip in 8 to 10 days than in a poorly planned 14-day route."
 ---
 
-Many first-time visitors ask how many days they need in China when the more useful question is: how much China can this trip actually hold without becoming a transfer-heavy blur?
+Many first-time visitors ask how many days they need in China when the more useful question is slightly harsher: how much China can this trip actually hold before it turns into a blur of packing, transfers, and partial impressions?
 
-That is the decision that matters.
+That is the decision that matters. The best first China trip is not the longest one by default. It is the one whose length matches the route, your energy, and how much intercity movement you are honestly willing to absorb.
 
-The best first China trip is not the longest one by default. It is the one whose length matches the route, your energy, and how much intercity movement you are willing to absorb.
-
-## Who this is for
+## If you are still deciding what kind of first trip this can be
 
 This page is for travelers who are still deciding:
 
@@ -60,7 +58,7 @@ This page is for travelers who are still deciding:
 
 If the total trip is already fixed at about one week, go straight to [Best China Itinerary for 7 Days](/topics/best-china-itinerary-7-days/) after this page.
 
-## The short answer
+## The short answer, with the usual fantasy removed
 
 For many first-time visitors:
 
@@ -74,7 +72,7 @@ If you want the simplest version:
 - choose **two strong anchor cities** for 8 to 10 days
 - choose **three cities** only when the trip is long enough to absorb the movement
 
-## The real rule: match days to route shape
+## The real rule is to match days to route shape
 
 Trip length in China is really about three things:
 
@@ -84,7 +82,7 @@ Trip length in China is really about three things:
 
 Travelers usually get into trouble when they decide the cities first and only later notice that the calendar cannot carry them.
 
-## 5 to 7 days: enough for a strong first impression
+## 5 to 7 days: enough for a sharp first impression
 
 This is the shortest range that still supports a very good first China trip.
 
@@ -108,7 +106,7 @@ What usually does **not** work well is trying to fit three major cities into the
 
 If this is your exact time frame, go next to [Best China Itinerary for 7 Days](/topics/best-china-itinerary-7-days/).
 
-## 8 to 10 days: the sweet spot for many first-time visitors
+## 8 to 10 days: the sweet spot for many first trips
 
 This is often the best first-trip length.
 
@@ -135,7 +133,7 @@ For many travelers, this range gives the best tradeoff between trip cost, usable
 
 If your trip is already fixed in this range, the best next page is [Best China Itinerary for 10 Days](/topics/best-china-itinerary-10-days/).
 
-## 12 to 14 days: strong for a broader first route
+## 12 to 14 days: enough room for a broader first route
 
 This is where a more layered first trip starts to make sense.
 
@@ -161,7 +159,7 @@ But even here, longer does not automatically mean better. A cleaner two-city rou
 
 If your trip is already fixed at about two weeks and you want the concrete route versions instead of only the rule, continue with [Best China Itinerary for 14 Days](/topics/best-china-itinerary-14-days/).
 
-## More than two weeks: useful, but not automatically necessary
+## More than two weeks: useful, but not automatically better
 
 Many people assume a country as large as China requires a very long first trip.
 
@@ -175,7 +173,7 @@ Choose more than two weeks if:
 - you are comfortable with repeated transfers
 - the trip is designed for variety, not only for famous-name collecting
 
-## What most first-time visitors underestimate
+## What first-time visitors usually underestimate
 
 ### Arrival day is part of the trip
 
@@ -212,7 +210,7 @@ It is:
 - which combination gives real contrast?
 - how many moves will still feel fun by day six?
 
-## If you want the safest planning rule
+## If you want one safe planning rule
 
 Use this:
 

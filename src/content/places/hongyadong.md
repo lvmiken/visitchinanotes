@@ -44,7 +44,7 @@ faq:
     answer: "For many first-time visitors, Hongyadong is the easier default and the Two Rivers cruise is the more event-like skyline answer. The better choice depends on whether you want flexibility and walking or a more structured scenic night."
 ---
 
-`Hongyadong` is one of the rare places in Chongqing that is both genuinely iconic and very easy to misuse.
+`Hongyadong` is one of the rare places in Chongqing that is both genuinely iconic and remarkably easy to misuse.
 
 For many first-time visitors, it absolutely is worth going.
 
@@ -62,7 +62,7 @@ The better version is simpler:
 
 This page was checked against current city-backed Chongqing sources on **June 22, 2026**, including iChongqing's attraction page for [Hongyadong](https://www.ichongqing.info/attraction/hongyadong/), the iChongqing attraction page for [Jiefangbei Pedestrian Street](https://www.ichongqing.info/attraction/jiefangbei-pedestrian-street/), the city-backed nightlife routes page [Tourism Routes for Chongqing's Nightlife](https://www.ichongqing.info/culture/night-life/tourism-routes-for-chongqings-nightlife/), and iChongqing's practical photo-guide article [Best Place to Take Photos of Hongyadong in Chongqing](https://www.ichongqing.info/2019/07/18/best-place-to-photo-hongyadong-in-chongqing/). Those sources are enough to confirm Hongyadong's role in the city's visitor structure, its relationship to Jiefangbei and the riverfront, and the fact that evening views are part of the point. Lighting hours, crowd-control rules, and same-day access conditions can still change, so treat live notices as final.
 
-## Who this is for
+## Before you build a Chongqing night around Hongyadong
 
 Use this page if you are deciding:
 
@@ -77,7 +77,7 @@ If the answer already is yes and the real question now is where to eat before or
 
 If the answer already is yes and the real question now is where this block belongs in the route, go straight to [A Practical 3-Day Chongqing Itinerary for First-Time Visitors](/guides/chongqing-3-day-itinerary/).
 
-## The short answer
+## The short answer, minus the postcard filter
 
 For many first-time visitors, yes, `Hongyadong` is worth it.
 
@@ -99,7 +99,7 @@ The practical rule is simple:
 
 for many first-time visitors, Hongyadong is not overrated because it is bad. It becomes overrated only when travelers expect it to carry the whole city by itself.
 
-## Why Hongyadong matters so much
+## Why Hongyadong still matters
 
 According to iChongqing's own attraction page, Hongyadong is one of the city's representative `three-dimensional` urban tourist areas, built around its cliffside stilt-building look, riverside position, and multi-level structure.
 
@@ -118,7 +118,7 @@ It gives you:
 
 For a short first trip, that is real value.
 
-## What you are really saying yes to
+## What you are really saying yes to here
 
 One reason Hongyadong needs a clearer page is that it often gets mistaken for the wrong kind of attraction.
 
@@ -138,7 +138,7 @@ That is also why Hongyadong usually works best late in the day.
 
 iChongqing's attraction page currently says the lights illuminate the area from around `6:00 pm` to `10:00 pm`, while the general site listing treats the attraction zone as open all day. The useful takeaway is not to memorize the exact clock. It is to understand that the visual payoff is strongly evening-weighted, so a daytime-only Hongyadong visit often undersells the place.
 
-## When is Hongyadong better than a Two Rivers cruise?
+## When Hongyadong beats a Two Rivers cruise
 
 For many first-time visitors, Hongyadong is the easier default and the `Two Rivers cruise` is the more event-like version of a skyline night.
 
@@ -157,7 +157,7 @@ The cruise usually beats Hongyadong when:
 
 If that exact decision still feels live, the narrower comparison page is [Two Rivers Cruise in Chongqing: Is It Worth It for First-Time Visitors?](/places/two-rivers-cruise/).
 
-## When is Hongyadong better than Nanbin Road?
+## When Hongyadong beats Nanbin Road
 
 For many first-time visitors, Hongyadong is the stronger `classic` answer and `Nanbin Road` is the calmer `scenic dinner-and-walk` answer.
 
@@ -283,7 +283,7 @@ This is where it works best as:
 
 That is the version where Chongqing stops feeling like only a viral backdrop and starts feeling like a fuller city.
 
-## What usually makes Hongyadong disappointing?
+## What usually makes Hongyadong feel disappointing
 
 Hongyadong often goes wrong when travelers:
 

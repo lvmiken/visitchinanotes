@@ -46,7 +46,7 @@ faq:
 
 For many first-time travelers, train class is not the question that should dominate the route. But once you already know which train you want, it can still be one of the most useful decisions to get right.
 
-## Who this is for
+## Read this once the train is chosen and comfort becomes the real question
 
 This page is for travelers asking:
 
@@ -61,7 +61,7 @@ If your real question is narrower than `all train classes` and has become the ve
 
 If your real question is no longer seat comfort but bag limits and suitcase friction, go straight to [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/).
 
-## The short answer
+## The first answer most travelers need
 
 For many first-time visitors:
 
@@ -186,7 +186,7 @@ First class becomes easier to justify if you want the day to feel smoother.
 
 First class is often the practical upgrade. Business class only makes sense if comfort is one of the actual priorities of the trip.
 
-## Quick examples first-time travelers actually recognize
+## A few examples first-time travelers actually recognize
 
 - **Beijing to Xi'an**: second class is often fine, but first class can be an easy upgrade if you want the arrival evening to stay more usable
 - **Shanghai to Hangzhou**: second class is usually enough unless you simply prefer a roomier ride

@@ -38,11 +38,13 @@ faq:
     answer: "Often yes, but the experience depends heavily on the city, hotel location, and whether the daily plan respects transport reality."
 ---
 
-City transport in China is often very manageable, but only when the route and hotel choice support it.
+Chinese cities are often easier to move around than first-time visitors expect, but they are not all easy in the same way. A Shanghai day, a Chongqing day, and a Beijing day may all look efficient on the map and feel completely different in the body.
+
+That is why the real transport question is rarely just metro versus taxi versus Didi. It is how the city is shaped, where you sleep, when you are moving, how tired you already are, and whether saving a little money is about to make the whole day worse.
 
 This page is the broad city-transport hub. It works best before you choose hotel areas or assume that every sightseeing day will move as easily as it looks on a map.
 
-## Who this page is for
+## The transport question most travelers are really asking
 
 This page is for travelers who are not asking, "Does China have metro?" They are asking:
 
@@ -57,7 +59,7 @@ If the bigger question is your whole phone toolkit for getting around, keep [Wha
 
 If the transport question is really being held up by wallet setup, backup cards, or whether Didi and day-to-day spending will actually clear, keep [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) open alongside this page.
 
-## The short answer
+## The honest short version
 
 For many first-time visitors:
 
@@ -67,7 +69,7 @@ For many first-time visitors:
 
 The common mistake is trying to optimize every ride separately instead of building days that need fewer painful rides in the first place.
 
-## Start with these three questions
+## Three questions that usually decide it
 
 Before you choose a transport mode, ask:
 
@@ -89,7 +91,7 @@ Metro is often the strongest option when:
 
 For many travelers, metro feels excellent once the day has already started well.
 
-## When Didi or taxi is the smarter travel decision
+## When paying for the easier ride makes sense
 
 For many first-time visitors, the car option is strongest when the day includes:
 
@@ -99,7 +101,7 @@ For many first-time visitors, the car option is strongest when the day includes:
 - late return with low energy
 - shopping bags, children, or heavier luggage
 
-## When taxi or ride-hailing is usually the better choice
+## Signs the car option will save the day
 
 Pay more for the easier ride when:
 
@@ -121,7 +123,7 @@ If the ride-hailing part itself is the blocker, go directly to [How to Use Didi 
 
 That car-versus-metro decision also gets much easier once payment is settled, especially if Didi is likely to be part of the plan.
 
-## City style matters more than many travelers expect
+## Each city has its own transport temperament
 
 Not all Chinese cities ask the same thing from your transport plan.
 
@@ -137,7 +139,7 @@ Places like Chongqing can make "short distance" feel much heavier than the map s
 
 For many trips, the best answer is metro during the core day and taxi or ride-hailing for the awkward first or last stretch.
 
-## Hotel choice is the real transport multiplier
+## Hotel location is the real transport multiplier
 
 Many travelers try to solve transport with apps when the better solution was choosing a better base.
 
@@ -152,7 +154,7 @@ If the hotel area is wrong, even a good metro system can feel like work.
 
 That is why this page pairs so naturally with [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) and city-specific hotel guides like [Where to Stay in Shanghai for a First Trip](/guides/shanghai-where-to-stay/) or [Where to Stay in Chongqing for a First Trip](/guides/chongqing-where-to-stay/).
 
-## What to watch out for
+## Where travelers misread the day
 
 ### Map distance can be misleading
 
@@ -166,7 +168,7 @@ Saving a small amount can be a bad trade if it costs energy you need for the res
 
 What works on day three may not be the right answer on day one with luggage and low energy.
 
-## Common city pattern shortcuts
+## Quick city patterns that help
 
 ### Shanghai-style days
 

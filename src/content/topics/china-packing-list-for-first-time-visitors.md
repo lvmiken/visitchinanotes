@@ -46,7 +46,7 @@ Many first-time visitors pack for China as if the trip will be decided by outfit
 
 That is what this page is trying to fix. A good China packing list is not about bringing more. It is about bringing the few things that prevent small daily failures from turning into real travel stress.
 
-## Who this is for
+## Read this if you want a calmer travel kit, not a fuller suitcase
 
 This page is for travelers who already know they are going to China and want a practical packing list, not a vague "bring layers" article.
 
@@ -57,7 +57,7 @@ It is especially useful if:
 - you expect long walking days
 - you want to avoid day-one friction more than you want a perfect suitcase aesthetic
 
-## The short answer
+## The first packing answer most travelers need
 
 Most first-time visitors should focus on six categories:
 

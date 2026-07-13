@@ -13,7 +13,7 @@ const reasons = [
 ];
 
 const expectations = [
-  "Messages are reviewed manually, not by an instant support desk.",
+  "Messages are read by a person, not an instant support queue.",
   "Editorial, correction, privacy, and partnership questions may be routed to the most relevant desk before reply.",
   "If the question depends on official transport, ticketing, visa, or attraction rules, official sources should still be treated as final.",
 ];
@@ -34,10 +34,10 @@ const editorialContacts = [
     <article class="hero article">
       <Breadcrumbs items={[{ label: "Home", href: "/" }, { label: "Contact" }]} />
       <p class="eyebrow">Contact</p>
-      <h1>Get in touch about corrections, partnerships, privacy, or general site questions.</h1>
+      <h1>Get in touch about corrections, partnerships, privacy, or broader site questions.</h1>
       <p>
-        If you need to reach the team about the content, a privacy question, a partnership idea, or a general site
-        issue, use the contact route below.
+        If you need to reach the editorial team about the content, a privacy question, a partnership idea, or a wider
+        site issue, this is the right route.
       </p>
       <div class="button-row">
         {contactEmail ? (
@@ -54,8 +54,8 @@ const editorialContacts = [
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">Best Use</p>
-        <h3>This page is for editorial or broader site questions, not a single travel decision.</h3>
+        <p class="eyebrow">Who This Is For</p>
+        <h3>Use this page for editorial and site-level questions, not for a single route decision.</h3>
       </div>
       <ul class="mini-list">
         <li>Content corrections and factual updates.</li>
@@ -78,7 +78,7 @@ const editorialContacts = [
 
   <section class="section-block card-surface">
     <p class="eyebrow">Editorial Routing</p>
-    <h2 class="section-title">How messages are routed</h2>
+    <h2 class="section-title">Where your note goes</h2>
     <ul class="mini-list">
       {editorialContacts.map((item) => <li>{item}</li>)}
     </ul>
@@ -91,7 +91,7 @@ const editorialContacts = [
 
   <section class="section-block card-surface">
     <p class="eyebrow">Email</p>
-    <h2 class="section-title">Primary Contact Method</h2>
+    <h2 class="section-title">How to reach us</h2>
     <p>
       {contactEmail
         ? <>The main contact address for this site is <a href={`mailto:${contactEmail}`}>{contactEmail}</a>.</>
@@ -113,7 +113,7 @@ const editorialContacts = [
 
   <section class="section-block card-surface">
     <p class="eyebrow">Related Pages</p>
-    <h2 class="section-title">Useful pages</h2>
+    <h2 class="section-title">Start with these pages</h2>
     <div class="button-row">
       <a class="button-link secondary" href="/about/">About</a>
       <a class="button-link secondary" href="/masthead/">Masthead</a>

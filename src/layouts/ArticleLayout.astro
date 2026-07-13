@@ -164,7 +164,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
     <aside class="card-surface stack">
       <div>
         <p class="eyebrow">At A Glance</p>
-        <h3>{isGuide ? "Best once the city is in the route and the details start to matter." : "Best once this one question starts shaping the rest of the trip."}</h3>
+        <h3>{isGuide ? "Read this once the city is in play and the details start to matter." : "Read this when one practical question begins shaping the rest of the trip."}</h3>
       </div>
       <p>{isGuide
         ? "Use it for stay decisions, trip length, city priorities, and the shape of the stop."
@@ -176,7 +176,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
       </ul>
       {isGuide ? (
         <div>
-          <p class="eyebrow">Quick Fit</p>
+          <p class="eyebrow">How To Use It</p>
           <p><strong>Planning stage:</strong> {stageLabel}</p>
           {entry.data.tripLength && <p><strong>Typical trip length:</strong> {entry.data.tripLength}</p>}
           {entry.data.whoItsFor.length > 0 && (
@@ -188,7 +188,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
         </div>
       ) : (
         <div>
-          <p class="eyebrow">Quick Fit</p>
+          <p class="eyebrow">How To Use It</p>
           {topicMomentLabel && <p><strong>Best read when:</strong> {topicMomentLabel}</p>}
           {entry.data.affectsCities.length > 0 && (
             <p><strong>Most relevant in:</strong> {entry.data.affectsCities.join(", ")}</p>
@@ -207,56 +207,6 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
         attributionUrl={entry.data.heroImageAttributionUrl}
         license={entry.data.heroImageLicense}
       />
-    </section>
-  )}
-
-  <section class="section-block card-surface">
-    <p class="eyebrow">Update Notes</p>
-    <h2 class="section-title">When this page was last updated</h2>
-    <p class="muted">
-      Published {entry.data.publishDate.toLocaleDateString("en-US")}
-      {entry.data.updatedDate
-        ? ` · Last updated ${entry.data.updatedDate.toLocaleDateString("en-US")}`
-        : " · This page has not required a later revision yet."}
-    </p>
-    <p>
-      {isGuide
-        ? "Guide pages are reviewed when route logic, stay advice, or city-planning assumptions need to be clarified."
-        : "Topic pages are reviewed when practical booking, payment, arrival, or transport assumptions need to be clarified."}
-    </p>
-    <div class="button-row">
-      <a class="button-link secondary" href="/editorial-policy/">See editorial standards</a>
-      {authorEntry && (
-        <a class="button-link secondary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>
-          {authorEntry.data.entityType === "organization" ? "See desk page" : "See author page"}
-        </a>
-      )}
-    </div>
-  </section>
-
-  {isGuide && cityHub && (
-    <section class="section-block card-surface">
-      <p class="eyebrow">From The Hub</p>
-      <h2 class="section-title">Keep going with the wider {cityHub.data.name} plan.</h2>
-      <p class="muted">
-        The city hub connects this guide with matching neighborhood, itinerary, and trip-basic pages so the route keeps making sense.
-      </p>
-      <div class="button-row">
-        <a class="button-link primary" href={`/destinations/${getCitySlug(cityHub)}/`}>See {cityHub.data.name} hub</a>
-        <a class="button-link secondary" href="/destinations/">All destinations</a>
-      </div>
-    </section>
-  )}
-
-  {!isGuide && topicCluster && (
-    <section class="section-block card-surface">
-      <p class="eyebrow">From The Topic Hub</p>
-      <h2 class="section-title">Keep this planning thread together through {topicCluster.title}.</h2>
-      <p class="muted">{topicCluster.description}</p>
-      <div class="button-row">
-        <a class="button-link primary" href={`/topics/${topicCluster.slug}/`}>See {topicCluster.title}</a>
-        <a class="button-link secondary" href="/topics/">All topics</a>
-      </div>
     </section>
   )}
 
@@ -291,6 +241,58 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
     )}
   </article>
 
+  <section class="section-block post-reading-tools" aria-label="Article notes and next steps">
+    <div class="support-grid">
+      <section class="card-surface support-card">
+        <p class="eyebrow">About This Piece</p>
+        <h2 class="support-title">What we checked</h2>
+        <p class="muted">
+          First published {entry.data.publishDate.toLocaleDateString("en-US")}
+          {entry.data.updatedDate ? ` · Updated ${entry.data.updatedDate.toLocaleDateString("en-US")}` : ""}
+        </p>
+        <p>
+          {isGuide
+            ? "We revisit city guides when route logic, stay advice, or local assumptions shift enough to change the reader's decisions."
+            : "We revisit practical topic pages when booking, payment, arrival, or transport details shift in ways that change the advice."}
+        </p>
+        <div class="button-row">
+          <a class="button-link secondary" href="/editorial-policy/">How we edit</a>
+          {authorEntry && (
+            <a class="button-link secondary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>
+              {authorEntry.data.entityType === "organization" ? "Meet the desk" : "Meet the editor"}
+            </a>
+          )}
+        </div>
+      </section>
+
+      {isGuide && cityHub && (
+        <section class="card-surface support-card">
+          <p class="eyebrow">Back To The City</p>
+          <h2 class="support-title">Read this inside the wider {cityHub.data.name} story.</h2>
+          <p class="muted">
+            The destination hub gathers stays, neighborhoods, pacing, and practical city reads in one place.
+          </p>
+          <div class="button-row">
+            <a class="button-link primary" href={`/destinations/${getCitySlug(cityHub)}/`}>Open {cityHub.data.name} hub</a>
+            <a class="button-link secondary" href="/destinations/">Browse destinations</a>
+          </div>
+        </section>
+      )}
+
+      {!isGuide && topicCluster && (
+        <section class="card-surface support-card">
+          <p class="eyebrow">In This Topic Series</p>
+          <h2 class="support-title">See where this question sits in the wider planning thread.</h2>
+          <p class="muted">{topicCluster.description}</p>
+          <div class="button-row">
+            <a class="button-link primary" href={`/topics/${topicCluster.slug}/`}>Open {topicCluster.title}</a>
+            <a class="button-link secondary" href="/topics/">Browse topics</a>
+          </div>
+        </section>
+      )}
+    </div>
+  </section>
+
   {!isGuide && relatedCities.length > 0 && (
     <section class="section-block">
       <h2 class="section-title">Destination Hubs Connected To This Topic</h2>
@@ -319,24 +321,24 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
   )}
 
   <PlanningHelpCallout
-    title={isGuide ? `Need help planning ${entry.data.city}?` : "Need help with this part of the trip?"}
+    title={isGuide ? `${entry.data.city} still needs a clearer shape?` : "Still deciding this part of the trip?"}
     description={isGuide
-      ? "If the city guide is useful but the route still needs a second set of eyes on pace, hotel area, or next steps, this is a good moment to ask."
-      : "If this topic solved part of the problem but the route still feels hard to settle, a light planning handoff can help."}
-    primaryLabel="Ask for a route check"
+      ? "If this guide clarified the city but not yet the pacing, hotel area, or what comes next, it may be time for a second pair of eyes."
+      : "If this page added context but the real decision still feels unsettled, a short planning note can help turn it into next steps."}
+    primaryLabel="Talk through the route"
     primaryHref="/plan-help/"
-    secondaryLabel={isGuide ? "See destination hubs" : "See topic hubs"}
+    secondaryLabel={isGuide ? "Browse destination hubs" : "Browse topic hubs"}
     secondaryHref={isGuide ? "/destinations/" : "/topics/"}
     bullets={isGuide
       ? [
-          "A quick sense-check on pacing and city fit.",
-          "Useful when hotel area or transfer logic still feels unclear.",
-          "A sensible handoff point before more bookings are locked in.",
+          "Sense-check how much time the city really needs.",
+          "Work out hotel area and transfer logic before bookings harden.",
+          "Ask for human help only where the route is still sticky.",
         ]
       : [
-          "Best when one planning question is still controlling the whole route.",
-          "Useful for turning general advice into city-specific next steps.",
-          "A good point to ask for partner help without overcomplicating the trip.",
+          "Useful when one practical question is still holding up the whole plan.",
+          "Good for turning general advice into city-specific next steps.",
+          "Best kept narrow: one question, one route, one decision.",
         ]}
   />
 
@@ -353,7 +355,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
       )}
       <div class="button-row">
         <a class="button-link primary" href={`/authors/${getAuthorSlug(authorEntry)}/`}>
-          {authorEntry.data.entityType === "organization" ? "See desk page" : "See author page"}
+          {authorEntry.data.entityType === "organization" ? "Meet the desk" : "Meet the editor"}
         </a>
         <a class="button-link secondary" href="/authors/">All editors and desks</a>
       </div>
@@ -371,7 +373,7 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
 
   {!isGuide && relatedGuides.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Related Guides</h2>
+      <h2 class="section-title">Guides To Read Alongside This</h2>
       <div class="grid two">
         {relatedGuides.map((guide) => <GuideCard guide={guide} />)}
       </div>
@@ -380,10 +382,45 @@ const socialImage = isGuide ? getGuideSocialImage(entry) : getTopicSocialImage(e
 
   {relatedTopics.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">{isGuide ? "Useful Next Reads" : "Keep Reading"}</h2>
+      <h2 class="section-title">Read Next</h2>
       <div class="grid two">
         {relatedTopics.map((topic) => <TopicCard topic={topic} />)}
       </div>
     </section>
   )}
 </BaseLayout>
+
+<style>
+  .post-reading-tools {
+    margin-top: 2rem;
+  }
+
+  .support-grid {
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    align-items: start;
+  }
+
+  .support-card {
+    padding: 1rem 1.1rem;
+  }
+
+  .support-title {
+    margin: 0 0 0.5rem;
+    font-size: 1.15rem;
+    line-height: 1.3;
+  }
+
+  .support-card p {
+    margin: 0.45rem 0;
+  }
+
+  .support-card .button-row {
+    margin-top: 0.9rem;
+  }
+
+  .support-card .button-link {
+    padding: 0.68rem 0.95rem;
+  }
+</style>

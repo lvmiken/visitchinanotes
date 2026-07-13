@@ -39,11 +39,13 @@ faq:
     answer: "Usually yes. A working internet plan makes navigation, communication, and arrival-day problem solving much easier."
 ---
 
-For many first-time visitors, internet readiness is the invisible layer that makes everything else feel manageable.
+For many first-time visitors, internet readiness is the invisible layer that decides whether China feels smooth or vaguely stressful from the first hour.
+
+When the phone works, a surprising number of problems shrink at once: finding the hotel, translating a message, paying for lunch, calling a car, checking a platform number, or simply calming down after a long flight. When it does not, even easy tasks start to feel heavier than they should.
 
 This page is the broad internet-prep hub. It works best before departure, especially if maps, translation, messaging, payment apps, or ride-hailing are central to how independently you want to travel.
 
-## Who this page is for
+## If the phone is going to carry the trip
 
 This page is the broad parent hub for travelers who know the phone will matter on the trip, but have not yet decided:
 
@@ -60,7 +62,7 @@ If you already know the specific question you need to solve, start with the narr
 
 If your broader worry is whether China will feel manageable without a tour once the phone becomes the center of so many daily tasks, also read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/).
 
-## Start with these three questions
+## Three questions to settle before you buy anything
 
 Before you buy anything, ask:
 
@@ -70,7 +72,7 @@ Before you buy anything, ask:
 
 Those three questions usually matter more than debating technical options in the abstract.
 
-## Think about what the phone is doing for the trip
+## Remember what the phone is actually doing on this trip
 
 It is not only about browsing. It may affect:
 
@@ -90,7 +92,7 @@ For many readers, the phone is doing at least five jobs at once:
 - hotel and restaurant communication
 - travel-day reassurance when something changes
 
-## The two decisions that matter most
+## The two internet decisions that matter most
 
 For most short-term travelers, internet prep becomes much easier when broken into two decisions:
 
@@ -108,7 +110,7 @@ If that is your real blocker, read [Do You Need a VPN in China? What Travelers S
 
 If the narrower practical question is whether Apple Maps itself is good enough in China or whether you still need a China-specific backup, go next to [Apple Maps in China: Does It Work Well Enough for Travelers?](/topics/apple-maps-in-china-does-it-work-well-enough-for-travelers/).
 
-## What most first-time travelers should do
+## What most first-time travelers should actually do
 
 For many readers, the easiest low-stress answer is:
 
@@ -121,7 +123,7 @@ That baseline gets even stronger when you already know which arrival transport p
 
 That setup is usually more valuable than trying to save a small amount and then solving connectivity after landing.
 
-## The safest low-stress setup for most travelers
+## The lowest-stress setup for most travelers
 
 If you want the calmest first-day experience, the strongest baseline is usually:
 
@@ -139,7 +141,7 @@ If you want the calmest first-day experience, the strongest baseline is usually:
 - deciding on VPN needs too late
 - forgetting that payments and ride-hailing become harder when data is unstable
 
-## Make day one simpler
+## Fix this before day one has a chance to wobble
 
 If internet access is already planned, the first arrival day usually feels smoother and less reactive.
 

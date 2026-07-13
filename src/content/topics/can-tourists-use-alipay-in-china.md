@@ -42,9 +42,11 @@ faq:
     answer: "Before arrival is usually better because it is easier to handle verification, card linking, and app testing before the first purchase matters."
 ---
 
-Many first-time visitors ask whether tourists can actually use Alipay in China or whether that is only true in theory. The short answer is that many travelers can get it working, but the experience is much smoother when they prepare early and do not assume every app step will succeed instantly.
+Many first-time visitors hear that China is now a QR-code country and immediately jump to one anxious question: if I land without Alipay working, does the whole trip become awkward?
 
-## Who this is for
+The honest answer is less dramatic than that, but also less effortless than some marketing copy suggests. Many travelers do get Alipay working before or during the trip. The ones who feel calm on the ground are usually the ones who treat it as part of trip preparation rather than as a magic app they will sort out in a taxi queue.
+
+## Read this if Alipay is carrying too much of your day-one anxiety
 
 This page is for foreign tourists who want Alipay to work as a practical travel tool, not just as a vague idea they hope to sort out after landing.
 
@@ -54,7 +56,7 @@ It is especially useful if:
 - you expect to pay for meals, transport, and small purchases independently
 - you do not want to discover payment problems at the airport, station, or checkout line
 
-## What Alipay is actually helping with
+## What Alipay changes once you are on the ground
 
 For tourists, Alipay is not only about replacing cash. It usually helps with the rhythm of the trip itself:
 
@@ -65,7 +67,7 @@ For tourists, Alipay is not only about replacing cash. It usually helps with the
 
 That is why this page works best alongside [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/). If the phone connection is weak, payment confidence usually drops with it.
 
-## What to prepare before you start
+## What to have ready before you touch the setup
 
 Before opening the app, have these ready:
 
@@ -77,7 +79,7 @@ Before opening the app, have these ready:
 
 The exact Alipay screens can change over time, but the preparation logic usually does not. Most setup failures happen because one of these pieces is missing or untested.
 
-## Step 1: Install the correct app and create the account
+## Step 1: Get the real app installed and the account open
 
 Download the official Alipay app from the normal app store for your device and create an account with your mobile number.
 
@@ -89,7 +91,7 @@ What matters here:
 
 If registration already feels unstable, stop and solve that before trying to add cards or build the rest of the payment plan around it.
 
-## Step 2: Complete identity checks if the app asks for them
+## Step 2: Treat identity checks as part of the setup, not an annoying extra
 
 Tourists often get stuck because they treat verification as optional friction instead of part of the real setup.
 
@@ -101,7 +103,7 @@ If Alipay asks for identity information:
 
 This is also why setting Alipay up at home is usually better than trying to solve it at the airport hotel after a long flight.
 
-## Step 3: Add your bank card and check whether it actually links
+## Step 3: Link the card, then ask whether it is truly usable
 
 This is the step where many travelers discover the difference between "the app opened" and "the payment setup is really usable."
 
@@ -113,7 +115,7 @@ When adding a card:
 
 A linked card is a strong sign, but it is still not the same as a real successful payment. If possible, treat setup as incomplete until you have reasonable confidence the wallet will work in practice.
 
-## Step 4: Understand what usually works once you are in China
+## Step 4: Know where it usually works and where confidence can still wobble
 
 For many tourists, Alipay is most useful in ordinary spending situations rather than in one dramatic travel moment.
 
@@ -133,7 +135,7 @@ It may feel less predictable when:
 
 The practical lesson is simple: "Alipay available in theory" and "this exact payment is working right now" are not always the same thing.
 
-## Step 5: Test the full travel setup, not only the wallet
+## Step 5: Check the whole payment chain, not just the wallet screen
 
 The strongest travelers do not only ask, "Did the app install?" They ask:
 

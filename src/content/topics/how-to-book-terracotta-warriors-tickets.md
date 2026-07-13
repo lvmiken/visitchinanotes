@@ -34,11 +34,13 @@ faq:
     answer: "Bring the original valid ID document used for booking. The official museum guidance says ticket verification is done against the original document, including passports."
 ---
 
-If the Terracotta Army is one of the main reasons Xi'an is in your trip, do not treat the ticket as an afterthought.
+If the Terracotta Army is one of the main reasons Xi'an made your shortlist, the booking deserves to be handled like a real anchor, not like a museum stop you can improvise on the way out the door.
+
+This is one of those sights where the emotional weight of the place is so large that travelers often underestimate the administrative part. In practice, the calmer trip comes from settling the reservation first and letting the rest of the day arrange itself around that fact.
 
 This guide uses the Qin museum's official ticket and visitor guidance checked on **June 18, 2026**.
 
-## Who this is for
+## What most foreign visitors need to know first
 
 This page is for travelers trying to answer:
 
@@ -49,7 +51,7 @@ This page is for travelers trying to answer:
 
 If you are still deciding whether the Terracotta Army should control a major part of your Xi'an stay, keep [Terracotta Army for First-Time Visitors: How Much of Your Xi'an Trip It Should Control](/places/terracotta-army/) open too.
 
-## The short answer
+## The booking answer in one minute
 
 Yes, foreign visitors can book Terracotta Warriors tickets using passport information.
 
@@ -61,7 +63,7 @@ The Qin museum's official guidance says:
 
 If this is one of the anchor sights in your Xi'an route, handle the reservation before you let the rest of that day harden around vague assumptions.
 
-## Step 1: Use the official museum channel
+## Step 1: Start with the official museum channel
 
 The official museum site is:
 
@@ -78,7 +80,7 @@ The museum's official ticket guidance also says reservations can be made through
 
 If the ticket matters, start with the official channel rather than whichever reseller page appears first.
 
-## Step 2: Use passport details carefully
+## Step 2: Treat passport details like ticket details
 
 The museum's official ticket guidance says passport information can be used for booking.
 
@@ -92,7 +94,7 @@ Be careful about:
 
 The official visitor guidance says ticket verification is done against the **original valid ID document**, and passports are specifically included.
 
-## Step 3: Book before you travel out there
+## Step 3: Do not wait until you are on the way
 
 The museum's official visitor guidance says visitors should complete online ticket purchase before coming, partly to avoid transport congestion and partly because the site uses real-name booking and daily capacity control.
 
@@ -103,7 +105,7 @@ The official guide currently says:
 
 That does not mean every ordinary day is impossible. It does mean you should not build a must-do Xi'an excursion around "we'll sort it out when we get there."
 
-## Step 4: Understand what the ticket includes
+## Step 4: Know what kind of visit you are actually booking
 
 The official museum guide says the visit covers both:
 
@@ -117,7 +119,7 @@ The museum also says:
 
 That is very useful because it changes how you think about the day. This is usually not a tiny one-hour stop.
 
-## Step 5: Know the opening rhythm
+## Step 5: Respect the site's daily rhythm
 
 The current official museum guide shows:
 
@@ -127,7 +129,7 @@ The current official museum guide shows:
 
 In practice, that means a slow or vague start can damage the visit more than travelers expect.
 
-## What should most readers do?
+## What most readers should actually do
 
 If the Terracotta Army is one of the main reasons you came to Xi'an:
 

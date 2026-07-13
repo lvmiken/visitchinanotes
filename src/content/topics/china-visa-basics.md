@@ -37,6 +37,10 @@ faq:
 
 Visa questions are not the most exciting part of trip planning, but they are one of the few things that can reshape the entire route if handled too late.
 
+## Read this before entry assumptions quietly harden into route mistakes
+
+The point of this page is not to replace official rules. It is to remind you that visa logic belongs at the start of planning, not after flights, city order, and non-refundable hotel nights begin to stack up.
+
 ## Solve entry assumptions before building the itinerary
 
 If entry rules affect your plans, they may also affect:

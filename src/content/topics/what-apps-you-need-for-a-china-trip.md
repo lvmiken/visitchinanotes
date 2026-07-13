@@ -42,13 +42,13 @@ faq:
     answer: "12306 is the official railway platform, while Trip.com is often easier for international users. The best choice is the one you are comfortable using before the trip starts."
 ---
 
-Most travelers do not need "all the apps for China." They need a phone that stays useful when one ordinary travel moment becomes messy.
+Most travelers do not need “all the apps for China.” They need a phone that stays useful when one ordinary travel moment becomes messy.
 
 That means a payment screen that works when you are ordering lunch, a map you can trust when you leave a station, a ride-hailing fallback when the weather turns bad, and one train-booking path you already understand before tickets matter.
 
 The best setup is smaller than people expect and more finished than people usually prepare.
 
-## Who this page is for
+## Read this if you want a phone that feels calmer, not busier
 
 This page is for travelers who want a realistic pre-departure phone stack rather than a long list of famous apps.
 
@@ -59,7 +59,7 @@ It is especially useful if:
 - you are not sure which apps are truly essential
 - you want the phone to feel calmer, not busier
 
-## The editorial answer
+## The first answer most travelers actually need
 
 For many first-time visitors, five layers are enough:
 
@@ -132,7 +132,7 @@ For most travelers, the practical choice is:
 
 The point is not which one is philosophically better. The point is whether you already trust one path before tickets become time-sensitive.
 
-## What makes app setups fail
+## What usually makes app setups fail
 
 Most bad phone setups do not fail because the traveler downloaded too little. They fail because the setup stopped halfway.
 
@@ -145,7 +145,7 @@ That usually means:
 
 An installed app is not the same thing as a ready tool.
 
-## The non-app layers that still control the phone
+## The non-app layers that still decide whether the phone works
 
 Some of the most important phone decisions are not about what you open all day. They are about whether the phone remains usable when you need it.
 

@@ -45,8 +45,8 @@ const quickStartTopics = (cluster.quickStartTopicSlugs ?? cluster.topicSlugs.sli
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">Best Use</p>
-        <h3>Use this hub when one planning question starts shaping everything else.</h3>
+        <p class="eyebrow">How To Use This Hub</p>
+        <h3>Start here when one planning question begins steering everything else.</h3>
       </div>
       <p class="muted">{cluster.whenToUse}</p>
       <ul class="mini-list">
@@ -55,37 +55,10 @@ const quickStartTopics = (cluster.quickStartTopicSlugs ?? cluster.topicSlugs.sli
     </aside>
   </section>
 
-  {(cluster.solveFirst?.length || cluster.avoidFirst?.length) && (
-    <section class="section-block card-surface">
-      <p class="eyebrow">Editors&apos; View</p>
-      <h2 class="section-title">This hub works best when it simplifies one problem instead of multiplying small decisions.</h2>
-      <div class="feature-grid">
-        {cluster.solveFirst?.length ? (
-          <article class="card-surface">
-            <p class="eyebrow">Solve First</p>
-            <h3>What to lock down early.</h3>
-            <ul class="mini-list">
-              {cluster.solveFirst.map((item) => <li>{item}</li>)}
-            </ul>
-          </article>
-        ) : null}
-        {cluster.avoidFirst?.length ? (
-          <article class="card-surface">
-            <p class="eyebrow">Avoid Next</p>
-            <h3>The mistakes that make this part of the trip heavier than it needs to be.</h3>
-            <ul class="mini-list">
-              {cluster.avoidFirst.map((item) => <li>{item}</li>)}
-            </ul>
-          </article>
-        ) : null}
-      </div>
-    </section>
-  )}
-
   {quickStartTopics.length > 0 && (
     <section class="section-block card-surface">
       <p class="eyebrow">Quick Start</p>
-      <h2 class="section-title">If you want the shortest path through this problem, start with these three reads.</h2>
+      <h2 class="section-title">If you want the cleanest path through this subject, begin with these three reads.</h2>
       <div class="feature-grid">
         {quickStartTopics.map((topic, index) => (
           <article class="card-surface">
@@ -100,15 +73,42 @@ const quickStartTopics = (cluster.quickStartTopicSlugs ?? cluster.topicSlugs.sli
 
   <section class="section-block">
     <h2 class="section-title">Included Topics</h2>
-    <p class="muted">Use the quick path above if you want the shortest route, or read across the full hub below if the question still needs a fuller answer.</p>
+    <p class="muted">Take the quick path above, or move through the full set below if the decision still needs more context.</p>
     <div class="grid two">
       {clusterTopics.map((topic) => <TopicCard topic={topic} />)}
     </div>
   </section>
 
+  {(cluster.solveFirst?.length || cluster.avoidFirst?.length) && (
+    <section class="section-block card-surface">
+      <p class="eyebrow">Editors&apos; Notes</p>
+      <h2 class="section-title">This hub is strongest when it clears one knot instead of creating five smaller ones.</h2>
+      <div class="feature-grid">
+        {cluster.solveFirst?.length ? (
+          <article class="card-surface">
+            <p class="eyebrow">Solve First</p>
+            <h3>What to settle early.</h3>
+            <ul class="mini-list">
+              {cluster.solveFirst.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+        ) : null}
+        {cluster.avoidFirst?.length ? (
+          <article class="card-surface">
+            <p class="eyebrow">Avoid Next</p>
+            <h3>What usually makes this subject feel heavier than it is.</h3>
+            <ul class="mini-list">
+              {cluster.avoidFirst.map((item) => <li>{item}</li>)}
+            </ul>
+          </article>
+        ) : null}
+      </div>
+    </section>
+  )}
+
   {relatedCities.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Destination Hubs That Often Connect To This Topic</h2>
+      <h2 class="section-title">Destination Hubs That Pair Well With This Topic</h2>
       <div class="grid two">
         {relatedCities.map((city) => <CityCard city={city} />)}
       </div>
@@ -116,16 +116,16 @@ const quickStartTopics = (cluster.quickStartTopicSlugs ?? cluster.topicSlugs.sli
   )}
 
   <PlanningHelpCallout
-    title={`Need help with ${cluster.title.toLowerCase()}?`}
-    description="If this planning area is still the part holding the route back, a light partner introduction can help turn the advice into a clearer next step."
-    primaryLabel="Start a planning request"
+    title={`Still untangling ${cluster.title.toLowerCase()}?`}
+    description="If this question is still holding the route in place, a short planning note can help turn the reading into a decision."
+    primaryLabel="Talk through the route"
     primaryHref="/plan-help/"
-    secondaryLabel="See destination hubs"
+    secondaryLabel="Browse destination hubs"
     secondaryHref="/destinations/"
     bullets={[
-      "Best when the route is partly shaped but still feels uncertain.",
-      "Useful for hotel-area advice, pacing checks, or practical next-step help.",
-      "Keep the request focused on the one planning problem that still needs human input.",
+      "Best when the route is partly shaped but one question still keeps it from settling.",
+      "Useful for hotel-area choices, pacing checks, or practical next steps.",
+      "Keep the note narrow and specific for the clearest answer.",
     ]}
   />
 </BaseLayout>

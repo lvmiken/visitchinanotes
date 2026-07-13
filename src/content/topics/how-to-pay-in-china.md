@@ -50,7 +50,7 @@ They want to know whether they can buy lunch, call a car, pay at a convenience s
 
 That is the right question to ask.
 
-## Who this page is for
+## Read this if payment is still carrying too much of the trip anxiety
 
 This page is for travelers who want a payment setup that works in real travel conditions, not just a list of possible methods.
 
@@ -63,7 +63,7 @@ It is especially useful if you still need to answer:
 
 If your only remaining decision is which mobile wallet to set up first, move next to [Alipay or WeChat Pay for Tourists in China? What to Set Up First](/topics/alipay-wechat-pay/).
 
-## The editorial answer
+## The first answer most travelers actually need
 
 For most first-time visitors, the best payment plan is not one perfect method. It is one sturdy stack:
 
@@ -75,7 +75,7 @@ That is usually enough to keep ordinary tourist life moving even when one app, o
 
 The goal is not to look maximally local. The goal is to make payment boring.
 
-## The best default stack for most travelers
+## The strongest default stack for most travelers
 
 If you want the shortest practical answer, use this:
 
@@ -147,7 +147,7 @@ Most payment stress does not happen in ideal conditions. It happens when several
 
 That is why payment planning belongs in the same preparation block as [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) and [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/).
 
-## What "ready" actually means before departure
+## What “ready” really means before departure
 
 A payment setup is not ready because an app was downloaded. It is ready when you can look at the trip and say:
 
@@ -158,7 +158,7 @@ A payment setup is not ready because an app was downloaded. It is ready when you
 
 If you cannot say those things yet, the setup still is not finished.
 
-## What works best in real travel situations
+## How the payment stack behaves in real travel situations
 
 ### Arrival day
 
@@ -176,7 +176,7 @@ For a short city break, one main wallet plus one backup often is enough, especia
 
 The longer and more self-guided the trip becomes, the more valuable redundancy becomes too. Trains, late arrivals, and more independent movement all increase the number of moments where a small payment failure becomes disproportionately annoying.
 
-## What not to do
+## What not to build the whole trip around
 
 Do not make the whole trip depend on:
 

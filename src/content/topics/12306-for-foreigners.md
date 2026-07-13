@@ -50,7 +50,7 @@ It is a booking tool, not a trip-design tool. When the city order, station logic
 
 This page is here to help you use 12306 at the right moment and with the right expectations.
 
-## Who this page is for
+## Read this once rail is likely and booking is the next real job
 
 This page is for foreign travelers who already think rail is likely and now want to use the official booking channel without unnecessary friction.
 
@@ -63,7 +63,7 @@ It is especially useful if you still need to answer:
 
 If you still are not sure rail is even the right mode, go back first to [China High-Speed Rail for Tourists: How It Works and What to Expect](/topics/high-speed-rail/) and [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/).
 
-## The editorial answer
+## The first answer most travelers need
 
 Yes, foreigners can use 12306. The harder part is not eligibility. The harder part usually is preparation.
 
@@ -76,7 +76,7 @@ Yes, foreigners can use 12306. The harder part is not eligibility. The harder pa
 
 In other words: 12306 is easier when booking is the only problem left.
 
-## What to solve before you open the booking flow
+## What to settle before you open the booking flow
 
 Before you try to buy anything, you should already know:
 
@@ -88,7 +88,7 @@ Before you try to buy anything, you should already know:
 
 If those things still are not clear, stop and solve the route first. A booking platform should confirm a plan, not create one.
 
-## What 12306 is really good for
+## What 12306 actually does well
 
 12306 is useful because it is the official railway channel. That matters most for travelers who want the direct booking path once their rail plan already is settled.
 
@@ -100,7 +100,7 @@ The platform is strongest when:
 
 If the broader ticket-buying logic still is the blocker, the better parent page is [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/).
 
-## What usually trips people up
+## Where first-time users usually get tangled
 
 Most first-time problems are not about the payment button. They usually are one of these:
 
@@ -112,7 +112,7 @@ Most first-time problems are not about the payment button. They usually are one 
 
 That is why 12306 often feels hard to the wrong user and perfectly reasonable to the prepared user.
 
-## Why station logic matters more than people expect
+## Why station choice matters more than people expect
 
 Many booking mistakes are not "train mistakes." They are station mistakes.
 
@@ -130,7 +130,7 @@ So before opening 12306, make sure the station pair itself already makes sense. 
 - [Xi'an to Chengdu by High-Speed Rail: Is This China's Best Contrast Route?](/topics/xian-to-chengdu-by-high-speed-rail-is-this-chinas-best-contrast-route/)
 - [Shanghai, Suzhou, and Hangzhou by High-Speed Rail: The Easiest East-China Soft Route?](/topics/shanghai-suzhou-and-hangzhou-by-high-speed-rail-the-easiest-east-china-soft-route/)
 
-## Register early, not urgently
+## Register early, not in a rush
 
 The biggest psychological mistake with 12306 is treating account setup like it belongs inside the booking emergency.
 
@@ -145,7 +145,7 @@ Create the account early enough that you have room for:
 
 The more important the train is to the route, the less sensible it is to leave setup to the last minute.
 
-## Treat passenger details like booking data, not casual profile data
+## Treat passenger details like ticket data, not casual profile data
 
 Rushed travelers often make 12306 feel harder than it is by being casual with names and document details.
 
@@ -157,7 +157,7 @@ Be deliberate about:
 
 One small inconsistency can create much more annoyance than the rest of the platform.
 
-## Use 12306 when the route deserves precision
+## Use 12306 when the route is ready for precision
 
 There are travelers who do better with a more international-feeling booking path. That is fine. But if you are using 12306 directly, the best moment is when the route already deserves precision rather than brainstorming.
 

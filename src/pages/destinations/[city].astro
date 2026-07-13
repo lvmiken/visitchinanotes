@@ -361,9 +361,9 @@ const socialImage = getCitySocialImage(city);
       <h1>{city.data.name}</h1>
       <p>{city.data.intro}</p>
       <div class="button-row">
-        <a class="button-link primary" href="#city-guides">Start with {city.data.name} reads</a>
-        <a class="button-link secondary" href="#trip-basics">See trip basics</a>
-        {relatedPlaces.length > 0 && <a class="button-link secondary" href="#places-cluster">See place picks</a>}
+        <a class="button-link primary" href="#city-guides">Start with the city reads</a>
+        <a class="button-link secondary" href="#trip-basics">Practical trip basics</a>
+        {relatedPlaces.length > 0 && <a class="button-link secondary" href="#places-cluster">Place picks</a>}
       </div>
     </div>
 
@@ -484,7 +484,7 @@ const socialImage = getCitySocialImage(city);
 
   {quickStartGuides.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Start With These Reads</h2>
+      <h2 class="section-title">City Reads To Start With</h2>
       <p class="muted">
         If {city.data.name} is already on the short list, these are the clearest pieces to read first before you go
         deeper into hotels, day order, or booking details.
@@ -497,7 +497,7 @@ const socialImage = getCitySocialImage(city);
 
   {practicalGuides.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Practical Reads That Carry The Trip</h2>
+      <h2 class="section-title">Practical Reads That Make The Stop Work</h2>
       <p class="muted">
         Once the city is firmly in the route, these are usually the pages that keep the trip feeling smooth: where to
         stay, how to arrive, how to move around, what to book early, and how to recover a day that shifts under you.
@@ -510,7 +510,7 @@ const socialImage = getCitySocialImage(city);
 
   {clusterSteps.length > 0 && (
     <section class="section-block">
-      <h2 class="section-title">Build {city.data.name} In A Sensible Order</h2>
+      <h2 class="section-title">A Clear Reading Order For {city.data.name}</h2>
       <div class="feature-grid">
         {clusterSteps.map((step, index) => (
           <article class="card-surface">
@@ -544,7 +544,7 @@ const socialImage = getCitySocialImage(city);
   </section>
 
   <section class="section-block" id="city-guides">
-    <h2 class="section-title">Planning Reads For {city.data.name}</h2>
+    <h2 class="section-title">City Guides For {city.data.name}</h2>
     {guidesByStage.length > 0 ? (
       <div class="stack">
         {guidesByStage.map((group) => (
@@ -558,7 +558,7 @@ const socialImage = getCitySocialImage(city);
         ))}
       </div>
     ) : (
-      <p>More city-specific guides are on the way. For now, start with the trip basics below before you lock in plans.</p>
+      <p>More city-specific guides are still being edited. For now, start with the trip basics below before you lock the plan.</p>
     )}
   </section>
 
@@ -601,7 +601,7 @@ const socialImage = getCitySocialImage(city);
   )}
 
   <section class="section-block" id="trip-basics">
-    <h2 class="section-title">Trip Basics For {city.data.name}</h2>
+    <h2 class="section-title">Trip Basics Around {city.data.name}</h2>
     <p class="muted">These topic pages answer the practical questions that quietly decide whether the city feels easy, expensive, rushed, or surprisingly calm.</p>
     <div class="stack">
       {topicMomentsForCity.map((group) => (
@@ -617,16 +617,16 @@ const socialImage = getCitySocialImage(city);
   </section>
 
   <PlanningHelpCallout
-    title={`Need help turning ${city.data.name} into a workable route?`}
-    description={`If the city looks right but the stay length, hotel area, or onward pairing still feels uncertain, this is the point where a light planning check can help.`}
-    primaryLabel="Ask for a route check"
+    title={`${city.data.name} still not fully in focus?`}
+    description={`If the city feels right but the stay length, hotel area, or onward pairing still will not settle, this is a good moment for a second pair of eyes.`}
+    primaryLabel="Talk through the route"
     primaryHref="/plan-help/"
     secondaryLabel={`Back to ${city.data.name} reads`}
     secondaryHref="#city-guides"
     bullets={[
-      `Check whether ${city.data.name} should be a main stop or an add-on.`,
-      "Get a quick sense-check on hotel area, route pacing, and transfer fit.",
-      "Use a partner introduction only when you want human help with the next step.",
+      `Check whether ${city.data.name} should carry real weight or stay a lighter stop.`,
+      "Sense-check hotel area, pacing, and transfer logic.",
+      "Use human help only for the decision that still refuses to settle.",
     ]}
   />
 </BaseLayout>

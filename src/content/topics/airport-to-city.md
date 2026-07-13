@@ -47,7 +47,7 @@ Many bad first evenings are not caused by China being difficult. They are caused
 
 This page is here to keep day one from becoming the part that shakes your confidence.
 
-## Who this page is for
+## Read this before you let the landing day overpromise
 
 This page is for travelers who still need the broad arrival framework before they choose the exact airport transfer method.
 
@@ -60,7 +60,7 @@ It is especially useful if you are asking:
 
 If you already know the landing city and exact airport, the airport-specific page usually is the better next click.
 
-## The short answer most travelers need
+## The first arrival truth most travelers need
 
 For many first-time visitors, the best airport transfer is not the one that looks fastest on paper. It is the one that still feels manageable after immigration, baggage claim, and a long flight.
 
@@ -72,7 +72,7 @@ That usually means choosing:
 
 The question is not "What is the smartest transfer in theory?" The question is "What kind of first evening gives the trip the best start?"
 
-## Start with four arrival decisions
+## Start with four arrival decisions, not one transport obsession
 
 Before comparing metro, taxi, airport rail, or ride-hailing, answer these four questions:
 
@@ -124,7 +124,7 @@ That can mean:
 
 Travelers often resist this because it feels less "efficient." In practice, it can protect the rest of the trip.
 
-## What makes arrival feel harder than expected
+## What makes arrival feel heavier than expected
 
 The airport itself usually is not the whole problem. The friction comes from the chain:
 
@@ -139,7 +139,7 @@ The last part of the route is often where confidence drops. Not because the trip
 
 That is why arrival-day planning should be judged by how much uncertainty it removes, not by how elegant it sounds.
 
-## The first hotel matters more than travelers expect
+## The first hotel matters more than many travelers expect
 
 A first-night hotel should be chosen partly for how it receives you, not only for how photogenic the neighborhood is the next morning.
 
@@ -152,7 +152,7 @@ Good first-night hotel logic often means:
 
 Sometimes the best first-night base is not your dream neighborhood. It is the neighborhood that lets the trip start cleanly.
 
-## Can you sightsee on landing day?
+## How much should you expect from landing day?
 
 Usually less than people imagine.
 
@@ -172,7 +172,7 @@ An ambitious landing day is often a mistake if:
 
 The first victory of the trip does not need to be a landmark. Sometimes it is simply arriving, checking in, eating, and sleeping without drama.
 
-## Use the city page once the airport is known
+## Move to the city page once the airport is known
 
 Once the broad arrival framework is clear, move into the city-specific page quickly instead of staying on the parent hub too long.
 

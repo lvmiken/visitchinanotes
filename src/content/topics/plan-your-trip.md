@@ -39,13 +39,13 @@ faq:
     answer: "At minimum they should confirm payment options, transport assumptions, hotel locations, and whether key attractions require reservations."
 ---
 
-The first China route usually goes wrong in a very predictable way: the trip gets built from attractions outward instead of from constraints inward.
+The first China route usually goes wrong in a very predictable way: it gets built from temptations outward instead of from limits inward.
 
-Travelers start with every tempting city, every famous landmark, and every "while you are there" detour. Only later do they notice that hotel changes, arrival fatigue, train days, and payment setup are now controlling the whole trip.
+Travelers begin with every seductive city, every famous landmark, every scenic add-on, every "while you are there" detour. Only later do they notice that hotel changes, arrival fatigue, train days, and payment setup have quietly taken over the trip and pushed the actual experience to the margins.
 
 This page is here to stop that from happening early.
 
-## Who this page is for
+## If the trip still feels like a pile of tabs
 
 This page is for travelers who already know they want to visit China, but have not yet turned that desire into a route with a believable rhythm.
 
@@ -56,7 +56,7 @@ It is most useful if your planning still sounds like one of these:
 - "I keep adding things, but I have not decided what the trip is actually trying to do."
 - "I am not sure which practical problems should be solved before hotels and trains."
 
-## The editorial answer
+## The route answer, stripped down
 
 For most first-time visitors, the stronger route is the one that does less but lands more cleanly.
 
@@ -71,7 +71,7 @@ The best first trip rarely feels "maximized." It feels edited.
 
 If total trip length is still the main unresolved question, read [How Many Days Do You Need for Your First China Trip?](/topics/how-many-days-do-you-need-for-your-first-china-trip/) before you force a city count.
 
-## Build the route in this order
+## Build the route in this order instead
 
 Most weak itineraries are not weak because the cities are wrong. They are weak because the decisions happened in the wrong order.
 
@@ -86,7 +86,7 @@ Use this sequence instead:
 
 If one of those earlier layers is still fuzzy, the day-by-day plan will usually stay fuzzy too.
 
-## What usually fits by trip length
+## What usually fits, by trip length
 
 These are not laws. They are the ranges where first trips most often stay comfortable.
 
@@ -106,7 +106,7 @@ Three cities can work well, but only if the third one plays a clear role. It sho
 
 If your dates are fixed around two weeks, use [Best China Itinerary for 14 Days](/topics/best-china-itinerary-14-days/) for the stronger route shapes.
 
-## What makes a first route collapse
+## What usually makes a first route collapse
 
 These are the route patterns that most often create the illusion of a rich trip while actually draining it:
 
@@ -118,7 +118,7 @@ These are the route patterns that most often create the illusion of a rich trip 
 
 The issue usually is not one single bad choice. It is cumulative friction.
 
-## Let transfer days count as real travel
+## Count transfer days as real travel days
 
 A train or flight is not just its scheduled duration. A move between cities also means:
 
@@ -140,7 +140,7 @@ Every extra move should earn its place by doing at least one of these:
 
 If a move does none of those things, it usually belongs on the cutting-room floor.
 
-## What to solve before you start filling days
+## What to solve before you start filling the calendar
 
 The most useful planning pages are not always the glamorous ones. They are the ones that decide whether the route will feel smooth once it becomes real.
 
@@ -155,7 +155,7 @@ Before you start placing attractions into a calendar, solve these:
 
 That is why pages like [Where to Start Planning a First Trip to China](/topics/where-to-start/), [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/), and [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/) are route pages, not side-admin pages.
 
-## What a strong first-trip structure often looks like
+## What a strong first-trip structure usually looks like
 
 Many first trips work best when each stop has one honest job.
 
@@ -173,7 +173,7 @@ What usually works less well:
 
 The route should read like a sequence, not a stack.
 
-## What to cut first when the draft feels too full
+## What to cut first when the draft starts swelling
 
 If your route is getting crowded, cut in this order:
 

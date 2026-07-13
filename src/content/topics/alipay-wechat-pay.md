@@ -36,13 +36,15 @@ faq:
     answer: "In many situations, yes. Mobile payment readiness can make transport, food ordering, and day-to-day purchases much smoother."
 ---
 
-For many foreign travelers, payment setup is one of the first practical anxieties about visiting China. The good news is that mobile payment is much more accessible to visitors than it used to be. The harder part is not whether payment apps exist, but deciding which one to set up first, how much to rely on it, and how to avoid turning one app problem into a day-one travel problem.
+For many foreign travelers, the payment question arrives earlier than almost anything else. Before they choose neighborhoods or train times, they want to know whether China will feel workable at the level of coffee, metro gates, convenience stores, and a last-minute ride back to the hotel.
 
-This page is the broad payment-comparison hub. It reflects the tourist setup reality covered in the narrower Alipay and WeChat Pay guides in this cluster, updated in **June 2026**. Exact app screens and bank behavior can still change, so the wallet-specific child pages are the best place for the latest setup detail.
+The reassuring part is that mobile payment is far more accessible to visitors than it once was. The harder part is judgment: which wallet to set up first, how much to rely on it, and what kind of backup keeps one app glitch from turning into a day-one problem.
+
+This page is the broader comparison view for that decision, reflecting the tourist setup reality covered in the narrower Alipay and WeChat Pay guides in this cluster, updated in **June 2026**. Exact app screens and bank behavior can still change, so the wallet-specific child pages are still the best place for the latest setup detail.
 
 If your real question is broader than "which wallet first?" and is really about cash, cards, and the safest overall payment mix, start with [Cash, Card, Alipay, or WeChat Pay: How to Pay in China](/topics/how-to-pay-in-china/).
 
-## Who this page is for
+## If you are deciding which wallet to trust first
 
 This page is for first-time visitors who do not want a vague answer like "China uses QR codes." They want to know:
 
@@ -56,7 +58,7 @@ If you already know which wallet you want to focus on, go straight to the narrow
 - [Can Tourists Use Alipay in China? A Step-by-Step Setup Guide](/topics/can-tourists-use-alipay-in-china/)
 - [Can Tourists Use WeChat Pay in China? What Actually Works](/topics/can-tourists-use-wechat-pay-in-china/)
 
-## Start with these three questions
+## Three questions worth asking first
 
 Before you decide which wallet to prioritize, ask:
 
@@ -66,7 +68,7 @@ Before you decide which wallet to prioritize, ask:
 
 Those three questions matter more than arguing about which app sounds more local.
 
-## Why this matters before arrival
+## Why this belongs on the pre-departure list
 
 Many travelers worry about payments before they finalize cities, hotels, or transport. Solving that question early makes the rest of the trip feel much more manageable.
 
@@ -78,7 +80,7 @@ If you want the full payment-stack answer rather than only the wallet comparison
 
 If your bigger question is not only which wallet to set up but whether China will feel workable without a tour, keep [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) nearby too.
 
-## The short answer
+## The practical answer
 
 Most first-time visitors should assume that mobile payment will make the trip easier, but they should not assume one wallet solves every situation automatically.
 
@@ -168,7 +170,7 @@ Keep a backup because:
 
 Cash is not the main strategy for most first-time visitors, but it can still help absorb arrival-day friction. A physical card is also useful when a larger venue accepts it directly.
 
-## Remove this uncertainty early
+## Solve this one early and the rest gets easier
 
 If payment feels unclear, travelers often hesitate on other decisions too. Once this part is solved, it becomes much easier to judge metro use, food options, casual purchases, and how independent the trip can feel day to day.
 

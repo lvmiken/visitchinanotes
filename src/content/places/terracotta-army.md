@@ -43,7 +43,7 @@ For many first-time travelers, the Terracotta Army is not just another Xi'an sig
 
 This page was updated against the Qin Shi Huang Mausoleum Museum's official ticketing and visitor guidance checked on **June 21, 2026**. The official museum currently says the site uses real-name advance booking, time-slot entry, and one ticket that covers both the Terracotta Warriors museum area and Lishan Garden. Live official rules should always win if they change.
 
-## Who this is for
+## Before you let the Terracotta Army claim a Xi'an day
 
 Use this page if you are deciding:
 
@@ -55,7 +55,7 @@ If the answer already is yes and the live problem now is ticketing, go straight 
 
 If the answer already is yes and the live problem now is transport and day shape, go straight to [How to Get From Xi'an to the Terracotta Army and Plan a Realistic Half Day](/guides/terracotta-army-half-day-from-xian/).
 
-## The short answer
+## The short answer, with the romance and the friction both included
 
 For many first-time visitors, yes, the Terracotta Army is worth it.
 
@@ -73,7 +73,7 @@ It becomes less compelling when:
 
 The practical rule is simple: for most first-time travelers, this is worth doing. But it is only worth doing well if you let it shape the day honestly.
 
-## Why this place matters so much
+## Why this place carries so much of Xi'an's weight
 
 The Terracotta Army matters because it gives Xi'an one of the strongest clear-anchor sights in a first China itinerary.
 
@@ -83,7 +83,7 @@ If the site already feels like a yes, but the excursion day itself still feels l
 
 If the value question already is settled and the live question now is how to use the museum's main payoff hall without letting the visit get blurry, the sharper child page is [Terracotta Army Pit 1: How to See the Main Hall Without Losing the Day](/guides/terracotta-army-pit-1-how-to-see-the-main-hall-without-losing-the-day/).
 
-## What you are really saying yes to
+## What you are really agreeing to when you say yes
 
 One reason this page deserves a firmer answer is that the Terracotta Army is not a tiny single-hall stop.
 
@@ -104,7 +104,7 @@ It does mean the real commitment is usually bigger than:
 
 This is why the site often feels rewarding for first-timers and frustrating for overpackers at the same time.
 
-## When should it control the day?
+## When it deserves to control the day
 
 It should usually control the day when:
 
@@ -223,7 +223,7 @@ It is often the wrong move when:
 
 For many first-time visitors, the cleaner answer is one stronger Terracotta Army outing and one stronger old-city day.
 
-## What should you pair it with?
+## What actually pairs well with it
 
 Pair it with a lighter Xi'an evening rather than another heavy historical block.
 

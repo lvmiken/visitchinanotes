@@ -42,13 +42,13 @@ faq:
     answer: "Hotel level, solo room pricing, long multi-city routes, private transfers, and high-friction arrival choices usually raise the budget faster than meals or metro fares do."
 ---
 
-Many travelers ask whether China is cheap or expensive when the real question is more specific: "What kind of China trip am I actually trying to buy?"
+Many travelers ask whether China is cheap or expensive when the better question is more specific: what kind of China trip are you actually trying to buy?
 
 That is the question that helps. A fast-moving first trip with central hotels in Beijing and Shanghai, a Great Wall day, a couple of airport transfers, and one intercity train is not the same budget as a slower route with simpler hotels and fewer moves.
 
 This guide is written as practical planning help, with city hotel pricing references and transport assumptions checked on **June 18, 2026**. Exact room rates, flight prices, and exchange rates always move, so use this page to build a realistic budget range rather than to chase a fake exact number.
 
-## Who this is for
+## Read this before you turn a vague budget into a false exact number
 
 This page is for travelers who want a real planning number before they book, not a vague answer like "China can be cheap."
 
@@ -59,7 +59,7 @@ It is especially useful if:
 - you are unsure whether China will feel closer to a budget trip or a comfort trip
 - you want to know which decisions actually move the budget up
 
-## The short answer
+## The first budget answer most travelers need
 
 For many first-time visitors, a China trip in 2026 is often **good value on the ground**, but it is not automatically a shoestring trip if you want:
 
@@ -107,7 +107,7 @@ Those are not promises. They are market snapshots. The planning lesson is more i
 
 That is why [How to Choose the Right Hotel Location in China Cities](/topics/choosing-hotel-location/) matters just as much as the nightly rate itself.
 
-## Food is flexible, but not the main budget problem
+## Food is flexible, but it is rarely the main budget problem
 
 China can still be very manageable for food spending if you eat simply, mix local restaurants with cafes, and do not turn every meal into a special event.
 
@@ -128,7 +128,7 @@ If your trip feels expensive, the bigger cause is often:
 
 not the dumplings.
 
-## Local transport is usually manageable until you start buying convenience
+## Local transport usually stays manageable until you start buying convenience
 
 In many cities, metro is still a strong value tool. Costs rise when the trip becomes more convenience-led:
 

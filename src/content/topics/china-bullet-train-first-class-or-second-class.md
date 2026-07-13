@@ -46,7 +46,7 @@ is `first class` actually worth it, or is `second class` already fine?
 
 For many first-time visitors, that is the real bullet-train question.
 
-## Who this page is for
+## Read this when the route is set and the comfort question is the only one left
 
 Use this page if you already know you are taking a train and the live question is:
 
@@ -59,7 +59,7 @@ If you still are not sure whether rail itself makes sense for the segment, step 
 
 If the remaining question is not the seat but the suitcase, the narrower companion page is [How Much Luggage Can You Bring on China High-Speed Rail?](/topics/how-much-luggage-can-you-bring-on-china-high-speed-rail/).
 
-## The short answer
+## The first answer most travelers need
 
 For many first-time visitors:
 
@@ -108,7 +108,7 @@ It is often the sensible one.
 
 In other words, first class pays off most when the seat is helping rescue the day, not merely decorating it.
 
-## What changes in real life
+## What actually changes on the day
 
 For most tourists, first class changes the ride in practical ways rather than dramatic ones.
 

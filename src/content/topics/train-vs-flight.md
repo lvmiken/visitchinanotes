@@ -41,9 +41,11 @@ faq:
     answer: "Often yes between well-connected major cities, but the better option depends on the full travel day, the hotel locations, and how much friction the route can absorb."
 ---
 
-Choosing between high-speed rail and a flight is usually less about transport loyalty and more about which option makes the whole route feel lighter.
+Choosing between high-speed rail and a flight is usually less about transport ideology and more about which option lets the route keep its composure.
 
-## Who this page is for
+On paper, the faster answer can be obvious. In practice, the better answer often lives in the hours around the segment: getting out of the hotel, waiting, arriving on the far side, and deciding whether you still have a usable evening left.
+
+## If the segment is fixed but the mode is not
 
 This page is for travelers who already know the city order, but still need to answer:
 
@@ -52,7 +54,7 @@ This page is for travelers who already know the city order, but still need to an
 - is the faster-looking option really better?
 - how much friction can this travel day absorb?
 
-## The short answer
+## The practical short answer
 
 For many first-time visitors:
 
@@ -64,7 +66,7 @@ That means rail often wins on simplicity, while flights win when geography start
 
 For many first-time China routes, the most common decision is not "train or plane in theory?" It is "Does Beijing-Xi'an or Beijing-Shanghai work better as a rail day than a flight day?" That is where this page is meant to help.
 
-## Start with these four comparisons
+## Four comparisons to make before you book
 
 Before you book anything, compare the segment in this order:
 
@@ -75,7 +77,7 @@ Before you book anything, compare the segment in this order:
 
 If one option looks faster but makes the day more fragmented, it is often not the better choice for a first trip.
 
-## Compare the whole day, not only the segment
+## Compare the whole day, not just the line item
 
 The right question is not just "Which is faster?" It is:
 
@@ -85,7 +87,7 @@ The right question is not just "Which is faster?" It is:
 
 If the route is already leaning toward rail, continue with [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) instead of treating train choice and train booking as the same question.
 
-## What usually pushes the answer toward rail
+## What usually tilts the answer toward rail
 
 Rail usually gets stronger when:
 
@@ -106,7 +108,7 @@ Rail often works best when the day should feel compact and controlled rather tha
 
 That is one reason Beijing-Xi'an often tilts toward rail for first-time visitors, even when the train itself is not the shortest-looking line item on paper.
 
-## What usually pushes the answer toward a flight
+## What usually tilts the answer toward a flight
 
 Flights get stronger when:
 
@@ -126,7 +128,7 @@ Flights are not wrong just because rail is fashionable. They are wrong only when
 
 This is also why Xi'an and other short, focused stops can be damaged by the wrong transport choice more easily than travelers expect. A bad transfer day can consume a meaningful share of the whole stop.
 
-## How hotel location can flip the answer
+## How hotel location can flip the verdict
 
 This is one of the most common first-time planning mistakes.
 
@@ -146,7 +148,7 @@ This is why [How to Choose the Right Hotel Location in China Cities](/topics/cho
 
 Once the mode decision starts changing the actual route, open the destination hub that sits on the other end of the segment. [Harbin](/destinations/harbin/) is a classic example where a long transfer can quietly decide whether the winter chapter is still worth it, [Guilin](/destinations/guilin/) and [Yangshuo](/destinations/yangshuo/) matter when the real question is gateway versus scenic overnight, and [Nanjing](/destinations/nanjing/), [Hong Kong](/destinations/hong-kong/), or [Shenzhen](/destinations/shenzhen/) are often the better next pages when the transport choice is really deciding what kind of city experience comes next.
 
-## What first-time travelers often underestimate
+## What first-time travelers routinely underestimate
 
 ### Airport overhead
 
@@ -160,7 +162,7 @@ Rail is simpler than flying in many cases, but major stations are still large tr
 
 If one option ends closer to the hotel or the next attraction cluster, that is real value even if the ticket itself is not the cheapest.
 
-## Quick route-pattern examples
+## Quick route patterns that help
 
 You do not need to memorize every city pair. You only need to recognize the route shape.
 
@@ -176,7 +178,7 @@ You do not need to memorize every city pair. You only need to recognize the rout
 - segments where rail would consume too much sightseeing time
 - itineraries where an early departure or late arrival is acceptable because it saves a large chunk of the day
 
-## Let route calmness win
+## Let route calmness win the argument
 
 If one option saves a little time but adds more uncertainty, the calmer choice is often the better one for a first trip.
 

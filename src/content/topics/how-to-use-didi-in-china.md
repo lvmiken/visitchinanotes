@@ -46,7 +46,7 @@ Many travelers think the hard part of using Didi in China is language. Usually i
 
 This guide is written as practical travel advice, using official Beijing foreigner transport guidance checked on **June 17, 2026** plus Didi's current app and download references. Exact app screens can change, but the setup logic stays similar.
 
-## Who this is for
+## Read this before your first pickup becomes the stressful part of the day
 
 This page is for travelers who want to use Didi as a real trip tool, not just as a vague backup idea.
 
@@ -61,7 +61,7 @@ If your bigger question is still when to choose metro and when to pay for a car,
 
 If you are really trying to judge whether independent travel in China feels practical at all, pair this with [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/).
 
-## The short answer
+## The first answer most travelers need
 
 Yes, many foreign travelers can use Didi in China without speaking Chinese. The easiest setup usually looks like this:
 

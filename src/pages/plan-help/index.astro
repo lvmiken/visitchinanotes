@@ -9,15 +9,15 @@ const contactEmail = import.meta.env.PUBLIC_CONTACT_EMAIL || defaultContactEmail
 const helpAreas = [
   {
     title: "Route and pacing check",
-    description: "Best when the trip still feels too dense, too vague, or too hard to judge city by city.",
+    description: "Useful when the trip still feels too dense, too vague, or too hard to judge city by city.",
   },
   {
     title: "Hotel area and transport fit",
-    description: "Best when the right city is chosen but the day-to-day movement still feels uncertain.",
+    description: "Useful when the right city is chosen but the day-to-day movement still feels uncertain.",
   },
   {
     title: "Partner handoff for booking support",
-    description: "Best when a traveler wants a human partner to help with the practical next steps.",
+    description: "Useful when a traveler wants a human partner to help with the practical next steps.",
   },
 ];
 
@@ -46,17 +46,17 @@ const partnerSteps = [
 
 <BaseLayout
   title="Plan Help | Route Checks And Travel Partner Introductions"
-  description="Get a calmer route check, hotel-area advice, or a partner introduction for a first trip to China."
+  description="Talk through route shape, hotel areas, or next-step planning for a first trip to China."
   noindex={true}
   showAds={false}
 >
   <section class="split-hero">
     <div class="hero article">
       <p class="eyebrow">Plan Help</p>
-      <h1>Get help when the route is almost there, but still needs a human sanity check.</h1>
+      <h1>Get a second pair of eyes on a trip that is close, but not quite settled.</h1>
       <p>
-        This page is for travelers who already have a rough trip shape and want help with pacing, hotel areas,
-        transport fit, or a partner introduction for the next step.
+        This page is for travelers who already have the outline and want help with pacing, hotel areas,
+        transport logic, or a careful handoff for the next step.
       </p>
       <div class="button-row">
         <a class="button-link primary" href="#request-help">Start the request</a>
@@ -67,8 +67,8 @@ const partnerSteps = [
 
     <aside class="card-surface stack">
       <div>
-        <p class="eyebrow">Best For</p>
-        <h3>Use this when the trip is shaped, but not yet settled.</h3>
+        <p class="eyebrow">When This Helps</p>
+        <h3>Best once the broad shape is there and the remaining decisions affect the whole trip.</h3>
       </div>
       <ul class="mini-list">
         <li>You already have a shortlist of cities.</li>
@@ -92,8 +92,8 @@ const partnerSteps = [
 
   <PlanningHelpCallout
     eyebrow="Before You Ask"
-    title="A better request starts with a clearer route outline."
-    description="The more specific the route, pace, and pain points are, the easier it is to figure out the right next step."
+    title="A stronger request starts with a clearer route outline."
+    description="The more concrete the route, rhythm, and sticking points are, the easier it is to point you toward the right next move."
     primaryLabel="Jump to request"
     primaryHref="#request-help"
     secondaryLabel="Read trip basics"
@@ -102,7 +102,7 @@ const partnerSteps = [
   />
 
   <section class="section-block">
-    <h2 class="section-title">How Partner Introductions Work</h2>
+    <h2 class="section-title">How A Partner Introduction Works</h2>
     <div class="feature-grid">
       {partnerSteps.map((step) => (
         <article class="card-surface">
@@ -114,7 +114,7 @@ const partnerSteps = [
   </section>
 
   <section class="section-block card-surface">
-    <p class="eyebrow">Before You Submit</p>
+    <p class="eyebrow">Before You Share Details</p>
     <h2 class="section-title">Privacy And Partner Disclosure</h2>
     <p>
       If you ask for partner help, the trip outline and contact details may be shared with a suitable travel partner so

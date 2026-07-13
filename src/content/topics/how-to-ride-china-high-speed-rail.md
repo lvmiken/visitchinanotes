@@ -46,7 +46,7 @@ If this is your first high-speed rail trip in China, the most useful mindset is 
 
 This page uses current 12306 official English guidance checked on **June 18, 2026**. The precise layout of individual stations can vary, but the first-time rhythm is stable enough that good preparation makes a big difference.
 
-## Who this is for
+## Read this once the train is booked and the station day becomes real
 
 This page is for travelers who already know they are taking high-speed rail and now want to understand:
 
@@ -57,7 +57,7 @@ This page is for travelers who already know they are taking high-speed rail and 
 
 If you still have not decided whether rail is even the right intercity choice, go back first to [High-Speed Rail in China for Tourists: What to Expect](/topics/high-speed-rail/) and [High-Speed Rail or Flight in China: Which Makes More Sense for Your Route?](/topics/train-vs-flight/).
 
-## The short answer
+## The first answer most travelers need
 
 For most first-time visitors, a successful train day looks like this:
 
@@ -87,7 +87,7 @@ That means screenshots, itinerary sheets, or order emails are helpful for your o
 
 If the booking itself is not done yet, stop here and go back to [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/) or [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/) first. Station-day prep only becomes simple once the exact train is already settled.
 
-## How early should you arrive?
+## How much buffer should you really leave?
 
 A first-time visitor should usually think in terms of **comfortable buffer**, not minimum survival timing.
 
@@ -104,7 +104,7 @@ Because the real station day includes:
 
 If you are using a very large station, carrying luggage, or traveling at a busy hour, being a little earlier is usually much smarter than trying to cut it close.
 
-## What station entry feels like
+## What station entry usually feels like
 
 Most first-time travelers are surprised by the scale rather than by the rules.
 
@@ -153,7 +153,7 @@ Once the gate opens, the main tasks are:
 
 The practical goal is not to be first onto the platform. The goal is to stay oriented and avoid last-minute panic.
 
-## What the train itself is like
+## What the train itself is actually like
 
 For many travelers, this is the part that feels refreshingly simple.
 

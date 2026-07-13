@@ -42,13 +42,13 @@ faq:
     answer: "No. If you think you may need one, install and test it before departure."
 ---
 
-Many travelers ask whether they need a VPN in China when the real question is more specific: "Will the apps and websites I personally rely on still work the way I expect once I land?"
+Many travelers ask whether they need a VPN in China when the better question is much more personal: which apps, sites, and devices would actually make the trip harder if they stopped behaving normally after landing?
 
 That is a much better way to frame the problem. Some visitors mostly need WeChat, Alipay, local maps, ride-hailing, hotel bookings, and translation. Others need Gmail, Google Maps, WhatsApp, Instagram, Google Workspace, Slack, or work logins from a laptop on hotel Wi-Fi. Those are not the same trip.
 
 This page is practical planning guidance based on current travel-provider information and common traveler use cases checked on **June 17, 2026**. Internet routing and access behavior can change, so the safest approach is always to test your own setup before departure.
 
-## Who this is for
+## Read this if “internet access” means more than just being online
 
 This page is for travelers who want a practical answer before departure, not a dramatic one.
 
@@ -63,7 +63,7 @@ If your first problem is still choosing mobile data, read [Best eSIM for China i
 
 If your wider problem is making sure the whole phone stack still works once you land, keep [What Apps You Need for a China Trip](/topics/what-apps-you-need-for-a-china-trip/) open too.
 
-## The short answer
+## The decision in plain language
 
 ### You probably do need a VPN if
 
@@ -81,7 +81,7 @@ If your wider problem is making sure the whole phone stack still works once you 
 
 In other words, "need" depends on your tools, not your passport.
 
-## What actually changes the answer
+## The things that really change the answer
 
 ### 1. Which apps and sites matter to you
 
@@ -115,7 +115,7 @@ If you also need:
 
 then a VPN is still much more worth preparing.
 
-## When you can often skip the VPN
+## When you can often leave the VPN out
 
 For many normal sightseeing trips, you may not need a dedicated VPN if all of these are true:
 
@@ -126,7 +126,7 @@ For many normal sightseeing trips, you may not need a dedicated VPN if all of th
 
 That is why some travelers honestly report "I never needed a VPN in China," while others say the opposite. They were not solving the same problem.
 
-## When you should prepare one anyway
+## When it is worth preparing one anyway
 
 You should take the VPN question more seriously if any of these apply:
 
@@ -159,7 +159,7 @@ That setup is strongest when it also accounts for where the first airport or sta
 
 That often works better than emotionally debating whether you "should" use a VPN in the abstract.
 
-## What to do before the trip
+## What to sort out before the flight
 
 ### Make a real app list
 
@@ -184,7 +184,7 @@ Ask yourself:
 - if my phone works but my laptop does not, what is the backup?
 - if one VPN or one network path fails, what is the next move?
 
-## What travelers often get wrong
+## Where travelers usually misjudge the problem
 
 ### Assuming "internet access" means "everything works normally"
 
@@ -202,7 +202,7 @@ If you need it, the setup belongs in the pre-trip checklist.
 
 If your trip is short, phone-based, and built around local travel apps, you may not need a heavy technical stack. Do not let internet anxiety become its own planning hobby.
 
-## A practical note on certainty
+## One note about certainty
 
 China internet behavior, provider routing, and tool reliability can change. This page is practical travel guidance, not legal or compliance advice. If your employer, institution, or client work depends on uninterrupted access, do not rely only on a general travel article. Treat that as a separate risk decision and test your setup properly.
 

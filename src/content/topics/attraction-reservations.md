@@ -41,7 +41,7 @@ That is how travelers end up protecting the wrong things, locking too much too e
 
 This page is here to separate the bookings that actually shape the route from the ones that only look important because they are famous.
 
-## Who this page is for
+## Read this before every famous sight starts looking equally urgent
 
 This page is for travelers who already have a mostly stable route and now need to decide which tickets or timed entries deserve real protection.
 
@@ -54,7 +54,7 @@ It is especially useful if you are asking:
 
 If your real problem already is one specific attraction, the narrower attraction page usually is better than this parent hub.
 
-## The editorial answer
+## The first answer most travelers need
 
 Do not try to prebook the whole trip.
 
@@ -127,7 +127,7 @@ In Shanghai, a full-day anchor can stop being "just a ticket" and become the org
 
 That is why reservations overlap naturally with [Airport to City in China: What First-Time Travelers Should Expect](/topics/airport-to-city/), [How to Plan Your First China Trip Without Overbuilding the Route](/topics/plan-your-trip/), and [China High-Speed Rail for Tourists: How It Works and What to Expect](/topics/high-speed-rail/) once the route is already tight.
 
-## A good booking order for most trips
+## A better booking order for most trips
 
 This sequence usually works better than protecting everything at once:
 

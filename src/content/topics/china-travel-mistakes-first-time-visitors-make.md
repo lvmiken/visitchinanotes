@@ -42,13 +42,13 @@ faq:
     answer: "Use fewer cities, choose better-located hotels, solve phone and payment setup before departure, and treat airport days and train days as real travel days."
 ---
 
-Many first-time visitors do not ruin a China trip with one dramatic mistake. They make five or six small planning errors that all hit on the same day.
+Many first-time visitors do not ruin a China trip with one dramatic mistake. They make five or six small planning errors that all arrive on the same day.
 
 That is what this page is trying to prevent. The usual problem is not that China is impossible. The problem is that travelers underestimate how much smoother the trip becomes when route shape, hotel base, payment setup, and arrival-day logic are handled in the right order.
 
 If your core question is still whether the country itself feels manageable without a tour, read [Is China Easy to Travel Independently in 2026?](/topics/is-china-easy-to-travel-independently/) alongside this page. The two questions overlap, but they are not exactly the same.
 
-## Who this is for
+## Read this if the plan looks exciting on paper but a little fragile in practice
 
 This page is for travelers who already have a rough China plan, but want to catch the mistakes that most often make a first trip feel harder than it should.
 
@@ -59,7 +59,7 @@ It is especially useful if:
 - the trip looks exciting but a little crowded
 - you want to avoid practical errors more than you want more inspiration
 
-## The short answer
+## The first pattern most travelers need to notice
 
 Most first-time China travel mistakes come from one pattern:
 

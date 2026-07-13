@@ -42,7 +42,7 @@ If you are still deciding how important the Palace Museum should be inside the w
 
 If you already understand the official steps and the real pain point is why foreign visitors still get stuck in practice, the companion troubleshooting page is [Forbidden City Booking Problems: What Foreign Visitors Usually Get Stuck On](/guides/forbidden-city-booking-problems-what-foreign-visitors-usually-get-stuck-on/).
 
-## Who this is for
+## Read this before the Palace Museum quietly starts controlling the whole day
 
 This page is for foreign travelers who are trying to answer the practical booking questions:
 
@@ -53,7 +53,7 @@ This page is for foreign travelers who are trying to answer the practical bookin
 
 If your bigger question is still whether the Forbidden City should control a full Beijing day, keep the broader parent guide [What to Reserve in Advance for China Trips](/topics/attraction-reservations/) open too.
 
-## The short answer
+## The first answer most travelers need
 
 Yes, foreigners can book Forbidden City tickets with a passport. But the booking process is strict enough that you should not leave it vague.
 

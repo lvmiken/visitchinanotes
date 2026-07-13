@@ -42,9 +42,11 @@ faq:
     answer: "Before arrival is usually better, because registration, card linking, and identity checks are less stressful when you are not trying to solve them between flights, trains, or meals."
 ---
 
-Many first-time visitors hear that WeChat Pay is everywhere in China and assume they either need it immediately or will never be able to use it at all. The reality sits in between those extremes. Many tourists can get WeChat Pay working well enough for ordinary travel spending, but the app feels much easier when you understand what problem it is actually solving and what still needs a backup.
+Many first-time visitors hear that WeChat Pay is everywhere in China and assume they either need it immediately or will never get it working at all.
 
-## Who this is for
+The truth is more ordinary than either extreme. For many travelers, WeChat Pay works well enough to handle everyday spending. It just makes the most sense when you know whether it is meant to be your main wallet, your backup wallet, or simply one more tool that makes the day run more smoothly.
+
+## Read this if you want a realistic WeChat Pay setup, not a slogan
 
 This page is for travelers who want a realistic answer, not a one-line promise.
 
@@ -56,7 +58,7 @@ It is especially useful if:
 
 If you are still deciding between the two main wallets, start with the broader parent guide [How Foreign Tourists Can Use Alipay and WeChat Pay in China](/topics/alipay-wechat-pay/).
 
-## What WeChat Pay is actually good for on a trip
+## Where WeChat Pay actually earns its keep on a trip
 
 For tourists, WeChat Pay is not mainly about becoming a full local power user. It is about making ordinary spending less awkward.
 
@@ -69,7 +71,7 @@ In practical travel terms, that usually means:
 
 That "backup route" point matters more than many travelers expect. Even if Alipay is your main plan, having WeChat Pay ready can save time and stress when one app asks for another verification step or one linked card suddenly behaves differently.
 
-## What to prepare before you start
+## What to line up before you start
 
 Before you try to enable payment inside WeChat, have these ready:
 
@@ -81,7 +83,7 @@ Before you try to enable payment inside WeChat, have these ready:
 
 Also make sure your general phone setup is solid. Payments, maps, ride-hailing, and translation all become harder when the phone connection is unstable. That is why this page pairs naturally with [SIM, eSIM, and Internet Prep for China Trips](/topics/esim-and-internet/).
 
-## Step 1: Get the account itself stable first
+## Step 1: Make the account stable before you ask it to handle money
 
 Before thinking about payment, make sure the basic WeChat account is usable:
 
@@ -92,7 +94,7 @@ Before thinking about payment, make sure the basic WeChat account is usable:
 
 This sounds obvious, but a surprising number of travel problems happen because the messaging app exists on the phone without being truly ready for a stressful travel day.
 
-## Step 2: Turn on WeChat Pay and follow the identity prompts carefully
+## Step 2: Enter the payment side slowly and finish the identity steps properly
 
 Once the account is stable, move into the wallet or payment section and follow the prompts carefully.
 
@@ -104,7 +106,7 @@ The important mindset here is that tourist payment setup is usually a real onboa
 
 Trying to rush this after arrival often makes the app feel more hostile than it really is.
 
-## Step 3: Link the card and treat "linked" as only the middle of the job
+## Step 3: Treat “linked” as the middle of the job, not the end
 
 Many travelers stop the moment the card appears inside the app and assume the hard part is over. That is better than nothing, but it is not the same as a trustworthy travel setup.
 
@@ -117,7 +119,7 @@ After linking the card, ask:
 
 The difference between "the card is visible" and "the payment stack is dependable" is where many first-time visitors get caught.
 
-## What actually works for tourists
+## What tends to work well for tourists
 
 For the kind of traveler use that matters most, WeChat Pay is usually strongest in ordinary merchant-payment situations.
 
@@ -131,7 +133,7 @@ That often includes:
 
 The useful test is not whether WeChat Pay can do everything locals do. The useful test is whether it can cover enough ordinary spending that your day moves smoothly.
 
-## Where tourists still hit friction
+## Where the friction usually shows up
 
 This is the part many pages skip, even though it is the part travelers actually need.
 

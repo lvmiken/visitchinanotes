@@ -44,7 +44,7 @@ Used well, it turns major city pairs into clean, central-to-central travel days.
 
 This page is not here to romanticize trains. It is here to help you decide when rail genuinely improves the trip.
 
-## Who this page is for
+## Read this before rail starts looking like the answer to every city pair
 
 This page is for travelers who still need the broad rail framework before they move into booking details.
 
@@ -57,7 +57,7 @@ It is especially useful if you still are asking:
 
 If your route already is stable and the real question is now the booking workflow, move next to [How to Book High-Speed Train Tickets in China](/topics/book-high-speed-train/). If the booking platform itself is the blocker, go to [12306 for Foreigners: How to Book Trains in China](/topics/12306-for-foreigners/). If the stress is the day-of-travel experience, use [How to Ride China High-Speed Rail for the First Time](/topics/how-to-ride-china-high-speed-rail/).
 
-## The editorial answer
+## The first answer most travelers need
 
 For many first-time visitors, rail is the best intercity option between major China cities because it often protects the door-to-door day better than flying.
 

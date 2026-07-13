@@ -41,25 +41,27 @@ faq:
     answer: "Yes. Some city combinations feel much better in one season than another, so timing should shape the route early."
 ---
 
-The best time to visit China depends less on finding one magical month and more on choosing a season that makes your actual route easier to enjoy.
+The best time to visit China depends less on finding one magical month and more on choosing a season that makes your actual route easier to live with.
 
-## Who this is for
+China is too large, too climatically uneven, and too route-dependent for a single neat answer. The right timing is the one that helps your real cities feel good together, not the one that wins a generic popularity contest.
+
+## Read this before you lock flights out of habit
 
 This page is for travelers who already know they want to visit China, but are still deciding when the trip should happen.
 
-## The short answer
+## The first answer most travelers actually need
 
 For many first-time visitors, **spring and autumn** are the easiest seasons to build around because they make multi-city routes more forgiving.
 
 That does not mean summer and winter are always bad. It means they ask for more intentional city choices, pacing, and expectations.
 
-## How to choose the season
+## How to think about the season, not just the weather
 
 - Choose spring or autumn first if you want the easiest all-around first trip.
 - Choose by route, not only by one city, if the itinerary includes more than one stop.
 - Choose the season that matches your energy and comfort, not only the cheapest fare.
 
-## What each season is best for
+## What each season really asks of the trip
 
 ### Spring
 
@@ -97,7 +99,7 @@ Winter can be rewarding, especially for travelers who prefer lower tourist press
 
 It often suits readers who want fewer cities, stronger indoor planning, and clear expectations about cold northern days.
 
-## What to watch out for
+## What changes the trip more than people expect
 
 Summer heat, winter cold in northern cities, and high-traffic holiday periods can change how manageable the trip feels more than many first-time visitors expect.
 
@@ -117,7 +119,7 @@ If the route is turning toward a tropical island finish rather than a cooler inl
 
 If the route is no longer about the usual giant-city shortlist and the real question is whether a lower-hype stop should be coastal-historical, East China literary, or southwest food-led, the better comparison page is [Quanzhou, Shaoxing, or Guiyang? Which Lower-Hype China City Fits Your Trip Best](/topics/quanzhou-shaoxing-or-guiyang-which-city-fits-you/).
 
-## Match the season to the route
+## Match the season to the route, not the other way around
 
 If you are still building the route, ask:
 
