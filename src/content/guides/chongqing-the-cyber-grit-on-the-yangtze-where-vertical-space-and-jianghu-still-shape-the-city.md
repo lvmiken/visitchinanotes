@@ -1,6 +1,6 @@
 ---
 title: "Chongqing, The Cyber-Grit on the Yangtze: Where Vertical Space and Jianghu Still Shape the City"
-description: "A deeper Chongqing guide for foreign travelers who want more than cyberpunk photo stops, with vertical-city logic, bomb-shelter afterlives, riverfront intensity, food heat, industrial memory, and the rough-edged human energy that still defines the city."
+description: "Come for the vertigo, stay for the human heat: stairways, bomb shelters, river fog, hard food, hard music, and a city that still lives like an argument with gravity."
 publishDate: 2026-07-10
 updatedDate: 2026-07-10
 city: "chongqing"
@@ -103,6 +103,8 @@ its so-called cyberpunk quality is not only style.
 It is terrain made visible.
 
 ## The Vertigo: the city that teaches through disorientation
+
+![Baixiangju's stacked residential geometry showing Chongqing's vertical everyday life from street level.](/images/heroes/chongqing-baixiangju-apartment.jpg)
 
 The internet usually introduces Chongqing through visual contradiction.
 
@@ -226,6 +228,8 @@ Chongqing is one of those cities where the night does not belong only to views a
 If you want the operational version, [Where to Eat Late-Night in Chongqing for First-Time Visitors](/guides/where-to-eat-late-night-in-chongqing-for-first-time-visitors/) is one of the more useful supporting pages in the cluster.
 
 ## Nights in Chongqing are best when they stay selective
+
+![Hongyadong glowing at night over the riverbank, one of Chongqing's most theatrical evening faces.](/images/heroes/chongqing-hongyadong-night.jpg)
 
 This is where many visitors get the city wrong.
 

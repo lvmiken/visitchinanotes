@@ -1,6 +1,6 @@
 ---
 title: "Zhangjiajie, The Stone Forest in the Clouds: Where Mountains Still Set the Human Scale"
-description: "A deeper Zhangjiajie guide for foreign travelers who want more than an Avatar checklist, with sandstone pillars, fog and weather drama, cable-car vertigo, Wulingyuan village rhythm, mountain labor, and a destination where the landscape still dictates the tempo of ordinary life."
+description: "Zhangjiajie is not just a famous view but a mountain system with its own weather, labor, nerves, and scale, where the landscape still dictates human tempo."
 publishDate: 2026-07-13
 updatedDate: 2026-07-13
 city: "zhangjiajie"
@@ -89,6 +89,8 @@ If you only focus on transfers and logistics, you miss the strange emotional pre
 The richer version lets Zhangjiajie feel grand, local, awkward, sublime, and physically honest all at once.
 
 ## The stone forest in the clouds
+
+![Sandstone pillars rising in Yuanjiajie, one of Zhangjiajie's most structurally improbable mountain worlds.](/images/heroes/zhangjiajie-yuanjiajie.jpg)
 
 One reason Zhangjiajie remains so persuasive is that it does not look assembled by ordinary geology.
 
@@ -193,6 +195,8 @@ The best travelers accept this. They protect one strong scenic priority, allow r
 If the weather branch is still making the route feel uncertain, [Best Time to Visit Zhangjiajie for First-Time Visitors](/guides/best-time-to-visit-zhangjiajie-for-first-time-visitors/) is the key support page.
 
 ## Tianmen is the other face of the destination
+
+![The road and cable-car drama of Tianmen Mountain, where engineered movement becomes part of Zhangjiajie's spectacle.](/images/heroes/zhangjiajie-tianmen-mountain.jpg)
 
 If the forest park is Zhangjiajie's stone imagination, [Tianmen Mountain](/places/tianmen-mountain/) is its vertical drama made public.
 

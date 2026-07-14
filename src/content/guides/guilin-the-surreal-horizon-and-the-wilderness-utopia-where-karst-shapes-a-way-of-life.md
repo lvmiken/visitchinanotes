@@ -1,6 +1,6 @@
 ---
 title: "Guilin, The Surreal Horizon and the Wilderness Utopia: Where Karst Shapes a Way of Life"
-description: "A deeper Guilin guide for foreign travelers who want more than a postcard river stop, with prehistoric karst drama, Yangshuo's global village energy, rice-noodle ritual, disappearing cormorant lore, terrace-country altitude, and the unusually wild, international calm that makes Guilin feel bigger than a scenic detour."
+description: "Beyond the postcard karsts lies a wetter, stranger world of river labor, rice-noodle ritual, drifting outsiders, and landscapes that still overpower the itinerary."
 publishDate: 2026-07-13
 updatedDate: 2026-07-13
 city: "guilin"
@@ -94,6 +94,8 @@ The richer version lets Guilin feel ancient, feral, communal, and unexpectedly g
 
 ## Carved by the tides of time
 
+![Karst peaks rising above the Li River near Guilin in a landscape that looks almost geologically impossible.](/images/heroes/guilin-li-river-karst.jpg)
+
 One reason Guilin still startles sophisticated travelers is that its landscape refuses ordinary mountain logic.
 
 ### Karst does not build a background. It builds a world
@@ -117,6 +119,8 @@ Guilin passes that test easily.
 If this core landscape branch is still the main question, [Best Things to Do in Guilin on a First Trip: The Scenic Shortlist That Actually Matters](/guides/best-things-to-do-in-guilin-for-first-time-visitors/) and [Li River Cruise or Extra Time in Yangshuo: Which Guilin Region Choice Pays Off More?](/guides/li-river-cruise-or-extra-time-in-yangshuo-for-first-time-visitors/) are the strongest supporting reads.
 
 ## The republic of the paddy fields
+
+![A slow stretch of the Yulong River near Yangshuo with bamboo, water, and karst peaks layered into one frame.](/images/heroes/yangshuo-yulong-river.jpg)
 
 The Guilin region does not only produce awe.
 

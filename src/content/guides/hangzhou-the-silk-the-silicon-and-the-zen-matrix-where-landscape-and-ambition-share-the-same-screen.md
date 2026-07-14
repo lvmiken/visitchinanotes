@@ -1,6 +1,6 @@
 ---
 title: "Hangzhou, The Silk, the Silicon, and the Zen Matrix: Where Landscape and Ambition Share the Same Screen"
-description: "A deeper Hangzhou guide for foreign travelers who want more than a scenic lake stop, with West Lake calm, Longjing tea country, temple quiet, digital ambition, design culture, old craft revival, and the strange contemporary elegance that makes Hangzhou feel like Kyoto and a tech capital at once."
+description: "Hangzhou folds West Lake calm, tea hills, temple air, design polish, and startup ambition into one of China's most persuasive visions of modern elegance."
 publishDate: 2026-07-11
 updatedDate: 2026-07-11
 city: "hangzhou"
@@ -120,6 +120,8 @@ If the digital branch is already the thing you want to understand, [Can You Visi
 
 ## West Lake still governs the city's mind
 
+![West Lake in Hangzhou under soft light, where water, trees, and built form settle into one continuous surface.](/images/heroes/hangzhou-west-lake.jpg)
+
 For all of Hangzhou's modernity, the city still thinks through landscape.
 
 ### West Lake is not only scenery. It is urban software
@@ -143,6 +145,8 @@ That is why West Lake belongs in this feature not as one famous stop, but as the
 If this core layer still needs tactical shaping, [How to Plan West Lake in Hangzhou Without Rushing](/guides/hangzhou-west-lake-planning/) and [West Lake in Hangzhou: Is It Worth More Than a Quick Loop?](/places/west-lake/) are the practical next pages.
 
 ## The path of two leaves
+
+![Tea terraces and village slopes in Longjing outside Hangzhou, where the city's slower second register begins.](/images/heroes/hangzhou-longjing-village.jpg)
 
 To understand Hangzhou properly, you eventually have to leave the lakefront performance and head toward tea country.
 

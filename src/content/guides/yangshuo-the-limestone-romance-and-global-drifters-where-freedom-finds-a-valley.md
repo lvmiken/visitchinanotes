@@ -1,6 +1,6 @@
 ---
 title: "Yangshuo, The Limestone Romance and Global Drifters: Where Freedom Finds a Valley"
-description: "A deeper Yangshuo guide for foreign travelers who want more than a Guilin extension, with Yulong River slowness, Moon Hill climbing culture, West Street's rough-edged cosmopolitanism, Impression Liu Sanjie spectacle, village work rhythms, and the unusually free, humid, international calm that makes Yangshuo feel like a world unto itself."
+description: "Yangshuo still carries the loose, international energy of a backpacker myth, but its real seduction lies in river slowness, limestone walls, and village-scale freedom."
 publishDate: 2026-07-13
 updatedDate: 2026-07-13
 city: "yangshuo"
@@ -90,6 +90,8 @@ The richer version lets Yangshuo feel humid, flirtatious, athletic, and oddly li
 
 ## The 5 km/h eternity
 
+![A slow bamboo-raft landscape on the Yulong River, where Yangshuo's softened version of time begins.](/images/heroes/yangshuo-yulong-river.jpg)
+
 One reason Yangshuo remains unforgettable is that it understands slowness as an experience, not a lack of options.
 
 ### Yulong River is less a sight than a recalibration device
@@ -111,6 +113,8 @@ It seduces through repetition.
 If this branch is already the heart of your trip, [Yulong River Rafting in Yangshuo: When the Easy Scenic Half-Day Is Worth It](/guides/yulong-river-rafting-in-yangshuo-when-the-easy-scenic-half-day-is-worth-it/) and [Yulong River or Xingping: Which Yangshuo Side Trip Deserves the Better Weather Window?](/guides/yulong-river-or-xingping-which-yangshuo-side-trip-deserves-the-better-weather-window/) are the best supporting reads.
 
 ## Vertigo and chalk
+
+![Moon Hill in Yangshuo, one of the valley's most recognizable climbing and limestone landmarks.](/images/heroes/yangshuo-moon-hill.jpg)
 
 Yangshuo also contains one of the most durable outdoor subcultures in scenic China.
 

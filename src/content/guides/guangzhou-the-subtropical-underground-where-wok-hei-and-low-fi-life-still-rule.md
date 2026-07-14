@@ -1,6 +1,6 @@
 ---
 title: "Guangzhou, The Subtropical Underground: Where Wok Hei and Low-Fi Life Still Rule"
-description: "A deeper Guangzhou guide for foreign travelers who want more than Canton Fair shorthand, with urban-village survival logic, Dongshankou style, Xiaobei's grassroots cosmopolitanism, Pearl River night energy, and the food-first practicality that makes Guangzhou feel freer than its official image."
+description: "Guangzhou runs on wok hei, trade instinct, village density, and a cosmopolitan street life so untheatrical it can feel freer than the city's official image."
 publishDate: 2026-07-10
 updatedDate: 2026-07-10
 city: "guangzhou"
@@ -107,6 +107,8 @@ The Cantonese phrase `mou man tai` means `no problem`, but in Guangzhou it can a
 
 ## The low-fi city: why Guangzhou's underground life grows from ordinary survival
 
+![Restored arcades and street life at Yongqing Fang in Guangzhou, where old fabric and new commerce share the same lane.](/images/heroes/guangzhou-yongqing-fang.jpg)
+
 Many cities hide their creative life inside polished cultural zones.
 
 Guangzhou often grows it out of ordinary density.
@@ -206,6 +208,8 @@ Execution itself.
 This matters for travelers accustomed to evaluating restaurants through design language. Guangzhou can absolutely do polished dining, but many of the meals that best explain the city happen in spaces where utility outranks mood. Plastic stools, tile walls, old fluorescent lighting, wet floors, queue systems that feel almost administrative: these are not always defects here. They are part of the city's refusal to confuse presentation with substance.
 
 ## The Pearl River does not soften Guangzhou. It completes it
+
+![Canton Tower lit above the Pearl River at night, with Guangzhou's humid skyline stretching behind it.](/images/heroes/guangzhou-canton-tower-night.jpg)
 
 It would be easy to assume Guangzhou's riverfront is the elegant layer added on top of a practical city.
 

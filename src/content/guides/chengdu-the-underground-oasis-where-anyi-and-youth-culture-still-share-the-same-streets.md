@@ -1,6 +1,6 @@
 ---
 title: "Chengdu, The Underground Oasis: Where Anyi and Youth Culture Still Share the Same Streets"
-description: "A deeper Chengdu guide for foreign travelers who want more than pandas and old streets, with tea-house rhythms, Yulin street life, queer-friendly ease, underground music, youth style, and practical advice on how to use the city well."
+description: "Chengdu reveals itself in tea steam, queer ease, Yulin side streets, and the soft confidence of a city that lets youth culture sink into ordinary life."
 publishDate: 2026-07-10
 updatedDate: 2026-07-10
 city: "chengdu"
@@ -113,6 +113,8 @@ That is why a traveler who spends one careful half-day in local Chengdu can come
 
 ## Slow does not mean sleepy
 
+![Tea drinkers gathered inside the timeworn Pengzhen Old Teahouse near Chengdu.](/images/heroes/chengdu-pengzhen-old-teahouse.jpg)
+
 One of Chengdu's great misunderstandings is that its slowness must mean a lack of energy.
 
 In fact, the city is often vibrant precisely because it is less obsessed with visible strain.
@@ -142,6 +144,8 @@ The city often reveals itself in:
 That sequence helps explain the city's emotional logic better than another generic "best things to do" roundup ever could. If that sounds like your entry point, [How to Plan a Chengdu Breakfast and Tea Half Day for First-Time Visitors](/guides/how-to-plan-a-chengdu-breakfast-and-tea-half-day-for-first-time-visitors/) and [What to Eat in Chengdu for First-Time Visitors](/guides/what-to-eat-in-chengdu-for-first-time-visitors/) belong beside this feature.
 
 ## Yulin is one of the clearest windows into contemporary Chengdu
+
+![Street-level evening life in Chengdu's Yulin district, where cafes, bars, and ordinary neighborhood rhythms overlap.](/images/heroes/chengdu-yulin.jpg)
 
 If one neighborhood helps foreign readers understand why younger people fall for Chengdu, it is usually **Yulin**.
 

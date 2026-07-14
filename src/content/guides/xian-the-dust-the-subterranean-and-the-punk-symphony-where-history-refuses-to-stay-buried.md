@@ -1,6 +1,6 @@
 ---
 title: "Xi'an, The Dust, the Subterranean, and the Punk Symphony: Where History Refuses to Stay Buried"
-description: "A deeper Xi'an guide for foreign travelers who want more than Terracotta Army headlines, with city-wall gravity, old-city food rituals, underground archaeology, Tang-themed night spectacle, and the rough-edged contemporary life that keeps the ancient capital feeling startlingly alive."
+description: "Xi'an lives above its dead with unusual ease: city walls, noodle rituals, excavation sites, Tang spectacle, and a rough modern wit that keeps history from going solemn."
 publishDate: 2026-07-10
 updatedDate: 2026-07-10
 city: "xian"
@@ -96,6 +96,8 @@ Local character is often described through a phrase like `sheng leng ying jue` -
 
 ## The wall is not scenery. It is an instrument
 
+![Xi'an's City Wall and gate towers holding the line between the old city and the modern skyline beyond.](/images/heroes/xian-city-wall.jpg)
+
 Many travelers treat the [Xi'an City Wall](/places/xian-city-wall/) as one more old monument.
 
 That is too small a reading.
@@ -152,6 +154,8 @@ But the deeper city is broader than that. Xi'an food feels strongest when one li
 This is the difference between visiting Xi'an and actually entering it.
 
 ## Digging Up Eternity: the city's underground life is not metaphorical
+
+![Rows of Terracotta Warriors inside the excavation hall near Xi'an, where the city's underground history turns materially visible.](/images/heroes/xian-terracotta-army.jpg)
 
 Many historic cities talk about layers.
 

@@ -1,6 +1,6 @@
 ---
 title: "Harbin, Frost, Facades, and the Long Northern Night: Where Winter Becomes a Way of Life"
-description: "A deeper Harbin guide for foreign travelers who want more than an ice-festival detour, with Central Street's northern architecture, the discipline of staying warm, Russian-inflected food, the strange calm of deep cold, and a city whose character only fully appears after dark and below freezing."
+description: "Harbin only fully makes sense in the cold: frost on facades, Russian traces on the table, long blue evenings, and the discipline by which winter becomes local character."
 publishDate: 2026-07-13
 updatedDate: 2026-07-13
 city: "harbin"
@@ -105,6 +105,8 @@ That is why Harbin often feels weaker in abstract discussion than in direct expe
 
 ## The facades remember another map
 
+![Saint Sophia Cathedral in Harbin, one of the clearest architectural traces of the city's northern cosmopolitan past.](/images/heroes/harbin-saint-sophia-cathedral.jpg)
+
 Harbin is one of the Chinese cities where architecture still changes the mood before it changes the itinerary.
 
 ### Central Street works because it is more than decoration
@@ -150,6 +152,8 @@ That is why Harbin meals can feel so anchoring. They are not flashy. They are he
 If food is your route into the city, keep [What to Eat in Harbin for First-Time Visitors](/guides/what-to-eat-in-harbin-for-first-time-visitors/) and [Where to Eat in Harbin for First-Time Visitors](/guides/where-to-eat-in-harbin-for-first-time-visitors/) nearby.
 
 ## The long northern night
+
+![Ice architecture glowing in winter darkness at Harbin's great seasonal spectacle.](/images/heroes/harbin-ice-festival.jpg)
 
 Many cities try to extend the evening.
 

@@ -1,6 +1,6 @@
 ---
 title: "Shanghai, The Liquid City: Where Haipai Life Still Feels Most Alive"
-description: "A deeper Shanghai guide for foreign travelers who want more than skyline views, with Haipai culture, longtang life, coffee and bistro rituals, Suzhou Creek art spaces, and practical advice for experiencing the city well."
+description: "Shanghai is richest where polish gives way to texture: longtang domesticity, cafe rituals, riverfront art, and the steady reinvention of Haipai urban life."
 publishDate: 2026-07-10
 updatedDate: 2026-07-10
 city: "shanghai"
@@ -106,6 +106,8 @@ That is why a city block can contain:
 Shanghai often looks polished, but what makes it interesting is not polish alone. It is **coexistence**.
 
 ## The Shanghai of architecture, style, and street-level ease
+
+![A tree-lined street in Shanghai's French Concession, where historical facades and present-day city life remain tightly interwoven.](/images/heroes/shanghai-french-concession.jpg)
 
 For many high-aesthetic travelers, the real Shanghai begins once they leave the most obvious viewpoint circuit and start using the city at neighborhood scale.
 
@@ -214,6 +216,8 @@ This is where old warehouses, industrial remnants, river movement, architecture,
 If you want that practical route, [How to Do Suzhou Creek Without Turning It Into Another Long River Walk](/guides/how-to-do-suzhou-creek-without-turning-it-into-another-long-river-walk/) is the strongest next page.
 
 ## The Shanghai of art, reuse, and industrial afterlife
+
+![Industrial brick buildings and creative reuse inside Shanghai's M50 art district.](/images/heroes/shanghai-m50-creative-park.jpg)
 
 One of the city's most interesting stories is how it keeps rewriting its built fabric.
 
@@ -357,4 +361,3 @@ That is why Shanghai works so well for deep travelers.
 Not because it is simple.
 
 But because it knows how to keep moving without losing its accent.
-

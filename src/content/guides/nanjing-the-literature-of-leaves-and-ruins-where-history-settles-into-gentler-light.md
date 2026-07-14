@@ -1,6 +1,6 @@
 ---
 title: "Nanjing, The Literature of Leaves and Ruins: Where History Settles Into Gentler Light"
-description: "A deeper Nanjing guide for foreign travelers who want more than a solemn history stop, with republican-era streets, plane-tree calm, bookstore culture, duck rituals, Qinhuai evenings, Xuanwu Lake breathing room, and the unusually gentle civic temperament that makes the city feel quietly unforgettable."
+description: "Nanjing is carried by plane trees, old grief, bookstore light, duck-shop pragmatism, and a civic gentleness that softens one of China's heaviest historical cities."
 publishDate: 2026-07-11
 updatedDate: 2026-07-11
 city: "nanjing"
@@ -102,6 +102,8 @@ This is one of Nanjing's deepest strengths.
 
 ## Shadow of the Republic: history softened by trees
 
+![The Presidential Palace in Nanjing, a key republican-era landmark framed by the city's calmer historical light.](/images/heroes/nanjing-presidential-palace.jpg)
+
 For many aesthetically minded travelers, the emotional center of Nanjing is not a single monument. It is the tree canopy.
 
 ### The republican layer works because it stayed habitable
@@ -201,6 +203,8 @@ Pairing Qinhuai with [Laomendong](/places/laomendong/) often works. Overbuilding
 If this is the branch you are shaping, [One Good Nanjing Night: Qinhuai, Laomendong, and When Not to Overbuild It](/guides/one-good-nanjing-night-qinhuai-laomendong-and-when-not-to-overbuild-it/), [Laomendong or Confucius Temple: Where Should Your Nanjing Evening Begin?](/guides/laomendong-or-confucius-temple-where-should-your-nanjing-evening-begin/), and [What to Do in Nanjing at Night for First-Time Visitors](/guides/what-to-do-in-nanjing-at-night-for-first-time-visitors/) are the best supporting reads.
 
 ## The city needs air as much as history
+
+![Xuanwu Lake beside Nanjing's urban edge, where water and open space relieve the city's historical weight.](/images/heroes/nanjing-xuanwu-lake.jpg)
 
 One reason Nanjing feels more emotionally complete than some historical cities is that it knows when not to press.
 
