@@ -1,0 +1,52 @@
+{
+  "name": "Haikou",
+  "country": "China",
+  "intro": "Haikou suits travelers who want Hainan to feel like more than a resort handoff, especially when the route needs one old-port city layer, one gentler arrival, or a broader north-to-south island rhythm.",
+  "seoTitle": "Haikou Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Haikou with practical advice on whether the city deserves a real stop, how long to stay, and when north Hainan improves the island route.",
+  "idealFor": ["broader Hainan routes", "old-city texture", "north-to-south island pacing"],
+  "suggestedStay": "1 to 2 days",
+  "tripPace": "Best when the stay stays compact and purposeful: one old-city block, one food-or-evening layer, and a clear reason for not going straight south.",
+  "pairWith": ["Sanya", "Wanning", "Guangzhou"],
+  "bestMonths": ["November", "December", "January", "February", "March"],
+  "highlights": [
+    "A stronger answer than many travelers expect when the island needs city texture, humidity, trade memory, and a slower north-Hainan opening.",
+    "Works best when Qilou, food, and old-port atmosphere are read as a real chapter rather than as filler before Sanya.",
+    "Usually earns its place through mood and route logic, not through a blockbuster attraction count."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Be honest about whether Haikou is a real stop",
+      "description": "If the trip only wants beach recovery, Haikou can become extra movement. If the island should feel broader, it can be exactly the right opening note."
+    },
+    {
+      "title": "Build around Qilou and city texture, not headline attraction fantasy",
+      "description": "Haikou is strongest as atmosphere, food, arcade streets, and a different pace from the south coast."
+    },
+    {
+      "title": "Use Haikou to improve rhythm, not just airport convenience",
+      "description": "The city works when it reduces exhaustion or adds character, not when it exists only because the flight happened to land there."
+    }
+  ],
+  "transportNote": "Haikou becomes much easier once you decide whether the city is only the island's arrival point or a real north-Hainan chapter before moving south.",
+  "homepageGroups": ["south-east-add-ons"],
+  "heroImage": "/images/heroes/haikou-qilou-old-street.jpg",
+  "heroImageAlt": "Historic arcaded street architecture in Haikou's Qilou district under bright subtropical daylight.",
+  "heroImageAttributionName": "rheins",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:%E6%B5%B7%E5%8F%A3%E9%AA%91%E6%A5%BC%E8%80%81%E8%A1%97_-_Haikou_Arcaded_Streets_-_2016.01_-_panoramio_(1).jpg",
+  "heroImageLicense": "CC BY 3.0",
+  "featuredGuideSlugs": [
+    "haikou-arcade-shadows-and-port-heat-where-hainan-still-feels-like-a-city",
+    "haikou-first-time-guide"
+  ],
+  "featuredTopicSlugs": [
+    "hainan-for-first-time-visitors",
+    "sanya-haikou-or-wanning-which-hainan-base-fits-your-trip",
+    "sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense",
+    "qilou-old-street-in-haikou-real-stop-or-just-arrival-filler",
+    "haikou-with-kids-is-a-north-hainan-family-stop-worth-it",
+    "after-landing-in-haikou-with-kids-should-you-stay-the-night-or-go-straight-to-sanya",
+    "mission-hills-haikou-real-stop-for-non-golf-travelers-or-easy-to-skip"
+  ],
+  "featuredPlaceSlugs": []
+}

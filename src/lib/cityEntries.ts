@@ -1,6 +1,8 @@
 import type { CollectionEntry } from "astro:content";
 
 type CityEntry = CollectionEntry<"cities">;
+const editorialCityOrder = ["sanya", "haikou"] as const;
+const editorialCityPriority = new Map(editorialCityOrder.map((slug, index) => [slug, index]));
 
 export function getCitySlug(city: CityEntry) {
   return city.id;
@@ -30,5 +32,20 @@ export function uniqueCityEntries(cities: Array<CityEntry | undefined>) {
 
     seen.add(getCitySlug(city));
     return true;
+  });
+}
+
+export function sortCitiesForEditorialDisplay(cities: CityEntry[]) {
+  const originalIndex = new Map(cities.map((city, index) => [getCitySlug(city), index]));
+
+  return [...cities].sort((left, right) => {
+    const leftPriority = editorialCityPriority.get(getCitySlug(left)) ?? Number.MAX_SAFE_INTEGER;
+    const rightPriority = editorialCityPriority.get(getCitySlug(right)) ?? Number.MAX_SAFE_INTEGER;
+
+    if (leftPriority !== rightPriority) {
+      return leftPriority - rightPriority;
+    }
+
+    return (originalIndex.get(getCitySlug(left)) ?? 0) - (originalIndex.get(getCitySlug(right)) ?? 0);
   });
 }

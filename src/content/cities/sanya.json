@@ -1,0 +1,52 @@
+{
+  "name": "Sanya",
+  "country": "China",
+  "intro": "Sanya suits travelers who want a softer tropical chapter inside a wider China trip, especially when the real goal is sea air, resort ease, and a cleaner south-coast reset rather than a complicated island sweep.",
+  "seoTitle": "Sanya Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Sanya with practical advice on stay length, district fit, airport logic, and when Hainan works best from the south coast.",
+  "idealFor": ["beach-and-resort chapters", "warmer route finishes", "tropical add-ons to mainland city trips"],
+  "suggestedStay": "3 to 5 days",
+  "tripPace": "Best when the stay stays edited: one main beach base, one or two selective activity days, and enough room for the city to feel like recovery instead of another checklist.",
+  "pairWith": ["Haikou", "Wanning", "Guangzhou"],
+  "bestMonths": ["November", "December", "January", "February", "March", "April"],
+  "highlights": [
+    "One of the clearest ways to add sea, warmth, and a less stressful rhythm to a first China trip without leaving the country.",
+    "Strongest when travelers understand Sanya as China's managed tropical leisure capital rather than as a loose Southeast Asia-style beach town.",
+    "Usually works best as a south-coast base with selective outings, not as a place that needs every Hainan sub-region folded into the same stay."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Sanya is the whole Hainan answer",
+      "description": "For many first-time visitors, it is. Do not add Haikou or Wanning unless they are solving a real route problem or mood shift."
+    },
+    {
+      "title": "Choose the right bay before choosing the hotel",
+      "description": "In Sanya, the zone changes the whole trip rhythm. Yalong Bay, Haitang Bay, and Dadonghai do not behave like interchangeable beachfronts."
+    },
+    {
+      "title": "Protect ease over attraction count",
+      "description": "Sanya becomes much more convincing when the stay leaves room for weather, beach time, and one slower unstructured day."
+    }
+  ],
+  "transportNote": "Sanya works best when airport choice, hotel bay, and any Atlantis or island-day decisions are settled early enough that the rest of the stay can remain simple.",
+  "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "heroImage": "/images/heroes/sanya-bay.jpg",
+  "heroImageAlt": "Sanya Bay under clear light with curving shoreline, palms, and high-rise resort buildings behind the beach.",
+  "heroImageAttributionName": "Huangdan2060",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:Sanya_Bay_21.JPG",
+  "heroImageLicense": "CC BY 3.0",
+  "featuredGuideSlugs": [
+    "sanya-salt-air-and-the-managed-tropics-where-china-goes-to-practice-leisure",
+    "sanya-first-time-guide"
+  ],
+  "featuredTopicSlugs": [
+    "hainan-for-first-time-visitors",
+    "sanya-haikou-or-wanning-which-hainan-base-fits-your-trip",
+    "sanya-phoenix-or-haikou-meilan-which-hainan-arrival-makes-more-sense",
+    "yalong-bay-haitang-bay-or-dadonghai-where-to-base-a-first-sanya-stay",
+    "atlantis-sanya-without-staying-there-real-day-out-or-hotel-hype",
+    "can-you-do-hainan-duty-free-shopping-without-warping-the-trip",
+    "wuzhizhou-island-diving-in-sanya-worth-the-boat-ride-or-too-packaged"
+  ],
+  "featuredPlaceSlugs": []
+}

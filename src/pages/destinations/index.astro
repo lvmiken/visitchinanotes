@@ -3,12 +3,13 @@ import { getCollection } from "astro:content";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import CityCard from "../../components/CityCard.astro";
 import { destinationGroups } from "../../lib/destinationGroups";
+import { sortCitiesForEditorialDisplay } from "../../lib/cityEntries";
 
 const cities = await getCollection("cities");
 const groupedCities = destinationGroups
   .map((group) => ({
     ...group,
-    cities: cities.filter((city) => city.data.homepageGroups.includes(group.id)),
+    cities: sortCitiesForEditorialDisplay(cities.filter((city) => city.data.homepageGroups.includes(group.id))),
   }))
   .filter((group) => group.cities.length > 0);
 

@@ -10,6 +10,7 @@ import AuthorCard from "../components/AuthorCard.astro";
 import { destinationGroups } from "../lib/destinationGroups";
 import { topicClusters } from "../lib/topicClusters";
 import { getAuthorSlug } from "../lib/authors";
+import { sortCitiesForEditorialDisplay, uniqueCityEntries } from "../lib/cityEntries";
 
 const cities = await getCollection("cities");
 const authors = await getCollection("authors");
@@ -165,7 +166,7 @@ const editorialFeatures = editorialFeatureConfigs
 const groupedCities = destinationGroups
   .map((group) => ({
     ...group,
-    cities: cities.filter((city) => city.data.homepageGroups.includes(group.id)),
+    cities: sortCitiesForEditorialDisplay(cities.filter((city) => city.data.homepageGroups.includes(group.id))),
   }))
   .filter((group) => group.cities.length > 0);
 
@@ -184,10 +185,11 @@ const planningSteps = [
   },
 ];
 
-const spotlightCities = destinationGroups
-  .map((group) => cities.find((city) => city.data.homepageGroups.includes(group.id)))
-  .filter(Boolean)
-  .slice(0, 3);
+const spotlightCities = uniqueCityEntries(
+  destinationGroups.map((group) =>
+    sortCitiesForEditorialDisplay(cities.filter((city) => city.data.homepageGroups.includes(group.id)))[0],
+  ),
+).slice(0, 3);
 const featuredPlaceSlugs = [
   "forbidden-city",
   "mutianyu-great-wall",
