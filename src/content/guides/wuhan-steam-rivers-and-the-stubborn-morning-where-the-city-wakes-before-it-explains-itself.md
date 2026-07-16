@@ -2,7 +2,7 @@
 title: "Wuhan, Steam, Rivers, and the Stubborn Morning: Where the City Wakes Before It Explains Itself"
 description: "Wuhan starts in steam and appetite, then opens into rivers, bridges, campuses, blunt talk, and the stubborn everyday force of a city that rarely flatters itself."
 publishDate: 2026-07-14
-updatedDate: 2026-07-14
+updatedDate: 2026-07-16
 city: "wuhan"
 guideStage: "choose-destination"
 tripLength: "2 to 3 days"
@@ -22,6 +22,8 @@ tags:
   - "Wuhan"
   - "Magazine feature"
   - "City culture"
+heroImage: "/images/heroes/wuhan-east-lake.jpg"
+heroImageAlt: "East Lake in Wuhan under a wide blue sky with tree-lined shores and layered city distance."
 author: "Wuhan Editorial Desk"
 faq:
   - question: "Is Wuhan only worth visiting for breakfast culture?"
