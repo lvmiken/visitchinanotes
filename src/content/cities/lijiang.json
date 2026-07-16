@@ -1,0 +1,49 @@
+{
+  "name": "Lijiang",
+  "country": "China",
+  "intro": "Lijiang suits travelers who want Yunnan to open with beauty, softness, and a little altitude without immediately becoming severe, especially when the real goal is to enter the highlands through water, wood, sunlight, and slower breathing rather than through pure difficulty.",
+  "seoTitle": "Lijiang Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Lijiang with practical advice on route fit, stay length, old-town pacing, and when Yunnan works best by beginning in the softer highlands.",
+  "idealFor": ["Yunnan opening bases", "old-town and mountain contrasts", "travelers easing into the highlands"],
+  "suggestedStay": "2 to 4 days",
+  "tripPace": "Best when the stay stays edited: one old-town rhythm, one mountain-or-view day, and enough slack for altitude, weather, and the simple act of letting Yunnan arrive slowly.",
+  "pairWith": ["Shangri-La", "Dali", "Chengdu"],
+  "bestMonths": ["March", "April", "May", "June", "September", "October", "November"],
+  "highlights": [
+    "One of the clearest ways to enter Yunnan without making the highlands feel punishing from the first night.",
+    "Strongest when travelers understand Lijiang as a threshold city: beautiful, commercial, theatrical, but still genuinely useful as the first breath before the route rises higher.",
+    "Usually works best when old-town texture, mountain light, and route pacing matter more than chasing a full checklist of scenic side trips."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Lijiang is the opening or the destination",
+      "description": "Lijiang can work as a full stay, but for many first-time visitors it is most persuasive as the gentler first chapter in a wider Yunnan branch."
+    },
+    {
+      "title": "Protect softness before adding altitude pressure",
+      "description": "The city usually improves once travelers let the old town, mountain views, and slower first day do their work before pushing deeper into the highlands."
+    },
+    {
+      "title": "Choose one strong mountain branch, not all of them",
+      "description": "Jade Dragon Snow Mountain and the wider plateau scenery can easily turn the stay into a transport puzzle if the route stops editing itself."
+    }
+  ],
+  "transportNote": "Lijiang works best once the Yunnan branch is honest about what comes next, because its airport, train links, and altitude all make more sense when the city is treated as a real opening base rather than just a decorative overnight.",
+  "homepageGroups": ["north-inland-routes", "scenic-escapes"],
+  "heroImage": "/images/heroes/lijiang-old-town.jpg",
+  "heroImageAlt": "The tightly layered tiled rooftops of Lijiang Old Town spreading across the basin under clear plateau light.",
+  "featuredGuideSlugs": [
+    "lijiang-thin-air-and-slow-water-where-yunnans-highlands-begin-by-seducing-you",
+    "lijiang-first-time-guide"
+  ],
+  "featuredTopicSlugs": [
+    "tiger-leaping-gorge-or-shangri-la-first",
+    "should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude",
+    "a-calmer-4-to-5-day-lijiang-and-shangri-la-route-without-tiger-leaping-gorge",
+    "a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la",
+    "shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better",
+    "is-tiger-leaping-gorge-better-as-a-day-trip-from-lijiang-or-an-overnight-stop",
+    "how-to-get-from-lijiang-to-shangri-la-train-or-car-for-first-time-travelers"
+  ],
+  "featuredPlaceSlugs": []
+}

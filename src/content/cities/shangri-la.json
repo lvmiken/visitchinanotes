@@ -1,0 +1,52 @@
+{
+  "name": "Shangri-La",
+  "country": "China",
+  "intro": "Shangri-La suits travelers who want Yunnan to climb out of beauty and into atmosphere, especially when the real goal is highland stillness, Tibetan cultural texture, and a colder, thinner, quieter finish than Lijiang can provide.",
+  "seoTitle": "Shangri-La Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Shangri-La with practical advice on altitude, route fit, stay length, and when Yunnan deserves a higher and calmer finish.",
+  "idealFor": ["higher-altitude Yunnan branches", "Tibetan cultural texture", "travelers who want the route to end in a quieter key"],
+  "suggestedStay": "2 to 3 days",
+  "tripPace": "Best when the stay stays deliberate: one slower arrival, one real town-or-monastery day, and enough oxygen, sunlight, and stillness for the plateau to arrive properly.",
+  "pairWith": ["Lijiang", "Tiger Leaping Gorge", "Chengdu"],
+  "bestMonths": ["May", "June", "September", "October"],
+  "highlights": [
+    "One of the clearest ways to let a Yunnan route rise from scenic pleasure into a more austere and memorable highland mood.",
+    "Strongest when travelers understand Shangri-La as a destination of sky, dryness, prayer flags, monastery scale, and slower breathing rather than as just another old town.",
+    "Usually works best when the route has enough room to respect altitude and let the town finish the branch instead of merely surviving as a checkbox."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Be honest about whether the altitude is part of the dream",
+      "description": "Shangri-La works best when travelers actually want the highland finish and are not only attracted to the name."
+    },
+    {
+      "title": "Protect the first afternoon and first night",
+      "description": "A rushed arrival weakens the whole stay. The town usually persuades through air, light, and tempo, not through immediate overachievement."
+    },
+    {
+      "title": "Let one monastery-or-town layer carry the day",
+      "description": "Songzanlin, Dukezong, and the wider plateau can become thinner rather than richer if the stay keeps trying to prove too much."
+    }
+  ],
+  "transportNote": "Shangri-La works best once the Yunnan branch is honest about altitude, because train and road choices matter less than whether the arrival leaves the town enough energy to feel like a destination rather than a test.",
+  "homepageGroups": ["north-inland-routes", "scenic-escapes"],
+  "heroImage": "/images/heroes/shangri-la-old-town.jpg",
+  "heroImageAlt": "Dukezong Old Town in Shangri-La after rain, with warm wooden facades and reflections on the stone square at night.",
+  "heroImageAttributionName": "Rod Waddington",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:Old_Town,_Shangri-la.jpg",
+  "heroImageLicense": "CC BY-SA 2.0",
+  "featuredGuideSlugs": [
+    "shangri-la-prayer-smoke-and-thin-light-where-yunnan-learns-to-go-quiet",
+    "shangri-la-first-time-guide"
+  ],
+  "featuredTopicSlugs": [
+    "tiger-leaping-gorge-or-shangri-la-first",
+    "should-you-start-in-lijiang-before-shangri-la-to-adjust-to-altitude",
+    "how-to-get-from-lijiang-to-shangri-la-train-or-car-for-first-time-travelers",
+    "if-you-only-have-5-days-in-yunnan-should-you-keep-shangri-la",
+    "a-calmer-4-to-5-day-lijiang-and-shangri-la-route-without-tiger-leaping-gorge",
+    "a-cooler-5-to-7-day-yunnan-route-for-june-lijiang-tiger-leaping-gorge-and-shangri-la",
+    "shangri-la-or-lijiang-in-june-where-a-summer-yunnan-trip-feels-better"
+  ],
+  "featuredPlaceSlugs": []
+}

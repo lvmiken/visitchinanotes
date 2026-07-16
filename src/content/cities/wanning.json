@@ -1,0 +1,52 @@
+{
+  "name": "Wanning",
+  "country": "China",
+  "intro": "Wanning suits travelers who want Hainan to loosen up a little, especially when the real goal is not resort polish but an east-coast chapter built around surf, sea wind, coffee stops, and a less managed beach rhythm.",
+  "seoTitle": "Wanning Travel Guide for First-Time Visitors",
+  "seoDescription": "Plan a first trip to Wanning with practical advice on route fit, stay length, surf-led pacing, and when Hainan works better from the east coast.",
+  "idealFor": ["surf-and-coast chapters", "looser Hainan pacing", "travelers who want beach time without a full resort script"],
+  "suggestedStay": "2 to 4 days",
+  "tripPace": "Best when the stay stays focused: one real coast identity, one surf or sea day, and enough slack for weather, scooters, coffee, and an east-Hainan rhythm that does not like being over-scheduled.",
+  "pairWith": ["Sanya", "Haikou", "Guangzhou"],
+  "bestMonths": ["November", "December", "January", "February", "March", "April"],
+  "highlights": [
+    "One of the clearest ways to experience Hainan as a coast with its own subculture rather than as a chain of resort compounds.",
+    "Strongest when travelers understand Wanning as an east-coast mood built around Riyue Bay, slower beach time, and a more selective social scene.",
+    "Usually works best when surfing, sea weather, or a looser coastal identity is one of the real reasons for the island chapter."
+  ],
+  "planningPriorities": [
+    {
+      "title": "Decide whether Wanning is a real route identity",
+      "description": "Wanning works best when it is solving a real mood or activity question, not when it is added because it sounds cooler than Sanya."
+    },
+    {
+      "title": "Protect the east-coast rhythm",
+      "description": "Riyue Bay, Shimei Bay, and the wider Wanning stay reward time, weather flexibility, and lighter plans more than attraction stacking."
+    },
+    {
+      "title": "Let surf decide the schedule honestly",
+      "description": "If surfing is decorative, Wanning may not need a stay. If surfing is one of the trip's ambitions, the city starts making much more sense."
+    }
+  ],
+  "transportNote": "Wanning works best once the Hainan arrival logic and the Sanya-versus-Wanning decision are settled early enough that the east coast can stay simple instead of becoming a transfer puzzle.",
+  "homepageGroups": ["south-east-add-ons", "scenic-escapes"],
+  "heroImage": "/images/heroes/wanning-riyue-bay.jpg",
+  "heroImageAlt": "Riyue Bay in Wanning with a long crescent shoreline, layered green hills, and South China Sea surf under clear light.",
+  "heroImageAttributionName": "Zhangmoon618",
+  "heroImageAttributionUrl": "https://commons.wikimedia.org/wiki/File:Riyue_Bay_in_Wanning.jpg",
+  "heroImageLicense": "CC BY-SA 3.0",
+  "featuredGuideSlugs": [
+    "wanning-surf-lines-and-coconut-shade-where-hainans-east-coast-keeps-its-own-time",
+    "wanning-first-time-guide"
+  ],
+  "featuredTopicSlugs": [
+    "hainan-for-first-time-visitors",
+    "sanya-haikou-or-wanning-which-hainan-base-fits-your-trip",
+    "sanya-or-wanning-which-hainan-coast-fits-better-if-you-want-resorts-surfing-or-a-looser-beach-scene",
+    "riyue-bay-in-wanning-what-a-first-surf-lesson-actually-feels-like",
+    "should-you-split-hainan-between-sanya-and-wanning-or-keep-one-base",
+    "can-foreigners-rent-a-scooter-in-sanya-or-wanning",
+    "cycling-around-hainan-full-loop-or-a-shorter-coastal-slice"
+  ],
+  "featuredPlaceSlugs": []
+}
